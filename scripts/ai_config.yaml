@@ -1,0 +1,112 @@
+# =============================================================================
+# AI 流水線設定檔
+# =============================================================================
+#
+# 四個 AI 階段（選題、合成、翻譯、出題）可以各自獨立指定 provider 與 model。
+# 每個階段也可以設定 fallback：當主要 provider 失敗或產出不通過驗證時自動改用。
+#
+# provider 可選：ollama | claude | gemini | openrouter
+#
+# 改完這個檔案不需重啟任何服務，下次跑 ai_pipeline.py 就會自動讀新設定。
+# =============================================================================
+
+ai_pipeline:
+
+  # 1. 選題：從候選新聞挑出今天要做的 4-5 個主題
+  #    Qwen3 對這個任務已經夠用，建議全本地。
+  #    注意：max_tokens 抓 4000 是因為 Gemini 輸出 JSON 會帶很多空白縮排。
+  topic_selection:
+    provider: ollama
+    model: qwen3.6:35b-a3b
+    temperature: 0.3
+    max_tokens: 4000
+    fallback:
+      provider: gemini
+      model: gemini-2.5-flash
+
+  # 2. 文章合成：把 3-5 篇來源綜合成 600-1000 字英文新聞
+  #    這個階段最吃英文寫作品質，Qwen3 偶爾會輸出生硬。
+  #    若想直接用 Gemini Flash（免費、品質高、快），把 provider 改成 gemini 即可。
+  article_synthesis:
+    provider: ollama
+    model: qwen3.6:35b-a3b
+    temperature: 0.4
+    max_tokens: 6000
+    fallback:
+      provider: gemini
+      model: gemini-2.5-flash
+
+  # 3. 翻譯：英文段落 → 繁體中文段落（段對段）
+  #    Qwen3 中文能力很強，這個階段通常不用換。
+  translation:
+    provider: ollama
+    model: qwen3.6:35b-a3b
+    temperature: 0.2
+    max_tokens: 6000
+    fallback:
+      provider: gemini
+      model: gemini-2.5-flash
+
+  # 4. 出題：4 題選擇題（detail / inference / vocabulary / main_idea）+ 中文解析
+  #    這個階段對「設計合理錯誤選項」的能力要求高，Qwen3 表現中等。
+  quiz_generation:
+    provider: ollama
+    model: qwen3.6:35b-a3b
+    temperature: 0.5
+    max_tokens: 4000
+    fallback:
+      provider: gemini
+      model: gemini-2.5-flash
+
+  # 5. 易誤解詞彙：從「已合成的英文文章」（不含原始來源）挑 3-5 個易誤讀詞
+  #    為什麼獨立成階段：合成階段同時處理時，AI 容易把詞彙引用句寫成原始來源
+  #    句子，而非簡化後的文章內容。獨立階段只看簡化文章，不會誤引。
+  key_terms_extraction:
+    provider: ollama
+    model: qwen3.6:35b-a3b
+    temperature: 0.3
+    max_tokens: 3000
+    fallback:
+      provider: gemini
+      model: gemini-2.5-flash
+
+# =============================================================================
+# 全域設定
+# =============================================================================
+global:
+  # JSON 解析失敗最多重試幾次（同一 provider 內部）
+  json_retry_max: 3
+
+  # 某階段失敗時，整批文章的其他文章是否繼續處理
+  stage_failure_isolation: true
+
+  # 單次執行的成本上限（美元）；超過會中止後續呼叫
+  # 只在使用付費 provider（Claude、付費 Gemini、OpenRouter）時生效
+  cost_cap_usd_per_run: 5.0
+
+# =============================================================================
+# 切換成 Gemini 主力的範例（複製貼上即可）
+# =============================================================================
+#
+# 如果你想用 Gemini Flash 取代 Ollama 做合成 + 出題（更快、更好、免費）：
+# 把 article_synthesis 和 quiz_generation 區塊改成：
+#
+#   article_synthesis:
+#     provider: gemini
+#     model: gemini-2.5-flash
+#     temperature: 0.4
+#     max_tokens: 4000
+#     fallback:
+#       provider: ollama
+#       model: qwen3.6:35b-a3b
+#
+#   quiz_generation:
+#     provider: gemini
+#     model: gemini-2.5-flash
+#     temperature: 0.5
+#     max_tokens: 3000
+#     fallback:
+#       provider: ollama
+#       model: qwen3.6:35b-a3b
+#
+# 前提：.env 裡有 GEMINI_API_KEY=AIza...

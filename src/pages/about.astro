@@ -1,0 +1,67 @@
+---
+export const prerender = true;
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout title="關於本站 About" description="關於這個英文新聞閱讀練習網站">
+  <article class="max-w-3xl mx-auto px-4 pt-10 pb-16 prose prose-stone dark:prose-invert">
+    <h1>關於本站</h1>
+
+    <p>
+      這是一個專為中文母語者設計的英文新聞閱讀練習網站。每天提供 4–5 篇主題深入但用字簡單的英文新聞文章，並附上：
+    </p>
+
+    <ul>
+      <li><strong>純英文閱讀模式</strong>：訓練英文閱讀流暢度</li>
+      <li><strong>中英對照模式</strong>：段落對照，遇到不懂的句子可以馬上對照中文</li>
+      <li><strong>4 題深度選擇題</strong>：含中文詳細解析（為什麼這個答案對、其他為什麼錯）</li>
+    </ul>
+
+    <h2>內容是怎麼來的？</h2>
+
+    <p>
+      網站文章<strong>不是逐字翻譯</strong>，也<strong>不是直接轉貼</strong>新聞原文。每篇文章是 AI 從 3–5 篇真實新聞報導（來自 Reuters、BBC、The Guardian、AP 等）綜合改寫而成，再加上中文翻譯與選擇題。
+    </p>
+
+    <p>
+      AI 模型預設使用 <strong>本地 Ollama 上的 Qwen 3.6-35B-A3B</strong>，整個處理流程都在本機上完成，不需要把資料送到雲端。架構也保留了切換到 Claude API 的彈性。
+    </p>
+
+    <h2>難度設定</h2>
+
+    <p>
+      文章難度設定為 CEFR <strong>B1–B2</strong>，原則是<strong>用字簡單、主題具備專業深度</strong>。也就是說：
+    </p>
+
+    <ul>
+      <li>不用艱難的字、不用文學辭藻</li>
+      <li>但仍涵蓋背景、現況、多方觀點、影響評估</li>
+      <li>專業詞彙（像「制裁」「利率」「供應鏈」）會在第一次出現時用簡單英文解釋</li>
+    </ul>
+
+    <h2>誠實免責聲明</h2>
+
+    <div
+      class="not-prose rounded-lg border border-amber-300 dark:border-amber-700 bg-amber-50 dark:bg-amber-900/20 p-4 my-4 text-sm"
+    >
+      <p class="font-medium mb-2">⚠️ 請務必注意</p>
+      <ul class="list-disc pl-5 space-y-1 text-stone-700 dark:text-stone-300">
+        <li>本站所有文章皆由 AI 生成，<strong>可能存在事實錯誤、扭曲或遺漏</strong>。</li>
+        <li>學英文閱讀沒問題；引用為新聞事實前，<strong>請務必查核每篇文章列出的原始來源</strong>。</li>
+        <li>選擇題的答案是 AI 基於文章本身設計的；如果文章本身有錯，題目可能也會跟著錯。</li>
+      </ul>
+    </div>
+
+    <h2>新聞來源</h2>
+
+    <p>
+      網站抓取的新聞來自 BBC、The Guardian、Reuters（透過 Google News）、AP、NPR、Al Jazeera、Deutsche Welle、Ars Technica、The Verge、POLITICO 等公開 RSS 源。完整來源清單請見專案的 <code>scripts/sources.yaml</code>。
+    </p>
+
+    <h2>聯絡與回饋</h2>
+
+    <p>
+      這是一個個人學習專案。網站原始碼以及完整的開發規格都公開在 GitHub。
+    </p>
+  </article>
+</BaseLayout>

@@ -1,0 +1,173 @@
+{
+  "id": "2026-05-05-global-ai-models-under-us-security-scrutiny",
+  "slug": "global-ai-models-under-us-security-scrutiny-may-2026",
+  "publishedAt": "2026-05-05T19:55:15.462334Z",
+  "category": "technology",
+  "title": "US Government to Test New AI Models for Security Risks",
+  "subtitle": "Leading tech companies Google, Microsoft, and xAI agree to allow early government access to their advanced AI systems.",
+  "summary": {
+    "en": "The US Department of Commerce will now test new artificial intelligence (AI) models from Google, Microsoft, and xAI for security risks before they are released to the public. This agreement expands on earlier deals with OpenAI and Anthropic, showing a growing concern about the power of advanced AI. The Center for AI Standards and Innovation (CAISI) will evaluate these models to identify potential threats like cyberattacks or military misuse. This move marks a shift for the Trump administration, which previously favored less regulation for tech companies. Officials hope this early access will help understand and manage the national security implications of powerful AI systems.",
+    "zh": "美國商務部將在Google、微軟和xAI的新人工智慧（AI）模型向公眾發布之前，對其進行安全風險測試。這項協議擴展了與OpenAI和Anthropic的早期合作，顯示出對先進人工智慧力量日益增長的擔憂。「人工智慧標準與創新中心」（CAISI）將評估這些模型，以識別潛在的威脅，例如網路攻擊或軍事誤用。此舉標誌著川普政府的轉變，該政府此前傾向於對科技公司採取較少監管。官員們希望這種早期接觸將有助於理解和管理強大人工智慧系統對國家安全的影響。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The United States government is stepping up its efforts to understand and manage the risks of powerful artificial intelligence (AI) systems. Leading tech companies Google, Microsoft, and xAI have now agreed to allow the US Department of Commerce to test their new AI models for security issues before these tools are made available to the public, according to BBC Technology.",
+      "zh": "美國政府正加強努力，以了解並管理強大人工智慧（AI）系統所帶來的風險。根據BBC科技報導，領先的科技公司Google、微軟（Microsoft）和xAI現已同意，在這些工具向大眾發布之前，允許美國商務部測試其新的人工智慧模型是否存在安全問題。"
+    },
+    {
+      "id": "p2",
+      "en": "This new agreement is an expansion of earlier partnerships with other major AI companies like OpenAI and Anthropic, which were made during the Biden administration. The Center for AI Standards and Innovation (CAISI), part of the Department of Commerce, will be responsible for these evaluations. CAISI's director, Chris Fall, noted that these expanded collaborations are important \"at a critical moment\" for public safety, BBC Technology reports.",
+      "zh": "這項新協議是與OpenAI和Anthropic等其他主要人工智慧公司早期合作夥伴關係的擴展，這些合作是在拜登（Joe Biden）政府時期建立的。隸屬於商務部的「人工智慧標準與創新中心」（CAISI）將負責這些評估。BBC科技報導，CAISI主任克里斯·福爾（Chris Fall）指出，這些擴大的合作「在關鍵時刻」對公共安全至關重要。"
+    },
+    {
+      "id": "p3",
+      "en": "The evaluations will cover different aspects, including testing the capabilities of the AI tools, doing research together, and developing the best ways to use commercial AI systems safely. For example, Google's well-known AI tool, Gemini, is used in many Google products and also by US defense and military agencies. Microsoft's main AI tool is CoPilot, while xAI's only AI product is Grok, a chatbot that has faced public criticism for some issues, BBC Technology explains.",
+      "zh": "這些評估將涵蓋不同面向，包括測試人工智慧工具的能力、共同進行研究，以及開發安全使用商業人工智慧系統的最佳方法。例如，Google著名的AI工具Gemini被廣泛應用於許多Google產品，也供美國國防和軍事機構使用。微軟的主要AI工具是CoPilot，而xAI唯一的AI產品則是Grok，這款聊天機器人曾因一些問題而面臨公眾批評，BBC科技解釋道。"
+    },
+    {
+      "id": "p4",
+      "en": "Concerns in Washington are growing about the potential national security risks that powerful AI systems could create. By getting early access to these advanced models, US officials aim to find threats like cyberattacks or misuse in military situations before the tools are widely used, Al Jazeera English reports. The development of advanced AI systems, such as Anthropic's Mythos model, has caused global discussion, including among US officials and businesses, about their potential to make hackers much more effective.",
+      "zh": "華府對強大人工智慧系統可能造成的國家安全風險日益擔憂。根據半島電視台英文版報導，透過提早接觸這些先進模型，美國官員旨在工具廣泛使用之前，發現網路攻擊或軍事誤用等威脅。先進人工智慧系統的發展，例如Anthropic的Mythos模型，已在全球引發討論，包括美國官員和企業之間，討論其可能大幅提升駭客效率的潛力。"
+    },
+    {
+      "id": "p5",
+      "en": "Microsoft stated that it will work with US government scientists to test AI systems in ways that look for \"unexpected behaviors.\" Together, they will create shared data and methods for testing the company's models. Microsoft has also signed a similar agreement with the United Kingdom’s AI Security Institute, according to Al Jazeera English.",
+      "zh": "微軟表示，將與美國政府科學家合作，以尋找「意外行為」的方式測試人工智慧系統。他們將共同建立共享數據和方法來測試該公司的模型。根據半島電視台英文版報導，微軟也與英國人工智慧安全研究所簽署了類似的協議。"
+    },
+    {
+      "id": "p6",
+      "en": "CAISI, which is the government's main center for testing AI models, has already completed more than 40 evaluations. These include tests on some \"state-of-the-art models that remain unreleased,\" BBC Technology noted. The center did not say which specific models have been prevented from being released. Developers often provide versions of their models with safety features removed so the center can look for national security risks, Al Jazeera English added.",
+      "zh": "作為政府測試人工智慧模型的主要中心，CAISI已完成超過40項評估。BBC科技指出，這些評估包括對一些「尚未發布的尖端模型」進行測試。該中心並未說明具體有哪些模型被阻止發布。半島電視台英文版補充說，開發商通常會提供移除安全功能的模型版本，以便該中心能夠尋找國家安全風險。"
+    },
+    {
+      "id": "p7",
+      "en": "This move also represents a change in approach for the Trump administration. Previously, the Trump White House had largely taken a \"hands-off\" approach to overseeing or regulating AI and technology companies, BBC Technology reports. Last year, President Donald Trump signed executive orders that formed his administration's \"AI Action Plan,\" which he said would \"remove red tape and onerous regulation\" around AI development. He aimed to ensure the US would \"win\" through advancements and control of the technology.",
+      "zh": "此舉也代表川普（Donald Trump）政府在處理方式上的轉變。BBC科技報導，此前，川普白宮對人工智慧和科技公司的監管或管理，大多採取「不干預」的態度。去年，川普總統簽署了行政命令，形成了其政府的「人工智慧行動計畫」，他表示這將「消除人工智慧發展周圍的繁文縟節和繁重法規」。他旨在確保美國能透過技術的進步和掌控來「獲勝」。"
+    },
+    {
+      "id": "p8",
+      "en": "However, with the US military increasing its use of AI, and recent claims from Anthropic that it developed a model called Mythos that is too powerful to release to the public, the White House seems to be changing its view. Senior members of Trump's staff met last month with Anthropic CEO Dario Amodei, even though the company is involved in a lawsuit with the US Department of Defense over its refusal to remove safety protections for government use of its models, BBC Technology reported.",
+      "zh": "然而，隨著美國軍方增加對人工智慧的使用，以及Anthropic最近聲稱其開發了一款名為Mythos的模型，其功能過於強大而無法向公眾發布，白宮似乎正在改變其觀點。BBC科技報導，川普的高級幕僚上個月會見了Anthropic執行長達里奧·阿莫迪（Dario Amodei），儘管該公司因拒絕為政府使用其模型而移除安全保護，正與美國國防部捲入訴訟。"
+    },
+    {
+      "id": "p9",
+      "en": "The Verge also noted that OpenAI and Anthropic have \"renegotiated their existing partnerships with the center to better align with priorities in President Donald Trump’s AI Action Plan.\" This suggests a more active role for the government in evaluating AI. The White House might even go further in the future, as a report from The New York Times mentioned that Trump is considering an executive order to bring together tech executives and government officials to oversee new AI models, The Verge added.",
+      "zh": "The Verge也指出，OpenAI和Anthropic「已重新協商其與該中心的現有合作夥伴關係，以更好地符合川普總統人工智慧行動計畫中的優先事項。」這表明政府在評估人工智慧方面將扮演更積極的角色。The Verge補充說，白宮未來甚至可能採取更進一步的行動，因為《紐約時報》的一篇報導提到，川普正考慮發布一項行政命令，召集科技業高階主管和政府官員共同監督新的人工智慧模型。"
+    },
+    {
+      "id": "p10",
+      "en": "Chris Fall, CAISI director, emphasized the importance of \"independent, rigorous measurement science\" to understand advanced AI and its national security implications, according to The Verge. This ongoing collaboration between government and tech companies highlights the growing awareness of both the potential and the dangers of rapidly developing AI technology.",
+      "zh": "根據The Verge報導，CAISI主任克里斯·福爾強調「獨立、嚴謹的測量科學」對於理解先進人工智慧及其國家安全影響的重要性。政府與科技公司之間持續的合作，凸顯了人們對快速發展的人工智慧技術潛力和危險日益增長的認識。"
+    }
+  ],
+  "wordCount": 847,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "stepping up",
+      "definitionEn": "Increasing the amount or intensity of an activity.",
+      "definitionZh": "增加某項活動的數量或強度；加強。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "此片語表示「加強、加速」，而非字面上的「踩上去」。文中：The United States government is stepping up its efforts to understand and manage the risks of powerful artificial intelligence (AI) systems."
+    },
+    {
+      "term": "hands-off",
+      "definitionEn": "Not interfering or getting involved in something; allowing others to manage things themselves.",
+      "definitionZh": "不干預、不插手；讓他人自行管理。",
+      "partOfSpeech": "adjective",
+      "noteZh": "此詞形容一種「不干預」的態度或做法。文中：Previously, the Trump White House had largely taken a \"hands-off\" approach to overseeing or regulating AI and technology companies, BBC Technology reports."
+    },
+    {
+      "term": "red tape",
+      "definitionEn": "Official rules and procedures that seem unnecessary and cause delays.",
+      "definitionZh": "繁瑣的官方規定和程序，常導致延誤。",
+      "partOfSpeech": "idiom",
+      "noteZh": "此為慣用語，指「繁文縟節、官僚作風」，而非字面上的「紅色膠帶」。文中：Last year, President Donald Trump signed executive orders that formed his administration's \"AI Action Plan,\" which he said would \"remove red tape and onerous regulation\" around AI development."
+    },
+    {
+      "term": "align with",
+      "definitionEn": "To be in agreement or consistent with something else.",
+      "definitionZh": "與某事物保持一致或符合。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "此片語表示「與…保持一致」或「符合」。文中：The Verge also noted that OpenAI and Anthropic have \"renegotiated their existing partnerships with the center to better align with priorities in President Donald Trump’s AI Action Plan.\""
+    }
+  ],
+  "sources": [
+    {
+      "name": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/cgjp2we2j8go?at_medium=RSS&at_campaign=rss",
+      "title": "US to safety test new AI models from Google, Microsoft, xAI",
+      "publishedAt": "2026-05-05T17:21:32Z"
+    },
+    {
+      "name": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/economy/2026/5/5/microsoft-google-xai-give-us-access-to-ai-models-for-security-testing?traffic_source=rss",
+      "title": "Microsoft, Google, xAI give US access to AI models for security testing",
+      "publishedAt": "2026-05-05T16:53:09Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/924017/google-microsoft-xai-government-review",
+      "title": "Google, Microsoft, and xAI will allow the US government to review their new AI models",
+      "publishedAt": "2026-05-05T14:26:59Z"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "Which of the following AI models is specifically mentioned as having faced public criticism for some issues?",
+      "options": {
+        "A": "Google's Gemini",
+        "B": "xAI's Grok",
+        "C": "Microsoft's CoPilot",
+        "D": "Anthropic's Mythos"
+      },
+      "correct": "B",
+      "explanationZh": "正確答案 B，因為文章第三段明確提到：「xAI's only AI product is Grok, a chatbot that has faced public criticism for some issues」。這直接指出了 Grok 曾面臨公眾批評。選項 A 不對，Gemini 被提到用於多種產品和美國軍事機構，但沒有提到公眾批評。選項 C 不對，CoPilot 僅被提及是微軟的主要 AI 工具。選項 D 不對，Mythos 被提到因過於強大而未發布，但不是因為公眾批評。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, what can be inferred about the US government's current stance on AI regulation compared to its past approach under the Trump administration?",
+      "options": {
+        "A": "The Trump administration consistently favored strict AI regulation, a policy that continues today.",
+        "B": "The US government is moving from a 'hands-off' approach to a more active role in evaluating AI systems.",
+        "C": "The current administration is reducing AI oversight, emphasizing innovation over security.",
+        "D": "There has been no significant change in the US government's approach to AI regulation."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案 B，文章第七段指出「This move also represents a change in approach for the Trump administration. Previously, the Trump White House had largely taken a 'hands-off' approach to overseeing or regulating AI and technology companies」。第八段和第九段則描述了白宮與 Anthropic 的會面以及 OpenAI 和 Anthropic 重新協商夥伴關係，以更符合川普政府的「AI 行動計畫」，這些都暗示政府正從過去的「不干預」轉向更積極地評估 AI 系統。選項 A 不對，文章明確指出川普政府過去是「不干預」的。選項 C 不對，文章強調的是對國家安全風險的擔憂，並加強評估，而不是減少監督。選項 D 不對，文章多處強調了政策上的轉變。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the sentence, \"Developers often provide versions of their models with safety features removed so the center can look for national security risks,\" what does 'removed' most closely mean as used in this context?",
+      "options": {
+        "A": "Deliberately taken out or deactivated",
+        "B": "Accidentally missing or overlooked",
+        "C": "Temporarily hidden from view",
+        "D": "Replaced with less effective alternatives"
+      },
+      "correct": "A",
+      "explanationZh": "正確答案 A，在「Developers often provide versions of their models with safety features removed so the center can look for national security risks」這句話中，'removed' 指的是開發者為了讓中心能夠專注於尋找國家安全風險，而刻意將安全功能「移除」或「停用」。這是一種有目的的行為，以便進行更徹底的測試。選項 B 不對，不是意外遺失。選項 C 不對，不是暫時隱藏。選項 D 不對，不是替換成較差的替代品，而是為了測試目的而完全移除。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary focus of the article?",
+      "options": {
+        "A": "To detail the specific technical capabilities of Google's Gemini and Microsoft's CoPilot AI models.",
+        "B": "To highlight the financial investments made by major tech companies in AI research and development.",
+        "C": "To criticize the past 'hands-off' approach of the Trump administration towards AI regulation.",
+        "D": "To explain the US government's expanding efforts to test and manage the security risks of advanced AI systems through partnerships with tech companies."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案 D，文章從第一段開始就介紹了美國政府與科技公司合作，測試 AI 模型的安全問題，並在多個段落中詳細闡述了這些合作的擴展、評估的內容、以及政府對國家安全風險的擔憂。這表明文章的核心主旨是關於政府在管理 AI 風險方面的努力。選項 A 不對，雖然提到了這些模型，但不是文章的主要焦點。選項 B 不對，文章沒有討論財務投資。選項 C 不對，雖然提到了川普政府過去的「不干預」態度，但這只是用來襯托當前政策的轉變，不是文章的中心主旨。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-2.5-flash",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}

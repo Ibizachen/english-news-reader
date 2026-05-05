@@ -1,0 +1,111 @@
+# News sources for the English Reading Practice site.
+#
+# Each source has:
+#   name:        human-readable name (used in citations on the site)
+#   rss:         RSS / Atom feed URL
+#   categories:  list of suggested categories (used as hints, not strict labels)
+#   note:        (optional) caveat about this source
+#
+# Categories must match those defined in src/lib/articles.ts:
+#   politics, economics, technology, energy, society,
+#   health, public-health, tcm
+
+sources:
+  # === BBC ===
+  - name: BBC News
+    rss: https://feeds.bbci.co.uk/news/world/rss.xml
+    categories: [politics, society]
+  - name: BBC Business
+    rss: https://feeds.bbci.co.uk/news/business/rss.xml
+    categories: [economics]
+  - name: BBC Technology
+    rss: https://feeds.bbci.co.uk/news/technology/rss.xml
+    categories: [technology]
+  - name: BBC Science & Environment
+    rss: https://feeds.bbci.co.uk/news/science_and_environment/rss.xml
+    categories: [energy, society]
+  - name: BBC Health
+    rss: https://feeds.bbci.co.uk/news/health/rss.xml
+    categories: [health, public-health]
+
+  # === The Guardian ===
+  - name: The Guardian World
+    rss: https://www.theguardian.com/world/rss
+    categories: [politics, society]
+  - name: The Guardian Business
+    rss: https://www.theguardian.com/business/rss
+    categories: [economics]
+  - name: The Guardian Technology
+    rss: https://www.theguardian.com/technology/rss
+    categories: [technology]
+  - name: The Guardian Environment
+    rss: https://www.theguardian.com/environment/rss
+    categories: [energy, society]
+  - name: The Guardian Health
+    rss: https://www.theguardian.com/society/health/rss
+    categories: [health, public-health]
+
+  # === NPR ===
+  - name: NPR News
+    rss: https://feeds.npr.org/1001/rss.xml
+    categories: [politics, society]
+  - name: NPR Business
+    rss: https://feeds.npr.org/1006/rss.xml
+    categories: [economics]
+  - name: NPR Health
+    rss: https://feeds.npr.org/1128/rss.xml
+    categories: [health, public-health]
+
+  # === AP, Al Jazeera, DW ===
+  - name: AP News Top
+    rss: https://rsshub.app/apnews/topics/apf-topnews
+    categories: [politics, society, economics]
+    note: "AP has no official RSS; uses public RSSHub. May break if RSSHub instance is down."
+  - name: Al Jazeera English
+    rss: https://www.aljazeera.com/xml/rss/all.xml
+    categories: [politics, society]
+  - name: Deutsche Welle (DW) Top
+    rss: https://rss.dw.com/rdf/rss-en-top
+    categories: [politics, economics, society]
+
+  # === Reuters (via Google News) ===
+  - name: Reuters World (via Google News)
+    rss: https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com&hl=en-US&gl=US&ceid=US:en
+    categories: [politics, economics, society]
+    note: "Reuters removed direct RSS in 2020; we use Google News as a workaround. Links will go through news.google.com redirects."
+
+  # === Tech ===
+  - name: Ars Technica
+    rss: https://feeds.arstechnica.com/arstechnica/index
+    categories: [technology]
+  - name: The Verge
+    rss: https://www.theverge.com/rss/index.xml
+    categories: [technology]
+
+  # === Politics ===
+  - name: POLITICO
+    rss: https://www.politico.com/rss/politicopicks.xml
+    categories: [politics]
+
+  # === Specialised health / medicine ===
+  - name: STAT News
+    rss: https://www.statnews.com/feed/
+    categories: [health]
+    note: "Specialised in medicine, biotech, and clinical research."
+  - name: WHO News
+    rss: https://www.who.int/rss-feeds/news-english.xml
+    categories: [public-health]
+    note: "Authoritative source for global public health."
+
+  # === TCM (Traditional Chinese Medicine) ===
+  # English-language RSS coverage of TCM is limited; these are best-effort and
+  # may need re-checking. Many TCM stories naturally appear in BBC Health,
+  # Guardian Health, and Reuters via the existing health feeds.
+  - name: China Daily Lifestyle
+    rss: https://www.chinadaily.com.cn/rss/lifestyle_rss.xml
+    categories: [tcm, society]
+    note: "English coverage of Chinese culture, medicine, lifestyle. Verify URL on first run."
+  - name: SCMP Lifestyle
+    rss: https://www.scmp.com/rss/318208/feed
+    categories: [tcm, health, society]
+    note: "Hong Kong-based English coverage. Verify URL on first run."

@@ -1,0 +1,39 @@
+# --- Astro / Node ---
+dist/
+.astro/
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# --- Environment ---
+.env
+.env.production
+
+# --- macOS / editors ---
+.DS_Store
+.idea/
+
+# --- Python / uv ---
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# --- Project data ---
+# Raw fetched news (large, regenerable, may include rate-limited content).
+data/raw/
+# Local logs from the AI pipeline.
+data/logs/
+# UI-managed AI settings (per-user; admin page is local-only).
+data/config/
+
+# NOTE: data/published/ IS committed — the static site reads from it.
+
+# --- Build artifacts ---
+.build_excluded/
+
+# --- Claude Code local cache ---
+.claude/

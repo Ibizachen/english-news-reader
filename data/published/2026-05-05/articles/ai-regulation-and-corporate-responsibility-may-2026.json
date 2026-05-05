@@ -1,0 +1,174 @@
+{
+  "id": "2026-05-05-ai-regulation-and-corporate-responsibility",
+  "slug": "ai-regulation-and-corporate-responsibility-may-2026",
+  "publishedAt": "2026-05-05T20:10:37.481808Z",
+  "category": "technology",
+  "title": "US Expands AI Safety Testing as Tech Giants Face New Scrutiny",
+  "subtitle": "Major companies agree to government checks on their models, while legal battles over copyright and military use continue.",
+  "summary": {
+    "en": "The United States government has announced a new agreement requiring tech giants to submit their artificial intelligence models for safety testing. This move expands previous efforts by the Biden administration to regulate powerful AI systems before they are released to the public. At the same time, Meta faces a major lawsuit from book publishers who claim the company stole their copyrighted work to train its AI. Meanwhile, workers at Google DeepMind in the UK are forming a union to protest the company’s growing ties with the military. These developments show that the AI industry is under increasing pressure from both the government and the public.",
+    "zh": "美國政府宣布一項新協議，要求科技巨頭提交其人工智慧模型進行安全測試。此舉擴展了拜登政府此前在將強大人工智慧系統發布給公眾之前進行規範的努力。與此同時，Meta 正面臨來自出版社的重大訴訟，指控該公司竊取其受版權保護的作品來訓練其人工智慧。與此同時，位於英國的 Google DeepMind 員工正組成工會，抗議該公司日益增長的軍事聯繫。這些發展顯示，人工智慧產業正面臨來自政府與公眾日益增加的壓力。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The United States government has taken a significant step in regulating artificial intelligence by requiring major technology companies to submit their newest AI models for safety testing. According to the BBC Technology, the US Department of Commerce announced that Google, Microsoft, and xAI have agreed to voluntarily allow the government to test their tools. This agreement is managed by the Center for AI Standards and Innovation, known as CAISI. The goal is to evaluate the security and capabilities of these powerful systems before they are released to the general public.",
+      "zh": "美國政府在規範人工智慧方面邁出重要一步，要求主要科技業者提交其最新的人工智慧模型進行安全測試。根據 BBC 科技部門報導，美國商務部宣布，Google、微軟和 xAI 已同意自願讓政府對其工具進行測試。此協議由人工智慧標準與創新中心（Center for AI Standards and Innovation，簡稱 CAISI）管理，旨在這些強大系統發布給一般大眾之前，評估其安全性與能力。"
+    },
+    {
+      "id": "p2",
+      "en": "This development marks a shift in how the US handles AI technology. Under the previous administration led by President Joe Biden, the focus was on creating voluntary safety standards. Now, under President Donald Trump, the government is moving toward more direct partnerships with tech firms. CAISI Director Chris Fall stated that independent and rigorous testing is essential to understand the national security risks of advanced AI. The government aims to identify potential threats, such as cyberattacks or military misuse, before the tools become widely available.",
+      "zh": "這項進展標誌著美國處理人工智慧技術方式的轉變。在喬·拜登（Joe Biden）總統領導的上一屆政府時期，重點在於制定自願性的安全標準。如今，在唐納·川普（Donald Trump）總統執政下，政府正朝向與科技業者建立更直接的夥伴關係。CAISI 總監克里斯·福爾（Chris Fall）表示，獨立且嚴謹的測試對於理解先進人工智慧的國家安全風險至關重要。政府旨在這些工具廣泛普及之前，識別潛在威脅，例如網路攻擊或軍事濫用。"
+    },
+    {
+      "id": "p3",
+      "en": "The agreement comes at a time of growing concern about the power of AI. Recently, the AI company Anthropic revealed a model called Mythos, which some experts believe is too powerful to be released safely. This has worried officials in Washington, who fear that such powerful systems could be used by hackers or enemy nations. To address these fears, the US government is working closely with companies to ensure their AI does not pose a danger. Microsoft stated that it will work with government scientists to test its AI systems in ways that reveal unexpected behaviors. The two companies will also share data and methods for testing to improve safety standards globally.",
+      "zh": "這項協議適逢各界對人工智慧力量的擔憂日益加深之際。近期，人工智慧公司 Anthropic 披露了一個名為 Mythos 的模型，部分專家認為其威力過大，無法安全發布。這讓華府官員感到擔憂，他們擔心此類強大系統可能被駭客或敵對國家利用。為了解決這些疑慮，美國政府正與業者緊密合作，確保其人工智慧不會構成危險。微軟表示，將與政府科學家合作，以揭示意外行為的方式測試其人工智慧系統。這兩家公司也將分享測試數據與方法，以提升全球安全標準。"
+    },
+    {
+      "id": "p4",
+      "en": "However, not all tech companies are participating in this new safety pact. The Pentagon recently announced agreements with seven major tech giants, including Google, Microsoft, and Amazon, to use AI in classified military systems. Notably, Anthropic is not part of this group. This is because Anthropic is currently in a legal dispute with the US Department of Defense. The company refuses to remove safety guardrails—built-in restrictions that prevent AI from doing harmful things—from its models when used by the government. This standoff highlights the tension between companies wanting to keep their AI safe and the military wanting unrestricted access.",
+      "zh": "然而，並非所有科技業者都參與這項新的安全協議。五角大廈近期宣布與包括 Google、微軟和亞馬遜在內的七家科技巨頭達成協議，將人工智慧用於機密軍事系統。值得注意的是，Anthropic 並未加入此行列。這是因為 Anthropic 目前正與美國國防部進行法律糾紛。該公司拒絕在政府使用其模型時移除安全防護機制——即防止人工智慧造成傷害的內建限制。這場僵持局面凸顯了希望保持人工智慧安全的業者與尋求無限制訪問權限的軍事單位之間的張力。"
+    },
+    {
+      "id": "p5",
+      "en": "While the government focuses on national security, the AI industry is also facing serious legal challenges regarding copyright. According to The Verge, five major book publishers and author Scott Turow have filed a lawsuit against Meta. They claim that Meta’s Llama AI models copied their books word-for-word. The publishers argue that Meta used data from pirate websites to train its AI, which is illegal. They are asking the court to stop Meta from using this material and to force the company to list all the copyrighted works it used. Meta has responded by saying that training AI on copyrighted material is considered fair use under the law. The company stated it will fight the lawsuit aggressively.",
+      "zh": "當政府專注於國家安全時，人工智慧產業也正面臨嚴峻的版權法律挑戰。根據 The Verge 報導，五家大型出版社與作者史考特·圖羅（Scott Turow）已對 Meta 提起訴訟。他們指控 Meta 的 Llama 人工智慧模型逐字複製了他們的書籍。出版社主張 Meta 使用來自盜版網站的數據來訓練其人工智慧，這屬於違法行為。他們要求法院制止 Meta 使用這些材料，並強制該公司列出所有使用的受版權保護作品。Meta 回應稱，在版權材料上訓練人工智慧在法律上屬於合理使用。該公司表示將積極抗辯這場訴訟。"
+    },
+    {
+      "id": "p6",
+      "en": "This legal battle is not unique to Meta. Anthropic recently agreed to pay $1.5 billion to settle a similar lawsuit from authors. These cases show that AI companies are struggling to find a legal balance between using public data to train their models and respecting the rights of creators. As AI becomes more powerful, the question of who owns the data used to build it remains unresolved.",
+      "zh": "這場法律戰並非 Meta 獨有。Anthropic 近期同意支付 15 億美元，以和解來自作者的類似訴訟。這些案例顯示，人工智慧業者正努力在利用公開數據訓練模型與尊重創作者權利之間尋找法律平衡。隨著人工智慧變得越來越強大，關於誰擁有構建其數據的問題仍未解決。"
+    },
+    {
+      "id": "p7",
+      "en": "Beyond legal and safety concerns, there is also growing unrest among the workers who build these technologies. According to The Guardian, employees at Google DeepMind in the UK have voted to form a union. One of the main reasons for this decision is the company’s increasing involvement with the military. Workers expressed concern that their technology might be used for authoritarian purposes or in conflicts like the war in Gaza. They feel that by working for Google, they are indirectly supporting these actions. The union aims to give workers a voice in how their technology is used.",
+      "zh": "除了法律與安全疑慮外，建構這些技術的員工之間也出現日益嚴重的不滿情緒。根據 The Guardian 報導，位於英國的 Google DeepMind 員工已投票成立工會。做出此決定的一個主要原因是公司日益增加的軍事參與。員工表達了擔憂，認為他們的技術可能被用於威權目的或加薩戰爭等衝突中。他們認為，為 Google 工作等於間接支持這些行動。該工會旨在讓員工在技術使用方式上擁有發言權。"
+    },
+    {
+      "id": "p8",
+      "en": "This trend of worker activism is spreading. Google recently dropped a pledge it made years ago not to develop militarized AI. This change has upset many employees who believed the company was committed to ethical AI development. The UK workers are the first in a leading AI lab to seek formal union recognition, setting a precedent for other tech workers worldwide.",
+      "zh": "這種員工活動主義的趨勢正在擴散。Google 近期放棄了數年前承諾不開發軍事化人工智慧的條款。這項改變讓許多相信公司致力於道德人工智慧開發的員工感到不滿。英國員工是領先的人工智慧實驗室中首批尋求正式工會認可的人，為全球其他科技工作者樹立了先例。"
+    },
+    {
+      "id": "p9",
+      "en": "Looking ahead, the AI industry stands at a crossroads. The US government is pushing for tighter control and security testing, while companies are facing lawsuits over copyright and internal protests over ethics. The agreement between Google, Microsoft, and xAI suggests that the government will play a larger role in shaping AI development. However, the resistance from Anthropic and the lawsuits against Meta show that this path is not easy. As AI technology continues to advance, the debate over safety, legality, and ethics will likely become even more intense. The coming months will be critical in determining how these powerful tools are regulated and who controls their future.",
+      "zh": "展望未來，人工智慧產業正站在十字路口。美國政府推動更嚴格的管控與安全測試，而業者則面臨版權訴訟與內部對道德問題的抗議。Google、微軟和 xAI 之間的協議顯示，政府將在塑造人工智慧發展方面扮演更大角色。然而，Anthropic 的抵制以及針對 Meta 的訴訟表明，這條道路並非易於走通。隨著人工智慧技術持續進步，關於安全、合法性與道德的辯論可能會變得更加激烈。未來幾個月將是決定如何監管這些強大工具以及誰將掌控其未來的關鍵時期。"
+    }
+  ],
+  "wordCount": 865,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "standoff",
+      "definitionEn": "A situation where two sides are in a conflict and neither side is willing to change its position or give up.",
+      "definitionZh": "僵局；對峙。指雙方僵持不下，誰也不願退讓的狀態。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作名詞，指「對峙」或「僵局」。文中用來形容企業堅持保留安全限制，而軍隊要求無限制訪問之間的緊張關係。文中：This standoff highlights the tension between companies wanting to keep their AI safe and the military wanting unrestricted access."
+    },
+    {
+      "term": "drop",
+      "definitionEn": "To stop supporting, using, or following something.",
+      "definitionZh": "放棄；停止使用。這裡指公司撤銷或不再遵守之前的承諾。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作動詞「掉落」，但在商業或政策語境中，常指「放棄（計畫、承諾、立場等）」。文中指Google撤銷了之前不開發軍事化AI的承諾。文中：Google recently dropped a pledge it made years ago not to develop militarized AI."
+    },
+    {
+      "term": "pose",
+      "definitionEn": "To present or create a problem, danger, or risk.",
+      "definitionZh": "構成（威脅、危險等）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞「姿勢」，這裡作動詞，專指「造成」或「構成」某種負面影響或危險。文中指確保AI不會構成危險。文中：To address these fears, the US government is working closely with companies to ensure their AI does not pose a danger."
+    },
+    {
+      "term": "settle",
+      "definitionEn": "To resolve a legal dispute by agreeing to a payment or terms without going to a final court verdict.",
+      "definitionZh": "（透過賠償或協議）和解；解決（訴訟）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作動詞「定居」或「安頓」，在法律語境中特指「庭外和解」。文中指Anthropic支付巨額資金以解決作者的訴訟。文中：Anthropic recently agreed to pay $1.5 billion to settle a similar lawsuit from authors."
+    }
+  ],
+  "sources": [
+    {
+      "name": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/cgjp2we2j8go?at_medium=RSS&at_campaign=rss",
+      "title": "US to safety test new AI models from Google, Microsoft, xAI",
+      "publishedAt": "2026-05-05T17:21:32Z"
+    },
+    {
+      "name": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/economy/2026/5/5/microsoft-google-xai-give-us-access-to-ai-models-for-security-testing?traffic_source=rss",
+      "title": "Microsoft, Google, xAI give US access to AI models for security testing",
+      "publishedAt": "2026-05-05T16:53:09Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright",
+      "title": "Book publishers sue Meta over AI&#8217;s &#8216;word-for-word&#8217; copying",
+      "publishedAt": "2026-05-05T16:52:38Z"
+    },
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/us-news/2026/may/04/google-deepmind-uk-workers-union",
+      "title": "Google DeepMind workers in UK vote to unionize amid deal with US military",
+      "publishedAt": "2026-05-05T05:05:42Z"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is the primary reason Anthropic is not participating in the Pentagon's agreement with major tech giants?",
+      "options": {
+        "A": "Anthropic believes its AI models are not yet powerful enough to be useful for military applications.",
+        "B": "Anthropic is currently involved in a legal dispute with the US Department of Defense regarding safety guardrails.",
+        "C": "Anthropic has decided to focus exclusively on consumer applications and has withdrawn from all government contracts.",
+        "D": "The US government has banned Anthropic from participating due to its recent copyright lawsuit settlement."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案 B，因為文章第四段明確指出 Anthropic 未參與該協議的原因是「Anthropic is currently in a legal dispute with the US Department of Defense」（Anthropic 目前正與美國國防部進行法律糾紛），且公司拒絕移除其模型中的安全防護措施（safety guardrails）。選項 A 錯誤，因為文章提到 Anthropic 的 Mythos 模型被認為過於強大，而非不夠強。選項 C 錯誤，因為文章並未提到公司全面撤出政府合約，而是特定於此軍事協議的拒絕。選項 D 錯誤，因為版權訴訟是與作者的糾紛，並非政府禁止其參與軍事協議的原因，且兩者無直接因果關係。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, what can be inferred about the relationship between the US government's approach to AI regulation under President Trump compared to the previous administration?",
+      "options": {
+        "A": "The new administration is relying more on voluntary guidelines and less on direct government oversight or partnerships.",
+        "B": "The new administration is shifting towards more direct collaboration with tech firms to manage national security risks.",
+        "C": "The new administration has completely abandoned safety standards in favor of unrestricted military AI development.",
+        "D": "The new administration is ignoring the concerns about AI power and focusing solely on copyright issues."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案 B，因為文章第二段提到，在拜登總統任內重點是建立「志願性安全標準」（voluntary safety standards），而在川普總統領導下，政府正「轉向與科技公司建立更直接的夥伴關係」（moving toward more direct partnerships with tech firms），旨在識別國家安全威脅。這表明監管方式從自願指南轉向更積極的直接合作。選項 A 錯誤，因為新政府正加強而非減少監管。選項 C 錯誤，因為文章強調的是測試和識別威脅，而非完全放棄安全標準。選項 D 錯誤，因為文章明確指出政府正積極處理安全問題，而非忽視。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the context of the article, what does the word 'standoff' most likely mean in the phrase 'This standoff highlights the tension between companies... and the military...?'",
+      "options": {
+        "A": "A sudden and violent physical confrontation between two parties.",
+        "B": "A situation where neither side is willing to change its position or compromise.",
+        "C": "A formal agreement reached after lengthy negotiations.",
+        "D": "A temporary pause in operations to review safety protocols."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案 B，因為文章第四段描述了 Anthropic 拒絕移除安全防護措施，而軍事部門希望獲得不受限制的使用權，雙方處於對峙狀態，誰也不願退讓，因此 'standoff' 在此處指「僵局」或「對峙」，即雙方立場僵持不下。選項 A 錯誤，因為這是指法律和政策糾紛，而非物理暴力。選項 C 錯誤，因為 standoff 意味著尚未達成協議，而非已達成。選項 D 錯誤，因為這並非暫停操作，而是持續的爭議和拒絕合作。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "Which of the following best summarizes the main idea of the article?",
+      "options": {
+        "A": "The US government is successfully eliminating all national security risks associated with artificial intelligence through mandatory testing.",
+        "B": "AI companies are unanimously agreeing to prioritize ethical development over military applications and copyright compliance.",
+        "C": "The AI industry is facing complex challenges involving government regulation, legal disputes over copyright, and internal ethical conflicts among workers.",
+        "D": "Worker unions in the UK are the primary force driving changes in AI safety standards and copyright laws across the United States."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案 C，因為文章綜合討論了多個面向：美國政府加強監管（第一至二段）、版權訴訟（第五至六段）以及員工對軍事應用的倫理擔憂和工會化（第七至八段），最後總結指出 AI 產業正處於十字路口，面臨安全、合法性和倫理的多重挑戰。選項 A 錯誤，因為文章指出挑戰仍在繼續，並未說風險已「消除」。選項 B 錯誤，因為文章明確提到並非所有公司都參與，且存在法律糾紛。選項 D 錯誤，因為英國員工的工會化只是文章提到的一個現象，並非驅動美國法律變化的主要力量，且過於片面。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "ollama/qwen3.6:35b-a3b",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
