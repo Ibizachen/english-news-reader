@@ -211,7 +211,27 @@ ANTHROPIC_API_KEY=sk-ant-...
 - [x] Phase 2 — 新聞抓取模組
 - [x] Phase 3 — AI 處理流水線（含 /admin/settings 視覺化設定 UI）
 - [x] Phase 4 — 一鍵腳本 + macOS launchd 排程
-- [ ] Phase 5 — 部署到 Cloudflare Pages（需處理 admin 頁面的部署排除 + 重新啟用 prerender）
+- [x] **Phase 5 — 部署到 Cloudflare Pages**（[english-news-reader.pages.dev](https://english-news-reader.pages.dev)）
+
+## 每日自動流程
+
+```
+06:00 macOS launchd 觸發 bin/run_daily.sh
+  ↓
+  fetch_news.py（24 個 RSS 源 → data/raw/）
+  ↓
+  ai_pipeline.py（Gemini 2.5 Flash → data/published/）
+  ↓
+  git add + commit + push
+  ↓
+  Cloudflare Pages 偵測到 push
+  ↓
+  跑 bash bin/build_for_deploy.sh
+  ↓
+  全球 CDN 上線新內容
+```
+
+預估全程 5–10 分鐘。整個流程**完全免費**（Gemini 免費 tier、Cloudflare 免費 tier）。
 
 ## 內容免責聲明
 
