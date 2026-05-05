@@ -1,0 +1,141 @@
+{
+  "id": "2026-05-05-ai-safety-and-security-testing",
+  "slug": "ai-safety-and-security-testing-may-2026",
+  "publishedAt": "2026-05-05T21:44:01.214866Z",
+  "category": "technology",
+  "title": "US Government Expands AI Safety Testing for Major Tech Companies",
+  "subtitle": "New agreements with Google, Microsoft, and xAI signal a shift in how the government manages powerful new technology.",
+  "summary": {
+    "en": "The US Department of Commerce is expanding its safety testing program for new artificial intelligence models. Major companies like Google, Microsoft, and xAI have agreed to let the government evaluate their tools before public release. This move comes as the US military increases its use of AI technology. While the current administration previously promised to reduce regulations, recent developments have led to a change in strategy. The government aims to balance innovation with safety and national security concerns.",
+    "zh": "美國商務部正擴大其針對新興人工智慧模型的安全性測試計畫。Google、微軟與 xAI 等大型企業已同意在產品公開發布前，讓政府評估其工具。此舉正值美國軍方增加人工智慧技術使用之際。儘管現任政府先前曾承諾減少監管，但近期的發展已促使其策略轉向。政府旨在平衡創新與安全及國家安全考量。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The United States government is taking a more active role in checking the safety of new artificial intelligence (AI) tools. According to BBC Technology, the US Department of Commerce will now test new AI models from major companies including Google, Microsoft, and xAI before these products are released to the public. These companies have agreed to share their technology with the Center for AI Standards and Innovation (CAISI) for evaluation. This process involves testing, research, and setting best practices to ensure that new AI systems are safe and secure.",
+      "zh": "美國政府正採取更積極的角色，以檢驗新興人工智慧工具的安全性。根據英國廣播公司科技新聞（BBC Technology）報導，美國商務部現在將在 Google、微軟（Microsoft）及 xAI 等大型企業的產品公開發布前，先行測試其人工智慧模型。這些公司已同意與人工智慧標準與創新中心（CAISI）分享技術以進行評估。此流程包含測試、研究及制定最佳實務準則，以確保新的人工智慧系統安全無虞。"
+    },
+    {
+      "id": "p2",
+      "en": "This new agreement is an expansion of earlier efforts that began under the previous administration. Previously, companies like OpenAI and Anthropic had already agreed to submit their models for similar checks. Chris Fall, the director of CAISI, stated that these collaborations are important for the public interest during this critical time. The center has already conducted 40 evaluations of various AI tools, including some advanced models that have not yet been released to the public. While the center did not name which models were stopped from being released, the testing process is clearly designed to identify potential risks before they reach everyday users.",
+      "zh": "這項新協議是延續並擴大先前政府所啟動的努力。在此之前，OpenAI 與 Anthropic 等公司已同意提交其模型進行類似的審查。人工智慧標準與創新中心主任克里斯·法爾（Chris Fall）表示，在當前這個關鍵時刻，這些合作對於公共利益至關重要。該中心已針對各類人工智慧工具進行了四十次評估，其中包括一些尚未公開發布的先進模型。雖然該中心並未指名哪些模型被阻止發布，但顯然這項測試流程旨在於產品觸及一般使用者前，先行辨識潛在風險。"
+    },
+    {
+      "id": "p3",
+      "en": "Each company involved has different AI products that are now under the spotlight. Google’s most famous tool is Gemini, a chatbot that is now being used by US defense and military agencies. Microsoft is well-known for its CoPilot tool. Meanwhile, xAI produces Grok, a chatbot that recently faced public criticism after it was found to create inappropriate images of people. These tools are becoming more powerful, which is why the government wants to ensure they are tested thoroughly.",
+      "zh": "每家參與的公司都有不同的產品正受到關注。Google 最著名的工具是 Gemini，這款聊天機器人目前已被美國國防與軍事機構採用。微軟則以其 Copilot 工具聞名。同時，xAI 旗下的 Grok 聊天機器人近期因被發現會生成不當的人物圖像而面臨公眾批評。這些工具的功能日益強大，這正是政府希望確保其經過徹底測試的原因。"
+    },
+    {
+      "id": "p4",
+      "en": "This new focus on testing marks a change for the current White House. Previously, President Donald Trump signed orders to create an \"AI Action Plan.\" The goal of that plan was to remove \"red tape\"—a common term for rules and paperwork that slow down business—and to ensure the US leads the world in AI development. The administration wanted to avoid heavy regulation to help companies innovate faster. However, the situation is changing as the US military increases its use of AI. There are growing concerns about how powerful these systems are becoming.",
+      "zh": "這種對測試的新重視，標誌著現任白宮政策的轉變。先前，川普（Donald Trump）總統曾簽署行政命令以制定「人工智慧行動計畫」。該計畫的目標是消除「繁文縟節」（即拖慢商業發展的法規與文書作業），並確保美國在人工智慧發展上領先全球。當時政府希望避免過度監管，以協助企業加速創新。然而，隨著美國軍方增加對人工智慧的使用，情況正在改變，各界對於這些系統日益強大的能力也感到愈發擔憂。"
+    },
+    {
+      "id": "p5",
+      "en": "One example of these concerns involves the company Anthropic. According to BBC Technology, Anthropic recently claimed that it developed a model called Mythos that is too powerful to be released to the public. This suggests that some AI systems might be dangerous if they are not controlled correctly. Furthermore, Anthropic is currently involved in a lawsuit with the US Department of Defense. The company has refused to remove its \"safety guardrails\"—the built-in rules that prevent an AI from doing harmful things—even for government use. Because of these issues, senior members of the White House staff recently met with Anthropic’s CEO, Dario Amodei, to discuss the future of the technology.",
+      "zh": "這些擔憂的一個例子涉及 Anthropic 公司。根據英國廣播公司科技新聞報導，Anthropic 近期聲稱其開發了一款名為 Mythos 的模型，由於功能過於強大，不宜向公眾發布。這顯示若未受到妥善控管，某些人工智慧系統可能會帶來危險。此外，Anthropic 目前正與美國國防部陷入法律訴訟。該公司拒絕移除其「安全護欄」（即防止人工智慧執行有害行為的內建規則），即便是在政府使用時亦然。由於這些問題，白宮資深幕僚近期與 Anthropic 執行長達里奧·阿莫代（Dario Amodei）會面，討論該技術的未來。"
+    },
+    {
+      "id": "p6",
+      "en": "Despite these new agreements, the path forward remains complex. Representatives from Google, Microsoft, and SpaceX, which owns xAI, did not provide comments on these new testing requirements. The balance between allowing companies to innovate and keeping the public safe is a difficult challenge. As AI becomes more integrated into military and government operations, the pressure to ensure these systems are reliable will likely continue to grow. The government's decision to expand its testing program shows that it is no longer willing to take a completely \"hands-off\" approach to this rapidly changing technology. For now, the focus remains on working with private companies to understand the risks of these powerful new tools before they become a permanent part of our daily lives.",
+      "zh": "儘管達成了這些新協議，前方的道路依然複雜。Google、微軟以及擁有 xAI 的 SpaceX 等公司的代表並未針對這些新的測試要求發表評論。如何在允許企業創新與保障公眾安全之間取得平衡，是一項艱鉅的挑戰。隨著人工智慧日益融入軍事與政府運作，確保這些系統可靠性的壓力可能會持續增加。政府決定擴大測試計畫，顯示其已不再願意對這項快速變化的技術採取完全「不干預」的態度。目前，重點仍放在與民間企業合作，在這些強大的新工具成為我們日常生活的一部分之前，先了解其潛在風險。"
+    }
+  ],
+  "wordCount": 658,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "checking",
+      "definitionEn": "To examine or inspect something to ensure it is safe or correct.",
+      "definitionZh": "檢查、審核。",
+      "partOfSpeech": "verb (gerund)",
+      "noteZh": "常見作名詞（支票），這裡作動詞檢查用。文中：The United States government is taking a more active role in checking the safety of new artificial intelligence (AI) tools."
+    },
+    {
+      "term": "under the spotlight",
+      "definitionEn": "Being the focus of public or official attention.",
+      "definitionZh": "受到公眾或官方的密切關注。",
+      "partOfSpeech": "idiom",
+      "noteZh": "字面意思為「在聚光燈下」，這裡指受到檢視。文中：Each company involved has different AI products that are now under the spotlight."
+    },
+    {
+      "term": "red tape",
+      "definitionEn": "Excessive bureaucracy or rules that make it difficult to get things done.",
+      "definitionZh": "繁文縟節、官僚作風。",
+      "partOfSpeech": "idiom",
+      "noteZh": "字面意思為「紅色的帶子」，這裡指阻礙效率的行政程序。文中：The goal of that plan was to remove \"red tape\"—a common term for rules and paperwork that slow down business—and to ensure the US leads the world in AI development."
+    },
+    {
+      "term": "hands-off",
+      "definitionEn": "Not involving oneself in the control or management of something; letting things happen without interference.",
+      "definitionZh": "不干涉的、放任的。",
+      "partOfSpeech": "adjective",
+      "noteZh": "常見作動詞片語（不准觸摸），這裡作形容詞描述管理風格。文中：The government's decision to expand its testing program shows that it is no longer willing to take a completely \"hands-off\" approach to this rapidly changing technology."
+    }
+  ],
+  "sources": [
+    {
+      "name": "BBC Technology",
+      "url": "https://www.bbc.com/news/articles/cgjp2we2j8go?at_medium=RSS&at_campaign=rss",
+      "title": "US to safety test new AI models from Google, Microsoft, xAI",
+      "publishedAt": "2026-05-05T17:21:32Z"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the primary role of the Center for AI Standards and Innovation (CAISI) according to the text?",
+      "options": {
+        "A": "To develop new AI models for the US military.",
+        "B": "To perform evaluations and establish best practices for AI safety.",
+        "C": "To sue companies that refuse to follow government AI regulations.",
+        "D": "To replace the AI Action Plan created by the previous administration."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第一段，CAISI 的職責是進行測試、研究並制定最佳實踐（best practices），以確保 AI 系統的安全。選項 A 錯誤，因為該中心是負責測試而非開發模型；選項 C 錯誤，訴訟是 Anthropic 與國防部之間的事，與 CAISI 的職責無關；選項 D 錯誤，文章提到這是對過去努力的擴展，而非取代 AI Action Plan。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, why is the US government shifting its approach toward AI regulation?",
+      "options": {
+        "A": "Because major companies like Google and Microsoft requested more government oversight.",
+        "B": "Because the previous 'AI Action Plan' was found to be illegal by the courts.",
+        "C": "Because AI is increasingly used in sensitive areas like military and defense operations.",
+        "D": "Because the public demanded that all AI chatbots be banned immediately."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第四段提到，雖然過去政府希望移除限制以鼓勵創新，但隨著 AI 被整合進軍事與國防運作（military and government operations），政府對這些系統的強大能力感到擔憂，因此政策轉向加強測試。選項 A 文中並未提及公司要求監管；選項 B 文章未提到該計畫違法；選項 D 過度推論，文章僅提到加強測試，並未提到要全面禁止 AI。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fourth paragraph, what does the term 'red tape' refer to?",
+      "options": {
+        "A": "Excessive regulations and bureaucratic paperwork.",
+        "B": "The dangerous risks associated with powerful AI models.",
+        "C": "A specific type of security software used by the government.",
+        "D": "The competitive nature of the global AI market."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。文章第四段括號內明確解釋了 'red tape' 是指減緩商業發展的規則（rules）與文書工作（paperwork）。這是一個慣用語，用來形容繁瑣的官僚程序。選項 B 指的是 AI 的潛在危險；選項 C 與 D 均與該詞彙在文中的定義無關，屬於誤導選項。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article regarding the current state of AI regulation in the US?",
+      "options": {
+        "A": "The US government has successfully eliminated all risks associated with AI technology.",
+        "B": "Private companies are now fully in control of AI safety standards without government input.",
+        "C": "The government is moving away from a hands-off approach toward more active AI safety testing.",
+        "D": "The development of AI has been completely halted due to new government lawsuits."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章最後一段總結了核心觀點，指出政府不再願意採取完全「不干涉」（hands-off）的態度，而是透過擴大測試計畫來應對 AI 技術的快速變遷。選項 A 錯誤，因為風險依然存在且難以完全消除；選項 B 與文意相反，政府正積極介入；選項 D 錯誤，文章僅提到加強監管，並未提到 AI 開發已完全停止。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite-preview",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
