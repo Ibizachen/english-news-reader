@@ -1,0 +1,72 @@
+name: Daily article generation
+
+# 每天台北早上 6:00 自動跑一次（= UTC 22:00 前一天）。
+# 也可以從 GitHub Actions 介面點 "Run workflow" 手動觸發。
+on:
+  schedule:
+    - cron: "0 22 * * *"
+  workflow_dispatch: {}
+
+# 工作流需要把產出的文章 commit 回 repo，所以要 write 權限
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+        with:
+          enable-cache: true
+
+      - name: Set up Python 3.11
+        run: uv python install 3.11
+
+      - name: Install Python dependencies
+        run: uv sync
+
+      # 把雲端用的 AI 設定寫進去（gemini-3.1-flash-lite-preview 主、gemini-2.5-flash 備）
+      # 不用 admin UI 的本機設定，因為 data/config/ai_settings.json 在 .gitignore 裡
+      - name: Configure pipeline for cloud (Gemini Flash Lite Preview)
+        run: |
+          mkdir -p data/config
+          cat > data/config/ai_settings.json <<'EOF'
+          {
+            "ai_pipeline": {
+              "topic_selection":      {"provider":"gemini","model":"gemini-3.1-flash-lite-preview","temperature":0.3,"max_tokens":4000,"fallback":{"provider":"gemini","model":"gemini-2.5-flash"}},
+              "article_synthesis":    {"provider":"gemini","model":"gemini-3.1-flash-lite-preview","temperature":0.4,"max_tokens":6000,"fallback":{"provider":"gemini","model":"gemini-2.5-flash"}},
+              "translation":          {"provider":"gemini","model":"gemini-3.1-flash-lite-preview","temperature":0.2,"max_tokens":6000,"fallback":{"provider":"gemini","model":"gemini-2.5-flash"}},
+              "key_terms_extraction": {"provider":"gemini","model":"gemini-3.1-flash-lite-preview","temperature":0.3,"max_tokens":3000,"fallback":{"provider":"gemini","model":"gemini-2.5-flash"}},
+              "quiz_generation":      {"provider":"gemini","model":"gemini-3.1-flash-lite-preview","temperature":0.5,"max_tokens":4000,"fallback":{"provider":"gemini","model":"gemini-2.5-flash"}}
+            },
+            "global": {"json_retry_max":3,"stage_failure_isolation":true,"cost_cap_usd_per_run":5.0}
+          }
+          EOF
+
+      - name: Phase 2 — Fetch news from RSS
+        run: uv run python scripts/fetch_news.py
+
+      - name: Phase 3 — AI pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: uv run python scripts/ai_pipeline.py
+
+      # 即使 Phase 3 部分失敗（少數文章沒成功），把成功的部分先 commit 上去
+      - name: Commit + push articles
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/published/
+          if git diff --cached --quiet; then
+            echo "本次沒有新文章 — 跳過 commit"
+            exit 0
+          fi
+          git commit -m "🤖 Daily articles for $(date -u '+%Y-%m-%d')"
+          git push
