@@ -11,6 +11,7 @@ import Quiz from "../../components/Quiz.tsx";
 import {
   CATEGORY_LABELS,
   formatDate,
+  formatDateTime,
   loadArticles,
 } from "../../lib/articles";
 
@@ -52,6 +53,14 @@ const cat = CATEGORY_LABELS[article.category];
         </p>
       )
     }
+
+    <p class="mt-3 text-xs text-stone-500 dark:text-stone-400">
+      🕒 生成時間：
+      <time datetime={article.publishedAt}>
+        {formatDateTime(article.publishedAt, "zh")}
+      </time>
+      <span class="text-stone-400 dark:text-stone-500">（台北時間）</span>
+    </p>
 
     <div
       class="mt-6 rounded-md bg-amber-50 dark:bg-amber-900/20 border border-amber-200 dark:border-amber-800 p-3 text-sm text-amber-900 dark:text-amber-200"

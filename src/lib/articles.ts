@@ -131,6 +131,17 @@ export function getArticlesByCategory(category: Category): Article[] {
   return loadArticles().filter((a) => a.category === category);
 }
 
+// Force Taipei timezone for all human-facing date / time display so the
+// site doesn't depend on the build host's local timezone (Cloudflare builds
+// on UTC servers, but our audience reads in Asia/Taipei).
+const DISPLAY_TZ = "Asia/Taipei";
+
+/** Get the YYYY-MM-DD date string in DISPLAY_TZ. Used for grouping articles. */
+export function getLocalDate(iso: string): string {
+  // Swedish locale produces YYYY-MM-DD format reliably across browsers.
+  return new Date(iso).toLocaleDateString("sv-SE", { timeZone: DISPLAY_TZ });
+}
+
 export function formatDate(iso: string, locale: "en" | "zh" = "en"): string {
   const d = new Date(iso);
   if (locale === "zh") {
@@ -138,11 +149,36 @@ export function formatDate(iso: string, locale: "en" | "zh" = "en"): string {
       year: "numeric",
       month: "long",
       day: "numeric",
+      timeZone: DISPLAY_TZ,
     }).format(d);
   }
   return new Intl.DateTimeFormat("en-US", {
     year: "numeric",
     month: "long",
     day: "numeric",
+    timeZone: DISPLAY_TZ,
+  }).format(d);
+}
+
+/** Date + time including AM/PM in 中文 (e.g. "2026年5月6日 上午5:51"). */
+export function formatDateTime(iso: string, locale: "en" | "zh" = "en"): string {
+  const d = new Date(iso);
+  if (locale === "zh") {
+    return new Intl.DateTimeFormat("zh-TW", {
+      year: "numeric",
+      month: "long",
+      day: "numeric",
+      hour: "numeric",
+      minute: "2-digit",
+      timeZone: DISPLAY_TZ,
+    }).format(d);
+  }
+  return new Intl.DateTimeFormat("en-US", {
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+    hour: "numeric",
+    minute: "2-digit",
+    timeZone: DISPLAY_TZ,
   }).format(d);
 }

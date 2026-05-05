@@ -2,19 +2,19 @@
 export const prerender = true;
 import BaseLayout from "../layouts/BaseLayout.astro";
 import ArticleCard from "../components/ArticleCard.astro";
-import { CATEGORIES, CATEGORY_LABELS, loadArticles } from "../lib/articles";
+import { CATEGORIES, CATEGORY_LABELS, getLocalDate, loadArticles } from "../lib/articles";
 
 const articles = loadArticles();
-// Group "today's" articles = all from the most recent date.
+// Group "today's" articles = all from the most recent date in Asia/Taipei time.
 // Older articles are grouped by date below.
-const latestDate = articles[0]?.publishedAt.slice(0, 10);
+const latestDate = articles[0] ? getLocalDate(articles[0].publishedAt) : undefined;
 const latest = latestDate
-  ? articles.filter((a) => a.publishedAt.slice(0, 10) === latestDate)
+  ? articles.filter((a) => getLocalDate(a.publishedAt) === latestDate)
   : [];
 const olderByDate = articles
-  .filter((a) => a.publishedAt.slice(0, 10) !== latestDate)
+  .filter((a) => getLocalDate(a.publishedAt) !== latestDate)
   .reduce<Record<string, typeof articles>>((acc, a) => {
-    const date = a.publishedAt.slice(0, 10);
+    const date = getLocalDate(a.publishedAt);
     (acc[date] ||= []).push(a);
     return acc;
   }, {});
