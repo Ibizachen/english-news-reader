@@ -70,5 +70,28 @@ const fullTitle = title === "英文新聞閱讀" ? title : `${title} | 英文新
         </p>
       </div>
     </footer>
+    <!--
+      Late script (after DOM is parsed) — reads `enr.read` from localStorage
+      and stamps `data-read=""` on every <a.article-card> whose slug appears
+      there. CSS in global.css then reveals the ✓ in the corner.
+      Runs on every page; safely no-ops on pages without cards.
+    -->
+    <script is:inline>
+      (function () {
+        try {
+          var raw = localStorage.getItem("enr.read");
+          if (!raw) return;
+          var dict = JSON.parse(raw);
+          if (!dict || typeof dict !== "object") return;
+          var cards = document.querySelectorAll("[data-article-slug]");
+          for (var i = 0; i < cards.length; i++) {
+            var slug = cards[i].getAttribute("data-article-slug");
+            if (slug && dict[slug]) cards[i].setAttribute("data-read", "");
+          }
+        } catch (e) {
+          // ignore (private mode, parse error, etc.)
+        }
+      })();
+    </script>
   </body>
 </html>

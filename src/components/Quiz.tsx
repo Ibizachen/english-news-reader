@@ -1,4 +1,5 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
+import { getQuizScores, saveQuizScore } from "../lib/preferences";
 
 type Option = "A" | "B" | "C" | "D";
 
@@ -13,6 +14,12 @@ interface Question {
 
 interface Props {
   questions: Question[];
+  /**
+   * Article slug — used to persist this attempt's score to localStorage so
+   * the settings page can show overall stats. Optional for backwards
+   * compatibility (callers without a slug just lose the persistence).
+   */
+  slug?: string;
 }
 
 const TYPE_LABEL_ZH: Record<string, string> = {
@@ -22,11 +29,12 @@ const TYPE_LABEL_ZH: Record<string, string> = {
   main_idea: "主旨 Main Idea",
 };
 
-export default function Quiz({ questions }: Props) {
+export default function Quiz({ questions, slug }: Props) {
   const [answers, setAnswers] = useState<Record<string, Option | undefined>>(
     {}
   );
   const [submitted, setSubmitted] = useState(false);
+  const [previousBest, setPreviousBest] = useState<number | null>(null);
 
   const score = useMemo(() => {
     if (!submitted) return 0;
@@ -34,6 +42,22 @@ export default function Quiz({ questions }: Props) {
   }, [submitted, answers, questions]);
 
   const allAnswered = questions.every((q) => answers[q.id]);
+
+  // On mount: check whether this article already has a saved score so
+  // we can display the previous best as context once the user submits.
+  useEffect(() => {
+    if (!slug) return;
+    const saved = getQuizScores()[slug];
+    if (saved) setPreviousBest(saved.correct);
+  }, [slug]);
+
+  // When the user submits, persist this attempt's score so settings page
+  // stats stay accurate. Latest attempt overwrites previous (so taking
+  // the quiz again replaces the saved score).
+  useEffect(() => {
+    if (!submitted || !slug) return;
+    saveQuizScore(slug, score, questions.length);
+  }, [submitted, slug, score, questions.length]);
 
   const handleSelect = (qid: string, opt: Option) => {
     if (submitted) return;
@@ -154,6 +178,11 @@ export default function Quiz({ questions }: Props) {
           <>
             <div className="text-lg font-semibold">
               你的成績：{score} / {questions.length}
+              {previousBest !== null && previousBest !== score && (
+                <span className="ml-2 text-sm font-normal text-stone-500 dark:text-stone-400">
+                  （上次：{previousBest} / {questions.length}）
+                </span>
+              )}
             </div>
             <button
               type="button"

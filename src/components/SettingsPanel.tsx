@@ -8,10 +8,12 @@ import {
   getBilingualLayout,
   getFontSize,
   getPracticeMode,
+  getStats,
   resetAllPreferences,
   setBilingualLayout,
   setFontSize,
   setPracticeMode,
+  type Stats,
 } from "../lib/preferences";
 
 /**
@@ -29,6 +31,7 @@ export default function SettingsPanel() {
   const [practice, setPractice] = useState(DEFAULT_PRACTICE_MODE);
   const [size, setSize] = useState<FontSize>(DEFAULT_FONT_SIZE);
   const [layout, setLayout] = useState<BilingualLayout>(DEFAULT_BILINGUAL_LAYOUT);
+  const [stats, setStats] = useState<Stats | null>(null);
   const [resetConfirm, setResetConfirm] = useState(false);
 
   // After mount, pull the real values out of localStorage. (We can't do
@@ -37,6 +40,7 @@ export default function SettingsPanel() {
     setPractice(getPracticeMode());
     setSize(getFontSize());
     setLayout(getBilingualLayout());
+    setStats(getStats());
   }, []);
 
   const handlePracticeToggle = () => {
@@ -64,6 +68,7 @@ export default function SettingsPanel() {
     setPractice(DEFAULT_PRACTICE_MODE);
     setSize(DEFAULT_FONT_SIZE);
     setLayout(DEFAULT_BILINGUAL_LAYOUT);
+    setStats(getStats()); // re-pull (now empty) so the stats UI updates
     setResetConfirm(false);
   };
 
@@ -170,6 +175,58 @@ export default function SettingsPanel() {
         </div>
       </section>
 
+      {/* ─── Learning stats ─── */}
+      <section>
+        <h2 className="text-xl font-semibold mb-1">學習統計</h2>
+        <p className="text-sm text-stone-500 dark:text-stone-400 mb-5">
+          只統計這個瀏覽器上的紀錄。文章滾到底部後自動標記為已讀。
+        </p>
+
+        {stats === null ? (
+          <p className="text-sm text-stone-400 dark:text-stone-500">讀取中…</p>
+        ) : stats.totalRead === 0 && stats.quizzesTaken === 0 ? (
+          <div className="rounded-lg border border-dashed border-stone-300 dark:border-stone-700 p-6 text-center text-sm text-stone-500 dark:text-stone-400">
+            還沒有閱讀紀錄。讀完一篇文章就會出現在這裡。
+          </div>
+        ) : (
+          <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
+            <StatCard
+              label="已讀文章"
+              value={stats.totalRead.toString()}
+              suffix="篇"
+            />
+            <StatCard
+              label="連續閱讀"
+              value={stats.currentStreak.toString()}
+              suffix={stats.currentStreak > 0 ? "天 🔥" : "天"}
+              hint={
+                stats.currentStreak === 0 && stats.lastReadDate
+                  ? `上次：${stats.lastReadDate}`
+                  : undefined
+              }
+            />
+            <StatCard
+              label="最長連續"
+              value={stats.longestStreak.toString()}
+              suffix="天"
+            />
+            <StatCard
+              label="Quiz 平均"
+              value={
+                Number.isFinite(stats.quizAvgRatio)
+                  ? `${Math.round(stats.quizAvgRatio * 100)}%`
+                  : "—"
+              }
+              hint={
+                stats.quizzesTaken > 0
+                  ? `共做 ${stats.quizzesTaken} 篇`
+                  : "尚未作答"
+              }
+            />
+          </div>
+        )}
+      </section>
+
       {/* ─── About ─── */}
       <section>
         <h2 className="text-xl font-semibold mb-3">關於</h2>
@@ -225,6 +282,43 @@ export default function SettingsPanel() {
           )}
         </div>
       </section>
+    </div>
+  );
+}
+
+/**
+ * Small tile used in the stats grid. Big number on top, label below,
+ * optional hint at the bottom.
+ */
+function StatCard({
+  label,
+  value,
+  suffix,
+  hint,
+}: {
+  label: string;
+  value: string;
+  suffix?: string;
+  hint?: string;
+}) {
+  return (
+    <div className="rounded-lg border border-stone-200 dark:border-stone-800 p-3 text-center">
+      <div className="text-2xl font-bold text-stone-900 dark:text-stone-100">
+        {value}
+        {suffix && (
+          <span className="ml-0.5 text-sm font-normal text-stone-500 dark:text-stone-400">
+            {suffix}
+          </span>
+        )}
+      </div>
+      <div className="text-xs text-stone-500 dark:text-stone-400 mt-1">
+        {label}
+      </div>
+      {hint && (
+        <div className="text-[11px] text-stone-400 dark:text-stone-500 mt-0.5">
+          {hint}
+        </div>
+      )}
     </div>
   );
 }

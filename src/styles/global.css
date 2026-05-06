@@ -108,3 +108,19 @@ html.text-large article dl {
     padding: 0;
   }
 }
+
+/* ─────────────────────────────────────────────────────────────
+   Read indicator on article cards.
+   Cards render with a hidden ✓ in the corner. After the page loads,
+   a small script in BaseLayout reads localStorage `enr.read` and adds
+   `data-read=""` to cards whose slug appears there. This CSS rule
+   then reveals the ✓.
+   ───────────────────────────────────────────────────────────── */
+
+.article-card .read-mark {
+  display: none;
+}
+
+.article-card[data-read] .read-mark {
+  display: inline-flex;
+}

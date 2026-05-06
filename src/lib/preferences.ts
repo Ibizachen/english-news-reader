@@ -26,6 +26,8 @@ export const STORAGE_KEYS = {
   practiceMode: "enr.practiceMode",
   fontSize: "enr.fontSize",
   bilingualLayout: "enr.bilingualLayout",
+  read: "enr.read",
+  scores: "enr.scores",
 } as const;
 
 export const DEFAULT_PRACTICE_MODE = true;
@@ -106,6 +108,179 @@ export function setBilingualLayout(layout: BilingualLayout): void {
     "bilingual-responsive",
     layout === "responsive",
   );
+}
+
+/* ─── Read tracking ────────────────────────────────────────────── */
+
+/**
+ * Map of article slug → ISO timestamp of FIRST time this device finished
+ * reading it (= scrolled past the article body). Re-reading does NOT
+ * overwrite — we only record the first read so streaks stay meaningful.
+ */
+export type ReadDict = Record<string, string>;
+
+export function getReadDict(): ReadDict {
+  if (!isBrowser) return {};
+  try {
+    const raw = localStorage.getItem(STORAGE_KEYS.read);
+    if (!raw) return {};
+    const parsed = JSON.parse(raw);
+    return parsed && typeof parsed === "object" ? parsed : {};
+  } catch {
+    return {};
+  }
+}
+
+export function isRead(slug: string): boolean {
+  const dict = getReadDict();
+  return Boolean(dict[slug]);
+}
+
+/** Records the article as read. No-op if already recorded. */
+export function markRead(slug: string): void {
+  if (!isBrowser || !slug) return;
+  try {
+    const dict = getReadDict();
+    if (dict[slug]) return; // already recorded — keep first-read timestamp
+    dict[slug] = new Date().toISOString();
+    localStorage.setItem(STORAGE_KEYS.read, JSON.stringify(dict));
+  } catch {
+    // ignore
+  }
+}
+
+/* ─── Quiz scores ──────────────────────────────────────────────── */
+
+export interface QuizScore {
+  correct: number;
+  total: number;
+  takenAt: string; // ISO timestamp
+}
+
+export type QuizScoreDict = Record<string, QuizScore>;
+
+export function getQuizScores(): QuizScoreDict {
+  if (!isBrowser) return {};
+  try {
+    const raw = localStorage.getItem(STORAGE_KEYS.scores);
+    if (!raw) return {};
+    const parsed = JSON.parse(raw);
+    return parsed && typeof parsed === "object" ? parsed : {};
+  } catch {
+    return {};
+  }
+}
+
+/**
+ * Records quiz score for an article. Latest attempt overwrites earlier.
+ */
+export function saveQuizScore(
+  slug: string,
+  correct: number,
+  total: number,
+): void {
+  if (!isBrowser || !slug) return;
+  try {
+    const dict = getQuizScores();
+    dict[slug] = { correct, total, takenAt: new Date().toISOString() };
+    localStorage.setItem(STORAGE_KEYS.scores, JSON.stringify(dict));
+  } catch {
+    // ignore
+  }
+}
+
+/* ─── Streak / stats ───────────────────────────────────────────── */
+
+const READING_TZ = "Asia/Taipei";
+
+/** Convert ISO timestamp to YYYY-MM-DD in Taipei time. */
+function toTaipeiDate(iso: string): string {
+  return new Date(iso).toLocaleDateString("sv-SE", { timeZone: READING_TZ });
+}
+
+/** Returns YYYY-MM-DD `n` days from `dateStr` (UTC arithmetic). */
+function shiftDate(dateStr: string, days: number): string {
+  const d = new Date(dateStr + "T00:00:00Z");
+  d.setUTCDate(d.getUTCDate() + days);
+  return d.toISOString().slice(0, 10);
+}
+
+export interface Stats {
+  totalRead: number;
+  currentStreak: number;
+  longestStreak: number;
+  quizzesTaken: number;
+  /** Average correct ratio across attempted quizzes, in 0..1. NaN if none. */
+  quizAvgRatio: number;
+  /** ISO date (YYYY-MM-DD) of last reading day, or null. */
+  lastReadDate: string | null;
+}
+
+export function getStats(): Stats {
+  const reads = getReadDict();
+  const scores = getQuizScores();
+
+  const slugs = Object.keys(reads);
+  const totalRead = slugs.length;
+
+  // Unique reading dates (Taipei) sorted ascending.
+  const dateSet = new Set<string>();
+  for (const iso of Object.values(reads)) dateSet.add(toTaipeiDate(iso));
+  const dates = Array.from(dateSet).sort();
+
+  let longestStreak = 0;
+  let currentStreak = 0;
+  let lastReadDate: string | null = null;
+
+  if (dates.length > 0) {
+    lastReadDate = dates[dates.length - 1];
+
+    // Longest streak across all of history.
+    let run = 1;
+    longestStreak = 1;
+    for (let i = 1; i < dates.length; i++) {
+      if (shiftDate(dates[i - 1], 1) === dates[i]) {
+        run++;
+        if (run > longestStreak) longestStreak = run;
+      } else {
+        run = 1;
+      }
+    }
+
+    // Current streak: only counts if the most recent reading day is today
+    // or yesterday (Taipei) — otherwise the streak has been broken.
+    const today = toTaipeiDate(new Date().toISOString());
+    const yesterday = shiftDate(today, -1);
+    if (lastReadDate === today || lastReadDate === yesterday) {
+      currentStreak = 1;
+      let cursor = lastReadDate;
+      for (let i = dates.length - 2; i >= 0; i--) {
+        if (shiftDate(dates[i], 1) === cursor) {
+          currentStreak++;
+          cursor = dates[i];
+        } else {
+          break;
+        }
+      }
+    }
+  }
+
+  const scoreList = Object.values(scores);
+  const quizzesTaken = scoreList.length;
+  const quizAvgRatio =
+    quizzesTaken === 0
+      ? NaN
+      : scoreList.reduce((sum, s) => sum + s.correct / s.total, 0) /
+        quizzesTaken;
+
+  return {
+    totalRead,
+    currentStreak,
+    longestStreak,
+    quizzesTaken,
+    quizAvgRatio,
+    lastReadDate,
+  };
 }
 
 /* ─── Reset all preferences ────────────────────────────────────── */
