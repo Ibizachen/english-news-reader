@@ -14,7 +14,7 @@ env:
 # 錯開整點幾分鐘可大幅提升排程可靠度。對使用者體驗無感差別。
 on:
   schedule:
-    - cron: "15 23 * * *"
+    - cron: "13 23 * * *"
   workflow_dispatch: {}
 
 # 工作流需要把產出的文章 commit 回 repo，所以要 write 權限
