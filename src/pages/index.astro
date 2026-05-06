@@ -50,7 +50,33 @@ const olderDates = Object.keys(olderByDate).sort().reverse();
     }
   </section>
 
-  <section class="max-w-5xl mx-auto px-4 pb-10">
+  {/*
+    Section order: today → earlier → categories.
+    Reasoning: visitors come for today's news first, then want to scroll
+    through what they may have missed (earlier days). Categories live at
+    the bottom as a navigation aid for those who want to dig deeper.
+  */}
+  {
+    olderDates.length > 0 && (
+      <section class="max-w-5xl mx-auto px-4 pb-10">
+        <h2 class="text-xl font-semibold mb-4">過往文章 · Earlier</h2>
+        {olderDates.map((date) => (
+          <div class="mb-8">
+            <h3 class="text-sm font-medium text-stone-500 dark:text-stone-400 mb-3">
+              {date}
+            </h3>
+            <div class="grid gap-4 md:grid-cols-2">
+              {olderByDate[date].map((a) => (
+                <ArticleCard article={a} />
+              ))}
+            </div>
+          </div>
+        ))}
+      </section>
+    )
+  }
+
+  <section class="max-w-5xl mx-auto px-4 pb-16">
     <h2 class="text-xl font-semibold mb-4">瀏覽分類 · Browse categories</h2>
     <div class="grid grid-cols-2 md:grid-cols-4 gap-3">
       {
@@ -68,24 +94,4 @@ const olderDates = Object.keys(olderByDate).sort().reverse();
       }
     </div>
   </section>
-
-  {
-    olderDates.length > 0 && (
-      <section class="max-w-5xl mx-auto px-4 pb-16">
-        <h2 class="text-xl font-semibold mb-4">過往文章 · Earlier</h2>
-        {olderDates.map((date) => (
-          <div class="mb-8">
-            <h3 class="text-sm font-medium text-stone-500 dark:text-stone-400 mb-3">
-              {date}
-            </h3>
-            <div class="grid gap-4 md:grid-cols-2">
-              {olderByDate[date].map((a) => (
-                <ArticleCard article={a} />
-              ))}
-            </div>
-          </div>
-        ))}
-      </section>
-    )
-  }
 </BaseLayout>
