@@ -1,0 +1,88 @@
+---
+export const prerender = true;
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="搜尋"
+  description="搜尋網站上所有英文新聞文章"
+>
+  <article class="max-w-3xl mx-auto px-4 pt-10 pb-16">
+    <h1 class="text-2xl md:text-3xl font-bold tracking-tight mb-2">
+      搜尋 · Search
+    </h1>
+    <p class="text-stone-500 dark:text-stone-400 mb-8">
+      在所有文章標題、內容、單字解釋裡搜尋。可以輸入英文或中文。
+    </p>
+
+    {/*
+      Pagefind UI gets mounted into this div. The search index files (built
+      by `npx pagefind --site dist` in bin/build_for_deploy.sh) live at
+      /pagefind/* in the deployed site. Both UI script and CSS load from
+      there too, so this page only needs the empty container plus a tiny
+      bootstrap script.
+    */}
+    <div id="search" class="pagefind-mount"></div>
+
+    {/* Show a friendly hint while pagefind hasn't loaded yet (e.g. dev mode). */}
+    <noscript>
+      <p class="text-sm text-amber-700 dark:text-amber-300 mt-4">
+        搜尋需要 JavaScript 才能運作，請在瀏覽器開啟 JavaScript。
+      </p>
+    </noscript>
+
+    <p
+      id="search-fallback"
+      class="hidden mt-6 text-sm text-stone-500 dark:text-stone-400"
+    >
+      搜尋索引載入中⋯⋯如果一直顯示這個訊息，可能你正在本機 dev 模式（搜尋只在 build 後可用），或網路連線有問題。
+    </p>
+  </article>
+
+  {/*
+    Pagefind UI assets live in /pagefind/ at the deployed site root. We use
+    inline tags (instead of <link>/<script> in <head>) so this only loads on
+    /search and doesn't slow down other pages.
+  */}
+  <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+  <script is:inline src="/pagefind/pagefind-ui.js"></script>
+  <script is:inline>
+    (function () {
+      // Pagefind loads asynchronously. If after 3 seconds we still don't
+      // have a PagefindUI constructor, show the fallback hint.
+      var fallbackTimer = setTimeout(function () {
+        var el = document.getElementById("search-fallback");
+        if (el) el.classList.remove("hidden");
+      }, 3000);
+
+      function init() {
+        if (typeof PagefindUI === "undefined") {
+          // Try again on next tick — script may not have parsed yet.
+          setTimeout(init, 100);
+          return;
+        }
+        clearTimeout(fallbackTimer);
+        new PagefindUI({
+          element: "#search",
+          showSubResults: true,
+          showImages: false,
+          translations: {
+            placeholder: "搜尋⋯⋯（試試 OpenAI、climate、台積電）",
+            clear_search: "清除",
+            load_more: "載入更多",
+            search_label: "搜尋本站",
+            filters_label: "篩選",
+            zero_results: "找不到符合「[SEARCH_TERM]」的結果",
+            many_results: "共 [COUNT] 篇結果符合「[SEARCH_TERM]」",
+            one_result: "找到 1 篇結果符合「[SEARCH_TERM]」",
+            alt_search:
+              "找不到「[SEARCH_TERM]」。改顯示「[DIFFERENT_TERM]」的結果：",
+            search_suggestion: "找不到「[SEARCH_TERM]」。試試這些：",
+            searching: "搜尋「[SEARCH_TERM]」中⋯⋯",
+          },
+        });
+      }
+      init();
+    })();
+  </script>
+</BaseLayout>

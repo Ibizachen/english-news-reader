@@ -44,6 +44,37 @@ const isActive = (href: string) =>
         </a>
       </nav>
       {/*
+        Search (magnifier) icon — always visible. Links to /search which
+        loads Pagefind UI for full-text search across all articles.
+      */}
+      <a
+        href="/search/"
+        aria-label="搜尋"
+        title="搜尋"
+        class:list={[
+          "inline-flex items-center justify-center rounded-md p-2 transition-colors hover:bg-stone-100 dark:hover:bg-stone-800",
+          isActive("/search")
+            ? "text-stone-900 dark:text-stone-100"
+            : "text-stone-500 dark:text-stone-400 hover:text-stone-900 dark:hover:text-stone-100",
+        ]}
+      >
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="20"
+          height="20"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          aria-hidden="true"
+        >
+          <circle cx="11" cy="11" r="7"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+      </a>
+      {/*
         Settings (gear) icon — always visible, both desktop and mobile.
         Links to /settings where the user toggles practice mode, font size, etc.
       */}

@@ -35,4 +35,11 @@ echo "=== Building public site (Astro static) ==="
 npm run build
 
 echo ""
+echo "=== Building search index (Pagefind) ==="
+# Pagefind walks dist/, parses every HTML, and writes a static search index
+# into dist/pagefind/. The /search page loads /pagefind/pagefind-ui.js to
+# query that index entirely client-side — no backend, no API call.
+npx pagefind --site dist
+
+echo ""
 echo "✅ Build 完成 — 結果在 dist/"

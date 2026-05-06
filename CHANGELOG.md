@@ -3,10 +3,19 @@
 本檔案記錄這個英文新聞閱讀網站每個版本的變動。
 版本號採用 [SemVer](https://semver.org/lang/zh-TW/) 風格：MAJOR.MINOR.PATCH。
 
-## [2.2.0] — 計畫中（第三波）
+## [2.2.0] — Unreleased（第三波，準備 push）
 
-### 預定新增
-- 全文搜尋（pagefind 靜態索引）
+### 新增
+- **全文搜尋**：header 加入放大鏡 icon → 連到新的 `/search` 頁
+- 使用 [Pagefind](https://pagefind.app/) 在 build 階段預先索引所有文章內容（標題、本文、易誤解詞彙、Quiz）
+- 完全 client-side 搜尋——靜態索引下載到瀏覽器、本地過濾，**沒有後端、沒有 API 呼叫**
+- 支援中英混合查詢（雖然繁中沒有 stemming，但精確匹配運作正常）
+
+### 技術細節
+- `bin/build_for_deploy.sh` 在 `npm run build` 之後加跑 `npx pagefind --site dist`
+- Pagefind 把索引輸出到 `dist/pagefind/`，內含 `.pf_meta`、`fragment/`、`index/` 等
+- `/search` 頁面只載入 `pagefind-ui.css` 和 `pagefind-ui.js`（不影響其他頁面）
+- 搜尋介面文字客製成繁中 placeholder / 提示
 
 ## [2.1.0] — Unreleased（第二波，準備 push）
 
