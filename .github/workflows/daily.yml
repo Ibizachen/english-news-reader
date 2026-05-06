@@ -1,5 +1,10 @@
 name: Daily article generation
 
+# 強制 GitHub Actions 用 Node.js 24（不要用即將淘汰的 Node 20）
+# 等 setup-uv 等 actions 自己更新後可以拿掉這行。
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 # 每天台北早上 6:00 自動跑一次（= UTC 22:00 前一天）。
 # 也可以從 GitHub Actions 介面點 "Run workflow" 手動觸發。
 on:
