@@ -28,8 +28,9 @@ def render(template: str, **kwargs: Any) -> str:
 TOPIC_SELECTION_PROMPT = """
 You are a news editor selecting today's topics for an English reading practice site.
 
-Review the headlines below, organized by category. Select 4-5 topics that meet ALL of these criteria:
-1. Cover at least 3 different categories (politics, economics, technology, energy, society, health, public-health, tcm)
+Review the headlines below, organized by category. Select 6 topics that meet ALL of these criteria:
+1. Cover at least 4 different categories (politics, economics, technology, energy, society, health, public-health)
+   — explicitly TRY to include at least one health AND one public-health topic if reasonable candidates exist
 2. Are SUBSTANTIVE — avoid celebrity gossip, sports scores, weather, minor accidents
 3. Have multiple independent sources covering them (cluster headlines about the same story when you can)
 4. Have clear cause-and-effect or multi-perspective angles
@@ -46,7 +47,7 @@ Output as valid JSON, nothing else. No markdown fences, no preamble:
   "selected_topics": [
     {
       "topic_title": "Short topic name (max 8 words)",
-      "category": "politics|economics|technology|energy|society|health|public-health|tcm",
+      "category": "politics|economics|technology|energy|society|health|public-health",
       "rationale": "One sentence on why this topic and angle",
       "source_urls": ["url1", "url2", "url3"]
     }

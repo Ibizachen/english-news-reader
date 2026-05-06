@@ -3,7 +3,38 @@
 本檔案記錄這個英文新聞閱讀網站每個版本的變動。
 版本號採用 [SemVer](https://semver.org/lang/zh-TW/) 風格：MAJOR.MINOR.PATCH。
 
-## [2.2.0] — Unreleased（第三波，準備 push）
+## [2.3.0] — 2026-05-07（Unreleased，準備 push）
+
+### 新增
+- **每天文章數從 4-5 → 6** — 更平均覆蓋各分類
+- **10 個新 RSS 來源**（醫學 / 公衛 / The Conversation 政治）：
+  - BMJ News（英國醫學期刊新聞）
+  - MedPage Today（臨床醫療新聞）
+  - KFF Health News（美國公衛深度報導）
+  - CDC MMWR（疾管署週報）
+  - Lancet Public Health（頂級期刊新聞）
+  - EurekAlert Medicine & Health（學界新聞稿聚合）
+  - The Conversation Health / Medicine / Public Health / Politics（學者寫的科普）
+- **首頁限縮為「最近 7 天」** — 過往超過 7 天的文章移到 `/archive`，避免首頁無限長
+- **新增 `/archive` 完整文章庫**：每頁 20 篇，分頁排序
+- **分類頁支援分頁**：每分類超過 20 篇自動分頁（`/category/{cat}/page/2/`）
+
+### 變更
+- **AI topic 選擇 prompt 強化**：明確要求嘗試包含至少 1 篇醫學 + 1 篇公衛
+- **首頁區段順序**：今日 → 過往 7 天 → 瀏覽分類
+
+### 移除
+- **中醫分類完全砍掉** — 英文世界沒有足夠的中醫新聞來源，這個分類三個月內絕對是空的；砍掉乾淨
+  - 移除 `tcm` from `CATEGORIES` 與 `CATEGORY_LABELS`
+  - 移除 `China Daily Lifestyle` 與 `SCMP Lifestyle` RSS 來源（這兩個來源從沒實際產出有用內容）
+  - 移除 prompts.py 與 ai_pipeline.py 裡所有 `tcm` references
+
+### 預期影響
+- 每天 cron 跑稍久（~9 分鐘 vs 原 ~7 分鐘）— 因為多 1 篇文章
+- API 用量 ~21 RPD → ~25 RPD（仍在 500 RPD 免費額度內，無感）
+- 首頁載入速度**保持輕快**，無論未來累積多少文章都不會變慢
+
+## [2.2.0] — 2026-05-07
 
 ### 新增
 - **全文搜尋**：header 加入放大鏡 icon → 連到新的 `/search` 頁
@@ -17,7 +48,7 @@
 - `/search` 頁面只載入 `pagefind-ui.css` 和 `pagefind-ui.js`（不影響其他頁面）
 - 搜尋介面文字客製成繁中 placeholder / 提示
 
-## [2.1.0] — Unreleased（第二波，準備 push）
+## [2.1.0] — 2026-05-07
 
 ### 新增
 - **已讀標記**：卡片右上角綠色小勾。讀者滾過整個文章本文後自動標記，回首頁就能看到哪些已讀過
@@ -31,7 +62,7 @@
 - 連續天數計算在 client side 即時從 `enr.read` 的時間戳推導（不存獨立的 streak 變數），避免狀態不一致
 - 首頁 / 分類頁的 ✓ 標記由 `<body>` 結尾的內聯腳本套上 `data-read=""`，CSS 控制顯示
 
-## [2.0.0] — Unreleased（第一波，準備 push）
+## [2.0.0] — 2026-05-07
 
 ### 新增
 - **英文練習模式**：預設開啟，隱藏首頁卡片與文章頁的中文摘要，避免劇透干擾閱讀練習

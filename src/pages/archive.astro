@@ -1,0 +1,65 @@
+---
+// Page 1 of the full article archive (canonical URL /archive/).
+// Subsequent pages live at /archive/page/2/, /archive/page/3/, etc.
+// See src/pages/archive/page/[page].astro for the paginated routes.
+//
+// Why two files instead of Astro's `paginate()` rest-route pattern?
+// Keeping /archive/ as a stable URL (linked from the homepage's "see
+// more" button) is simpler than dealing with Astro paginate's [...page]
+// quirks. The shared rendering lives in this file; page 2+ duplicates a
+// thin wrapper that imports the same articles + slices.
+export const prerender = true;
+import BaseLayout from "../layouts/BaseLayout.astro";
+import ArticleCard from "../components/ArticleCard.astro";
+import { loadArticles } from "../lib/articles";
+
+const PAGE_SIZE = 20;
+
+const allArticles = loadArticles();
+const totalArticles = allArticles.length;
+const totalPages = Math.max(1, Math.ceil(totalArticles / PAGE_SIZE));
+const currentPage = 1;
+const pageArticles = allArticles.slice(0, PAGE_SIZE);
+---
+
+<BaseLayout
+  title="完整文章庫"
+  description="所有英文新聞文章，依時間排序"
+>
+  <section class="max-w-5xl mx-auto px-4 pt-10 pb-6">
+    <p class="text-sm text-stone-500 dark:text-stone-400">完整文章庫 · Archive</p>
+    <h1 class="mt-1 text-2xl md:text-3xl font-bold tracking-tight">
+      所有文章 <span class="text-stone-400 dark:text-stone-500">/ All articles</span>
+    </h1>
+    <p class="mt-2 text-stone-600 dark:text-stone-400">
+      共 {totalArticles} 篇文章，第 {currentPage} 頁 / 共 {totalPages} 頁
+    </p>
+  </section>
+
+  <section class="max-w-5xl mx-auto px-4 pb-10">
+    <div class="grid gap-4 md:grid-cols-2">
+      {pageArticles.map((a) => <ArticleCard article={a} />)}
+    </div>
+  </section>
+
+  {/* Pagination controls — only show if there's more than one page. */}
+  {totalPages > 1 && (
+    <section class="max-w-5xl mx-auto px-4 pb-16">
+      <nav
+        aria-label="分頁導覽"
+        class="flex items-center justify-between gap-3 border-t border-stone-200 dark:border-stone-800 pt-6"
+      >
+        <span class="text-sm text-stone-400 dark:text-stone-500">
+          第 {currentPage} 頁 / 共 {totalPages} 頁
+        </span>
+        <a
+          href={`/archive/page/${currentPage + 1}/`}
+          class="inline-flex items-center gap-2 text-sm rounded-md border border-stone-300 dark:border-stone-700 px-4 py-2 text-stone-700 dark:text-stone-300 hover:bg-stone-50 dark:hover:bg-stone-900 transition"
+        >
+          下一頁 · Next
+          <span aria-hidden="true">→</span>
+        </a>
+      </nav>
+    </section>
+  )}
+</BaseLayout>

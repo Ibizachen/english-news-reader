@@ -4,7 +4,7 @@ ai_pipeline.py — Phase 3 AI orchestrator.
 Reads data/raw/<date>/headlines.json and produces final articles at
 data/published/<date>/articles/<slug>.json by running four stages:
 
-  1. topic_selection    pick 4-5 topics from candidate headlines
+  1. topic_selection    pick 6 topics from candidate headlines
   2. article_synthesis  for each topic, write a 600-1000 word English article
   3. translation        translate paragraph-by-paragraph into 繁體中文
   4. quiz_generation    create 4 multiple-choice questions
@@ -54,7 +54,6 @@ VALID_CATEGORIES = {
     "society",
     "health",
     "public-health",
-    "tcm",
 }
 
 # =============================================================================

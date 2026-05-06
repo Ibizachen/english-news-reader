@@ -1,0 +1,93 @@
+---
+// Pages 2+ of the full article archive (URLs /archive/page/2/, /archive/page/3/, ...).
+// Page 1 lives at /archive/ — see src/pages/archive.astro.
+//
+// We pre-render every page that has at least 1 article. As the site grows
+// over months, this naturally generates more pages without any code change.
+export const prerender = true;
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import ArticleCard from "../../../components/ArticleCard.astro";
+import { loadArticles } from "../../../lib/articles";
+
+const PAGE_SIZE = 20;
+
+export function getStaticPaths() {
+  // NOTE: getStaticPaths runs in an isolated scope and can't see frontmatter
+  // module-level consts. Re-declare PAGE_SIZE here (keep both values in sync).
+  const PAGE_SIZE = 20;
+  const all = loadArticles();
+  const totalPages = Math.max(1, Math.ceil(all.length / PAGE_SIZE));
+  // We only generate pages 2..N here. Page 1 is /archive/.
+  const pages = [];
+  for (let p = 2; p <= totalPages; p++) {
+    pages.push({ params: { page: String(p) } });
+  }
+  return pages;
+}
+
+const { page } = Astro.params;
+const currentPage = Number(page);
+const allArticles = loadArticles();
+const totalArticles = allArticles.length;
+const totalPages = Math.max(1, Math.ceil(totalArticles / PAGE_SIZE));
+
+// Defensive guard — should never trigger because getStaticPaths only emits valid pages.
+const pageArticles = allArticles.slice(
+  (currentPage - 1) * PAGE_SIZE,
+  currentPage * PAGE_SIZE,
+);
+
+const prevHref = currentPage === 2 ? "/archive/" : `/archive/page/${currentPage - 1}/`;
+const nextHref = `/archive/page/${currentPage + 1}/`;
+---
+
+<BaseLayout
+  title={`完整文章庫 · 第 ${currentPage} 頁`}
+  description={`所有英文新聞文章，第 ${currentPage} 頁 / 共 ${totalPages} 頁`}
+>
+  <section class="max-w-5xl mx-auto px-4 pt-10 pb-6">
+    <p class="text-sm text-stone-500 dark:text-stone-400">完整文章庫 · Archive</p>
+    <h1 class="mt-1 text-2xl md:text-3xl font-bold tracking-tight">
+      所有文章 <span class="text-stone-400 dark:text-stone-500">/ All articles</span>
+    </h1>
+    <p class="mt-2 text-stone-600 dark:text-stone-400">
+      共 {totalArticles} 篇文章，第 {currentPage} 頁 / 共 {totalPages} 頁
+    </p>
+  </section>
+
+  <section class="max-w-5xl mx-auto px-4 pb-10">
+    <div class="grid gap-4 md:grid-cols-2">
+      {pageArticles.map((a) => <ArticleCard article={a} />)}
+    </div>
+  </section>
+
+  <section class="max-w-5xl mx-auto px-4 pb-16">
+    <nav
+      aria-label="分頁導覽"
+      class="flex items-center justify-between gap-3 border-t border-stone-200 dark:border-stone-800 pt-6"
+    >
+      <a
+        href={prevHref}
+        class="inline-flex items-center gap-2 text-sm rounded-md border border-stone-300 dark:border-stone-700 px-4 py-2 text-stone-700 dark:text-stone-300 hover:bg-stone-50 dark:hover:bg-stone-900 transition"
+      >
+        <span aria-hidden="true">←</span>
+        上一頁 · Prev
+      </a>
+      <span class="text-sm text-stone-400 dark:text-stone-500">
+        第 {currentPage} 頁 / 共 {totalPages} 頁
+      </span>
+      {currentPage < totalPages ? (
+        <a
+          href={nextHref}
+          class="inline-flex items-center gap-2 text-sm rounded-md border border-stone-300 dark:border-stone-700 px-4 py-2 text-stone-700 dark:text-stone-300 hover:bg-stone-50 dark:hover:bg-stone-900 transition"
+        >
+          下一頁 · Next
+          <span aria-hidden="true">→</span>
+        </a>
+      ) : (
+        // Spacer so the layout stays balanced on the last page.
+        <span class="w-[88px]"></span>
+      )}
+    </nav>
+  </section>
+</BaseLayout>

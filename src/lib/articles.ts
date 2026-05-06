@@ -9,7 +9,6 @@ export const CATEGORIES = [
   "society",
   "health",
   "public-health",
-  "tcm",
 ] as const;
 
 export type Category = (typeof CATEGORIES)[number];
@@ -22,7 +21,6 @@ export const CATEGORY_LABELS: Record<Category, { en: string; zh: string }> = {
   society: { en: "Society", zh: "社會" },
   health: { en: "Health", zh: "醫學" },
   "public-health": { en: "Public Health", zh: "公衛" },
-  tcm: { en: "Chinese Medicine", zh: "中醫" },
 };
 
 export interface Paragraph {

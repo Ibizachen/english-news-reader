@@ -1,0 +1,103 @@
+---
+// Category pagination — pages 2+ (URLs /category/{cat}/page/2/, ...).
+// Page 1 lives at /category/{cat}/ — see ../[category].astro.
+//
+// We pre-render the cross-product of (categories × pages) for every page
+// that has at least 1 article. As any category accumulates articles
+// past 20/40/60/..., new pages get generated automatically on the next
+// build. No code change needed.
+export const prerender = true;
+import BaseLayout from "../../../../layouts/BaseLayout.astro";
+import ArticleCard from "../../../../components/ArticleCard.astro";
+import {
+  CATEGORIES,
+  CATEGORY_LABELS,
+  getArticlesByCategory,
+} from "../../../../lib/articles";
+import type { Category } from "../../../../lib/articles";
+
+const PAGE_SIZE = 20;
+
+export function getStaticPaths() {
+  // NOTE: getStaticPaths runs in an isolated scope and can't see frontmatter
+  // module-level consts. Re-declare PAGE_SIZE here (keep both values in sync).
+  const PAGE_SIZE = 20;
+  const paths: Array<{ params: { category: string; page: string } }> = [];
+  for (const cat of CATEGORIES) {
+    const articles = getArticlesByCategory(cat);
+    const totalPages = Math.max(1, Math.ceil(articles.length / PAGE_SIZE));
+    // We only generate pages 2..N here (page 1 is at the parent route).
+    for (let p = 2; p <= totalPages; p++) {
+      paths.push({ params: { category: cat, page: String(p) } });
+    }
+  }
+  return paths;
+}
+
+const { category, page } = Astro.params as { category: Category; page: string };
+const currentPage = Number(page);
+const label = CATEGORY_LABELS[category];
+const allArticles = getArticlesByCategory(category);
+const totalArticles = allArticles.length;
+const totalPages = Math.max(1, Math.ceil(totalArticles / PAGE_SIZE));
+const pageArticles = allArticles.slice(
+  (currentPage - 1) * PAGE_SIZE,
+  currentPage * PAGE_SIZE,
+);
+
+const prevHref =
+  currentPage === 2
+    ? `/category/${category}/`
+    : `/category/${category}/page/${currentPage - 1}/`;
+const nextHref = `/category/${category}/page/${currentPage + 1}/`;
+---
+
+<BaseLayout
+  title={`${label.zh} ${label.en} · 第 ${currentPage} 頁`}
+  description={`${label.zh} 分類，第 ${currentPage} 頁 / 共 ${totalPages} 頁`}
+>
+  <section class="max-w-5xl mx-auto px-4 pt-10 pb-6">
+    <p class="text-sm text-stone-500 dark:text-stone-400">分類 · Category</p>
+    <h1 class="mt-1 text-2xl md:text-3xl font-bold tracking-tight">
+      {label.zh} <span class="text-stone-400 dark:text-stone-500">/ {label.en}</span>
+    </h1>
+    <p class="mt-2 text-stone-600 dark:text-stone-400">
+      共 {totalArticles} 篇文章，第 {currentPage} 頁 / 共 {totalPages} 頁
+    </p>
+  </section>
+
+  <section class="max-w-5xl mx-auto px-4 pb-10">
+    <div class="grid gap-4 md:grid-cols-2">
+      {pageArticles.map((a) => <ArticleCard article={a} />)}
+    </div>
+  </section>
+
+  <section class="max-w-5xl mx-auto px-4 pb-16">
+    <nav
+      aria-label="分頁導覽"
+      class="flex items-center justify-between gap-3 border-t border-stone-200 dark:border-stone-800 pt-6"
+    >
+      <a
+        href={prevHref}
+        class="inline-flex items-center gap-2 text-sm rounded-md border border-stone-300 dark:border-stone-700 px-4 py-2 text-stone-700 dark:text-stone-300 hover:bg-stone-50 dark:hover:bg-stone-900 transition"
+      >
+        <span aria-hidden="true">←</span>
+        上一頁 · Prev
+      </a>
+      <span class="text-sm text-stone-400 dark:text-stone-500">
+        第 {currentPage} 頁 / 共 {totalPages} 頁
+      </span>
+      {currentPage < totalPages ? (
+        <a
+          href={nextHref}
+          class="inline-flex items-center gap-2 text-sm rounded-md border border-stone-300 dark:border-stone-700 px-4 py-2 text-stone-700 dark:text-stone-300 hover:bg-stone-50 dark:hover:bg-stone-900 transition"
+        >
+          下一頁 · Next
+          <span aria-hidden="true">→</span>
+        </a>
+      ) : (
+        <span class="w-[88px]"></span>
+      )}
+    </nav>
+  </section>
+</BaseLayout>

@@ -8,7 +8,7 @@
 #
 # Categories must match those defined in src/lib/articles.ts:
 #   politics, economics, technology, energy, society,
-#   health, public-health, tcm
+#   health, public-health
 
 sources:
   # === BBC ===
@@ -97,15 +97,60 @@ sources:
     categories: [public-health]
     note: "Authoritative source for global public health."
 
-  # === TCM (Traditional Chinese Medicine) ===
-  # English-language RSS coverage of TCM is limited; these are best-effort and
-  # may need re-checking. Many TCM stories naturally appear in BBC Health,
-  # Guardian Health, and Reuters via the existing health feeds.
-  - name: China Daily Lifestyle
-    rss: https://www.chinadaily.com.cn/rss/lifestyle_rss.xml
-    categories: [tcm, society]
-    note: "English coverage of Chinese culture, medicine, lifestyle. Verify URL on first run."
-  - name: SCMP Lifestyle
-    rss: https://www.scmp.com/rss/318208/feed
-    categories: [tcm, health, society]
-    note: "Hong Kong-based English coverage. Verify URL on first run."
+  # === Added in v2.3.0 — health & public-health expansion =====================
+  # Goal: give the AI enough material to consistently surface medicine and
+  # public-health stories every day. Mix of news outlets (BMJ News,
+  # MedPage Today, KFF), institutional sources (CDC MMWR), and "research
+  # news" sites (The Conversation, EurekAlert) that summarise journal
+  # papers in news form.
+
+  - name: BMJ News
+    rss: https://www.bmj.com/news/news.rss
+    categories: [health, public-health]
+    note: "British Medical Journal news section (not research papers — their journalism)."
+
+  - name: MedPage Today
+    rss: https://www.medpagetoday.com/rss/headlines.xml
+    categories: [health]
+    note: "Clinical medicine news for healthcare professionals; high signal."
+
+  - name: KFF Health News
+    rss: https://kffhealthnews.org/feed/
+    categories: [public-health, health]
+    note: "Independent US health policy journalism (formerly Kaiser Health News)."
+
+  - name: CDC MMWR
+    rss: https://tools.cdc.gov/api/v2/resources/media/316423.rss
+    categories: [public-health]
+    note: "CDC Morbidity and Mortality Weekly Report — gold standard epidemiology."
+
+  - name: Lancet Public Health
+    rss: https://www.thelancet.com/rssfeed/lanpub_current.xml
+    categories: [public-health, health]
+    note: "Top journal Public Health section press releases."
+
+  - name: EurekAlert Medicine & Health
+    rss: https://www.eurekalert.org/rss/medicine_health.xml
+    categories: [health, public-health]
+    note: "AAAS science press release aggregator — universities/journals submit research news."
+
+  # The Conversation — academics writing for general public, multi-topic.
+  # Adding their health, public health, and a few other strong topics gives
+  # us bonus coverage in politics/economics too.
+  - name: The Conversation Health
+    rss: https://theconversation.com/global/topics/health-66/articles.atom
+    categories: [health, public-health]
+    note: "Researchers writing for general readers — perfect B1-B2 level."
+
+  - name: The Conversation Medicine
+    rss: https://theconversation.com/global/topics/medicine-148/articles.atom
+    categories: [health]
+
+  - name: The Conversation Public Health
+    rss: https://theconversation.com/global/topics/public-health-3617/articles.atom
+    categories: [public-health]
+
+  - name: The Conversation Politics
+    rss: https://theconversation.com/global/topics/politics-13/articles.atom
+    categories: [politics]
+    note: "Bonus politics coverage from academics — a counterweight to mainstream news cycles."

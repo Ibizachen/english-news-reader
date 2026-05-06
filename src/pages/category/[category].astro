@@ -1,4 +1,11 @@
 ---
+// Category landing page (page 1) at /category/{cat}/.
+// Pages 2+ live at /category/{cat}/page/2/, etc.
+// See src/pages/category/[category]/page/[page].astro for those.
+//
+// Mirrors the /archive/ pagination pattern: keeps /category/{cat}/ as a
+// stable URL that the header & homepage link to, with a [page] dynamic
+// route hanging off it for the long tail.
 export const prerender = true;
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import ArticleCard from "../../components/ArticleCard.astro";
@@ -9,13 +16,19 @@ import {
 } from "../../lib/articles";
 import type { Category } from "../../lib/articles";
 
+const PAGE_SIZE = 20;
+
 export function getStaticPaths() {
   return CATEGORIES.map((cat) => ({ params: { category: cat } }));
 }
 
 const { category } = Astro.params as { category: Category };
 const label = CATEGORY_LABELS[category];
-const articles = getArticlesByCategory(category);
+const allArticles = getArticlesByCategory(category);
+const totalArticles = allArticles.length;
+const totalPages = Math.max(1, Math.ceil(totalArticles / PAGE_SIZE));
+const currentPage = 1;
+const pageArticles = allArticles.slice(0, PAGE_SIZE);
 ---
 
 <BaseLayout
@@ -28,23 +41,41 @@ const articles = getArticlesByCategory(category);
       {label.zh} <span class="text-stone-400 dark:text-stone-500">/ {label.en}</span>
     </h1>
     <p class="mt-2 text-stone-600 dark:text-stone-400">
-      共 {articles.length} 篇文章
+      {totalArticles === 0
+        ? "尚無文章"
+        : `共 ${totalArticles} 篇文章${totalPages > 1 ? `，第 ${currentPage} 頁 / 共 ${totalPages} 頁` : ""}`}
     </p>
   </section>
 
-  <section class="max-w-5xl mx-auto px-4 pb-16">
-    {
-      articles.length === 0 ? (
-        <div class="rounded-lg border border-dashed border-stone-300 dark:border-stone-700 p-8 text-center text-stone-500">
-          這個分類下還沒有文章。
-        </div>
-      ) : (
-        <div class="grid gap-4 md:grid-cols-2">
-          {articles.map((a) => (
-            <ArticleCard article={a} />
-          ))}
-        </div>
-      )
-    }
+  <section class="max-w-5xl mx-auto px-4 pb-10">
+    {totalArticles === 0 ? (
+      <div class="rounded-lg border border-dashed border-stone-300 dark:border-stone-700 p-8 text-center text-stone-500">
+        這個分類下還沒有文章。
+      </div>
+    ) : (
+      <div class="grid gap-4 md:grid-cols-2">
+        {pageArticles.map((a) => <ArticleCard article={a} />)}
+      </div>
+    )}
   </section>
+
+  {totalPages > 1 && (
+    <section class="max-w-5xl mx-auto px-4 pb-16">
+      <nav
+        aria-label="分頁導覽"
+        class="flex items-center justify-between gap-3 border-t border-stone-200 dark:border-stone-800 pt-6"
+      >
+        <span class="text-sm text-stone-400 dark:text-stone-500">
+          第 {currentPage} 頁 / 共 {totalPages} 頁
+        </span>
+        <a
+          href={`/category/${category}/page/${currentPage + 1}/`}
+          class="inline-flex items-center gap-2 text-sm rounded-md border border-stone-300 dark:border-stone-700 px-4 py-2 text-stone-700 dark:text-stone-300 hover:bg-stone-50 dark:hover:bg-stone-900 transition"
+        >
+          下一頁 · Next
+          <span aria-hidden="true">→</span>
+        </a>
+      </nav>
+    </section>
+  )}
 </BaseLayout>

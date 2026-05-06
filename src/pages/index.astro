@@ -6,11 +6,16 @@ import { CATEGORIES, CATEGORY_LABELS, getLocalDate, loadArticles } from "../lib/
 
 const articles = loadArticles();
 // Group "today's" articles = all from the most recent date in Asia/Taipei time.
-// Older articles are grouped by date below.
 const latestDate = articles[0] ? getLocalDate(articles[0].publishedAt) : undefined;
 const latest = latestDate
   ? articles.filter((a) => getLocalDate(a.publishedAt) === latestDate)
   : [];
+
+// "Earlier" section shows the LAST 7 DAYS of articles, grouped by date.
+// Older than 7 days lives only on /archive — keeps the homepage feeling
+// like a current-news feed rather than a sitemap. As content scales to
+// hundreds/thousands of articles, the homepage stays fast.
+const HOMEPAGE_EARLIER_DAYS = 7;
 const olderByDate = articles
   .filter((a) => getLocalDate(a.publishedAt) !== latestDate)
   .reduce<Record<string, typeof articles>>((acc, a) => {
@@ -18,7 +23,15 @@ const olderByDate = articles
     (acc[date] ||= []).push(a);
     return acc;
   }, {});
-const olderDates = Object.keys(olderByDate).sort().reverse();
+const olderDates = Object.keys(olderByDate)
+  .sort()
+  .reverse()
+  .slice(0, HOMEPAGE_EARLIER_DAYS);
+// Show the "browse all articles" link whenever there's at least 1 older
+// article worth digging into. Earlier we gated this on >7 day overflow,
+// but that means new visitors don't discover the archive page until
+// after a week. Better: surface it as soon as there's any back catalog.
+const hasEvenOlder = articles.length > latest.length;
 ---
 
 <BaseLayout
@@ -72,6 +85,17 @@ const olderDates = Object.keys(olderByDate).sort().reverse();
             </div>
           </div>
         ))}
+        {hasEvenOlder && (
+          <div class="mt-2">
+            <a
+              href="/archive/"
+              class="inline-flex items-center gap-2 text-sm rounded-md border border-stone-300 dark:border-stone-700 px-4 py-2 text-stone-700 dark:text-stone-300 hover:bg-stone-50 dark:hover:bg-stone-900 transition"
+            >
+              📚 查看完整文章庫 · Browse all articles
+              <span aria-hidden="true">→</span>
+            </a>
+          </div>
+        )}
       </section>
     )
   }
