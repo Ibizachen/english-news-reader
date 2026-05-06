@@ -5,15 +5,16 @@ name: Daily article generation
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
-# 每天台北早上 6:13 自動跑一次（= UTC 22:13 前一天）。
-# 也可以從 GitHub Actions 介面點 "Run workflow" 手動觸發。
+# TEMP: testing schedule reliability — set to fire at Taipei 07:15 (= UTC 23:15)
+# in ~8 minutes from 07:07. Will revert to a normal morning time after we
+# confirm cron actually fires.
 #
-# 為什麼是 6:13 不是 6:00？GitHub Actions 整點時段排程不穩定（官方文件警告
+# 為什麼錯開整點？GitHub Actions 整點時段排程不穩定（官方文件警告
 # "high load times include the start of every hour"），會延遲甚至跳過。
 # 錯開整點幾分鐘可大幅提升排程可靠度。對使用者體驗無感差別。
 on:
   schedule:
-    - cron: "13 22 * * *"
+    - cron: "15 23 * * *"
   workflow_dispatch: {}
 
 # 工作流需要把產出的文章 commit 回 repo，所以要 write 權限
