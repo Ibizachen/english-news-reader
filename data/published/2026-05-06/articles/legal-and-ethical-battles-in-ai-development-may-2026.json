@@ -1,0 +1,151 @@
+{
+  "id": "2026-05-06-legal-and-ethical-battles-in-ai-development",
+  "slug": "legal-and-ethical-battles-in-ai-development-may-2026",
+  "publishedAt": "2026-05-06T22:30:34.992465Z",
+  "category": "technology",
+  "title": "Legal Battles and Internal Conflict at OpenAI",
+  "subtitle": "A high-stakes court case reveals deep disagreements between tech leaders and questions about the future of artificial intelligence.",
+  "summary": {
+    "en": "OpenAI is currently involved in a major legal battle with its former co-founder, Elon Musk. Musk claims that the company broke its original promises by changing from a non-profit organization to a for-profit business. The trial has brought forward testimony about internal power struggles and personal relationships among top executives. Former leaders have also raised serious concerns about the honesty and management style of CEO Sam Altman. This case highlights the growing tension within the rapidly developing artificial intelligence industry.",
+    "zh": "OpenAI 目前正捲入一場與其共同創辦人伊隆·馬斯克的重大法律訴訟。馬斯克指控該公司將組織從非營利轉型為營利模式，違反了最初的承諾。審判過程揭露了高層主管間的內部權力鬥爭與私人關係。前任領導人也對執行長山姆·奧特曼的誠信與管理風格提出了嚴重質疑。此案凸顯了在快速發展的人工智慧產業中，內部日益緊張的局勢。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The world of artificial intelligence is currently facing a major legal challenge. OpenAI, the company behind the famous ChatGPT, is in the middle of a month-long trial against its former co-founder, Elon Musk. This court case in Oakland has exposed deep divisions within the company and raised questions about how powerful AI businesses should be managed.",
+      "zh": "人工智慧領域目前正面臨一項重大的法律挑戰。開發出知名聊天機器人 ChatGPT 的 OpenAI 公司，正處於與其共同創辦人伊隆·馬斯克 (Elon Musk) 為期一個月的訴訟審判中。這場在奧克蘭進行的官司，不僅揭露了公司內部的嚴重分歧，也引發了關於強大的人工智慧企業應如何管理的質疑。"
+    },
+    {
+      "id": "p2",
+      "en": "Elon Musk, who helped start OpenAI in 2015, is suing the company’s current leaders, Sam Altman and Greg Brockman. Musk claims that they broke their original agreement by changing OpenAI from a non-profit organization—a group that works for the public good rather than for money—into a for-profit enterprise. According to The Guardian, Musk wants the court to remove Altman and Brockman from their positions and reverse the company’s business structure. He is also seeking $134 billion in damages, which he argues should be given back to the non-profit arm of the company.",
+      "zh": "於 2015 年協助創立 OpenAI 的馬斯克，目前正控告該公司現任領導人山姆·奧特曼 (Sam Altman) 與格雷格·布羅克曼 (Greg Brockman)。馬斯克主張，他們將 OpenAI 從一個致力於公共利益而非追求獲利的非營利組織，轉型為營利性企業，此舉違反了最初的協議。根據《衛報》報導，馬斯克要求法院撤除奧特曼與布羅克曼的職位，並恢復該公司的商業架構。他同時尋求 1340 億美元的損害賠償，並主張這筆資金應歸還給該公司的非營利部門。"
+    },
+    {
+      "id": "p3",
+      "en": "OpenAI strongly denies these claims. The company’s lawyers argue that Musk was always aware of the plans to raise money from investors. They suggest that Musk is acting like a \"sore loser\" who is seeking revenge because he left the company in 2018 after failing to gain full control. During the trial, Greg Brockman described a tense 2017 meeting where Musk demanded more power. According to BBC Business, Brockman told the jury that Musk’s mood changed suddenly when his request was denied, and he even feared that Musk might hit him. Shortly after that meeting, Musk stopped providing funding to the company.",
+      "zh": "OpenAI 強烈否認這些指控。該公司的律師團辯稱，馬斯克一直知曉向投資人募資的計畫。他們暗示馬斯克表現得像個「輸不起的人」，因為他在 2018 年未能取得公司完全控制權而離職，如今正尋求報復。在審判期間，布羅克曼描述了一場 2017 年氣氛緊張的會議，當時馬斯克要求獲得更多權力。根據 BBC 商業新聞報導，布羅克曼向陪審團表示，當馬斯克的要求被拒絕時，他的情緒突然轉變，甚至讓他擔心馬斯克可能會動手打人。在那場會議後不久，馬斯克便停止了對公司的資金挹注。"
+    },
+    {
+      "id": "p4",
+      "en": "The trial has also brought attention to the role of Shivon Zilis, a senior executive at Musk’s company, Neuralink. Zilis served on the board of OpenAI from 2020 to 2023. The Guardian reports that OpenAI’s lawyers presented text messages suggesting that Zilis acted as an inside source for Musk after he left the company. In one 2018 message, Zilis asked Musk for advice on whether she should stay friendly with OpenAI to keep information flowing. Musk responded by telling her to stay close, while also mentioning plans to recruit OpenAI staff for his own projects. Zilis testified that she and Musk have a personal relationship and are the parents of four children.",
+      "zh": "這場審判也讓大眾關注到馬斯克旗下公司 Neuralink 的高階主管希馮·齊里斯 (Shivon Zilis) 的角色。齊里斯曾在 2020 年至 2023 年間擔任 OpenAI 的董事會成員。《衛報》報導指出，OpenAI 的律師出示了簡訊紀錄，暗示齊里斯在離開公司後，仍擔任馬斯克的內部消息來源。在 2018 年的一則訊息中，齊里斯曾詢問馬斯克，她是否應該與 OpenAI 保持友好關係以利資訊流通。馬斯克回應要她保持密切聯繫，同時也提到計畫招募 OpenAI 的員工加入他自己的專案。齊里斯作證時表示，她與馬斯克有私交，且兩人育有四名子女。"
+    },
+    {
+      "id": "p5",
+      "en": "Beyond the conflict with Musk, the trial has revealed internal problems regarding leadership. Mira Murati, the former Chief Technology Officer of OpenAI, testified that she found it difficult to trust Sam Altman. In a video deposition, Murati claimed that Altman lied to her about safety standards for a new AI model. She stated that Altman falsely told her that the company’s legal department had approved the release of the model without a full safety review. According to The Verge, Murati noted that she had to work in a very complex environment where she felt Altman was \"pitting his execs against one another.\"",
+      "zh": "除了與馬斯克的衝突外，審判也揭露了領導層內部的問題。OpenAI 前技術長米拉·穆拉蒂 (Mira Murati) 作證時表示，她很難信任奧特曼。在一段錄影證詞中，穆拉蒂聲稱奧特曼在某個新人工智慧模型的安全標準上對她撒謊。她指出，奧特曼曾虛假地告訴她，公司的法務部門已批准在未經完整安全審查的情況下發布該模型。根據《The Verge》報導，穆拉蒂提到她必須在一個極其複雜的環境中工作，並感覺奧特曼在「挑撥高階主管之間的關係」。"
+    },
+    {
+      "id": "p6",
+      "en": "These accusations of dishonesty are not new. The Verge reports that other former leaders, including co-founder Ilya Sutskever and board member Helen Toner, have previously raised concerns about Altman’s communication style. When the board fired Altman in 2023, they stated that he was not \"consistently candid\"—meaning he was not always honest—in his communications. Although Altman was later rehired, these testimonies suggest that the company has struggled with internal trust for a long time.",
+      "zh": "這些關於不誠實的指控並非首見。《The Verge》報導稱，其他前任領導人，包括共同創辦人伊利亞·蘇茨克維 (Ilya Sutskever) 與董事會成員海倫·托納 (Helen Toner)，先前也曾對奧特曼的溝通風格表達擔憂。當董事會在 2023 年開除奧特曼時，他們聲明他在溝通上「並非始終坦誠」。儘管奧特曼後來被重新聘用，但這些證詞顯示該公司長期以來一直深受內部信任問題所苦。"
+    },
+    {
+      "id": "p7",
+      "en": "The implications of this trial are significant for the entire technology industry. As AI becomes more powerful and valuable, the debate over whether these companies should prioritize profit or safety continues to grow. For now, the court must decide if OpenAI’s shift to a for-profit model was a fair business decision or a betrayal of its original mission. As the trial continues, the public is getting a rare look at the intense rivalries and personal connections that shape the future of artificial intelligence.",
+      "zh": "這場審判對整個科技產業影響深遠。隨著人工智慧變得愈發強大且具價值，關於這些公司究竟應優先考慮獲利還是安全的辯論持續升溫。目前，法院必須裁定 OpenAI 轉向營利模式究竟是合理的商業決策，還是對其初衷的背叛。隨著審判持續進行，大眾得以難得地一窺塑造人工智慧未來的激烈競爭與私人連結。"
+    }
+  ],
+  "wordCount": 712,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "sore loser",
+      "definitionEn": "Someone who gets angry or upset when they lose a game or competition.",
+      "definitionZh": "輸不起的人；輸了比賽後表現得很不服氣或憤怒的人。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這是一個常見的貶義詞，用來形容無法大方接受失敗的人。文中：They suggest that Musk is acting like a \"sore loser\" who is seeking revenge because he left the company in 2018 after failing to gain full control."
+    },
+    {
+      "term": "pitting",
+      "definitionEn": "To cause one person or group to fight or compete against another.",
+      "definitionZh": "使……對抗；使……競爭。",
+      "partOfSpeech": "verb (present participle)",
+      "noteZh": "源自 pit（使對抗），常見於描述衝突或競爭關係。文中：Murati noted that she had to work in a very complex environment where she felt Altman was \"pitting his execs against one another.\""
+    },
+    {
+      "term": "candid",
+      "definitionEn": "Honest and direct, even when the truth is unpleasant.",
+      "definitionZh": "坦率的；誠實的。",
+      "partOfSpeech": "adjective",
+      "noteZh": "這個詞在商務或正式場合中常用來形容溝通風格。文中：When the board fired Altman in 2023, they stated that he was not \"consistently candid\"—meaning he was not always honest—in his communications."
+    }
+  ],
+  "sources": [
+    {
+      "name": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cn7pg8ymgezo?at_medium=RSS&at_campaign=rss",
+      "title": "'I thought he was going to hit me,' OpenAI co-founder says of Musk",
+      "publishedAt": "2026-05-06T07:10:16Z"
+    },
+    {
+      "name": "The Guardian Business",
+      "url": "https://www.theguardian.com/technology/2026/may/06/shivon-zilis-testimony-elon-musk-openai-lawsuit",
+      "title": "Shivon Zilis, mother of four of Elon Musk’s children, testifies in OpenAI trial",
+      "publishedAt": "2026-05-06T17:13:57Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati",
+      "title": "Mira Murati tells the court that she couldn’t trust Sam Altman’s words",
+      "publishedAt": "2026-05-06T17:55:53Z"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What specific actions does Elon Musk want the court to take regarding the current leadership of OpenAI?",
+      "options": {
+        "A": "He wants the court to force the company to return to a non-profit status immediately.",
+        "B": "He wants the court to remove Altman and Brockman from their positions and reverse the company's business structure.",
+        "C": "He wants the court to order Altman and Brockman to pay him $134 billion in personal damages.",
+        "D": "He wants the court to appoint a new board of directors to oversee the safety of AI models."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，文中明確提到 Musk 希望法院將 Altman 和 Brockman 從現職中撤職，並要求撤銷公司目前的營利商業結構。選項 A 雖然提到了非營利目標，但並未說明具體的撤職要求；選項 C 錯誤，因為 134 億美元是要求賠償給公司的非營利部門，而非給 Musk 個人；選項 D 則未在文中提及。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the information provided, what can be inferred about the relationship between OpenAI's board and Sam Altman?",
+      "options": {
+        "A": "The board has always fully supported Altman's business decisions and leadership style.",
+        "B": "The board and Altman have a perfect, transparent communication system.",
+        "C": "The board has previously questioned Altman's honesty and integrity, leading to his temporary removal.",
+        "D": "The board is currently trying to fire Altman again due to new evidence from the trial."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第六段，文中提到董事會曾在 2023 年解僱 Altman，理由是他溝通時不夠「坦誠」（not consistently candid），這顯示董事會曾對其誠信產生疑慮。選項 A 與事實相反；選項 B 與文中提到的內部信任問題矛盾；選項 D 雖然提到 trial，但文中並未說明董事會目前正試圖再次解僱他。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the context of the article, what does the word 'pitting' mean in the phrase 'pitting his execs against one another'?",
+      "options": {
+        "A": "Encouraging competition or conflict between people.",
+        "B": "Asking employees to work together on a team project.",
+        "C": "Removing people from their executive positions.",
+        "D": "Comparing the performance of different staff members."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。文中提到 Mira Murati 感覺 Altman 讓高層互相對立（pitting his execs against one another），這在語境中是指他在內部製造競爭或衝突，而非單純的比較或合作。選項 B 與語意相反；選項 C 是解僱的意思，與文中語境不符；選項 D 僅是比較，缺乏「對立」的負面意涵。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary focus of this article?",
+      "options": {
+        "A": "A detailed history of how OpenAI was founded by Elon Musk and Sam Altman.",
+        "B": "A technical explanation of the safety standards used in new AI models.",
+        "C": "The legal and internal challenges facing OpenAI, highlighting leadership conflicts and the debate over its business model.",
+        "D": "A biography of Shivon Zilis and her role in the tech industry."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。本文的核心在於報導 OpenAI 面臨的法律訴訟（Musk 的控訴）、公司內部的信任危機（Murati 的證詞），以及這些事件對 AI 產業關於營利與安全平衡的影響。選項 A 僅是背景；選項 B 並非文章重心；選項 D 僅是文中提到的一個細節，並非全文主旨。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite-preview",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
