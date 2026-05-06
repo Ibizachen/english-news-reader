@@ -39,7 +39,17 @@ const cat = CATEGORY_LABELS[article.category];
       </p>
     )
   }
-  <p class="mt-3 text-sm text-stone-700 dark:text-stone-300 line-clamp-3">
+  {/*
+    Card philosophy:
+      Practice mode (default): title + English subtitle only — the subtitle
+        is already a one-line elevator pitch, so the card stays clean and
+        un-crowded. The reader clicks through to see the full summary.
+      Practice mode OFF: also show Chinese summary, since users in this mode
+        actively want a quick Chinese preview before deciding to click in.
+    The Chinese summary is wrapped in `.zh-spoiler` and hidden by CSS in
+    practice mode — see global.css.
+  */}
+  <p class="zh-spoiler mt-3 text-sm text-stone-700 dark:text-stone-300 line-clamp-3">
     {article.summary.zh}
   </p>
 </a>

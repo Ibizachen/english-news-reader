@@ -95,12 +95,16 @@ function Paragraph({
     );
   }
 
+  // Layout (vertical / responsive) is controlled globally by a class on
+  // <html> set by the inline init script in BaseLayout.astro. CSS in
+  // global.css does the actual styling — see `.bilingual-grid` and
+  // `.bilingual-zh` there. Default is vertical (stacked).
   return (
-    <div className="grid grid-cols-1 lg:grid-cols-2 gap-3 lg:gap-6">
+    <div className="bilingual-grid">
       <p className="text-stone-800 dark:text-stone-200 leading-[1.85] text-[1.05rem]">
         {para.en}
       </p>
-      <p className="rounded-md bg-stone-50 dark:bg-stone-900 p-3 lg:p-0 lg:bg-transparent lg:dark:bg-transparent text-stone-700 dark:text-stone-300 leading-[1.9] text-[1rem]">
+      <p className="bilingual-zh text-stone-700 dark:text-stone-300 leading-[1.9] text-[1rem]">
         {para.zh}
       </p>
     </div>

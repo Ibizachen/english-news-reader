@@ -21,6 +21,37 @@ const fullTitle = title === "英文新聞閱讀" ? title : `${title} | 英文新
     <meta name="generator" content={Astro.generator} />
     {description && <meta name="description" content={description} />}
     <title>{fullTitle}</title>
+    <!--
+      Read user preferences from localStorage BEFORE first paint to avoid
+      a flash of wrong content. Adds classes to <html>:
+        practice-mode          — default ON unless user explicitly turned off
+        text-small|medium|large — default medium
+        bilingual-responsive   — opt-in side-by-side layout on desktop
+                                 (default = vertical / stacked)
+      See src/styles/global.css for the matching rules.
+    -->
+    <script is:inline>
+      (function () {
+        try {
+          var practice = localStorage.getItem("enr.practiceMode");
+          // Default = ON: hide Chinese summary unless user explicitly opted out.
+          if (practice !== "false") {
+            document.documentElement.classList.add("practice-mode");
+          }
+          var size = localStorage.getItem("enr.fontSize");
+          if (size !== "small" && size !== "large") size = "medium";
+          document.documentElement.classList.add("text-" + size);
+
+          // Default = vertical (no class). Only add the class if user chose responsive.
+          if (localStorage.getItem("enr.bilingualLayout") === "responsive") {
+            document.documentElement.classList.add("bilingual-responsive");
+          }
+        } catch (e) {
+          // localStorage may be blocked (private mode, etc.) — fall back to defaults.
+          document.documentElement.classList.add("practice-mode", "text-medium");
+        }
+      })();
+    </script>
   </head>
   <body class="min-h-screen flex flex-col">
     <Header />
