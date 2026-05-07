@@ -1,0 +1,151 @@
+{
+  "id": "2026-05-06-ai-industry-and-openai-legal-trials",
+  "slug": "ai-industry-and-openai-legal-trials-may-2026",
+  "publishedAt": "2026-05-06T23:44:22.436925Z",
+  "category": "technology",
+  "title": "Inside the Legal Battle Over the Future of OpenAI",
+  "subtitle": "A high-stakes court case reveals internal conflicts and the complex relationship between Elon Musk and OpenAI leadership.",
+  "summary": {
+    "en": "Elon Musk is currently suing OpenAI, claiming that its leaders broke their original agreement by moving from a non-profit to a for-profit model. The trial has featured testimony from key figures like Shivon Zilis, who served as a bridge between Musk and the company. Meanwhile, former executives have raised serious concerns about CEO Sam Altman’s honesty and management style. The court is now examining internal notes and communications to decide if the company betrayed its founding mission. This case highlights the intense pressure and secrecy surrounding the development of advanced artificial intelligence.",
+    "zh": "伊隆·馬斯克目前正對 OpenAI 提起訴訟，聲稱該公司領導層由非營利模式轉向營利模式，違背了最初的協議。審判中出現了關鍵人物的證詞，例如曾擔任馬斯克與公司之間橋樑的希馮·齊里斯。同時，前任高階主管們對執行長山姆·奧特曼的誠信與管理風格提出了嚴重疑慮。法院目前正在審查內部筆記與通訊，以判定該公司是否背棄了創立時的使命。此案凸顯了在開發先進人工智慧過程中，所面臨的巨大壓力與隱密性。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The world of artificial intelligence is currently watching a major legal battle in court. Elon Musk, one of the original co-founders of OpenAI, has taken the company to court. He claims that CEO Sam Altman and president Greg Brockman broke their original promise when they changed the company from a non-profit organization into a for-profit business. A non-profit is an organization that does not have the goal of making money for owners, while a for-profit business is designed to earn money for its investors. Musk wants both leaders removed from their positions and is asking for $134 billion in damages to be returned to the non-profit arm of the company.",
+      "zh": "人工智慧領域目前正密切關注一場重大的法律訴訟。OpenAI 的原始共同創辦人之一伊隆·馬斯克（Elon Musk）已將該公司告上法庭。他聲稱執行長山姆·奧特曼（Sam Altman）與總裁葛瑞格·布羅克曼（Greg Brockman）在將公司從非營利組織轉型為營利事業時，違背了最初的承諾。非營利組織的宗旨並非為所有者獲利，而營利事業則是為了替投資人賺錢而設計。馬斯克要求撤除這兩位領導人的職位，並要求將一千三百四十億美元的損害賠償金歸還給該公司的非營利部門。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Guardian Business, OpenAI rejects these claims. The company argues that Musk is simply unhappy because he failed to take control of the business in 2018. They suggest that Musk was aware of the plans to change the company structure all along. During the trial, lawyers for OpenAI have tried to show that Musk left the company because he was angry about its success and wanted to hurt it.",
+      "zh": "根據《衛報商業版》（The Guardian Business）報導，OpenAI 駁斥了這些指控。該公司主張，馬斯克純粹是因為在二〇一八年未能取得公司控制權而感到不滿。他們指出，馬斯克自始至終都知曉公司結構調整的計畫。在審判過程中，OpenAI 的律師試圖證明馬斯克離開公司是因為對其成功感到憤怒，並企圖傷害該公司。"
+    },
+    {
+      "id": "p3",
+      "en": "One of the most important witnesses in this trial is Shivon Zilis, an executive at Musk’s company, Neuralink. Zilis served on the board of OpenAI from 2020 to 2023 and had a close professional and personal relationship with Musk. The Verge reports that Zilis played a key role in helping Musk and the OpenAI team communicate. During her testimony, she admitted that she often acted as a bridge between the two sides. However, her credibility was questioned because she kept her romantic relationship with Musk and the fact that they have four children together a secret from the OpenAI board for a long time.",
+      "zh": "此案中最重要的證人之一是馬斯克旗下公司 Neuralink 的高階主管希馮·齊里斯（Shivon Zilis）。齊里斯曾於二〇二〇年至二〇二三年擔任 OpenAI 董事會成員，並與馬斯克保持著密切的專業與私人關係。《The Verge》報導指出，齊里斯在協助馬斯克與 OpenAI 團隊溝通方面扮演了關鍵角色。在作證時，她承認自己經常在雙方之間擔任橋樑。然而，由於她長期對 OpenAI 董事會隱瞞與馬斯克的戀情以及兩人育有四名子女的事實，她的誠信度受到了質疑。"
+    },
+    {
+      "id": "p4",
+      "en": "Evidence presented in court includes personal notes taken by Zilis during meetings between the company’s founders. These notes are considered very important by the court because they show what the leaders were discussing when they decided to change the company’s structure. While Zilis claimed she was just trying to help everyone work together, the notes suggest that she was deeply involved in the private discussions that led to the current legal conflict.",
+      "zh": "法庭上提出的證據包括齊里斯在公司創辦人會議期間所做的個人筆記。這些筆記被法院視為至關重要，因為它們揭示了領導層在決定改變公司結構時的討論內容。儘管齊里斯聲稱她只是試圖協助眾人合作，但這些筆記顯示她深度參與了導致目前法律衝突的私下討論。"
+    },
+    {
+      "id": "p5",
+      "en": "Beyond the arguments about the company’s structure, the trial has also brought to light serious questions about the leadership of Sam Altman. According to The Verge, former OpenAI chief technology officer Mira Murati testified that she could not trust Altman. In a video recording, she stated that Altman lied to her about safety rules for a new AI model. She explained that he made her job very difficult by giving her unclear information and trying to control her work in a way that made it hard for her to be effective.",
+      "zh": "除了關於公司結構的爭論外，這場審判也揭露了關於山姆·奧特曼領導能力的嚴重質疑。根據《The Verge》報導，OpenAI 前技術長米拉·穆拉蒂（Mira Murati）作證表示她無法信任奧特曼。在一段錄影中，她陳述奧特曼曾就新款人工智慧模型的安全規則對她撒謊。她解釋說，奧特曼提供不明確的資訊並試圖以一種讓她難以發揮效能的方式掌控她的工作，這使她的職務變得非常困難。"
+    },
+    {
+      "id": "p6",
+      "en": "Other former leaders have also spoken out against Altman. Ilya Sutskever, another co-founder, wrote a long report claiming that Altman had a pattern of lying and creating conflict between his employees. Additionally, former board member Helen Toner has previously mentioned that the board fired Altman in 2023 because they felt he was not being honest with them. Although Altman was later brought back as CEO, these accusations continue to follow him.",
+      "zh": "其他前任領導人也公開反對奧特曼。另一位共同創辦人伊利亞·蘇茨克維（Ilya Sutskever）撰寫了一份長篇報告，聲稱奧特曼有撒謊及在員工之間製造衝突的慣性。此外，前董事會成員海倫·托納（Helen Toner）先前曾提到，董事會在二〇二三年開除奧特曼，是因為他們認為奧特曼對他們不誠實。儘管奧特曼後來回任執行長，但這些指控仍如影隨形。"
+    },
+    {
+      "id": "p7",
+      "en": "As the trial continues, the court must decide whether OpenAI truly betrayed its mission to help humanity or if this is simply a disagreement between powerful people. The case is not just about money; it is about who should control the future of artificial intelligence. If the court decides that the company’s shift to a for-profit model was illegal, it could change the entire AI industry. For now, the public is left with a complicated story of broken trust, secret relationships, and the high-pressure world of technology companies racing to build the most powerful AI in history.",
+      "zh": "隨著審判持續進行，法院必須判定 OpenAI 是否真的背棄了造福人類的使命，或者這僅僅是權勢人物之間的爭執。此案不僅關乎金錢，更關乎誰應該掌控人工智慧的未來。如果法院裁定該公司轉向營利模式的行為違法，可能會改變整個人工智慧產業。目前，大眾所見的是一個關於信任破裂、秘密關係，以及科技公司在競相打造史上最強大人工智慧的高壓環境下，所交織出的複雜故事。"
+    }
+  ],
+  "wordCount": 685,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "brought to light",
+      "definitionEn": "To make something known or visible to the public.",
+      "definitionZh": "使……曝光、揭露、公諸於世。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這是一個常見的片語，字面上是「帶到光下」，意指揭露隱藏的事實。文中：Beyond the arguments about the company’s structure, the trial has also brought to light serious questions about the leadership of Sam Altman."
+    },
+    {
+      "term": "bridge",
+      "definitionEn": "A person or thing that connects two different groups or ideas.",
+      "definitionZh": "橋樑（比喻溝通的媒介或連結者）。",
+      "partOfSpeech": "noun (metaphorical)",
+      "noteZh": "常見作名詞（建築物橋樑），這裡用來比喻人與人之間的溝通連結。文中：During her testimony, she admitted that she often acted as a bridge between the two sides."
+    },
+    {
+      "term": "follow",
+      "definitionEn": "To happen after something else or continue to affect someone.",
+      "definitionZh": "（負面地）持續困擾、跟隨某人。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作動詞（跟隨、追隨），這裡指負面的指控或名聲持續纏繞著某人。文中：Although Altman was later brought back as CEO, these accusations continue to follow him."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Business",
+      "url": "https://www.theguardian.com/technology/2026/may/06/shivon-zilis-testimony-elon-musk-openai-lawsuit",
+      "title": "Shivon Zilis, mother of four of Elon Musk’s children, testifies in OpenAI trial",
+      "publishedAt": "2026-05-06T22:58:58Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
+      "title": "Musk’s biggest loyalist became his biggest liability",
+      "publishedAt": "2026-05-06T23:37:02Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati",
+      "title": "Mira Murati tells the court that she couldn’t trust Sam Altman’s words",
+      "publishedAt": "2026-05-06T17:55:53Z"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What specific financial demand has Elon Musk made regarding the non-profit arm of OpenAI?",
+      "options": {
+        "A": "He wants the company to pay him $134 billion in personal compensation.",
+        "B": "He is demanding that $134 billion in damages be returned to the non-profit organization.",
+        "C": "He wants the company to donate $134 billion to his other business ventures.",
+        "D": "He is asking the court to fine the company $134 billion for legal fees."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第一段，Musk 要求將 1340 億美元的損害賠償金退還給該公司的非營利部門。選項 A 錯誤，因為這筆錢是要求退還給非營利部門，而非給他個人。選項 C 與文章內容不符，文章未提及其他商業投資。選項 D 錯誤，文中並未將該金額定義為法律費用。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the testimony of Mira Murati and Ilya Sutskever, what can be inferred about Sam Altman's leadership style?",
+      "options": {
+        "A": "He is a highly transparent leader who prioritizes employee safety above all else.",
+        "B": "He encourages open communication and values the honesty of his team members.",
+        "C": "He has a history of being dishonest and creating a difficult, distrustful work environment.",
+        "D": "He is primarily focused on technical development rather than the internal management of staff."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第五段與第六段，Murati 指出 Altman 對她撒謊，且 Sutskever 提到 Altman 有撒謊和製造員工衝突的習性，因此可推論他管理風格中存在不誠實且造成工作環境緊張的問題。選項 A 與 B 與文中描述的「不誠實」與「製造衝突」完全相反。選項 D 錯誤，因為文中明確提到他對員工的管理方式造成了困難。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the third paragraph, what does the word 'bridge' mean in the context of Shivon Zilis's role?",
+      "options": {
+        "A": "A physical structure built to connect two separate locations.",
+        "B": "A person or thing that connects two different groups or ideas.",
+        "C": "A card game played during professional meetings.",
+        "D": "A formal agreement to end a legal argument."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在此文中，「bridge」被用作隱喻，指 Zilis 在 Musk 與 OpenAI 團隊之間扮演溝通的連結者角色。選項 A 是「橋」的字面意思，不符合上下文。選項 C 與 D 皆與文中提到的「溝通橋樑」角色無關，屬於錯誤的詞義延伸。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary focus of the ongoing legal battle between Elon Musk and OpenAI?",
+      "options": {
+        "A": "It is a simple dispute over the personal relationship between Shivon Zilis and Elon Musk.",
+        "B": "It is a technical debate about the safety rules of the latest AI models.",
+        "C": "It is a conflict over the company's transition from a non-profit to a for-profit entity and the nature of its leadership.",
+        "D": "It is a disagreement regarding the specific salary of the company's chief technology officer."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章的核心在於探討 OpenAI 從非營利轉型為營利模式的爭議，以及對領導層誠信的質疑，這決定了 AI 未來的控制權。選項 A 只是案件中的一個細節，並非核心。選項 B 僅是案件中提到的部分證詞，非整體爭議。選項 D 與文章內容無關，文中未提及 CTO 的薪資問題。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite-preview",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
