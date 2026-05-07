@@ -17,13 +17,13 @@ const cat = CATEGORY_LABELS[article.category];
 >
   {/*
     Hidden by default; the late-running script in BaseLayout reads
-    localStorage and adds `data-read=""` to read cards, which the CSS
-    rule in global.css uses to reveal this checkmark.
+    engagement state from localStorage and adds `data-status="visited"`
+    or `data-status="engaged"` to the card. CSS in global.css then shows
+    this checkmark in gray (visited) or green (engaged).
   */}
   <span
-    class="read-mark absolute top-3 right-3 inline-flex items-center justify-center w-5 h-5 rounded-full bg-emerald-500 text-white text-[11px] font-bold shadow-sm"
+    class="read-mark absolute top-3 right-3 inline-flex items-center justify-center w-5 h-5 rounded-full text-white text-[11px] font-bold shadow-sm"
     aria-hidden="true"
-    title="已讀過"
   >
     ✓
   </span>

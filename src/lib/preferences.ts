@@ -26,6 +26,7 @@ export const STORAGE_KEYS = {
   practiceMode: "enr.practiceMode",
   fontSize: "enr.fontSize",
   bilingualLayout: "enr.bilingualLayout",
+  visited: "enr.visited",
   read: "enr.read",
   scores: "enr.scores",
 } as const;
@@ -110,14 +111,60 @@ export function setBilingualLayout(layout: BilingualLayout): void {
   );
 }
 
-/* ─── Read tracking ────────────────────────────────────────────── */
+/* ─── Visit / Read tracking ────────────────────────────────────────
+ *
+ * Two-state engagement model (v2.4.0):
+ *
+ *   Status         When set                              Visual
+ *   ──────────     ──────────────────────────────────    ───────
+ *   (none)         Never opened article page              No mark
+ *   "visited"      Opened the article page                🩶 gray ✓
+ *   "engaged"      visited + read + quiz completed        🟢 green ✓
+ *
+ * `enr.visited` records when user FIRST opened the article page (any duration).
+ * `enr.read` records when user scrolled past the BilingualReader sentinel.
+ * `enr.scores` records quiz attempts.
+ *
+ * "Engaged" = (in `read`) AND (in `scores`)  — this is what shows the green ✓.
+ * "Visited" = (in `visited`) OR (in `read`)  — gray ✓ if not engaged.
+ *
+ * The OR-with-`read` clause provides backwards compatibility for users who
+ * upgraded from v2.1+ (they had `enr.read` populated but no `enr.visited`).
+ * ──────────────────────────────────────────────────────────────── */
 
-/**
- * Map of article slug → ISO timestamp of FIRST time this device finished
- * reading it (= scrolled past the article body). Re-reading does NOT
- * overwrite — we only record the first read so streaks stay meaningful.
- */
-export type ReadDict = Record<string, string>;
+export type SlugTimestampDict = Record<string, string>;
+
+/* Visited (page loaded) ─────────────────────────────────── */
+
+export function getVisitedDict(): SlugTimestampDict {
+  if (!isBrowser) return {};
+  try {
+    const raw = localStorage.getItem(STORAGE_KEYS.visited);
+    if (!raw) return {};
+    const parsed = JSON.parse(raw);
+    return parsed && typeof parsed === "object" ? parsed : {};
+  } catch {
+    return {};
+  }
+}
+
+/** Records the article as visited (page loaded). No-op if already recorded. */
+export function markVisited(slug: string): void {
+  if (!isBrowser || !slug) return;
+  try {
+    const dict = getVisitedDict();
+    if (dict[slug]) return; // already recorded — keep first-visit timestamp
+    dict[slug] = new Date().toISOString();
+    localStorage.setItem(STORAGE_KEYS.visited, JSON.stringify(dict));
+  } catch {
+    // ignore
+  }
+}
+
+/* Read (scrolled past sentinel) ─────────────────────────── */
+
+/** Alias kept for backwards compatibility with v2.1.0–v2.3.0 callers. */
+export type ReadDict = SlugTimestampDict;
 
 export function getReadDict(): ReadDict {
   if (!isBrowser) return {};
@@ -136,7 +183,7 @@ export function isRead(slug: string): boolean {
   return Boolean(dict[slug]);
 }
 
-/** Records the article as read. No-op if already recorded. */
+/** Records the article as fully read (scrolled past sentinel). No-op if already recorded. */
 export function markRead(slug: string): void {
   if (!isBrowser || !slug) return;
   try {
@@ -147,6 +194,29 @@ export function markRead(slug: string): void {
   } catch {
     // ignore
   }
+}
+
+/* Engagement helpers ────────────────────────────────────── */
+
+export type EngagementStatus = "engaged" | "visited" | null;
+
+/**
+ * Compute the engagement status for an article from current localStorage.
+ * "engaged" requires the user to have BOTH scrolled the body AND completed
+ * the quiz at least once. Anything less but still touched is "visited".
+ */
+export function getEngagementStatus(slug: string): EngagementStatus {
+  if (!isBrowser || !slug) return null;
+  const visited = getVisitedDict();
+  const read = getReadDict();
+  const scores = getQuizScores();
+  const hasRead = Boolean(read[slug]);
+  const hasScore = Boolean(scores[slug]);
+  if (hasRead && hasScore) return "engaged";
+  // `read` implies the user must have visited; gives backwards compat for
+  // pre-v2.4 users who only have `enr.read` populated.
+  if (visited[slug] || hasRead) return "visited";
+  return null;
 }
 
 /* ─── Quiz scores ──────────────────────────────────────────────── */
@@ -220,6 +290,9 @@ export function getStats(): Stats {
   const reads = getReadDict();
   const scores = getQuizScores();
 
+  // Stats are based on `enr.read` (full read = scrolled past sentinel),
+  // not on `enr.visited` (mere page open). Streaks should reward real
+  // reading, not just clicking links.
   const slugs = Object.keys(reads);
   const totalRead = slugs.length;
 

@@ -110,6 +110,23 @@ const cat = CATEGORY_LABELS[article.category];
       <div data-read-sentinel aria-hidden="true" class="h-1"></div>
     </section>
 
+    {/*
+      Section order on the article page (v2.4.0+):
+        1. Article body (BilingualReader)
+        2. Quiz                        ← moved up so it's not spoiled by Words
+        3. Words to Watch              ← reference material, looked up after
+        4. Sources
+
+      Why: quiz often tests vocabulary that overlaps with the Words to Watch
+      list. Showing definitions before the quiz lets readers cheat their way
+      through. Quiz first means readers see whether they actually know the
+      tricky words; the definitions then serve as targeted study material.
+      The "易誤解詞彙" jump button at the top of the page still links to
+      #words-to-watch — it just lands further down the page now.
+    */}
+
+    <Quiz client:load questions={article.quiz} slug={article.slug} />
+
     {
       article.keyTerms.length > 0 && (
         <section
@@ -158,8 +175,6 @@ const cat = CATEGORY_LABELS[article.category];
       )
     }
 
-    <Quiz client:load questions={article.quiz} slug={article.slug} />
-
     <section class="mt-12 border-t border-stone-200 dark:border-stone-800 pt-8">
       <h2 class="text-xl font-bold mb-4">原始來源 · Sources</h2>
       <p class="text-sm text-stone-500 dark:text-stone-400 mb-4">
@@ -195,35 +210,41 @@ const cat = CATEGORY_LABELS[article.category];
   </article>
 
   {/*
-    Read tracker: marks this article as read in localStorage as soon as
-    the sentinel (placed after the BilingualReader) scrolls into view.
-    Records only the FIRST read timestamp — re-reading doesn't overwrite,
-    so streaks remain meaningful. See src/lib/preferences.ts for the
-    schema (`enr.read` = { [slug]: ISO timestamp }).
+    Engagement tracker (v2.4.0):
+      1. On page load — mark `enr.visited[slug]` = NOW (gray ✓ on cards)
+      2. When sentinel scrolls into view — mark `enr.read[slug]` = NOW
+         (combines with quiz score for green ✓)
+
+    Both marks only record the FIRST occurrence so streaks/timestamps stay
+    meaningful across re-reads. See src/lib/preferences.ts for the schema.
   */}
   <script is:inline define:vars={{ slug: article.slug }}>
     (function () {
-      var sentinel = document.querySelector("[data-read-sentinel]");
-      if (!sentinel || !("IntersectionObserver" in window)) return;
-
-      function markRead() {
+      // Generic "set this slug in this dict if missing" helper.
+      function recordOnce(key) {
         try {
-          var raw = localStorage.getItem("enr.read");
+          var raw = localStorage.getItem(key);
           var dict = raw ? JSON.parse(raw) : {};
           if (!dict || typeof dict !== "object") dict = {};
-          if (dict[slug]) return; // already recorded — keep first-read time
+          if (dict[slug]) return; // keep first timestamp
           dict[slug] = new Date().toISOString();
-          localStorage.setItem("enr.read", JSON.stringify(dict));
+          localStorage.setItem(key, JSON.stringify(dict));
         } catch (e) {
           // ignore (private mode, etc.)
         }
       }
 
+      // 1. Page loaded → mark as visited immediately.
+      recordOnce("enr.visited");
+
+      // 2. Watch sentinel for "scrolled to bottom of body" → mark as read.
+      var sentinel = document.querySelector("[data-read-sentinel]");
+      if (!sentinel || !("IntersectionObserver" in window)) return;
       var observer = new IntersectionObserver(
         function (entries) {
           for (var i = 0; i < entries.length; i++) {
             if (entries[i].isIntersecting) {
-              markRead();
+              recordOnce("enr.read");
               observer.disconnect();
               return;
             }

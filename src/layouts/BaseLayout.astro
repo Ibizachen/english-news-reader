@@ -71,25 +71,49 @@ const fullTitle = title === "英文新聞閱讀" ? title : `${title} | 英文新
       </div>
     </footer>
     <!--
-      Late script (after DOM is parsed) — reads `enr.read` from localStorage
-      and stamps `data-read=""` on every <a.article-card> whose slug appears
-      there. CSS in global.css then reveals the ✓ in the corner.
+      Late script (after DOM is parsed) — reads engagement state from
+      localStorage and stamps `data-status="visited"` or `"engaged"` on
+      every <a.article-card>. CSS in global.css then shows a gray ✓ for
+      visited and a green ✓ for engaged.
+
+      Engagement rules (v2.4.0):
+        engaged = scrolled past sentinel AND completed quiz
+        visited = page loaded (or, for legacy data, scrolled past sentinel)
+
       Runs on every page; safely no-ops on pages without cards.
     -->
     <script is:inline>
       (function () {
-        try {
-          var raw = localStorage.getItem("enr.read");
-          if (!raw) return;
-          var dict = JSON.parse(raw);
-          if (!dict || typeof dict !== "object") return;
-          var cards = document.querySelectorAll("[data-article-slug]");
-          for (var i = 0; i < cards.length; i++) {
-            var slug = cards[i].getAttribute("data-article-slug");
-            if (slug && dict[slug]) cards[i].setAttribute("data-read", "");
+        function loadDict(key) {
+          try {
+            var raw = localStorage.getItem(key);
+            if (!raw) return {};
+            var parsed = JSON.parse(raw);
+            return parsed && typeof parsed === "object" ? parsed : {};
+          } catch (e) {
+            return {};
           }
-        } catch (e) {
-          // ignore (private mode, parse error, etc.)
+        }
+        var visited = loadDict("enr.visited");
+        var read = loadDict("enr.read");
+        var scores = loadDict("enr.scores");
+
+        var cards = document.querySelectorAll("[data-article-slug]");
+        for (var i = 0; i < cards.length; i++) {
+          var slug = cards[i].getAttribute("data-article-slug");
+          if (!slug) continue;
+          var hasRead = !!read[slug];
+          var hasScore = !!scores[slug];
+          // `read` implies user must have visited (you can't scroll without
+          // loading the page) — gives backwards compat for users with data
+          // from v2.1–v2.3 that pre-dates the `enr.visited` key.
+          var hasVisited = !!visited[slug] || hasRead;
+
+          if (hasRead && hasScore) {
+            cards[i].setAttribute("data-status", "engaged");
+          } else if (hasVisited) {
+            cards[i].setAttribute("data-status", "visited");
+          }
         }
       })();
     </script>

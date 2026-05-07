@@ -110,17 +110,23 @@ html.text-large article dl {
 }
 
 /* ─────────────────────────────────────────────────────────────
-   Read indicator on article cards.
-   Cards render with a hidden ✓ in the corner. After the page loads,
-   a small script in BaseLayout reads localStorage `enr.read` and adds
-   `data-read=""` to cards whose slug appears there. This CSS rule
-   then reveals the ✓.
+   Engagement indicator on article cards (v2.4.0).
+   Cards render with a hidden ✓. The late script in BaseLayout reads
+   localStorage and stamps:
+     data-status="visited"   → gray ✓ (just clicked into the article)
+     data-status="engaged"   → green ✓ (read body + completed quiz)
    ───────────────────────────────────────────────────────────── */
 
 .article-card .read-mark {
   display: none;
 }
 
-.article-card[data-read] .read-mark {
+.article-card[data-status="visited"] .read-mark {
   display: inline-flex;
+  background-color: rgb(168 162 158); /* stone-400 — gray for "seen" */
+}
+
+.article-card[data-status="engaged"] .read-mark {
+  display: inline-flex;
+  background-color: rgb(16 185 129); /* emerald-500 — green for "really read" */
 }
