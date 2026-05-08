@@ -1,0 +1,155 @@
+{
+  "id": "2026-05-08-ai-data-centers-and-energy-consumption",
+  "slug": "ai-data-centers-and-energy-consumption-may-2026",
+  "publishedAt": "2026-05-08T22:13:49.806437Z",
+  "category": "energy",
+  "title": "The Growing Conflict Over AI Data Centers",
+  "subtitle": "As tech companies build massive facilities for artificial intelligence, local communities and energy experts are pushing back.",
+  "summary": {
+    "en": "The rapid expansion of data centers for artificial intelligence is causing significant tension across the United States. These massive facilities require enormous amounts of electricity, leading to concerns about rising energy costs and environmental health. While some argue that this infrastructure is necessary for technological progress, many local communities are actively blocking new projects. Government officials are now starting to track the energy usage of these centers more closely. This debate highlights a growing divide between tech industry ambitions and the needs of local residents.",
+    "zh": "人工智慧資料中心的快速擴張正引發美國各地的重大緊張局勢。這些大型設施需要消耗巨額電力，導致民眾對能源成本上漲與環境健康的擔憂。儘管部分人士認為這些基礎設施對科技進步至關重要，許多當地社區仍積極阻撓新計畫。政府官員目前已開始更密切地追蹤這些中心的能源使用情況。這場辯論凸顯了科技產業的野心與當地居民需求之間日益擴大的鴻溝。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The rise of artificial intelligence (AI) has led to a massive construction boom. Tech companies are building giant data centers—large buildings filled with powerful computers that process the information needed for AI. While these facilities are essential for modern technology, they have become the center of a heated debate. Across the United States, communities, activists, and government officials are questioning the impact of these projects on local power grids, energy bills, and the environment.",
+      "zh": "人工智慧（AI）的興起帶動了大規模的建設熱潮。科技公司正在興建巨型資料中心，這些大型建築內裝設了強大的電腦，用以處理人工智慧所需的資訊。儘管這些設施對現代科技至關重要，卻已成為激烈爭論的焦點。在美國各地，社區民眾、社會運動人士與政府官員正質疑這些計畫對當地電網、能源帳單及環境所造成的影響。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Verge, these data centers are becoming a major point of political disagreement. Many Americans are worried about the cost of electricity. A survey by the Pew Research Center found that 43 percent of people in the U.S. believe data centers are a primary reason for their rising utility bills. This concern is not limited to one political party; both Republicans and Democrats are increasingly vocal about the financial burden these energy-hungry facilities place on the average household.",
+      "zh": "根據科技新聞網站 The Verge 報導，這些資料中心正成為政治歧見的主要爭點。許多美國民眾對電費成本感到擔憂。皮尤研究中心（Pew Research Center）的一項調查發現，百分之四十三的美國人認為資料中心是導致公用事業帳單上漲的主要原因。這種擔憂並非侷限於單一政黨；共和黨與民主黨人皆日益大聲疾呼，強調這些耗能設施對一般家庭造成的經濟負擔。"
+    },
+    {
+      "id": "p3",
+      "en": "In some areas, the opposition is very strong. The Guardian reports that in 2025, about 48 data center projects were blocked or stalled by local groups. These projects were worth an estimated $156 billion. From rural North Carolina to suburban Virginia, and across states like New Mexico and Oregon, ordinary people are coming together to challenge the status quo. In Indiana, more than 10 counties have passed temporary bans on new data centers. Similarly, the Seminole Nation in Oklahoma has stopped new construction in their territory, and many projects in New Jersey have been cancelled due to community anger.",
+      "zh": "在某些地區，反對聲浪非常強烈。《衛報》（The Guardian）報導，二〇二五年約有四十八個資料中心計畫遭到當地團體阻撓或擱置，這些計畫的總價值估計達一千五百六十億美元。從北卡羅來納州的鄉村到維吉尼亞州的郊區，以及新墨西哥州與奧勒岡州等地，普通民眾正團結起來挑戰現狀。在印第安納州，已有超過十個郡通過了針對新資料中心的暫時禁令。同樣地，奧克拉荷馬州的塞米諾爾族（Seminole Nation）已停止在其領地內進行新建設，紐澤西州也有許多計畫因社區憤怒而取消。"
+    },
+    {
+      "id": "p4",
+      "en": "However, the tech industry and some supporters argue that stopping these projects is a mistake. Some observers, including those writing for Jacobin and the Washington Post, suggest that slowing down data center construction will only hurt the working class. They argue that if the infrastructure is not built, AI tools will become expensive and only available to the wealthy. They believe that blocking these centers prevents the public from accessing the benefits of new technology.",
+      "zh": "然而，科技產業與部分支持者認為，阻撓這些計畫是錯誤的。包括為《雅各賓》（Jacobin）雜誌與《華盛頓郵報》（Washington Post）撰稿的觀察家在內，有人指出放緩資料中心建設只會傷害勞工階級。他們主張，若不建立這些基礎設施，人工智慧工具將變得昂貴，且僅有富人負擔得起。他們認為，封殺這些中心會阻礙大眾獲取新科技帶來的益處。"
+    },
+    {
+      "id": "p5",
+      "en": "Despite these arguments, the physical impact of data centers remains a serious concern. The Verge reports that a massive 40,000-acre project in Utah was recently approved despite strong community opposition. This facility is expected to use 9 gigawatts of power, which is more than double the amount of electricity currently used by the entire state of Utah. Critics worry that such high demand will strain power grids and lead to even higher costs for local residents.",
+      "zh": "儘管有上述論點，資料中心對實體環境的影響仍是嚴重的隱憂。The Verge 報導指出，猶他州一項佔地四萬英畝的龐大計畫近期在強烈社區反對下仍獲批准。該設施預計將消耗九百億瓦的電力，這比猶他州全州目前的用電量還多出一倍以上。批評者擔心，如此龐大的需求將使電網不堪負荷，並導致當地居民面臨更高的電費。"
+    },
+    {
+      "id": "p6",
+      "en": "Environmental and health concerns are also driving the resistance. The NAACP has taken legal action against xAI to stop a data center project near Memphis, Tennessee. The organization claims the facility is using 27 gas turbines without proper air permits, violating the Clean Air Act—a law designed to reduce air pollution. According to Abre’ Conner, the NAACP Director of Environmental and Climate Justice, companies should not be allowed to put the health of local communities at risk in the name of innovation.",
+      "zh": "環境與健康疑慮也推動了反對行動。美國全國有色人種協進會（NAACP）已對 xAI 採取法律行動，試圖阻止其在田納西州曼菲斯市附近的資料中心計畫。該組織聲稱，該設施在未取得適當空氣許可的情況下使用了二十七座燃氣渦輪機，違反了旨在減少空氣污染的《潔淨空氣法》（Clean Air Act）。根據 NAACP 環境與氣候正義主任艾布蕾·康納（Abre’ Conner）的說法，企業不應以創新之名，將當地社區的健康置於險境。"
+    },
+    {
+      "id": "p7",
+      "en": "In response to these growing concerns, the government is beginning to take action. Wired reports that the Energy Information Administration plans to launch mandatory energy usage surveys. These surveys will help officials understand exactly how much power these data centers are consuming. The program will start in areas with many data centers, such as Texas, Washington state, and northern Virginia, before expanding nationwide.",
+      "zh": "針對這些日益增加的擔憂，政府已開始採取行動。科技新聞網站 Wired 報導，美國能源資訊管理局（Energy Information Administration）計畫發起強制性的能源使用調查。這些調查將協助官員精確掌握這些資料中心究竟消耗了多少電力。該計畫將先從德州、華盛頓州與北維吉尼亞州等資料中心密集的地區開始，隨後擴展至全國。"
+    },
+    {
+      "id": "p8",
+      "en": "Beyond domestic concerns, these facilities are also becoming targets in international tensions. Tom’s Hardware reports that Iran’s Islamic Revolutionary Guard Corps has issued threats against a planned OpenAI data center in Abu Dhabi. This follows warnings from the Iranian side regarding potential U.S. actions against their own power infrastructure. These developments show how data centers are no longer just local issues; they are now part of a larger, global conversation about security, power, and the future of technology.",
+      "zh": "除了國內疑慮外，這些設施也成為國際緊張局勢下的目標。硬體評測網站 Tom’s Hardware 報導，伊朗伊斯蘭革命衛隊（Islamic Revolutionary Guard Corps）已對阿布達比一處規劃中的 OpenAI 資料中心發出威脅。在此之前，伊朗方面曾針對美國可能對其自身電力基礎設施採取的行動提出警告。這些發展顯示，資料中心已不再僅是地方議題，而是成為關於安全、能源與科技未來等更廣泛全球對話的一部分。"
+    },
+    {
+      "id": "p9",
+      "en": "As the industry continues to grow, the tension between tech companies and the public is likely to increase. Whether these data centers will be seen as engines of progress or as harmful neighbors depends on how companies address concerns about energy use, environmental safety, and local costs. For now, the fight over where and how these buildings are constructed remains a critical issue for many communities.",
+      "zh": "隨著產業持續成長，科技公司與大眾之間的緊張關係預計將會加劇。這些資料中心究竟會被視為進步的引擎，還是有害的鄰居，取決於企業如何解決關於能源使用、環境安全與當地成本的疑慮。目前看來，關於這些建築應在何處以及如何興建的爭論，對許多社區而言仍是一個關鍵議題。"
+    }
+  ],
+  "wordCount": 768,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "stalled",
+      "definitionEn": "To stop making progress or to be delayed.",
+      "definitionZh": "停滯、延宕。",
+      "partOfSpeech": "verb (passive)",
+      "noteZh": "常見作名詞（攤位），這裡作動詞，形容計畫進度停滯。文中：The Guardian reports that in 2025, about 48 data center projects were blocked or stalled by local groups."
+    },
+    {
+      "term": "strain",
+      "definitionEn": "To put too much pressure on something, making it difficult to function properly.",
+      "definitionZh": "使不堪負荷、造成壓力。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（壓力、拉傷），這裡作動詞，形容電力系統負荷過重。文中：Critics worry that such high demand will strain power grids and lead to even higher costs for local residents."
+    },
+    {
+      "term": "engines",
+      "definitionEn": "The driving forces or causes of progress and development.",
+      "definitionZh": "推動力、驅動力。",
+      "partOfSpeech": "noun (metaphorical)",
+      "noteZh": "常見作名詞（引擎），這裡比喻為推動進步的核心力量。文中：Whether these data centers will be seen as engines of progress or as harmful neighbors depends on how companies address concerns about energy use, environmental safety, and local costs."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Environment",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/08/ai-datacenters-democracy",
+      "title": "The fight against AI data centers isn’t just about tech – it’s about democracy | Astra Taylor and Saul Levin",
+      "publishedAt": "2026-05-08T14:00:31Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "title": "All the latest updates on AI data centers",
+      "publishedAt": "2026-05-08T18:45:08Z"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is one specific action taken by the NAACP regarding data center construction?",
+      "options": {
+        "A": "They have launched a nationwide survey to track energy consumption.",
+        "B": "They filed a legal challenge against a project near Memphis due to air pollution concerns.",
+        "C": "They are lobbying for a federal ban on all new data center projects in the U.S.",
+        "D": "They have successfully blocked a 40,000-acre project in the state of Utah."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第六段明確指出，NAACP 對 xAI 在田納西州曼菲斯附近的數據中心計畫採取了法律行動，理由是該設施使用 27 台燃氣渦輪機且未取得適當的空氣許可，違反了《潔淨空氣法》。選項 A 是能源資訊管理局（EIA）的計畫；選項 C 文章未提及 NAACP 要求全國性禁令；選項 D 中提到猶他州計畫的抗爭，但該計畫最終仍被批准，並非由 NAACP 成功阻擋。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, what can be inferred about the relationship between AI development and public utility costs?",
+      "options": {
+        "A": "AI technology is expected to lower household electricity bills significantly in the near future.",
+        "B": "Most Americans support the construction of data centers despite the increase in their monthly bills.",
+        "C": "The massive energy requirements of data centers are viewed as a contributing factor to the financial burden on households.",
+        "D": "Tech companies have agreed to subsidize the electricity costs for communities living near data centers."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第二段，皮尤研究中心調查顯示 43% 的美國人認為數據中心是電費上漲的主要原因，且兩黨皆對這些「能源飢渴」設施造成的家庭財務負擔表示擔憂。這顯示數據中心的高耗能與居民的電費壓力之間存在關聯。選項 A 與文章內容相反；選項 B 與調查數據矛盾；選項 D 文章中完全未提及科技公司有任何補貼計畫。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, the author refers to data centers as 'engines of progress.' What does the word 'engines' imply in this context?",
+      "options": {
+        "A": "Mechanical devices that generate electricity for the data center.",
+        "B": "Forces or drivers that stimulate development and advancement.",
+        "C": "The physical hardware and servers located inside the buildings.",
+        "D": "The political leaders who approve the construction of these centers."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在此文中，「engines」並非指機械引擎，而是隱喻（metaphor），用來比喻推動社會進步的「動力」或「驅動力」。作者用此詞來對比數據中心作為科技進步的推手（engines of progress）與其作為鄰居所帶來的負面影響（harmful neighbors）。選項 A 是對詞彙的字面誤解；選項 C 與 D 均不符合該詞在文中描述抽象概念的用法。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central theme of the article?",
+      "options": {
+        "A": "The technical challenges of building more efficient AI hardware.",
+        "B": "The history of how data centers have evolved in the United States.",
+        "C": "The rising international tension between the U.S. and Iran over technology.",
+        "D": "The growing conflict between the expansion of AI infrastructure and community interests."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。全文從開頭即點出數據中心建設帶來的「激烈辯論」，隨後探討了能源消耗、電費負擔、環保法規、社區抗爭以及政府回應等議題，最後總結這些設施在進步與鄰避效應（NIMBY）之間的張力。選項 A 未被深入探討；選項 B 不是文章重點；選項 C 僅是文章末段提到的國際層面案例，不足以概括全文主旨。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite-preview",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}

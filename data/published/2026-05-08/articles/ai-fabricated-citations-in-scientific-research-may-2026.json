@@ -1,0 +1,145 @@
+{
+  "id": "2026-05-08-ai-fabricated-citations-in-scientific-research",
+  "slug": "ai-fabricated-citations-in-scientific-research-may-2026",
+  "publishedAt": "2026-05-08T22:13:49.806437Z",
+  "category": "health",
+  "title": "The Growing Problem of Fake Citations in Scientific Research",
+  "subtitle": "New research shows that artificial intelligence is causing a rise in fake references in academic papers.",
+  "summary": {
+    "en": "A new study has found a sharp increase in fake citations within scientific research papers. Experts believe that generative artificial intelligence tools are creating these false references. These tools often invent plausible-sounding sources that do not actually exist. This trend makes it harder for researchers to build reliable knowledge and track the history of scientific ideas. Experts warn that this issue reflects a larger problem in the academic world where speed is valued over quality.",
+    "zh": "一項新研究發現，科學研究論文中出現了虛假引用激增的現象。專家認為，生成式人工智慧工具正在製造這些錯誤的參考資料。這些工具經常捏造出聽起來合理但實際上並不存在的來源。這種趨勢使得研究人員更難以建立可靠的知識並追蹤科學觀點的歷史。專家警告，此問題反映了學術界更廣泛的弊病，即過度重視速度而犧牲了品質。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "In the world of science, citations are essential. They act like a family tree, connecting new research to the studies that came before it. By citing previous work, scientists show where their ideas come from and provide evidence for their claims. However, a new study published in The Lancet suggests that this system is facing a serious threat. Researchers are finding an increasing number of \"fabricated\" citations—references to papers that do not actually exist.",
+      "zh": "在科學界，引用文獻至關重要。它們就像族譜一樣，將新的研究與先前的研究連結起來。透過引用前人的成果，科學家能展現其觀點的來源，並為自己的主張提供證據。然而，發表在《刺胳針》（The Lancet）期刊上的一項新研究顯示，這套系統正面臨嚴重威脅。研究人員發現，「虛構」的引用文獻——即指向根本不存在的論文之參考資料——正日益增加。"
+    },
+    {
+      "id": "p2",
+      "en": "According to STAT News and MedPage Today, experts believe that generative artificial intelligence (AI) tools are likely to blame. These tools, known as large language models (LLMs), are designed to write and edit text. While they are helpful, they are also known for \"hallucinating,\" which means they confidently create information that is not true. In the context of research, these AI tools can invent references that look perfectly real. They often use correct formatting, include the names of real researchers, and list believable publication dates, making them very difficult for human editors to spot.",
+      "zh": "根據《STAT新聞》（STAT News）與《MedPage Today》報導，專家認為生成式人工智慧工具很可能是罪魁禍首。這些被稱為大型語言模型的工具，其設計初衷是為了撰寫與編輯文字。雖然它們很有幫助，但也以會產生「幻覺」而聞名，意即它們會自信滿滿地創造出不實的資訊。在研究領域中，這些人工智慧工具能捏造出看起來極為真實的參考文獻。它們通常使用正確的格式、包含真實研究人員的姓名，並列出看似合理的出版日期，這使得人類編輯極難察覺。"
+    },
+    {
+      "id": "p3",
+      "en": "Maxim Topaz, a researcher at Columbia University who led the study, discovered this problem after a personal experience. While using an AI tool to help edit his own work, he was embarrassed when a journal editor pointed out that one of his citations led to nowhere. This experience inspired him to investigate how widespread the issue had become. His team analyzed millions of biomedical papers and found that the number of fake references has grown significantly. In 2023, about one in 2,828 papers contained a fake citation. By early 2026, that number had jumped to one in 277 papers.",
+      "zh": "領導這項研究的哥倫比亞大學研究員托帕茲（Maxim Topaz）在親身經歷後發現了這個問題。當他使用人工智慧工具協助編輯自己的作品時，一位期刊編輯指出他其中一項引用文獻根本查無出處，這讓他感到十分尷尬。這次經驗促使他調查此問題的普遍程度。他的團隊分析了數百萬篇生物醫學論文，發現虛假參考文獻的數量顯著增加。二〇二三年，約每二千八百二十八篇論文中就有一篇包含虛假引用；到了二〇二六年年初，該數字已躍升至每二百七十七篇論文中就有一篇。"
+    },
+    {
+      "id": "p4",
+      "en": "This trend is worrying for many in the scientific community. Misha Teplitskiy, a sociologist of science at the University of Michigan, noted that while people are excited about AI making science faster, there is a lack of focus on the quality of the work being produced. He described this trend as a sign of \"slop,\" or low-quality work. When researchers rely on AI to generate their references without checking them, they risk polluting the public record of science with false information.",
+      "zh": "這種趨勢令科學界許多人感到擔憂。密西根大學的科學社會學家泰普利茨基（Misha Teplitskiy）指出，雖然人們對人工智慧能加速科學研究感到興奮，但卻缺乏對產出成果品質的關注。他將這種趨勢描述為「粗製濫造」的跡象。當研究人員依賴人工智慧生成參考文獻卻不進行查核時，他們冒著以錯誤資訊污染科學公共紀錄的風險。"
+    },
+    {
+      "id": "p5",
+      "en": "Beyond just being a technical error, some experts suggest this problem points to deeper issues in how science is conducted today. Mohammad Hosseini, a professor at Northwestern University who studies research ethics, explained that the rise in fake citations shows that some authors are more interested in publishing quickly than in doing careful work. He argued that the current academic system puts too much pressure on researchers to publish many papers, turning the act of citing other work into a \"box-checking exercise\" rather than a meaningful part of scientific discussion.",
+      "zh": "除了單純的技術錯誤外，一些專家認為此問題指向了當今科學研究方式中更深層的問題。研究學術倫理的西北大學教授霍塞尼（Mohammad Hosseini）解釋說，虛假引用增加顯示出，部分作者比起嚴謹的研究，更在意快速發表成果。他主張，當前的學術體系對研究人員施加了過大的發表壓力，將引用他人工作的行為變成了一種「形式主義的勾選作業」，而非科學討論中有意義的一部分。"
+    },
+    {
+      "id": "p6",
+      "en": "MedPage Today reported that the consequences could be severe. If fake citations become common, they could impact systematic reviews or clinical guidelines, which are documents that doctors use to make important decisions about patient care. In one extreme case, researchers found a paper where 60% of the references were fake. These references were even tailored to look relevant to the specific surgical topic of the paper, showing how sophisticated these AI-generated errors have become.",
+      "zh": "《MedPage Today》報導稱，其後果可能相當嚴重。如果虛假引用變得普遍，可能會影響系統性回顧或臨床指引，而這些文件正是醫師用來針對病患照護做出重要決策的依據。在一個極端的案例中，研究人員發現一篇論文中有百分之六十的參考文獻皆為虛構。這些參考文獻甚至經過精心設計，看起來與該論文特定的外科主題相關，顯示出這些人工智慧生成的錯誤已變得多麼精巧。"
+    },
+    {
+      "id": "p7",
+      "en": "Topaz warned that his findings are likely just the \"tip of the iceberg.\" As AI tools become more common in the writing process, the risk of these errors will likely continue to grow unless researchers change how they work. The study serves as a warning to the academic community: while technology can help with speed, it cannot replace the human responsibility of verifying facts. For now, the burden remains on authors, editors, and peer reviewers to be more careful, ensuring that the \"family tree\" of scientific knowledge remains rooted in reality rather than in the imagination of an AI.",
+      "zh": "托帕茲警告說，他的發現很可能只是「冰山一角」。隨著人工智慧工具在寫作過程中變得更加普及，除非研究人員改變工作方式，否則這些錯誤的風險很可能會持續增加。這項研究對學術界提出了一項警示：雖然科技能提升速度，但它無法取代人類查核事實的責任。目前，作者、編輯與同儕審查人員仍有責任更加謹慎，確保科學知識的「族譜」是紮根於現實，而非人工智慧的想像之中。"
+    }
+  ],
+  "wordCount": 732,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "hallucinating",
+      "definitionEn": "In the context of AI, producing false or non-existent information while appearing confident.",
+      "definitionZh": "指人工智慧產生錯誤或虛構資訊，卻表現得煞有其事的現象。",
+      "partOfSpeech": "verb (present participle)",
+      "noteZh": "常見於描述人類產生幻覺，這裡指 AI 生成錯誤內容。文中：While they are helpful, they are also known for \"hallucinating,\" which means they confidently create information that is not true."
+    },
+    {
+      "term": "slop",
+      "definitionEn": "Low-quality, messy, or carelessly produced work.",
+      "definitionZh": "指品質低劣、粗製濫造的作品。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作名詞（廚餘或泥濘），這裡比喻學術產出品質低落。文中：He described this trend as a sign of \"slop,\" or low-quality work."
+    },
+    {
+      "term": "tip of the iceberg",
+      "definitionEn": "A small, visible part of a much larger and more complex problem.",
+      "definitionZh": "冰山一角，指看到的只是更大問題的一小部分。",
+      "partOfSpeech": "idiom",
+      "noteZh": "字面意思為冰山頂端，常用於比喻隱藏的嚴重問題。文中：Topaz warned that his findings are likely just the \"tip of the iceberg.\""
+    }
+  ],
+  "sources": [
+    {
+      "name": "STAT News",
+      "url": "https://www.statnews.com/2026/05/07/lancet-study-finds-steep-rise-fraudulent-citations-academic-papers/?utm_campaign=rss",
+      "title": "Fraudulent citations, blamed on AI hallucinations, are becoming more common in research papers",
+      "publishedAt": "2026-05-07T22:30:00Z"
+    },
+    {
+      "name": "MedPage Today",
+      "url": "https://www.medpagetoday.com/practicemanagement/informationtechnology/121165",
+      "title": "'Tip of the Iceberg': Study Uncovers AI-Fabricated Citations in Research Papers",
+      "publishedAt": "2026-05-07T22:30:00Z"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the study led by Maxim Topaz, how did the prevalence of fake citations change between 2023 and early 2026?",
+      "options": {
+        "A": "It decreased by over 60 percent.",
+        "B": "It increased from one in 2,828 papers to one in 277 papers.",
+        "C": "It remained stable at approximately one in 277 papers.",
+        "D": "It doubled from one in 554 papers to one in 277 papers."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，研究明確指出 2023 年約有 1/2828 的論文包含虛假引用，到了 2026 年初，這個比例上升至 1/277。選項 A 錯誤，因為數據顯示是增加而非減少；選項 C 錯誤，因為數據有顯著變化；選項 D 雖然提到了 1/277，但關於 2023 年的數據描述錯誤，並非單純的加倍關係。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the impact of AI-generated fake citations on the medical field?",
+      "options": {
+        "A": "They are primarily a problem for AI developers rather than medical professionals.",
+        "B": "They pose a risk to the reliability of clinical guidelines used for patient care.",
+        "C": "They are easily identified by doctors because they lack relevant surgical terminology.",
+        "D": "They have already caused a significant decrease in the total number of published papers."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第六段提到，若虛假引用變得普遍，可能會影響系統性回顧或臨床指南，而這些文件是醫生制定病患照護決策的重要依據。選項 A 錯誤，因為這對醫學專業影響重大；選項 C 錯誤，因為文章提到虛假引用甚至會被刻意調整以符合手術主題，極難辨識；選項 D 錯誤，文章並未提到出版總量下降，反而暗示了出版速度過快的問題。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fourth paragraph, what does the term 'slop' refer to in the context of scientific research?",
+      "options": {
+        "A": "The intentional act of stealing someone else's research findings.",
+        "B": "The technical process of formatting citations using AI software.",
+        "C": "The production of low-quality or careless work.",
+        "D": "The excessive amount of time spent on peer reviewing papers."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第四段，社會學家 Misha Teplitskiy 將這種現象描述為「slop」，並解釋為「low-quality work」（低品質工作）。選項 A 錯誤，因為這不是剽竊的定義；選項 B 錯誤，因為 slop 指的是結果的品質，而非技術過程；選項 D 錯誤，文章並未將其歸因於同儕審查的時間長短，而是指作者對品質缺乏關注。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article regarding the use of AI in scientific writing?",
+      "options": {
+        "A": "AI tools should be banned entirely from the academic writing process to ensure integrity.",
+        "B": "The academic system must increase the number of papers published to stay competitive.",
+        "C": "AI tools are perfect for citation management but poor at writing original text.",
+        "D": "While AI offers speed, researchers must maintain the responsibility of verifying their work."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。文章最後一段總結了核心觀點：科技雖然能提升效率，但不能取代人類核實事實的責任。選項 A 過於極端，文章並未主張全面禁止；選項 B 與文章觀點相反，作者認為過度追求出版數量是問題根源；選項 C 錯誤，因為文章指出 AI 在引用管理上存在嚴重的「幻覺」問題，並非完美。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite-preview",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
