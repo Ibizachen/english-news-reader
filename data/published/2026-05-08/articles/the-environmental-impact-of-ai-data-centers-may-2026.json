@@ -1,0 +1,157 @@
+{
+  "id": "2026-05-08-the-environmental-impact-of-ai-data-centers",
+  "slug": "the-environmental-impact-of-ai-data-centers-may-2026",
+  "publishedAt": "2026-05-08T23:09:46.228039Z",
+  "category": "energy",
+  "title": "The Growing Conflict Over AI Data Centers",
+  "subtitle": "Communities and energy experts are questioning the environmental and economic costs of the massive buildings powering artificial intelligence.",
+  "summary": {
+    "en": "Artificial intelligence requires massive data centers that consume huge amounts of electricity. These facilities are causing tension between tech companies and local communities across the United States. Many residents worry about rising energy bills and the environmental impact of these buildings. While some argue that these centers are necessary for progress, others believe they place an unfair burden on local areas. The debate has become a significant political issue that affects both urban and rural regions.",
+    "zh": "人工智慧需要消耗大量電力的龐大資料中心。這些設施正在美國各地的科技公司與地方社區之間引發緊張關係。許多居民擔心電費上漲以及這些建築對環境造成的影響。雖然有些人認為這些中心對進步是必要的，但其他人則認為它們對地方造成了不公平的負擔。這場辯論已成為影響城鄉地區的重大政治議題。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Artificial intelligence (AI) is changing the world, but it requires a massive physical foundation to function. To power the complex software we use today, tech companies are building enormous data centers. These warehouses are filled with thousands of energy-hungry computers. While these buildings are essential for the growth of AI, they have also started a series of intense fights over their impact on power grids, local utility bills, and the environment.",
+      "zh": "人工智慧正在改變世界，但它的運作需要龐大的實體基礎。為了驅動我們今日使用的複雜軟體，科技公司正建造巨大的資料中心。這些倉庫裡塞滿了數以千計耗電量驚人的電腦。雖然這些建築對於人工智慧的發展至關重要，但也引發了一連串關於它們對電網、地方電費以及環境影響的激烈爭論。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Verge, these data centers are becoming a major point of disagreement across the United States. A recent survey by the Pew Research Center found that 43 percent of Americans believe these facilities are a primary reason for their rising electricity costs. This concern crosses party lines, as both Republicans and Democrats express worry about how these massive projects affect their monthly home energy bills.",
+      "zh": "根據科技新聞網站 The Verge 報導，這些資料中心正成為美國各地意見分歧的主要焦點。皮尤研究中心 (Pew Research Center) 最近的一項調查發現，百分之四十三的美國人認為這些設施是導致電費上漲的主要原因。這種擔憂跨越了黨派界線，無論是共和黨人還是民主黨人都對這些大型計畫如何影響他們每月的家庭電費表示憂心。"
+    },
+    {
+      "id": "p3",
+      "en": "In many areas, local residents are organizing to stop new construction. The Guardian reports that in 2025, about 48 data center projects, worth an estimated $156 billion, were blocked or delayed by local opposition. People in states like Indiana, New Jersey, and Oklahoma have taken action to pause or stop these developments. For many, this is not just about local construction; it is a way to push back against tech companies that often make deals behind closed doors.",
+      "zh": "在許多地區，當地居民正組織起來阻止新建工程。衛報 (The Guardian) 報導指出，二〇二五年約有四十八項資料中心計畫，總價值估計達一千五百六十億美元，因地方反對而遭到阻撓或延宕。印第安納州、紐澤西州和奧克拉荷馬州等地的民眾已採取行動，要求暫停或終止這些開發案。對許多人來說，這不僅僅是關於地方建設的問題，更是一種反擊科技公司常在私下進行交易的方式。"
+    },
+    {
+      "id": "p4",
+      "en": "However, the industry faces pressure from all sides. Some experts argue that slowing down the growth of data centers could prevent people from accessing the benefits of AI. For example, some critics suggest that limiting this infrastructure will only make AI tools more expensive, potentially keeping them in the hands of only the wealthy. Despite these arguments, many communities remain focused on the immediate, physical problems that these centers create.",
+      "zh": "然而，該產業面臨來自各方的壓力。一些專家認為，放緩資料中心的成長可能會阻礙人們獲取人工智慧帶來的益處。例如，部分批評者指出，限制這些基礎設施只會讓人工智慧工具變得更昂貴，可能導致它們僅能由富人所掌握。儘管有這些論點，許多社區仍將焦點放在這些中心所造成的直接且具體的實體問題上。"
+    },
+    {
+      "id": "p5",
+      "en": "Environmental concerns are also at the heart of the debate. The NAACP, a major civil rights organization, has taken legal action against a project in Tennessee. They claim that the facility is operating gas turbines without proper air permits, which could harm the health of nearby residents. Abre’ Conner, a director at the NAACP, stated that companies should not force communities to deal with pollution just to support new technology. This highlights a growing fear that the rush to build AI infrastructure often ignores the safety and health of the people living nearby.",
+      "zh": "環境問題也是這場辯論的核心。美國全國有色人種協進會 (NAACP) 是一個主要的民權組織，已針對田納西州的一項計畫採取法律行動。他們聲稱該設施在沒有適當空氣許可的情況下運作燃氣渦輪機，這可能會損害附近居民的健康。全國有色人種協進會的主管艾布蕾·康納 (Abre’ Conner) 表示，企業不應為了支持新技術而強迫社區承受污染。這凸顯了一種日益增長的恐懼，即競相建設人工智慧基礎設施的熱潮，往往忽視了居住在附近民眾的安全與健康。"
+    },
+    {
+      "id": "p6",
+      "en": "Government officials are now beginning to take notice of these concerns. According to The Verge, the Energy Information Administration is planning to launch nationwide surveys to better understand exactly how much energy these data centers are using. By collecting this information, officials hope to gain a clearer picture of the strain these buildings put on the national power grid. This is a significant step, as it shows that the government is finally looking for ways to manage the massive energy demands of the AI industry.",
+      "zh": "政府官員現在開始注意到這些擔憂。根據 The Verge 報導，能源資訊管理局 (Energy Information Administration) 計畫發起全國性調查，以更精確地了解這些資料中心究竟消耗了多少能源。透過收集這些資訊，官員們希望更清楚地掌握這些建築對國家電網造成的壓力。這是一個重要的步驟，因為它顯示政府終於開始尋找管理人工智慧產業龐大能源需求的方法。"
+    },
+    {
+      "id": "p7",
+      "en": "Looking ahead, the conflict shows no signs of slowing down. In places like Utah, large projects continue to be approved despite strong community protests. The Salt Lake Tribune reported on a massive project in Box Elder County that is expected to use more than double the power currently used by the entire state. As more of these projects are proposed, the debate over who should pay for the energy and who should suffer the consequences of pollution will likely become a major topic in local and national elections.",
+      "zh": "展望未來，這場衝突沒有減緩的跡象。在猶他州等地，儘管社區強烈抗議，大型計畫仍持續獲得批准。鹽湖城論壇報 (The Salt Lake Tribune) 報導了博克斯埃爾德縣 (Box Elder County) 一項大型計畫，預計其耗電量將超過該州目前總用電量的兩倍。隨著更多此類計畫被提出，關於誰該為能源買單以及誰該承受污染後果的辯論，很可能成為地方與全國選舉中的重大議題。"
+    },
+    {
+      "id": "p8",
+      "en": "Ultimately, the fight over data centers represents a clash between the rapid growth of technology and the needs of local communities. While tech companies see these buildings as the key to a future powered by AI, many citizens see them as a threat to their environment and their wallets. As the industry continues to expand, finding a balance between technological progress and the well-being of the public will remain one of the most difficult challenges for policymakers in the coming years.",
+      "zh": "歸根究柢，圍繞資料中心的爭鬥代表了科技的快速發展與地方社區需求之間的衝突。雖然科技公司將這些建築視為人工智慧驅動未來的關鍵，但許多公民卻將其視為對環境與荷包的威脅。隨著該產業持續擴張，在科技進步與公眾福祉之間找到平衡，將是未來幾年決策者面臨的最艱鉅挑戰之一。"
+    }
+  ],
+  "wordCount": 682,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "crosses",
+      "definitionEn": "To extend across or include different groups or categories.",
+      "definitionZh": "跨越、涵蓋（不同的群體或類別）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（十字架）或動詞（橫越馬路），這裡指意見分歧跨越了黨派界線。文中：This concern crosses party lines, as both Republicans and Democrats express worry about how these massive projects affect their monthly home energy bills."
+    },
+    {
+      "term": "push back",
+      "definitionEn": "To resist or oppose a plan, idea, or change.",
+      "definitionZh": "抵制、反對（計畫或改變）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見作名詞（推力），這裡指對科技公司採取反對行動。文中：For many, this is not just about local construction; it is a way to push back against tech companies that often make deals behind closed doors."
+    },
+    {
+      "term": "at the heart of",
+      "definitionEn": "To be the most important or central part of something.",
+      "definitionZh": "處於……的核心、最關鍵的部分。",
+      "partOfSpeech": "idiom",
+      "noteZh": "字面意思是「在心臟」，這裡指環境問題是爭議的核心。文中：Environmental concerns are also at the heart of the debate."
+    },
+    {
+      "term": "strain",
+      "definitionEn": "A heavy demand or pressure on a system or resource.",
+      "definitionZh": "負擔、壓力（對資源或系統造成的）。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（拉緊、過濾），這裡指電力系統承受的壓力。文中：By collecting this information, officials hope to gain a clearer picture of the strain these buildings put on the national power grid."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Environment",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/08/ai-datacenters-democracy",
+      "title": "The fight against AI data centers isn’t just about tech – it’s about democracy | Astra Taylor and Saul Levin",
+      "publishedAt": "2026-05-08T14:00:31Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "title": "All the latest updates on AI data centers",
+      "publishedAt": "2026-05-08T18:45:08Z"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what specific action did the NAACP take regarding a data center project in Tennessee?",
+      "options": {
+        "A": "They organized a protest to block the construction of the facility.",
+        "B": "They initiated legal action due to concerns over air permits and pollution.",
+        "C": "They demanded that the company pay for the residents' rising electricity bills.",
+        "D": "They lobbied the government to perform a nationwide survey on energy usage."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第五段，NAACP 對田納西州的一個項目採取了法律行動（taken legal action），原因是該設施在沒有適當許可的情況下運作燃氣渦輪機，可能危害居民健康。選項 A 雖然文章提到其他社區有抗議，但 NAACP 的具體行動是法律訴訟；選項 C 文章未提及要求賠償電費；選項 D 是政府能源資訊管理局（EIA）的計畫，而非 NAACP 的行動。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the relationship between AI development and the cost of living for average citizens?",
+      "options": {
+        "A": "AI development is expected to lower electricity costs by making the power grid more efficient.",
+        "B": "The energy-intensive nature of data centers is creating a financial burden for local utility customers.",
+        "C": "Tech companies are providing subsidies to residents to offset the high costs of building data centers.",
+        "D": "Most Americans support the construction of data centers because they believe AI will eventually make their lives cheaper."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，43% 的美國人認為數據中心是電費上漲的主因，且這種擔憂跨越了黨派。綜合文章提到的數據中心的高耗能特性（第一段）以及對電網的壓力（第六段），可以推斷出這些大型設施對一般家庭的電費造成了負面經濟影響。選項 A 與文意相反；選項 C 文章未提及補貼；選項 D 與文章提到的民眾抗議事實不符。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what is the best meaning of the word 'clash' as used in the phrase 'the fight over data centers represents a clash between the rapid growth of technology and the needs of local communities'?",
+      "options": {
+        "A": "A physical collision between two objects.",
+        "B": "A noisy argument between two individuals.",
+        "C": "A conflict or disagreement between opposing ideas or groups.",
+        "D": "A sudden change in the direction of a trend."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。在此語境下，clash 指的是兩股勢力（科技發展與社區需求）之間的衝突或矛盾。選項 A 是字面上的碰撞，不適用於抽象的社會議題；選項 B 雖然有爭吵的意思，但此處指的是結構性的利益衝突，而非單純的口角；選項 D 與原意無關。透過上下文可知，這是指兩方利益無法調和的對立狀態。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article?",
+      "options": {
+        "A": "The United States government is failing to regulate the tech industry effectively.",
+        "B": "Data centers are dangerous facilities that should be banned from all residential areas.",
+        "C": "The rapid expansion of AI infrastructure is creating significant tensions between technological progress and public well-being.",
+        "D": "Tech companies are intentionally ignoring the environment to maximize their profits from AI."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。全文的核心主旨圍繞在 AI 發展所需的龐大基礎設施（數據中心）與其對環境、電費及社區生活品質造成的負面影響之間的矛盾。文章最後一段明確總結了這場鬥爭是科技成長與社區需求之間的衝突。選項 A、B、D 皆為文章中提到的部分觀點或特定立場，但無法涵蓋整篇文章探討的複雜平衡問題。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite-preview",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}

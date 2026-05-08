@@ -1,69 +1,91 @@
 {
   "id": "2026-05-08-cyberattack-disrupts-education-platform-canvas",
   "slug": "cyberattack-disrupts-education-platform-canvas-may-2026",
-  "publishedAt": "2026-05-08T22:13:49.806437Z",
+  "publishedAt": "2026-05-08T23:09:46.228039Z",
   "category": "technology",
-  "title": "Major Cyberattack Disrupts Global Education Platform During Finals",
-  "subtitle": "Students and teachers face uncertainty as a hacking group targets the popular Canvas system.",
+  "title": "Cyberattack on Education Platform Canvas Causes Chaos During Finals",
+  "subtitle": "Students and teachers face major disruptions after hackers target a widely used online learning tool.",
   "summary": {
-    "en": "The popular education platform Canvas was taken offline following a major cyberattack. A group called ShinyHunters claimed responsibility for the breach, which affected millions of students and teachers worldwide. The incident occurred during a critical period when many schools were holding final exams. Instructure, the company behind Canvas, has since restored access to the platform after an investigation. Experts warn that users should remain careful about potential security risks following the incident.",
-    "zh": "熱門教育平台 Canvas 在遭受重大網路攻擊後被迫離線。一個名為「閃亮獵人」的組織宣稱對此次外洩事件負責，影響了全球數百萬名師生。事件發生在許多學校進行期末考試的關鍵時期。Canvas 的母公司 Instructure 在調查後已恢復平台存取。專家警告，使用者在事件後仍應對潛在的安全風險保持謹慎。"
+    "en": "The popular education platform Canvas went offline following a cyberattack by a group called ShinyHunters. The incident occurred during a critical time for students, as many were in the middle of final exams. Instructure, the company that owns Canvas, confirmed that personal information like names and email addresses was accessed. Schools across the United States had to postpone exams and find new ways to manage assignments. Experts warn that users should stay alert for potential scams following the data breach.",
+    "zh": "熱門教育平台 Canvas 在遭受名為「閃亮獵人」的組織發動網路攻擊後離線。這起事件發生在學生期末考的關鍵時刻。Canvas 的母公司 Instructure 確認，包括姓名與電子郵件地址在內的個人資訊遭到存取。全美各地的學校被迫推遲考試並尋找管理作業的新方式。專家警告，在資料外洩後，使用者應對潛在的詐騙保持警覺。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "Thousands of schools and universities across the globe faced significant disruption this week after a cyberattack hit Canvas, a widely used online education platform. The outage occurred during the busiest time of the academic year, as students were preparing for or taking their final exams. According to reports from NPR News, the platform went offline on Thursday, leaving millions of users unable to access course materials, submit assignments, or communicate with their teachers.",
-      "zh": "本週，全球數以千計的學校與大學面臨嚴重的教學中斷，起因是廣泛使用的線上教育平台 Canvas 遭到網路攻擊。此次系統故障正值學年度最繁忙的時期，當時學生們正準備參加或進行期末考試。根據美國國家公共廣播電台（NPR News）的報導，該平台於週四離線，導致數百萬名使用者無法存取課程教材、繳交作業或與教師聯繫。"
+      "en": "Thousands of students and teachers across North America faced a difficult week after the popular education platform Canvas went offline. The service, which is used by millions to manage courses, submit assignments, and view grades, stopped working on Thursday due to a cyberattack. This disruption happened at a very bad time for many students, as it occurred during the busy final exam period.",
+      "zh": "北美各地數以千計的學生與教師度過了艱難的一週，起因是熱門教育平台 Canvas 離線。該服務被數百萬人用於管理課程、提交作業與查看成績，卻在週四因遭受網路攻擊而停止運作。這場中斷對許多學生來說發生在極其糟糕的時間點，因為正值繁忙的期末考期間。"
     },
     {
       "id": "p2",
-      "en": "Canvas is a critical tool for modern education, used by roughly 30 million people to manage grades and classroom projects. When the system crashed, many students were met with a black screen and a warning message from the hackers. As noted by Ars Technica, the group responsible for the attack is known as ShinyHunters. This group is a collection of young hackers who have been linked to other large-scale attacks on major companies, including the ticket sales platform Ticketmaster.",
-      "zh": "Canvas 是現代教育的重要工具，約有三千萬人使用它來管理成績與課堂專案。當系統崩潰時，許多學生只看到黑螢幕以及駭客留下的警告訊息。正如科技新聞網站 Ars Technica 所指出的，發動此次攻擊的組織名為「閃亮獵人」（ShinyHunters）。這是一個由年輕駭客組成的團體，過去曾與多起針對大型企業的大規模攻擊有關，包括售票平台 Ticketmaster。"
+      "en": "According to NPR, the platform is used by about half of all higher education institutions in North America. When users tried to log in on Thursday, they were met with a black screen and a message from a hacking group known as ShinyHunters. This group claimed responsibility for the attack and stated that they had accessed data from 275 million students, teachers, and staff members at nearly 9,000 schools around the world.",
+      "zh": "根據美國公共廣播電台（NPR）報導，北美約有一半的高等教育機構使用該平台。當使用者在週四嘗試登入時，螢幕顯示一片漆黑，並出現一則來自名為「閃亮獵人」（ShinyHunters）駭客組織的訊息。該組織聲稱對此次攻擊負責，並表示他們已取得全球近九千所學校中，共兩億七千五百萬名學生、教師與教職員的資料。"
     },
     {
       "id": "p3",
-      "en": "ShinyHunters claimed that they had accessed the private data of 275 million students and staff members from nearly 9,000 schools. The group demanded that schools negotiate with them to prevent the release of this information. According to Deutsche Welle, the hackers accused Instructure, the parent company of Canvas, of ignoring their earlier attempts to communicate. In response to the outage, many institutions were forced to scramble. For example, the University of Illinois postponed all final exams and assignments scheduled for the weekend, while other schools had to find temporary ways to help students complete their work.",
-      "zh": "「閃亮獵人」聲稱他們已取得近九千所學校、共計兩億七千五百萬名師生的私人資料。該組織要求校方與他們談判，以阻止這些資訊外洩。根據德國之聲（Deutsche Welle）報導，駭客指控 Canvas 的母公司 Instructure 忽視了他們先前的聯繫嘗試。為了應對此次故障，許多教育機構被迫手忙腳亂地進行調整。例如，伊利諾大學（University of Illinois）推遲了週末所有預定的期末考試與作業，其他學校則必須尋找臨時方案來協助學生完成課業。"
+      "en": "ShinyHunters is a well-known group that has been linked to other major cyberattacks, including one against the ticket sales company Ticketmaster in 2024. Rachel Tobac, the CEO of SocialProof Security, described the group as a loose collection of young hackers who work together like a ransomware gang. Ransomware is a type of malicious software that hackers use to lock computer systems or steal private data, demanding payment to restore access or keep the information secret.",
+      "zh": "「閃亮獵人」是一個惡名昭彰的組織，曾與其他重大網路攻擊有關，包括二〇二四年針對票務公司 Ticketmaster 的攻擊。SocialProof Security 的執行長瑞秋·托巴克（Rachel Tobac）將該組織描述為一群鬆散的年輕駭客，他們像勒索軟體集團一樣協同作案。勒索軟體是一種惡意軟體，駭客利用它來鎖定電腦系統或竊取私人資料，並要求支付贖金以恢復存取權限或對資訊保密。"
     },
     {
       "id": "p4",
-      "en": "Instructure confirmed that they identified unauthorized activity in their network on April 29. The company explained that they chose to take the platform offline on Thursday after the hackers made changes to the system while users were logged in. According to a statement provided to NPR News, the company stated that the breach involved identifying information such as names, email addresses, and student ID numbers. However, they emphasized that there was no evidence that sensitive data like passwords, financial information, or government identifiers were stolen. The company has since restored full access to the platform and apologized for the inconvenience caused to students and faculty.",
-      "zh": "Instructure 確認他們於四月二十九日在網路中發現未經授權的活動。該公司解釋，在駭客於使用者登入期間對系統進行更動後，他們選擇在週四將平台離線。根據提供給美國國家公共廣播電台的一份聲明，該公司表示此次外洩涉及姓名、電子郵件地址與學生證號碼等識別資訊。然而，他們強調目前沒有證據顯示密碼、財務資訊或政府核發的身分證件等敏感資料遭到竊取。該公司目前已恢復平台的完整存取權限，並對造成師生的不便致歉。"
+      "en": "Instructure, the parent company of Canvas, confirmed that they detected unauthorized activity on their network starting in late April. On Thursday, they decided to take the platform offline after the hackers made visible changes to the site while students were logged in. Instructure stated that the stolen data included names, email addresses, student ID numbers, and private messages. However, the company noted that they have no evidence that passwords, birth dates, or financial information were stolen.",
+      "zh": "Canvas 的母公司 Instructure 確認，他們從四月下旬開始偵測到網路出現未經授權的活動。週四，在駭客於學生登入期間對網站進行可見的更動後，他們決定將平台離線。Instructure 表示，被竊取的資料包括姓名、電子郵件地址、學生證號碼與私人訊息。不過，該公司指出，目前沒有證據顯示密碼、出生日期或財務資訊遭到竊取。"
     },
     {
       "id": "p5",
-      "en": "Despite the platform being back online, experts suggest that the situation remains serious. Rachel Tobac, a security expert, told NPR News that users should stay alert for \"phishing\" messages. Phishing is a common trick where hackers send fake emails pretending to be a trusted source, such as a professor or a school administrator, to steal personal information or passwords. She warned that even though the system is running again, there could be long-term effects from this data breach.",
-      "zh": "儘管平台已恢復上線，但專家認為情況依然嚴峻。安全專家瑞秋·托巴克（Rachel Tobac）告訴美國國家公共廣播電台，使用者應對「網路釣魚」訊息保持警覺。網路釣魚是一種常見的詐騙手法，駭客會偽裝成教授或學校行政人員等可信來源發送假郵件，藉此竊取個人資訊或密碼。她警告，即便系統已恢復運作，此次資料外洩仍可能產生長期的影響。"
+      "en": "As reported by Ars Technica, the outage caused immediate chaos at many schools. Because students could not access their course materials or submit their final work, many universities had to change their plans. For example, the University of Illinois postponed all final exams and assignments scheduled for that weekend. Other schools, such as the University of Massachusetts Dartmouth, chose to extend deadlines to give students more time to finish their work.",
+      "zh": "正如科技新聞網站 Ars Technica 所報導，此次停機在許多學校引發了即時的混亂。由於學生無法存取課程教材或提交期末作業，許多大學不得不更改計畫。例如，伊利諾大學（University of Illinois）推遲了該週末所有預定的期末考與作業。其他學校，如麻州大學達特茅斯分校（University of Massachusetts Dartmouth），則選擇延長截止日期，給予學生更多時間完成作業。"
     },
     {
       "id": "p6",
-      "en": "This incident highlights the growing vulnerability of digital learning tools. As reported by Ars Technica, this is not the first time an education platform has been targeted. Last year, another company called PowerSchool suffered a similar breach that exposed the personal records of millions of students. These events show how much schools rely on technology and how dangerous it can be when these systems are compromised. While students may be relieved to have their access restored, the event serves as a reminder of the importance of digital security in our modern school systems.",
-      "zh": "這起事件凸顯了數位學習工具日益增加的脆弱性。根據 Ars Technica 報導，這並非教育平台首次成為攻擊目標。去年，另一家名為 PowerSchool 的公司也遭遇類似的資料外洩，導致數百萬名學生的個人紀錄曝光。這些事件顯示學校對科技的依賴程度之深，以及當這些系統遭到破壞時可能帶來的危險。雖然學生們對於恢復存取權感到鬆了一口氣，但此事件也提醒了我們，數位安全在現代學校系統中至關重要。"
+      "en": "Deutsche Welle noted that some schools even tried to reach out to the hackers to negotiate, as the group had encouraged individual institutions to talk to them directly. The hackers had set a deadline of May 12 for their demands to be met, threatening to leak the stolen data online if they were not satisfied. It remains unclear whether any ransom was paid to bring the platform back online.",
+      "zh": "德國之聲（Deutsche Welle）指出，有些學校甚至嘗試聯繫駭客進行談判，因為該組織曾鼓勵各個機構直接與他們對話。駭客設下了五月十二日的最後期限，要求滿足其訴求，並威脅若未達成將在網路上洩漏竊取的資料。目前尚不清楚是否支付了任何贖金以使平台恢復運作。"
+    },
+    {
+      "id": "p7",
+      "en": "By Friday, Instructure announced that Canvas was fully restored. The company explained that they had fixed the security issue that allowed the hackers to enter their system through 'Free-for-Teacher' accounts. In a statement, Instructure expressed regret for the worry and inconvenience the situation caused for students and faculty members.",
+      "zh": "到了週五，Instructure 宣布 Canvas 已完全恢復。該公司解釋，他們已修復了讓駭客透過「教師免費版」（Free-for-Teacher）帳號進入系統的安全漏洞。Instructure 在聲明中對此情況造成學生與教職員的擔憂及不便表示遺憾。"
+    },
+    {
+      "id": "p8",
+      "en": "Despite the platform being back online, experts warn that the danger is not necessarily over. Rachel Tobac advised users to remain very careful. She suggested that students and teachers should watch out for 'phishing' messages. Phishing is a common trick where hackers send fake emails or messages pretending to be from a trusted source—like a professor or the Canvas support team—to steal passwords or other personal information. Because the hackers now have access to names and email addresses, they might try to use this information to trick people into giving away more details.",
+      "zh": "儘管平台已恢復上線，專家仍警告危險未必已經解除。瑞秋·托巴克建議使用者務必保持高度警覺。她提醒學生與教師應提防「網路釣魚」訊息。網路釣魚是一種常見的詐騙手法，駭客會發送偽造的電子郵件或訊息，假冒成教授或 Canvas 支援團隊等可信來源，藉此竊取密碼或其他個人資訊。由於駭客現在掌握了姓名與電子郵件地址，他們可能會試圖利用這些資訊誘騙人們提供更多細節。"
+    },
+    {
+      "id": "p9",
+      "en": "This incident is part of a growing trend of cyberattacks against educational technology. Last year, another company called PowerSchool, which provides software to millions of K-12 students, also suffered a major data breach. As schools rely more and more on digital tools to manage learning, these platforms become more attractive targets for hackers. For now, students and teachers are returning to their studies, but the event serves as a strong reminder of the importance of digital security in modern education.",
+      "zh": "這起事件是針對教育科技網路攻擊趨勢日益嚴重的一部分。去年，另一家為數百萬名中小學生提供軟體的公司 PowerSchool 也遭遇了嚴重的資料外洩。隨著學校越來越依賴數位工具來管理學習，這些平台也成為駭客更具吸引力的目標。目前，學生與教師正陸續回到學習軌道，但此事件強烈提醒了現代教育中數位安全的重要性。"
     }
   ],
-  "wordCount": 612,
+  "wordCount": 724,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
-      "term": "hit",
-      "definitionEn": "To affect something in a negative or damaging way.",
-      "definitionZh": "對……造成打擊或負面影響。",
-      "partOfSpeech": "verb",
-      "noteZh": "常見作「擊打」，這裡指網路攻擊造成的負面影響。文中：Thousands of schools and universities across the globe faced significant disruption this week after a cyberattack hit Canvas, a widely used online education platform."
+      "term": "met with",
+      "definitionEn": "To experience or encounter something (usually something unpleasant).",
+      "definitionZh": "遭遇、碰到（通常指不好的事）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見於「見面」之意，這裡指遭遇狀況。文中：When users tried to log in on Thursday, they were met with a black screen and a message from a hacking group known as ShinyHunters."
     },
     {
-      "term": "scramble",
-      "definitionEn": "To move or act quickly and in a disorganized way because of an urgent situation.",
-      "definitionZh": "倉促行動、手忙腳亂地應對。",
-      "partOfSpeech": "verb",
-      "noteZh": "常見作「炒蛋」或「攀爬」，這裡指因緊急狀況而倉促應變。文中：In response to the outage, many institutions were forced to scramble."
+      "term": "loose",
+      "definitionEn": "Not strictly organized or connected; informal.",
+      "definitionZh": "鬆散的、非嚴密組織的。",
+      "partOfSpeech": "adjective",
+      "noteZh": "常見作「寬鬆」之意，這裡形容組織結構鬆散。文中：Rachel Tobac, the CEO of SocialProof Security, described the group as a loose collection of young hackers who work together like a ransomware gang."
     },
     {
-      "term": "compromised",
-      "definitionEn": "To be made vulnerable or exposed to risk, especially regarding security.",
-      "definitionZh": "（安全性）受到損害、被駭入或洩漏。",
-      "partOfSpeech": "verb (past participle)",
-      "noteZh": "常見作「妥協」，在資安語境下指系統被駭或安全性受損。文中：These events show how much schools rely on technology and how dangerous it can be when these systems are compromised."
+      "term": "reach out to",
+      "definitionEn": "To try to communicate with someone, often to ask for help or negotiate.",
+      "definitionZh": "主動聯繫、接觸（以尋求協助或協商）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見作「伸手」之意，這裡指主動聯繫對方。文中：Deutsche Welle noted that some schools even tried to reach out to the hackers to negotiate, as the group had encouraged individual institutions to talk to them directly."
+    },
+    {
+      "term": "watch out for",
+      "definitionEn": "To stay alert and pay attention to something dangerous.",
+      "definitionZh": "提防、留意（危險事物）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見作「看著外面」，這裡指保持警覺以防範危險。文中：She suggested that students and teachers should watch out for 'phishing' messages."
     }
   ],
   "sources": [
@@ -90,54 +112,54 @@
     {
       "id": "q1",
       "type": "detail",
-      "question": "According to the article, what specific action did Instructure take on Thursday regarding the Canvas platform?",
+      "question": "What specific observation led Instructure to take the Canvas platform offline on Thursday?",
       "options": {
-        "A": "They contacted the hackers to negotiate the release of student data.",
-        "B": "They intentionally took the platform offline after noticing unauthorized system changes.",
-        "C": "They automatically locked all student accounts to prevent further phishing attacks.",
-        "D": "They postponed all final exams for the 9,000 schools affected by the breach."
+        "A": "They detected unauthorized activity on their network in late April.",
+        "B": "Hackers made visible changes to the site while students were logged in.",
+        "C": "The hacking group ShinyHunters claimed responsibility for the attack.",
+        "D": "They realized that sensitive data like passwords and financial information had been stolen."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。根據文章第四段，Instructure 公司說明他們在發現駭客對系統進行修改後，主動決定將平台下線。選項 A 錯誤，文章提到是駭客要求學校談判，而非公司主動聯繫。選項 C 錯誤，文中並未提到鎖定帳號的措施。選項 D 錯誤，延後考試是大學的應對措施，而非平台公司的行動。"
+      "explanationZh": "正確答案 B。根據文章第四段：「Instructure, the parent company of Canvas, confirmed that they detected unauthorized activity on their network starting in late April. On Thursday, they decided to take the platform offline after the hackers made visible changes to the site while students were logged in.」這明確指出，駭客在學生登入時對網站進行了可見的更改，是導致 Instructure 決定將平台下線的特定觀察。選項 A 是事實，但不是導致平台下線的直接原因，而是更早發現的活動。選項 C 駭客聲稱負責，但這不是 Instructure 決定下線的直接觀察。選項 D 與文章內容不符，文章提到「公司指出沒有證據顯示密碼、出生日期或財務資訊被盜」。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "What can be inferred about the timing of the cyberattack?",
+      "question": "What can be inferred about the 'Free-for-Teacher' accounts mentioned in the article?",
       "options": {
-        "A": "The hackers chose this time because the platform had just launched new features.",
-        "B": "The attack was timed to maximize the pressure on schools and students.",
-        "C": "The hackers were unaware that the attack coincided with final exams.",
-        "D": "The attack occurred because the platform was undergoing scheduled maintenance."
+        "A": "They are premium accounts that offer advanced features to educators.",
+        "B": "They were a new feature recently introduced by Instructure.",
+        "C": "They likely had weaker security protocols compared to other account types.",
+        "D": "They were specifically designed to allow hackers to enter the system."
       },
-      "correct": "B",
-      "explanationZh": "正確答案為 B。文章第一段提到攻擊發生在學年度最忙碌的期末考期間，且駭客要求學校談判。由此可推論，駭客選擇此時發動攻擊是為了利用考試壓力，迫使學校更快屈服。選項 A 與 D 文中均未提及。選項 C 不合理，因為駭客通常會選擇最具破壞力的時機，而期末考期間正是影響力最大的時刻。"
+      "correct": "C",
+      "explanationZh": "正確答案 C。根據文章第七段：「The company explained that they had fixed the security issue that allowed the hackers to enter their system through 'Free-for-Teacher' accounts.」這句話暗示這些帳戶存在安全漏洞，讓駭客得以入侵。因此，可以推斷它們可能比其他帳戶類型具有較弱的安全協定。選項 A 與「Free-for-Teacher」的名稱不符，通常免費帳戶功能不會比付費帳戶更「進階」。選項 B 文章沒有提及它們是新功能。選項 D 駭客是利用漏洞，而不是帳戶被設計來讓駭客進入。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the third paragraph, what does the word 'scramble' mean in the context of how institutions reacted to the outage?",
+      "question": "In the context of the article, what does the word 'disruption' most closely mean in the first paragraph?",
       "options": {
-        "A": "To organize a formal protest against the parent company.",
-        "B": "To delete all existing digital records to prevent theft.",
-        "C": "To act quickly and in a disorganized or desperate way to solve a problem.",
-        "D": "To change the passwords of millions of students simultaneously."
+        "A": "A sudden break or interruption in an activity or process.",
+        "B": "A violent disagreement or conflict between groups.",
+        "C": "A significant improvement or innovation in technology.",
+        "D": "A scheduled maintenance period for system upgrades."
       },
-      "correct": "C",
-      "explanationZh": "正確答案為 C。在文中，學校面臨系統崩潰，必須緊急尋找替代方案（如延後考試或尋找臨時教學方法），這顯示出他們在混亂中倉促應對。選項 A 錯誤，文中並無提到抗議。選項 B 錯誤，刪除紀錄並非學校的應對方式。選項 D 錯誤，雖然資安很重要，但文中並未將『scramble』描述為更改密碼的動作。"
+      "correct": "A",
+      "explanationZh": "正確答案 A。文章第一段提到：「This disruption happened at a very bad time for many students, as it occurred during the busy final exam period.」由於 Canvas 平台下線，導致學生無法使用服務，這對他們的學習和考試造成了「中斷」或「打擾」。選項 B 指的是衝突，與平台下線導致服務中斷的語境不符。選項 C 指的是改進或創新，與文章描述的負面事件完全相反。選項 D 指的是預定的維護，但這次下線是由於網路攻擊，並非預定維護。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "What is the primary message of this article?",
+      "question": "What is the main idea of this article?",
       "options": {
-        "A": "The Canvas platform is no longer a safe tool for universities to use.",
-        "B": "Hackers are primarily targeting universities to steal financial information.",
-        "C": "Schools should stop using digital platforms to avoid future cyberattacks.",
-        "D": "The increasing reliance on digital education tools makes schools vulnerable to serious security threats."
+        "A": "Cyberattacks are becoming more frequent, and students and teachers need to be more vigilant about online security.",
+        "B": "The Canvas platform experienced a major cyberattack during final exams, highlighting the growing vulnerability of educational technology to such threats.",
+        "C": "Instructure successfully restored the Canvas platform after a cyberattack, demonstrating their quick response to security breaches.",
+        "D": "ShinyHunters is a dangerous hacking group responsible for multiple high-profile cyberattacks, including the one against Canvas."
       },
-      "correct": "D",
-      "explanationZh": "正確答案為 D。文章最後一段總結了整個事件，強調數位學習工具的脆弱性，並指出學校對科技的高度依賴使得系統一旦受損便會造成嚴重後果。選項 A 過於絕對，文章並未建議禁用。選項 B 錯誤，文中提到財務資訊並未被竊取。選項 C 錯誤，文章強調的是資安的重要性，而非建議完全放棄科技。"
+      "correct": "B",
+      "explanationZh": "正確答案 B。這篇文章的核心內容是關於 Canvas 平台在期末考期間遭受網路攻擊的事件，以及此事件如何凸顯了教育科技日益增長的脆弱性。文章詳細描述了攻擊的影響、Instructure 的應對、學校的調整，並在結尾強調了數位安全的重要性。選項 A 雖然是文章的次要觀點，但沒有涵蓋事件本身和教育科技的脆弱性。選項 C 雖然提到恢復，但這只是事件的一個環節，並非文章的中心思想。選項 D 提及 ShinyHunters，但這只是攻擊的執行者，文章的重點是事件本身及其影響，而非單純介紹駭客組織。"
     }
   ],
   "aiGenerated": true,
