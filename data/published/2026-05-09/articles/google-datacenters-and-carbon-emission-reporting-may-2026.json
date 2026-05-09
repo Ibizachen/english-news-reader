@@ -1,0 +1,139 @@
+{
+  "id": "2026-05-09-google-datacenters-and-carbon-emission-reporting",
+  "slug": "google-datacenters-and-carbon-emission-reporting-may-2026",
+  "publishedAt": "2026-05-09T22:13:31.083454Z",
+  "category": "energy",
+  "title": "Questions Raised Over Carbon Emission Calculations for Google Datacenters",
+  "subtitle": "New reports suggest that planning documents for major UK projects may significantly understate their environmental impact.",
+  "summary": {
+    "en": "Developers working for Google have faced criticism for how they calculated carbon emissions for two new UK datacenters. Experts from the group Foxglove found that the projects compared one year of emissions to a five-year national carbon budget. This method makes the environmental impact appear five times smaller than it actually is. Similar errors were also found in documents for a project by another company called Greystoke. Local officials have stated that they will review these figures carefully during the planning process.",
+    "zh": "為 Google 工作的開發商，因其計算英國兩座新資料中心碳排放量的方式而面臨批評。毛地黃（Foxglove）團體的專家發現，這些計畫將一年的排放量與國家五年的碳預算進行比較。這種方法使得環境影響看起來比實際小了五倍。另一家名為 Greystoke 的公司所提交的計畫文件中也發現了類似的錯誤。地方官員表示，他們將在規劃過程中仔細審查這些數據。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "As the world moves toward using more Artificial Intelligence (AI), the need for massive computer centers, known as datacenters, is growing quickly. These facilities are essential for storing data and running complex AI programs. However, a recent report from The Guardian Environment highlights concerns about how much carbon these projects will release into the atmosphere. Experts are now questioning the accuracy of the environmental reports submitted by developers working for Google regarding two proposed sites in the UK.",
+      "zh": "隨著全球邁向更廣泛地使用人工智慧（AI），對於被稱為資料中心的大型電腦設施需求正迅速成長。這些設施對於儲存數據與執行複雜的人工智慧程式至關重要。然而，英國《衛報》環境版（The Guardian Environment）近期的一份報導強調了人們對於這些計畫將向大氣排放多少碳的擔憂。專家們目前正質疑 Google 在英國兩處擬建地點所提交的環境報告準確性，這些報告是由為 Google 工作的開發商所提交。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Guardian Environment, developers planning to build large datacenters in Thurrock and North Weald have submitted documents that appear to miscalculate their future carbon footprint. To understand the impact of these projects, developers must show how much carbon they will produce compared to the total carbon budget of the United Kingdom. A carbon budget is a limit on the total amount of greenhouse gases that a country is allowed to release over a specific period to meet climate goals.",
+      "zh": "根據《衛報》環境版的報導，計畫在瑟羅克（Thurrock）和北威爾德（North Weald）興建大型資料中心的開發商，所提交的文件似乎錯誤地計算了他們未來的碳足跡。為了了解這些計畫的影響，開發商必須說明他們將產生多少碳排放，並與英國的總碳預算進行比較。碳預算是一個國家在特定時期內，為達成氣候目標所允許排放的溫室氣體總量上限。"
+    },
+    {
+      "id": "p3",
+      "en": "Experts at the tech justice group Foxglove discovered that the developers compared only one year of the datacenter’s expected emissions against the UK’s entire five-year carbon budget. By doing this, the reports make the environmental impact of the buildings look five times smaller than it really is. Tim Squirrell, the head of strategy for Foxglove, stated that Google has serious questions to answer regarding these figures. He suggested that the company is misleading the public and local government officials about the true amount of pollution these facilities will create.",
+      "zh": "科技正義團體「毛地黃」（Foxglove）的專家發現，開發商僅將資料中心一年的預期排放量與英國整個五年的碳預算進行比較。透過這種方式，這些報告使建築物的環境影響看起來比實際小了五倍。「毛地黃」的策略主管提姆·史奎爾（Tim Squirrell）表示，Google 必須針對這些數據提出嚴肅的解釋。他認為該公司在這些設施將造成的實際污染量上，誤導了公眾和地方政府官員。"
+    },
+    {
+      "id": "p4",
+      "en": "These concerns are not limited to Google. The Guardian Environment reported that another company, Greystoke, also used similar calculations for a large datacenter project in north Lincolnshire. When the emissions from all three of these projects are combined, they will account for more than 1% of the UK’s total carbon budget in 2033. This amount of pollution is equal to the total emissions produced by a mid-sized city, such as Bristol.",
+      "zh": "這些擔憂不僅限於 Google。《衛報》環境版報導，另一家公司 Greystoke 也對林肯郡北部的一個大型資料中心計畫使用了類似的計算方式。當這三個計畫的排放量合計起來，它們將佔英國 2033 年總碳預算超過 1%。這種污染量相當於一個中型城市，例如布里斯托（Bristol），所產生的總排放量。"
+    },
+    {
+      "id": "p5",
+      "en": "In the planning documents, Google’s Thurrock project claimed its emissions would be 0.033% of the UK’s carbon budget between 2028 and 2032. However, the actual figure is 0.165%. Similarly, the North Weald project stated it would emit 0.043% of the budget from 2033 to 2037, but the real number is 0.215%. The Greystoke project in Lincolnshire also showed a large difference, claiming 0.1043% when the actual impact is 0.5215%.",
+      "zh": "在規劃文件中，Google 的瑟羅克計畫聲稱其在 2028 年至 2032 年間的排放量將佔英國碳預算的 0.033%。然而，實際數字為 0.165%。同樣地，北威爾德計畫聲稱在 2033 年至 2037 年間將排放預算的 0.043%，但實際數字為 0.215%。Greystoke 在林肯郡的計畫也顯示出巨大差異，聲稱佔 0.1043%，而實際影響為 0.5215%。"
+    },
+    {
+      "id": "p6",
+      "en": "Despite these findings, the developers have argued that their projects will have only a small impact on the UK’s climate goals. The developers of the Elsham Tech Park, the Greystoke project, even suggested that their campus would improve local nature by adding bird and bat boxes, as well as planting wildflowers. Currently, all three of these developments are officially described as having a “minor adverse” impact on the environment, meaning they are expected to cause only a small amount of harm.",
+      "zh": "儘管有這些發現，開發商們仍辯稱他們的計畫對英國的氣候目標影響甚微。Elsham Tech Park（即 Greystoke 的計畫）的開發商甚至表示，他們的園區將透過增設鳥屋和蝙蝠箱，以及種植野花來改善當地自然環境。目前，這三個開發案都被官方描述為對環境造成「輕微不利」影響，意即預計只會造成少量損害。"
+    },
+    {
+      "id": "p7",
+      "en": "Local officials are now looking into the situation. Steven Heather, a local councillor, noted that the datacenters have only received outline planning permission so far. He explained that the local planning department will carefully review what Google and the other developers have proposed. If there is a major error in the calculations, the developers will be required to return with the correct figures before the project can move forward. This situation highlights the growing tension between the rapid expansion of AI technology and the need for accurate environmental reporting as countries work to reduce their carbon footprints.",
+      "zh": "地方官員目前正在調查此情況。地方議員史蒂芬·希瑟（Steven Heather）指出，這些資料中心目前僅獲得初步規劃許可。他解釋說，地方規劃部門將仔細審查 Google 和其他開發商提出的方案。如果計算中存在重大錯誤，開發商將被要求提交正確的數據，計畫才能繼續推進。這種情況凸顯了人工智慧技術的快速擴張與國家努力減少碳足跡時，對準確環境報告的需求之間日益加劇的緊張關係。"
+    }
+  ],
+  "wordCount": 642,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "account for",
+      "definitionEn": "To form a particular amount or part of something.",
+      "definitionZh": "佔（比例、數量）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見作「解釋原因」，這裡指佔據比例。文中：When the emissions from all three of these projects are combined, they will account for more than 1% of the UK’s total carbon budget in 2033."
+    },
+    {
+      "term": "look into",
+      "definitionEn": "To investigate or examine the facts about a problem or situation.",
+      "definitionZh": "調查、研究。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "字面義為「往裡面看」，這裡指調查事件。文中：Local officials are now looking into the situation."
+    },
+    {
+      "term": "return",
+      "definitionEn": "To come or go back to a place or state.",
+      "definitionZh": "回來、返回。",
+      "partOfSpeech": "verb",
+      "noteZh": "這裡指開發商需要「重新提交」修正後的報告。文中：If there is a major error in the calculations, the developers will be required to return with the correct figures before the project can move forward."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Environment",
+      "url": "https://www.theguardian.com/technology/2026/may/09/google-developers-significantly-misstate-carbon-emissions-of-proposed-uk-datacentres",
+      "title": "Google developers significantly misstate carbon emissions of proposed UK datacentres",
+      "publishedAt": "2026-05-09T16:00:01Z"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "How did the developers manipulate the carbon impact data in their reports to make the projects appear less harmful?",
+      "options": {
+        "A": "They excluded the emissions produced during the construction phase of the datacenters.",
+        "B": "They compared one year of emissions against the country's five-year carbon budget.",
+        "C": "They mistakenly used data from a different country's carbon budget for their calculations.",
+        "D": "They underestimated the total amount of energy required to run the AI programs."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，Foxglove 的專家發現開發商將數據中心「一年的預期排放量」與英國「五年的碳預算」進行比較，這種計算方式導致環境影響看起來比實際小了五倍。選項 A 文章未提及；選項 C 錯誤，因為他們使用的是英國的預算，只是計算方式有誤；選項 D 雖然與 AI 耗能有關，但並非文中提到的計算錯誤手法。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the current status of the proposed datacenter projects?",
+      "options": {
+        "A": "They have been permanently canceled due to the environmental reporting errors.",
+        "B": "They are currently being built despite the ongoing investigations by local officials.",
+        "C": "They are not yet fully approved and may require revised environmental data to proceed.",
+        "D": "They have successfully proven that their impact on the environment is 'minor adverse'."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章最後一段，地方議員 Steven Heather 指出這些項目目前僅獲得「初步規劃許可」(outline planning permission)，且如果計算錯誤被證實，開發商必須提交正確數據才能繼續。選項 A 錯誤，因為尚未取消；選項 B 錯誤，因為目前還在審查階段；選項 D 錯誤，因為「minor adverse」是開發商的說法，正受到專家與官員的質疑。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the phrase 'the developers have argued that their projects will have only a small impact', what does the word 'argued' most closely mean in this context?",
+      "options": {
+        "A": "Fought physically with local government officials.",
+        "B": "Presented reasons or evidence to support a specific position.",
+        "C": "Disagreed angrily with other members of their own company.",
+        "D": "Changed their original plans to satisfy environmental critics."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在此語境下，「argued」並非指「爭吵」，而是指「提出論點或理由以支持某種立場」（to present reasons or evidence to support a position）。開發商試圖透過提出論點來淡化其項目的環境影響。選項 A 是錯誤的字面理解；選項 C 與文中描述的開發商立場不符；選項 D 錯誤，因為他們是在為現有計畫辯護，而非改變計畫。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article regarding the expansion of AI datacenters?",
+      "options": {
+        "A": "AI technology is essential for the future, so environmental concerns should be ignored.",
+        "B": "Datacenters are the only source of carbon emissions that the UK government needs to monitor.",
+        "C": "There is a growing conflict between the rapid growth of AI infrastructure and the need for transparent environmental reporting.",
+        "D": "Google is the only tech company that has failed to provide accurate environmental reports for its projects."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章的核心在於探討 AI 基礎設施擴張帶來的環境報告透明度問題，並指出開發商可能透過不實數據誤導公眾，這反映了科技發展與環境保護之間的張力。選項 A 與文章立場相反；選項 B 太過絕對，文章並未說這是唯一來源；選項 D 錯誤，因為文中提到另一家公司 Greystoke 也使用了類似的計算方式。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite-preview",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
