@@ -1,0 +1,145 @@
+{
+  "id": "2026-05-11-impact-of-ai-on-worker-surveillance",
+  "slug": "impact-of-ai-on-worker-surveillance-may-2026",
+  "publishedAt": "2026-05-11T22:14:05.646083Z",
+  "category": "technology",
+  "title": "The Hidden Cost of AI: How Technology is Changing the Workplace",
+  "subtitle": "While many worry about losing their jobs to machines, a new form of digital control is already affecting workers everywhere.",
+  "summary": {
+    "en": "Artificial intelligence is changing how companies manage their employees. While some workers use AI to help them with creative tasks, others are being watched by software that tracks their every move. This trend is creating a divide between those who control the technology and those who are controlled by it. Beyond the office, companies like General Motors have also faced legal trouble for tracking user data. These developments raise important questions about privacy, trust, and human dignity in the modern age.",
+    "zh": "人工智慧正在改變企業管理員工的方式。雖然有些勞工利用人工智慧協助創意任務，但其他人卻受到追蹤其一舉一動的軟體監控。這種趨勢在掌控技術者與被技術掌控者之間造成了鴻溝。在辦公室之外，通用汽車等公司也因追蹤使用者資料而面臨法律糾紛。這些發展在現代社會引發了關於隱私、信任與人類尊嚴的重要問題。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "For years, the public debate about artificial intelligence has focused on one main fear: that machines will replace human workers and cause mass unemployment. However, according to The Guardian, this focus misses a more immediate reality. The real challenge is not just the loss of jobs, but the growing divide between two types of workers. On one side are professionals like analysts and managers who use AI as a tool to improve their skills. For these people, AI acts like a partner, helping them finish routine tasks faster and leaving more time for creative work. On the other side are workers whose daily lives are increasingly shaped by systems that watch and control them.",
+      "zh": "多年來，關於人工智慧的公眾辯論一直聚焦於一個主要恐懼：機器將取代人類勞工並導致大規模失業。然而，根據《衛報》（The Guardian）報導，這種關注忽略了一個更迫切的現實。真正的挑戰不僅是工作機會的流失，而是兩類勞工之間日益擴大的鴻溝。一方面是分析師和經理等專業人士，他們將人工智慧視為提升技能的工具。對這些人而言，人工智慧就像夥伴，協助他們更快完成例行任務，並騰出更多時間進行創意工作。另一方面則是那些日常生活日益受到監控與管理系統所左右的勞工。"
+    },
+    {
+      "id": "p2",
+      "en": "In many industries, AI is no longer just a tool; it has become a boss. This is often called “bossware”—software that monitors what employees do while they work. The Guardian reports that one-third of UK employers already use such technology to track online activity. These systems manage schedules, decide how long a task should take, and grade performance. In these environments, workers are not using AI to help themselves; instead, the AI is watching them to ensure they are working at maximum capacity. This shift creates a workplace that is more pressured and less human, where trust is replaced by constant digital oversight.",
+      "zh": "在許多產業中，人工智慧已不再僅是工具，它已成為老闆。這通常被稱為「老闆軟體」（bossware），即在員工工作時監控其行為的軟體。《衛報》報導指出，三分之一的英國雇主已經使用此類技術來追蹤線上活動。這些系統管理行程、決定任務所需時間並評估績效。在這種環境下，勞工並非利用人工智慧來協助自己，反而是人工智慧在監視他們，以確保其工作效率達到極限。這種轉變創造了一個壓力更大且缺乏人情味的職場，信任被持續的數位監控所取代。"
+    },
+    {
+      "id": "p3",
+      "en": "This trend is not limited to factory floors or delivery drivers. The Guardian notes that these methods are spreading to corporate offices, hospitals, and schools. Even software engineers at major companies report feeling pressured to use AI to increase their productivity, sometimes in ways that actually make their work slower. Furthermore, some companies are beginning to track keystrokes, mouse movements, and clicks to train their AI models. This means that even employees who currently benefit from AI might eventually find themselves under the same strict monitoring as others.",
+      "zh": "這種趨勢並不侷限於工廠車間或外送員。《衛報》指出，這些手段正擴散至企業辦公室、醫院與學校。甚至連大型企業的軟體工程師也表示，他們感受到必須使用人工智慧來提升生產力的壓力，有時這些方式反而讓工作效率變慢。此外，一些公司開始追蹤鍵盤輸入、滑鼠移動與點擊次數，以訓練其人工智慧模型。這意味著，即使是目前從人工智慧獲益的員工，最終也可能發現自己處於與他人相同的嚴格監控之下。"
+    },
+    {
+      "id": "p4",
+      "en": "Beyond the office, the collection of personal data has also become a major legal issue. According to The Verge, General Motors (GM) recently agreed to a settlement—a legal agreement to end a dispute—after being accused of selling driver data to insurance companies. Reports indicated that the automaker shared information about speed, hard braking, and rapid acceleration with data brokers. Insurance companies then used this information to change the prices that drivers paid for their insurance.",
+      "zh": "在辦公室之外，個人資料的蒐集也成為重大的法律議題。根據《The Verge》報導，通用汽車（General Motors，簡稱 GM）最近達成了一項和解協議——即結束爭議的法律協議——此前該公司被指控將駕駛資料販售給保險公司。報導指出，這家汽車製造商與資料仲介分享了關於車速、重踩煞車與急速加速等資訊。保險公司隨後利用這些資訊來調整駕駛人支付的保費。"
+    },
+    {
+      "id": "p5",
+      "en": "Following a 2024 report by The New York Times, several lawsuits were filed against the company. As part of the settlement, GM must stop sharing such data with third-party brokers for five years. The company is also required to provide clear notices to drivers about what information is being collected and must ask for permission before tracking driving habits. California Attorney General Rob Bonta stated that this agreement forces the company to stop these practices, highlighting that businesses cannot simply collect data to use for purposes that customers did not agree to.",
+      "zh": "繼《紐約時報》（The New York Times）2024 年的一篇報導之後，該公司面臨多項訴訟。作為和解的一部分，通用汽車必須在五年內停止與第三方仲介分享此類資料。該公司還被要求向駕駛人提供明確通知，說明正在蒐集哪些資訊，並必須在追蹤駕駛習慣前徵求同意。加州檢察長羅伯·邦塔（Rob Bonta）表示，這項協議迫使該公司停止這些行為，並強調企業不能僅為了客戶未同意的目的而蒐集資料。"
+    },
+    {
+      "id": "p6",
+      "en": "These two issues—workplace surveillance and the tracking of personal data—are connected by a common theme: the desire for control through information. Whether it is a manager tracking a worker’s clicks or a car company monitoring how a person drives, the result is a loss of privacy. As AI systems become more powerful, they can process vast amounts of information, making it easier for organizations to watch people in ways that were previously impossible.",
+      "zh": "這兩個議題——職場監控與個人資料追蹤——由一個共同的主題連結在一起：透過資訊來達成控制的渴望。無論是經理追蹤員工的點擊次數，還是汽車公司監控個人的駕駛方式，結果都是隱私的喪失。隨著人工智慧系統變得更加強大，它們能處理海量資訊，使組織能以過去無法想像的方式監控人們。"
+    },
+    {
+      "id": "p7",
+      "en": "Experts suggest that the most important issue is not just about the technology itself, but about how it affects human wellbeing. Work is about more than just earning an income; it is also about dignity and trust. When every action a person takes is measured and graded by a system they cannot control, it changes the relationship between the worker and the employer. As this technology continues to spread, society must decide how much control we are willing to give to these systems. The future of work may not be a world without jobs, but it could be a world where those jobs are much more fragmented and stressful than they are today.",
+      "zh": "專家認為，最重要的議題不僅在於技術本身，而在於它如何影響人類的福祉。工作不僅是為了賺取收入，更關乎尊嚴與信任。當一個人採取的所有行動都被一個無法掌控的系統衡量與評分時，這改變了勞工與雇主之間的關係。隨著這項技術持續擴散，社會必須決定我們願意賦予這些系統多少控制權。工作的未來可能不會是一個沒有工作的世界，但可能是一個工作內容比現在更加破碎且充滿壓力的世界。"
+    }
+  ],
+  "wordCount": 718,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "divide",
+      "definitionEn": "A significant difference or gap between two groups of people.",
+      "definitionZh": "分歧、鴻溝。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（分開），這裡作名詞，指群體間的差異。文中：The real challenge is not just the loss of jobs, but the growing divide between two types of workers."
+    },
+    {
+      "term": "grade",
+      "definitionEn": "To evaluate or rate the quality of someone's work.",
+      "definitionZh": "評分、評價。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（等級、成績），這裡作動詞，指系統對員工表現進行評估。文中：These systems manage schedules, decide how long a task should take, and grade performance."
+    },
+    {
+      "term": "hard",
+      "definitionEn": "In this context, sudden or forceful (referring to braking).",
+      "definitionZh": "猛烈的、急促的。",
+      "partOfSpeech": "adjective",
+      "noteZh": "常見作「困難的」，這裡形容煞車動作非常猛烈。文中：Reports indicated that the automaker shared information about speed, hard braking, and rapid acceleration with data brokers."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/2026/may/11/ai-worker-control-surveillance",
+      "title": "Forget the AI job apocalypse. AI’s real threat is worker control and surveillance",
+      "publishedAt": "2026-05-11T11:00:53Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/transportation/927863/gm-settles-california-lawsuit-claiming-it-sold-driving-habit-data-to-insurance-companies",
+      "title": "GM settles California lawsuit claiming it sold driving habit data to insurance companies",
+      "publishedAt": "2026-05-11T15:11:23Z"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is a specific consequence of GM's settlement regarding driver data?",
+      "options": {
+        "A": "GM must pay a fine to every driver whose data was sold.",
+        "B": "GM is prohibited from sharing driver data with third-party brokers for five years.",
+        "C": "Insurance companies are now required to lower premiums for all GM drivers.",
+        "D": "GM must stop collecting all forms of driving data permanently."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第五段，GM 與監管機構達成和解，其中明確規定 GM 必須在未來五年內停止與第三方經紀人共享駕駛數據。選項 A 文中未提及賠償每位駕駛；選項 C 錯誤，保險公司並非必須調降保費；選項 D 錯誤，GM 僅需在取得同意後才能進行追蹤，並非完全停止收集數據。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the future of 'professional' workers who currently use AI as a tool?",
+      "options": {
+        "A": "They will eventually be replaced by the AI systems they currently use.",
+        "B": "They are immune to the effects of workplace surveillance mentioned in the text.",
+        "C": "They may eventually face the same strict monitoring as other employees.",
+        "D": "They will stop needing to perform routine tasks entirely within a few years."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第三段，雖然目前專業人士將 AI 視為工具，但文中提到企業正在收集滑鼠點擊與按鍵紀錄來訓練 AI，這意味著即便目前享有 AI 輔助的員工，未來也可能面臨同樣嚴格的監控。選項 A 並非文中結論；選項 B 過於武斷，文中暗示監控技術正擴散至各領域；選項 D 文中未提及。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the word 'fragmented' mean in the context of the future of work?",
+      "options": {
+        "A": "Highly specialized and technical.",
+        "B": "Broken into smaller, less cohesive parts.",
+        "C": "Divided equally among all workers.",
+        "D": "Automated and free of human error."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在文中，fragmented 用來描述未來的工作型態，結合前文提到的監控與壓力，意指工作變得零碎、缺乏整體感且壓力大。選項 A 與文意不符；選項 C 錯誤，文中強調的是不平等與控制；選項 D 與文章對未來工作的負面預測相反。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article regarding AI and the workplace?",
+      "options": {
+        "A": "The primary danger of AI is the mass unemployment of human workers.",
+        "B": "AI is a neutral technology whose impact depends solely on individual users.",
+        "C": "The shift toward AI-driven surveillance threatens human dignity and privacy.",
+        "D": "Legal settlements are the most effective way to stop AI from monitoring employees."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章的核心主旨指出，AI 不僅僅是取代工作，更重要的是它被用來進行數位監控，導致信任喪失，影響人類尊嚴與隱私。選項 A 是文章開頭提到的「迷思」而非結論；選項 B 忽略了系統性監控的負面影響；選項 D 僅是文中提到的一個法律案例，並非全文核心。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite-preview",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
