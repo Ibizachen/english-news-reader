@@ -1,81 +1,86 @@
 {
   "id": "2026-05-13-kevin-warsh-confirmed-as-federal-reserve-chair",
   "slug": "kevin-warsh-confirmed-as-federal-reserve-chair-may-2026",
-  "publishedAt": "2026-05-13T22:14:24.151198Z",
+  "publishedAt": "2026-05-13T23:20:13.831760Z",
   "category": "economics",
   "title": "US Senate Confirms Kevin Warsh as New Federal Reserve Chair",
   "subtitle": "The appointment comes amid high inflation and intense political pressure from the White House.",
   "summary": {
-    "en": "The US Senate has confirmed Kevin Warsh as the new chair of the Federal Reserve in a narrow 54-45 vote. Warsh will replace Jerome Powell, who faced frequent criticism from President Trump over interest rate policies. The central bank is currently struggling to manage rising inflation, which reached 3.8% in April. While Warsh has promised to maintain the independence of the Fed, critics worry he may follow the president's demands too closely. Meanwhile, Powell plans to remain on the Fed's governing board to help protect the institution.",
-    "zh": "美國參議院以五十四比四十五的微弱票數，確認任命華許為聯準會新任主席。華許將接替鮑爾，後者因利率政策頻繁遭到川普總統批評。目前聯準會正努力應對四月份攀升至百分之三點八的通貨膨脹。儘管華許承諾維持聯準會的獨立性，但批評者擔心他可能會過度順從總統的要求。與此同時，鮑爾計畫留在聯準會理事會，以協助保護該機構的運作。"
+    "en": "The US Senate has confirmed Kevin Warsh as the new chair of the Federal Reserve in a narrow 54-45 vote. Warsh will replace Jerome Powell, who faced frequent criticism from President Trump over interest rate policies. The central bank is currently struggling to balance rising inflation with the president's demands for lower borrowing costs. Despite concerns about political influence, Warsh has promised to maintain the independence of the Federal Reserve. Meanwhile, Powell plans to remain on the Fed's governing board to help protect the institution.",
+    "zh": "美國參議院以五十四票對四十五票的些微差距，確認由華許出任聯邦準備理事會新任主席。華許將接替鮑爾，後者因利率政策頻繁遭到川普總統批評。目前中央銀行正努力在通貨膨脹加劇與總統要求降低借貸成本之間取得平衡。儘管外界擔憂政治影響力，華許已承諾將維護聯準會的獨立性。同時，鮑爾計畫留任聯準會理事會，以協助保護該機構。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "The United States Senate has confirmed Kevin Warsh as the new chair of the Federal Reserve, the central bank that manages the nation’s money supply and interest rates. The vote, which took place on Wednesday, was divided mostly along party lines with 54 votes in favor and 45 against. This result represents the narrowest margin of approval for a Federal Reserve chair since the current confirmation process began in 1977. Warsh will officially begin his four-year term on May 14, taking over from the outgoing chair, Jerome Powell.",
-      "zh": "美國參議院已確認任命華許（Kevin Warsh）為聯準會（Federal Reserve）新任主席，該機構為負責管理國家貨幣供給與利率的中央銀行。週三進行的投票結果呈現明顯的黨派分歧，最終以五十四票贊成、四十五票反對通過。此結果是自一九七七年現行確認程序實施以來，聯準會主席獲准票數差距最接近的一次。華許將於五月十四日正式展開為期四年的任期，接替即將卸任的主席鮑爾（Jerome Powell）。"
+      "en": "The United States Senate has confirmed Kevin Warsh as the new chair of the Federal Reserve, the country’s central bank. The vote, which took place on Wednesday, was the most divisive confirmation for this position in history. The final result was 54 votes in favor and 45 against, with the decision falling mostly along party lines. Kevin Warsh will officially begin his four-year term on May 14, taking over from the outgoing chair, Jerome Powell.",
+      "zh": "美國參議院已確認由華許（Kevin Warsh）出任美國中央銀行——聯邦準備理事會（Fed）的新任主席。這場於週三進行的投票，是該職位歷史上最具分歧的一次人事確認案。最終結果為五十四票贊成、四十五票反對，投票結果大致依照黨派立場劃分。華許將於五月十四日正式展開為期四年的任期，接替即將卸任的主席鮑爾（Jerome Powell）。"
     },
     {
       "id": "p2",
-      "en": "Warsh, a former Wall Street executive who served as a Fed governor from 2006 to 2011, enters the role during a difficult time for the American economy. According to BBC Business, the Federal Reserve is facing a \"balancing act\" as it tries to manage rising costs for consumers. Inflation, which measures the rate at which prices for goods and services increase, reached 3.8% in April. This is the highest level seen since May 2023. Much of this increase is linked to higher energy costs, as the closure of the Strait of Hormuz has made oil and gasoline significantly more expensive. Food, housing, and airfare prices are also climbing, creating pressure on household budgets.",
-      "zh": "華許曾任華爾街高階主管，並於二〇〇六年至二〇一一年間擔任聯準會理事。他接手此職位時，美國經濟正處於艱難時期。根據英國廣播公司商業新聞（BBC Business）報導，聯準會正試圖在管理消費者日益增加的成本之間取得「平衡」。四月份的通貨膨脹率（衡量商品與服務價格上漲速度的指標）達到百分之三點八，創下二〇二三年五月以來的最高水準。這波漲幅多半與能源成本上升有關，由於荷莫茲海峽（Strait of Hormuz）的封鎖，導致石油與汽油價格顯著攀升。食品、住房與機票價格也同步上漲，對家庭預算造成壓力。"
+      "en": "The Federal Reserve is a powerful institution that manages the nation's money supply. Its primary job is to keep prices stable and support a healthy economy. It does this by setting interest rates—the cost of borrowing money. When the Fed raises these rates, it makes borrowing more expensive, which usually slows down spending and helps lower inflation, or the rising cost of goods and services. When it lowers rates, it encourages spending but can also cause prices to rise faster.",
+      "zh": "聯邦準備理事會是一個權力巨大的機構，負責管理國家的貨幣供給。其主要職責在於維持物價穩定並支持經濟健全發展。該機構透過設定利率，即借貸資金的成本，來達成此目標。當聯準會調升利率時，借貸成本會隨之增加，這通常會減緩消費支出，並有助於降低通貨膨脹，也就是商品與服務價格上漲的現象。反之，當利率調降時，則會鼓勵消費，但也可能導致物價上漲速度加快。"
     },
     {
       "id": "p3",
-      "en": "The Federal Reserve usually tries to control inflation by keeping interest rates high, which makes borrowing money more expensive and slows down spending. However, President Trump has been very vocal about his desire to see lower interest rates to help the economy grow. As reported by NPR News, the president has frequently criticized the outgoing chair, Jerome Powell, for not cutting rates fast enough. Trump has even called Powell the worst Fed chair in history. Because of this, many analysts believe Warsh will face significant pressure from the White House to lower rates, even if inflation remains high.",
-      "zh": "聯準會通常透過維持高利率來控制通貨膨脹，這會增加借貸成本並減緩支出。然而，川普（Donald Trump）總統一直公開表達希望降低利率以促進經濟成長。根據美國國家公共廣播電台（NPR News）報導，總統經常批評即將卸任的主席鮑爾降息速度不夠快，甚至稱鮑爾為史上最差的聯準會主席。因此，許多分析師認為，即便通貨膨脹率居高不下，華許仍將面臨來自白宮要求降息的巨大壓力。"
+      "en": "Warsh takes on this role during a very difficult time. According to BBC Business, inflation in the United States reached 3.8% in April, the highest level since May 2023. This increase is partly due to rising energy costs, as the ongoing war in the Middle East has caused problems for oil shipments through the Strait of Hormuz. Despite these rising prices, President Donald Trump has been very clear that he wants the Federal Reserve to lower interest rates to help the economy. This puts Warsh in a challenging position, as traditional economic theory suggests that the Fed should keep rates high or even raise them when inflation is climbing.",
+      "zh": "華許在極為艱困的時刻接下此重任。根據英國廣播公司商業新聞（BBC Business）報導，美國四月份的通貨膨脹率達到百分之三點八，創下自二零二三年五月以來的最高水準。這波漲勢部分歸因於能源成本上升，因為中東地區持續的戰事已導致荷莫茲海峽的石油運輸出現問題。儘管物價不斷上漲，川普（Donald Trump）總統仍明確表示，他希望聯準會調降利率以提振經濟。這使華許陷入兩難，因為傳統經濟理論認為，當通貨膨脹攀升時，聯準會應維持高利率甚至進一步升息。"
     },
     {
       "id": "p4",
-      "en": "During his confirmation hearing, Warsh promised to defend the independence of the central bank. He told the Senate Banking Committee that he would not act as a \"sock puppet\" for the president, a term used by critics to suggest he would simply follow orders without thinking for himself. Despite these promises, Democratic Senator Elizabeth Warren remains skeptical. According to The Guardian, she argued that Warsh was chosen specifically to do the president's bidding, which she believes would benefit Wall Street rather than working families. Only one Democrat, Senator John Fetterman, voted to confirm Warsh, stating that he believes the new chair will be transparent and responsive to the public.",
-      "zh": "在確認聽證會期間，華許承諾將捍衛中央銀行的獨立性。他向參議院銀行委員會表示，他不會成為總統的「傀儡」，這是批評者用來暗示他只會盲目聽從命令而缺乏獨立思考的用語。儘管有此承諾，民主黨參議員華倫（Elizabeth Warren）仍持懷疑態度。根據《衛報》（The Guardian）報導，她認為華許是為了執行總統意志而特別挑選的人選，她相信這將有利於華爾街而非一般勞工家庭。僅有一位民主黨參議員費特曼（John Fetterman）投票支持華許，他表示相信這位新主席將保持透明並對公眾負責。"
+      "en": "President Trump had a difficult relationship with the outgoing chair, Jerome Powell. The president frequently criticized Powell, calling him incompetent for not cutting interest rates fast enough. According to NPR News, the Trump administration even launched a federal investigation into the central bank during Powell's time as leader. This investigation was only dropped after Republican Senator Thom Tillis blocked the nomination process to demand an end to the probe. In a move that breaks with tradition, Powell has announced he will stay on the Fed’s governing board after his term as chair ends. He intends to keep a low profile but will continue to have a vote on the committee that sets interest rates.",
+      "zh": "川普總統與即將卸任的主席鮑爾之間關係緊張。總統經常批評鮑爾，稱其因未能快速降息而顯得無能。根據美國國家公共廣播電台（NPR News）報導，川普政府甚至在鮑爾領導期間，對中央銀行發動了聯邦調查。這項調查直到共和黨參議員提里斯（Thom Tillis）為了要求終止調查而阻撓提名程序後，才宣告撤銷。鮑爾採取了一項打破傳統的舉動，宣布在主席任期結束後，仍將留任聯準會理事會。他打算保持低調，但將繼續在負責制定利率的委員會中保有投票權。"
     },
     {
       "id": "p5",
-      "en": "The path to Warsh’s confirmation was not simple. It was delayed by a political conflict involving an investigation into the outgoing chair, Jerome Powell. The Trump administration had launched a federal probe—a formal investigation—into Powell regarding a building renovation project. Republican Senator Thom Tillis blocked the nomination process until the Justice Department agreed to drop the investigation. Once the probe was stopped in April, the path was cleared for the Senate to move forward with the vote.",
-      "zh": "華許的確認過程並不順利，曾因一項針對即將卸任主席鮑爾的調查所引發的政治衝突而延宕。川普政府曾對鮑爾發起一項聯邦調查，針對的是一項建築翻修計畫。共和黨參議員提利斯（Thom Tillis）在司法部同意撤銷該調查前，一直阻撓提名程序。直到四月份調查終止後，參議院才得以繼續進行投票程序。"
+      "en": "During his confirmation hearing, Warsh promised that he would not act as a \"sock puppet\"—a term used by critics to describe someone who simply follows the orders of another person—for the president. He vowed to defend the independence of the central bank. However, many Democrats remain skeptical. Senator Elizabeth Warren, a leading Democrat on the banking committee, argued that Warsh was chosen specifically to do what the president wants. According to The Guardian, she warned that this shift is bad for working families and only serves the interests of Wall Street.",
+      "zh": "在人事確認聽證會上，華許承諾他不會成為總統的「傀儡」——這是批評者用來形容那些只會聽命於他人者的詞彙。他誓言捍衛中央銀行的獨立性。然而，許多民主黨人仍持懷疑態度。銀行委員會的民主黨領袖華倫（Elizabeth Warren）參議員主張，華許之所以獲選，正是為了執行總統的意圖。根據《衛報》（The Guardian）報導，她警告稱這種轉變對勞工家庭不利，且僅服務於華爾街的利益。"
     },
     {
       "id": "p6",
-      "en": "In an unusual move, Jerome Powell has decided to remain on the Fed’s 12-member governing board after his term as chair ends on Friday. Typically, a chair leaves the institution entirely after their term is over. According to NPR News, Powell is determined to help safeguard the bank from political pressure and intends to keep a low profile while continuing to vote on interest rate decisions. This is significant because the board is currently divided on how to handle the economy. Some members believe that with inflation rising, the next step should be to raise interest rates, while others are under pressure to cut them.",
-      "zh": "鮑爾採取了一項罕見的舉動，決定在週五卸任主席職務後，繼續留在聯準會十二人的理事會中。通常情況下，主席在任期結束後會完全離開該機構。根據美國國家公共廣播電台報導，鮑爾決心協助保護聯準會免受政治壓力，並打算在繼續參與利率決策投票的同時保持低調。這點至關重要，因為理事會目前對於如何處理經濟問題存在分歧。部分成員認為，隨著通貨膨脹加劇，下一步應升息，而其他人則面臨降息的壓力。"
+      "en": "Only one Democrat, Senator John Fetterman of Pennsylvania, voted to confirm Warsh. Fetterman stated that he believes Warsh will be transparent and responsive to the public. On the other side, Republican Senate Majority Leader John Thune defended the choice, suggesting that the opposition from Democrats was simply a result of their strong dislike for the president. A spokesperson for the White House, Kush Desai, welcomed the news, saying that the confirmation is a step toward restoring confidence in the Fed’s decision-making.",
+      "zh": "僅有一位民主黨人，即賓夕法尼亞州的費特曼（John Fetterman）參議員，投票支持確認華許的任命。費特曼表示，他相信華許將會保持透明並對大眾需求做出回應。另一方面，共和黨參議院領袖圖恩（John Thune）則為這項選擇辯護，暗示民主黨人的反對純粹是因為他們強烈厭惡總統。白宮發言人德賽（Kush Desai）對此消息表示歡迎，稱這次確認是恢復大眾對聯準會決策信心的一步。"
     },
     {
       "id": "p7",
-      "en": "As Warsh prepares to lead the central bank, he faces what some experts call a \"Mission Impossible.\" Carl Tobias, a law professor at the University of Richmond, noted that Warsh must navigate a situation where inflation is high, the president is demanding lower rates, and the board itself is split on the best path forward. Whether Warsh can maintain the independence of the Federal Reserve while managing these competing demands remains the central question for the American economy in the coming months.",
-      "zh": "當華許準備領導中央銀行時，他面臨著一些專家所稱的「不可能的任務」。里奇蒙大學（University of Richmond）法學教授托比亞斯（Carl Tobias）指出，華許必須在通貨膨脹高漲、總統要求降息，以及理事會對未來方向意見分歧的情況下尋求出路。華許能否在管理這些相互衝突的需求的同時，維持聯準會的獨立性，仍是未來幾個月美國經濟面臨的核心問題。"
+      "en": "Warsh is not new to this work. He previously served as a Fed governor from 2006 to 2011 and is a former executive at the bank Morgan Stanley. During his earlier time at the Fed, he was known as an \"inflation hawk,\" meaning he generally preferred higher interest rates to keep inflation under control. However, he now faces a \"Mission Impossible,\" according to Carl Tobias, a law professor at the University of Richmond. He must manage a board that is sharply divided while dealing with a president who is loudly demanding lower rates.",
+      "zh": "華許對這項工作並不陌生。他曾於二零零六年至二零一一年間擔任聯準會理事，也是摩根士丹利（Morgan Stanley）銀行的前高階主管。在早年任職聯準會期間，他被視為「鷹派」，意即他通常傾向採取較高利率以控制通貨膨脹。然而，根據里奇蒙大學（University of Richmond）法學教授托比亞斯（Carl Tobias）的說法，他現在面臨一項「不可能的任務」。他必須管理一個立場嚴重分歧的理事會，同時還要應對一位大聲疾呼要求降息的總統。"
+    },
+    {
+      "id": "p8",
+      "en": "As Warsh prepares to lead the central bank, he has already suggested that the government should change how it measures inflation and how the Fed communicates with the public. Whether he can truly balance the president's demands with the need to keep the economy stable remains to be seen. With inflation still high and the global situation uncertain, the new chair faces a very difficult road ahead.",
+      "zh": "隨著華許準備領導中央銀行，他已建議政府應改變衡量通貨膨脹的方式，以及聯準會與大眾溝通的方式。他是否真能平衡總統的要求與維持經濟穩定的需求，仍有待觀察。在通貨膨脹率居高不下且全球局勢充滿不確定性的情況下，這位新任主席前方道路艱辛。"
     }
   ],
-  "wordCount": 738,
+  "wordCount": 768,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
       "term": "lines",
-      "definitionEn": "In this context, political or ideological divisions or affiliations.",
-      "definitionZh": "（政治或立場上的）界線、派系。",
-      "partOfSpeech": "noun (plural)",
-      "noteZh": "常見作名詞（線條），這裡指政治立場的劃分。文中：The vote, which took place on Wednesday, was divided mostly along party lines with 54 votes in favor and 45 against."
+      "definitionEn": "Divisions or boundaries, often used in politics to describe groups that think the same way.",
+      "definitionZh": "界線；立場（常用於政治立場）。",
+      "partOfSpeech": "noun (here)",
+      "noteZh": "常見作「線條」或「排隊」，這裡指政治陣營。文中：The final result was 54 votes in favor and 45 against, with the decision falling mostly along party lines."
     },
     {
-      "term": "bidding",
-      "definitionEn": "Commands or orders, usually implying someone is doing what another person wants.",
-      "definitionZh": "命令、吩咐。",
-      "partOfSpeech": "noun",
-      "noteZh": "常見作動詞 bid（出價）的現在分詞，這裡作名詞，指聽從某人的意旨。文中：According to The Guardian, she argued that Warsh was chosen specifically to do the president's bidding, which she believes would benefit Wall Street rather than working families."
-    },
-    {
-      "term": "drop",
-      "definitionEn": "To stop pursuing or to cancel an investigation or a plan.",
-      "definitionZh": "終止、放棄（調查或計畫）。",
+      "term": "dropped",
+      "definitionEn": "To stop or end an activity or investigation.",
+      "definitionZh": "停止；放棄；終止。",
       "partOfSpeech": "verb",
-      "noteZh": "常見作動詞（掉落），這裡指停止進行某事。文中：Republican Senator Thom Tillis blocked the nomination process until the Justice Department agreed to drop the investigation."
+      "noteZh": "常見作「掉落」，這裡指終止調查。文中：This investigation was only dropped after Republican Senator Thom Tillis blocked the nomination process to demand an end to the probe."
     },
     {
-      "term": "split",
-      "definitionEn": "Divided in opinion or feeling.",
-      "definitionZh": "意見分歧的、分裂的。",
-      "partOfSpeech": "adjective",
-      "noteZh": "常見作動詞（分裂），這裡作形容詞描述狀態。文中：Carl Tobias, a law professor at the University of Richmond, noted that Warsh must navigate a situation where inflation is high, the president is demanding lower rates, and the board itself is split on the best path forward."
+      "term": "profile",
+      "definitionEn": "The amount of attention or notice that someone or something receives.",
+      "definitionZh": "公眾關注度；曝光度。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作「個人簡介」，這裡指公眾關注的程度。文中：He intends to keep a low profile but will continue to have a vote on the committee that sets interest rates."
+    },
+    {
+      "term": "hawk",
+      "definitionEn": "A person who supports strong or aggressive policies, especially in economics or politics.",
+      "definitionZh": "鷹派（指主張強硬政策的人）。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作「老鷹」，這裡指經濟上傾向強硬政策的人。文中：During his earlier time at the Fed, he was known as an \"inflation hawk,\" meaning he generally preferred higher interest rates to keep inflation under control."
     }
   ],
   "sources": [
@@ -108,54 +113,54 @@
     {
       "id": "q1",
       "type": "detail",
-      "question": "What specific condition was required for the Senate to proceed with Kevin Warsh's confirmation vote?",
+      "question": "What specific factor is cited in the article as contributing to the recent rise in U.S. inflation?",
       "options": {
-        "A": "The Federal Reserve had to officially report inflation rates below 3%.",
-        "B": "The Justice Department had to terminate a federal investigation into Jerome Powell.",
-        "C": "Jerome Powell had to publicly announce his resignation from the governing board.",
-        "D": "The Senate Banking Committee had to reach a unanimous agreement on his nomination."
+        "A": "A decrease in the nation's overall money supply.",
+        "B": "Disruptions to oil shipments in the Strait of Hormuz.",
+        "C": "The Federal Reserve's decision to raise interest rates too quickly.",
+        "D": "The outgoing chair's refusal to cooperate with the Trump administration."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。根據文章第五段，共和黨參議員 Thom Tillis 阻擋了提名程序，直到司法部同意撤銷對 Jerome Powell 關於建築翻修工程的聯邦調查（federal probe），投票程序才得以繼續。選項 A 並非條件；選項 C 錯誤，因為 Powell 決定留任；選項 D 錯誤，因為投票結果顯示黨派立場分歧，並非一致同意。"
+      "explanationZh": "正確答案為 B。根據文章第三段，文中明確提到通貨膨脹上升的部分原因是能源成本增加，而這源於中東戰爭導致荷姆茲海峽的石油運輸問題。選項 A 與文意相反，因為控制貨幣供應是聯準會的目的。選項 C 錯誤，因為提高利率通常是為了抑制通膨而非導致通膨。選項 D 雖提及前主席與川普關係緊張，但並非導致通膨的主因。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "Based on the text, why might Jerome Powell's decision to remain on the governing board be considered a strategic move?",
+      "question": "Based on the information provided, why might Kevin Warsh find it difficult to satisfy both the President and traditional economic principles?",
       "options": {
-        "A": "To ensure he receives a higher salary than the new chair.",
-        "B": "To prevent the Trump administration from investigating his past decisions.",
-        "C": "To provide a counterweight to political influence and help manage the board's internal division.",
-        "D": "To publicly challenge Kevin Warsh's authority during every board meeting."
+        "A": "Because he lacks experience in the banking sector and at the Federal Reserve.",
+        "B": "Because he has already publicly promised to ignore the President's economic advice.",
+        "C": "Because the President wants lower interest rates, while high inflation usually requires higher rates.",
+        "D": "Because he is legally required to step down if the Senate disagrees with his policies."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。根據第六段，Powell 留任是為了協助保護央行免受政治壓力，並在董事會對經濟政策（升息或降息）意見分歧時繼續參與投票。選項 A 無根據；選項 B 雖然提到了調查，但 Powell 留任是為了保護央行而非保護自己免於調查；選項 D 過度推論，文中僅提到他想保持低調並維護央行獨立性，而非公開挑戰。"
+      "explanationZh": "正確答案為 C。根據文章第三段與第七段，川普總統要求降低利率以刺激經濟，但根據傳統經濟理論，在通膨高漲（3.8%）的情況下，聯準會應維持高利率或升息以抑制物價。Warsh 處於兩難中。選項 A 錯誤，因為他曾任聯準會理事與摩根士丹利高管。選項 B 錯誤，他承諾不當「傀儡」，但並未說要直接忽視總統意見。選項 D 文章中並未提及此法律規定。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the context of the fourth paragraph, what does the term 'sock puppet' imply about Kevin Warsh's expected relationship with the President?",
+      "question": "In the context of the article, what does the term 'sock puppet' mean?",
       "options": {
-        "A": "That he will be a passive instrument who follows the President's orders without independent judgment.",
-        "B": "That he will be a spokesperson who communicates the President's economic vision to the public.",
-        "C": "That he will be a skilled negotiator who can manipulate the President's economic policies.",
-        "D": "That he will be a temporary placeholder until a more permanent candidate is found."
+        "A": "A person who is easily manipulated or controlled by another.",
+        "B": "A government official who is responsible for public communication.",
+        "C": "An economic expert who focuses primarily on inflation data.",
+        "D": "A politician who frequently changes their political party affiliation."
       },
       "correct": "A",
-      "explanationZh": "正確答案為 A。文中提到 Warsh 承諾不會成為總統的「sock puppet」，並解釋該詞意指「盲目聽從命令且缺乏獨立思考」，因此 A 選項最精確。B 選項將其美化為發言人，不符合該詞的負面意涵；C 選項與原意相反，因為 sock puppet 是被操控者而非操控者；D 選項與文中 Warsh 的四年任期設定不符。"
+      "explanationZh": "正確答案為 A。文章第五段提到 Warsh 承諾不會當「sock puppet」，並解釋該詞意指「僅僅遵循他人命令的人」。這是一個比喻，形容傀儡或被操弄者。選項 B、C、D 皆與文中定義的「聽命於他人」之含義無關，屬於錯誤的詞彙解釋。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "What is the central challenge facing Kevin Warsh as the new Federal Reserve chair?",
+      "question": "What is the primary theme of the article regarding Kevin Warsh's new position?",
       "options": {
-        "A": "Overcoming the legal hurdles left by the previous chair's investigation.",
-        "B": "Managing high inflation while balancing political pressure to cut rates and internal board disagreements.",
-        "C": "Convincing the public that he is not a former Wall Street executive.",
-        "D": "Rebuilding the relationship between the Senate Banking Committee and the White House."
+        "A": "The historical success of the Federal Reserve in managing U.S. inflation.",
+        "B": "The personal rivalry between Jerome Powell and Donald Trump.",
+        "C": "The legal investigation into the central bank's previous leadership.",
+        "D": "The complex challenges Warsh faces while balancing political pressure and economic stability."
       },
-      "correct": "B",
-      "explanationZh": "正確答案為 B。文章最後一段明確總結了 Warsh 面臨的「不可能任務」：即在高通膨、總統要求降息的壓力，以及董事會對經濟路徑意見分歧的夾縫中，設法維持央行的獨立性。選項 A 僅是過去的障礙，非未來挑戰；選項 C 非重點；選項 D 並非文章核心議題，文章重點在於央行政策的獨立性與經濟壓力。"
+      "correct": "D",
+      "explanationZh": "正確答案為 D。整篇文章圍繞著 Warsh 接任聯準會主席後的處境，涵蓋了政治壓力（川普要求降息）、經濟挑戰（高通膨）以及他對獨立性的承諾。選項 A 並非本文重點。選項 B 與 C 僅是背景資訊，用以說明 Warsh 接手時的困難環境，而非文章的核心主旨。選項 D 最能涵蓋全文對 Warsh 面臨「不可能任務」的描述。"
     }
   ],
   "aiGenerated": true,
