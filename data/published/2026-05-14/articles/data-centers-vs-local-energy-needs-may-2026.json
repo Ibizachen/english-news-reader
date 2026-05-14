@@ -1,0 +1,140 @@
+{
+  "id": "2026-05-14-data-centers-vs-local-energy-needs",
+  "slug": "data-centers-vs-local-energy-needs-may-2026",
+  "publishedAt": "2026-05-14T22:13:25.387513Z",
+  "category": "technology",
+  "title": "The Growing Conflict Between Data Centers and Local Communities",
+  "subtitle": "As tech companies build more facilities to power AI, residents and energy providers face difficult choices about electricity and water usage.",
+  "summary": {
+    "en": "Data centers are essential for modern technology but require massive amounts of electricity and water. This demand is causing tension in communities where local energy supplies are being redirected to support these facilities. In places like Lake Tahoe, residents are facing an energy crisis as their provider stops service to focus on data center growth. Meanwhile, citizens in other states are using new tools to track how these facilities impact their local resources. The debate highlights a lack of transparency regarding how tech companies influence local infrastructure. Balancing the need for digital growth with the needs of residents remains a major challenge.",
+    "zh": "資料中心對現代科技至關重要，但需要消耗大量的電力與水資源。這種需求正導致社區內部的緊張關係，因為當地的能源供應被轉移去支援這些設施。在太浩湖等地，居民正面臨能源危機，因為他們的供應商為了專注於資料中心的成長而停止服務。同時，其他州的公民正利用新工具來追蹤這些設施如何影響當地資源。這場辯論凸顯了科技公司如何影響地方基礎設施的透明度不足。在數位成長需求與居民需求之間取得平衡，依然是一項重大挑戰。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "In recent years, the rapid growth of artificial intelligence and digital services has led to a massive increase in the construction of data centers. These large buildings house the powerful computers that run the internet and modern software. However, as these facilities multiply, they are creating significant pressure on local resources, leading to tensions between tech giants and the communities where they operate. From the mountains of California to the forests of Oregon, residents are beginning to question the cost of this digital expansion.",
+      "zh": "近年來，人工智慧與數位服務的快速成長，導致資料中心建設大幅增加。這些大型建築容納了運作網際網路與現代軟體的強大電腦。然而，隨著這些設施不斷擴增，它們正對當地資源造成巨大壓力，導致科技巨頭與其營運所在社區之間的關係趨於緊張。從加州的群山到奧勒岡州的森林，居民們開始質疑這種數位擴張所付出的代價。"
+    },
+    {
+      "id": "p2",
+      "en": "One clear example of this tension is happening in the Lake Tahoe region. According to Fortune, 49,000 residents in this area are now scrambling to find a new energy provider by May 2027. This follows a decision by the Nevada-based company NV Energy to stop supplying power to the region. Liberty Utilities, the local provider for Lake Tahoe, noted that it currently gets 75 percent of its power from NV Energy. Documents filed with California regulators suggest that the primary reason for this change is the high energy demand from new data centers in northern Nevada. Data from NV Energy’s own planning documents indicates that these projects could require 5,900 megawatts of new power by 2033. While NV Energy representatives told Fortune that this decision was part of a long-term plan that began years ago, the impact on residents remains a serious concern.",
+      "zh": "太浩湖 (Lake Tahoe) 地區發生的情況，正是這種緊張關係的一個明顯例子。根據《財星》(Fortune) 雜誌報導，該地區四萬九千名居民目前正急於在二零二七年五月前找到新的能源供應商。此前，總部位於內華達州的內華達能源公司 (NV Energy) 決定停止對該地區供電。太浩湖當地的供應商自由公用事業公司 (Liberty Utilities) 指出，目前其百分之七十五的電力來自內華達能源公司。提交給加州監管機構的文件顯示，這項變動的主要原因是內華達州北部新建的資料中心對能源需求龐大。內華達能源公司自身的規劃文件數據顯示，到二零三三年，這些專案可能需要五千九百百萬瓦的新增電力。儘管內華達能源公司的代表向《財星》表示，這項決定是多年前啟動的長期計畫之一，但對居民造成的影響仍是嚴重的隱憂。"
+    },
+    {
+      "id": "p3",
+      "en": "This trend is not limited to electricity. In The Dalles, Oregon, residents are worried about how data centers affect their water supply. As reported by The Verge, a large data center campus in the city already uses about one-third of the local water. Some critics argue that the city is prioritizing the needs of tech companies over the needs of its own people. For example, there has been a public debate over the use of land near the Mount Hood National Forest, with some residents fearing that local water resources are being drained to support the growing digital infrastructure.",
+      "zh": "這種趨勢不僅限於電力。在奧勒岡州的達爾斯市 (The Dalles)，居民們擔心資料中心會影響當地的供水。據《邊緣》(The Verge) 報導，該市一座大型資料中心園區已經消耗了當地約三分之一的水資源。部分批評者認為，市政府將科技公司的需求置於市民需求之上。例如，關於胡德山國家森林 (Mount Hood National Forest) 附近土地的使用問題，已引發公開辯論，一些居民擔心當地的水資源正被抽乾，以支撐日益成長的數位基礎設施。"
+    },
+    {
+      "id": "p4",
+      "en": "Because of these concerns, some citizens are taking action to increase transparency. Isabelle Reksopuro, a student at the University of Washington, has created an interactive map to track data center policies around the world. She told The Verge that she wanted to help people understand what is happening in their own neighborhoods. Reksopuro believes that tech companies often benefit from a lack of public information. She suggests that if people knew about these projects earlier, they could negotiate for better benefits, such as job training programs, more tax revenue for the community, or stricter environmental monitoring.",
+      "zh": "由於這些擔憂，一些公民正採取行動以提高透明度。華盛頓大學 (University of Washington) 的學生伊莎貝爾·雷克索普羅 (Isabelle Reksopuro) 製作了一份互動地圖，用以追蹤全球各地的資料中心政策。她告訴《邊緣》，她希望幫助人們了解在自己社區周遭正發生什麼事。雷克索普羅認為，科技公司往往因公眾資訊的匱乏而獲利。她建議，如果民眾能更早得知這些專案，他們就能爭取更好的回饋，例如就業培訓計畫、為社區增加稅收，或是更嚴格的環境監測。"
+    },
+    {
+      "id": "p5",
+      "en": "Public opinion on this issue is far from united. According to Bloomberg, opposition to data centers is one of the few things that brings Americans together across political lines. This is largely because these facilities often provide very few permanent jobs after the construction phase is finished, while simultaneously driving up power costs for regular families. However, state policies vary significantly. The Verge notes that while Maine recently attempted to pass a law to stop the construction of large data centers, Texas has taken a different approach. The Texas Tribune reports that Texas offers significant tax breaks to these companies, providing over $1 billion in tax exemptions each year.",
+      "zh": "大眾對此議題的看法遠未達成共識。根據《彭博》(Bloomberg) 報導，反對資料中心是少數能跨越政治立場、讓美國人達成共識的事項之一。這主要是因為這些設施在建設階段結束後，往往只能提供極少數的永久性職位，同時卻推高了一般家庭的電費。然而，各州的政策差異顯著。《邊緣》指出，雖然緬因州最近試圖通過法律以阻止大型資料中心的建設，但德州卻採取了不同的做法。《德州論壇報》(The Texas Tribune) 報導稱，德州為這些公司提供了顯著的減稅優惠，每年提供超過十億美元的稅收豁免。"
+    },
+    {
+      "id": "p6",
+      "en": "As the demand for data centers continues to rise, the challenge for policymakers will be to find a balance. Tech companies are already looking for ways to secure power, such as Amazon’s recent agreement to support the development of 700 megawatts of low-carbon energy in Nevada, as reported by Data Center Dynamics. Yet, for many local residents, the immediate concern remains the stability of their own power and water supplies. Whether through better local laws or increased public awareness, the relationship between tech companies and the communities they serve is likely to remain a major topic of debate for years to come.",
+      "zh": "隨著對資料中心的需求持續攀升，決策者面臨的挑戰將是如何取得平衡。科技公司已在尋求確保電力供應的方法，例如根據《資料中心動力》(Data Center Dynamics) 報導，亞馬遜 (Amazon) 最近達成協議，將支持內華達州七百百萬瓦低碳能源的開發。然而，對許多當地居民而言，迫切的擔憂仍是自身電力與水資源供應的穩定性。無論是透過更好的地方法規還是提高公眾意識，科技公司與其服務社區之間的關係，在未來幾年內很可能仍將是主要的辯論話題。"
+    }
+  ],
+  "wordCount": 718,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "scrambling",
+      "definitionEn": "To move or act quickly and with difficulty to achieve something, often because of urgency.",
+      "definitionZh": "匆忙地、手忙腳亂地設法做某事。",
+      "partOfSpeech": "verb (present participle)",
+      "noteZh": "此詞常被誤解為「炒蛋（scrambled eggs）」，但在這裡指因時間緊迫而急忙行動。文中：49,000 residents in this area are now scrambling to find a new energy provider by May 2027."
+    },
+    {
+      "term": "drained",
+      "definitionEn": "To use up a supply of something, such as resources or energy, until it is gone.",
+      "definitionZh": "耗盡、抽乾（資源）。",
+      "partOfSpeech": "verb (past participle)",
+      "noteZh": "常見作名詞（排水管）或形容詞（精疲力竭），這裡作動詞指資源被過度消耗。文中：some residents fearing that local water resources are being drained to support the growing digital infrastructure."
+    },
+    {
+      "term": "lines",
+      "definitionEn": "Divisions or boundaries, often used to describe differences in political or social opinions.",
+      "definitionZh": "界線、立場（指政治立場）。",
+      "partOfSpeech": "noun (plural)",
+      "noteZh": "這裡的 lines 指的是政治上的「立場界線」，而非實體的線條。文中：opposition to data centers is one of the few things that brings Americans together across political lines."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/05/energy-supplier-abandons-lake-tahoe-residents-to-serve-data-centers/",
+      "title": "Energy supplier abandons Lake Tahoe residents to serve data centers",
+      "publishedAt": "2026-05-14T19:17:28Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/policy/930629/data-center-policy-map-interactive",
+      "title": "Use this map to find the data centers in your backyard",
+      "publishedAt": "2026-05-14T17:40:00Z"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the primary reason given for the power supply changes affecting Lake Tahoe residents?",
+      "options": {
+        "A": "NV Energy is going out of business by 2027.",
+        "B": "New data centers in northern Nevada require a massive amount of electricity.",
+        "C": "Liberty Utilities has decided to stop working with NV Energy to save costs.",
+        "D": "The California government mandated a reduction in energy consumption for the region."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，文件顯示 Lake Tahoe 地區電力供應改變的主要原因是北內華達州新建的資料中心對能源需求極高。選項 A 錯誤，因為 NV Energy 並非倒閉，只是停止供電；選項 C 錯誤，文中指出是 NV Energy 決定停止供電，而非 Liberty Utilities 主動終止；選項 D 錯誤，文中並未提到加州政府強制要求減少能源消耗。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the text, why might local communities feel frustrated by the arrival of a new data center?",
+      "options": {
+        "A": "They believe data centers will cause the immediate destruction of national forests.",
+        "B": "They are upset that data centers force residents to work in the technology sector.",
+        "C": "The facilities consume significant public resources while offering few long-term employment opportunities.",
+        "D": "They prefer that tech companies build data centers in other countries instead of the U.S."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第五段，文章提到資料中心在建設期過後幾乎不提供永久性工作，同時卻推高了普通家庭的能源成本，且第二、三段提到它們大量消耗電力與水資源，這解釋了居民為何感到不滿。選項 A 過度推論，居民擔心的是資源枯竭而非直接摧毀森林；選項 B 文中未提及；選項 D 並非文章討論的社區矛盾核心。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the phrase 'residents are beginning to question the cost of this digital expansion,' what does the word 'cost' most likely refer to?",
+      "options": {
+        "A": "The financial price residents must pay to access the internet.",
+        "B": "The negative consequences or burdens placed on the community.",
+        "C": "The total amount of money tech companies spend on construction.",
+        "D": "The tax revenue that the local government loses to tech giants."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在此語境下，「cost」並非指金錢價格，而是指「代價」或「負面影響」，即數位擴張對當地環境與資源造成的負擔。選項 A 錯誤，文中未討論網路費用；選項 C 錯誤，這是指企業支出而非社區付出的代價；選項 D 雖然文中提到稅收，但並非此處「cost」所指的整體代價。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central theme of the article regarding data centers?",
+      "options": {
+        "A": "The technical advancements that allow data centers to run more efficiently.",
+        "B": "The political differences between states like Texas and Maine regarding technology.",
+        "C": "The growing conflict between the high resource demands of data centers and the needs of local communities.",
+        "D": "The successful efforts of students to force tech companies to provide better job training."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。全文從開頭便點出資料中心擴張對當地資源造成的壓力，隨後透過 Lake Tahoe 的電力問題、Oregon 的用水問題及各地的政策辯論，反覆強調科技巨頭與社區需求之間的緊張關係。選項 A 並非本文重點；選項 B 僅是文章中的一個小細節；選項 D 僅是解決問題的建議之一，非文章主旨。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite-preview",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}

@@ -1,0 +1,139 @@
+{
+  "id": "2026-05-14-ai-risks-in-healthcare-and-addiction-medicine",
+  "slug": "ai-risks-in-healthcare-and-addiction-medicine-may-2026",
+  "publishedAt": "2026-05-14T22:13:25.387513Z",
+  "category": "health",
+  "title": "The Risks of Using AI Scribes in Modern Healthcare",
+  "subtitle": "A new government audit reveals that AI tools used by doctors often make serious mistakes.",
+  "summary": {
+    "en": "Doctors are increasingly using AI tools to take notes during patient visits. However, a new report from Ontario shows these tools often make errors. The audit found that AI systems can invent information that was never said. These mistakes could lead to wrong treatments or missed health concerns. Experts are now calling for better oversight of these technologies.",
+    "zh": "醫師越來越常使用人工智慧工具在看診時進行紀錄。然而，一份來自安大略省的最新報告顯示，這些工具經常出錯。審計發現，人工智慧系統可能會捏造對話中從未提及的資訊。這些錯誤可能導致錯誤的治療或遺漏健康問題。專家們目前正呼籲對這些技術進行更完善的監督。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "In recent years, many doctors have felt overwhelmed by the amount of paperwork they must complete. To save time, many have started using AI medical scribes. These are computer programs designed to listen to conversations between a doctor and a patient. The AI then automatically summarizes the visit, including diagnoses and care plans, into a digital health record. While these tools are meant to help doctors focus more on their patients, a recent report suggests they may be creating new, dangerous problems.",
+      "zh": "近年來，許多醫師對於必須完成的文書工作量感到不堪負荷。為了節省時間，許多人開始使用人工智慧醫療紀錄助理。這些電腦程式旨在聆聽醫師與病患之間的對話，隨後自動將看診內容（包含診斷與照護計畫）總結成數位健康紀錄。雖然這些工具的初衷是幫助醫師更專注於病患身上，但一份最新的報告指出，它們可能正在製造新的危險問題。"
+    },
+    {
+      "id": "p2",
+      "en": "A new audit by the auditor general of Ontario has raised serious concerns about the accuracy of these systems. The auditor general is an official who checks government spending and programs to ensure they are working correctly. The report looked at 20 different AI scribe programs that the provincial government had already approved for use by healthcare providers. The goal was to see if these tools could accurately record simple conversations between doctors and patients.",
+      "zh": "加拿大安大略省的審計長近期進行的一項審查，對這些系統的準確性提出了嚴重關切。審計長是負責檢查政府支出與計畫，以確保其運作正確的官員。該報告檢視了省政府已核准供醫療服務提供者使用的二十種不同人工智慧紀錄程式，目標是觀察這些工具是否能準確記錄醫師與病患之間的簡單對話。"
+    },
+    {
+      "id": "p3",
+      "en": "The results of the audit were concerning. According to Ars Technica, every single one of the 20 AI programs tested had problems with accuracy or completeness. The report found that these programs often made mistakes that could lead to poor medical care. In some cases, the AI programs produced what experts call \"hallucinations.\" In the world of technology, a hallucination is when an AI confidently states something as a fact that is completely false or was never actually said during the conversation.",
+      "zh": "審計結果令人擔憂。根據科技新聞網站 Ars Technica 的報導，受測的二十種人工智慧程式中，每一種都存在準確性或完整性的問題。報告發現，這些程式經常犯下可能導致醫療品質低落的錯誤。在某些案例中，這些人工智慧程式產生了專家所謂的「幻覺」。在科技領域中，幻覺是指人工智慧自信地陳述某項完全錯誤、或在對話中從未提及的事實。"
+    },
+    {
+      "id": "p4",
+      "en": "The audit highlighted several specific ways these errors could hurt patients. For example, some AI programs invented referrals for blood tests or therapy sessions that the doctor never actually ordered. Others wrote down the wrong names for prescription medications, which could be very dangerous if a pharmacist fills the wrong prescription based on those notes. Perhaps most concerning was that 17 of the 20 programs failed to record key details about mental health issues that were discussed during the test sessions.",
+      "zh": "該審計強調了這些錯誤可能傷害病患的幾種具體方式。例如，有些人工智慧程式虛構了醫師從未開立的血液檢查或治療療程轉診單。其他程式則寫錯了處方藥物的名稱，如果藥師根據這些紀錄調配錯誤的藥物，後果將非常危險。最令人擔憂的或許是，二十種程式中有十七種未能記錄測試過程中討論到的心理健康問題關鍵細節。"
+    },
+    {
+      "id": "p5",
+      "en": "These findings suggest that relying too much on AI could lead to inadequate or harmful treatment plans. When a doctor reads a summary that contains incorrect information, they might make decisions that do not match the patient's actual needs. If a doctor does not notice that the AI has missed a detail about a mental health concern, the patient might not get the help they need. The report warns that these inaccuracies could negatively impact patient health outcomes, which is the final result of a medical treatment or service.",
+      "zh": "這些發現顯示，過度依賴人工智慧可能會導致治療計畫不當或有害。當醫師閱讀包含錯誤資訊的摘要時，可能會做出不符合病患實際需求的決定。如果醫師未察覺人工智慧遺漏了關於心理健康問題的細節，病患可能無法獲得所需的協助。報告警告，這些不準確之處可能會對病患的健康結果（即醫療或服務的最終成效）產生負面影響。"
+    },
+    {
+      "id": "p6",
+      "en": "This situation has sparked a debate about how much we should trust technology in sensitive areas like healthcare. While AI can certainly help reduce the heavy workload of doctors, the audit shows that these tools are not perfect. The fact that all 20 tested programs failed to be completely accurate is a sign that the technology is not yet ready to work without human supervision. Doctors must still carefully check every note that an AI creates to ensure it matches what was actually said in the room.",
+      "zh": "這種情況引發了一場關於在醫療保健等敏感領域中，我們應該多信任科技的辯論。雖然人工智慧確實能協助減輕醫師沉重的工作負擔，但審計結果顯示這些工具並不完美。所有二十種受測程式都未能完全準確，這是一個警訊，顯示該技術尚未成熟到可以脫離人類監督的地步。醫師仍必須仔細檢查人工智慧產生的每一份紀錄，以確保其內容與診間實際對話相符。"
+    },
+    {
+      "id": "p7",
+      "en": "Looking ahead, the report suggests that the government needs to be much more careful about which tools it approves for use in hospitals and clinics. The auditor general’s findings serve as a reminder that while innovation is important, patient safety must always come first. As AI continues to change the way medicine is practiced, healthcare providers will need to balance the benefits of speed and efficiency against the risks of errors. For now, the best approach seems to be using AI as a helper rather than a replacement for human attention to detail.",
+      "zh": "展望未來，報告建議政府在核准醫院與診所使用的工具時，必須更加謹慎。審計長的發現提醒我們，儘管創新很重要，但病患安全必須永遠擺在第一位。隨著人工智慧持續改變醫療實務，醫療服務提供者將需要權衡速度與效率帶來的益處，以及錯誤所引發的風險。目前看來，最好的做法似乎是將人工智慧視為輔助工具，而非取代人類對細節的關注。"
+    }
+  ],
+  "wordCount": 632,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "scribe",
+      "definitionEn": "A person or program that writes down what is being said.",
+      "definitionZh": "書記員；記錄者（此處指負責記錄對話的AI程式）。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見於歷史語境指「抄寫員」，此處指AI軟體。文中：To save time, many have started using AI medical scribes."
+    },
+    {
+      "term": "hallucinations",
+      "definitionEn": "In AI, when a system confidently generates false information as if it were true.",
+      "definitionZh": "（AI術語）幻覺；指AI一本正經地胡說八道，產生錯誤資訊。",
+      "partOfSpeech": "noun",
+      "noteZh": "原意指醫學上的「幻覺」，此處為科技術語。文中：In some cases, the AI programs produced what experts call \"hallucinations.\""
+    },
+    {
+      "term": "sparked",
+      "definitionEn": "To cause the start of something, especially an argument or debate.",
+      "definitionZh": "引發；觸發（爭論或事件）。",
+      "partOfSpeech": "verb",
+      "noteZh": "原意指「產生火花」，此處引申為引發爭議。文中：This situation has sparked a debate about how much we should trust technology in sensitive areas like healthcare."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/",
+      "title": "Your doctor’s AI notetaker may be making things up, Ontario audit finds",
+      "publishedAt": "2026-05-14T17:28:43Z"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the audit report, what was a specific failure shared by 17 of the 20 AI programs tested?",
+      "options": {
+        "A": "They incorrectly identified the patient's primary diagnosis.",
+        "B": "They failed to document important information regarding mental health.",
+        "C": "They generated false referrals for unnecessary blood tests.",
+        "D": "They confused the names of common prescription medications."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第四段最後一句，文中明確指出「17 of the 20 programs failed to record key details about mental health issues」。選項 A 並未在文中被列為這 17 個程式的共同錯誤；選項 C 與 D 雖然是文中提到的錯誤類型，但並未指明是 17 個程式共同發生的問題，因此 B 是最精確的細節回憶。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the role of doctors in the future use of AI medical scribes?",
+      "options": {
+        "A": "Doctors will eventually be able to stop reviewing patient notes entirely.",
+        "B": "Doctors should prioritize speed over accuracy to manage their heavy workload.",
+        "C": "Doctors are expected to act as a final check to prevent AI-generated errors.",
+        "D": "Doctors will need to undergo specialized training to fix AI software bugs."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第六段提到，由於測試的 20 個程式皆有瑕疵，顯示技術尚未成熟，因此「Doctors must still carefully check every note that an AI creates」。選項 A 與文章結論矛盾；選項 B 違反了文中強調病人安全第一的原則；選項 D 文中並未提到醫生需要修復軟體，僅提到需要監督內容。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the context of the article, what does the term 'hallucinations' refer to?",
+      "options": {
+        "A": "A state of confusion experienced by doctors due to heavy workloads.",
+        "B": "The tendency of AI to focus on irrelevant parts of a conversation.",
+        "C": "The generation of convincing but completely false information by AI.",
+        "D": "A technical glitch that causes the AI software to shut down suddenly."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第三段明確定義了科技領域中的「hallucinations」為「when an AI confidently states something as a fact that is completely false or was never actually said」。選項 A 將其誤解為人類的心理狀態；選項 B 描述的是注意力不足而非虛構資訊；選項 D 描述的是系統崩潰，與文中定義的「自信地說出錯誤事實」不符。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article regarding AI in healthcare?",
+      "options": {
+        "A": "AI medical scribes are a complete failure and should be banned from hospitals.",
+        "B": "The government is solely responsible for all medical errors caused by AI.",
+        "C": "AI tools significantly improve the speed of diagnosis despite minor errors.",
+        "D": "While AI offers efficiency, its current lack of accuracy requires human oversight."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。文章整體旨在探討 AI 醫療紀錄工具的利弊，結論強調「innovation is important, patient safety must always come first」且「technology is not yet ready to work without human supervision」。選項 A 過於極端，文中並未主張禁用；選項 B 將責任全推給政府，忽略了醫師的監督責任；選項 C 強調速度卻忽略了文中對錯誤嚴重性的警告。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite-preview",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
