@@ -1,0 +1,140 @@
+{
+  "id": "2026-05-15-data-center-boom-and-community-opposition",
+  "slug": "data-center-boom-and-community-opposition-may-2026",
+  "publishedAt": "2026-05-15T22:13:35.421426Z",
+  "category": "energy",
+  "title": "Data Centers Face Growing Backlash from Local Communities",
+  "subtitle": "As the demand for artificial intelligence grows, citizens are pushing back against the construction of massive data facilities in their neighborhoods.",
+  "summary": {
+    "en": "Data centers are essential for modern technology like artificial intelligence, but their construction is causing significant community tension. Residents in places like Western Australia and Pennsylvania are worried about noise, environmental impacts, and rising energy costs. In Perth, a major project was recently cancelled after intense public opposition regarding its location. Meanwhile, Pennsylvanians are organizing to demand more transparency from their government officials. These conflicts highlight the growing challenge of balancing digital infrastructure needs with the concerns of local people.",
+    "zh": "資料中心對於人工智慧等現代科技至關重要，但其興建正引發嚴重的社區緊張。西澳與賓夕法尼亞州等地的居民，對噪音、環境影響及能源成本上漲感到擔憂。在伯斯，一項大型計畫因公眾對選址的強烈反對而遭到取消。同時，賓州居民正組織起來，要求政府官員提高透明度。這些衝突凸顯了在數位基礎設施需求與在地居民關切之間取得平衡，已成為日益嚴峻的挑戰。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The rise of artificial intelligence and cloud computing has created a massive need for data centers. These large buildings house the powerful computers that keep our digital world running. However, as more of these facilities are proposed, local communities across the world are starting to push back. From Western Australia to the United States, residents are increasingly worried about how these projects affect their environment, their quiet, and their daily lives.",
+      "zh": "人工智慧與雲端運算的興起，創造了對資料中心的大量需求。這些大型建築容納了維持數位世界運作的強大電腦。然而，隨著這類設施的提案越來越多，全球各地的在地社區開始出現反彈。從西澳到美國，居民日益擔憂這些計畫會如何影響他們的環境、安寧與日常生活。"
+    },
+    {
+      "id": "p2",
+      "en": "In the town of Hazelmere, near Perth, a major project known as the GreenSquare datacentre was recently cancelled. The developer had planned to build a 120-megawatt facility to support new technology. However, the project faced strong opposition from the local community. According to The Guardian Business, the City of Swan council reviewed the proposal and recommended that it be rejected. One of the main concerns was noise. The council found that the large diesel generators—machines used to create electricity during a power failure—would be too loud for a nearby school and local homes.",
+      "zh": "在靠近伯斯 (Perth) 的黑澤米爾 (Hazelmere) 鎮，一項名為「綠色廣場」(GreenSquare) 資料中心的大型計畫近期遭到取消。開發商原計畫興建一座 120 百萬瓦的設施以支援新技術，但該計畫面臨在地社區的強烈反對。根據《衛報商業版》(The Guardian Business) 報導，天鵝市 (City of Swan) 議會審查該提案後，建議予以否決。主要疑慮之一是噪音問題。議會發現，這些在電力中斷時用於發電的大型柴油發電機，對鄰近的學校與住家來說噪音過大。"
+    },
+    {
+      "id": "p3",
+      "en": "GreenSquare argued that these generators were only for emergencies and would rarely be used. However, the company eventually decided to withdraw its plans. Charles Penny, the chief executive of GreenSquare, said the decision was difficult. He noted that the company still believes the site was appropriate for industrial use. He also expressed concern that this result creates uncertainty for future digital projects in the region. Despite this, community leaders felt a sense of relief. Francesca Flynn, an executive at the Bibbul Ngarma Aboriginal Association, told The Guardian Business that the site was in a sensitive area near a river and important cultural heritage locations. She said the community outcome sends a clear message that data centers should be built in proper industrial zones, not near schools or nature areas.",
+      "zh": "綠色廣場公司主張這些發電機僅供緊急使用，極少會運作。然而，該公司最終決定撤回計畫。綠色廣場執行長查爾斯·潘尼 (Charles Penny) 表示，這是一個艱難的決定。他指出，公司仍認為該地點適合工業用途，並對此結果可能為該地區未來的數位計畫帶來不確定性表示擔憂。儘管如此，社區領袖仍感到如釋重負。比布爾·恩加瑪原住民協會 (Bibbul Ngarma Aboriginal Association) 的主管法蘭西絲卡·弗林 (Francesca Flynn) 向《衛報商業版》表示，該地點位於靠近河流與重要文化遺產區域的敏感地帶。她認為，此次社區的成果傳達了一個明確的訊息：資料中心應興建在合適的工業區，而非學校或自然區域附近。"
+    },
+    {
+      "id": "p4",
+      "en": "Similar frustrations are growing in the United States. In Pennsylvania, hundreds of people recently attended an online town hall meeting to express their anger over the rapid growth of the data center industry. According to Ars Technica, residents are worried about several issues, including higher electricity prices, heavy water consumption, and noise pollution. Many people feel that their voices are not being heard by government leaders. Jennifer Dusart, a resident of Mechanicsburg, told the meeting that citizens often feel ignored or dismissed when they raise concerns about these projects.",
+      "zh": "類似的挫折感也在美國不斷升溫。在賓夕法尼亞州，數百人近期參加了一場線上市政廳會議，表達對資料中心產業快速擴張的憤怒。根據科技媒體《Ars Technica》報導，居民擔憂的問題包括電價上漲、大量用水以及噪音污染。許多人認為政府官員並未傾聽他們的聲音。機械堡 (Mechanicsburg) 的居民珍妮佛·杜薩特 (Jennifer Dusart) 在會議中表示，當市民對這些計畫提出疑慮時，往往感到被忽視或打發。"
+    },
+    {
+      "id": "p5",
+      "en": "Data from the Data Center Proposal Tracker shows that nearly 60 data centers have been proposed or are currently under construction in Pennsylvania. This rapid expansion has become a political issue. Some voters are now turning against politicians who support the industry. According to Ars Technica, a survey by Quinnipiac University found that 68 percent of registered voters in Pennsylvania would oppose having an AI data center built in their own community. While some people see these centers as important for progress, the local opposition is becoming a powerful force that companies and governments can no longer ignore.",
+      "zh": "根據「資料中心提案追蹤器」(Data Center Proposal Tracker) 的數據顯示，賓夕法尼亞州目前已有近 60 座資料中心處於提案或興建階段。這種快速擴張已成為政治議題，部分選民開始轉而反對支持該產業的政治人物。根據《Ars Technica》報導，昆尼皮亞克大學 (Quinnipiac University) 的一項民調發現，賓州 68% 的登記選民反對在自己的社區興建人工智慧資料中心。雖然有些人認為這些中心對進步至關重要，但地方上的反對聲浪已成為企業與政府無法再忽視的一股強大力量。"
+    },
+    {
+      "id": "p6",
+      "en": "These two cases show a clear pattern. As the digital economy grows, the physical impact of that growth is being felt in neighborhoods everywhere. The challenge for developers is to find locations that do not disturb local residents or harm the environment. For now, the conflict between the need for digital infrastructure and the desire for quiet, safe communities remains a major issue. As Tania Lawrence, a federal MP in Australia, noted after the Hazelmere decision, it is important for communities to feel that their voices have been heard during the planning process. Without better communication and more careful site selection, it is likely that we will see more of these risky standoffs between developers and the public in the future.",
+      "zh": "這兩個案例顯示出一種明確的模式。隨著數位經濟成長，這種成長帶來的實體影響正被各地社區所感受。開發商面臨的挑戰在於尋找不會干擾在地居民或破壞環境的地點。目前，數位基礎設施需求與追求安靜、安全社區的願望之間的衝突，仍是一個重大議題。正如澳洲聯邦議員塔妮雅·勞倫斯 (Tania Lawrence) 在黑澤米爾案裁決後所言，讓社區在規劃過程中感受到他們的聲音已被聽見，這一點至關重要。若缺乏更好的溝通與更謹慎的選址，未來恐怕會看到更多這類開發商與大眾之間充滿風險的對峙。"
+    }
+  ],
+  "wordCount": 685,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "push back",
+      "definitionEn": "To show opposition or resistance to a plan or idea.",
+      "definitionZh": "反對、抵制、抗拒。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見作名詞（推回），這裡作動詞片語，指對計畫表達反對意見。文中：However, as more of these facilities are proposed, local communities across the world are starting to push back."
+    },
+    {
+      "term": "turning against",
+      "definitionEn": "To stop supporting someone or something and start opposing them.",
+      "definitionZh": "轉而反對、不再支持。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這裡的 turn 加上 against 表示立場的轉變，從支持變為反對。文中：Some voters are now turning against politicians who support the industry."
+    },
+    {
+      "term": "standoffs",
+      "definitionEn": "Situations in which agreement cannot be reached and progress is stopped.",
+      "definitionZh": "僵局、對峙。",
+      "partOfSpeech": "noun",
+      "noteZh": "指雙方意見不合導致無法進展的局面。文中：Without better communication and more careful site selection, it is likely that we will see more of these risky standoffs between developers and the public in the future."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Business",
+      "url": "https://www.theguardian.com/technology/2026/may/15/developer-withdraws-plans-for-perth-datacentre-after-fierce-community-opposition",
+      "title": "Developer withdraws plans for Perth datacentre after fierce community opposition",
+      "publishedAt": "2026-05-15T08:57:11Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/05/pennsylvanians-use-town-hall-meeting-to-rail-against-data-center-boom/",
+      "title": "Pennsylvanians use town hall meeting to rail against data center boom",
+      "publishedAt": "2026-05-15T13:51:04Z"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What was the primary reason the City of Swan council recommended rejecting the GreenSquare datacentre proposal?",
+      "options": {
+        "A": "The project was located on land protected for Aboriginal heritage.",
+        "B": "The noise from the facility's emergency generators would disrupt nearby homes and a school.",
+        "C": "The local community feared that the facility would lead to an increase in electricity prices.",
+        "D": "The developer failed to provide enough power to support the 120-megawatt facility."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，City of Swan 市議會審查建議拒絕該提案的主要原因之一是噪音問題，特別是柴油發電機對附近的學校和住宅區會產生過大聲響。選項 A 雖然在第三段由 Francesca Flynn 提到，但並非市議會拒絕提案的官方理由。選項 C 是美國賓州居民的擔憂，而非 Hazelmere 的主要理由。選項 D 與事實不符，120-megawatt 是該設施的規劃容量，並非失敗原因。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, what can be inferred about the future of data center construction?",
+      "options": {
+        "A": "Companies will likely stop building data centers to avoid further political backlash.",
+        "B": "Governments will soon ban all data center projects near residential areas.",
+        "C": "Developers will face increasing pressure to involve local communities in the planning process.",
+        "D": "The digital economy will slow down significantly due to the lack of available land for data centers."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章最後一段提到，Tania Lawrence 指出讓社區在規劃過程中感到聲音被聽見非常重要，且若沒有更好的溝通與謹慎的選址，未來將發生更多衝突。這暗示開發商若想順利推動計畫，必須改變與社區的互動方式。選項 A 不正確，因為文章僅提到衝突，未指出開發商會停止建設。選項 B 過於武斷，文中並未提及政府有禁令。選項 D 屬於過度推論，文章並未預測經濟會因此放緩。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the word 'standoffs' mean in the context of the relationship between developers and the public?",
+      "options": {
+        "A": "Situations where two sides disagree and neither is willing to give in.",
+        "B": "Events where people gather to protest against a specific company.",
+        "C": "The physical construction of buildings that block the view of residents.",
+        "D": "Agreements reached between local councils and private corporations."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在此上下文中，'standoffs' 指的是僵局或對峙，即開發商想蓋資料中心，而居民強力反對，雙方互不相讓。選項 B 雖然描述了抗議，但 standoffs 強調的是雙方的對立狀態而非單純的集會。選項 C 將此字誤解為建築物本身的物理阻擋。選項 D 與原文意涵完全相反，原文強調的是衝突而非達成協議。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article?",
+      "options": {
+        "A": "The rapid growth of the digital economy is causing a worldwide shortage of electricity.",
+        "B": "Data centers are essential for modern life, but their physical impact is leading to growing conflict with local communities.",
+        "C": "The United States and Australia are the only countries struggling to manage the environmental impact of AI technology.",
+        "D": "Local councils are the most powerful entities in deciding the future of the global technology industry."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。本文開篇即指出資料中心需求大增，接著透過澳洲與美國的案例，說明這些設施對環境、噪音與居民生活的影響，導致社區反彈，最後總結這是一個數位需求與社區生活品質之間的衝突。選項 A 不是文章重點。選項 C 錯誤，因為文章提到這是一個全球性現象，不僅限於美澳。選項 D 誇大了市議會的角色，文章重點在於社區壓力與開發商的挑戰。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite-preview",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
