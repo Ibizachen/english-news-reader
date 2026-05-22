@@ -1,0 +1,147 @@
+{
+  "id": "2026-05-22-ai-integration-and-ethics-in-healthcare",
+  "slug": "ai-integration-and-ethics-in-healthcare-may-2026",
+  "publishedAt": "2026-05-22T22:14:10.826939Z",
+  "category": "health",
+  "title": "The Double-Edged Sword: AI in Medicine and Writing",
+  "subtitle": "From finding new life-saving drugs to the risks of fake information, AI is changing how we work and heal.",
+  "summary": {
+    "en": "Artificial intelligence is being used by scientists to find new treatments for brain diseases much faster than before. By analyzing patient data and testing existing drugs on brain cells, researchers hope to save years of work. However, the use of AI also brings serious risks, as seen in recent cases of authors using it to create false information. Experts warn that while AI can be a powerful tool, it requires careful human oversight. Balancing these benefits and dangers remains a major challenge for the future.",
+    "zh": "科學家正利用人工智慧來尋找腦部疾病的新療法，速度比以往快得多。透過分析病患數據並在腦細胞上測試現有藥物，研究人員希望能節省數年的研究時間。然而，人工智慧的使用也帶來了嚴重的風險，近期有作家利用它捏造虛假資訊的案例即為明證。專家警告，雖然人工智慧是強大的工具，但仍需要人類謹慎監督。如何在這些益處與危險之間取得平衡，仍是未來的一大挑戰。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Artificial intelligence (AI) is changing the world in ways that were hard to imagine just a few years ago. In the field of medicine, researchers are using these powerful computer programs to speed up the search for treatments for serious brain conditions. At the UK Dementia Research Institute, scientists are analyzing patient data, such as voice recordings and eye scans, to understand diseases like motor neurone disease (MND). MND is a condition that causes the body to slowly lose its strength and movement. According to the BBC, researchers hope that by using AI to find patterns in this data, they can identify effective treatments in years rather than decades.",
+      "zh": "人工智慧（AI）正以幾年前難以想像的方式改變世界。在醫學領域，研究人員正利用這些強大的電腦程式來加速尋找嚴重腦部疾病的治療方法。在英國失智症研究所（UK Dementia Research Institute），科學家們正在分析病患的數據，例如語音紀錄和眼部掃描，以了解運動神經元疾病（MND）等病症。運動神經元疾病是一種會導致身體逐漸失去力量與活動能力的疾病。根據英國廣播公司（BBC）報導，研究人員希望透過利用人工智慧找出這些數據中的模式，能在幾年而非幾十年內找到有效的治療方法。"
+    },
+    {
+      "id": "p2",
+      "en": "For patients like Steven Barrett, who was diagnosed with MND ten years ago, this research offers a sense of hope. He describes the disease as something that takes away a person’s future. However, he sees the new research trials as a \"bright light.\" In these trials, scientists use robots and computers to test hundreds of existing drugs on lab-grown brain cells. Because these drugs have already been approved for other uses, they can be tested much faster than starting from the beginning. Prof Siddarthan Chandran from the Institute told the BBC that the brain is the most complicated organ in the body, and AI allows scientists to do things that were once considered impossible.",
+      "zh": "對於像十年前被診斷出患有運動神經元疾病的史蒂芬·巴瑞特（Steven Barrett）這樣的病患來說，這項研究帶來了一線希望。他形容這種疾病會奪走一個人的未來，但他將這些新的研究試驗視為「一道曙光」。在這些試驗中，科學家利用機器人和電腦在實驗室培養的腦細胞上測試數百種現有的藥物。由於這些藥物已經通過其他用途的核准，因此測試速度比從頭開始研發要快得多。該研究所的席達坦·錢德蘭（Siddarthan Chandran）教授向BBC表示，大腦是人體中最複雜的器官，而人工智慧讓科學家能夠做到過去被認為不可能的事。"
+    },
+    {
+      "id": "p3",
+      "en": "While AI shows great promise in healthcare, it also brings significant risks when used in other areas, such as writing and research. Recently, a journalist and author named Steven Rosenbaum faced a difficult situation after using AI to help write his new book about truth and technology. According to Ars Technica, an investigation found that the book contained \"synthetic quotes\"—fake statements created by AI that were never actually said by the people mentioned. One person, tech reporter Kara Swisher, confirmed to the New York Times that she never said the words attributed to her in the book. Another professor, Lisa Feldman Barrett, noted that the quotes were not only missing from her own work but were also factually incorrect.",
+      "zh": "雖然人工智慧在醫療保健領域展現出巨大的前景，但當它被用於寫作和研究等其他領域時，也帶來了顯著的風險。最近，一位名叫史蒂芬·羅森鮑姆（Steven Rosenbaum）的記者兼作家，在使用人工智慧協助撰寫關於真相與科技的新書後，面臨了棘手的處境。根據科技新聞網站Ars Technica報導，一項調查發現該書包含了「合成引述」——即由人工智慧捏造、但書中提及的人士實際上從未說過的虛假陳述。其中一人，科技記者卡拉·史威瑟（Kara Swisher）向《紐約時報》證實，她從未說過書中歸咎於她的那些話。另一位教授麗莎·費爾德曼·巴瑞特（Lisa Feldman Barrett）則指出，這些引述不僅在她的著作中找不到，而且在事實上也是錯誤的。"
+    },
+    {
+      "id": "p4",
+      "en": "This incident highlights a major problem with modern AI tools: they can sometimes create information that sounds real but is completely false. Rosenbaum admitted that he learned a hard lesson from this experience. He is now working with editors to fix the mistakes in his book and says he will be much more careful about trusting AI outputs in the future. Despite the controversy, Rosenbaum told Ars Technica that he still finds AI to be a \"magical\" tool. He explained that AI helps him connect ideas and find new ways of thinking that he might not have discovered on his own. He is not willing to stop using these tools, even after the problems they caused.",
+      "zh": "這起事件凸顯了現代人工智慧工具的一個主要問題：它們有時會創造出聽起來真實但完全虛假的資訊。羅森鮑姆承認他從這次經歷中學到了慘痛的教訓。他目前正與編輯合作修正書中的錯誤，並表示未來在信任人工智慧產出的內容時會更加謹慎。儘管存在爭議，羅森鮑姆告訴Ars Technica，他仍然認為人工智慧是一個「神奇」的工具。他解釋說，人工智慧幫助他連結各種觀點，並找到他自己可能無法發現的新思考方式。即使這些工具造成了問題，他仍不願停止使用它們。"
+    },
+    {
+      "id": "p5",
+      "en": "These two stories show the two sides of AI. In medicine, it is a tool that could potentially save lives by finding treatments for diseases that have no current cure. In the hands of a writer, it can be a helpful assistant that also carries the danger of spreading misinformation. The central question is whether humans can control this powerful technology. As Ars Technica noted, many people who use AI believe they can manage its power, but the reality is often more complicated.",
+      "zh": "這兩個故事展現了人工智慧的兩面性。在醫學領域，它是一個潛在的救命工具，能為目前無藥可醫的疾病找到治療方法。但在作家手中，它可能成為一個有用的助手，卻也同時帶有散布錯誤資訊的危險。核心問題在於人類是否能駕馭這項強大的技術。正如Ars Technica所指出的，許多使用人工智慧的人認為自己能掌控其力量，但現實往往要複雜得多。"
+    },
+    {
+      "id": "p6",
+      "en": "Ultimately, the success of AI depends on how we use it. In the medical field, researchers are using it to solve complex biological puzzles, while in the world of information, users must remain skeptical of what the technology produces. As these tools continue to develop, it is clear that human oversight remains essential. Whether it is a doctor checking a drug recommendation or an author verifying a quote, the human element is what ensures that AI is used for good. As we move forward, society must learn to enjoy the benefits of AI while staying alert to the mistakes it can make.",
+      "zh": "歸根究柢，人工智慧的成功取決於我們如何使用它。在醫學領域，研究人員利用它來解決複雜的生物學難題；而在資訊世界中，使用者必須對該技術產出的內容保持懷疑。隨著這些工具持續發展，顯而易見的是，人類的監督仍然不可或缺。無論是醫生檢查藥物建議，還是作者核實引述內容，人類的參與才是確保人工智慧被用於正途的關鍵。在我們邁向未來的同時，社會必須學會在享受人工智慧帶來的好處之餘，同時對它可能犯下的錯誤保持警覺。"
+    }
+  ],
+  "wordCount": 724,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "speed up",
+      "definitionEn": "To make a process happen or develop more quickly.",
+      "definitionZh": "加速；使某事發生得更快。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見動詞 speed 後接 up，這裡指加快研究進度。文中：researchers are using these powerful computer programs to speed up the search for treatments for serious brain conditions."
+    },
+    {
+      "term": "take away",
+      "definitionEn": "To remove something or cause it to no longer be available.",
+      "definitionZh": "奪走；拿走。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這裡指疾病剝奪了病人的未來，而非字面上的「外帶」。文中：He describes the disease as something that takes away a person’s future."
+    },
+    {
+      "term": "hard",
+      "definitionEn": "Difficult or requiring a lot of effort.",
+      "definitionZh": "困難的；艱難的。",
+      "partOfSpeech": "adjective",
+      "noteZh": "容易誤以為是「硬的」，但在這裡形容學習到的教訓很深刻且痛苦。文中：Rosenbaum admitted that he learned a hard lesson from this experience."
+    },
+    {
+      "term": "oversight",
+      "definitionEn": "The process of watching and directing an activity to ensure it is done correctly.",
+      "definitionZh": "監督；監管。",
+      "partOfSpeech": "noun",
+      "noteZh": "容易與「疏忽」（overlook 的名詞）混淆，這裡指管理與監督。文中：As these tools continue to develop, it is clear that human oversight remains essential."
+    }
+  ],
+  "sources": [
+    {
+      "name": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss",
+      "title": "From decades to years - AI could speed search for brain drugs hiding in plain sight",
+      "publishedAt": "2026-05-22T21:30:06Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/",
+      "title": "AI put \"synthetic quotes\" in his book. But this author wants to keep using it.",
+      "publishedAt": "2026-05-22T14:05:56Z"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, why is the process of testing drugs for MND faster than traditional methods?",
+      "options": {
+        "A": "Scientists are using robots to create new brain cells from scratch.",
+        "B": "The drugs being tested have already received approval for other medical purposes.",
+        "C": "AI can analyze patient voice recordings and eye scans in a matter of days.",
+        "D": "The UK Dementia Research Institute has developed a way to skip clinical trials entirely."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第二段明確指出，因為這些藥物已經被核准用於其他用途，所以可以比從頭研發快得多地進行測試。選項 A 錯誤，因為文章提到的是使用「實驗室培養的腦細胞」，而非從頭創造。選項 C 雖提到了分析數據，但這與藥物測試的速度無直接因果關係。選項 D 錯誤，文中並未提到可以跳過臨床試驗。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about Steven Rosenbaum's attitude toward AI after the controversy regarding his book?",
+      "options": {
+        "A": "He believes AI is too dangerous to be used by professional writers.",
+        "B": "He has decided to stop using AI tools completely to avoid future errors.",
+        "C": "He acknowledges the risks of AI but still values its ability to stimulate new ideas.",
+        "D": "He thinks that AI is only useful for medical research and not for creative writing."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第四段，儘管發生了引用造假的爭議，Rosenbaum 仍稱 AI 為「神奇的工具」，並表示他不會停止使用，因為 AI 能幫助他連結創意。選項 A 與 B 與文中他「不願停止使用」的立場矛盾。選項 D 錯誤，文中並未暗示 AI 不適合寫作，而是強調使用時需要更加謹慎。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fourth paragraph, what does the word 'synthetic' mean in the phrase 'synthetic quotes'?",
+      "options": {
+        "A": "Artificial and not genuine.",
+        "B": "Complex and difficult to understand.",
+        "C": "Highly accurate and well-researched.",
+        "D": "Brief and summarized for clarity."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在文中，「synthetic quotes」指的是 AI 偽造、並非當事人實際說過的話。因此，synthetic 在此處意指「人工合成的、非真實的」。選項 B 與原文語境無關；選項 C 與原文提到的「造假」與「事實錯誤」完全相反；選項 D 則偏離了 synthetic 本身的定義。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article regarding the role of AI in society?",
+      "options": {
+        "A": "AI is a perfect tool that will eventually solve all human problems in medicine and literature.",
+        "B": "The risks of AI outweigh its benefits, so its use should be strictly limited to scientific labs.",
+        "C": "AI is a powerful technology that requires human oversight to ensure it is used safely and effectively.",
+        "D": "AI is primarily a threat to writers and journalists, while it has no significant impact on healthcare."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章最後一段總結道，AI 的成功取決於我們如何使用它，且人類的監督（human oversight）至關重要。選項 A 過於樂觀，忽略了文中提到的風險。選項 B 過於極端，文章並未主張禁止使用。選項 D 錯誤，因為文章同時探討了 AI 在醫療與資訊領域的雙重影響，並非只針對寫作。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite-preview",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
