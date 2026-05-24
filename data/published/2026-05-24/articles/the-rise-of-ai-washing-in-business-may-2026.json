@@ -1,79 +1,76 @@
 {
   "id": "2026-05-24-the-rise-of-ai-washing-in-business",
   "slug": "the-rise-of-ai-washing-in-business-may-2026",
-  "publishedAt": "2026-05-24T22:13:58.586285Z",
+  "publishedAt": "2026-05-24T23:13:43.462484Z",
   "category": "technology",
-  "title": "The Rise of 'AI Washing': Why Companies Are Obsessed with the AI Label",
-  "subtitle": "As artificial intelligence becomes a global buzzword, businesses are rushing to rebrand their standard tools as revolutionary technology.",
+  "title": "The Rise of 'AI Washing': Why Companies Are Pretending to Use Artificial Intelligence",
+  "subtitle": "Businesses are rushing to rebrand as AI experts, but experts warn that much of the hype is just simple automation.",
   "summary": {
-    "en": "Companies across many industries are increasingly using the term 'AI' to describe products that do not actually use advanced artificial intelligence. This practice, known as 'AI washing,' is driven by a desire to stay relevant and attract attention in a crowded market. While some experts see AI as a useful tool for creativity and efficiency, others worry that it is being used to hide simple automation. The trend has created a divide between those who embrace the technology and those who fear it is replacing human thought. Ultimately, the constant use of the term has left many people feeling tired of the hype.",
-    "zh": "各行各業的企業正日益頻繁地使用「人工智慧」一詞來描述那些實際上並未使用先進人工智慧的產品。這種被稱為「人工智慧漂綠」的做法，源於企業在擁擠的市場中為了保持競爭力並吸引關注的渴望。儘管一些專家將人工智慧視為創意與效率的實用工具，但其他人則擔心它被用來掩蓋簡單的自動化技術。這種趨勢在擁抱技術者與擔心技術將取代人類思考者之間造成了分歧。最終，該詞彙的頻繁使用已讓許多人對這種炒作感到厭倦。"
+    "en": "Many companies are now calling their products 'AI-powered' to attract attention and investment. Public relations experts say this trend, known as 'AI washing,' often misleads the public about what technology actually does. While some businesses use real artificial intelligence, others are simply rebranding old automation tools. Critics argue that this constant hype makes people tired of hearing about the technology. Meanwhile, some writers and coders worry that relying too much on AI tools stops people from doing the hard work of thinking.",
+    "zh": "許多公司現在將其產品稱為「人工智慧驅動」以吸引注意力和投資。公關專家表示，這種被稱為「人工智慧漂綠」的趨勢，往往會誤導大眾對於科技實際功能的認知。雖然有些企業確實使用真正的人工智慧，但其他企業只是將舊有的自動化工具重新包裝。批評者認為，這種持續的炒作讓大眾對相關科技感到厭倦。同時，一些作家和程式設計師擔心，過度依賴人工智慧工具會使人們停止進行艱難的思考工作。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "In today’s business world, the term 'AI' is everywhere. From shoe companies to basketball hoop manufacturers, businesses are racing to label their products as 'AI-powered' or 'AI-driven.' However, public relations experts warn that many of these claims are exaggerated. This trend has been called 'AI washing'—a practice where companies try to make their old or simple products sound like cutting-edge artificial intelligence to gain attention.",
-      "zh": "在今日的商業世界中，「人工智慧」一詞無處不在。從鞋業公司到籃球框製造商，企業競相將其產品標榜為「人工智慧驅動」或「人工智慧導向」。然而，公關專家警告，許多這類宣稱都過於誇大。這種趨勢被稱為「人工智慧漂綠」，意指企業試圖將其老舊或簡單的產品包裝成尖端人工智慧，以博取大眾關注。"
+      "en": "In the modern business world, artificial intelligence (AI) has become the most popular buzzword. From shoe brands to basketball equipment companies, businesses everywhere are trying to prove they are part of the AI revolution. However, public relations professionals say that many of these companies are going too far. They are now using a term called “AI washing” to describe businesses that claim to be AI experts when they are actually just using basic, older technology.",
+      "zh": "在現代商業世界中，人工智慧（AI）已成為最熱門的流行語。從鞋類品牌到籃球設備公司，各行各業的企業都試圖證明自己參與了這場人工智慧革命。然而，公關專業人士指出，許多公司做得太過火了。他們現在使用「人工智慧漂綠」（AI washing）這個詞，來形容那些明明只是使用基礎舊技術，卻自稱是人工智慧專家的企業。"
     },
     {
       "id": "p2",
-      "en": "According to The Guardian, communications professionals are feeling frustrated by this pressure. Many bosses in industries that have nothing to do with advanced technology are demanding that their marketing materials include the term 'AI.' One publicist noted that companies are trying to attach the label to anything they do, even when the connection is very weak. In many cases, these products are simply using better automation—a process where machines perform tasks automatically—rather than the complex, thinking-like technology that people expect when they hear the word 'AI.'",
-      "zh": "根據《衛報》（The Guardian）報導，傳播專業人士對此壓力感到挫折。許多與先進技術毫無關聯的產業老闆，紛紛要求行銷素材必須包含「人工智慧」一詞。一位公關人員指出，企業試圖將此標籤貼在任何事物上，即便兩者關聯極其薄弱。在許多案例中，這些產品僅是運用了較佳的自動化技術——即機器自動執行任務的過程——而非大眾聽到「人工智慧」時所期待的那種複雜、具備思考能力的技術。"
+      "en": "According to The Guardian, communications experts are feeling tired of this trend. They often have to tell their bosses that simply adding the word “AI” to a product name will not impress journalists. One publicist based in London noted that reporters often roll their eyes when they hear the term because they see so many false claims. Companies are desperate to stay relevant, but their attempts to link their products to AI are often very weak. For example, one property company tried to market a simple handheld building scanner as an AI tool. While the device might use a small amount of software to speed up the work, it is really just a form of automation—a process where machines perform simple, repeated tasks—rather than true artificial intelligence.",
+      "zh": "根據《衛報》（The Guardian）報導，傳播專家對這種趨勢感到厭倦。他們經常必須告訴老闆，單純在產品名稱中加入「人工智慧」這幾個字，並不會讓記者留下深刻印象。一位駐倫敦的公關人員提到，記者們聽到這個詞時常會翻白眼，因為他們看過太多不實的宣稱。企業極力想維持市場相關性，但他們將產品與人工智慧連結的嘗試往往非常薄弱。例如，一家房地產公司曾試圖將一款簡單的手持式建築掃描器行銷為人工智慧工具。雖然該裝置可能使用少量的軟體來加速工作，但它實際上只是一種自動化形式——即機器執行簡單、重複性任務的過程——而非真正的人工智慧。"
     },
     {
       "id": "p3",
-      "en": "This trend is not limited to small businesses. Large corporations are also trying to align their image with the technology, even as they cut jobs or change their business models. The Guardian reported that communications workers often have to advise their clients against using the term too much. They fear that journalists and the public have become 'numb' to the word, meaning they no longer pay attention when they see it. As one account director explained, many of the press releases sent to reporters today are ignored because the claims of 'AI innovation' are simply not true.",
-      "zh": "這種趨勢並非僅限於小型企業。大型公司即便在裁員或調整商業模式的同時，也試圖將自身形象與該技術掛鉤。據《衛報》報導，傳播從業人員經常必須建議客戶不要過度使用該詞彙。他們擔心記者與大眾對此詞已感到「麻木」，意即當他們看到這個詞時，已不再給予關注。正如一位客戶總監所解釋，現今寄給記者的許多新聞稿都被忽略，因為那些關於「人工智慧創新」的宣稱根本名不符實。"
+      "en": "This “AI washing” is happening across many different industries. The Guardian reports that some genetics companies have hyped up blood tests as being powered by AI, while other brands have tried to label everything from basketball hoops to safety lasers with the same term. Imran Ariff, a media strategist, explained that brands can easily “drink their own Kool-Aid.” This means they become so proud of their work that they start to believe their own exaggerated marketing, even when it is not true. These companies often force their public relations teams to send out press releases about AI, even when the PR workers know that the claims are not honest.",
+      "zh": "這種「人工智慧漂綠」現象正發生在許多不同的產業中。據《衛報》報導，一些基因檢測公司大肆宣傳其血液檢測是由人工智慧驅動，而其他品牌則試圖將從籃球框到安全雷射等所有產品都貼上同樣的標籤。媒體策略師伊姆蘭·阿里夫（Imran Ariff）解釋說，品牌很容易「自我催眠」（drink their own Kool-Aid）。這意味著他們對自己的工作感到過度自豪，以至於開始相信自己誇大的行銷說詞，即便事實並非如此。這些公司經常強迫公關團隊發布關於人工智慧的新聞稿，即便公關人員心知肚明這些宣稱並不誠實。"
     },
     {
       "id": "p4",
-      "en": "At the same time, the film industry is experiencing its own debate over the role of AI. At the Cannes film festival, directors and tech leaders discussed whether AI is a creative revolution or a threat to artists. Some, like director Darren Aronofsky, argue that AI is just another tool in the 'cinematic toolbox.' He believes that technology can solve practical problems on a film set, such as digitally changing an object into a baby, which makes production easier. Others, like filmmaker Chuck Russell, agree that AI allows for a scale of creativity that was not possible before.",
-      "zh": "與此同時，電影產業也正經歷一場關於人工智慧角色的辯論。在坎城影展（Cannes Film Festival）上，導演與科技界領袖討論了人工智慧究竟是創意革命，還是對藝術家的威脅。有些人，如導演戴倫·艾洛諾夫斯基（Darren Aronofsky），主張人工智慧只是「電影工具箱」中的另一項工具。他認為技術能解決片場的實際問題，例如以數位方式將物體變為嬰兒，這讓製作過程變得更輕鬆。其他人，如電影製作人查克·羅素（Chuck Russell），則認同人工智慧實現了以往無法達到的創意規模。"
+      "en": "There are several reasons why companies are doing this. Many large businesses are currently cutting thousands of jobs while claiming they are moving toward AI. By branding themselves as tech-focused, they hope to look like modern, forward-thinking organizations. However, this strategy has risks. As one account director noted, the public is becoming “numb” to the constant use of words like “AI-driven” or “AI-powered.” When every product is called AI, the term loses its meaning. Journalists are now much less likely to cover these stories because they have seen so many examples of companies exaggerating their capabilities.",
+      "zh": "企業這麼做有幾個原因。許多大型企業目前正在裁減數千名員工，同時宣稱他們正轉向人工智慧。透過將自己定位為科技導向，他們希望看起來像是現代化、具前瞻性的組織。然而，這種策略存在風險。正如一位客戶總監所指出的，大眾對於「人工智慧驅動」或「人工智慧支援」這類詞彙的頻繁使用已經感到「麻木」。當每個產品都被稱為人工智慧時，這個詞就失去了意義。記者現在不太願意報導這些故事，因為他們已經看過太多公司誇大其詞的案例。"
     },
     {
       "id": "p5",
-      "en": "However, not everyone shares this excitement. The Guardian noted that some famous figures in the industry, such as Guillermo del Toro, have expressed strong opposition to using AI in their work. The debate often centers on whether AI is being used to enhance human creativity or to replace it. For example, some studios hope that using AI will help them make more films for less money, which has caused concern among actors and writers who fear for their jobs.",
-      "zh": "然而，並非所有人都抱持這種興奮感。《衛報》指出，業界一些知名人士，例如吉勒摩·戴托羅（Guillermo del Toro），已對在作品中使用人工智慧表達強烈反對。辯論的核心通常在於，人工智慧究竟是用來增強人類創意，還是用來取代人類。例如，有些製片廠希望利用人工智慧以更低成本製作更多電影，這已引起演員與編劇的擔憂，他們擔心自己的工作不保。"
+      "en": "Beyond the marketing hype, some experts are concerned about how society uses these tools. In a recent article for The Guardian, writer Wendy Liu expressed worry about the way AI is changing human habits. She argues that tasks like coding and writing are valuable because they are difficult. When people use AI to do this work for them, they avoid the “hard thinking” that helps them learn and grow. She calls this “cognitive offloading,” which is the act of letting a machine do the thinking so that a person does not have to. She fears that if young people see technology as a “black box”—a system where we see the result but cannot understand how it works—they will lose control over their own creative processes.",
+      "zh": "除了行銷炒作之外，一些專家也擔心社會使用這些工具的方式。在《衛報》最近的一篇文章中，作家溫蒂·劉（Wendy Liu）表達了對人工智慧改變人類習慣的擔憂。她主張，編碼和寫作等任務之所以有價值，是因為它們具有難度。當人們使用人工智慧代勞時，他們就避開了有助於學習與成長的「深度思考」。她稱此為「認知卸載」（cognitive offloading），即讓機器代為思考，使人不必動腦。她擔心，如果年輕人將科技視為一個「黑盒子」——即一種我們只見結果，卻無法理解其運作原理的系統——他們將會失去對自身創作過程的掌控。"
     },
     {
       "id": "p6",
-      "en": "Beyond the business and film worlds, there is a deeper concern about how AI is changing the way we think. Writer Wendy Liu argues that the current 'AI boom' encourages people to avoid hard work. She explains that in the past, learning to code or write was a difficult process, but it was through that struggle that she learned how to think critically. Today, with the rise of Large Language Models (LLMs)—programs that can understand and create human-like text—many people are choosing to let machines do the thinking for them. Liu worries that this 'cognitive offloading' will make younger generations see technology as a 'black box'—something they cannot understand or control, managed by powerful corporations.",
-      "zh": "除了商業與電影界，人們對於人工智慧如何改變我們的思考方式有著更深層的擔憂。作家溫蒂·劉（Wendy Liu）主張，當前的「人工智慧熱潮」鼓勵人們逃避艱苦的工作。她解釋說，過去學習程式設計或寫作是一個困難的過程，但正是透過那種掙扎，她學會了如何批判性思考。如今，隨著大型語言模型（LLMs）——即能理解並創造人類般文字的程式——的興起，許多人選擇讓機器代勞思考。劉擔心這種「認知卸載」會讓年輕一代將技術視為一個「黑盒子」，即由強大企業所掌控、他們既無法理解也無法控制的事物。"
-    },
-    {
-      "id": "p7",
-      "en": "This shift in perspective is significant. When technology is presented as a magical solution, it can hide the fact that it is built by people and companies with specific goals. If we stop trying to understand how these tools work, we lose our ability to question them. The 'AI washing' seen in marketing is just one part of a larger problem: a culture that values convenience over the effort of learning.",
-      "zh": "這種觀點的轉變意義重大。當技術被呈現為一種神奇的解決方案時，它可能會掩蓋一個事實：這些技術是由具有特定目標的人與企業所打造的。如果我們停止嘗試理解這些工具的運作方式，我們就會失去質疑它們的能力。行銷中出現的「人工智慧漂綠」只是更大問題的一部分：一種比起學習所付出的努力，更看重便利性的文化。"
-    },
-    {
-      "id": "p8",
-      "en": "As we look to the future, the divide between the hype and the reality of AI will likely continue to grow. While some companies will continue to use the label to boost their sales, others will face pressure to be more honest about what their technology can actually do. For now, the best advice for consumers is to look past the buzzwords. Whether it is a new app or a movie, it is important to ask if the technology is truly revolutionary, or if it is just another case of a company trying to keep up with the latest trend.",
-      "zh": "展望未來，炒作與人工智慧現實之間的鴻溝可能會持續擴大。雖然有些企業會繼續利用這個標籤來提升銷售，但其他企業將面臨壓力，必須更誠實地說明其技術實際能做到的事。目前，給消費者的最佳建議是看穿那些流行語。無論是新應用程式還是電影，重要的是要問自己：這項技術是否真的具有革命性，還是這又只是企業試圖跟上最新潮流的另一個案例。"
+      "en": "Ultimately, the rush to label everything as AI reflects a wider pressure on businesses to appear cutting-edge. While some companies are genuinely using advanced technology to solve complex problems, many others are simply trying to follow a trend. For the average consumer, it is becoming harder to tell the difference between real innovation and simple marketing tricks. As the hype continues, the challenge for the public will be to look past the labels and understand what these tools are actually doing. For now, it seems that “AI washing” will remain a common, if frustrating, part of the business landscape.",
+      "zh": "歸根究柢，急於將所有事物貼上人工智慧標籤，反映出企業面臨的一種更廣泛的壓力，即必須展現出尖端科技感。雖然有些公司確實正在利用先進技術解決複雜問題，但許多其他公司只是試圖跟風。對於一般消費者而言，要分辨真正的創新與單純的行銷噱頭變得越來越困難。隨著炒作持續，大眾面臨的挑戰將是看穿這些標籤，並理解這些工具實際上的用途。目前看來，「人工智慧漂綠」仍將是商業環境中一個常見且令人沮喪的部分。"
     }
   ],
-  "wordCount": 782,
+  "wordCount": 712,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
-      "term": "align",
-      "definitionEn": "To bring something into agreement or connection with a particular idea or group.",
-      "definitionZh": "使……與……一致；使結盟。",
-      "partOfSpeech": "verb",
-      "noteZh": "常見作「排列、對齊」，這裡指將企業形象與特定趨勢掛鉤。文中：Large corporations are also trying to align their image with the technology, even as they cut jobs or change their business models."
+      "term": "roll their eyes",
+      "definitionEn": "To move one's eyes upward as a way of showing annoyance, disbelief, or that one thinks something is silly.",
+      "definitionZh": "翻白眼（表示不屑、不耐煩或覺得對方很蠢）。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這是一個常見的肢體語言慣用語，用來表達對某事的不以為然。文中：One publicist based in London noted that reporters often roll their eyes when they hear the term because they see so many false claims."
+    },
+    {
+      "term": "drink their own Kool-Aid",
+      "definitionEn": "To become so convinced of one's own marketing or ideas that one loses touch with reality.",
+      "definitionZh": "對自己的行銷話術或觀點深信不疑，以至於脫離現實。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這是一個源自美國文化的隱喻，指企業過度沉浸在自己的宣傳中。文中：Imran Ariff, a media strategist, explained that brands can easily “drink their own Kool-Aid.”"
     },
     {
       "term": "numb",
       "definitionEn": "Unable to feel or react to something because of overexposure.",
-      "definitionZh": "麻木的；無動於衷的。",
+      "definitionZh": "麻木的、無感的。",
       "partOfSpeech": "adjective",
-      "noteZh": "常見作「麻痺（身體部位）」，這裡指對資訊過量而感到無感。文中：They fear that journalists and the public have become 'numb' to the word, meaning they no longer pay attention when they see it."
+      "noteZh": "常見於描述身體部位失去知覺，這裡指對行銷用語感到疲乏、無感。文中：As one account director noted, the public is becoming “numb” to the constant use of words like “AI-driven” or “AI-powered.”"
     },
     {
-      "term": "offloading",
-      "definitionEn": "The act of transferring a task or responsibility to someone or something else.",
-      "definitionZh": "卸載；轉嫁（責任或工作）。",
-      "partOfSpeech": "noun (gerund)",
-      "noteZh": "常見作「卸貨」，這裡指將思考工作轉交給機器。文中：Liu worries that this 'cognitive offloading' will make younger generations see technology as a 'black box'—something they cannot understand or control, managed by powerful corporations."
+      "term": "hyped up",
+      "definitionEn": "To exaggerate the importance or quality of something to create excitement.",
+      "definitionZh": "過度炒作、誇大宣傳。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "由 hype（炒作）演變而來的片語，常用於行銷語境。文中：The Guardian reports that some genetics companies have hyped up blood tests as being powered by AI, while other brands have tried to label everything from basketball hoops to safety lasers with the same term."
     }
   ],
   "sources": [
@@ -82,12 +79,6 @@
       "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
       "title": "‘AI washing’: firms are scrambling to rebrand themselves as tech-focused",
       "publishedAt": "2026-05-24T06:00:50Z"
-    },
-    {
-      "name": "The Guardian Technology",
-      "url": "https://www.theguardian.com/technology/2026/may/24/cinematic-toolbox-ai-fault-lines-cannes",
-      "title": "‘We’re expanding the cinematic toolbox’: AI fault lines on show at Cannes",
-      "publishedAt": "2026-05-24T05:00:48Z"
     },
     {
       "name": "The Guardian Technology",
@@ -100,54 +91,54 @@
     {
       "id": "q1",
       "type": "detail",
-      "question": "According to the article, why are communications professionals advising their clients to avoid using the term 'AI' too frequently?",
+      "question": "According to the article, why did a property company's marketing of a building scanner fail to impress experts?",
       "options": {
-        "A": "Because the government has placed legal restrictions on AI marketing.",
-        "B": "Because the public has become indifferent to the term due to overuse.",
-        "C": "Because the technology is too expensive for most clients to implement.",
-        "D": "Because journalists are now required to fact-check every AI claim."
+        "A": "The device was too expensive for the average consumer.",
+        "B": "The device relied on basic automation rather than true artificial intelligence.",
+        "C": "The company failed to release a press release to explain the technology.",
+        "D": "The scanner was already an outdated tool that had been replaced by newer models."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。文章第三段明確指出，公關人員建議客戶減少使用該詞，是因為大眾和記者已經對這個詞感到「麻木」(numb)，導致他們看到相關新聞時不再關注。選項 A 文章未提及法律限制；選項 C 雖然提到成本，但並非公關建議避免使用該詞的主因；選項 D 雖然提到記者忽略新聞稿，但並未說明記者有強制性的查核義務。"
+      "explanationZh": "正確答案為 B。根據文章第二段，該房地產公司將手持掃描器行銷為 AI 工具，但文中明確指出該設備僅是「自動化（automation）」而非真正的「人工智慧（AI）」。選項 A 文章未提及價格；選項 C 與文章提到的公關人員發送新聞稿的事實不符；選項 D 雖然提到技術較舊，但重點在於它被錯誤標籤為 AI，而非被取代。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "What can be inferred about the relationship between 'AI washing' and the broader societal changes discussed by Wendy Liu?",
+      "question": "What can be inferred about the relationship between journalists and companies currently using the term 'AI'?",
       "options": {
-        "A": "Both are driven by a desire to improve the accuracy of scientific research.",
-        "B": "Both reflect a cultural preference for quick solutions over deep understanding.",
-        "C": "Both are primarily concerned with the financial stability of film studios.",
-        "D": "Both suggest that automation will eventually eliminate the need for human labor."
+        "A": "Journalists are eager to report on new AI developments to help companies grow.",
+        "B": "Journalists have developed a skeptical attitude due to the prevalence of exaggerated claims.",
+        "C": "Companies are successfully using the term 'AI' to increase their media coverage.",
+        "D": "Journalists are now working closely with PR teams to verify AI claims before publication."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。文章最後兩段提到，行銷上的「AI 洗白」與 Wendy Liu 提到的「認知卸載」(cognitive offloading) 其實是同一問題的兩面，即現代文化過度追求便利，而忽略了學習與深度思考的價值。選項 A 與文章強調的「便利勝過努力」相反；選項 C 僅限於電影業討論，範圍太窄；選項 D 雖然提到工作機會，但文章並未斷言人類勞動將完全消失。"
+      "explanationZh": "正確答案為 B。根據第二段與第四段，記者對於過度使用「AI」一詞感到厭煩，甚至會翻白眼，且因為看到太多誇大的行銷宣傳，現在更不願意報導這類故事。選項 A 與文章描述的記者態度相反；選項 C 錯誤，因為文章指出這種策略已逐漸失效；選項 D 文章中並未提到記者與公關團隊合作查核，反而提到記者對這些宣傳持懷疑態度。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the context of the third paragraph, what does the word 'numb' mean?",
+      "question": "In the third paragraph, what does the phrase 'drink their own Kool-Aid' mean in the context of business marketing?",
       "options": {
-        "A": "Physically unable to move or feel pain.",
-        "B": "Excited and eager to learn more about a topic.",
-        "C": "Unresponsive or indifferent due to overexposure.",
-        "D": "Confused by the complexity of a new technology."
+        "A": "To become so convinced by one's own marketing lies that one believes they are true.",
+        "B": "To consume expensive products to show loyalty to the company brand.",
+        "C": "To share secret information with competitors to gain a market advantage.",
+        "D": "To ignore the advice of public relations experts in order to save money."
       },
-      "correct": "C",
-      "explanationZh": "正確答案為 C。在此上下文中，「numb」並非指生理上的麻木，而是指人們因為看到太多濫用的「AI」標籤，導致對該詞產生了心理上的麻痺或冷漠，不再有反應。選項 A 是字面意思，不適用於此；選項 B 與文意完全相反；選項 D 雖然提到困惑，但文章強調的是「不再關注」，而非「不理解」。"
+      "correct": "A",
+      "explanationZh": "正確答案為 A。文中提到「drink their own Kool-Aid」後隨即解釋，這意味著品牌對自己的工作過於自豪，以至於開始相信那些並不真實的誇大行銷。這是一個慣用語，指人被自己的說法洗腦。選項 B、C、D 均與文中提供的定義完全無關，屬於對該慣用語的錯誤猜測。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "What is the central message of the article regarding the current state of AI?",
+      "question": "What is the primary message the author conveys regarding 'AI washing'?",
       "options": {
-        "A": "AI is a revolutionary tool that will soon replace all human creativity in film and business.",
-        "B": "The use of AI in marketing is a legitimate strategy to help small businesses compete with corporations.",
-        "C": "While AI has potential, its current usage is often exaggerated, and it poses risks to our critical thinking skills.",
-        "D": "Consumers should stop using all AI-powered products until the government creates better regulations."
+        "A": "AI is a dangerous technology that should be banned from all consumer products.",
+        "B": "Public relations professionals are the main cause of the decline in modern technology.",
+        "C": "The term 'AI' is being misused by many companies to appear modern, which creates confusion for consumers.",
+        "D": "Companies should stop trying to innovate and focus only on basic automation tools."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。本文的核心觀點在於探討「AI 洗白」現象（誇大行銷）以及 AI 對人類思考模式的負面影響（認知卸載），提醒讀者應保持批判性思維。選項 A 太過極端，文章並未斷言 AI 將取代所有創意；選項 B 與文章對「AI 洗白」的批評立場相左；選項 D 則是過度推論，文章建議的是「看穿行銷術語」，而非全面抵制。"
+      "explanationZh": "正確答案為 C。全文的核心在於探討企業為了追求時髦而濫用「AI」標籤（AI washing），導致大眾難以分辨真正的創新與行銷手段。選項 A 過度推論，文章並未主張禁止 AI；選項 B 將責任歸咎於公關人員不公平，文中指出這是企業為了跟風的策略；選項 D 並非文章主旨，文章並未反對創新，而是反對虛假的行銷標籤。"
     }
   ],
   "aiGenerated": true,
