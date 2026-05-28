@@ -1,72 +1,84 @@
 {
   "id": "2026-05-28-debate-over-prostate-cancer-screening-guidelines",
   "slug": "debate-over-prostate-cancer-screening-guidelines-may-2026",
-  "publishedAt": "2026-05-28T22:13:25.009931Z",
+  "publishedAt": "2026-05-28T23:42:15.691702Z",
   "category": "health",
-  "title": "New UK Guidelines Advise Against Widespread Prostate Cancer Screening",
-  "subtitle": "Experts argue that testing all men could lead to unnecessary treatments and serious health problems.",
+  "title": "New Prostate Cancer Screening Advice: Why Most Men Will Not Be Tested",
+  "subtitle": "Health experts recommend screening only for a small group of high-risk men, citing the risks of unnecessary treatment.",
   "summary": {
-    "en": "The UK National Screening Committee has recommended against a national prostate cancer screening program. They argue that the common PSA test often leads to overdiagnosis and harmful side effects. While some groups with specific genetic risks may be screened, the committee believes the risks for the general population outweigh the benefits. This decision has disappointed many campaigners who hoped for wider testing. The government is now considering these final recommendations.",
-    "zh": "英國國家篩檢委員會建議不應推行全國性攝護腺癌篩檢計畫。他們認為，常見的攝護腺特異抗原（PSA）檢測容易導致過度診斷及有害的副作用。雖然帶有特定基因風險的族群可接受篩檢，但委員會認為對一般大眾而言，篩檢的風險大於益處。此決定令許多期盼擴大檢測的倡議者感到失望，目前政府正針對這些最終建議進行研議。"
+    "en": "The UK's National Screening Committee has released final recommendations regarding prostate cancer testing. They advise against widespread screening for the general population, including black men and those with a family history of the disease. Instead, they suggest testing only for men with a specific BRCA2 gene variant. This decision follows concerns that current tests often lead to overdiagnosis and harmful, unnecessary treatments. While some high-profile figures have campaigned for broader screening, experts emphasize that the potential for physical harm currently outweighs the benefits.",
+    "zh": "英國國家篩檢委員會已針對攝護腺癌檢測發布最終建議。他們不建議對一般大眾（包括黑人男性及有家族病史者）進行廣泛篩檢，而是建議僅針對帶有特定 BRCA2 基因變異的男性進行檢測。此決定源於對現行檢測常導致過度診斷及有害且不必要治療的擔憂。儘管部分知名人士曾倡議擴大篩檢，但專家強調，目前篩檢帶來的潛在生理傷害仍大於其益處。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "A major debate is happening in the United Kingdom regarding how to best detect prostate cancer. According to The Guardian Health, the UK National Screening Committee (UKNSC) has released its final recommendations to the government. They suggest that the country should not start a national screening program for prostate cancer. This decision is based on the belief that widespread testing using the prostate-specific antigen (PSA) test would likely cause more harm than good for the general population.",
-      "zh": "英國目前正針對如何有效檢測攝護腺癌展開重大辯論。根據《衛報健康版》（The Guardian Health）報導，英國國家篩檢委員會（UKNSC）已向政府發布最終建議，主張英國不應啟動全國性的攝護腺癌篩檢計畫。這項決策的基礎在於，委員會認為針對一般大眾全面推廣攝護腺特異抗原（PSA）檢測，弊大於利。"
+      "en": "Prostate cancer is the most common cancer among men in the UK, with over 64,000 cases diagnosed every year. Because of its high prevalence, many people have called for a national screening programme. However, the UK National Screening Committee (UKNSC) has recently released final recommendations that suggest only a very small group of men should be regularly tested for the disease. The committee concluded that for the general population, the harms of screening are greater than the benefits.",
+      "zh": "攝護腺癌是英國男性最常見的癌症，每年診斷出的病例超過六萬四千例。由於其盛行率高，許多人呼籲推動全國性的篩檢計畫。然而，英國國家篩檢委員會（UK National Screening Committee，簡稱 UKNSC）近期發布了最終建議，指出僅有極少數的男性族群應定期接受該疾病的篩檢。委員會總結認為，對於一般大眾而言，篩檢帶來的弊大於利。"
     },
     {
       "id": "p2",
-      "en": "Prostate cancer is the most common cancer in the UK, with more than 64,000 men diagnosed every year. Because of these high numbers, many people have called for a national screening program to catch the disease early. High-profile figures, including former prime minister David Cameron, Olympic gold-medallist Sir Chris Hoy, and actor Sir Stephen Fry, have all supported the idea of more widespread testing. However, the UKNSC’s final report suggests that the current methods of testing are not accurate enough to justify a national program.",
-      "zh": "攝護腺癌是英國最常見的癌症，每年有超過六萬四千名男性確診。由於病例數居高不下，許多人呼籲建立全國篩檢計畫以利早期發現。包括前首相卡麥隆（David Cameron）、奧運金牌得主霍伊爵士（Sir Chris Hoy）以及演員史蒂芬·弗萊爵士（Sir Stephen Fry）等知名人士，皆曾表態支持擴大檢測。然而，英國國家篩檢委員會的最終報告指出，目前的檢測方式準確度不足，尚不足以支持推行全國性計畫。"
+      "en": "Screening involves testing healthy people for a disease before they show any symptoms. For prostate cancer, this process usually starts with a blood test known as the prostate-specific antigen (PSA) test. If the results are concerning, doctors may follow up with an MRI scan. The goal is to find cancer early when it is easier to treat. However, the UKNSC noted that current testing methods are not reliable enough to support a national programme. According to the BBC, the committee found that for every 1,000 men in their 50s who are screened, only two lives would be saved over 15 years. In contrast, 20 men would be told they have a cancer that might never have caused them any problems.",
+      "zh": "篩檢是指在健康的人出現任何症狀前，先進行疾病檢測。針對攝護腺癌，此過程通常始於一項稱為攝護腺特異抗原（PSA）的血液檢查。若結果令人擔憂，醫師可能會進一步安排核磁共振掃描。其目標是在癌症較易治療的早期階段發現病灶。然而，英國國家篩檢委員會指出，目前的檢測方法可靠度不足，無法支持全國性計畫。根據 BBC 報導，委員會發現，每千名五十多歲的受檢男性中，十五年內僅能挽救兩條生命；相對地，卻有二十名男性會被告知罹患了可能永遠不會對其造成困擾的癌症。"
     },
     {
       "id": "p3",
-      "en": "Professor Sir Mike Richards, the chair of the UKNSC, explained the committee's reasoning. He noted that while screening can reduce deaths from prostate cancer to a small extent, it does not improve overall survival rates. A major problem is that doctors still cannot reliably tell which cancers need immediate treatment and which do not. Many men might live full lives without the disease ever causing them harm. If doctors find a slow-growing cancer that would never have caused a problem, they might still recommend treatment. These treatments can lead to serious, long-lasting side effects, such as incontinence—the inability to control one's bladder—and erectile dysfunction.",
-      "zh": "英國國家篩檢委員會主席麥克·理查茲爵士（Professor Sir Mike Richards）解釋了委員會的考量。他指出，雖然篩檢能在小範圍內降低攝護腺癌死亡率，但並無法提升整體存活率。主要問題在於，醫師目前仍無法可靠地判斷哪些癌症需要立即治療，哪些則否。許多男性可能終其一生帶病，卻從未因此受到傷害。若醫師發現了生長緩慢且本不會造成問題的癌症，仍可能建議患者進行治療，而這些治療可能導致嚴重且長期的副作用，例如尿失禁（即無法控制膀胱）以及勃起功能障礙。"
+      "en": "This issue of \"overdiagnosis\" is a major concern for medical experts. Many prostate cancers grow very slowly and would never become a threat to a person’s life. If these cancers are found through screening, men often undergo treatments that can cause long-term damage. These treatments can lead to serious side effects, such as incontinence — the inability to control one's bladder — and erectile dysfunction. Prof Sir Mike Richards, who chairs the screening committee, explained that doctors still cannot reliably tell which cancers need treatment and which do not. Because the available treatments can cause lasting harm, the committee believes that screening healthy men does more damage than good.",
+      "zh": "這種「過度診斷」的問題是醫學專家的一大隱憂。許多攝護腺癌生長極為緩慢，終其一生都不會對患者的生命構成威脅。若透過篩檢發現這些癌症，男性往往會接受可能造成長期傷害的治療。這些治療可能導致嚴重的副作用，例如尿失禁（即無法控制膀胱）以及勃起功能障礙。擔任篩檢委員會主席的麥克·理查茲爵士（Prof Sir Mike Richards）解釋說，醫師目前仍無法可靠地分辨哪些癌症需要治療，哪些則否。由於現有的治療方式可能造成持久的傷害，委員會認為對健康男性進行篩檢是弊多於利。"
     },
     {
       "id": "p4",
-      "en": "Despite the recommendation against general screening, the committee did identify one specific group that should be tested. They recommended that men with the BRCA2 gene variant should be screened every two years between the ages of 45 and 61, provided they have a family history of certain cancers. The BRCA2 gene is an inherited change in a person’s DNA that can increase the risk of developing certain diseases. The committee chose this group because prostate cancer is much more common and often more aggressive in these men. For this specific group, the committee felt confident that the benefits of screening outweigh the risks.",
-      "zh": "儘管委員會建議不要進行全面篩檢，但仍指出了特定族群應接受檢測。他們建議，若男性帶有 BRCA2 基因變異且有特定癌症家族史，應在四十五歲至六十一歲之間每兩年接受一次篩檢。BRCA2 基因是一種遺傳性的去氧核糖核酸（DNA）變異，會增加罹患特定疾病的風險。委員會選擇此族群是因為攝護腺癌在這些男性身上更為常見，且往往更具侵略性。針對此特定族群，委員會確信篩檢的益處大於風險。"
+      "en": "Many people had hoped the committee would recommend screening for all high-risk groups. This includes black men, who are at twice the risk of developing prostate cancer compared to others, and men with a family history of the disease. However, the committee decided against this. According to The Guardian, the UKNSC stated there is still too much uncertainty regarding whether screening would truly help these groups. They noted a lack of clear evidence from clinical trials to support a wider programme. This decision is expected to be disappointing to many, including high-profile campaigners like Sir Chris Hoy and former prime minister David Cameron, who have spoken publicly about their own experiences with the disease.",
+      "zh": "許多人曾期望委員會能建議對所有高風險族群進行篩檢。這包括罹患攝護腺癌風險為常人兩倍的黑人男性，以及有家族病史的男性。然而，委員會決定不採納此建議。根據《衛報》（The Guardian）報導，英國國家篩檢委員會表示，關於篩檢是否真能幫助這些族群，目前仍存在太多不確定性。他們指出，缺乏足夠的臨床試驗證據來支持更廣泛的計畫。這項決定預計會讓許多人感到失望，其中包括曾公開談論自身抗癌經驗的知名倡議人士，如克里斯·霍伊爵士（Sir Chris Hoy）以及前首相大衛·卡麥隆（David Cameron）。"
     },
     {
       "id": "p5",
-      "en": "This decision is a significant disappointment to those who have campaigned for more testing. However, the committee emphasized that the current technology for identifying the most dangerous forms of the disease is not yet perfect. Even with advances like MRI scans, which take detailed pictures of the inside of the body, the level of overdiagnosis remains high. Overdiagnosis happens when a test finds a cancer that would not have caused symptoms or death during a patient's lifetime. This leads to men undergoing medical procedures they do not actually need.",
-      "zh": "這項決定讓許多推動擴大檢測的倡議者感到相當失望。然而，委員會強調，目前用以辨識最危險癌症類型的技術尚未臻完美。即便有了核磁共振（MRI）掃描等能拍攝體內詳細影像的先進技術，過度診斷的比率依然偏高。所謂過度診斷，是指檢測出在患者有生之年本不會引發症狀或導致死亡的癌症，這會導致男性接受其實並不需要的醫療處置。"
+      "en": "Despite the strict advice against general screening, the committee did identify one specific group that should be tested. Men who carry a BRCA2 gene variant and have a family history of breast, ovarian, pancreatic, or prostate cancer are at a much higher risk. In this group, the cancer tends to develop earlier and grow more aggressively. For these men, the benefits of early detection are considered strong enough to justify the risks of screening. The committee recommends that these individuals be invited for a PSA blood test every two years between the ages of 45 and 61. This group represents only a few thousand men across the country.",
+      "zh": "儘管委員會嚴正建議不要進行全面篩檢，但他們確實確認了一個特定族群應接受檢測。帶有 BRCA2 基因變異且有乳癌、卵巢癌、胰臟癌或攝護腺癌家族病史的男性，其罹癌風險高出許多。在此族群中，癌症往往發展得更早且更具侵略性。對於這些男性而言，早期發現的益處被認為足以抵銷篩檢帶來的風險。委員會建議，這些人士應在四十五歲至六十一歲之間，每兩年接受一次攝護腺特異抗原血液檢查。此族群在全國僅佔數千人。"
     },
     {
       "id": "p6",
-      "en": "Looking ahead, the committee stated that more work is needed to find better ways to identify which patients are at the highest risk. They plan to work with the National Health Service (NHS) to evaluate how to invite the right people for screening in the future. For now, the government must decide whether to accept these final recommendations. The debate highlights the difficult balance between wanting to save lives through early detection and the need to protect healthy people from the risks of unnecessary medical treatment.",
-      "zh": "展望未來，委員會表示仍需投入更多努力，以尋求更佳的方式來辨識哪些患者屬於高風險群。他們計畫與國家醫療保健服務（NHS）合作，評估未來如何邀請合適的對象進行篩檢。目前，政府必須決定是否採納這些最終建議。這場辯論凸顯了在透過早期發現拯救生命，與保護健康民眾免受不必要醫療處置風險之間，存在著難以拿捏的平衡。"
+      "en": "Looking ahead, the committee emphasized that their advice is not permanent. They plan to continuously evaluate new evidence as it becomes available. This includes new testing technologies, the use of artificial intelligence, and the results of ongoing research, such as the Transform trial. These future developments might eventually provide better ways to distinguish between harmless and dangerous cancers. For now, however, the official recommendation remains focused on protecting the majority of men from the physical and psychological burdens of unnecessary medical intervention.",
+      "zh": "展望未來，委員會強調他們的建議並非一成不變。他們計畫持續評估隨時出現的新證據，包括新的檢測技術、人工智慧的應用，以及如「轉型試驗」（Transform trial）等進行中研究的結果。這些未來的發展或許最終能提供更好的方法，以區分無害與危險的癌症。然而就目前而言，官方建議仍聚焦於保護大多數男性，避免他們承受不必要的醫療介入所帶來的生理與心理負擔。"
     }
   ],
-  "wordCount": 612,
+  "wordCount": 685,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
-      "term": "catch",
-      "definitionEn": "To discover or identify a disease at an early stage.",
-      "definitionZh": "（早期）發現、診斷出（疾病）。",
-      "partOfSpeech": "verb",
-      "noteZh": "常見意思為「捕捉」，這裡指醫療上的早期發現。文中：Because of these high numbers, many people have called for a national screening program to catch the disease early."
+      "term": "follow up",
+      "definitionEn": "To take further action or perform a subsequent step in a process.",
+      "definitionZh": "採取後續行動、進行後續檢查。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見作名詞（後續行動），這裡作動詞片語使用。文中：If the results are concerning, doctors may follow up with an MRI scan."
     },
     {
-      "term": "outweigh",
-      "definitionEn": "To be greater or more significant than something else.",
-      "definitionZh": "比……更重要、大於……。",
+      "term": "chairs",
+      "definitionEn": "To act as the person in charge of a meeting or an organization.",
+      "definitionZh": "擔任（委員會或會議的）主席、主持。",
       "partOfSpeech": "verb",
-      "noteZh": "由 out-（超過）與 weigh（重量）組成，指優點超過缺點。文中：For this specific group, the committee felt confident that the benefits of screening outweigh the risks."
+      "noteZh": "常見作名詞（椅子），這裡作動詞用，指主持委員會。文中：Prof Sir Mike Richards, who chairs the screening committee, explained that doctors still cannot reliably tell which cancers need treatment and which do not."
     },
     {
-      "term": "overdiagnosis",
-      "definitionEn": "The diagnosis of a condition that would not have caused symptoms or harm during a person's life.",
-      "definitionZh": "過度診斷（指診斷出對病人生命無威脅的疾病，導致不必要的治療）。",
-      "partOfSpeech": "noun",
-      "noteZh": "雖然文中解釋了定義，但此詞在醫學語境中常被誤解為「診斷錯誤」，實則指「診斷過多」。文中：Even with advances like MRI scans, which take detailed pictures of the inside of the body, the level of overdiagnosis remains high."
+      "term": "justify",
+      "definitionEn": "To show that there is a good reason for something, especially something that seems wrong or risky.",
+      "definitionZh": "證明……是正當的、為……提供正當理由。",
+      "partOfSpeech": "verb",
+      "noteZh": "此詞在正式語境中常被誤解為單純的「解釋」，但在這裡指「權衡風險後認為值得」。文中：For these men, the benefits of early detection are considered strong enough to justify the risks of screening."
     }
   ],
   "sources": [
+    {
+      "name": "BBC Health",
+      "url": "https://www.bbc.com/news/articles/cn0pvxe5jgzo?at_medium=RSS&at_campaign=rss",
+      "title": "Prostate cancer screening only for 'a few thousand' high risk men",
+      "publishedAt": "2026-05-28T11:00:15Z"
+    },
+    {
+      "name": "BBC Health",
+      "url": "https://www.bbc.com/news/articles/cvgrenp0942o?at_medium=RSS&at_campaign=rss",
+      "title": "Prostate cancer screening: What you need to know",
+      "publishedAt": "2026-05-28T11:00:06Z"
+    },
     {
       "name": "The Guardian Health",
       "url": "https://www.theguardian.com/society/2026/may/28/prostate-cancer-screening-committee-government",
@@ -78,54 +90,54 @@
     {
       "id": "q1",
       "type": "detail",
-      "question": "According to the UKNSC, which specific group is recommended for regular prostate cancer screening?",
+      "question": "According to the UKNSC, what is the specific recommendation for men with a BRCA2 gene variant and a relevant family history?",
       "options": {
-        "A": "All men over the age of 45.",
-        "B": "Men with a family history of prostate cancer who are over 60.",
-        "C": "Men aged 45 to 61 with the BRCA2 gene variant and a relevant family history.",
-        "D": "High-profile figures who have publicly campaigned for better testing."
+        "A": "They should undergo yearly MRI scans starting at age 40.",
+        "B": "They should receive a PSA blood test every two years between ages 45 and 61.",
+        "C": "They should be screened only if they show early symptoms of the disease.",
+        "D": "They should avoid all forms of screening due to the risk of overdiagnosis."
       },
-      "correct": "C",
-      "explanationZh": "正確答案為 C。根據文章第四段，UKNSC 建議帶有 BRCA2 基因變異且有特定癌症家族史的男性，在 45 至 61 歲之間每兩年進行一次篩檢。選項 A 錯誤，因為委員會反對全面篩檢；選項 B 雖然提到了家族史，但年齡範圍與條件不符；選項 D 提到的名人僅是支持者，並非篩檢建議的特定對象。"
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第五段，委員會明確建議帶有 BRCA2 基因變異且有相關家族病史的男性，應在 45 歲至 61 歲之間，每兩年進行一次 PSA 血液檢測。選項 A 錯誤，因為文章未提及 MRI 作為此特定群體的首選篩檢方式；選項 C 錯誤，因為篩檢的定義正是針對「健康」且無症狀者；選項 D 錯誤，因為該群體正是委員會認為篩檢利大於弊的少數例外。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "What is the primary reason the UKNSC advises against a national prostate cancer screening program?",
+      "question": "Why does the UKNSC believe that a national screening programme for the general population would cause more harm than good?",
       "options": {
-        "A": "The PSA test is too expensive for the National Health Service to fund.",
-        "B": "The risk of overdiagnosis and harmful side effects outweighs the potential benefits of early detection.",
-        "C": "There are not enough doctors available to treat the number of men who would be diagnosed.",
-        "D": "Most men do not want to undergo screening for prostate cancer due to fear of the results."
+        "A": "Because the PSA test is too expensive for the UK government to fund.",
+        "B": "Because most men in the UK are not interested in participating in medical trials.",
+        "C": "Because the risk of treating harmless cancers outweighs the benefit of saving a few lives.",
+        "D": "Because the current medical staff in the UK lacks the training to interpret MRI results."
       },
-      "correct": "B",
-      "explanationZh": "正確答案為 B。根據文章第三段與第五段，委員會認為目前的檢測方法無法區分哪些癌症需要立即治療，哪些則不會造成危害。過度診斷（overdiagnosis）會導致健康男性接受不必要的治療，進而引發如失禁或勃起功能障礙等嚴重的副作用。選項 A 文中未提及成本問題；選項 C 與 D 皆非委員會反對的主因。"
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第二段與第三段，委員會指出篩檢會導致「過度診斷」（overdiagnosis），即發現了本不會威脅生命的緩慢生長癌症。這些癌症若被治療，會導致尿失禁或勃起功能障礙等嚴重副作用。因此，雖然篩檢能救少數人，但對更多人造成了不必要的醫療傷害。選項 A、B、D 在文中皆未提及，屬於無中生有的錯誤選項。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the third paragraph, what does the word 'justify' mean in the context of the UKNSC's reasoning?",
+      "question": "In the final paragraph, what does the word 'burdens' most likely mean in the context of 'physical and psychological burdens of unnecessary medical intervention'?",
       "options": {
-        "A": "To prove that something is right, reasonable, or necessary.",
-        "B": "To change the format of text to be aligned on both sides.",
-        "C": "To argue against a specific policy or decision.",
-        "D": "To provide a medical explanation for a physical symptom."
+        "A": "Heavy physical objects that patients must carry.",
+        "B": "The negative effects or stresses caused by a difficult situation.",
+        "C": "The financial costs associated with buying medical equipment.",
+        "D": "The physical weight of the medical staff performing the tests."
       },
-      "correct": "A",
-      "explanationZh": "正確答案為 A。在文章第二段與第三段的脈絡中，作者提到測試方法不夠準確，無法「justify」（證明合理/正當）實施全國性計畫。這意味著目前的準確度不足以支撐該計畫的必要性。選項 B 是排版術語，與文意無關；選項 C 與 D 的解釋則完全偏離了該詞在決策評估中的語境。"
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在此語境中，burdens 指的是因不必要的醫療介入所帶來的負面影響，包含身體上的副作用（如失禁）以及心理上的壓力（如得知患癌但其實無需治療的焦慮）。選項 A 將詞彙誤解為實體重量；選項 C 雖然在現實醫療中存在，但文中強調的是「身體與心理」的負擔，而非財務；選項 D 完全曲解了文意。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "What is the central message of this article regarding prostate cancer screening in the UK?",
+      "question": "What is the primary message of the article regarding prostate cancer screening in the UK?",
       "options": {
-        "A": "The UK government has officially banned all prostate cancer screening programs.",
-        "B": "The PSA test is the most effective tool for preventing all prostate cancer deaths.",
-        "C": "The debate highlights the complex trade-off between early detection and the risks of unnecessary medical intervention.",
-        "D": "Celebrity advocacy is the most important factor in determining national health screening policies."
+        "A": "The UK government is planning to ban all prostate cancer testing immediately.",
+        "B": "New technology has made prostate cancer screening perfectly safe for everyone.",
+        "C": "The UKNSC advises against universal screening due to risks, while supporting targeted testing for high-risk individuals.",
+        "D": "Campaigners like David Cameron have successfully convinced the committee to change their policy."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。文章總結了委員會的立場，指出篩檢政策的制定必須在「挽救生命」與「保護健康者免受不必要治療傷害」之間取得平衡。選項 A 錯誤，因為委員會只是建議不實施「全國性」篩檢；選項 B 與文章觀點相反，文章強調 PSA 測試並不完美；選項 D 誇大了名人的影響力，而非決策的核心依據。"
+      "explanationZh": "正確答案為 C。全文的核心在於介紹 UKNSC 的最新建議：由於過度診斷的風險，委員會不支持全民普篩，但針對極少數高風險群體（如帶有特定基因變異者）則建議進行篩檢。選項 A 錯誤，因為委員會只是反對「全民」篩檢；選項 B 錯誤，因為文中提到現有方法仍不夠可靠；選項 D 錯誤，因為儘管有知名人士呼籲，但委員會並未因此改變其針對高風險群體的反對立場。"
     }
   ],
   "aiGenerated": true,
