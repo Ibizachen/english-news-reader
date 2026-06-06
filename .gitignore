@@ -29,6 +29,8 @@ data/raw/
 data/logs/
 # UI-managed AI settings (per-user; admin page is local-only).
 data/config/
+# Draft story outlines for local review; promote approved ones into data/stories/.
+data/series_drafts/
 
 # NOTE: data/published/ IS committed — the static site reads from it.
 

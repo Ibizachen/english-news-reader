@@ -542,9 +542,14 @@ def clean_json_response(text: str) -> str:
 
 
 def parse_json_response(text: str) -> Any:
-    """Clean LLM output and run json.loads(). Raises json.JSONDecodeError on failure."""
+    """Clean LLM output and parse the first complete JSON value.
+
+    Uses raw_decode so trailing garbage (extra }}} from Gemini) is ignored.
+    Raises json.JSONDecodeError on failure.
+    """
     cleaned = clean_json_response(text)
-    return json.loads(cleaned)
+    obj, _ = json.JSONDecoder().raw_decode(cleaned)
+    return obj
 
 
 # =============================================================================
