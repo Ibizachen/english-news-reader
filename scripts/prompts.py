@@ -36,6 +36,15 @@ Review the headlines below, organized by category. Select 6 topics that meet ALL
 4. Have clear cause-and-effect or multi-perspective angles
 5. Would be interesting to an intermediate (CEFR B1-B2) English learner
 
+RECENT COVERAGE POLICY:
+- Review "Recent site coverage" before choosing topics.
+- Avoid choosing a topic that is basically the same as a recent article unless there is a clear NEW development today.
+- If a recent story has a meaningful new development, you may select it, but make the rationale explain the new angle.
+- Prefer a healthy mix: some ongoing-story updates, some fresh topics.
+
+Recent site coverage:
+{recent_context_block}
+
 For each selected topic, identify 3-5 source URLs from the headlines list to use as raw material.
 If only 1-2 sources cover a topic, that's still acceptable — just pick the best available.
 
@@ -143,6 +152,9 @@ Category: {category}
 Source materials (each preceded by [SOURCE_N - source_name]):
 
 {source_articles_block}
+
+Continuity context:
+{story_context_block}
 
 Output as valid JSON, nothing else. No markdown fences, no preamble:
 {

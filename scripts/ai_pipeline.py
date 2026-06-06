@@ -56,6 +56,19 @@ VALID_CATEGORIES = {
     "public-health",
 }
 
+STOPWORDS = {
+    "about", "after", "again", "against", "amid", "among", "and", "are",
+    "from", "has", "have", "into", "new", "over", "says", "that", "the",
+    "their", "this", "with", "will", "more", "could", "would", "should",
+    "may", "its", "for", "was", "were", "but", "not", "out", "who",
+}
+
+STORY_LOOKBACK_DAYS = 14
+MAX_RECENT_CONTEXT_ARTICLES = 30
+MAX_PREVIOUS_ARTICLES = 3
+STORY_MATCH_THRESHOLD = 0.13
+STORY_RAW_OVERLAP_THRESHOLD = 0.055
+
 # =============================================================================
 # Stage runner: JSON retry + validation retry + fallback
 # =============================================================================
@@ -428,14 +441,176 @@ def load_raw_articles(date_str: str) -> list[dict]:
 
 
 # =============================================================================
+# Story continuity helpers — no extra API calls
+# =============================================================================
+
+
+def _tokens(text: str) -> set[str]:
+    words = re.findall(r"[a-z0-9]+", text.lower())
+    return {w for w in words if len(w) >= 4 and w not in STOPWORDS}
+
+
+def _story_id_from_title(title: str) -> str:
+    base = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
+    base = re.sub(r"-+", "-", base)
+    return base[:60].strip("-") or "ongoing-story"
+
+
+def load_recent_articles(before: datetime) -> list[dict[str, Any]]:
+    """Load recent published articles before `before` for duplicate/update checks."""
+    if not DATA_PUBLISHED.exists():
+        return []
+
+    cutoff_ts = before.timestamp() - STORY_LOOKBACK_DAYS * 24 * 60 * 60
+    recent: list[dict[str, Any]] = []
+
+    for date_dir in sorted(DATA_PUBLISHED.iterdir(), reverse=True):
+        articles_dir = date_dir / "articles"
+        if not articles_dir.exists():
+            continue
+        for file in articles_dir.glob("*.json"):
+            try:
+                article = json.loads(file.read_text(encoding="utf-8"))
+                published = datetime.fromisoformat(
+                    article["publishedAt"].replace("Z", "+00:00")
+                )
+            except Exception:
+                continue
+            ts = published.timestamp()
+            if ts >= before.timestamp() or ts < cutoff_ts:
+                continue
+            recent.append(article)
+
+    recent.sort(key=lambda a: a.get("publishedAt", ""), reverse=True)
+    return recent[:MAX_RECENT_CONTEXT_ARTICLES]
+
+
+def format_recent_context_for_prompt(recent: list[dict[str, Any]]) -> str:
+    if not recent:
+        return "No recent site articles yet."
+
+    lines: list[str] = []
+    for article in recent:
+        source_titles = "; ".join(
+            (s.get("title") or "").strip()
+            for s in (article.get("sources") or [])[:2]
+            if s.get("title")
+        )
+        summary = ((article.get("summary") or {}).get("en") or "").strip()
+        if len(summary) > 220:
+            summary = summary[:217] + "..."
+        lines.append(
+            f"- [{article.get('category')}] {article.get('title')} "
+            f"({article.get('publishedAt')}, slug: {article.get('slug')})\n"
+            f"  Summary: {summary}\n"
+            f"  Source headlines: {source_titles or 'n/a'}"
+        )
+    return "\n".join(lines)
+
+
+def _article_similarity(topic_text: str, category: str, article: dict[str, Any]) -> float:
+    article_text = " ".join([
+        article.get("title") or "",
+        ((article.get("summary") or {}).get("en") or ""),
+        " ".join((s.get("title") or "") for s in (article.get("sources") or [])),
+    ])
+    topic_tokens = _tokens(topic_text)
+    article_tokens = _tokens(article_text)
+    if not topic_tokens or not article_tokens:
+        return 0.0
+    return len(topic_tokens & article_tokens) / max(1, len(topic_tokens | article_tokens))
+
+
+def find_story_match(
+    topic: dict[str, Any],
+    source_articles: list[dict[str, Any]],
+    recent: list[dict[str, Any]],
+) -> dict[str, Any]:
+    topic_text = " ".join([
+        topic.get("topic_title") or "",
+        topic.get("rationale") or "",
+        " ".join((a.get("title") or "") for a in source_articles),
+    ])
+    scored = []
+    category = topic.get("category") or ""
+    for article in recent:
+        raw_overlap = _article_similarity(topic_text, category, article)
+        category_bonus = 0.08 if category and article.get("category") == category else 0.0
+        scored.append((raw_overlap + category_bonus, raw_overlap, article))
+
+    matches = [
+        a
+        for score, raw_overlap, a in sorted(scored, key=lambda item: item[0], reverse=True)
+        if score >= STORY_MATCH_THRESHOLD and raw_overlap >= STORY_RAW_OVERLAP_THRESHOLD
+    ]
+    matches = matches[:MAX_PREVIOUS_ARTICLES]
+
+    if not matches:
+        return {
+            "id": _story_id_from_title(topic.get("topic_title") or ""),
+            "type": "standalone",
+            "previousArticles": [],
+        }
+
+    top = matches[0]
+    story = top.get("story") or {}
+    return {
+        "id": story.get("id") or _story_id_from_title(top.get("title") or topic.get("topic_title") or ""),
+        "type": "update",
+        "previousArticles": [
+            {
+                "slug": a.get("slug"),
+                "title": a.get("title"),
+                "publishedAt": a.get("publishedAt"),
+                "category": a.get("category"),
+                "summaryEn": ((a.get("summary") or {}).get("en") or ""),
+            }
+            for a in matches
+            if a.get("slug") and a.get("title") and a.get("publishedAt")
+        ],
+    }
+
+
+def format_story_context_for_prompt(story: dict[str, Any]) -> str:
+    previous = story.get("previousArticles") or []
+    if not previous:
+        return (
+            "This appears to be a fresh standalone story for this site. "
+            "Write normal background, but avoid pretending it is the first time the event has ever happened."
+        )
+
+    lines = [
+        "This appears to be an update to recent site coverage.",
+        "Write the article as an UPDATE: lead with today's new development, briefly connect it to prior coverage, and avoid repeating old background at length.",
+        "Previous site articles:",
+    ]
+    for article in previous:
+        summary = article.get("summaryEn") or ""
+        if len(summary) > 260:
+            summary = summary[:257] + "..."
+        lines.append(
+            f"- {article.get('title')} ({article.get('publishedAt')}, slug: {article.get('slug')})\n"
+            f"  Summary: {summary}"
+        )
+    return "\n".join(lines)
+
+
+# =============================================================================
 # Stage runners (each calls run_stage with the right prompt + validator)
 # =============================================================================
 
 
-def stage_topic_selection(headlines: list[dict], log: Callable[[str], None]) -> StageOutcome:
+def stage_topic_selection(
+    headlines: list[dict],
+    recent_articles: list[dict[str, Any]],
+    log: Callable[[str], None],
+) -> StageOutcome:
     headlines_block = prompts.format_headlines_for_topic_selection(headlines)
+    recent_context_block = format_recent_context_for_prompt(recent_articles)
     prompt_text = prompts.render(
-        prompts.TOPIC_SELECTION_PROMPT, headlines_block=headlines_block
+        prompts.TOPIC_SELECTION_PROMPT,
+        headlines_block=headlines_block,
+        recent_context_block=recent_context_block,
     )
     return run_stage(
         "topic_selection",
@@ -446,14 +621,19 @@ def stage_topic_selection(headlines: list[dict], log: Callable[[str], None]) -> 
 
 
 def stage_article_synthesis(
-    topic: dict, source_articles: list[dict], log: Callable[[str], None]
+    topic: dict,
+    source_articles: list[dict],
+    story_context: dict[str, Any],
+    log: Callable[[str], None],
 ) -> StageOutcome:
     src_block = prompts.format_source_articles_for_synthesis(source_articles)
+    story_context_block = format_story_context_for_prompt(story_context)
     prompt_text = prompts.render(
         prompts.ARTICLE_SYNTHESIS_PROMPT,
         topic_title=topic["topic_title"],
         category=topic["category"],
         source_articles_block=src_block,
+        story_context_block=story_context_block,
     )
     source_names = [sa["source"] for sa in source_articles]
     return run_stage(
@@ -525,6 +705,7 @@ def assemble_article(
     quiz_parsed: dict,
     key_terms_parsed: dict,
     source_articles: list[dict],
+    story: dict[str, Any],
     when: datetime,
 ) -> dict:
     en_paragraphs = split_paragraphs(synthesis_parsed["body"])
@@ -588,6 +769,7 @@ def assemble_article(
         "readingLevel": "B1-B2",
         "keyTerms": key_terms_out,
         "sources": sources,
+        "story": story,
         "quiz": quiz_out,
         "aiGenerated": True,
         "aiModel": f"{synthesis_outcome.provider}/{synthesis_outcome.model}",
@@ -603,6 +785,7 @@ def assemble_article(
 def process_topic(
     topic: dict,
     all_raw: list[dict],
+    recent_articles: list[dict[str, Any]],
     when: datetime,
     log: Callable[[str], None],
 ) -> dict | None:
@@ -613,8 +796,15 @@ def process_topic(
         return None
 
     log(f"  📚 來源：{len(source_articles)} 篇")
+    story = find_story_match(topic, source_articles, recent_articles)
+    if story["type"] == "update":
+        prev_titles = ", ".join(a["title"] for a in story.get("previousArticles", [])[:2])
+        log(f"  🔁 追蹤故事：{story['id']} · update of {prev_titles}")
+    else:
+        log(f"  🆕 新故事線：{story['id']}")
+
     log("  📝 article_synthesis ...")
-    synthesis_outcome = stage_article_synthesis(topic, source_articles, log)
+    synthesis_outcome = stage_article_synthesis(topic, source_articles, story, log)
     synthesis = synthesis_outcome.parsed
     en_paragraphs = split_paragraphs(synthesis["body"])
     log(f"  ✓ 完成：{synthesis_outcome.duration_sec:.0f}s · "
@@ -650,6 +840,7 @@ def process_topic(
         quiz_parsed=quiz_outcome.parsed,
         key_terms_parsed=key_terms_outcome.parsed,
         source_articles=source_articles,
+        story=story,
         when=when,
     )
 
@@ -689,12 +880,14 @@ def run(args: argparse.Namespace) -> int:
         print(f"❌ {e}", file=sys.stderr)
         return 1
     print(f"✓ 載入 {len(raw)} 篇候選文章")
+    recent_articles = load_recent_articles(today)
+    print(f"✓ 載入最近 {len(recent_articles)} 篇站內文章作為連續事件脈絡")
     print()
 
     # Stage 1: topic selection
     print("🎯 步驟 1/4：選題（topic_selection）")
     try:
-        topic_outcome = stage_topic_selection(raw, log=print)
+        topic_outcome = stage_topic_selection(raw, recent_articles, log=print)
     except StageFailure as e:
         print(f"\n❌ 選題階段失敗：{e}", file=sys.stderr)
         for h in e.history[-3:]:
@@ -722,7 +915,7 @@ def run(args: argparse.Namespace) -> int:
     for i, topic in enumerate(topics, 1):
         print(f"[{i}/{len(topics)}] {topic['topic_title']} ({topic['category']})")
         try:
-            article = process_topic(topic, raw, today, log=print)
+            article = process_topic(topic, raw, recent_articles, today, log=print)
             if article is None:
                 failures.append((topic, "no source articles matched"))
                 continue

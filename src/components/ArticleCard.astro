@@ -39,6 +39,16 @@ const cat = CATEGORY_LABELS[article.category];
     </time>
     <span>·</span>
     <span>{article.wordCount} words</span>
+    {
+      article.story?.type === "update" && (
+        <>
+          <span>·</span>
+          <span class="inline-flex items-center rounded bg-sky-50 dark:bg-sky-900/30 px-1.5 py-0.5 text-sky-700 dark:text-sky-300">
+            Update
+          </span>
+        </>
+      )
+    }
   </div>
   <h2
     class="text-lg font-semibold leading-snug text-stone-900 dark:text-stone-100 group-hover:underline"

@@ -48,6 +48,26 @@ export interface Source {
   publishedAt: string;
 }
 
+export interface PreviousArticle {
+  slug: string;
+  title: string;
+  publishedAt: string;
+  category: Category;
+  summaryEn?: string;
+}
+
+export interface StoryInfo {
+  id: string;
+  type: "standalone" | "update";
+  previousArticles: PreviousArticle[];
+}
+
+export interface ArticleSeriesInfo {
+  id: string;
+  part: number;
+  totalParts: number;
+}
+
 export type QuizType = "detail" | "inference" | "vocabulary" | "main_idea";
 
 export interface QuizQuestion {
@@ -72,6 +92,8 @@ export interface Article {
   readingLevel: string;
   keyTerms: KeyTerm[];
   sources: Source[];
+  story?: StoryInfo;
+  series?: ArticleSeriesInfo;
   quiz: QuizQuestion[];
   aiGenerated: boolean;
   aiModel: string;

@@ -1,0 +1,70 @@
+---
+export const prerender = true;
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { formatStoryUpdatedAt, loadStories } from "../../lib/stories";
+
+const stories = loadStories();
+const statusLabel = {
+  active: "更新中",
+  complete: "已完成",
+  paused: "暫停",
+};
+---
+
+<BaseLayout
+  title="追蹤專題"
+  description="用 4-5 篇文章理解一條長期發展的新聞故事"
+>
+  <section class="max-w-5xl mx-auto px-4 pt-10 pb-6">
+    <p class="text-sm text-stone-500 dark:text-stone-400">追蹤 · Stories</p>
+    <h1 class="mt-1 text-2xl md:text-3xl font-bold tracking-tight">
+      用一組文章讀懂一條新聞線
+    </h1>
+    <p class="mt-2 max-w-3xl text-stone-600 dark:text-stone-400 leading-relaxed">
+      這裡收錄不是單日新聞，而是值得慢慢理解的長期議題。每個追蹤專題會整理 4-5 篇文章，從背景、轉折到最新發展，幫你建立完整脈絡。
+    </p>
+  </section>
+
+  <section class="max-w-5xl mx-auto px-4 pb-16">
+    {
+      stories.length === 0 ? (
+        <div class="rounded-md border border-dashed border-stone-300 dark:border-stone-700 p-8 text-center text-stone-500">
+          目前還沒有追蹤專題。
+        </div>
+      ) : (
+        <div class="grid gap-4 md:grid-cols-2">
+          {stories.map((story) => (
+            <a
+              href={`/stories/${story.id}/`}
+              class="group block rounded-md border border-stone-200 dark:border-stone-800 p-5 hover:border-stone-400 dark:hover:border-stone-600 hover:bg-stone-50/60 dark:hover:bg-stone-900/30 transition"
+            >
+              <div class="flex items-center gap-2 text-xs text-stone-500 dark:text-stone-400 flex-wrap">
+                <span class="inline-flex rounded bg-stone-100 dark:bg-stone-800 px-2 py-0.5 text-stone-700 dark:text-stone-300">
+                  {story.categoryLabel.zh} · {story.categoryLabel.en}
+                </span>
+                <span>·</span>
+                <span>{statusLabel[story.status]}</span>
+                <span>·</span>
+                <span>{story.resolvedArticles.length} 篇</span>
+              </div>
+              <h2 class="mt-3 text-xl font-semibold leading-snug text-stone-900 dark:text-stone-100 group-hover:underline">
+                {story.title}
+              </h2>
+              {story.subtitle && (
+                <p class="mt-1 text-sm text-stone-600 dark:text-stone-400">
+                  {story.subtitle}
+                </p>
+              )}
+              <p class="mt-3 text-sm leading-relaxed text-stone-600 dark:text-stone-400 line-clamp-3">
+                {story.description}
+              </p>
+              <p class="mt-4 text-xs text-stone-500 dark:text-stone-400">
+                最近更新：{formatStoryUpdatedAt(story.updatedAt)}
+              </p>
+            </a>
+          ))}
+        </div>
+      )
+    }
+  </section>
+</BaseLayout>

@@ -32,6 +32,17 @@ const isActive = (href: string) =>
           ))
         }
         <a
+          href="/stories/"
+          class:list={[
+            "transition-colors hover:text-stone-900 dark:hover:text-stone-100",
+            isActive("/stories")
+              ? "text-stone-900 dark:text-stone-100 font-medium"
+              : "text-stone-500 dark:text-stone-400",
+          ]}
+        >
+          追蹤
+        </a>
+        <a
           href="/about/"
           class:list={[
             "transition-colors hover:text-stone-900 dark:hover:text-stone-100",
@@ -126,6 +137,17 @@ const isActive = (href: string) =>
           </a>
         ))
       }
+      <a
+        href="/stories/"
+        class:list={[
+          "transition-colors",
+          isActive("/stories")
+            ? "text-stone-900 dark:text-stone-100 font-medium"
+            : "text-stone-500 dark:text-stone-400",
+        ]}
+      >
+        追蹤
+      </a>
       <a
         href="/about/"
         class:list={[

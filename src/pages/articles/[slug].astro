@@ -14,6 +14,7 @@ import {
   formatDateTime,
   loadArticles,
 } from "../../lib/articles";
+import { getStoriesForArticle } from "../../lib/stories";
 
 export function getStaticPaths() {
   return loadArticles().map((article) => ({
@@ -24,6 +25,7 @@ export function getStaticPaths() {
 
 const { article } = Astro.props;
 const cat = CATEGORY_LABELS[article.category];
+const articleStories = getStoriesForArticle(article.slug);
 ---
 
 <BaseLayout title={article.title} description={article.summary.en}>
@@ -84,6 +86,67 @@ const cat = CATEGORY_LABELS[article.category];
         {article.summary.zh}
       </p>
     </section>
+
+    {
+      articleStories.length > 0 && (
+        <section class="mt-4 rounded-md border border-emerald-200 dark:border-emerald-900 bg-emerald-50/60 dark:bg-emerald-950/20 p-4">
+          <p class="text-xs uppercase tracking-wide text-emerald-700 dark:text-emerald-300 mb-2">
+            Stories · 追蹤專題
+          </p>
+          <ul class="space-y-2">
+            {articleStories.map((story) => (
+              <li class="text-sm">
+                <a
+                  href={`/stories/${story.id}/`}
+                  class="font-medium text-stone-800 dark:text-stone-100 hover:underline"
+                >
+                  {story.title}
+                </a>
+                <span class="text-stone-500 dark:text-stone-400">
+                  {" "}
+                  · {story.resolvedArticles.length} 篇閱讀路徑
+                </span>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+
+    {
+      article.story?.type === "update" &&
+        article.story.previousArticles.length > 0 && (
+          <section class="mt-4 rounded-md border border-sky-200 dark:border-sky-900 bg-sky-50/60 dark:bg-sky-950/20 p-4">
+            <p class="text-xs uppercase tracking-wide text-sky-700 dark:text-sky-300 mb-2">
+              Ongoing story · 追蹤中的新聞
+            </p>
+            <p class="text-sm text-stone-700 dark:text-stone-300 mb-3">
+              This article follows earlier coverage on the same developing story.
+            </p>
+            <ul class="space-y-2">
+              {article.story.previousArticles.map((prev) => (
+                <li class="text-sm">
+                  <a
+                    href={`/articles/${prev.slug}/`}
+                    class="font-medium text-stone-800 dark:text-stone-100 hover:underline"
+                  >
+                    {prev.title}
+                  </a>
+                  <span class="text-stone-500 dark:text-stone-400">
+                    {" "}
+                    · {formatDate(prev.publishedAt, "zh")}
+                  </span>
+                  {prev.summaryEn && (
+                    <p class="mt-0.5 text-xs text-stone-500 dark:text-stone-400 line-clamp-2">
+                      {prev.summaryEn}
+                    </p>
+                  )}
+                </li>
+              ))}
+            </ul>
+          </section>
+        )
+    }
 
     {
       article.keyTerms.length > 0 && (

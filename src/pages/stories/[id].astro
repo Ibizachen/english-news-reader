@@ -1,0 +1,95 @@
+---
+export const prerender = true;
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { formatDate } from "../../lib/articles";
+import { formatStoryUpdatedAt, loadStories } from "../../lib/stories";
+
+export function getStaticPaths() {
+  return loadStories().map((story) => ({
+    params: { id: story.id },
+    props: { story },
+  }));
+}
+
+const { story } = Astro.props;
+const statusLabel = {
+  active: "更新中",
+  complete: "已完成",
+  paused: "暫停",
+};
+---
+
+<BaseLayout title={story.title} description={story.description}>
+  <article class="max-w-4xl mx-auto px-4 pt-10 pb-16">
+    <a
+      href="/stories/"
+      class="text-sm text-stone-500 dark:text-stone-400 hover:text-stone-900 dark:hover:text-stone-100 hover:underline"
+    >
+      ← 回到追蹤專題
+    </a>
+
+    <header class="mt-6">
+      <div class="flex items-center gap-2 text-xs text-stone-500 dark:text-stone-400 flex-wrap">
+        <span class="inline-flex rounded bg-stone-100 dark:bg-stone-800 px-2 py-0.5 text-stone-700 dark:text-stone-300">
+          {story.categoryLabel.zh} · {story.categoryLabel.en}
+        </span>
+        <span>·</span>
+        <span>{statusLabel[story.status]}</span>
+        <span>·</span>
+        <span>{story.resolvedArticles.length} 篇</span>
+      </div>
+      <h1 class="mt-3 text-3xl md:text-4xl font-bold tracking-tight leading-tight">
+        {story.title}
+      </h1>
+      {story.subtitle && (
+        <p class="mt-2 text-lg text-stone-600 dark:text-stone-400">
+          {story.subtitle}
+        </p>
+      )}
+      <p class="mt-4 max-w-3xl text-stone-700 dark:text-stone-300 leading-relaxed">
+        {story.description}
+      </p>
+      <p class="mt-3 text-xs text-stone-500 dark:text-stone-400">
+        最近更新：{formatStoryUpdatedAt(story.updatedAt)}
+        {story.cadence && <span> · {story.cadence}</span>}
+      </p>
+    </header>
+
+    <section class="mt-10 border-t border-stone-200 dark:border-stone-800 pt-8">
+      <h2 class="text-xl font-semibold mb-5">閱讀順序 · Reading path</h2>
+      <ol class="space-y-4">
+        {story.resolvedArticles.map((item) => (
+          <li class="rounded-md border border-stone-200 dark:border-stone-800 p-4">
+            <div class="flex items-center gap-2 text-xs text-stone-500 dark:text-stone-400 flex-wrap">
+              <span class="font-medium text-stone-700 dark:text-stone-300">
+                {item.label || `Part ${item.part}`}
+              </span>
+              <span>·</span>
+              <time datetime={item.article.publishedAt}>
+                {formatDate(item.article.publishedAt, "zh")}
+              </time>
+              <span>·</span>
+              <span>{item.article.wordCount} words</span>
+            </div>
+            <h3 class="mt-2 text-lg font-semibold leading-snug">
+              <a
+                href={`/articles/${item.article.slug}/`}
+                class="text-stone-900 dark:text-stone-100 hover:underline"
+              >
+                {item.article.title}
+              </a>
+            </h3>
+            {item.note && (
+              <p class="mt-2 text-sm text-stone-600 dark:text-stone-400 leading-relaxed">
+                {item.note}
+              </p>
+            )}
+            <p class="mt-2 text-sm text-stone-600 dark:text-stone-400 leading-relaxed line-clamp-3">
+              {item.article.summary.en}
+            </p>
+          </li>
+        ))}
+      </ol>
+    </section>
+  </article>
+</BaseLayout>
