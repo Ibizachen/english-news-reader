@@ -40,19 +40,19 @@ jobs:
       - name: Install Python dependencies
         run: uv sync
 
-      # 把雲端用的 AI 設定寫進去（gemini-3.1-flash-lite-preview 主、gemini-2.5-flash 備）
+      # 把雲端用的 AI 設定寫進去（Gemini Free Tier：3.1 Flash Lite，500 RPD）
       # 不用 admin UI 的本機設定，因為 data/config/ai_settings.json 在 .gitignore 裡
-      - name: Configure pipeline for cloud (Gemini Flash Lite Preview)
+      - name: Configure pipeline for cloud (Gemini 3.1 Flash Lite)
         run: |
           mkdir -p data/config
           cat > data/config/ai_settings.json <<'EOF'
           {
             "ai_pipeline": {
-              "topic_selection":      {"provider":"gemini","model":"gemini-3.1-flash-lite-preview","temperature":0.3,"max_tokens":4000,"fallback":{"provider":"gemini","model":"gemini-2.5-flash"}},
-              "article_synthesis":    {"provider":"gemini","model":"gemini-3.1-flash-lite-preview","temperature":0.4,"max_tokens":6000,"fallback":{"provider":"gemini","model":"gemini-2.5-flash"}},
-              "translation":          {"provider":"gemini","model":"gemini-3.1-flash-lite-preview","temperature":0.2,"max_tokens":6000,"fallback":{"provider":"gemini","model":"gemini-2.5-flash"}},
-              "key_terms_extraction": {"provider":"gemini","model":"gemini-3.1-flash-lite-preview","temperature":0.3,"max_tokens":3000,"fallback":{"provider":"gemini","model":"gemini-2.5-flash"}},
-              "quiz_generation":      {"provider":"gemini","model":"gemini-3.1-flash-lite-preview","temperature":0.5,"max_tokens":4000,"fallback":{"provider":"gemini","model":"gemini-2.5-flash"}}
+              "topic_selection":      {"provider":"gemini","model":"gemini-3.1-flash-lite","temperature":0.3,"max_tokens":4000},
+              "article_synthesis":    {"provider":"gemini","model":"gemini-3.1-flash-lite","temperature":0.4,"max_tokens":6000},
+              "translation":          {"provider":"gemini","model":"gemini-3.1-flash-lite","temperature":0.2,"max_tokens":6000},
+              "key_terms_extraction": {"provider":"gemini","model":"gemini-3.1-flash-lite","temperature":0.3,"max_tokens":3000},
+              "quiz_generation":      {"provider":"gemini","model":"gemini-3.1-flash-lite","temperature":0.5,"max_tokens":4000}
             },
             "global": {"json_retry_max":3,"stage_failure_isolation":true,"cost_cap_usd_per_run":5.0}
           }
