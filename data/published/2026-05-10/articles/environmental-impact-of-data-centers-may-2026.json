@@ -1,0 +1,134 @@
+{
+  "id": "2026-05-10-environmental-impact-of-data-centers",
+  "slug": "environmental-impact-of-data-centers-may-2026",
+  "publishedAt": "2026-05-10T23:07:49.437780Z",
+  "category": "technology",
+  "title": "The Hidden Cost of Our Digital World: The Rise of Data Centers",
+  "subtitle": "As our reliance on the internet grows, the massive buildings that power our digital lives face new challenges and security risks.",
+  "summary": {
+    "en": "Data centers are essential buildings that store and process the massive amounts of information we use every day. These facilities have become the backbone of modern society, supporting everything from banking to health systems. However, their rapid growth has brought significant challenges, including concerns about their environmental impact and security. Because they hold so much data, they are now prime targets for cyberattacks and military threats. Governments are now working on new strategies to protect these vital hubs while trying to balance their energy needs.",
+    "zh": "資料中心是儲存並處理我們每日使用之海量資訊的必要建築。這些設施已成為現代社會的骨幹，支援從銀行業務到醫療系統等各項事務。然而，其快速成長帶來了重大挑戰，包括對環境影響與安全性的擔憂。由於它們掌握大量資料，現在已成為網路攻擊與軍事威脅的主要目標。各國政府正致力於制定新策略，在保護這些關鍵樞紐的同時，試圖平衡其能源需求。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "In the small German town of Dietzenbach, residents are used to quiet surroundings and a local forest swimming pool. However, the town has recently become a center for global technology. Google has invested billions of dollars to build a high-performance data center there. This is not an unusual sight in the region; the area around Frankfurt is one of the most important places for data storage in all of Europe. According to Deutsche Welle (DW), there are already 76 such centers operating in the greater Frankfurt region, and thousands more are being built across the globe.",
+      "zh": "在德國小鎮迪岑巴赫（Dietzenbach），居民們早已習慣了寧靜的環境與當地的森林游泳池。然而，這座城鎮近期卻成為了全球科技的中心。Google 投入了數十億美元在此地興建一座高效能資料中心。這在該地區並非罕見景象；法蘭克福（Frankfurt）周邊區域是全歐洲最重要的資料儲存重鎮之一。根據德國之聲（Deutsche Welle，簡稱 DW）報導，大法蘭克福地區目前已有 76 座此類中心在運作，且全球各地還有數千座正在興建中。"
+    },
+    {
+      "id": "p2",
+      "en": "Data centers are large buildings filled with powerful computers that store and process the information we use online. They are the backbone of the modern internet. From streaming high-definition films to managing global financial systems, almost every digital activity relies on these facilities. As artificial intelligence continues to grow, the demand for more server capacity—the ability of computers to handle large amounts of data—has increased significantly. Without these centers, modern life, including transport, healthcare, and power systems, would essentially stop working.",
+      "zh": "資料中心是充滿強大電腦的大型建築，負責儲存並處理我們在網路上使用的資訊。它們是現代網際網路的骨幹。從串流播放高畫質影片到管理全球金融系統，幾乎每一項數位活動都仰賴這些設施。隨著人工智慧持續發展，對於更多伺服器容量（即電腦處理大量資料的能力）的需求已顯著增加。若沒有這些中心，現代生活（包括交通、醫療保健與電力系統）基本上將會停擺。"
+    },
+    {
+      "id": "p3",
+      "en": "Because of their importance, many countries now view data centers as critical infrastructure. This means they are considered essential for the safety and stability of the nation. In March 2026, the German government released a new national strategy to manage this growth. The plan aims to double the country's data center capacity by 2030. According to Deutsche Welle (DW), the government also wants to reduce its reliance on non-European companies, ensuring that the technology powering its economy remains under local control.",
+      "zh": "由於其重要性，許多國家現在將資料中心視為關鍵基礎設施。這意味著它們被認為對於國家的安全與穩定至關重要。2026 年 3 月，德國政府發布了一項管理此類成長的新國家戰略。該計畫旨在於 2030 年前將全國的資料中心容量翻倍。根據德國之聲報導，政府也希望減少對非歐洲企業的依賴，確保推動其經濟的技術能維持在在地掌控之下。"
+    },
+    {
+      "id": "p4",
+      "en": "However, this rapid expansion comes with serious risks. Because so much of our daily lives happens online, these centers have become major targets. Cyberattacks—attempts by hackers to steal or damage digital information—are happening more often than ever. The German Federal Bank reported that it faces more than 5,000 cyberattacks every single minute. To prevent problems, most data centers are heavily guarded with cameras, tall fences, and barbed wire. These security measures are necessary because even a small failure can have huge consequences. In 2021, a fire at a major data center in Strasbourg caused millions of websites to go offline, and many people lost their data forever because their backup files were kept in the same building.",
+      "zh": "然而，這種快速擴張伴隨著嚴重的風險。由於我們日常生活中有極大比例發生在網路上，這些中心已成為主要目標。網路攻擊（駭客試圖竊取或破壞數位資訊的行為）發生的頻率比以往任何時候都高。德國聯邦銀行（German Federal Bank）報告指出，該行每分鐘面臨超過 5,000 次網路攻擊。為了預防問題，大多數資料中心都受到嚴密守衛，配備攝影機、高圍欄與鐵絲網。這些安全措施是必要的，因為即使是小規模的故障也可能造成巨大後果。2021 年，法國史特拉斯堡（Strasbourg）一座大型資料中心發生火災，導致數百萬個網站離線，許多人因為備份檔案存放在同一棟建築內，而永遠失去了他們的資料。"
+    },
+    {
+      "id": "p5",
+      "en": "Beyond digital threats, these buildings have also become targets in physical conflicts. In the war in Ukraine, IT infrastructure has been attacked to stop military operations and disrupt the supply of food and medicine to civilians. Furthermore, Deutsche Welle (DW) noted that data centers in the Persian Gulf have been attacked during conflicts involving Iran, with drones and rockets being used to damage facilities in Bahrain and the United Arab Emirates. This shows that the physical location of these centers is now a matter of national security.",
+      "zh": "除了數位威脅之外，這些建築也成為實體衝突中的目標。在烏克蘭戰爭中，資訊科技基礎設施遭到攻擊，目的是為了阻礙軍事行動並中斷對平民的糧食與藥品供應。此外，德國之聲指出，波斯灣地區的資料中心在涉及伊朗的衝突中也曾遭到攻擊，無人機與火箭被用來破壞位於巴林（Bahrain）與阿拉伯聯合大公國（United Arab Emirates）的設施。這顯示這些中心的實體位置現在已成為國家安全問題。"
+    },
+    {
+      "id": "p6",
+      "en": "As we look to the future, the challenge for governments and tech companies is clear. They must find a way to keep the internet running smoothly while protecting these sites from both hackers and military threats. The growth of data centers is a sign of our progress, but it also highlights how vulnerable our digital world has become. As the world becomes more connected, the protection of these silent giants will remain a top priority for leaders around the world.",
+      "zh": "展望未來，政府與科技公司面臨的挑戰顯而易見。他們必須找到方法，在保護這些站點免受駭客與軍事威脅的同時，維持網際網路順暢運作。資料中心的成長是我們進步的象徵，但也凸顯了我們的數位世界變得多麼脆弱。隨著世界連結日益緊密，保護這些沉默的巨人將持續成為全球領導者的首要任務。"
+    }
+  ],
+  "wordCount": 642,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "backbone",
+      "definitionEn": "The most important part of a system that provides support and strength.",
+      "definitionZh": "骨幹、支柱，指系統中最重要的核心部分。",
+      "partOfSpeech": "noun (metaphorical)",
+      "noteZh": "常見指生理上的「脊椎」，這裡比喻為網路運作的核心支撐。文中：They are the backbone of the modern internet."
+    },
+    {
+      "term": "go offline",
+      "definitionEn": "To stop working or become unavailable on the internet.",
+      "definitionZh": "離線、斷線、無法連線。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見指人「下線」，這裡指網站或系統停止運作。文中：In 2021, a fire at a major data center in Strasbourg caused millions of websites to go offline, and many people lost their data forever because their backup files were kept in the same building."
+    },
+    {
+      "term": "look to",
+      "definitionEn": "To think about or consider the future.",
+      "definitionZh": "展望、考慮（未來）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見指「看向某處」，這裡指對未來的規劃與思考。文中：As we look to the future, the challenge for governments and tech companies is clear."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Deutsche Welle (DW) Top",
+      "url": "https://www.dw.com/en/data-centers-tech-boom-with-downsides/a-77106191?maca=en-rss-en-top-1022-rdf",
+      "title": "Data centers: Tech boom with downsides",
+      "publishedAt": "2026-05-10T06:40:00Z"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what was a specific consequence of the 2021 fire at a data center in Strasbourg?",
+      "options": {
+        "A": "The German government decided to limit the number of data centers.",
+        "B": "Millions of websites became inaccessible.",
+        "C": "The facility was completely rebuilt with higher security fences.",
+        "D": "Military operations in the region were temporarily disrupted."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據第四段末尾提到，2021 年斯特拉斯堡數據中心的火災導致數百萬個網站離線（go offline），且許多人的資料因備份檔也存放在同一棟建築而永久遺失。選項 A 與文章提到的德國政府策略無關；選項 C 文章未提及重建細節；選項 D 則是關於戰爭衝突的例子，並非該火災的後果。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the German government's 2026 national strategy regarding data centers?",
+      "options": {
+        "A": "It aims to move all data centers to rural areas like Dietzenbach.",
+        "B": "It prioritizes international partnerships over local infrastructure.",
+        "C": "It seeks to increase digital independence from non-European corporations.",
+        "D": "It focuses primarily on preventing cyberattacks from hackers."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第三段，德國政府的計畫目標是將數據中心容量翻倍，並明確提到要減少對「非歐洲公司」的依賴，以確保科技發展維持在「本地控制」之下。選項 A 文章未提及要遷移到鄉村；選項 B 與文章內容相反，政府反而想減少對外國公司的依賴；選項 D 雖然提到網路攻擊，但並非該策略的核心目標，該策略主要是為了容量擴張與自主權。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the author mean by referring to data centers as 'silent giants'?",
+      "options": {
+        "A": "They are massive facilities that operate quietly but are essential to modern life.",
+        "B": "They are mysterious buildings that people are afraid to approach.",
+        "C": "They are companies that do not advertise their services to the public.",
+        "D": "They are outdated pieces of technology that are no longer useful."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。文中將數據中心比喻為「silent giants」，是因為它們雖然外觀巨大（giants），且在現代生活中扮演支撐網路與基礎設施的關鍵角色（backbone of the modern internet），但它們通常在背景默默運作，不為大眾所察覺（silent）。選項 B 錯誤，因為重點不在於神秘感或恐懼；選項 C 與商業廣告無關；選項 D 錯誤，因為文章強調它們是現代科技進步的象徵，而非過時的技術。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article?",
+      "options": {
+        "A": "Germany is the safest place in the world for global data storage.",
+        "B": "Data centers are essential for modern life but face significant physical and digital vulnerabilities.",
+        "C": "The growth of artificial intelligence is causing too many problems for local communities.",
+        "D": "Cyberattacks are the only major threat to the future of the internet."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。全文從數據中心的重要性（第二段）出發，接著討論政府的擴張策略（第三段），再深入探討其面臨的網路攻擊風險（第四段）與物理性軍事威脅（第五段），最後總結指出我們必須在維持網路運作與保護這些脆弱設施之間取得平衡。選項 A 過於偏頗；選項 C 非文章主旨；選項 D 錯誤，因為文章同時強調了物理性軍事威脅，而非僅限於網路攻擊。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite-preview",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}

@@ -1,0 +1,146 @@
+{
+  "id": "2026-05-09-google-developers-misstate-carbon-emissions",
+  "slug": "google-developers-misstate-carbon-emissions-may-2026",
+  "publishedAt": "2026-05-09T23:03:45.067027Z",
+  "category": "energy",
+  "title": "Concerns Raised Over Carbon Emission Data for New UK Datacentres",
+  "subtitle": "Experts warn that calculations for major AI projects may hide their true environmental impact.",
+  "summary": {
+    "en": "Developers working for Google have faced criticism for miscalculating the carbon emissions of new UK datacentres. Planning documents reportedly compared one year of project emissions against a five-year national carbon budget. This error makes the environmental impact appear five times smaller than it actually is. Other companies, such as Greystoke, have been accused of using similar calculation methods. Local officials are now expected to review these figures before granting final approval.",
+    "zh": "為 Google 工作的開發商因誤算英國新資料中心的碳排放量而面臨批評。據報導，規劃文件將專案一年的排放量與五年的國家碳預算進行了比較，導致環境影響看起來比實際小了五倍。其他公司如 Greystoke 也被指控使用類似的計算方式。地方官員預計在核准最終許可前，將重新審查這些數據。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Large-scale technology projects are facing new scrutiny in the United Kingdom as experts question the accuracy of their environmental reports. According to The Guardian, developers working for Google have significantly misstated how much carbon two proposed artificial intelligence (AI) datacentres will contribute to the nation’s total emissions. These facilities are massive buildings that house the powerful computers needed to run AI services and store digital information.",
+      "zh": "大型科技專案在英國正面臨新的審查，專家質疑其環境報告的準確性。根據《衛報》（The Guardian）報導，為 Google 工作的開發商嚴重誤報了兩座擬建的人工智慧（AI）資料中心將對全國總排放量造成的碳影響。這些設施是巨大的建築物，用以容納執行人工智慧服務及儲存數位資訊所需的強大電腦設備。"
+    },
+    {
+      "id": "p2",
+      "en": "To build these datacentres—one in Thurrock and another at an airfield in North Weald—developers must submit planning documents to local authorities. These documents are required to show how much carbon the projects will emit as a portion of the UK’s total carbon budget. A carbon budget is a limit on the total amount of greenhouse gases a country can release over a specific period to meet climate goals. However, researchers at the tech justice group Foxglove found that the developers appeared to compare one year of their project’s emissions against the UK’s entire five-year carbon budget. By doing this, the developers made the environmental impact of their projects look five times smaller than it really is.",
+      "zh": "為了興建這些資料中心——一座位於瑟羅克（Thurrock），另一座位於北威爾德（North Weald）的機場——開發商必須向地方當局提交規劃文件。這些文件必須說明該專案的碳排放量占英國碳預算總額的比例。碳預算指的是一個國家在特定時期內為達成氣候目標，所能排放的溫室氣體總量上限。然而，科技正義組織「狐狸手套」（Foxglove）的研究人員發現，開發商似乎將其專案一年的排放量與英國五年的碳預算總額進行比較。透過這種方式，開發商將其專案對環境的影響縮小至實際值的五分之一。"
+    },
+    {
+      "id": "p3",
+      "en": "Tim Squirrell, the head of strategy for Foxglove, stated that Google has serious questions to answer regarding these figures. He noted that unless the company can explain these errors, it appears they are misleading the public and local councils about the pollution their facilities will create. The Guardian reported that a similar calculation error was found in documents for a large project in north Lincolnshire, known as the Elsham Tech Park, which is being developed by a company called Greystoke. When combined, these three projects would account for more than 1% of the UK’s carbon budget in 2033, an amount equal to the total emissions of a mid-sized city like Bristol.",
+      "zh": "「狐狸手套」的策略負責人提姆·斯奎瑞爾（Tim Squirrell）表示，Google 必須針對這些數據提出嚴肅的解釋。他指出，除非該公司能說明這些錯誤，否則他們似乎是在誤導大眾與地方議會，隱瞞其設施將造成的污染。《衛報》報導稱，在林肯郡北部一項名為「艾爾沙姆科技園區」（Elsham Tech Park）的大型專案文件中，也發現了類似的計算錯誤，該園區由一家名為 Greystoke 的公司開發。這三項專案合計將佔 2033 年英國碳預算的 1% 以上，相當於布里斯托（Bristol）等中型城市的總排放量。"
+    },
+    {
+      "id": "p4",
+      "en": "These findings highlight a growing problem regarding the environmental footprint of AI development in the UK. The Guardian noted that there is already a large gap between the government’s plan to reduce carbon emissions and its roadmap for AI computing. In fact, different government departments have provided very different estimates for how much energy these datacentres will actually use, with some estimates differing by a factor of ten. This confusion makes it difficult for the public and policymakers to understand the true cost of building such large digital infrastructure.",
+      "zh": "這些發現凸顯了英國人工智慧發展在環境足跡方面日益嚴重的問題。《衛報》指出，政府的減碳計畫與其人工智慧運算藍圖之間已存在巨大落差。事實上，不同的政府部門對於這些資料中心實際將消耗的能源提供了截然不同的估算，部分估算值的差距甚至高達十倍。這種混亂使得大眾與決策者難以釐清興建此類大型數位基礎設施的真實代價。"
+    },
+    {
+      "id": "p5",
+      "en": "Specific examples show the scale of the potential miscalculation. For the Thurrock project, developers claimed it would account for 0.033% of the UK’s carbon budget between 2028 and 2032. However, the actual figure is 0.165%. Similarly, the North Weald project claimed it would emit 0.043% of the budget from 2033 to 2037, while the real figure is 0.215%. For the Elsham Tech Park, the stated figure was 0.1043%, but the actual impact is 0.5215%.",
+      "zh": "具體的例子顯示了潛在計算錯誤的規模。針對瑟羅克專案，開發商聲稱其將佔 2028 年至 2032 年間英國碳預算的 0.033%，但實際數字為 0.165%。同樣地，北威爾德專案聲稱 2033 年至 2037 年間的排放量僅佔預算的 0.043%，而真實數字為 0.215%。至於艾爾沙姆科技園區，申報數字為 0.1043%，但實際影響高達 0.5215%。"
+    },
+    {
+      "id": "p6",
+      "en": "In response to these concerns, the developers involved have argued that their projects will have a minor impact on the UK’s climate goals. Some, like the team behind the Elsham Tech Park, have pointed to efforts to improve local nature, such as adding bird and bat boxes or planting wildflowers, as evidence of their commitment to the environment. All three developments are officially described as having only a \"minor adverse\" impact on the country's climate targets.",
+      "zh": "針對這些疑慮，相關開發商辯稱其專案對英國氣候目標的影響微乎其微。部分開發商，例如艾爾沙姆科技園區背後的團隊，則以改善當地自然環境的努力作為其對環境承諾的證據，例如增設鳥巢與蝙蝠屋，或是種植野花。這三項開發案在官方文件中皆被描述為對國家氣候目標僅有「輕微負面」影響。"
+    },
+    {
+      "id": "p7",
+      "en": "Local officials are now taking a closer look at these claims. Steven Heather, a local councillor, explained that the North Weald project has only received outline planning permission so far. He noted that the planning department will carefully review what Google has proposed. If there is a serious error in the calculations, the developers will be required to return with the correct, updated figures before the project can move forward. As the demand for AI grows, the pressure on companies to be transparent about their energy use and carbon output is likely to increase, making accurate reporting more important than ever.",
+      "zh": "地方官員目前正密切審視這些說法。地方議員史蒂芬·海瑟（Steven Heather）解釋，北威爾德專案目前僅獲得初步規劃許可。他指出，規劃部門將仔細審查 Google 提出的方案。若計算中存在嚴重錯誤，開發商必須在專案推進前提交正確且更新後的數據。隨著對人工智慧的需求增長，企業在能源使用與碳排放方面必須透明化的壓力可能會隨之增加，這使得精確的報告比以往任何時候都更加重要。"
+    }
+  ],
+  "wordCount": 712,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "scrutiny",
+      "definitionEn": "Critical observation or examination.",
+      "definitionZh": "審查、仔細檢查。",
+      "partOfSpeech": "noun",
+      "noteZh": "此詞在新聞報導中常見，指對某事進行嚴格的檢視。文中：Large-scale technology projects are facing new scrutiny in the United Kingdom as experts question the accuracy of their environmental reports."
+    },
+    {
+      "term": "account for",
+      "definitionEn": "To form a particular amount or part of something.",
+      "definitionZh": "佔（比例、數量）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見意思為「解釋」，但在數據描述中常指佔比。文中：When combined, these three projects would account for more than 1% of the UK’s carbon budget in 2033, an amount equal to the total emissions of a mid-sized city like Bristol."
+    },
+    {
+      "term": "factor",
+      "definitionEn": "A number by which another number is multiplied or divided to increase or decrease it.",
+      "definitionZh": "倍數。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見意思為「因素」，但在數學或數據比較中指「倍數」。文中：In fact, different government departments have provided very different estimates for how much energy these datacentres will actually use, with some estimates differing by a factor of ten."
+    },
+    {
+      "term": "outline",
+      "definitionEn": "Describing a preliminary plan or permission that lacks full detail.",
+      "definitionZh": "初步的、概要的。",
+      "partOfSpeech": "adjective",
+      "noteZh": "常見作名詞（大綱）或動詞（概述），這裡作形容詞修飾許可證。文中：He noted that the North Weald project has only received outline planning permission so far."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Environment",
+      "url": "https://www.theguardian.com/technology/2026/may/09/google-developers-significantly-misstate-carbon-emissions-of-proposed-uk-datacentres",
+      "title": "Google developers significantly misstate carbon emissions of proposed UK datacentres",
+      "publishedAt": "2026-05-09T16:00:01Z"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what specific method did developers use to make their datacentres' environmental impact appear smaller?",
+      "options": {
+        "A": "They excluded the energy required for construction from their final reports.",
+        "B": "They compared one year of project emissions against a five-year national carbon budget.",
+        "C": "They underestimated the total number of computers housed within the facilities.",
+        "D": "They focused only on the emissions of the North Weald site while ignoring the others."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，開發商將其專案一年的碳排放量與英國整個五年的碳預算進行比較，這導致排放影響看起來比實際小了五倍。選項 A 文章未提及；選項 C 雖然提到電腦，但並非計算錯誤的原因；選項 D 是錯誤的，因為開發商對多個專案都使用了類似的計算方式，而非僅針對 North Weald。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the current relationship between the UK government and the AI industry regarding environmental planning?",
+      "options": {
+        "A": "The government has already banned the construction of all new AI datacentres.",
+        "B": "Government departments are working in perfect harmony to monitor AI energy consumption.",
+        "C": "There is a lack of consistency and clarity in how the government assesses the energy needs of AI.",
+        "D": "The government prioritizes AI development over all environmental climate goals."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第四段指出，政府部門對於資料中心能源消耗的估算數據差異極大，甚至達到十倍之差，這顯示政府在評估 AI 能源需求上缺乏一致性與明確的標準。選項 A 與事實不符；選項 B 與文中提到的「混亂」與「差距」矛盾；選項 D 雖然提到政府有發展 AI 的路線圖，但文章並未斷言政府完全忽視氣候目標，僅強調了評估上的困難。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the word 'scrutiny' most likely mean?",
+      "options": {
+        "A": "Critical observation or examination.",
+        "B": "Financial support or investment.",
+        "C": "A formal apology for past mistakes.",
+        "D": "The process of building new infrastructure."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在文章第一段與最後一段提到「scrutiny」時，是指因為環境報告的準確性受到質疑，地方官員與專家正在對這些科技計畫進行嚴格的審查與檢視。選項 B 與文中強調的「質疑」與「監管」語境相反；選項 C 與 D 皆與單字本身的定義無關，且不符合文章中官員對開發商提出要求與審查的上下文意義。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article?",
+      "options": {
+        "A": "The UK is leading the world in sustainable AI technology development.",
+        "B": "Developers are intentionally destroying the environment to build datacentres.",
+        "C": "The rapid growth of AI infrastructure in the UK is raising concerns about transparency and accurate environmental reporting.",
+        "D": "Local councils are refusing to approve any new technology projects due to noise pollution."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。全文的核心在於探討英國 AI 資料中心開發案中，因計算錯誤導致環境影響被低估，進而引發大眾與官員對於開發商透明度及環境評估準確性的質疑。選項 A 與文章批評的負面現況不符；選項 B 過於武斷，文章強調的是「計算錯誤」與「透明度」問題；選項 D 錯誤，文章僅提到官員要求修正數據，並未提及全面拒絕所有科技專案。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite-preview",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}

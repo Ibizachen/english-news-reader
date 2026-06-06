@@ -1,0 +1,147 @@
+{
+  "id": "2026-05-29-startups-pay-to-record-home-chores",
+  "slug": "startups-pay-to-record-home-chores-may-2026",
+  "publishedAt": "2026-05-29T22:14:06.823458Z",
+  "category": "economics",
+  "title": "The New Price of a Clean Home: Your Privacy",
+  "subtitle": "Tech startups are offering free house cleaning in exchange for video data to train robots.",
+  "summary": {
+    "en": "A German startup called MicroAGI is offering free home cleaning services in New York City. In exchange, the company records the cleaners to collect data for training household robots. This trend highlights the growing need for physical-world data in the artificial intelligence industry. While the company promises to protect privacy through blurring, experts remain concerned about data security. Other companies are also exploring similar ways to gather footage of human chores.",
+    "zh": "一家名為 MicroAGI 的新創公司正在紐約市提供免費的居家清潔服務。作為交換，該公司會記錄清潔人員的工作過程，以收集訓練居家機器人的數據。此趨勢凸顯了人工智慧產業對現實世界數據的需求日益增長。儘管該公司承諾透過模糊處理來保護隱私，但專家仍對數據安全感到擔憂。其他公司也在探索類似的方式來收集人類家務活動的影像。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Imagine a stranger coming into your home to clean your kitchen, fold your laundry, and mop your floors for free. It sounds like a dream for anyone who dislikes chores. However, there is a catch. A new tech startup called MicroAGI is offering this service in New York City, but with one major condition: the cleaners must wear cameras to record everything they do. This footage is then used to teach artificial intelligence (AI) how to perform physical tasks in the real world.",
+      "zh": "想像一下，有陌生人來到你家，免費幫你清理廚房、摺疊衣物並拖地。對於討厭做家事的人來說，這聽起來像是夢想成真。然而，這其中有個條件。一家名為 MicroAGI 的新創科技公司正在紐約市提供這項服務，但有一個重大前提：清潔人員必須配戴攝影機，記錄下他們所做的一切。這些影像隨後會被用來教導人工智慧（AI），學習如何在現實世界中執行實體任務。"
+    },
+    {
+      "id": "p2",
+      "en": "According to Ars Technica, the company launched its \"Shift\" app on May 28. The service is part of a larger mission to improve \"embodied AI,\" which refers to machines that can move and interact with physical objects. By recording cleaners as they scrub dishes or dust tables, the company hopes to create a database that will eventually allow robots to do these jobs for us. The Verge reports that this is a difficult challenge because, unlike internet text or images, the physical world is complex. Robots struggle to understand things that humans do naturally, such as picking up an apple or folding clothes.",
+      "zh": "根據科技媒體 Ars Technica 報導，該公司於 5 月 28 日推出了名為「Shift」的應用程式。這項服務是提升「具身智慧」（embodied AI）宏大目標的一部分，該技術是指能移動並與實體物件互動的機器。透過記錄清潔人員刷洗碗盤或擦拭桌面的過程，該公司希望建立一個資料庫，最終讓機器人能代勞這些家務。科技媒體 The Verge 報導指出，這是一項艱鉅的挑戰，因為與網路上的文字或圖片不同，實體世界非常複雜。機器人很難理解人類自然而然就能做到的事情，例如拿起一顆蘋果或摺疊衣物。"
+    },
+    {
+      "id": "p3",
+      "en": "This need for \"real-world data\" has created a new kind of business. Because it is hard to find enough video of people doing housework, companies are getting creative. The Verge notes that while AI models like chatbots were easily trained using data taken from the internet, physical robots require high-quality video of human movement. This has led to a \"bottleneck\"—a situation where progress is slowed down because there is not enough information available. To solve this, some startups are paying people to wear cameras, while others are creating \"data farms\" where workers are paid to repeat simple tasks like folding towels over and over so that sensors can capture every movement.",
+      "zh": "這種對「現實世界數據」的需求催生了一種新型態的商業模式。由於很難取得足夠的人類家務影片，各家公司正發揮創意。The Verge 指出，雖然像聊天機器人這類的人工智慧模型可以輕易利用網路數據進行訓練，但實體機器人需要高品質的人類動作影片。這導致了「瓶頸」的出現，也就是因為缺乏足夠的可用資訊，導致進展受阻。為了克服這一點，一些新創公司開始付費請人配戴攝影機，而另一些公司則建立「數據農場」，支付員工反覆進行摺疊毛巾等簡單任務，以便感測器能捕捉每一個動作。"
+    },
+    {
+      "id": "p4",
+      "en": "Privacy is the biggest concern for many people. The Shift app website claims that it uses advanced technology to automatically blur faces, screens, and personal documents before any data is uploaded to its servers. The company says this process is \"irreversible,\" meaning the information cannot be turned back into a clear image. However, Ars Technica points out that there is no clear way for customers to ask for their videos to be deleted later. It is also not certain if these blurring techniques are enough to keep a person’s home from being identified in the long run.",
+      "zh": "隱私是許多人最擔憂的問題。Shift 應用程式的網站聲稱，在任何數據上傳至伺服器之前，會利用先進技術自動模糊人臉、螢幕畫面及個人文件。該公司表示此過程是「不可逆的」，意味著這些資訊無法被還原成清晰的影像。然而，Ars Technica 指出，客戶目前沒有明確的管道可以要求在事後刪除他們的影片。此外，這些模糊技術是否足以在長期內防止個人的住家被辨識出來，也尚不確定。"
+    },
+    {
+      "id": "p5",
+      "en": "MicroAGI is not the only company interested in this data. In India, a home services platform called Pronto has also been using client homes to record chores like cooking and laundry. This practice has caused a wave of negative reactions in the industry. According to The Verge, some rival companies have stated that they would never record inside a customer's home, arguing that it crosses a line. Meanwhile, other businesses, such as Human Archive, are trying to scale up this process by partnering with workers who wear camera-equipped hats to record their daily activities from their own point of view.",
+      "zh": "MicroAGI 並非唯一對這類數據感興趣的公司。在印度，一個名為 Pronto 的居家服務平台也一直在利用客戶的住家來記錄烹飪和洗衣等家務。這種做法在業界引發了一波負面反應。根據 The Verge 報導，一些競爭對手表示他們絕不會在客戶家中進行錄影，認為這跨越了界線。與此同時，其他企業如 Human Archive，正試圖透過與配戴攝影機帽的員工合作，從他們的第一人稱視角記錄日常活動，藉此擴大此流程的規模。"
+    },
+    {
+      "id": "p6",
+      "en": "What comes next for these robots? Despite the excitement in the tech world, true automation—where a robot can fully manage a household without help—is still a long way off. For now, companies are focused on gathering as much data as possible. While the idea of a robot doing the dishes is appealing, the current method of collecting that data forces homeowners to decide how much of their private life they are willing to share. As these startups expand to other cities like London, the debate over whether the convenience of a free cleaning is worth the loss of privacy will likely continue to grow.",
+      "zh": "這些機器人的未來會如何發展？儘管科技界對此感到興奮，但真正的自動化——即機器人能在無人協助下完全打理家務——仍有很長一段路要走。目前，各家公司正專注於盡可能收集數據。雖然機器人洗碗的概念很吸引人，但目前收集數據的方法迫使屋主必須權衡，他們願意為了這項服務犧牲多少隱私。隨著這些新創公司擴展到倫敦等其他城市，關於免費清潔服務帶來的便利是否值得以犧牲隱私為代價的爭論，預計將會持續升溫。"
+    }
+  ],
+  "wordCount": 648,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "catch",
+      "definitionEn": "A hidden problem or disadvantage in a situation that seems good.",
+      "definitionZh": "隱藏的缺點、陷阱或條件。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（捕捉），這裡作名詞，指隱藏的條件或問題。文中：However, there is a catch."
+    },
+    {
+      "term": "bottleneck",
+      "definitionEn": "A situation that causes progress to slow down or stop.",
+      "definitionZh": "瓶頸；阻礙進展的情況。",
+      "partOfSpeech": "noun",
+      "noteZh": "原意指瓶子的頸部，這裡引申為進展受阻的關鍵點。文中：This has led to a \"bottleneck\"—a situation where progress is slowed down because there is not enough information available."
+    },
+    {
+      "term": "crosses a line",
+      "definitionEn": "To behave in a way that is considered unacceptable or immoral.",
+      "definitionZh": "越界；做出無法接受的行為。",
+      "partOfSpeech": "idiom",
+      "noteZh": "字面意思是跨越界線，這裡指行為超過了道德或社會容忍的限度。文中：According to The Verge, some rival companies have stated that they would never record inside a customer's home, arguing that it crosses a line."
+    },
+    {
+      "term": "scale up",
+      "definitionEn": "To increase the size, amount, or importance of something.",
+      "definitionZh": "擴大規模；增加產量。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見於商業情境，指將某項業務或流程擴大。文中：Meanwhile, other businesses, such as Human Archive, are trying to scale up this process by partnering with workers who wear camera-equipped hats to record their daily activities from their own point of view."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
+      "title": "Startup offers free home cleaning—if it can record it all for robot training",
+      "publishedAt": "2026-05-29T16:16:14Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
+      "title": "Tech companies desperately want to film you doing chores",
+      "publishedAt": "2026-05-29T17:37:43Z"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is the primary technical difficulty in training robots to perform household chores?",
+      "options": {
+        "A": "The lack of available workers willing to wear cameras for data collection.",
+        "B": "The complexity of the physical world compared to internet-based data.",
+        "C": "The inability of current blurring technology to protect personal privacy.",
+        "D": "The high cost of developing robots that can mimic human hand movements."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，文中明確提到機器人學習家務是一項艱鉅的挑戰，因為與網路上的文字或圖片不同，物理世界非常複雜，機器人難以理解人類自然完成的動作。選項 A 錯誤，因為文章提到的是數據取得困難，而非人力不足；選項 C 雖然提到隱私問題，但這不是訓練機器人的技術難點；選項 D 文中並未提及開發機器人的具體成本。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the companies collecting data in people's homes?",
+      "options": {
+        "A": "They are primarily focused on providing high-quality cleaning services to customers.",
+        "B": "They have unanimous support from the tech industry for their innovative methods.",
+        "C": "They prioritize data acquisition over the long-term privacy concerns of their clients.",
+        "D": "They are currently able to create robots that can fully manage a household."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第四段與第五段，儘管隱私是重大考量，且業界對此做法有負面反應，這些公司仍持續透過各種方式（如 Shift App 或合作夥伴）收集數據。這暗示了相較於隱私風險，這些公司更看重數據的獲取。選項 A 錯誤，清潔只是獲取數據的手段；選項 B 錯誤，文中提到有競爭對手認為此舉越線；選項 D 錯誤，文章最後一段明確指出完全自動化的機器人還很遙遠。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the third paragraph, what does the word 'bottleneck' refer to in the context of AI development?",
+      "options": {
+        "A": "A situation where progress is hindered by a lack of necessary resources.",
+        "B": "A specialized type of sensor used to track human movement.",
+        "C": "A new strategy for cleaning homes more efficiently.",
+        "D": "A legal restriction preventing companies from using cameras."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。文中提到因為缺乏高品質的動作影片數據，導致進度緩慢，因此用「bottleneck」（瓶頸）來形容這種進展受阻的狀態。選項 B 是對感測器的誤解，文中並未將瓶頸定義為硬體；選項 C 與清潔效率無關；選項 D 雖然提到隱私爭議，但「bottleneck」在文中是專指數據取得的困難，而非法律限制。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article regarding the use of AI in household chores?",
+      "options": {
+        "A": "The Shift app is the most effective tool for training robots to clean homes.",
+        "B": "Privacy concerns are preventing the development of any future robotic technology.",
+        "C": "The industry is divided on whether the benefits of robotic automation justify the invasion of home privacy.",
+        "D": "Robots will soon replace human cleaners in all major cities around the world."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。本文的核心在於探討科技公司為了訓練機器人而進入私人家庭收集數據的現象，並指出這在技術發展與隱私保護之間引發了持續的爭論。選項 A 過於狹隘，僅提到單一公司；選項 B 錯誤，因為開發並未停止，只是面臨挑戰；選項 D 過於誇大，文中提到完全自動化仍有很長一段路要走。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite-preview",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}

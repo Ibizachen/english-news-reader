@@ -1,0 +1,151 @@
+{
+  "id": "2026-05-20-ai-integration-and-risks-in-healthcare",
+  "slug": "ai-integration-and-risks-in-healthcare-may-2026",
+  "publishedAt": "2026-05-20T23:38:59.467871Z",
+  "category": "health",
+  "title": "The Promise and Problems of AI in Healthcare",
+  "subtitle": "As technology changes how we treat patients, experts and lawmakers are questioning the risks of using AI in medical decision-making.",
+  "summary": {
+    "en": "Artificial intelligence is changing how doctors treat patients and how researchers discover new medicines. While AI tools like AlphaFold help scientists understand diseases faster, there are growing concerns about its use in insurance and care decisions. A government program called WISeR is currently facing criticism for using AI to deny medical care to seniors. Lawmakers are now trying to stop this program, arguing that it puts profits before patient health. Experts warn that while AI has great potential, it must be used carefully to avoid bias and unfair treatment.",
+    "zh": "人工智慧正在改變醫師治療病患的方式，以及研究人員發現新藥物的過程。雖然像 AlphaFold 這樣的人工智慧工具能協助科學家更快地理解疾病，但其在保險與照護決策中的應用正引發越來越多的擔憂。一項名為 WISeR 的政府計畫目前因使用人工智慧拒絕老年人的醫療照護而面臨批評。立法者正試圖終止這項計畫，主張它將利潤置於病患健康之上。專家警告，雖然人工智慧具有巨大潛力，但必須謹慎使用，以避免偏見與不公平的對待。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Artificial intelligence (AI) is rapidly changing the world of medicine. From helping researchers create new vaccines to monitoring patient health through wearable devices, the technology offers many benefits. However, as AI becomes more common in hospitals and insurance offices, experts and lawmakers are starting to ask difficult questions about its risks. While some believe AI could one day help solve all diseases, others warn that it is already causing problems for patients who need care today.",
+      "zh": "人工智慧（AI）正在迅速改變醫學領域。從協助研究人員研發新型疫苗，到透過穿戴式裝置監測病患健康，這項技術帶來了許多益處。然而，隨著人工智慧在醫院與保險機構中日益普及，專家與立法者開始針對其風險提出棘手的問題。儘管有些人認為人工智慧有朝一日能協助解決所有疾病，但也有人警告，它已經對當前需要照護的病患造成了困擾。"
+    },
+    {
+      "id": "p2",
+      "en": "One major area of concern is the use of AI in insurance and medical approval processes. According to STAT News, a government program called the Wasteful and Inappropriate Service Reduction program, or WISeR, has been using AI to approve or deny medical care for seniors in six U.S. states. The program is designed to target procedures that are often associated with fraud. However, critics argue that the technology is being used as a \"denial device\" that creates unnecessary delays in treatment. In some cases, patients are waiting longer for the care they need because an AI system decided their request was not necessary.",
+      "zh": "一個主要的擔憂領域是人工智慧在保險與醫療核准流程中的應用。根據 STAT 新聞報導，一項名為「減少浪費與不當服務計畫」（WISeR）的政府計畫，已在美國六個州使用人工智慧來核准或拒絕老年人的醫療照護。該計畫旨在針對經常與詐欺相關的醫療程序進行審查。然而，批評者認為這項技術正被當作一種「拒絕工具」，導致治療過程出現不必要的延誤。在某些案例中，病患因為人工智慧系統判定其需求不必要，而必須等待更長的時間才能獲得所需的照護。"
+    },
+    {
+      "id": "p3",
+      "en": "This situation has led to a strong reaction from lawmakers. A group of Democratic senators and representatives recently introduced resolutions to stop the WISeR program. According to STAT News, Senator Ron Wyden stated that Americans are tired of unfair rules that make healthcare harder to get. Representative Suzan DelBene also criticized the program, calling it a dangerous way to cut costs at the expense of patient health. These lawmakers argue that the program should have been approved by Congress before it started. Furthermore, there are concerns that the companies running these AI systems are paid based on how many procedures they deny, which might encourage them to reject care even when it is needed.",
+      "zh": "這種情況引起了立法者的強烈反彈。一群民主黨參議員與眾議員近期提出了旨在終止 WISeR 計畫的決議案。根據 STAT 新聞報導，參議員懷登（Ron Wyden）表示，美國民眾已厭倦了那些讓醫療服務更難取得的不公平規定。眾議員戴貝妮（Suzan DelBene）也批評該計畫，稱其為一種以犧牲病患健康為代價來削減成本的危險手段。這些立法者主張，該計畫在啟動前應先經過國會批准。此外，外界也擔心這些營運人工智慧系統的公司是根據拒絕醫療程序的數量來獲取報酬，這可能會鼓勵他們即便在病患有需要時，仍拒絕提供照護。"
+    },
+    {
+      "id": "p4",
+      "en": "In response to these concerns, the Centers for Medicare and Medicaid Services (CMS) has promised to watch the program closely. CMS administrator Mehmet Oz noted that the agency will check the work of these companies to ensure that their decisions match existing medical standards. He added that any company found to be making too many mistakes will be removed from the program. Despite this, a spokesperson for CMS told STAT News that the agency still considers WISeR an active and useful model for innovation.",
+      "zh": "針對這些擔憂，聯邦醫療保險與醫療補助服務中心（CMS）承諾將密切監控該計畫。CMS 署長歐茲（Mehmet Oz）指出，該機構將審查這些公司的工作，以確保其決策符合現行的醫療標準。他補充說，任何被發現犯下過多錯誤的公司將被剔除出該計畫。儘管如此，CMS 的一位發言人向 STAT 新聞表示，該機構仍將 WISeR 視為一項積極且有用的創新模式。"
+    },
+    {
+      "id": "p5",
+      "en": "Beyond insurance, AI is also playing a significant role in scientific research. The Verge reports that Google DeepMind has developed tools like AlphaFold, which helps scientists understand the structure of proteins. Proteins are the building blocks of life, and understanding them is essential for creating new treatments for diseases like cancer, malaria, and Parkinson’s. By using AI, researchers can finish work that used to take years in just a fraction of the time. This technology was also helpful in speeding up the development of COVID-19 vaccines, which benefited people all over the world.",
+      "zh": "除了保險之外，人工智慧在科學研究中也扮演著重要角色。科技媒體 The Verge 報導，Google DeepMind 已開發出如 AlphaFold 等工具，協助科學家理解蛋白質的結構。蛋白質是生命的組成基礎，理解蛋白質對於研發癌症、瘧疾與帕金森氏症等疾病的新療法至關重要。透過使用人工智慧，研究人員能以極短的時間完成過去需要耗費數年才能完成的工作。這項技術也有助於加速 COVID-19 疫苗的開發，造福了全球民眾。"
+    },
+    {
+      "id": "p6",
+      "en": "However, experts warn that we should be careful not to overstate what AI can do. While AI can help researchers find new information, it does not replace the hard work of medical science. The Verge noted that there are still significant challenges to address, including data privacy, algorithmic bias—where the computer system makes unfair decisions based on incomplete data—and ensuring that everyone around the world has equal access to these new medical tools.",
+      "zh": "然而，專家警告我們應謹慎，切勿誇大人工智慧的能力。雖然人工智慧能協助研究人員發現新資訊，但它無法取代醫學科學的艱苦研究工作。The Verge 指出，目前仍有重大挑戰待解決，包括資料隱私、演算法偏見（即電腦系統根據不完整的資料做出不公平的決策），以及確保全球每個人都能平等地使用這些新型醫療工具。"
+    },
+    {
+      "id": "p7",
+      "en": "Other areas of medicine are also seeing the influence of AI. According to MedPage Today, some experts argue that while AI has a place in general medicine, it could be risky to use in addiction treatment, where human connection and personal understanding are vital. As the technology continues to grow, the challenge for the future will be finding a balance. We must decide how to use the power of AI to improve health outcomes while protecting patients from the risks of automated, profit-driven decision-making. For now, the debate over how much control we should give to machines in the doctor’s office is only just beginning.",
+      "zh": "醫學的其他領域也正受到人工智慧的影響。根據 MedPage Today 報導，一些專家認為，雖然人工智慧在一般醫學中有其地位，但在成癮治療中使用它可能存在風險，因為在該領域中，人與人之間的連結與個人化的理解至關重要。隨著這項技術持續發展，未來的挑戰將在於尋求平衡。我們必須決定如何運用人工智慧的力量來改善健康成果，同時保護病患免受自動化、以營利為導向的決策所帶來的風險。目前，關於我們應該賦予診間機器多少控制權的辯論才剛剛開始。"
+    }
+  ],
+  "wordCount": 712,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "target",
+      "definitionEn": "To aim an action or a program at a specific group or thing.",
+      "definitionZh": "針對；鎖定。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（目標），這裡作動詞用。文中：The program is designed to target procedures that are often associated with fraud."
+    },
+    {
+      "term": "at the expense of",
+      "definitionEn": "In a way that causes harm to something else.",
+      "definitionZh": "以犧牲……為代價。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這是一個常見的慣用語，用來表達為了達成某事而犧牲了另一件重要的事物。文中：Representative Suzan DelBene also criticized the program, calling it a dangerous way to cut costs at the expense of patient health."
+    },
+    {
+      "term": "overstate",
+      "definitionEn": "To describe something as being more important or larger than it really is.",
+      "definitionZh": "誇大。",
+      "partOfSpeech": "verb",
+      "noteZh": "由 over（過度）與 state（陳述）組成，容易誤以為是「過度狀態」。文中：However, experts warn that we should be careful not to overstate what AI can do."
+    }
+  ],
+  "sources": [
+    {
+      "name": "STAT News",
+      "url": "https://www.statnews.com/2026/05/20/democrats-force-vote-to-end-medicare-ai-prior-authorization-pilot/?utm_campaign=rss",
+      "title": "Congressional Democrats try to force a vote to end Medicare AI prior authorization pilot",
+      "publishedAt": "2026-05-20T19:28:21Z"
+    },
+    {
+      "name": "MedPage Today",
+      "url": "https://www.medpagetoday.com/psychiatry/generalpsychiatry/121373",
+      "title": "IL-6 Drug Promising in Depression; U.S. More Anxious; AI Risks in Addiction Medicine",
+      "publishedAt": "2026-05-20T18:33:55Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health",
+      "title": "‘Solve all diseases,’ you say?",
+      "publishedAt": "2026-05-20T21:06:35Z"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the primary concern regarding the companies that operate the AI systems for the WISeR program?",
+      "options": {
+        "A": "They are not using the latest technology to process medical claims.",
+        "B": "Their payment structure may incentivize them to deny necessary medical procedures.",
+        "C": "They are failing to follow the guidelines set by the Centers for Medicare and Medicaid Services.",
+        "D": "They have not received enough funding from the government to operate efficiently."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第三段明確提到，有人擔心這些管理 AI 系統的公司是根據「拒絕了多少醫療程序」來獲得報酬，這可能會鼓勵他們即便在病患需要治療時也拒絕理賠。選項 A 文章未提及；選項 C 雖然 CMS 承諾會監督，但並未說公司完全不遵守；選項 D 文章提到的是對成本控制的疑慮，而非資金不足。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, what can be inferred about the government's stance on the WISeR program?",
+      "options": {
+        "A": "The government is unified in its support for the program's efficiency.",
+        "B": "The government has decided to shut down the program immediately due to public outcry.",
+        "C": "The government is experiencing internal disagreement regarding the program's future.",
+        "D": "The government believes that AI should replace human doctors in all insurance decision-making."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章顯示政府內部存在分歧：一方面，國會議員（如 Ron Wyden 和 Suzan DelBene）強烈批評該計畫並試圖阻止它；另一方面，CMS（聯邦醫療保險和醫療補助服務中心）雖然承諾會加強監督，但仍將 WISeR 視為一個「活躍且有用的創新模型」。這顯示政府部門之間對該計畫的看法並不一致。其他選項均與文中描述的複雜現況不符。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the sixth paragraph, what does the author mean by the phrase 'overstate what AI can do'?",
+      "options": {
+        "A": "To exaggerate the capabilities or potential of AI.",
+        "B": "To provide a detailed summary of AI's functions.",
+        "C": "To underestimate the risks associated with using AI.",
+        "D": "To increase the amount of investment in AI research."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在第六段中，作者提醒我們不要「overstate」（誇大）AI 的能力。這意味著我們不應過度吹捧 AI 的功能，因為它並不能取代醫學科學的艱苦研究。選項 B 與誇大無關；選項 C 意思相反；選項 D 則完全超出了該片語在文中的語意範疇。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article regarding the role of AI in medicine?",
+      "options": {
+        "A": "AI will soon eliminate the need for human doctors and medical insurance companies.",
+        "B": "The benefits of AI in research are significant, but its use in administrative decision-making requires careful oversight.",
+        "C": "AI is primarily a tool for reducing medical costs and should be adopted by all hospitals immediately.",
+        "D": "The risks of AI in medicine currently outweigh its benefits, making it unsuitable for clinical use."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。本文透過正反兩面探討 AI：一方面肯定其在蛋白質結構研究與疫苗開發上的貢獻（第五段），另一方面指出其在保險審核與醫療決策上的風險與爭議（第二、三、六段）。文章結論強調未來挑戰在於如何平衡 AI 的效能與病患權益，而非全面否定或全盤接受。其他選項均過於極端，未涵蓋文章的多面向觀點。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite-preview",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}

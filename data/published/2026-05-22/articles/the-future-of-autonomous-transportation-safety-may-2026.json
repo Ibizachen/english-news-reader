@@ -1,0 +1,140 @@
+{
+  "id": "2026-05-22-the-future-of-autonomous-transportation-safety",
+  "slug": "the-future-of-autonomous-transportation-safety-may-2026",
+  "publishedAt": "2026-05-22T22:14:10.826939Z",
+  "category": "technology",
+  "title": "The Challenges of Robotaxis: Safety Concerns and Future Growth",
+  "subtitle": "Waymo pauses services in several US cities as it works to improve autonomous driving technology.",
+  "summary": {
+    "en": "Waymo has temporarily paused its robotaxi services in several US cities. The company is responding to software issues that caused vehicles to enter flooded roads. Additionally, the firm has suspended freeway driving across its US markets to address concerns about construction zones. These decisions highlight the ongoing difficulties in making autonomous vehicles perfectly safe in all conditions. Despite these setbacks, the company continues to aim for growth in the competitive transportation market.",
+    "zh": "Waymo 已暫時在多個美國城市暫停其無人計程車服務。該公司正針對導致車輛駛入淹水道路的軟體問題做出回應。此外，該公司已暫停在全美市場的高速公路行駛，以解決對施工區域應對能力的疑慮。這些決定凸顯了在各種條件下確保自動駕駛車輛絕對安全所面臨的持續困難。儘管遭遇這些挫折，該公司仍持續追求在競爭激烈的運輸市場中成長。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The future of transportation is changing quickly, but recent events show that self-driving cars still face significant challenges. Waymo, a company owned by Google’s parent firm Alphabet, has recently paused its robotaxi services in five US cities. This decision follows reports of software issues that caused some vehicles to drive into flooded roads and get stuck. According to BBC News, one incident in San Antonio, Texas, involved an empty vehicle being swept into a creek after entering a flooded area.",
+      "zh": "交通運輸的未來正迅速改變，但近期事件顯示自動駕駛車輛仍面臨重大挑戰。隸屬於 Google 母公司 Alphabet 的 Waymo 近期暫停了在五個美國城市的無人計程車服務。這項決定源於軟體問題的相關報導，這些問題導致部分車輛駛入淹水道路並受困。根據 BBC 新聞報導，在德州聖安東尼奧發生的一起事件中，一輛無人駕駛的車輛在進入淹水區域後被沖入溪流。"
+    },
+    {
+      "id": "p2",
+      "en": "Following these events, Waymo issued a voluntary recall of nearly 3,800 of its robotaxis. This recall focuses on vehicles that use the company’s fifth and sixth-generation automated driving systems. The goal is to install new software safeguards to prevent cars from slowing down and driving into standing water on high-speed roads. A spokesperson for Waymo told BBC News that safety remains the company’s highest priority, and they are closely monitoring weather conditions before they resume service for riders.",
+      "zh": "在這些事件發生後，Waymo 自願召回了近 3,800 輛無人計程車。此次召回針對的是使用該公司第五代與第六代自動駕駛系統的車輛。目標是安裝新的軟體防護措施，以防止車輛在高速公路上減速並駛入積水區域。Waymo 的發言人向 BBC 新聞表示，安全仍是該公司最優先的考量，他們在恢復載客服務前會密切監控天氣狀況。"
+    },
+    {
+      "id": "p3",
+      "en": "Beyond the issues with flooding, Waymo has also made changes to its freeway operations. The company confirmed that it has suspended freeway driving across all of its US markets. According to The Verge, this decision was made because of concerns regarding how the vehicles handle construction zones. While the company did not explain the exact problems they encountered in these areas, they noted that local road driving remains unaffected by this change. Highway trips are important for the company because they help reduce travel times and provide access to key locations like airports.",
+      "zh": "除了淹水問題外，Waymo 也調整了其在高速公路上的營運。該公司證實已暫停在全美所有市場的高速公路行駛。根據科技媒體 The Verge 報導，這項決定是基於對車輛如何應對施工區域的擔憂。雖然該公司並未說明在這些區域遇到的具體問題，但他們指出，一般道路的行駛不受此變動影響。高速公路行程對該公司而言相當重要，因為這有助於縮短行車時間，並能抵達機場等關鍵地點。"
+    },
+    {
+      "id": "p4",
+      "en": "These recent pauses are part of a larger effort by Waymo to grow its business. The company currently provides more than 500,000 trips per week and has expressed a goal of reaching 1 million paid rides a week. By offering autonomous rides, Waymo aims to compete more directly with human-powered services like Uber and Lyft. However, the path to this goal has not been smooth. The Verge reported that the company has faced several \"edge-case\" mishaps, which are rare but difficult situations. For example, a neighborhood in Atlanta recently experienced a traffic jam caused by empty robotaxis, and another incident in Dallas involved a vehicle driving through a red light.",
+      "zh": "這些近期的暫停服務是 Waymo 擴大業務計畫的一部分。該公司目前每週提供超過 50 萬趟行程，並已設定每週達到 100 萬趟付費乘車的目標。透過提供自動駕駛乘車服務，Waymo 旨在與 Uber 和 Lyft 等由人類駕駛的服務進行更直接的競爭。然而，邁向此目標的過程並不順遂。The Verge 報導指出，該公司面臨了幾起「邊緣案例」事故，這些情況雖然罕見但處理困難。例如，亞特蘭大的一個社區近期因無人計程車而造成交通堵塞，而達拉斯的另一起事件則涉及車輛闖紅燈。"
+    },
+    {
+      "id": "p5",
+      "en": "These incidents have raised public concerns about the safety of driverless technology. While Waymo has made significant progress in reducing traffic crashes and injuries, these events serve as a reminder that the technology is still maturing. In addition to the recent US incidents, other companies have faced similar problems. BBC News noted that a large power outage in San Francisco last year caused Waymo taxis to stop working, and a separate incident in China saw many robotaxis stop in the middle of traffic.",
+      "zh": "這些事件引發了公眾對無人駕駛技術安全性的擔憂。儘管 Waymo 在減少交通事故與傷亡方面已取得顯著進展，但這些事件提醒人們，該技術仍在成熟階段。除了近期在美國發生的事件外，其他公司也面臨類似問題。BBC 新聞提到，去年舊金山發生的大規模停電導致 Waymo 計程車停止運作，而在中國的另一起事件中，許多無人計程車停在車陣中央。"
+    },
+    {
+      "id": "p6",
+      "en": "Despite these setbacks, Waymo remains committed to its expansion plans. The company is currently preparing to deploy a new electric van, the Zeekr-built Ojai, which will feature its latest sixth-generation driving software. The company has also expressed interest in operating in London later this year. As the firm works to improve its software and address safety concerns, it must balance the need for rapid growth with the need to be a \"good neighbor\" to the communities it serves. For now, riders in the affected cities must wait for the company to finish its software updates and resume full service.",
+      "zh": "儘管遭遇這些挫折，Waymo 仍致力於其擴張計畫。該公司目前正準備部署一款由極氪（Zeekr）製造的新型電動廂型車 Ojai，該車款將搭載其最新的第六代自動駕駛軟體。該公司也表示有興趣在今年稍晚於倫敦營運。隨著該公司致力於改善軟體並解決安全疑慮，它必須在快速成長的需求與成為服務社區的「好鄰居」之間取得平衡。目前，受影響城市的乘客必須等待該公司完成軟體更新並恢復全面服務。"
+    }
+  ],
+  "wordCount": 612,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "paused",
+      "definitionEn": "To stop an activity or operation temporarily.",
+      "definitionZh": "暫停；中止。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（暫停鍵），這裡作動詞用，指暫時停止服務。文中：Waymo, a company owned by Google’s parent firm Alphabet, has recently paused its robotaxi services in five US cities."
+    },
+    {
+      "term": "handle",
+      "definitionEn": "To deal with or manage a specific situation or problem.",
+      "definitionZh": "處理；應對。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（把手），這裡作動詞，指車輛系統如何應對路況。文中：According to The Verge, this decision was made because of concerns regarding how the vehicles handle construction zones."
+    },
+    {
+      "term": "maturing",
+      "definitionEn": "Becoming more developed, advanced, or reliable over time.",
+      "definitionZh": "趨於成熟；發展完善。",
+      "partOfSpeech": "verb (present participle)",
+      "noteZh": "常見作形容詞（成熟的），這裡作動詞，形容科技仍在發展階段。文中：While Waymo has made significant progress in reducing traffic crashes and injuries, these events serve as a reminder that the technology is still maturing."
+    }
+  ],
+  "sources": [
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckgplyxxl75o?at_medium=RSS&at_campaign=rss",
+      "title": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
+      "publishedAt": "2026-05-22T16:10:21Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/transportation/936129/waymo-freeway-suspend-atlanta-san-antonio-flood-pause",
+      "title": "Waymo suspends freeway driving amid safety concerns",
+      "publishedAt": "2026-05-22T16:17:54Z"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "Which specific action is Waymo taking to address the problems with its fifth and sixth-generation robotaxis?",
+      "options": {
+        "A": "They are permanently retiring all vehicles from the fifth and sixth generations.",
+        "B": "They are installing new software safeguards to prevent vehicles from entering standing water.",
+        "C": "They are replacing all current robotaxis with the new Zeekr-built Ojai electric vans.",
+        "D": "They are limiting the speed of their vehicles to ensure they do not hydroplane on highways."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，Waymo 召回了約 3,800 輛第五與第六代自動駕駛車輛，目的是為了安裝新的軟體防護措施，以防止車輛在高速公路上減速並駛入積水區域。選項 A 錯誤，因為這只是軟體更新而非永久退役；選項 C 錯誤，Ojai 車款是未來計畫的一部分，而非此次召回的解決方案；選項 D 雖然提到速度與水，但文章並未提及限制速度作為解決方案，而是強調軟體防護。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Why has Waymo suspended freeway driving across its US markets?",
+      "options": {
+        "A": "Freeway driving is too expensive and does not help the company reach its goal of 1 million rides.",
+        "B": "The company wants to focus exclusively on local road driving to avoid traffic jams in residential areas.",
+        "C": "The technology struggles to interpret and navigate complex environments like construction zones.",
+        "D": "Local authorities have passed new laws banning autonomous vehicles from using high-speed highways."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第三段，Waymo 暫停高速公路行駛是因為對車輛如何處理「施工區域」感到擔憂。雖然文中未詳細說明具體問題，但這暗示了自動駕駛技術在面對施工這類複雜路況時存在判斷困難。選項 A 錯誤，文中提到高速公路對減少車程很重要；選項 B 錯誤，文中並未表示要放棄高速公路轉而專注於住宅區；選項 D 錯誤，文中並未提及任何關於政府立法禁止的資訊。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fourth paragraph, what does the term 'edge-case' refer to?",
+      "options": {
+        "A": "Situations that are unusual, rare, and difficult for the software to handle.",
+        "B": "The outer boundaries of a vehicle's sensor range on a highway.",
+        "C": "A minor software bug that has no impact on passenger safety.",
+        "D": "The competitive pressure from other ride-sharing services like Uber."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在第四段中，作者將「edge-case」定義為「rare but difficult situations」（罕見但困難的情況），並舉例說明如交通堵塞或闖紅燈等非典型意外。選項 B 是對「edge」字面的錯誤解讀；選項 C 錯誤，因為這些情況通常會造成安全隱憂或交通混亂；選項 D 錯誤，這與競爭對手無關，而是指技術上的挑戰。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message regarding Waymo's current status?",
+      "options": {
+        "A": "Waymo is successfully replacing human-powered ride services in all US cities.",
+        "B": "Self-driving technology is now fully matured and ready for global expansion.",
+        "C": "Waymo is prioritizing rapid growth over the safety of its passengers and the public.",
+        "D": "Waymo is pursuing ambitious growth while simultaneously navigating significant technological and safety hurdles."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。這篇文章整體探討了 Waymo 雖然有遠大的擴張目標（如每週百萬次載客量），但目前正遭遇軟體缺陷、施工區導航困難及公眾安全疑慮等挑戰。選項 A 錯誤，目前仍有許多停駛與召回；選項 B 錯誤，文章多次強調技術仍在成熟中且面臨挫折；選項 C 錯誤，文中提到安全仍是公司的最高優先事項，並非完全忽視安全。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite-preview",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}

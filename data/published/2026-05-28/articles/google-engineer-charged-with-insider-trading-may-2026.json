@@ -1,0 +1,146 @@
+{
+  "id": "2026-05-28-google-engineer-charged-with-insider-trading",
+  "slug": "google-engineer-charged-with-insider-trading-may-2026",
+  "publishedAt": "2026-05-28T23:42:15.691702Z",
+  "category": "technology",
+  "title": "Google Engineer Charged with Insider Trading After Using Private Data for Bets",
+  "subtitle": "A software engineer allegedly made over $1 million by betting on search results before they were made public.",
+  "summary": {
+    "en": "A Google engineer has been arrested for using private company data to win bets on a prediction platform. Michele Spagnuolo allegedly used internal information to predict the most-searched people on Google. He reportedly made $1.2 million in profit from these trades. Google has placed the employee on leave and is helping authorities with the investigation. This case highlights growing concerns about how insider information is used in the booming prediction market industry.",
+    "zh": "一名 Google 工程師因涉嫌利用公司內部數據在預測平台上獲利而遭逮捕。史帕紐洛涉嫌利用內部資訊預測 Google 搜尋量最高的人物，據報導他透過這些交易獲利 120 萬美元。Google 已將該員工停職並協助當局調查。此案凸顯了各界對於蓬勃發展的預測市場中，內部資訊遭濫用問題日益增長的擔憂。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "A Google software engineer has been arrested and charged with insider trading after allegedly using private company information to win bets on a prediction platform. According to BBC News, Michele Spagnuolo, an Italian citizen living in Switzerland, was arrested and brought before a federal judge in New York. The US Justice Department has charged him with crimes including wire fraud and money laundering. These charges relate to his use of confidential information from his employer to place successful bets on Polymarket, a website where people bet on the outcomes of future events.",
+      "zh": "一名 Google 軟體工程師因涉嫌利用公司內部資訊在預測平台上獲利，遭到逮捕並被控內線交易。根據 BBC 新聞報導，居住在瑞士的義大利籍男子史帕紐洛（Michele Spagnuolo）已遭逮捕，並被帶往紐約聯邦法院受審。美國司法部已對他提出包括電匯詐欺與洗錢在內的刑事指控。這些指控與他利用雇主的機密資訊，在預測未來事件結果的網站「Polymarket」上進行成功押注有關。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Guardian, the case involves a total profit of $1.2 million. Prosecutors say Spagnuolo used his access to Google’s internal systems to see which people were being searched for the most before that information was released to the public. He then used this knowledge to place bets on a platform that accepts cryptocurrency—a type of digital money that exists only online. By betting on results that others thought were very unlikely, he was able to make a large amount of money.",
+      "zh": "根據《衛報》（The Guardian）報導，此案涉及的獲利總額達 120 萬美元。檢察官指出，史帕紐洛利用其存取 Google 內部系統的權限，在資訊公開前先行查看哪些人物的搜尋量最高。隨後，他利用這些情報在接受加密貨幣（一種僅存在於網路上的數位貨幣）的平台上進行押注。透過針對他人認為極不可能發生的結果進行投注，他得以賺取鉅額財富。"
+    },
+    {
+      "id": "p3",
+      "en": "Court documents cited by Ars Technica explain that Spagnuolo used an account named “AlphaRaccoon” to place his bets. Between October and December of last year, he reportedly placed $2.7 million in bets related to Google’s search data. One of his most profitable bets involved correctly guessing that a musician named D4vd would be the most-searched person on Google in 2025. At the time he placed the bet, the platform considered this result to have a “near zero probability” of happening. However, because Spagnuolo had early access to Google’s “Year in Search” data, he knew the outcome before anyone else.",
+      "zh": "根據 Ars Technica 引述的法庭文件顯示，史帕紐洛使用名為「AlphaRaccoon」的帳號進行投注。據報導，去年 10 月至 12 月間，他針對 Google 搜尋數據相關的項目投入了 270 萬美元的賭注。他最賺錢的一筆押注，是準確預測出一位名為 D4vd 的音樂人將成為 2025 年 Google 搜尋次數最多的人物。在下注當時，該平台認為此結果發生的機率「趨近於零」。然而，由於史帕紐洛能提前取得 Google 的「年度搜尋」數據，他比任何人都先得知了結果。"
+    },
+    {
+      "id": "p4",
+      "en": "Google has responded to the situation by placing the employee on leave. A spokesperson for the company stated that while the tool used to access the information was available to many employees, using such data for personal betting is a serious violation of company policy. Google also noted that it is working closely with law enforcement to assist in the investigation. Polymarket also released a statement saying it worked with authorities to help identify the activity. A spokesperson for the platform noted that because blockchain—the digital record-keeping system used for cryptocurrency—is transparent, it is easy for investigators to follow the digital footprints left by bad actors.",
+      "zh": "Google 已對此事件做出回應，將該名員工停職。公司發言人表示，雖然許多員工都能使用該項存取資訊的工具，但將此類數據用於個人博弈行為，已嚴重違反公司政策。Google 也強調正與執法單位密切合作，協助調查工作。Polymarket 亦發表聲明，表示已配合當局協助辨識該活動。該平台發言人指出，由於區塊鏈（用於加密貨幣的數位紀錄系統）具有透明性，調查人員能輕易追蹤不法份子留下的數位足跡。"
+    },
+    {
+      "id": "p5",
+      "en": "This case has brought new attention to the rise of prediction markets, which have become a multibillion-dollar industry. The Guardian reports that federal agencies are now looking more closely at how these markets should be regulated. Currently, there is no single federal law in the United States that controls these betting platforms, although some states have considered creating their own rules. The US Attorney for the Southern District of New York, Jay Clayton, said in a statement that prosecutors will continue to go after corporate insiders who use private business information to make money in these markets. He added that such actions hurt the fairness of the market and that the public wants this kind of behavior stopped.",
+      "zh": "此案讓各界重新關注預測市場的興起，該產業目前已成為價值數十億美元的市場。據《衛報》報導，聯邦機構正更加嚴格地審視這些市場應如何受到監管。目前美國尚無單一聯邦法律來規範這些博弈平台，儘管部分州已考慮制定各自的規則。美國紐約南區聯邦檢察官克萊頓（Jay Clayton）在聲明中表示，檢方將持續追查利用私人商業資訊在這些市場牟利的公司內部人士。他補充說，此類行為損害了市場公平性，大眾也希望這類行徑能被遏止。"
+    },
+    {
+      "id": "p6",
+      "en": "Spagnuolo, who worked as an engineer focused on information security at Google for more than 12 years, was released on a $2.25 million bond. The FBI was able to link his betting accounts to his real identity by finding an account he had opened using an Italian identification card. While the investigation into his actions continues, the case serves as a warning about the risks of using private company data for personal gain. As prediction markets continue to grow in popularity, experts suggest that regulators will likely face more pressure to create clear rules to prevent similar cases of insider trading in the future.",
+      "zh": "史帕紐洛在 Google 擔任資訊安全工程師超過 12 年，目前已以 225 萬美元交保。聯邦調查局（FBI）透過發現他使用義大利身分證開立的帳號，成功將其博弈帳戶與真實身分連結。在針對其行為的調查持續進行的同時，此案也對利用私人公司數據牟利的風險提出了警告。隨著預測市場持續成長，專家認為監管機構未來將面臨更大壓力，需制定明確規則以防止類似的內線交易案件再次發生。"
+    }
+  ],
+  "wordCount": 682,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "brought",
+      "definitionEn": "To take someone to a formal place, such as a court, to face legal authority.",
+      "definitionZh": "帶到（法庭或權威機構）面前接受審判或質詢。",
+      "partOfSpeech": "phrasal verb (bring before)",
+      "noteZh": "常見作「帶來」，這裡指法律上的傳喚或帶往法庭。文中：Michele Spagnuolo, an Italian citizen living in Switzerland, was arrested and brought before a federal judge in New York."
+    },
+    {
+      "term": "leave",
+      "definitionEn": "A period of time during which an employee is allowed to be away from their job.",
+      "definitionZh": "休假（通常指停職或請假）。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（離開），這裡作名詞，指暫時停止工作。文中：Google has responded to the situation by placing the employee on leave."
+    },
+    {
+      "term": "go after",
+      "definitionEn": "To try to catch, punish, or stop someone who has done something wrong.",
+      "definitionZh": "追究、追捕或採取行動對付某人。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "字面意思為「跟在後面走」，這裡指法律上的追訴。文中：The US Attorney for the Southern District of New York, Jay Clayton, said in a statement that prosecutors will continue to go after corporate insiders who use private business information to make money in these markets."
+    }
+  ],
+  "sources": [
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&at_campaign=rss",
+      "title": "Google worker charged with using internal data to make $1.2m on bets",
+      "publishedAt": "2026-05-28T02:14:19Z"
+    },
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/2026/may/28/doj-charges-google-employee-insider-trading-polymarket",
+      "title": "Google employee charged with using insider data to rig bets on Polymarket",
+      "publishedAt": "2026-05-28T11:27:40Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/05/fbi-says-google-engineer-used-internal-search-data-to-win-1-2m-on-polymarket/",
+      "title": "FBI says Google engineer used internal search data to win $1.2M on Polymarket",
+      "publishedAt": "2026-05-28T19:01:54Z"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "How were investigators able to connect the 'AlphaRaccoon' betting account to Michele Spagnuolo?",
+      "options": {
+        "A": "By tracking his Google employee ID number on the Polymarket platform.",
+        "B": "By linking his betting account to an Italian identification card he had used.",
+        "C": "By monitoring his search history for the musician D4vd.",
+        "D": "By tracing the cryptocurrency transactions back to his Swiss bank account."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第六段，FBI 是透過發現他使用義大利身分證件開立的帳戶，成功將他的投注帳號與真實身分連結起來。選項 A 錯誤，文中未提到使用員工編號連結；選項 C 雖然提到他投注該音樂人，但這並非連結身分的方法；選項 D 雖然提到了加密貨幣，但文中並未提及瑞士銀行帳戶。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the information provided, why was Spagnuolo's betting strategy so effective at making money?",
+      "options": {
+        "A": "He was an expert at predicting global trends better than the general public.",
+        "B": "He used his security expertise to hack into the Polymarket platform's database.",
+        "C": "He exploited the gap between private internal data and public market expectations.",
+        "D": "He manipulated Google's search algorithms to ensure his bets would win."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第二段與第三段，Spagnuolo 利用他在 Google 內部取得的數據，在資訊尚未公開前先行下注，且該投注平台認為這些事件發生的機率極低（near zero probability）。這顯示他獲利的原因在於他擁有大眾所沒有的「資訊不對稱」。選項 A 錯誤，他靠的是內線資訊而非預測能力；選項 B 錯誤，他是利用職務之便取得數據，而非駭入平台；選項 D 錯誤，文中未提及他更改搜尋演算法。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the phrase 'go after' mean in the context of the US Attorney's statement?",
+      "options": {
+        "A": "To pursue legal action against someone.",
+        "B": "To follow someone to a specific location.",
+        "C": "To attempt to join a professional group.",
+        "D": "To support someone's business endeavors."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在文中「prosecutors will continue to go after corporate insiders」這句話中，go after 是慣用語，意指「追究」、「起訴」或「對付」違法者。選項 B 是字面上的誤解，並非法律語境；選項 C 與 D 與上下文提到的檢察官職責完全不符，檢察官的任務是執法與制裁違法行為，而非加入團體或支持商業行為。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of this article?",
+      "options": {
+        "A": "Google's internal security systems are fundamentally broken and need a complete overhaul.",
+        "B": "Cryptocurrency is the main cause of the rise in global insider trading cases.",
+        "C": "The musician D4vd is the most important factor in the current prediction market investigation.",
+        "D": "The misuse of private data for betting highlights the need for better regulation of prediction markets."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。全文透過 Spagnuolo 的案例，探討了預測市場（prediction markets）的興起及其衍生的法律漏洞，並在第五段與第六段明確指出，由於此類案件增加，監管機構將面臨制定明確法規以防止內線交易的壓力。選項 A 過度推論；選項 B 錯誤，加密貨幣僅是工具，非內線交易的成因；選項 C 僅是案例中的一個細節，而非文章主旨。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite-preview",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}

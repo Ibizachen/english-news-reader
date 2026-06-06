@@ -1,0 +1,145 @@
+{
+  "id": "2026-05-15-ai-generated-content-and-academic-integrity",
+  "slug": "ai-generated-content-and-academic-integrity-may-2026",
+  "publishedAt": "2026-05-15T23:10:59.601495Z",
+  "category": "technology",
+  "title": "New Rules Aim to Stop AI-Generated 'Slop' in Scientific Research",
+  "subtitle": "ArXiv introduces strict penalties for researchers who fail to check AI-written papers before submission.",
+  "summary": {
+    "en": "The popular research platform ArXiv is taking action against low-quality, AI-generated content. Researchers who submit papers with clear signs of AI errors will face a one-year ban. Authors are now fully responsible for all content in their work, regardless of how it was created. This move aims to protect the quality of scientific communication and peer-reviewed literature. Future submissions from banned authors will require proof of acceptance from a reputable journal.",
+    "zh": "熱門研究平台 ArXiv 正採取行動，打擊低品質的人工智慧生成內容。提交含有明顯人工智慧錯誤論文的研究人員將面臨一年禁令。作者現在必須對其研究中的所有內容負起全責，無論其生成方式為何。此舉旨在保護學術交流與同儕審查文獻的品質。遭禁權的作者未來若要提交論文，必須提供已獲具公信力期刊接受的證明。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "In recent years, the rise of artificial intelligence tools has changed how researchers write and share their work. However, this technology has also led to a growing problem in the scientific community: the spread of low-quality, AI-generated content, often called \"slop.\" This includes fake citations, nonsensical diagrams, and unedited text that clearly comes from AI prompts. To address this, ArXiv, a well-known platform where scientists share their research papers before they are officially published, has announced new, strict rules to ensure the quality of its content.",
+      "zh": "近年來，人工智慧工具的興起改變了研究人員撰寫與分享成果的方式。然而，這項技術也導致科學界出現一個日益嚴重的問題：充斥著低品質、由人工智慧生成的內容，通常被稱為「垃圾內容」。這類內容包含偽造的引用文獻、荒謬的圖表，以及未經編輯、明顯出自人工智慧指令的文字。為了應對此現象，科學家在正式發表論文前分享研究成果的知名平台 ArXiv，已宣布實施嚴格的新規定，以確保其內容品質。"
+    },
+    {
+      "id": "p2",
+      "en": "According to Ars Technica, these new rules are a direct result of the platform's commitment to high standards in scholarly communication. ArXiv requires that all submissions be carefully prepared, with accurate figures, tables, and references. When these standards are not met due to the careless use of AI, the platform is now prepared to take serious action. Thomas Dietterich, a professor and a member of the moderation team at ArXiv, explained that the platform is now enforcing a one-year ban for any researcher who submits work containing \"incontrovertible evidence\"—meaning clear and undeniable proof—that they did not check their AI-generated results.",
+      "zh": "根據科技新聞網站 Ars Technica 報導，這些新規定是該平台致力於維持學術交流高標準的直接結果。ArXiv 要求所有提交的論文都必須經過審慎準備，並具備準確的圖表與參考文獻。當研究人員因草率使用人工智慧而未達這些標準時，平台已準備好採取嚴厲措施。ArXiv 的教授兼審核團隊成員迪特里希（Thomas Dietterich）解釋，該平台目前針對任何提交包含「無可辯駁證據」——意指明確且不可否認的證明——顯示其未檢查人工智慧生成結果的研究人員，實施為期一年的禁令。"
+    },
+    {
+      "id": "p3",
+      "en": "As reported by The Verge, this evidence includes things like \"hallucinated\" references, which are fake sources created by the AI, or \"meta-comments.\" Meta-comments are notes left by the AI, such as asking the user if they would like to make changes to a summary or suggesting that the user fill in real data later. These errors show that the author did not review the paper before uploading it. Dietterich, who serves as the section chair for computer science at ArXiv, noted that the platform’s code of conduct makes it clear: by signing a paper, an author takes full responsibility for everything inside it, no matter how it was generated.",
+      "zh": "根據科技媒體 The Verge 報導，這些證據包括諸如「幻覺」引用（即人工智慧虛構的來源），或是「後設評論」。後設評論是指人工智慧留下的註記，例如詢問使用者是否要修改摘要，或是建議使用者稍後補上真實數據。這些錯誤顯示作者在上傳論文前並未進行審閱。身兼 ArXiv 電腦科學部門主席的迪特里希指出，平台的行為準則已明確規定：作者在論文上簽名，即代表必須對內容負起全責，無論該內容是如何生成的。"
+    },
+    {
+      "id": "p4",
+      "en": "This policy is not meant to stop the use of technology, but rather to ensure that human researchers remain in control of their work. If a researcher is banned for one year, they will face additional requirements in the future. According to The Verge, any later submissions from these authors must first be accepted at a \"reputable peer-reviewed venue.\" Peer review is a process where other experts in the same field check a paper for accuracy and quality before it is published in a journal. By requiring this, ArXiv hopes to ensure that only high-quality, verified research reaches the public.",
+      "zh": "這項政策並非為了禁止使用科技，而是為了確保人類研究人員能掌控自己的研究成果。若研究人員被禁權一年，未來將面臨額外的要求。根據 The Verge 報導，這些作者日後提交的任何論文，必須先獲得「具公信力的同儕審查管道」認可。同儕審查是指同一領域的其他專家在論文於期刊發表前，檢查其準確性與品質的過程。透過此項要求，ArXiv 希望確保只有高品質且經過驗證的研究能公開發布。"
+    },
+    {
+      "id": "p5",
+      "en": "ArXiv has been working to manage this issue for some time. Last year, the platform updated its policies to limit the number of computer science review articles it accepts. The organization explained that large language models have made it too easy to create these papers quickly, often resulting in work that lacks deep discussion or new research ideas. These review articles are now only accepted if they have already been peer-reviewed and accepted by a conference or journal.",
+      "zh": "ArXiv 為管理此問題已努力多時。去年，該平台更新政策，限制其接受的電腦科學評論文章數量。該組織解釋，大型語言模型使得快速產出這類論文變得過於容易，往往導致研究缺乏深度討論或新的研究觀點。這些評論文章現在必須先經過同儕審查，並被研討會或期刊接受後，才會被該平台採納。"
+    },
+    {
+      "id": "p6",
+      "en": "While these new rules are strict, there is a process for fairness. Dietterich told 404Media that authors can appeal these decisions. Furthermore, the internal process for giving a penalty is careful. It requires a moderator to first document the problem, followed by a confirmation from the section chair. This ensures that the platform does not punish researchers by mistake.",
+      "zh": "雖然這些新規定相當嚴格，但仍設有公平的申訴機制。迪特里希向 404Media 表示，作者可以對這些決定提出申訴。此外，執行懲處的內部流程相當謹慎，要求審核人員先記錄問題，再由部門主席確認。這確保了平台不會因誤判而懲處研究人員。"
+    },
+    {
+      "id": "p7",
+      "en": "This situation highlights a larger debate in the academic world about the role of AI. As these tools become more powerful, the line between helpful assistance and lazy, inaccurate work can become thin. For now, platforms like ArXiv are drawing a clear line to protect the integrity of science. By holding authors accountable for the results of their AI tools, they hope to maintain the trust that the scientific community relies on. As technology continues to evolve, it is likely that other academic platforms will look to these new rules as a model for their own policies.",
+      "zh": "此情況凸顯了學術界對於人工智慧角色的廣泛辯論。隨著這些工具變得愈發強大，輔助工具與懶散、不精確的研究成果之間的界線可能變得模糊。目前，像 ArXiv 這樣的平台正劃下明確界線，以維護科學的誠信。透過要求作者對人工智慧工具產出的結果負責，他們希望維持科學界所依賴的信任。隨著科技持續演進，其他學術平台很可能會將這些新規定視為自身政策的參考範本。"
+    }
+  ],
+  "wordCount": 724,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "slop",
+      "definitionEn": "Low-quality, messy, or worthless content created quickly, often by AI.",
+      "definitionZh": "指品質低劣、粗製濫造的內容（原意為餿水）。",
+      "partOfSpeech": "noun (slang)",
+      "noteZh": "此詞在文中被賦予了新的網路俚語意義，指代AI生成的垃圾內容。文中：the spread of low-quality, AI-generated content, often called \"slop.\""
+    },
+    {
+      "term": "hallucinated",
+      "definitionEn": "In the context of AI, producing false or invented information that sounds convincing.",
+      "definitionZh": "（AI）產生幻覺，指AI虛構出看似合理但錯誤的資訊。",
+      "partOfSpeech": "verb (past participle as adjective)",
+      "noteZh": "常見於心理學描述人類感官異常，這裡專指AI生成的虛假資訊。文中：this evidence includes things like \"hallucinated\" references, which are fake sources created by the AI"
+    },
+    {
+      "term": "venue",
+      "definitionEn": "A place or platform where an event or activity happens; in academia, a journal or conference.",
+      "definitionZh": "場所、地點；在學術界指發表研究的期刊或會議平台。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見指活動舉辦場地，這裡指學術發表平台。文中：any later submissions from these authors must first be accepted at a \"reputable peer-reviewed venue.\""
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
+      "title": "Send the arXiv AI-generated slop, get a yearlong vacation from submissions",
+      "publishedAt": "2026-05-15T18:25:53Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+      "title": "ArXiv will ban researchers who upload papers full of AI slop",
+      "publishedAt": "2026-05-15T20:38:19Z"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the specific consequence for a researcher who submits a paper to ArXiv containing 'meta-comments' generated by AI?",
+      "options": {
+        "A": "They are permanently banned from using the platform.",
+        "B": "They are banned from submitting to the platform for one year.",
+        "C": "They must pay a fine and rewrite the paper immediately.",
+        "D": "They are required to attend a workshop on AI ethics."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，Thomas Dietterich 明確指出，若研究者提交包含「無可辯駁證據」（如 meta-comments）的論文，將面臨為期一年的禁令。選項 A 錯誤，因為禁令僅為一年，並非永久。選項 C 與 D 在文中皆未提及，屬於無中生有的干擾選項。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the text, what can be inferred about the future of academic publishing in response to AI?",
+      "options": {
+        "A": "Most academic platforms will likely ban the use of AI tools entirely.",
+        "B": "Peer review will become less important as AI tools improve in accuracy.",
+        "C": "Other platforms may adopt similar policies to those implemented by ArXiv.",
+        "D": "AI-generated papers will soon be indistinguishable from human-written research."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章最後一段提到，隨著技術演進，其他學術平台很可能會將 ArXiv 的新規則視為自身政策的模範。選項 A 錯誤，因為文章強調目的是確保研究者對 AI 的控制，而非禁止使用。選項 B 與文章觀點相反，文章強調同行評審（peer review）的重要性。選項 D 雖為科技趨勢，但並非本文推論出的學術出版政策走向。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the phrase 'drawing a clear line' mean in the context of the article?",
+      "options": {
+        "A": "Establishing a strict boundary between acceptable and unacceptable behavior.",
+        "B": "Physically marking a line on a document to show where to sign.",
+        "C": "Reducing the amount of research that is published on the website.",
+        "D": "Creating a visual diagram to explain how AI tools work to scientists."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。「Drawing a clear line」在此處為慣用語，意指界定清楚的界線或標準，用以區分什麼是可接受的學術行為，什麼是懶惰且不準確的工作。選項 B 將片語誤解為字面意義。選項 C 與 D 與文中提到的「保護科學誠信」之意圖不符，故皆為錯誤選項。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary purpose of ArXiv's new regulations regarding AI-generated content?",
+      "options": {
+        "A": "To increase the number of computer science review articles on the platform.",
+        "B": "To force researchers to stop using AI tools for their scientific work.",
+        "C": "To maintain the quality and integrity of scientific research by holding authors accountable.",
+        "D": "To allow AI developers to test their tools on real scientific papers."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章多次強調，ArXiv 實施新規則是為了保護科學誠信（integrity of science），確保研究者對其提交的內容負責。選項 A 與文章第五段提到的限制 review articles 數量矛盾。選項 B 錯誤，文章明確表示目的非禁止 AI，而是確保人為控制。選項 D 並非文章討論的學術出版議題。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite-preview",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}

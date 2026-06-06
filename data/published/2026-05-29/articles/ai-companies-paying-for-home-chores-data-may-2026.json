@@ -1,0 +1,152 @@
+{
+  "id": "2026-05-29-ai-companies-paying-for-home-chores-data",
+  "slug": "ai-companies-paying-for-home-chores-data-may-2026",
+  "publishedAt": "2026-05-29T23:41:10.653071Z",
+  "category": "technology",
+  "title": "The New Price of a Clean Home: Your Personal Data",
+  "subtitle": "Tech startups are offering free chores in exchange for video footage to train the next generation of robots.",
+  "summary": {
+    "en": "A new tech startup called Shift is offering free home cleaning services to residents in New York City. In exchange, the company records the cleaners on camera to collect data for training AI robots. This method is part of a larger trend where companies struggle to find enough physical data to teach machines how to perform human tasks. While privacy protections are promised, experts remain concerned about how this data is stored and used. The industry continues to look for creative ways to capture the complex movements required for household automation.",
+    "zh": "一家名為 Shift 的新創科技公司正在紐約市提供免費居家清潔服務。作為交換，該公司會記錄清潔過程的影像，以蒐集訓練人工智慧機器人的資料。此方法反映出一個更大的趨勢，即企業正努力尋找足夠的實體資料來教導機器執行人類任務。儘管公司承諾會保護隱私，但專家仍對這些資料的儲存與使用方式感到擔憂。業界持續尋求各種創新方式，以捕捉居家自動化所需的複雜動作。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Imagine a professional cleaner coming to your home to scrub your floors and wash your dishes for free. It sounds like a perfect deal, but there is a catch. A new tech startup called Shift is offering this service in New York City, but they require their cleaners to wear cameras that record everything they do inside your home. According to Ars Technica, the company uses this footage to train artificial intelligence (AI) to control future household robots.",
+      "zh": "想像一下，有一位專業清潔人員免費到府為您刷洗地板、清洗碗盤。這聽起來是一筆完美的交易，但其中有個附帶條件。一家名為 Shift 的新創科技公司正在紐約市提供這項服務，但他們要求清潔人員配戴攝影機，記錄下您家中發生的一切。根據科技媒體 Ars Technica 報導，該公司利用這些影像來訓練人工智慧，以控制未來的居家機器人。"
+    },
+    {
+      "id": "p2",
+      "en": "This unusual business model highlights a major challenge in the world of technology. While AI tools like chatbots can learn from text found on the internet, robots must learn to interact with the physical world. As The Verge reports, tasks that humans find simple—such as folding clothes, picking up an apple, or pouring a glass of water—are very difficult for machines to understand. Robots need to learn about space, motion, and how different objects feel and move. Because this information is not easily available online, companies are now looking for ways to record real-world human behavior.",
+      "zh": "這種不尋常的商業模式凸顯了科技界的一大挑戰。雖然像聊天機器人這類人工智慧工具可以從網路上的文字進行學習，但機器人必須學會與實體世界互動。正如科技媒體 The Verge 所報導，人類認為簡單的任務——例如摺衣服、撿起蘋果或倒一杯水——對機器來說卻非常難以理解。機器人需要學習空間、動作，以及不同物體的手感與移動方式。由於這些資訊在網路上不易取得，企業現在正設法記錄真實世界中的人類行為。"
+    },
+    {
+      "id": "p3",
+      "en": "Shift is not the only company trying to solve this problem. In India, a home services platform called Pronto has also been recording footage of chores like cooking and laundry in clients' homes. Meanwhile, other companies are hiring workers to perform the same simple tasks over and over again while wearing cameras. This creates what some call \"data farms,\" where the goal is to turn boring, repetitive physical actions into valuable training material for machines. Some startups, such as Human Archive, are even asking workers to wear special camera caps to record their daily activities from their own point of view.",
+      "zh": "Shift 並非唯一試圖解決此問題的公司。在印度，一個名為 Pronto 的居家服務平台也一直在客戶家中記錄烹飪和洗衣等家務影像。同時，其他公司也正聘請員工配戴攝影機，不斷重複執行相同的簡單任務。這創造了所謂的「數據農場」，目標是將枯燥、重複的肢體動作轉化為機器寶貴的訓練素材。一些新創公司，例如 Human Archive，甚至要求員工配戴特殊的攝影機帽，從自己的視角記錄日常活動。"
+    },
+    {
+      "id": "p4",
+      "en": "Privacy is a major concern for many people when they hear about these practices. The Shift app website claims that it protects users by automatically blurring faces, names, and other personal information before any data is uploaded to their servers. They state that this process happens directly on the recording devices to ensure that sensitive details are hidden. However, Ars Technica noted that there is no clear way for customers to ask the company to delete their videos once they are part of the robot training collection. It also remains unclear if these blurring techniques are strong enough to prevent people from identifying a home based on the background details in the footage.",
+      "zh": "當許多人聽聞這些做法時，隱私成為了一大疑慮。Shift 的應用程式網站聲稱，他們會在資料上傳至伺服器前，自動模糊人臉、姓名及其他個人資訊以保護使用者。他們表示，此過程直接在錄影設備上完成，以確保敏感細節被隱藏。然而，Ars Technica 指出，客戶目前沒有明確管道要求公司刪除已納入機器人訓練資料庫的影片。此外，這些模糊技術是否足以防止他人透過影像中的背景細節辨識出住家，目前仍不清楚。"
+    },
+    {
+      "id": "p5",
+      "en": "The reaction to these data-gathering methods has been mixed. While some people are happy to trade their privacy for a free service, others are more cautious. According to The Verge, the practice of recording inside homes has caused a wave of disagreement in the industry. Some rival companies have stated that they have never recorded inside private homes and have no plans to do so in the future. They argue that there are other ways to collect the data needed for robotics without entering a customer's private space.",
+      "zh": "對於這些資料蒐集方式，各界反應不一。雖然有些人樂於用隱私換取免費服務，但其他人則較為謹慎。根據 The Verge 報導，在私人住宅內進行錄影的做法已在業界引發一波爭議。一些競爭對手表示，他們從未在私人住宅內進行錄影，未來也沒有此類計畫。他們主張，在不進入客戶私人空間的情況下，仍有其他方式能蒐集機器人技術所需的資料。"
+    },
+    {
+      "id": "p6",
+      "en": "Despite the excitement surrounding AI, true automation—where a robot can fully manage a home without human help—is still a long way off. Companies are currently in a race to see who can gather the best data the fastest. Shift has already announced plans to expand its services to other cities, including London. As they grow, they claim to have already paid tens of thousands of people across 15 countries to record their activities for the sake of technological progress.",
+      "zh": "儘管人工智慧備受矚目，但真正的自動化——即機器人能在無人協助下完全打理家務——仍有很長一段路要走。目前各家公司正競相角逐，看誰能最快蒐集到最優質的資料。Shift 已宣布計畫將服務擴展至包括倫敦在內的其他城市。隨著業務成長，他們聲稱已支付費用給 15 個國家數以萬計的人，請他們記錄自己的活動，以推動技術進步。"
+    },
+    {
+      "id": "p7",
+      "en": "For now, the decision rests with the consumer. If you are willing to let a camera watch you live your life, you might get your floors cleaned for free. But as this technology becomes more common, the public will have to decide how much of their personal space they are willing to share. The race to build the perfect household robot is just beginning, and for now, it seems that our daily chores are the most valuable fuel for that journey.",
+      "zh": "目前，決定權掌握在消費者手中。如果您願意讓攝影機記錄您的生活，或許就能獲得免費的地板清潔服務。但隨著這項技術日益普及，大眾將必須決定自己願意分享多少私人空間。打造完美居家機器人的競賽才剛開始，而就目前而言，我們的日常家務似乎正是這段旅程中最寶貴的燃料。"
+    }
+  ],
+  "wordCount": 718,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "catch",
+      "definitionEn": "A hidden problem or disadvantage in a situation that seems good.",
+      "definitionZh": "隱藏的問題、陷阱或缺點。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（捕捉），這裡作名詞，指隱藏的條件或問題。文中：It sounds like a perfect deal, but there is a catch."
+    },
+    {
+      "term": "trade",
+      "definitionEn": "To give something up in exchange for something else.",
+      "definitionZh": "交換、以……換取……。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（貿易），這裡作動詞，指為了獲得某物而放棄另一物。文中：While some people are happy to trade their privacy for a free service, others are more cautious."
+    },
+    {
+      "term": "rests with",
+      "definitionEn": "To be the responsibility of someone to make a decision.",
+      "definitionZh": "取決於某人、責任在於某人。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見作動詞（休息），這裡與 with 連用，表示決定權或責任歸屬。文中：For now, the decision rests with the consumer."
+    },
+    {
+      "term": "fuel",
+      "definitionEn": "Something that provides the energy or power for a process to continue.",
+      "definitionZh": "動力來源、刺激因素。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作名詞（燃料），這裡比喻為推動科技發展的動力。文中：it seems that our daily chores are the most valuable fuel for that journey."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
+      "title": "Startup offers free home cleaning—if it can record it all for robot training",
+      "publishedAt": "2026-05-29T16:16:14Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
+      "title": "Tech companies desperately want to film you doing chores",
+      "publishedAt": "2026-05-29T17:37:43Z"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, how does the company Shift handle the protection of sensitive user data?",
+      "options": {
+        "A": "They allow customers to request the deletion of their videos at any time.",
+        "B": "They use automated technology on the recording devices to obscure personal identifiers.",
+        "C": "They manually review every hour of footage to remove private information before storage.",
+        "D": "They promise not to record any background details that could reveal a home's location."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第四段，Shift 聲稱他們會自動模糊人臉、姓名等個人資訊，且此過程是在錄影設備上直接完成的。選項 A 錯誤，因為文章提到客戶目前沒有明確的方法要求刪除已納入資料庫的影片。選項 C 錯誤，文章並未提到有人工審核過程。選項 D 錯誤，文章指出背景細節是否能完全隱藏仍是不確定的。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the current state of robotics technology based on the text?",
+      "options": {
+        "A": "Robots are already capable of managing household chores without human assistance.",
+        "B": "Collecting data from the internet is sufficient for robots to learn physical tasks.",
+        "C": "Companies believe that observing human physical movement is essential for future robotic development.",
+        "D": "The industry has reached a consensus that recording inside private homes is unethical."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第二段，文章提到機器人需要學習空間感與物體互動，而這些資訊在網路上難以取得，因此公司必須記錄人類的真實行為。選項 A 與文章最後一段矛盾，稱完全自動化仍遙不可及。選項 B 錯誤，因為第二段明確指出網路資訊對機器人學習物理任務是不夠的。選項 D 錯誤，文章第五段提到業界對此有分歧，並非所有公司都認為這是不道德的。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the author mean by calling daily chores the 'most valuable fuel' for the journey toward household robots?",
+      "options": {
+        "A": "Daily chores provide the essential data needed to train and improve AI systems.",
+        "B": "Human labor is physically exhausting and requires a lot of energy to perform.",
+        "C": "Robots will eventually replace all human workers to perform chores more efficiently.",
+        "D": "The cost of performing daily chores is the biggest financial obstacle for tech startups."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。這裡的「fuel」（燃料）是隱喻用法，指推動機器人技術進步的關鍵原料，即人類日常瑣事的數據。選項 B 將詞彙誤解為字面上的體力消耗。選項 C 雖是未來願景，但並非「fuel」在此處的意涵。選項 D 錯誤，文章討論的是數據蒐集而非財務成本作為主要障礙。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "Which statement best summarizes the central message of the article?",
+      "options": {
+        "A": "Tech startups are successfully creating robots that can clean homes for free.",
+        "B": "Privacy concerns are the only reason why people refuse to participate in data-gathering programs.",
+        "C": "The race to develop household robots is driving companies to collect data from private homes, raising significant privacy questions.",
+        "D": "Recording human behavior is an outdated method that companies are trying to replace with AI chatbots."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。本文整體探討了科技公司為了訓練機器人，透過錄製人類居家行為來獲取數據，並同時引發了隱私權的爭議與倫理討論。選項 A 過度簡化且不符合事實，因為機器人尚未完全取代人類。選項 B 錯誤，因為文章提到有些人是願意為了免費服務而放棄隱私的。選項 D 錯誤，文章強調的是錄影行為正處於高峰，而非過時。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite-preview",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}

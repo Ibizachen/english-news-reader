@@ -1,0 +1,145 @@
+{
+  "id": "2026-05-22-google-appeals-search-monopoly-ruling",
+  "slug": "google-appeals-search-monopoly-ruling-may-2026",
+  "publishedAt": "2026-05-22T23:18:52.134820Z",
+  "category": "technology",
+  "title": "Google Fights Legal Ruling on Search Monopoly",
+  "subtitle": "The tech giant is challenging a court decision that labeled its search business illegal, while simultaneously changing how users search the web.",
+  "summary": {
+    "en": "Google has officially appealed a federal court ruling that declared it an illegal monopoly. The company argues that its success comes from providing a better product rather than unfair business practices. Meanwhile, Google is updating its search engine to include more artificial intelligence features. These changes have sparked concerns from critics about user choice and the future of information. The legal battle will now move to a federal appeals court in Washington, D.C.",
+    "zh": "Google 已正式針對聯邦法院裁定其為非法壟斷企業的判決提出上訴。該公司主張其成功源於產品優勢，而非不公平的商業行為。與此同時，Google 正為其搜尋引擎更新更多人工智慧功能。這些變革引發評論家對於使用者選擇權與資訊未來的擔憂。此法律訴訟目前已移交至華盛頓特區的聯邦上訴法院審理。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Google has officially taken the next step in a major legal battle by appealing a federal court ruling that declared the company an illegal monopoly. In August 2024, a judge decided that Google had used unfair practices to maintain its dominance in the search engine market. The company is now asking the court to overturn this decision, arguing that it won its position in the marketplace \"fair and square.\"",
+      "zh": "Google 已正式採取法律行動，針對聯邦法院裁定該公司為非法壟斷企業的判決提出上訴。二零二四年八月，法官裁定 Google 利用不公平手段維持其在搜尋引擎市場的支配地位。目前該公司正請求法院撤銷此項裁決，並主張其市場地位是透過「正當競爭」贏得的。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Verge, Google’s legal team claims that the original ruling was flawed. The company argues that its agreements with device and browser makers were not meant to stop competition, but were simply a result of partners preferring Google’s services because they provide the best results. Google’s Vice President of regulatory affairs, Lee-Anne Mulholland, stated that users and partners have many options and choose Google because it is the most helpful tool available. The company is specifically fighting against a September 2025 order that would force it to share certain search data with its competitors.",
+      "zh": "根據科技媒體 The Verge 報導，Google 的法律團隊聲稱最初的判決存在瑕疵。該公司主張，其與裝置及瀏覽器製造商簽署的協議並非為了阻礙競爭，僅是因為合作夥伴偏好 Google 的服務，認為其能提供最佳搜尋結果。Google 負責監管事務的副總裁李安·穆赫蘭 (Lee-Anne Mulholland) 表示，使用者與合作夥伴擁有許多選擇，選擇 Google 是因為它是目前最實用的工具。該公司目前正極力反對二零二五年九月的一項命令，該命令將強制其與競爭對手分享特定的搜尋數據。"
+    },
+    {
+      "id": "p3",
+      "en": "Google also expressed strong disagreement with the judge’s decision to require data sharing with generative artificial intelligence companies. The tech giant argued that these AI companies did not even exist during the time period in question and are already succeeding without needing to rely on Google’s data. While Google is fighting to remove these requirements, the U.S. government and a group of states are also appealing the decision. They argue that the judge should have gone further, specifically by forcing Google to sell its Chrome browser to ensure a more competitive market. The case is now headed to a federal appeals court in Washington, D.C., and could eventually reach the Supreme Court.",
+      "zh": "Google 同時對法官要求其與生成式人工智慧公司分享數據的決定表示強烈反對。這家科技巨頭辯稱，這些人工智慧公司在爭議期間甚至尚未成立，且即便沒有依賴 Google 的數據也已取得成功。在 Google 爭取撤銷這些要求的同時，美國政府與多個州政府也對該判決提出上訴。他們主張法官應採取更進一步的措施，特別是強制 Google 出售其 Chrome 瀏覽器，以確保市場更具競爭力。此案目前已送交華盛頓特區的聯邦上訴法院，最終可能上達最高法院。"
+    },
+    {
+      "id": "p4",
+      "en": "While the legal fight continues, Google is also making significant changes to its core product. For over twenty years, the Google search box has been a simple, single-line space where users type questions. As reported by NPR, the company is now transforming this tool by merging traditional web search with artificial intelligence. The new search experience allows users to drop videos, pictures, and files into the search box for what the company calls \"multimodal\" search. This means the system can process different types of information at once.",
+      "zh": "在法律訴訟持續進行的同時，Google 也正對其核心產品進行重大變革。二十多年來，Google 搜尋框一直是一個簡單的單行輸入欄，供使用者輸入問題。據美國公共廣播電台 (NPR) 報導，該公司目前正透過將傳統網路搜尋與人工智慧結合，來改造這項工具。新的搜尋體驗允許使用者將影片、圖片與檔案拖曳至搜尋框中，進行該公司所謂的「多模態」搜尋。這意味著系統可以同時處理不同類型的資訊。"
+    },
+    {
+      "id": "p5",
+      "en": "Behind these changes is a move toward \"AI Overviews,\" which provide short summaries at the top of search results. Liz Reid, who oversees search at Google, explained that users are increasingly asking longer, more natural questions rather than just typing in short keywords. By understanding these natural conversations, Google hopes to better understand what users want, which could lead to more effective advertising. Additionally, the company is introducing \"agentic\" features, which allow the search engine to perform tasks over time, such as checking for theater tickets or notifying shoppers when a product goes on sale.",
+      "zh": "這些變革背後是向「人工智慧概覽」的轉型，該功能會在搜尋結果頂端提供簡短摘要。負責 Google 搜尋業務的麗茲·里德 (Liz Reid) 解釋，使用者越來越傾向於提出更長、更自然的提問，而非僅輸入簡短的關鍵字。透過理解這些自然對話，Google 希望能更精準地掌握使用者需求，進而帶來更有效的廣告投放。此外，該公司正引入「代理」功能，使搜尋引擎能隨時間執行任務，例如查詢電影票或在商品特價時通知消費者。"
+    },
+    {
+      "id": "p6",
+      "en": "These changes have raised concerns among some experts. Independent technology analyst Carolina Milanesi noted that while these updates might make shopping easier, they could also reduce the control users have over their choices. In the past, a user would receive a list of links and decide which one to click. With AI-enabled search, the system might provide a single answer or suggest products without clearly showing where that information came from. Milanesi warned that users might not know if the AI is picking the best product for them or if it is simply showing them a store that paid to be included in the results.",
+      "zh": "這些變革引起部分專家的擔憂。獨立科技分析師卡羅琳娜·米拉內西 (Carolina Milanesi) 指出，雖然這些更新可能讓購物更便利，但也可能削弱使用者對選擇的掌控權。過去，使用者會收到一串連結清單，並自行決定點擊哪一個。在人工智慧驅動的搜尋中，系統可能會直接提供單一答案或推薦商品，卻未清楚標示資訊來源。米拉內西警告，使用者可能無法得知人工智慧究竟是為他們挑選了最好的產品，還是僅僅顯示了付費購買廣告版位的商店。"
+    },
+    {
+      "id": "p7",
+      "en": "As Google balances these technological shifts with its legal challenges, the future of the internet search experience remains uncertain. The company is investing billions into AI, viewing it as the future of its business strategy. However, the ongoing court case highlights a growing tension between the company’s desire to innovate and the government’s efforts to ensure fair competition. With the case now in the hands of the appeals court, both the legal outcome and the way people use the web are set to change significantly in the coming years.",
+      "zh": "隨著 Google 在技術轉型與法律挑戰之間尋求平衡，網路搜尋體驗的未來仍充滿不確定性。該公司正投入數十億美元發展人工智慧，將其視為商業策略的未來。然而，持續進行的訴訟凸顯了該公司追求創新與政府確保公平競爭之間的緊張關係。隨著案件進入上訴法院審理，法律判決結果以及大眾使用網路的方式，在未來幾年內都將面臨重大改變。"
+    }
+  ],
+  "wordCount": 728,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "fair and square",
+      "definitionEn": "Completely honest and according to the rules.",
+      "definitionZh": "光明正大地；公平公正地。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這是一個常見的慣用語，用來強調過程完全合法且誠實。文中：The company is now asking the court to overturn this decision, arguing that it won its position in the marketplace \"fair and square.\""
+    },
+    {
+      "term": "drop",
+      "definitionEn": "To move or place something into a specific location, often in a digital interface.",
+      "definitionZh": "（在數位介面中）拖放、放入。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見意思是「掉落」，但在數位操作情境下指將檔案放入某處。文中：The new search experience allows users to drop videos, pictures, and files into the search box for what the company calls \"multimodal\" search."
+    },
+    {
+      "term": "oversees",
+      "definitionEn": "To be in charge of a department or project and ensure it is done correctly.",
+      "definitionZh": "監督；管理；負責。",
+      "partOfSpeech": "verb",
+      "noteZh": "容易與 overlook（忽略）混淆，但意思完全不同。文中：Liz Reid, who oversees search at Google, explained that users are increasingly asking longer, more natural questions rather than just typing in short keywords."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/policy/936175/google-search-monopoly-ruling-appeal",
+      "title": "Google appeals search monopoly ruling, says it won business &#8216;fair and square’",
+      "publishedAt": "2026-05-22T16:28:56Z"
+    },
+    {
+      "name": "NPR News",
+      "url": "https://www.npr.org/2026/05/22/nx-s1-5829915/google-search-box-ai",
+      "title": "Ask AI or just Google it? Google makes a big change to a little search box",
+      "publishedAt": "2026-05-22T19:05:25Z"
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is one specific reason Google provides for opposing the court's order regarding generative AI companies?",
+      "options": {
+        "A": "Google believes that sharing data with AI companies would violate its user privacy policies.",
+        "B": "Google argues that these AI companies were not in existence during the period the court is investigating.",
+        "C": "Google claims that AI companies have already surpassed its own search technology in efficiency.",
+        "D": "Google asserts that it is legally prohibited from sharing data with third-party software developers."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，Google 反對與生成式 AI 公司分享數據，理由之一是這些公司在該案所調查的時期根本不存在。選項 A 文章未提及隱私政策作為抗辯理由；選項 C 文章提到 AI 公司已取得成功，但未說它們技術超越 Google；選項 D 文章中並未提到法律禁止分享數據給開發者，僅提到 Google 拒絕該命令。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the government's stance on the Google monopoly case?",
+      "options": {
+        "A": "The government believes that Google's integration of AI is the primary cause of the monopoly.",
+        "B": "The government is satisfied with the judge's current ruling and does not wish to pursue further penalties.",
+        "C": "The government thinks the current court-ordered remedies are insufficient to ensure market competition.",
+        "D": "The government wants to stop Google from updating its search interface with multimodal features."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第三段，政府與部分州政府也提出上訴，認為法官應該採取更嚴厲的手段，例如強制 Google 出售 Chrome 瀏覽器，這顯示政府認為目前的裁決不足以解決市場競爭問題。選項 A 文章未將 AI 整合視為壟斷主因；選項 B 與原文矛盾，因為政府正在上訴；選項 D 文章未提及政府試圖阻止 Google 的介面更新。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fifth paragraph, what does the word 'agentic' mean in the context of Google's new search features?",
+      "options": {
+        "A": "Capable of performing independent actions or tasks on behalf of the user.",
+        "B": "Highly complex and difficult for the average user to understand or operate.",
+        "C": "Operating exclusively through voice commands rather than text input.",
+        "D": "Requiring constant human supervision to ensure accuracy and safety."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。文中提到 'agentic' 功能是指搜尋引擎能執行任務，例如檢查劇院門票或通知購物者商品折扣，這代表系統能像代理人一樣主動執行操作。選項 B 與文章描述的便利性不符；選項 C 文章提到的是多模態搜尋，而非僅限語音；選項 D 文章並未暗示這些功能需要人類持續監控，反而是強調其自動化特質。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central theme of the article?",
+      "options": {
+        "A": "A detailed history of how Google became the world's most popular search engine.",
+        "B": "A technical guide on how to use Google's new multimodal and AI-powered search tools.",
+        "C": "An analysis of how Google's legal battles and its transition to AI search are shaping its future.",
+        "D": "A comparison between Google's search engine and the emerging generative AI companies."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。本文的核心在於探討 Google 目前面臨的雙重壓力：一是法律上的反壟斷訴訟，二是產品策略上轉向 AI 搜尋。文章開頭討論法律訴訟，中間過渡到 AI 產品變革，最後總結這兩者如何共同影響 Google 的未來。選項 A 缺乏對法律與 AI 的討論；選項 B 非技術教學；選項 D 僅是文章的部分細節，而非整體主旨。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite-preview",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
