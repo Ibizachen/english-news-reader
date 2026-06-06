@@ -70,7 +70,8 @@ STYLE REQUIREMENTS — follow these exactly:
 4. READING LEVEL: CEFR B1-B2. Sentences should be clear and not too complex,
    but the content should be substantive and informative.
 
-5. LENGTH: 6-8 paragraphs, 600-900 words total in English.
+5. LENGTH: Write exactly 7 paragraphs. Each paragraph must be at least 90 words.
+   The total English word count must be at least 600 words. Do not write short paragraphs.
 
 6. TRANSLATION: Translate each paragraph into Traditional Chinese (繁體中文).
    Use Taiwan-style transliterations (川普 not 特朗普, 雪梨 not 悉尼, etc.).

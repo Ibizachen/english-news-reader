@@ -1,0 +1,37 @@
+{
+  "id": "ai-data-centers-energy-series",
+  "title": "The Power Behind the Prompt: AI and the Energy Crisis",
+  "subtitle": "How the rapid expansion of AI data centers is reshaping global energy demands",
+  "description": "This series explores the intersection of high-performance computing and electrical grids. Readers will gain insight into the environmental, economic, and geopolitical implications of the AI boom — from the hidden cost of a single search query to the future of nuclear power and grid modernization.",
+  "category": "energy",
+  "status": "active",
+  "updatedAt": "2026-06-06T11:45:31.688771Z",
+  "cadence": "5-part reading path. Complete series available.",
+  "articles": [
+    {
+      "slug": "ai-data-centers-energy-series-part-1",
+      "label": "Part 1",
+      "note": "Why AI models require so much electricity — and how this compares to traditional computing."
+    },
+    {
+      "slug": "ai-data-centers-energy-series-part-2",
+      "label": "Part 2",
+      "note": "The tension between Big Tech's sustainability pledges and the reality of power grid capacity."
+    },
+    {
+      "slug": "ai-data-centers-energy-series-part-3",
+      "label": "Part 3",
+      "note": "What happens when a region's grid reaches its limit — and which areas have already said no."
+    },
+    {
+      "slug": "ai-data-centers-energy-series-part-4",
+      "label": "Part 4",
+      "note": "The environmental and economic costs — carbon emissions, rising electricity bills, and community impacts."
+    },
+    {
+      "slug": "ai-data-centers-energy-series-part-5",
+      "label": "Part 5",
+      "note": "Nuclear power, efficiency gains, and policy options: what could actually solve the problem."
+    }
+  ]
+}
