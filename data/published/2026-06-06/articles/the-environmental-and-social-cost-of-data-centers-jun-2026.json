@@ -1,0 +1,179 @@
+{
+  "id": "2026-06-06-the-environmental-and-social-cost-of-data-centers",
+  "slug": "the-environmental-and-social-cost-of-data-centers-jun-2026",
+  "publishedAt": "2026-06-06T23:15:47.457113Z",
+  "category": "technology",
+  "title": "The Growing Conflict Over AI Data Centers",
+  "subtitle": "As tech companies rush to build massive facilities, local communities are pushing back against the strain on energy and the environment.",
+  "summary": {
+    "en": "New York is considering a temporary ban on large data centers to protect its aging power grid from the high energy demands of artificial intelligence. Across the United States, residents are increasingly opposing these projects due to concerns about utility costs and environmental impact. In some areas, the tension has led to disrespectful comments from local leaders toward concerned citizens. The debate highlights a deep divide between the needs of the tech industry and the interests of local communities. Lawmakers are now seeking more control over how these massive facilities are built and managed.",
+    "zh": "紐約州正考慮對大型資料中心實施臨時禁令，以保護其老舊的電網免受人工智慧高能源需求的衝擊。在美國各地，由於對水電成本與環境影響的擔憂，居民對這類計畫的反對聲浪日益高漲。在某些地區，這種緊張局勢甚至導致地方首長對憂心忡忡的市民發表不尊重的言論。這場辯論凸顯了科技產業需求與地方社區利益之間的巨大鴻溝。立法者目前正尋求對這些大型設施的興建與管理方式擁有更多控制權。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The rapid expansion of artificial intelligence is changing the way we live, but it is also creating a new wave of conflict in communities across the United States. As tech companies look for space to build massive data centers—the large buildings that house the computers needed to power AI—they are meeting strong resistance from local residents. These citizens are worried about the high cost of electricity, the impact on the environment, and the strain these facilities place on local power grids.",
+      "zh": "人工智慧的快速擴張正在改變我們的生活方式，但也同時在美國各地的社區引發了新一波的衝突。隨著科技公司尋求空間來興建大型資料中心——即容納驅動人工智慧所需電腦設備的大型建築——他們正遭遇當地居民的強烈抵制。這些民眾擔憂電費高昂、環境受到衝擊，以及這些設施對當地電網造成的沉重負擔。"
+    },
+    {
+      "id": "p2",
+      "en": "In New York, the state legislature recently took a major step toward addressing these concerns. According to The Guardian, lawmakers approved a one-year moratorium—a temporary pause on new construction—for large data centers. The bill, which is now waiting for Governor Kathy Hochul’s final decision, targets “hyperscale” facilities that use a large amount of electricity. State Senator Kristen Gonzalez, who helped write the bill, explained that the goal is to ensure the state has enough power for its residents. She noted that many proposed projects could add nearly 10,000 megawatts of energy demand to an already struggling power system. The bill would also require new studies on how these buildings affect water usage, electricity bills, and the environment.",
+      "zh": "在紐約州，州議會近期針對解決這些疑慮採取了重大行動。根據《衛報》（The Guardian）報導，立法者批准了一項為期一年的暫停令，即暫時凍結大型資料中心的新建案。這項法案目前正等待州長侯可（Kathy Hochul）做出最終決定，其目標鎖定那些消耗大量電力的「超大規模」設施。參與法案起草的州參議員岡薩雷斯（Kristen Gonzalez）解釋，此舉旨在確保州內有足夠的電力供應給居民。她指出，許多擬議中的計畫可能會讓原本就已吃緊的電力系統增加近一萬百萬瓦的能源需求。該法案也將要求針對這些建築如何影響用水、電費及環境進行新的評估。"
+    },
+    {
+      "id": "p3",
+      "en": "This movement in New York is not an isolated event. Across the country, many people are feeling overwhelmed by the speed of tech development. A poll from Heatmap, cited by The Guardian, shows that nearly three-quarters of Americans oppose having a data center built near their homes. While some states have considered similar bans, New York has moved further than most. In Maine, for example, the legislature passed a temporary ban, but the governor later vetoed it, or rejected the law, preventing it from going into effect.",
+      "zh": "紐約州的這項運動並非單一事件。在全美各地，許多民眾對於科技發展的速度感到難以負荷。根據《衛報》引述《熱圖》（Heatmap）的一項民調顯示，近四分之三的美國人反對在住家附近興建資料中心。雖然有些州曾考慮過類似的禁令，但紐約州的進展比多數地區更為深入。例如在緬因州，州議會雖通過了臨時禁令，但隨後遭到州長否決，導致該法案無法生效。"
+    },
+    {
+      "id": "p4",
+      "en": "For many residents, the issue is not just about energy; it is about being heard. In Shelbyville, Indiana, a proposed $2 billion data center project has caused significant anger. The situation became even more tense after the city’s mayor, Scott Furgeson, made negative comments about residents who displayed “No Data Center” signs. According to The Verge, the mayor suggested that only people living in “shitty houses” opposed the project. This remark was widely criticized as disrespectful to working-class citizens. While a spokesperson for the mayor later said that he regretted his choice of words, the incident highlights the deep frustration felt by many people who feel their concerns are being ignored by officials.",
+      "zh": "對許多居民而言，問題不僅在於能源，更在於他們的聲音是否被聽見。在印第安納州的謝爾比維爾（Shelbyville），一項預算達二十億美元的資料中心開發案引發了強烈憤怒。在市長佛格森（Scott Furgeson）對展示「拒絕資料中心」標語的居民發表負面評論後，情況變得更加緊張。根據《邊緣》（The Verge）報導，市長暗示只有住在「破爛房子」裡的人才會反對該計畫。此番言論被廣泛批評為對勞工階級民眾的不尊重。儘管市長發言人隨後表示他對用詞感到後悔，但此事件凸顯了許多民眾因感到訴求被官員忽視而產生的深層挫折感。"
+    },
+    {
+      "id": "p5",
+      "en": "Tech companies and industry groups, such as the Data Center Coalition, argue that these facilities are essential for the future of technology. They believe that the growth of AI is a necessary step forward and that data centers are a key part of this progress. However, critics argue that the current path is unsustainable. They point out that big tech companies have historically been allowed to operate with very few rules. Senator Gonzalez noted that this is a moment for state governments to take control and ensure that the needs of local communities come before the interests of large technology corporations.",
+      "zh": "科技公司與產業團體（如資料中心聯盟）主張，這些設施對科技的未來至關重要。他們認為人工智慧的成長是必要的進步，而資料中心正是此一進程的關鍵部分。然而，批評者認為目前的發展路徑無法永續。他們指出，大型科技公司過去以來一直被允許在極少規範下運作。參議員岡薩雷斯指出，現在正是州政府採取行動的時候，必須確保當地社區的需求優先於大型科技企業的利益。"
+    },
+    {
+      "id": "p6",
+      "en": "As the debate continues, the focus remains on finding a balance between technological growth and the well-being of the public. The proposed New York law would require companies to meet new standards for energy efficiency and transparency. It would also provide protections for ratepayers, the people who pay for electricity, to ensure that their monthly bills do not rise sharply because of the massive power needs of AI.",
+      "zh": "隨著辯論持續進行，焦點仍放在如何在科技成長與公眾福祉之間取得平衡。紐約州擬議的法律將要求企業達到能源效率與透明度的新標準。這也將為繳費者（即支付電費的民眾）提供保障，確保他們的每月帳單不會因為人工智慧龐大的電力需求而大幅飆升。"
+    },
+    {
+      "id": "p7",
+      "en": "Looking ahead, it is clear that the relationship between tech companies and the communities they operate in is at a turning point. Whether it is through statewide bans or local protests, citizens are demanding a seat at the table. The coming months will be critical as leaders like Governor Hochul decide how to handle these requests. For now, the message from many Americans is simple: they do not want to sacrifice their water, their green space, or their affordable energy for the sake of the AI boom.",
+      "zh": "展望未來，科技公司與其營運所在社區之間的關係顯然正處於轉捩點。無論是透過全州性的禁令還是地方抗爭，公民們正要求在決策過程中佔有一席之地。未來幾個月將至關重要，因為像州長侯可這樣的領導人必須決定如何處理這些訴求。目前，許多美國民眾傳達的訊息很簡單：他們不願為了人工智慧的繁榮，而犧牲自己的用水、綠地或負擔得起的能源。"
+    }
+  ],
+  "wordCount": 732,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "house",
+      "definitionEn": "To provide a space or building for something.",
+      "definitionZh": "容納、安置（某物）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（房子），這裡作動詞用。文中：the large buildings that house the computers needed to power AI—they are meeting strong resistance from local residents."
+    },
+    {
+      "term": "strain",
+      "definitionEn": "A force or pressure that causes difficulty or damage to something.",
+      "definitionZh": "壓力、負擔。",
+      "partOfSpeech": "noun",
+      "noteZh": "此處指對基礎設施造成的負擔，而非身體的拉傷。文中：the strain these facilities place on local power grids."
+    },
+    {
+      "term": "ratepayers",
+      "definitionEn": "People who pay for a public service, especially electricity or water.",
+      "definitionZh": "繳費者、用戶（特指支付水電費的民眾）。",
+      "partOfSpeech": "noun",
+      "noteZh": "這是公共事業領域的專有名詞，容易被誤認為一般的「納稅人」。文中：It would also provide protections for ratepayers, the people who pay for electricity, to ensure that their monthly bills do not rise sharply because of the massive power needs of AI."
+    },
+    {
+      "term": "seat at the table",
+      "definitionEn": "The right or opportunity to be involved in discussions and decision-making.",
+      "definitionZh": "參與決策的權利、發言權。",
+      "partOfSpeech": "idiom",
+      "noteZh": "字面意思是「桌邊的位子」，實際指參與討論的權利。文中：Whether it is through statewide bans or local protests, citizens are demanding a seat at the table."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/us-news/2026/jun/06/new-york-datacenter-temporary-ban",
+      "title": "‘We should not have to sacrifice’: New York could become first state to temporarily ban large datacenters",
+      "publishedAt": "2026-06-06T12:00:04Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
+      "title": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
+      "publishedAt": "2026-06-06T15:05:00Z"
+    }
+  ],
+  "story": {
+    "id": "consequences-the-cost-of-progress",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "the-environmental-cost-of-ai-data-centers-jun-2026",
+        "title": "The Growing Conflict Over AI Data Centers",
+        "publishedAt": "2026-06-06T22:13:25.237796Z",
+        "category": "technology",
+        "summaryEn": "New York state is moving toward a temporary ban on large data centers to protect its energy grid. This follows a national trend of local communities questioning the environmental and economic costs of AI infrastructure. Meanwhile, tensions are rising in other parts of the country as leaders and residents clash over these developments. The debate highlights the struggle between rapid technological growth and the needs of local citizens. Lawmakers are now seeking more transparency and regulation for the tech industry."
+      },
+      {
+        "slug": "ai-data-centers-energy-series-part-4",
+        "title": "Consequences: The Cost of Progress",
+        "publishedAt": "2026-06-06T13:07:51.798280Z",
+        "category": "technology",
+        "summaryEn": "This article examines how the massive energy demands of AI data centers affect the environment and household electricity costs. It discusses the conflict between technological growth and global net-zero carbon goals. Finally, it explores the socioeconomic impacts on local communities near large computing facilities."
+      },
+      {
+        "slug": "ai-data-centers-energy-series-part-3",
+        "title": "The Turning Point: When Grids Reach Their Limit",
+        "publishedAt": "2026-06-06T13:07:35.207487Z",
+        "category": "technology",
+        "summaryEn": "This article examines how the rapid growth of AI data centers is putting pressure on electrical grids. We look at cases where power demand has forced officials to pause new construction. Finally, we discuss how local communities are responding to the noise and energy usage of these massive facilities."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the primary purpose of the bill currently awaiting Governor Kathy Hochul’s approval in New York?",
+      "options": {
+        "A": "To permanently ban all technology companies from operating in New York.",
+        "B": "To pause new construction of large data centers while their impact is studied.",
+        "C": "To force data centers to relocate to areas with lower electricity costs.",
+        "D": "To increase the tax revenue collected from AI-related infrastructure projects."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，紐約州立法機關通過了一項為期一年的「moratorium」（暫停令），目的是在新的建設案上暫停，以便針對這些設施對電力、水資源及環境的影響進行研究。選項 A 錯誤，因為這只是暫時性的暫停，並非永久禁止。選項 C 文中未提及搬遷要求。選項 D 雖然提到能源需求，但法案重點在於監管與評估，而非增加稅收。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, what can be inferred about the relationship between local residents and government officials in places like Shelbyville, Indiana?",
+      "options": {
+        "A": "Officials are successfully mediating conflicts between residents and tech companies.",
+        "B": "Residents feel that local leaders are prioritizing corporate interests over their own concerns.",
+        "C": "The government is actively encouraging residents to protest against new data centers.",
+        "D": "Local leaders are neutral and have no opinion on the construction of data centers."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第四段描述了 Shelbyville 市長對反對者的貶低言論，以及最後一段提到民眾要求「在談判桌上佔有一席之地」，顯示居民認為政府忽視了他們的聲音。選項 A 與事實相反，因為市長的言論加劇了緊張關係。選項 C 錯誤，市長顯然是反對抗議者的。選項 D 不正確，因為市長明顯支持該項目並對反對者表現出敵意。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the phrase 'a seat at the table' mean in the context of the relationship between citizens and tech companies?",
+      "options": {
+        "A": "The right to be involved in the decision-making process.",
+        "B": "A physical location where protesters can gather.",
+        "C": "The demand for financial compensation from tech firms.",
+        "D": "The need for more office space in local communities."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。「A seat at the table」是一個慣用語，意指在決策過程中擁有發言權或影響力。文章最後一段提到公民要求參與，對照全文中提到的監管與透明度要求，這代表他們希望參與影響自身社區的決策。選項 B 是字面上的誤解。選項 C 雖然提到經濟影響，但這句話強調的是「參與權」而非單純的賠償。選項 D 與辦公空間無關。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "Which of the following best summarizes the central theme of the article?",
+      "options": {
+        "A": "The technical challenges of building data centers in rural areas.",
+        "B": "The history of how AI technology has evolved in the United States.",
+        "C": "The growing tension between the rapid expansion of AI infrastructure and the concerns of local communities.",
+        "D": "The political success of New York state in preventing all AI development."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。全文從第一段開始即點出 AI 擴張與社區衝突的矛盾，後續段落透過紐約的立法、印第安納州的爭議，以及各界對永續性的討論，完整呈現了這種衝突。選項 A 僅是細節之一。選項 B 文章並未探討 AI 技術本身的演變史。選項 D 誇大了紐約的作為，該法案僅是暫停，且並非阻止所有 AI 發展，僅針對大型數據中心。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
