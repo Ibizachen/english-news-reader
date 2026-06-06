@@ -14,7 +14,21 @@ env:
 on:
   schedule:
     - cron: "13 22 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      publish_date:
+        description: "Optional UTC date to write under data/published/YYYY-MM-DD"
+        required: false
+        type: string
+      fetch_window_hours:
+        description: "RSS lookback window in hours"
+        required: false
+        default: "24"
+        type: string
+      max_articles:
+        description: "Optional article limit for testing"
+        required: false
+        type: string
 
 # 工作流需要把產出的文章 commit 回 repo，所以要 write 權限
 permissions:
@@ -24,6 +38,10 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    env:
+      PUBLISH_DATE: ${{ inputs.publish_date }}
+      FETCH_WINDOW_HOURS: ${{ inputs.fetch_window_hours }}
+      MAX_ARTICLES: ${{ inputs.max_articles }}
 
     steps:
       - name: Checkout repo
@@ -59,12 +77,25 @@ jobs:
           EOF
 
       - name: Phase 2 — Fetch news from RSS
-        run: uv run python scripts/fetch_news.py
+        run: |
+          args=(--window "${FETCH_WINDOW_HOURS:-24}")
+          if [ -n "${PUBLISH_DATE:-}" ]; then
+            args+=(--date "$PUBLISH_DATE")
+          fi
+          uv run python scripts/fetch_news.py "${args[@]}"
 
       - name: Phase 3 — AI pipeline
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: uv run python scripts/ai_pipeline.py
+        run: |
+          args=()
+          if [ -n "${PUBLISH_DATE:-}" ]; then
+            args+=(--date "$PUBLISH_DATE" --publish-date "$PUBLISH_DATE")
+          fi
+          if [ -n "${MAX_ARTICLES:-}" ]; then
+            args+=(--max-articles "$MAX_ARTICLES")
+          fi
+          uv run python scripts/ai_pipeline.py "${args[@]}"
 
       # 即使 Phase 3 部分失敗（少數文章沒成功），把成功的部分先 commit 上去
       - name: Commit + push articles
@@ -77,5 +108,6 @@ jobs:
             echo "本次沒有新文章 — 跳過 commit"
             exit 0
           fi
-          git commit -m "🤖 Daily articles for $(date -u '+%Y-%m-%d')"
+          commit_date="${PUBLISH_DATE:-$(date -u '+%Y-%m-%d')}"
+          git commit -m "🤖 Daily articles for $commit_date"
           git push
