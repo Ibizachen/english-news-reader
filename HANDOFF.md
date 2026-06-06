@@ -8,10 +8,9 @@
 
 ## 目前目標
 
-Stories（追蹤專題）第二階段：
-把 AI 工具產生的連載文章草稿（`data/series_drafts/`）審閱後，
-放進 `data/published/`，並建立 `data/stories/` 書籤清單，
-讓「AI data centers and energy」這條連載出現在正式網站的 `/stories/` 頁面。
+Stories 第二階段已完成並部署。
+目前沒有進行中的工作，等待 Ibiza 決定下一步方向。
+候選方向：增加更多 Stories 主題、改善文章字數/品質、或開始其他功能。
 
 ---
 
@@ -63,37 +62,19 @@ Stories（追蹤專題）第二階段：
 
 ## 目前未完成
 
-### 優先度高
+### ✅ 全部完成（2026-06-06）
 
-1. **審閱 Part 2–5 的草稿文章**
-   - 打開 `data/series_drafts/ai-data-centers-energy-series/*.md` 逐篇確認
-   - 特別注意：引用是否有捏造來源？中文是否是台灣用語？
-   - 字數偏短（300–360 字），目標是 600–900 字 → 可調整 prompt 的 max_tokens 或要求更多段落
+1. ✅ 審閱 Part 1 草稿（Ibiza 確認 OK）
+2. ✅ 修復字數太短問題（改為 7 段 × 90+ 字，實際 680–734 字）
+3. ✅ 發佈 5 篇文章到 `data/published/2026-06-06/articles/`
+4. ✅ 建立 `data/stories/ai-data-centers-energy-series.json`
+5. ✅ Push（commit `cfbcd74`，已上線）
 
-2. **發佈草稿到 data/published/**（審閱 OK 後才做）
-   - 把 `data/series_drafts/ai-data-centers-energy-series/part-N.json` 複製到
-     `data/published/<今日 UTC 日期>/articles/<slug>.json`
-   - Slug 建議格式：`ai-data-centers-energy-part-1`
+### 候選下一步
 
-3. **建立 Stories 書籤清單**（發佈後才做）
-   - 新增 `data/stories/ai-data-centers-energy-series.json`
-   - 格式參考 `data/stories/global-ebola-response.json`
-   - 列出 5 篇文章的 slug、label、note
-
-4. **Push 並部署**
-   - 目前有 2 個 commit 尚未 push（`1b6ed59`、`922c551`）
-   - Push 後 Cloudflare Pages 會自動重建
-
-### 優先度中
-
-5. **文章字數太短問題**（300–360 字，目標 600–900）
-   - 位置：`scripts/generate_series_article.py` 的 `ARTICLE_PROMPT`
-   - 調整方向：在 prompt 明確要求「minimum 6 paragraphs, at least 100 words each」
-   - 也可試試提高 `max_tokens`（目前 5000）
-
-6. **考慮自動化發佈流程**
-   - 目前：手動複製 JSON → 手動建 stories 書籤
-   - 未來：可寫一個 `publish_series.py` 腳本自動搬移、建立書籤、驗證格式
+- 新增更多 Stories 主題（跑 `generate_series.py` 選新題目）
+- 考慮寫 `publish_series.py` 腳本，把審閱 → 發布自動化
+- 每日新聞可以考慮讓 AI 自動偵測「可做成 Stories」的主題並提示 Ibiza
 
 ---
 
@@ -185,4 +166,4 @@ Stories（追蹤專題）第二階段：
 - 不要把 `data/series_drafts/` 加進 git commit（已 gitignore）
 - 不要 push 前讓 Ibiza 確認
 
-**目前有 2 個 commit 等待 push**：`1b6ed59`、`922c551`
+**所有 commit 已 push**（最新：`cfbcd74`，2026-06-06）
