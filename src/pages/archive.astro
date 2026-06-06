@@ -11,11 +11,11 @@
 export const prerender = true;
 import BaseLayout from "../layouts/BaseLayout.astro";
 import ArticleCard from "../components/ArticleCard.astro";
-import { loadArticles } from "../lib/articles";
+import { loadFeedArticles } from "../lib/articles";
 
 const PAGE_SIZE = 20;
 
-const allArticles = loadArticles();
+const allArticles = loadFeedArticles();
 const totalArticles = allArticles.length;
 const totalPages = Math.max(1, Math.ceil(totalArticles / PAGE_SIZE));
 const currentPage = 1;

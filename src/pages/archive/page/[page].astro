@@ -7,7 +7,7 @@
 export const prerender = true;
 import BaseLayout from "../../../layouts/BaseLayout.astro";
 import ArticleCard from "../../../components/ArticleCard.astro";
-import { loadArticles } from "../../../lib/articles";
+import { loadFeedArticles } from "../../../lib/articles";
 
 const PAGE_SIZE = 20;
 
@@ -15,7 +15,7 @@ export function getStaticPaths() {
   // NOTE: getStaticPaths runs in an isolated scope and can't see frontmatter
   // module-level consts. Re-declare PAGE_SIZE here (keep both values in sync).
   const PAGE_SIZE = 20;
-  const all = loadArticles();
+  const all = loadFeedArticles();
   const totalPages = Math.max(1, Math.ceil(all.length / PAGE_SIZE));
   // We only generate pages 2..N here. Page 1 is /archive/.
   const pages = [];
@@ -27,7 +27,7 @@ export function getStaticPaths() {
 
 const { page } = Astro.params;
 const currentPage = Number(page);
-const allArticles = loadArticles();
+const allArticles = loadFeedArticles();
 const totalArticles = allArticles.length;
 const totalPages = Math.max(1, Math.ceil(totalArticles / PAGE_SIZE));
 

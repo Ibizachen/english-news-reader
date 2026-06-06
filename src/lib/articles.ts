@@ -147,8 +147,13 @@ export function getArticleBySlug(slug: string): Article | undefined {
   return loadArticles().find((a) => a.slug === slug);
 }
 
+/** Load only standalone articles — excludes Stories series parts. */
+export function loadFeedArticles(): Article[] {
+  return loadArticles().filter((a) => !a.series);
+}
+
 export function getArticlesByCategory(category: Category): Article[] {
-  return loadArticles().filter((a) => a.category === category);
+  return loadFeedArticles().filter((a) => a.category === category);
 }
 
 // Force Taipei timezone for all human-facing date / time display so the

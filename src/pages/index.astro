@@ -2,9 +2,9 @@
 export const prerender = true;
 import BaseLayout from "../layouts/BaseLayout.astro";
 import ArticleCard from "../components/ArticleCard.astro";
-import { CATEGORIES, CATEGORY_LABELS, getLocalDate, loadArticles } from "../lib/articles";
+import { CATEGORIES, CATEGORY_LABELS, getLocalDate, loadFeedArticles } from "../lib/articles";
 
-const articles = loadArticles();
+const articles = loadFeedArticles();
 // Group "today's" articles = all from the most recent date in Asia/Taipei time.
 const latestDate = articles[0] ? getLocalDate(articles[0].publishedAt) : undefined;
 const latest = latestDate
