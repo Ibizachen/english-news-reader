@@ -1,69 +1,81 @@
 {
   "id": "2026-06-07-the-environmental-and-social-impact-of-ai",
   "slug": "the-environmental-and-social-impact-of-ai-jun-2026",
-  "publishedAt": "2026-06-07T22:13:46.335602Z",
+  "publishedAt": "2026-06-07T23:19:24.085355Z",
   "category": "technology",
-  "title": "The AI Boom: Progress, Profits, and Growing Public Concern",
-  "subtitle": "As artificial intelligence reshapes the global economy, it also brings new risks, safety failures, and social unrest.",
+  "title": "The AI Boom: Economic Growth and Rising Social Tensions",
+  "subtitle": "As investment in artificial intelligence reaches record levels, the technology is sparking both financial excitement and dangerous new forms of public anger.",
   "summary": {
-    "en": "The rapid growth of artificial intelligence is changing the global economy and how companies operate. While investors are pouring billions into the technology, the industry faces serious questions about its real-world effectiveness. Recent legal challenges highlight failures in AI safety systems meant to protect public spaces. Meanwhile, the fast pace of development is causing social tension and even political violence. Experts warn that the industry must address these growing concerns to maintain public trust.",
-    "zh": "人工智慧的快速成長正在改變全球經濟與企業運作模式。儘管投資人正投入數十億美元於此技術，該產業仍面臨關於其實際效能的嚴重質疑。近期的法律挑戰凸顯了旨在保護公共空間的 AI 安全系統存在缺失。同時，快速的發展步調正引發社會緊張甚至政治暴力。專家警告，產業必須解決這些日益嚴重的擔憂，才能維持大眾的信任。"
+    "en": "The artificial intelligence industry is experiencing massive financial growth, with spending expected to reach 1.6 trillion dollars by 2031. While companies and the public are adopting AI tools at a record pace, the rapid expansion is causing significant social friction. Experts warn that the industry's influence is now fueling new forms of political violence and extremist activity. Local communities are also pushing back against the environmental and infrastructure costs of new data centers. The future of this technology depends on whether companies can prove its real-world value while managing these growing public concerns.",
+    "zh": "人工智慧產業正經歷巨大的財務成長，預計到二零三一年支出將達到一點六兆美元。儘管企業與大眾正以破紀錄的速度採用人工智慧工具，但這種快速擴張也引發了顯著的社會摩擦。專家警告，該產業的影響力正助長新型態的政治暴力與極端活動。地方社區也開始反對新資料中心帶來的環境與基礎設施成本。這項技術的未來，取決於企業能否在管理這些日益增長的公眾疑慮的同時，證明其現實世界的價值。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "The world of artificial intelligence is currently moving at an incredible speed. According to The Guardian Business, spending on AI, including the building of data centers and the creation of powerful computer chips, is expected to rise from $765 billion this year to $1.6 trillion by 2031. This massive investment has turned the stock market into what some analysts call a giant AI project. However, experts like Neil Wilson from the investment platform Saxo UK warn that this rapid growth could lead to a dangerous market crash, similar to the dotcom bubble of the past.",
-      "zh": "人工智慧領域目前正以驚人的速度發展。根據《衛報》商業版（The Guardian Business）報導，包含資料中心建設與高效能電腦晶片研發在內的 AI 支出，預計將從今年的 7,650 億美元，成長至 2031 年的 1.6 兆美元。這筆龐大的投資已使股市轉變為某些分析師口中的「巨型 AI 計畫」。然而，來自投資平台盛寶銀行英國分部（Saxo UK）的尼爾·威爾森（Neil Wilson）等專家警告，這種快速成長可能會導致危險的市場崩盤，情況類似於過去的網路泡沫化時期。"
+      "en": "The rapid growth of artificial intelligence continues to reshape the global economy, but this progress comes with increasing social and financial risks. Recent data shows that investment in AI is moving at a staggering rate. According to Goldman Sachs, spending on AI infrastructure—such as the massive data centers required to power these systems—is expected to grow from 765 billion dollars this year to 1.6 trillion dollars by 2031. This surge has turned the stock market into what some experts call a giant AI-focused structure, where a small group of technology companies now accounts for nearly half of the total market value of the S&P 500.",
+      "zh": "人工智慧的快速成長持續重塑全球經濟，但這種進步也伴隨著日益增加的社會與財務風險。近期數據顯示，人工智慧領域的投資正以驚人的速度成長。根據高盛集團（Goldman Sachs）的報告，人工智慧基礎設施的支出，例如維持這些系統運作所需的大型資料中心，預計將從今年的七千六百五十億美元，成長至二零三一年的一點六兆美元。這股熱潮已使股市演變成某些專家口中所謂的「人工智慧導向結構」，其中少數幾家科技公司目前佔據了標準普爾五百指數（S&P 500）總市值的近半數。"
     },
     {
       "id": "p2",
-      "en": "Despite these financial risks, businesses and the public are adopting AI faster than ever. McKinsey reports that nearly 80% of companies now use AI in some form, up from 33% in 2023. Additionally, OpenAI’s ChatGPT has reached one billion monthly active users, a record for any mobile application. While companies are eager to use this technology to reduce costs and improve their work, they are still struggling to prove that these tools provide enough value to justify the high price of development.",
-      "zh": "儘管存在這些財務風險，企業與大眾採用 AI 的速度仍比以往任何時候都快。麥肯錫（McKinsey）報告指出，目前近 80% 的企業以某種形式使用 AI，高於 2023 年的 33%。此外，OpenAI 的 ChatGPT 每月活躍用戶已達 10 億人，創下任何行動應用程式的紀錄。雖然企業渴望利用這項技術來降低成本並改善工作效率，但他們仍難以證明這些工具所提供的價值，足以支撐其高昂的開發成本。"
+      "en": "Despite this massive financial commitment, analysts remain cautious. Neil Wilson, an analyst at the investment platform Saxo UK, warns that the current market looks like a dangerous bubble. He suggests that if companies cannot prove that AI reduces costs and improves work results, the industry could face a crash similar to the dotcom bubble of the past. Currently, while companies are adopting AI at a high rate—rising from 33 percent in 2023 to nearly 80 percent today—there is still a long way to go before these tools become truly profitable and efficient for most businesses.",
+      "zh": "儘管投入了龐大的資金，分析師仍持審慎態度。投資平台盛寶銀行英國分部（Saxo UK）的分析師尼爾·威爾森（Neil Wilson）警告，目前的市場看起來像是一個危險的泡沫。他認為，如果企業無法證明人工智慧能有效降低成本並提升工作績效，該產業可能會面臨類似過去網路泡沫化的崩盤。目前，雖然企業採用人工智慧的比率極高，從二零二三年的百分之三十三上升至今日的近百分之八十，但這些工具要對多數企業真正產生獲利與效率，仍有一段漫長的路要走。"
     },
     {
       "id": "p3",
-      "en": "As the industry grows, so does the public’s frustration. The Guardian Technology reports that the fast rollout of AI is fueling a new kind of anti-tech extremism. In some cases, this has turned violent. Authorities have arrested individuals for attacking tech headquarters and threatening public officials. Researchers from George Washington University note that AI is becoming a driver of political violence, as people feel that the technology is causing widespread disruption and threatening their way of life. This feeling of being left behind is not new; history shows that major technological changes often lead to protests and social unrest, similar to the labor movements of the 19th century.",
-      "zh": "隨著產業成長，大眾的挫折感也隨之增加。《衛報》科技版（The Guardian Technology）報導，AI 的快速推廣正助長一種新型的反科技極端主義。在某些案例中，這種情緒已演變成暴力行為。當局已逮捕多名攻擊科技公司總部並威脅公職人員的個人。喬治華盛頓大學（George Washington University）的研究人員指出，AI 正成為政治暴力的驅動力，因為人們認為這項技術正在造成廣泛的破壞，並威脅到他們的生活方式。這種被時代拋下的感覺並不新鮮；歷史顯示，重大的技術變革往往會引發抗議與社會動盪，類似於 19 世紀的勞工運動。"
+      "en": "As the technology spreads, the competition between AI developers is also intensifying. While OpenAI’s ChatGPT remains the most popular tool with one billion monthly users, other companies are gaining ground. Anthropic’s Claude has seen its usage grow significantly, especially after it introduced tools that allow AI to perform tasks without human help. According to data from the internet analysis company Kentik, Claude’s user traffic grew faster than its competitors between January and April of this year. This shift shows how quickly the industry is moving toward autonomous systems that can work independently.",
+      "zh": "隨著技術普及，人工智慧開發商之間的競爭也日益激烈。雖然 OpenAI 的 ChatGPT 仍是以每月十億用戶數穩居最受歡迎的工具，但其他公司也正急起直追。Anthropic 公司的 Claude 使用量顯著成長，特別是在該公司推出能讓人工智慧在無人類協助下執行任務的工具之後。根據網路分析公司 Kentik 的數據，今年一月至四月間，Claude 的用戶流量成長速度超越了競爭對手。這種轉變顯示出該產業正迅速朝向能獨立運作的自主系統發展。"
     },
     {
       "id": "p4",
-      "en": "Beyond the social impact, there are also serious questions about the safety and reliability of AI products. A recent legal case highlights these concerns. Ars Technica reports that a teenage survivor of a 2025 school shooting in Nashville is suing a company called Omnilert. The company sold an AI-powered gun detection system to the local school district, but the system failed to identify the weapon used in the attack. According to the lawsuit, the company did not warn the school about the limitations of its technology, such as how camera angles or lighting could prevent the system from working correctly. The school district noted that the shooter was simply not in a position for the cameras to get an accurate reading.",
-      "zh": "除了社會影響外，AI 產品的安全與可靠性也存在嚴重的疑慮。近期的一起法律案件凸顯了這些擔憂。科技新聞網站 Ars Technica 報導，一名 2025 年納許維爾（Nashville）校園槍擊案的青少年倖存者，正對一家名為 Omnilert 的公司提起訴訟。該公司向當地學區販售了一套 AI 驅動的槍枝偵測系統，但該系統未能識別出攻擊中所使用的武器。根據訴訟內容，該公司並未向學校告知其技術的侷限性，例如攝影機角度或光線條件如何影響系統的正常運作。學區方面則指出，當時槍手所處的位置，導致攝影機無法精確判讀。"
+      "en": "However, this rapid rollout is causing more than just economic debate; it is fueling a new and dangerous wave of anti-tech extremism. Researchers and law enforcement officials have expressed alarm over a series of attacks directed at tech companies and their leaders. In one recent case, a man was arrested for allegedly trying to burn down the headquarters of OpenAI. In another instance, an Indianapolis city councilor found his home targeted by gunfire, with a note left behind that read, \"NO DATA CENTERS.\"",
+      "zh": "然而，這種快速推廣所引發的不僅是經濟層面的辯論，更助長了一股危險的新型反科技極端主義浪潮。研究人員與執法官員對一系列針對科技公司及其領導者的攻擊事件表示擔憂。在近期的一起案例中，一名男子因涉嫌企圖縱火燒毀 OpenAI 總部而被捕。另一起案例中，印第安納波利斯（Indianapolis）的一位市議員住家遭到槍擊，現場留下一張寫著「拒絕資料中心」的字條。"
     },
     {
       "id": "p5",
-      "en": "This lawsuit reflects a broader problem: the gap between how AI is marketed and how it actually performs. While companies often claim their tools can prevent tragedies, the reality is that these systems are not perfect. The legal action against Omnilert suggests that the public is becoming less willing to accept these failures, especially when the technology is meant to keep people safe. As the industry continues to grow, it faces a difficult challenge. It must prove that its products are not just profitable, but also safe and reliable for everyday use.",
-      "zh": "這起訴訟反映出一個更廣泛的問題：AI 的行銷宣傳與實際效能之間存在落差。雖然企業常聲稱其工具能預防悲劇發生，但現實是這些系統並不完美。針對 Omnilert 的法律行動顯示，大眾對於這些失敗的容忍度正在降低，特別是當這些技術被標榜為保障公共安全時。隨著產業持續擴張，它面臨一項艱鉅的挑戰：必須證明其產品不僅具備獲利能力，且在日常使用中是安全且可靠的。"
+      "en": "Jordyn Abrams, a researcher at the Program on Extremism at George Washington University, notes that AI is becoming a driver of political violence. This is a new phenomenon, where different extremist groups—from those worried about mass government surveillance to those with environmental concerns—are using anti-AI language to justify their actions. Yannick Veilleux-Lepage, an associate professor at the Royal Military College of Canada, explains that this movement crosses traditional political lines. Many people feel that the technology is changing society too quickly, leaving no time for communities to adapt or build resilience against the disruption.",
+      "zh": "喬治華盛頓大學（George Washington University）極端主義計畫的研究員喬丹·艾布拉姆斯（Jordyn Abrams）指出，人工智慧正成為政治暴力的驅動因素。這是一種新現象，不同的極端團體，從擔憂政府大規模監控者到關注環境議題者，都利用反人工智慧的言論來合理化其行為。加拿大皇家軍事學院（Royal Military College of Canada）副教授雅尼克·維約-勒帕熱（Yannick Veilleux-Lepage）解釋，這場運動跨越了傳統的政治界線。許多人認為這項技術改變社會的速度太快，導致社區沒有時間適應或建立對抗這種破壞的韌性。"
     },
     {
       "id": "p6",
-      "en": "Looking ahead, the future of AI remains uncertain. While companies like Anthropic are gaining ground on OpenAI with new tools that can perform tasks without human help, the industry is also facing increased scrutiny. Goldman Sachs has warned that even small delays in building data centers could lead to major problems for investors. At the same time, local communities are pushing back against the environmental and social costs of these massive infrastructure projects. Whether it is the fear of job loss, the threat of violence, or the failure of safety systems, the AI boom is creating a complex set of problems that society must now address. The question for the coming years is whether the industry can slow down enough to build trust, or if the current pace of development will continue to cause more harm than good.",
-      "zh": "展望未來，AI 的前景仍充滿不確定性。雖然像 Anthropic 這樣的公司正憑藉無需人類協助即可執行任務的新工具，在與 OpenAI 的競爭中取得進展，但該產業也面臨越來越嚴格的審視。高盛（Goldman Sachs）警告，即使是資料中心建設上的微小延誤，也可能為投資人帶來重大問題。與此同時，在地社區也開始反對這些大型基礎設施專案所帶來的環境與社會成本。無論是對於失業的恐懼、暴力威脅，還是安全系統的失靈，AI 熱潮正引發一系列複雜的問題，社會必須正視這些挑戰。未來幾年關鍵在於，產業是否能放慢腳步以建立信任，還是目前的發展速度將持續造成弊大於利的情況。"
+      "en": "This backlash is not entirely new. Historically, major technological changes have often been met with resistance from those who feel left behind or threatened. Just as 19th-century workers once destroyed machines that they believed were taking their jobs, today’s critics are targeting the physical infrastructure of the AI age. Beyond the threat of violence, many local communities are organizing to stop the construction of new data centers, which require vast amounts of electricity and water. These local efforts often conflict with the national goals of tech companies and government planners who want to lead the world in AI development.",
+      "zh": "這種反彈並非全然新鮮事。從歷史來看，重大的技術變革往往會遭到那些感到被遺落或受到威脅的人們抵制。正如十九世紀的勞工曾摧毀他們認為會搶走工作的機器一樣，今日的批評者正將目標對準人工智慧時代的實體基礎設施。除了暴力威脅外，許多地方社區也正組織起來，試圖阻止新資料中心的建設，因為這些設施需要消耗大量的電力與水資源。這些地方性的努力，往往與那些希望在人工智慧發展上領先全球的科技公司及政府規劃者的國家目標產生衝突。"
+    },
+    {
+      "id": "p7",
+      "en": "Ultimately, the AI industry faces a critical test. Companies must demonstrate that their technology provides real benefits to society, rather than just causing disruption and environmental strain. As Goldman Sachs analysts noted, even small delays in building data centers could lead to serious questions about the demand for these expensive projects. If the industry cannot find a way to balance its massive growth with the needs and safety of the public, the current boom may face a difficult and uncertain future.",
+      "zh": "歸根究柢，人工智慧產業正面臨一項關鍵考驗。企業必須證明其技術能為社會帶來實質利益，而非僅是造成破壞與環境負擔。正如高盛分析師所指出的，即便在建設資料中心時出現小幅延宕，也可能引發外界對這些昂貴計畫需求量的嚴重質疑。如果該產業無法找到方法，在龐大成長與公眾需求及安全之間取得平衡，當前的榮景可能會面臨艱難且不確定的未來。"
     }
   ],
-  "wordCount": 684,
+  "wordCount": 715,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
-      "term": "fueling",
-      "definitionEn": "To increase or strengthen something, especially something negative like anger or conflict.",
-      "definitionZh": "助長、加劇（負面事物）。",
-      "partOfSpeech": "verb (present participle)",
-      "noteZh": "常見作名詞（燃料），這裡作動詞，形容情緒或衝突被擴大。文中：The Guardian Technology reports that the fast rollout of AI is fueling a new kind of anti-tech extremism."
+      "term": "accounts for",
+      "definitionEn": "To make up a particular amount or part of something.",
+      "definitionZh": "佔（比例、數量）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見於解釋原因，這裡指佔據市場份額。文中：a small group of technology companies now accounts for nearly half of the total market value of the S&P 500."
     },
     {
       "term": "gaining ground",
-      "definitionEn": "To make progress or become more popular/successful.",
-      "definitionZh": "取得進展、變得更受歡迎或更有影響力。",
+      "definitionEn": "To become more popular, successful, or advanced in a competition.",
+      "definitionZh": "取得進展；越來越受歡迎；佔上風。",
       "partOfSpeech": "idiom",
-      "noteZh": "字面意思是「獲得土地」，實際指在競爭中取得優勢。文中：While companies like Anthropic are gaining ground on OpenAI with new tools that can perform tasks without human help, the industry is also facing increased scrutiny."
+      "noteZh": "字面意思容易誤解為「獲得土地」，實際指競爭中取得優勢。文中：other companies are gaining ground."
     },
     {
-      "term": "pushing back",
-      "definitionEn": "To show opposition or resistance to a plan or idea.",
-      "definitionZh": "反對、抵制、抗拒。",
-      "partOfSpeech": "phrasal verb",
-      "noteZh": "常見作推動，這裡指對某項政策或趨勢表達反對意見。文中：At the same time, local communities are pushing back against the environmental and social costs of these massive infrastructure projects."
+      "term": "fueling",
+      "definitionEn": "To increase or strengthen something, especially something negative like anger or conflict.",
+      "definitionZh": "加劇；助長（負面情緒或衝突）。",
+      "partOfSpeech": "verb (present participle)",
+      "noteZh": "常見作名詞（燃料），這裡作動詞，形容加劇了某種趨勢。文中：it is fueling a new and dangerous wave of anti-tech extremism."
+    },
+    {
+      "term": "driver",
+      "definitionEn": "A person or thing that causes something to happen or develop.",
+      "definitionZh": "推動力；驅動因素。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見指「司機」，這裡指導致某事發生的因素。文中：Jordyn Abrams, a researcher at the Program on Extremism at George Washington University, notes that AI is becoming a driver of political violence."
     }
   ],
   "sources": [
@@ -78,18 +90,19 @@
       "url": "https://www.theguardian.com/technology/2026/jun/07/anti-ai-tech-extremism-violence",
       "title": "‘A driver of political violence’: how the breakneck AI boom is fueling anti-tech extremism",
       "publishedAt": "2026-06-07T10:00:31Z"
-    },
-    {
-      "name": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
-      "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
-      "publishedAt": "2026-06-07T11:08:30Z"
     }
   ],
   "story": {
     "id": "consequences-the-cost-of-progress",
     "type": "update",
     "previousArticles": [
+      {
+        "slug": "the-environmental-and-social-impact-of-ai-jun-2026",
+        "title": "The AI Boom: Progress, Profits, and Growing Public Concern",
+        "publishedAt": "2026-06-07T22:13:46.335602Z",
+        "category": "technology",
+        "summaryEn": "The rapid growth of artificial intelligence is changing the global economy and how companies operate. While investors are pouring billions into the technology, the industry faces serious questions about its real-world effectiveness. Recent legal challenges highlight failures in AI safety systems meant to protect public spaces. Meanwhile, the fast pace of development is causing social tension and even political violence. Experts warn that the industry must address these growing concerns to maintain public trust."
+      },
       {
         "slug": "ai-data-centers-energy-series-part-4",
         "title": "Consequences: The Cost of Progress",
@@ -103,13 +116,6 @@
         "publishedAt": "2026-06-06T22:13:25.237796Z",
         "category": "technology",
         "summaryEn": "New York state is moving toward a temporary ban on large data centers to protect its energy grid. This follows a national trend of local communities questioning the environmental and economic costs of AI infrastructure. Meanwhile, tensions are rising in other parts of the country as leaders and residents clash over these developments. The debate highlights the struggle between rapid technological growth and the needs of local citizens. Lawmakers are now seeking more transparency and regulation for the tech industry."
-      },
-      {
-        "slug": "ai-data-centers-energy-series-part-1",
-        "title": "The Surge in Demand: Why AI Needs So Much Power",
-        "publishedAt": "2026-06-06T13:07:08.073580Z",
-        "category": "technology",
-        "summaryEn": "This article explores why AI technologies require significantly more electricity than traditional computing. It examines the difference between training and inference processes in data centers. Finally, it discusses the challenge of meeting this rising demand while the world transitions to renewable energy."
       }
     ]
   },
@@ -117,54 +123,54 @@
     {
       "id": "q1",
       "type": "detail",
-      "question": "According to the lawsuit mentioned in the article, what was the primary reason the Omnilert gun detection system failed during the Nashville school shooting?",
+      "question": "According to the article, what is the primary reason for the rapid growth of Claude's user traffic between January and April?",
       "options": {
-        "A": "The system was hacked by the shooter before the attack began.",
-        "B": "The shooter's position relative to the cameras prevented an accurate detection.",
-        "C": "The software had not been updated to recognize the specific type of weapon used.",
-        "D": "The school district failed to pay for the necessary software maintenance."
+        "A": "It has surpassed ChatGPT in total monthly users.",
+        "B": "It introduced features that allow the AI to operate without human intervention.",
+        "C": "It is cheaper for businesses to implement than other AI tools.",
+        "D": "It has received significant financial backing from the S&P 500 companies."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。根據文章第四段，訴訟指出該系統失敗的原因是相機角度或光線問題，導致系統無法正確讀取影像，且學校指出槍手當時所處的位置讓相機無法進行精確的偵測。選項 A 文中未提及駭客入侵。選項 C 提到的軟體更新並非失敗主因。選項 D 雖提到費用，但文章強調的是技術侷限性而非付費問題。"
+      "explanationZh": "正確答案為 B。根據文章第三段，Claude 的使用量成長迅速，是因為它推出了能讓 AI 在沒有人類協助下執行任務的工具。選項 A 錯誤，因為文章提到 ChatGPT 仍是擁有十億用戶的最受歡迎工具。選項 C 文中並未提及關於價格的比較。選項 D 雖然提到科技公司對 AI 的投資，但與 Claude 的成長原因無直接關聯。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "What can be inferred about the current relationship between AI companies and the general public?",
+      "question": "What can be inferred about the relationship between AI infrastructure and local communities?",
       "options": {
-        "A": "The public is largely unaware of the risks associated with AI development.",
-        "B": "AI companies are successfully convincing the public that their products are infallible.",
-        "C": "There is a growing disconnect between the marketing promises of AI firms and the actual performance of their tools.",
-        "D": "The public prefers to wait for government regulation rather than taking legal action against companies."
+        "A": "Communities are generally supportive of data centers because they create new jobs.",
+        "B": "The government has successfully mandated that all data centers be built in remote areas.",
+        "C": "The physical needs of data centers often clash with the environmental and resource concerns of local residents.",
+        "D": "Local opposition to data centers has successfully stopped all AI development in the United States."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。根據第五段，文章提到「這場訴訟反映出一個更廣泛的問題：AI 的行銷宣傳與實際表現之間的落差」。雖然企業聲稱產品能預防悲劇，但現實卻非如此完美。選項 A 錯誤，因為公眾已經開始出現反科技極端主義。選項 B 與文意相反，公眾已不再輕易接受失敗。選項 D 錯誤，因為文章明確提到民眾已開始透過法律手段進行反擊。"
+      "explanationZh": "正確答案為 C。根據第六段與第七段，數據中心需要消耗大量的電力與水資源，這與當地居民的利益產生衝突，導致地方組織試圖阻止其建設。選項 A 與文章描述的衝突情況相反。選項 B 文中並未提到政府有此類強制規定。選項 D 過於誇大，文章僅提到地方組織在對抗，並未表示 AI 發展已全面停止。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the third paragraph, the author states that the fast rollout of AI is 'fueling' a new kind of anti-tech extremism. What does 'fueling' mean in this context?",
+      "question": "In the phrase 'this surge has turned the stock market into what some experts call a giant AI-focused structure', what is the best meaning of 'surge'?",
       "options": {
-        "A": "Providing the necessary resources to stop a process.",
-        "B": "Increasing or intensifying a specific situation or emotion.",
-        "C": "Physically burning something to create energy.",
-        "D": "Replacing one type of technology with a more efficient one."
+        "A": "A sudden and powerful upward movement.",
+        "B": "A decline in quality over time.",
+        "C": "A steady, slow decrease in volume.",
+        "D": "A disagreement between two parties."
       },
-      "correct": "B",
-      "explanationZh": "正確答案為 B。在此語境下，「fueling」並非字面上的「加油」，而是比喻「助長」或「加劇」某種情緒或趨勢。文章提到 AI 的快速推廣導致了反科技極端主義的增加。選項 A 與文意相反，fueling 是促進而非停止。選項 C 為字面解釋，不符合語境。選項 D 偏離了該詞在描述社會現象時的用法。"
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在此語境中，surge 指的是 AI 基礎設施投資金額從 7650 億美元快速增長至 1.6 兆美元的現象，意指「激增」或「猛漲」。選項 B 與 C 皆與「增加」的含義相反。選項 D 雖然在文中其他段落有提到關於 AI 的爭論，但 surge 本身是指數量上的快速變化，而非意見上的不合。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "What is the central message of the article regarding the current state of the AI industry?",
+      "question": "Which of the following best summarizes the central message of the article?",
       "options": {
-        "A": "The AI industry is guaranteed to succeed financially if it continues to build more data centers.",
-        "B": "AI technology is primarily being used to solve complex social problems and improve public safety.",
-        "C": "The rapid expansion of AI is creating significant economic, social, and safety challenges that threaten to undermine public trust.",
-        "D": "The government should immediately ban all AI development to prevent further violent protests."
+        "A": "AI is a perfect investment that will guarantee economic growth for all businesses.",
+        "B": "The primary threat to the AI industry is the lack of competition among developers.",
+        "C": "AI development faces significant economic, social, and safety challenges that could threaten its future success.",
+        "D": "The history of technological resistance proves that AI will eventually be accepted by everyone."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。本文綜合討論了 AI 發展帶來的經濟風險（市場泡沫）、社會動盪（反科技極端主義）以及安全可靠性問題（Omnilert 訴訟），總結指出產業必須在發展速度與建立公眾信任之間取得平衡。選項 A 過度樂觀，忽略了文章提到的風險。選項 B 與文意不符，文章強調的是 AI 帶來的問題而非解決方案。選項 D 過於極端，文章並未提倡全面禁止 AI。"
+      "explanationZh": "正確答案為 C。文章從經濟泡沫風險、競爭壓力、社會極端主義暴力，到資源消耗問題，全面探討了 AI 發展所面臨的嚴峻挑戰。選項 A 過度樂觀，忽略了文中提到的風險。選項 B 錯誤，因為文中提到競爭正在加劇。選項 D 雖然提到了歷史上的抗拒，但文章並未斷言 AI 最終會被所有人接受，而是強調若無法解決目前的負面問題，未來將充滿不確定性。"
     }
   ],
   "aiGenerated": true,
