@@ -1,0 +1,179 @@
+{
+  "id": "2026-06-08-ai-data-centers-face-water-scarcity-conflicts",
+  "slug": "ai-data-centers-face-water-scarcity-conflicts-jun-2026",
+  "publishedAt": "2026-06-08T22:13:29.971947Z",
+  "category": "energy",
+  "title": "The Hidden Cost of AI: Why Data Centers Are Facing Water Scarcity Conflicts",
+  "subtitle": "As the artificial intelligence industry grows rapidly, experts warn that its massive water needs are putting pressure on drought-hit regions.",
+  "summary": {
+    "en": "The artificial intelligence industry is expanding quickly, requiring massive amounts of water for cooling computer systems. A new analysis shows that many planned data centers are located in areas already suffering from severe drought. Experts warn that this creates a conflict between technology growth and essential water supplies for local communities. While companies argue these projects bring economic investment, critics believe the environmental and social costs are too high. Governments are now facing pressure to create stricter rules to manage this growing demand.",
+    "zh": "人工智慧產業正迅速擴張，需要大量水資源來冷卻電腦系統。一項新分析顯示，許多計畫中的資料中心位於早已飽受嚴重乾旱之苦的地區。專家警告，這造成了技術成長與當地社區基本用水需求之間的衝突。雖然企業主張這些計畫帶來經濟投資，但批評者認為其環境與社會成本過高。政府目前正面臨壓力，需制定更嚴格的規範來管理這股日益增長的需求。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The rapid growth of artificial intelligence is changing the world, but it is also creating a new, hidden problem: a massive demand for water. As companies race to build more data centers—large buildings filled with powerful computers that process AI tasks—the industry is increasingly placing these facilities in areas already struggling with water shortages. This trend has sparked a debate about whether the benefits of AI are worth the strain on local resources.",
+      "zh": "人工智慧的快速成長正在改變世界，但也衍生出一個隱蔽的新問題：對水資源的龐大需求。隨著企業競相興建更多資料中心——即那些裝滿強大電腦以處理人工智慧任務的大型建築——該產業正日益將這些設施設在早已面臨缺水困境的地區。此趨勢引發了一場辯論，探討人工智慧帶來的效益是否值得以消耗當地資源為代價。"
+    },
+    {
+      "id": "p2",
+      "en": "According to an analysis by The Guardian, about two-thirds of planned data centers in the United States are set to be built in locations that have experienced significant drought over the past year. These facilities require huge amounts of water to keep their computer systems cool. A large data center can use up to 5 million gallons of water every single day. To put that in perspective, that is the same amount of water used by 50,000 people. Researchers have estimated that every 100-word AI prompt uses roughly one 500ml bottle of water just for cooling purposes.",
+      "zh": "根據《衛報》（The Guardian）的分析，美國約三分之二的計畫中資料中心，預計將建在過去一年經歷嚴重乾旱的地點。這些設施需要大量的水來冷卻電腦系統。一座大型資料中心每天最多可消耗五百萬加侖的水。為了讓大家更有概念，這相當於五萬人每天的用水量。研究人員估計，每進行一百個單字的人工智慧指令，僅冷卻過程就大約需要消耗一瓶五百毫升的水。"
+    },
+    {
+      "id": "p3",
+      "en": "Why are companies choosing these dry locations? The Guardian reports that businesses like Google, Microsoft, and Amazon are often attracted to these areas because of lower land costs and generous tax breaks. Additionally, some experts believe that drier climates can help protect expensive equipment from damage caused by humidity. However, this strategy is leading to what Christopher Dalbom, an expert in water resources law at Tulane University, calls an inevitable \"crunch point.\" He notes that even without climate change, water demand is rising globally to feed people and water crops. Adding the massive needs of data centers to regions already suffering from drought makes the situation much worse.",
+      "zh": "為什麼企業會選擇這些乾燥的地點？《衛報》報導指出，像 Google、微軟（Microsoft）和亞馬遜（Amazon）等企業，通常是因為土地成本較低且享有慷慨的稅收減免而受到吸引。此外，一些專家認為，較乾燥的氣候有助於保護昂貴的設備免受濕氣損害。然而，杜蘭大學（Tulane University）水資源法專家克里斯多福·達爾博姆（Christopher Dalbom）指出，這種策略正導致一個不可避免的「緊縮點」。他提到，即便沒有氣候變遷，全球為了供應民生與農業用水，需求本就在上升。在已經飽受乾旱之苦的地區，再加上資料中心龐大的用水需求，情況將變得更加嚴峻。"
+    },
+    {
+      "id": "p4",
+      "en": "This issue is not limited to the United States. In Australia, the government is welcoming billions of dollars in investment from major tech companies. However, this has led to a growing backlash from local communities. David Pocock, writing for The Guardian, argues that while the government sees these investments as a way to boost the economy, the public is not seeing a fair return. He points out that by 2030, Australian data centers are expected to use as much electricity as every household in the state of Victoria combined. Furthermore, water consumption for these facilities is expected to more than triple.",
+      "zh": "此問題不僅限於美國。在澳洲，政府正歡迎大型科技公司投入數十億美元的資金。然而，這已引發當地社區日益強烈的反彈。大衛·波科克（David Pocock）在為《衛報》撰文時主張，雖然政府將這些投資視為提振經濟的手段，但大眾並未感受到公平的回饋。他指出，預計到二〇三〇年，澳洲資料中心的用電量將相當於維多利亞州（Victoria）所有家庭的用電總和。此外，這些設施的用水量預計將增加兩倍以上。"
+    },
+    {
+      "id": "p5",
+      "en": "There are also concerns about the long-term impact on local energy prices. The Climate Council has warned that if the demand for electricity from data centers continues to grow without more renewable energy sources, wholesale electricity prices could rise by more than 20% by 2035. Critics also worry about noise pollution and the environmental impact of using diesel generators as backup power sources. Despite these concerns, some governments have only introduced voluntary \"national expectations\" for the industry, which many critics describe as a weak approach to a serious problem.",
+      "zh": "對於當地能源價格的長期影響也存在擔憂。氣候委員會（Climate Council）警告，如果資料中心的電力需求持續成長，卻沒有更多再生能源供應，到二〇三五年，批發電價可能會上漲超過百分之二十。批評者也擔憂噪音污染，以及使用柴油發電機作為備用電源對環境造成的影響。儘管有這些疑慮，部分政府僅針對該產業推出了自願性的「國家期望」，許多批評者認為這對於解決嚴肅問題而言，手段過於軟弱。"
+    },
+    {
+      "id": "p6",
+      "en": "As the industry continues to expand, the tension between technological progress and environmental limits is becoming clearer. In Texas, for example, researchers have calculated that data centers could account for 9% of the state’s total water use by 2040. The state’s water development board has already warned that Texas will face a future of rising demand and falling water supplies. This means that local governments will eventually have to make difficult choices about how to share limited water between residents, farmers, and the tech industry.",
+      "zh": "隨著產業持續擴張，技術進步與環境限制之間的緊張關係正變得愈發明顯。以德州（Texas）為例，研究人員計算出，到二〇四〇年，資料中心的用水量可能占該州總用水量的百分之九。該州的水資源開發委員會已發出警告，德州未來將面臨需求上升與水資源供應下降的困境。這意味著地方政府最終將不得不做出艱難的抉擇，決定如何在居民、農民與科技產業之間分配有限的水資源。"
+    },
+    {
+      "id": "p7",
+      "en": "For many, the core question remains: what is this growth for, and how do local people benefit? While data centers create jobs during the construction phase, their ongoing employment benefits are often minimal. As communities bear the costs of higher water and electricity demand, there is a growing call for more transparency and stronger regulations. Without significant changes, the AI revolution may leave many regions struggling to provide the most basic resource of all: water.",
+      "zh": "對許多人而言，核心問題依然存在：這種成長究竟是為了什麼？當地民眾又如何從中受益？雖然資料中心在建設階段能創造就業機會，但其持續性的就業效益往往微乎其微。隨著社區承擔水電需求增加所帶來的成本，要求提高透明度與加強監管的呼聲日益高漲。若無重大改變，人工智慧革命可能會讓許多地區難以提供最基本的資源：水。"
+    }
+  ],
+  "wordCount": 712,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "race",
+      "definitionEn": "To compete or move quickly to achieve something before others.",
+      "definitionZh": "競相、搶先做某事。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（比賽），這裡作動詞，強調企業間的激烈競爭。文中：As companies race to build more data centers—large buildings filled with powerful computers that process AI tasks—the industry is increasingly placing these facilities in areas already struggling with water shortages."
+    },
+    {
+      "term": "feed",
+      "definitionEn": "To supply something that is needed for a process or system to continue.",
+      "definitionZh": "供給、滿足（需求）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見指「餵食」，這裡指滿足水資源的需求。文中：He notes that even without climate change, water demand is rising globally to feed people and water crops."
+    },
+    {
+      "term": "backlash",
+      "definitionEn": "A strong and negative reaction by a large number of people to a change or event.",
+      "definitionZh": "強烈的反對、抵制。",
+      "partOfSpeech": "noun",
+      "noteZh": "此詞在新聞報導中常用，指大眾對政策或企業行為的負面情緒反彈。文中：However, this has led to a growing backlash from local communities."
+    },
+    {
+      "term": "bear",
+      "definitionEn": "To accept or deal with something difficult or unpleasant.",
+      "definitionZh": "承擔、忍受。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（熊），這裡作動詞，指承擔負面後果。文中：As communities bear the costs of higher water and electricity demand, there is a growing call for more transparency and stronger regulations."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Business",
+      "url": "https://www.theguardian.com/us-news/2026/jun/08/datacenter-ai-drought-water",
+      "title": "Majority of US’s new AI datacenters to be built on drought-hit land",
+      "publishedAt": "2026-06-08T11:00:23Z"
+    },
+    {
+      "name": "The Guardian Environment",
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/09/australia-datacentres-artificial-intelligence-ai-revolution-industry-fairness",
+      "title": "If Australian data centres are going to power the AI revolution, we deserve a fair return | David Pocock",
+      "publishedAt": "2026-06-08T15:00:28Z"
+    }
+  ],
+  "story": {
+    "id": "the-path-forward-innovation-and-unresolved-questions",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "global-water-scarcity-series-part-5",
+        "title": "The Path Forward: Innovation and Unresolved Questions",
+        "publishedAt": "2026-06-06T13:26:39.015189Z",
+        "category": "energy",
+        "summaryEn": "This article examines the role of technology like desalination in solving global water scarcity. It highlights the environmental trade-offs of these solutions and argues that policy changes are just as important as engineering. The text concludes that sustainable water management requires a mix of innovation and better governance."
+      },
+      {
+        "slug": "global-water-scarcity-series-part-1",
+        "title": "The Drying Tap: Understanding Global Water Stress",
+        "publishedAt": "2026-06-06T13:24:45.206794Z",
+        "category": "energy",
+        "summaryEn": "This article explores the difference between water scarcity and water stress. It explains how climate change and human activity create long-term challenges for global water security. Readers will learn why water management is a critical issue for the future of international stability."
+      },
+      {
+        "slug": "global-water-scarcity-series-part-4",
+        "title": "The Human Cost: Consequences for Society",
+        "publishedAt": "2026-06-06T13:26:09.932782Z",
+        "category": "energy",
+        "summaryEn": "This article explores how water shortages affect human lives worldwide. It examines the link between lack of water and health problems, migration patterns, and social unfairness. It also highlights how vulnerable communities suffer the most during water crises."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is one reason companies prefer building data centers in dry climates?",
+      "options": {
+        "A": "The air quality in dry areas is better for the environment.",
+        "B": "Dry climates help prevent damage to equipment caused by moisture.",
+        "C": "These areas have more renewable energy sources available.",
+        "D": "Local governments in dry areas have stricter water conservation laws."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第三段明確指出，專家認為乾燥氣候有助於保護昂貴的設備，避免因濕氣（humidity）造成的損壞。選項 A 文中未提及；選項 C 與文章內容相反，文中提到缺乏再生能源是個隱憂；選項 D 錯誤，文中提到的是稅收優惠與土地成本，並未提及更嚴格的保育法規。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the relationship between AI growth and local communities?",
+      "options": {
+        "A": "Communities are generally happy to trade water for the long-term jobs AI provides.",
+        "B": "The economic benefits of data centers are evenly distributed among all residents.",
+        "C": "The environmental costs of data centers may outweigh the local economic advantages.",
+        "D": "Local governments have successfully balanced the needs of tech companies and farmers."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章最後兩段，數據中心雖在建設期創造工作，但長期就業效益極低，且社區需承擔水電需求增加的成本，顯示經濟利益與環境代價不成比例。選項 A 錯誤，文中提到民眾有強烈反彈；選項 B 錯誤，文中指出民眾未看到公平的回報；選項 D 錯誤，文中提到地方政府未來將面臨困難的抉擇，顯示目前並未達到平衡。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the third paragraph, what does the phrase 'crunch point' most likely mean?",
+      "options": {
+        "A": "A moment when a difficult situation becomes critical and requires a decision.",
+        "B": "The sound made by heavy machinery operating in a data center.",
+        "C": "A financial strategy used to reduce land costs for new businesses.",
+        "D": "The physical limit of how much water a computer system can hold."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在文中，Christopher Dalbom 使用 'crunch point' 來形容當 AI 的龐大用水需求遇上全球水資源短缺時，將會達到一個無法避免的危急關頭，必須做出抉擇。這是一個比喻用法，並非指物理上的聲音（B）、財務策略（C）或容器容量（D）。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article?",
+      "options": {
+        "A": "The AI industry is failing because it cannot find enough water for its systems.",
+        "B": "Data centers are the most efficient way to use water compared to agriculture.",
+        "C": "The rapid expansion of AI data centers poses a significant threat to local water resources and requires better regulation.",
+        "D": "Governments should stop all AI development until climate change is fully reversed."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。本文的核心在於探討 AI 產業擴張帶來的隱藏問題，即對水資源的巨大需求與環境影響，並呼籲需要更透明的資訊與更強力的監管。選項 A 誇大了事實，產業並未失敗；選項 B 與文意相反；選項 D 過於極端，文中並未主張全面停止發展，而是強調平衡與規範。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
