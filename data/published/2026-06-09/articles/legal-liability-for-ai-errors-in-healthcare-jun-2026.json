@@ -1,0 +1,164 @@
+{
+  "id": "2026-06-09-legal-liability-for-ai-errors-in-healthcare",
+  "slug": "legal-liability-for-ai-errors-in-healthcare-jun-2026",
+  "publishedAt": "2026-06-09T23:42:15.208939Z",
+  "category": "technology",
+  "title": "Who is Responsible? The Legal Risks of Using AI in Healthcare",
+  "subtitle": "New reports suggest doctors could face legal action for mistakes made by artificial intelligence tools.",
+  "summary": {
+    "en": "Hospitals are increasingly using artificial intelligence to help diagnose patients and manage medical records. However, a new report warns that doctors could be held legally responsible for errors made by these computer programs. Experts argue that current laws are outdated and do not account for the rapid growth of technology. There is a growing call for the government to change regulations to protect both patients and medical staff. Clearer rules are needed to ensure that responsibility for errors is fairly assigned to developers rather than just doctors.",
+    "zh": "醫院正日益廣泛地使用人工智慧來協助診斷病患並管理醫療紀錄。然而，一份新報告警告，醫師可能必須為這些電腦程式所犯的錯誤承擔法律責任。專家認為現行法律已過時，無法應對技術的快速發展。目前各界呼籲政府修改法規，以同時保護病患與醫護人員。我們需要更明確的規則，以確保錯誤責任能公平地歸咎於開發商，而非僅由醫師承擔。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Artificial intelligence (AI) is becoming a common tool in modern hospitals. From checking X-rays to writing summaries of patient visits, these systems are designed to help doctors work faster and more accurately. However, as the use of this technology grows, so do concerns about who is to blame when things go wrong. A recent report from the Medical Protection Society (MPS) has highlighted a major problem: under current laws, doctors and the National Health Service (NHS) could be held legally responsible for mistakes made by AI tools.",
+      "zh": "人工智慧（AI）正逐漸成為現代醫院的常見工具。從檢查 X 光片到撰寫病患就診摘要，這些系統旨在協助醫師更快速且精確地工作。然而，隨著這項技術的使用日益普及，關於「當出錯時該由誰負責」的擔憂也隨之增加。醫療保護協會（Medical Protection Society, MPS）近期的一份報告點出了一個重大問題：在現行法律下，醫師與國家醫療保健服務（National Health Service, NHS）可能必須為人工智慧工具所犯的錯誤承擔法律責任。"
+    },
+    {
+      "id": "p2",
+      "en": "This issue was first raised in earlier reports, but the debate has now intensified. The MPS, which represents doctors in legal cases, warns that medics could become a \"liability sink.\" This means they might be the main target for lawsuits when a patient is harmed by an AI error. According to the MPS, the law is moving much slower than technology. Dr. Sarah Townley, the deputy medical director at the MPS, explained that the gap between technological progress and legal rules is becoming a \"widening gulf.\"",
+      "zh": "這個議題在先前的報告中就曾被提出，但如今爭論已更加激烈。代表醫師處理法律案件的醫療保護協會警告，醫護人員可能會成為「責任承擔的終點」。這意味著當病患因人工智慧的錯誤而受到傷害時，醫師可能會成為訴訟的主要目標。根據該協會的說法，法律的演進速度遠遠落後於技術發展。醫療保護協會副醫療主任莎拉·湯利（Sarah Townley）醫師解釋說，技術進步與法律規範之間的差距正變成一道「不斷擴大的鴻溝」。"
+    },
+    {
+      "id": "p3",
+      "en": "To understand the risks, consider how these tools work in practice. The MPS provided examples of how errors could lead to serious harm. For instance, an AI might fail to see a tumor on a chest X-ray. If the doctor trusts the AI and tells the patient they are healthy, the cancer could grow without treatment. In another scenario, an AI might suggest the wrong dose of a blood-thinning medicine, which could cause dangerous bleeding. In both cases, the doctor who relied on the AI's advice could be the one taken to court, even if they were following the system's guidance.",
+      "zh": "為了理解其中的風險，我們可以看看這些工具在實際應用中是如何運作的。醫療保護協會提供了幾個錯誤可能導致嚴重傷害的例子。例如，人工智慧可能會遺漏胸部 X 光片上的腫瘤。如果醫師信任該系統並告知病患身體健康，癌症可能會在未經治療的情況下惡化。在另一種情況下，人工智慧可能會建議錯誤的抗凝血藥物劑量，進而導致危險的出血。在這兩種情況下，即使醫師只是遵循系統的建議，仍可能因為依賴人工智慧的判斷而被告上法庭。"
+    },
+    {
+      "id": "p4",
+      "en": "Many medical professionals are worried about this situation. Dr. Ragit Varia, the president-elect of the Society for Acute Medicine, compared the speed of AI development to a Formula One race. He argued that government rules and safety regulations are currently \"sitting in the pit lane,\" meaning they are far behind. He emphasized that doctors should not be left holding a \"liability hot potato\"—a difficult situation where they are blamed for decisions influenced by complex systems they did not build or manage themselves. Without clear rules, there is a risk of an \"accountability vacuum,\" where it is unclear who is truly responsible for patient safety.",
+      "zh": "許多醫療專業人員對此現狀感到憂心。急性醫學會（Society for Acute Medicine）候任會長拉吉特·瓦里亞（Ragit Varia）醫師將人工智慧的發展速度比作一場一級方程式賽車。他認為，政府的規範與安全法規目前正「停在維修站」，意即遠遠落後。他強調，不應讓醫師被迫承擔「責任燙手山芋」，這是一種讓醫師必須為自己未曾開發或管理的複雜系統所影響的決策而負責的困境。在缺乏明確規則的情況下，存在著「責任真空」的風險，導致病患安全究竟該由誰負責變得模糊不清。"
+    },
+    {
+      "id": "p5",
+      "en": "To solve this, the MPS has suggested a change in the law. They want the government to classify AI tools as \"products\" rather than just medical services. If AI systems were treated as products under the Consumer Protection Act 1987, the companies that build and sell the technology could be held responsible for errors. This change would help protect doctors and the NHS from being blamed for mistakes caused by the software itself. Supporters of this idea believe it would also help maintain public trust in medical technology, as patients would feel safer knowing that software developers are held to high standards.",
+      "zh": "為了化解此問題，醫療保護協會建議修改法律。他們希望政府將人工智慧工具歸類為「產品」，而非僅僅是醫療服務。如果人工智慧系統能根據《1987年消費者保護法》被視為產品，那麼開發並銷售該技術的公司就必須為錯誤負責。這項變革將有助於保護醫師與國家醫療保健服務，避免他們為軟體本身的錯誤背黑鍋。此觀點的支持者認為，這也有助於維持大眾對醫療技術的信任，因為病患若知道軟體開發商必須遵守高標準，會感到更加安心。"
+    },
+    {
+      "id": "p6",
+      "en": "Not everyone agrees on the best path forward, but there is a general consensus that the status quo cannot continue. The Department of Health and Social Care (DHSC) has responded to these concerns by stating they are reviewing the recommendations. A spokesperson for the DHSC noted that they are currently drafting new guidelines on AI liability to ensure that patients continue to receive the benefits of new technology safely. They aim to balance the need for innovation with the need for patient protection.",
+      "zh": "儘管各界對於最佳的前進方向尚未達成共識，但普遍認為現狀不能再持續下去。衛生與社會照護部（Department of Health and Social Care, DHSC）已針對這些擔憂做出回應，表示正在審視相關建議。該部門發言人指出，他們目前正在草擬關於人工智慧責任的新準則，以確保病患能持續安全地從新技術中受益。他們的目標是在創新需求與病患保護需求之間取得平衡。"
+    },
+    {
+      "id": "p7",
+      "en": "Experts outside of the medical field also agree that the future of healthcare depends on these legal updates. Ahmed Binesmael, a senior policy analyst at the Health Foundation, noted that public confidence in AI is not just about how well the technology works. It is also about the safeguards and rules that exist to protect people. If patients do not trust that the system is fair, they may be less willing to accept AI-assisted care, which could slow down the adoption of helpful medical tools.",
+      "zh": "醫療領域之外的專家也認同，醫療保健的未來取決於這些法律的更新。健康基金會（Health Foundation）資深政策分析師艾哈邁德·比內斯馬爾（Ahmed Binesmael）指出，大眾對人工智慧的信心不僅取決於技術的效能，還取決於保護民眾的安全措施與規則。如果病患不相信系統是公平的，他們接受人工智慧輔助照護的意願可能會降低，這反而會拖慢有益醫療工具的普及速度。"
+    },
+    {
+      "id": "p8",
+      "en": "As the government works on these new guidelines, the medical community is waiting for clarity. The goal is to create a system where innovation and safety move forward together. Until the law is updated to reflect the reality of modern medicine, doctors will continue to work in a state of uncertainty, hoping that the tools they use to save lives do not eventually lead to their own legal trouble.",
+      "zh": "隨著政府致力於制定這些新準則，醫療界正等待明確的規範。目標是建立一個讓創新與安全同步前進的系統。在法律更新以反映現代醫療現實之前，醫師將持續在不確定的狀態下工作，並祈禱他們用來拯救生命的工具，最終不會導致自身的法律麻煩。"
+    }
+  ],
+  "wordCount": 768,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "sink",
+      "definitionEn": "A place or person that absorbs or takes in something, often something negative.",
+      "definitionZh": "吸收體；（負面事物的）匯集處。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（下沉）或名詞（洗手槽），這裡指吸收所有法律責任的對象。文中：The MPS, which represents doctors in legal cases, warns that medics could become a \"liability sink.\""
+    },
+    {
+      "term": "pit lane",
+      "definitionEn": "A designated area in a race where cars stop for repairs or fuel, implying they are not currently participating in the race.",
+      "definitionZh": "（賽車場的）維修站通道。",
+      "partOfSpeech": "noun",
+      "noteZh": "這裡用賽車隱喻法規進度嚴重落後。文中：He argued that government rules and safety regulations are currently \"sitting in the pit lane,\" meaning they are far behind."
+    },
+    {
+      "term": "hot potato",
+      "definitionEn": "A controversial or difficult issue that no one wants to handle.",
+      "definitionZh": "燙手山芋（指棘手且沒人想處理的問題）。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這是英文慣用語，形容責任歸屬問題像燙手山芋一樣令人避之唯恐不及。文中：He emphasized that doctors should not be left holding a \"liability hot potato\"—a difficult situation where they are blamed for decisions influenced by complex systems they did not build or manage themselves."
+    },
+    {
+      "term": "vacuum",
+      "definitionEn": "A state of emptiness or a lack of something that should be there.",
+      "definitionZh": "真空；（某種事物）缺失的狀態。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作名詞（吸塵器或物理上的真空），這裡指法律責任規範的缺失。文中：Without clear rules, there is a risk of an \"accountability vacuum,\" where it is unclear who is truly responsible for patient safety."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/society/2026/jun/09/doctors-nhs-could-be-sued-mistakes-ai-tools-medical-protection-society-report",
+      "title": "Doctors and NHS could be sued for mistakes made by AI tools, report warns",
+      "publishedAt": "2026-06-09T08:00:48Z"
+    }
+  ],
+  "story": {
+    "id": "liability-concerns-over-ai-in-healthcare",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "liability-concerns-over-ai-in-healthcare-jun-2026",
+        "title": "Who is Responsible? The Legal Risks of Using AI in Healthcare",
+        "publishedAt": "2026-06-09T22:13:29.803701Z",
+        "category": "technology",
+        "summaryEn": "Artificial intelligence is becoming common in hospitals for tasks like reading X-rays and writing patient notes. However, a new report warns that doctors could be held legally responsible for errors caused by these AI tools. Experts argue that current laws are outdated and cannot keep up with the fast pace of technology. They suggest that AI developers should be held accountable instead of medical staff. The government is now reviewing these concerns to ensure patient safety and maintain public trust."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the Medical Protection Society (MPS), what change in legal classification could help protect doctors from AI-related lawsuits?",
+      "options": {
+        "A": "Classifying AI as a form of medical malpractice.",
+        "B": "Categorizing AI tools as 'products' rather than medical services.",
+        "C": "Requiring doctors to undergo mandatory training on AI software.",
+        "D": "Limiting the use of AI to non-critical diagnostic tasks only."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第五段明確指出，MPS 建議政府將 AI 工具歸類為「產品」（products）而非醫療服務。這樣一來，根據 1987 年的消費者保護法，開發軟體的公司就能對錯誤負責，而非由醫生承擔責任。選項 A 是錯誤的，因為這不是法律分類的改變；選項 C 與 D 在文中並未作為解決法律責任問題的建議方案。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, why might the current legal situation lead to a 'slowdown' in the adoption of AI-assisted medical care?",
+      "options": {
+        "A": "Because the technology is too expensive for most hospitals to afford.",
+        "B": "Because doctors are refusing to use AI due to lack of technical training.",
+        "C": "Because patients may distrust a system that lacks clear accountability for errors.",
+        "D": "Because the government has banned the use of AI in hospitals until new laws are passed."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第七段，Ahmed Binesmael 指出公眾對 AI 的信心取決於保護措施與規則。若患者認為系統不公平或缺乏問責機制，他們會不願接受 AI 輔助的治療，進而導致醫療機構推廣 AI 的阻力增加。選項 A 文中未提及；選項 B 錯誤，醫生擔心的是法律責任而非技術能力；選項 D 錯誤，政府目前仍在審查建議，並未全面禁止。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fourth paragraph, what does the phrase 'liability hot potato' imply about the current situation for doctors?",
+      "options": {
+        "A": "A situation where doctors are forced to take responsibility for issues they did not create.",
+        "B": "A beneficial opportunity for doctors to gain more control over medical technology.",
+        "C": "A rapid and efficient process of transferring blame to software developers.",
+        "D": "A temporary problem that will be solved automatically by technological progress."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。文中 Dr. Ragit Varia 使用「liability hot potato」（責任燙手山芋）來形容醫生被要求承擔那些由複雜系統（醫生並未開發或管理）所導致的錯誤責任。這是一種比喻，意指醫生被迫接手一個危險且不公平的負擔。選項 B 與文意相反；選項 C 錯誤，目前問題正是責任無法轉移；選項 D 過於樂觀，文中強調現狀亟需法律介入。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article regarding AI in healthcare?",
+      "options": {
+        "A": "AI technology is too dangerous and should be removed from hospitals immediately.",
+        "B": "Doctors are solely responsible for all errors, regardless of whether they use AI or not.",
+        "C": "The government has already successfully updated all laws to protect both patients and doctors.",
+        "D": "The current legal framework is outdated and must be updated to clarify responsibility for AI-related medical errors."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。本文的核心論點在於科技進步速度遠超法律規範，導致醫生面臨不公平的法律風險。文章從 MPS 的報告、醫生的擔憂，到政府的審查與專家的建議，都在強調必須更新法律以釐清 AI 醫療錯誤的責任歸屬。選項 A 過於極端；選項 B 是目前醫生擔心的問題，而非文章主旨；選項 C 與事實不符，政府仍在審查中。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
