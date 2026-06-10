@@ -1,81 +1,69 @@
 {
   "id": "2026-06-10-us-inflation-reaches-three-year-high",
   "slug": "us-inflation-reaches-three-year-high-jun-2026",
-  "publishedAt": "2026-06-10T22:13:51.796441Z",
+  "publishedAt": "2026-06-10T23:49:43.438182Z",
   "category": "economics",
-  "title": "US Inflation Hits Three-Year High Amid Iran Conflict",
-  "subtitle": "Rising fuel costs drive up prices for Americans as the economy faces new pressures",
+  "title": "US Inflation Reaches Three-Year High Amid Iran Conflict",
+  "subtitle": "Rising fuel costs drive up prices as the economy faces new pressures from the ongoing war",
   "summary": {
-    "en": "Inflation in the United States has reached its highest level in three years, climbing to 4.2% in May. The increase is largely driven by soaring gasoline prices linked to the ongoing war with Iran. While energy costs have risen sharply, wage growth has not kept pace, reducing the spending power of many workers. The Federal Reserve now faces difficult decisions regarding interest rates as economic uncertainty grows. Meanwhile, the White House maintains that its broader economic agenda is still delivering results for the country.",
-    "zh": "美國的通膨已達到三年來的最高水準，五月份攀升至百分之四點二。此漲幅主要由與伊朗持續戰爭所引發的汽油價格飆升所驅動。儘管能源成本急劇上升，薪資成長卻未能跟上，導致許多勞工的購買力下降。隨著經濟不確定性增加，聯準會目前面臨關於利率的艱難決策。與此同時，白宮堅稱其更廣泛的經濟議程仍為國家帶來成效。"
+    "en": "Inflation in the United States has climbed to 4.2 percent, marking its highest point in three years. The increase is primarily driven by rising gasoline and energy costs linked to the conflict with Iran. While the White House remains optimistic about its economic agenda, consumers are feeling the impact of higher prices. Wage growth has not kept pace with inflation, reducing the spending power of many American households. The Federal Reserve now faces difficult decisions regarding interest rates as the job market shows signs of stabilizing.",
+    "zh": "美國通貨膨脹率攀升至百分之四點二，創下三年來最高點。此次漲幅主要由與伊朗衝突相關的汽油及能源成本上漲所驅動。儘管白宮對其經濟議程保持樂觀，但消費者正感受到高物價帶來的衝擊。薪資成長未能跟上通膨速度，導致許多美國家庭的購買力下降。隨著就業市場顯示出穩定跡象，聯準會目前在利率決策上面臨艱難抉擇。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "The cost of living in the United States has reached its highest point in three years. According to a report from the Labor Department released on Wednesday, consumer prices in May were 4.2% higher than they were one year ago. This is the largest annual increase since April 2023. The primary cause of this jump is the ongoing war between the United States and Iran, which has caused energy prices to rise significantly.",
-      "zh": "美國的生活成本已達到三年來的最高點。根據勞工部週三發布的報告，五月份的消費者物價較一年前上漲了百分之四點二，這是自二零二三年四月以來的最大年度漲幅。造成此一漲幅的主要原因是美國與伊朗之間持續進行的戰爭，這導致能源價格顯著攀升。"
+      "en": "The United States is facing its highest inflation rate in three years, with new data showing consumer prices rose by 4.2 percent in May compared to the previous year. This increase, reported by the Labor Department, marks the largest annual jump since April 2023. The rise is largely driven by the ongoing war with Iran, which has caused significant disruptions to global oil supplies and pushed gasoline prices to an average of $4.15 per gallon nationwide.",
+      "zh": "美國正面臨三年來最高的通貨膨脹率，最新數據顯示，五月份消費者物價指數較去年同期上漲了百分之四點二。這項由勞工部發布的數據，創下了自二零二三年四月以來的最大年度漲幅。此次物價上漲主要受到與伊朗持續交戰的影響，這導致全球石油供應嚴重中斷，並將全美汽油價格推升至平均每加侖四點一五美元。"
     },
     {
       "id": "p2",
-      "en": "Data from the Bureau of Labor Statistics shows that higher energy costs accounted for more than 60% of the price increases seen between April and May. Gasoline prices have jumped by over a dollar per gallon since the conflict began. This is largely because the war has affected the Strait of Hormuz, a critical pathway for much of the world's oil supply. According to AAA, the national average price for a gallon of gas is now $4.15. While this is slightly lower than it was a month ago, it remains much higher than prices before the war started.",
-      "zh": "勞工統計局的數據顯示，四月至五月間的物價漲幅中，有超過百分之六十是由能源成本上升所致。自衝突爆發以來，汽油價格每加侖已飆升超過一美元。這主要是因為戰爭影響了荷莫茲海峽，該海峽是全球大部分石油供應的關鍵通道。根據美國汽車協會的數據，目前全國每加侖汽油的平均價格為四點一五美元。雖然這比一個月前略有下降，但仍遠高於戰爭爆發前的價格。"
+      "en": "According to NPR News, higher energy costs were responsible for more than 60 percent of the monthly price increases between April and May. As shipping traffic through the Strait of Hormuz—a vital route for the world's oil—remains restricted, the cost of fuel has had a ripple effect across the economy. Air travel has become notably more expensive, with airline tickets costing approximately 27 percent more than they did a year ago. While grocery prices remained relatively stable, rising only 0.1 percent, the overall cost of living continues to climb.",
+      "zh": "根據美國國家公共廣播電台（NPR）報導，四月至五月間超過百分之六十的月度物價漲幅，皆歸因於能源成本上升。由於通過全球石油重要航道荷莫茲海峽的航運依然受限，燃料成本已對整體經濟產生連鎖反應。航空旅行費用顯著增加，機票價格較一年前貴了約百分之二十七。儘管食品雜貨價格相對穩定，僅上漲百分之零點一，但整體生活成本仍持續攀升。"
     },
     {
       "id": "p3",
-      "en": "These rising fuel costs are also affecting other parts of the economy. For example, airline tickets are now about 27% more expensive than they were a year ago. While grocery prices have remained mostly stable, rising only 0.1% in May, the overall increase in costs is being felt by many families. A key measure called \"core inflation\"—which removes the often-changing prices of food and energy—rose by 2.9% over the last year.",
-      "zh": "這些燃料成本的上升也影響了經濟的其他層面。例如，機票價格現在比一年前貴了約百分之二十七。雖然食品雜貨價格大致保持穩定，五月份僅上漲百分之零點一，但許多家庭仍感受到整體成本增加的壓力。一項稱為「核心通膨」的關鍵指標（剔除了波動劇烈的食品與能源價格）在過去一年中上漲了百分之二點九。"
+      "en": "President Donald Trump addressed the new figures from the White House on Wednesday, expressing a positive view of the economic situation. Despite the increase in inflation, the President stated he was not concerned, citing recent military actions against Iranian ships as a factor in managing oil supply. The White House also issued a statement describing the inflation numbers as \"at-expectation.\" Spokesperson Kush Desai noted that the administration’s policies are helping to lower costs for items such as prescription drugs, dairy products, and insurance, arguing that the broader economic agenda continues to benefit the American people.",
+      "zh": "川普總統週三在白宮針對這些新數據發表談話，對經濟情勢表達了樂觀看法。儘管通膨加劇，總統表示並不擔心，並指出近期針對伊朗船隻的軍事行動是管控石油供應的因素之一。白宮也發表聲明，將這些通膨數據形容為「符合預期」。發言人庫什·德賽（Kush Desai）指出，政府的政策正協助降低處方藥、乳製品及保險等項目的成本，並主張更廣泛的經濟議程持續造福美國人民。"
     },
     {
       "id": "p4",
-      "en": "For many American workers, these price hikes are difficult to manage. The Labor Department noted that while prices have risen, average wages have only increased by 3.4% over the past year. This means that the real spending power of workers has gone down, as their paychecks are not keeping up with the rising cost of goods and services. This situation has led to a decline in consumer confidence. A survey from the Federal Reserve Bank of New York found that households are becoming more worried about inflation, the job market, and the possibility of losing their jobs. Additionally, data from the University of Michigan shows that consumer sentiment has fallen to a historic low.",
-      "zh": "對於許多美國勞工而言，這些物價上漲難以應付。勞工部指出，儘管物價上漲，但過去一年平均薪資僅成長百分之三點四。這意味著勞工的實質購買力下降，因為他們的薪資成長趕不上商品與服務成本的增加。這種情況導致消費者信心下滑。紐約聯邦準備銀行的一項調查發現，家庭對於通膨、就業市場以及失業可能性的擔憂日益加深。此外，密西根大學的數據顯示，消費者信心已跌至歷史新低。"
+      "en": "However, the economic reality for many workers is more challenging. While prices have risen by 4.2 percent, average wages have only increased by 3.4 percent over the past year. This gap means that the real spending power of many Americans has decreased, making it harder to afford everyday expenses. The Guardian Business reports that consumer sentiment has fallen to a historic low, as households become increasingly worried about inflation, the job market, and the possibility of future layoffs.",
+      "zh": "然而，對許多勞工而言，經濟現實更為嚴峻。雖然物價上漲了百分之四點二，但過去一年平均薪資僅成長百分之三點四。這項差距意味著許多美國人的實質購買力已經下降，導致日常開銷變得更加吃力。《衛報》商業版報導指出，消費者信心已跌至歷史新低，因為家庭對於通貨膨脹、就業市場以及未來可能裁員的擔憂日益加深。"
     },
     {
       "id": "p5",
-      "en": "In Washington, the reaction to these numbers has been mixed. President Donald Trump spoke about the inflation report on Wednesday, stating that he was not concerned about the figures. He emphasized his control over the economic situation and the impact of the conflict on oil prices. Meanwhile, a White House spokesperson, Kush Desai, stated that the new inflation figures were \"at-expectation.\" The administration argued that its broader economic policies continue to provide results, noting that prices for items like prescription drugs, cars, and insurance are continuing to decline.",
-      "zh": "在華盛頓，對於這些數據的反應不一。川普總統於週三談及這份通膨報告時表示，他並不擔心這些數字。他強調自己對經濟局勢的掌控，以及衝突對油價的影響。與此同時，白宮發言人德賽（Kush Desai）表示，新的通膨數據「符合預期」。政府主張其更廣泛的經濟政策持續發揮成效，並指出處方藥、汽車與保險等項目的價格正在持續下降。"
+      "en": "This trend has created a difficult environment for the Federal Reserve, the central bank of the United States. The Fed is responsible for managing the country's money supply and interest rates—the cost of borrowing money. Because inflation remains stubborn, it is now less likely that the Federal Reserve will cut interest rates in the near future. The situation is further complicated by a stabilizing job market, as employers added 172,000 jobs last month. The central bank will meet next week under its new chair, Kevin Warsh, to discuss how to balance these competing economic pressures.",
+      "zh": "此趨勢為美國中央銀行——聯準會（Federal Reserve）創造了艱難的環境。聯準會負責管理國家的貨幣供應與利率，即借貸成本。由於通膨依然頑強，聯準會近期降息的可能性已降低。就業市場的穩定化使情況更加複雜，上個月雇主增加了十七萬兩千個工作職位。聯準會將於下週在新任主席凱文·沃許（Kevin Warsh）的帶領下召開會議，討論如何平衡這些相互衝突的經濟壓力。"
     },
     {
       "id": "p6",
-      "en": "These economic challenges are putting pressure on the Federal Reserve, the central bank of the United States. The Fed is responsible for setting interest rates—the cost of borrowing money. By raising these rates, the Fed usually tries to slow down inflation. However, because inflation remains stubborn, it is now considered less likely that the Fed will cut interest rates soon. The central bank is scheduled to meet next week under its new chair, Kevin Warsh, to discuss the path forward.",
-      "zh": "這些經濟挑戰正對美國的中央銀行——聯邦準備理事會（簡稱聯準會）帶來壓力。聯準會負責制定利率，即借貸資金的成本。透過調升利率，聯準會通常試圖減緩通膨。然而，由於通膨依然頑強，目前聯準會近期降息的可能性被認為降低。聯準會預計將於下週在新任主席沃許（Kevin Warsh）的帶領下召開會議，討論未來的政策方向。"
-    },
-    {
-      "id": "p7",
-      "en": "Looking ahead, the future of the economy remains tied to the conflict in the region. There have been some recent hopes for a negotiated settlement—an agreement to stop fighting—between the U.S. and Iran, which has caused gasoline prices to ease slightly in recent days. However, the uncertainty surrounding the war continues to influence global energy markets and the daily expenses of Americans. As the country heads into the busy summer season, travelers and families will be watching both the price at the gas pump and the decisions made by officials in Washington very closely.",
-      "zh": "展望未來，經濟的前景仍與該地區的衝突息息相關。近期出現了一些透過談判達成和解的希望，即美伊雙方達成停戰協議，這使得汽油價格在過去幾天略有回落。然而，戰爭帶來的不確定性持續影響全球能源市場與美國民眾的日常開銷。隨著國家進入繁忙的夏季，旅客與家庭將會密切關注加油站的油價以及華盛頓官員所做的決策。"
+      "en": "Looking ahead, there are some signs of change. Gasoline prices have eased slightly in recent days, influenced by hopes for a possible negotiated settlement between the United States and Iran. Nevertheless, pump prices remain about $1.17 higher than they were before the conflict began, according to data from AAA. For now, the combination of high energy costs and stagnant wage growth continues to weigh heavily on the financial outlook of the average American household. As the summer travel season begins, the impact of these higher prices will likely remain a central issue for both policymakers and the public.",
+      "zh": "展望未來，出現了一些變化的跡象。受美國與伊朗可能達成談判協議的希望影響，汽油價格近幾日已略微回落。然而，根據美國汽車協會（AAA）的數據，加油站價格仍比衝突開始前高出約一點一七美元。目前，高昂的能源成本與停滯的薪資成長，持續沉重地壓在一般美國家庭的財務前景上。隨著夏季旅遊旺季開始，這些高物價帶來的衝擊，很可能仍將是決策者與大眾關注的核心議題。"
     }
   ],
-  "wordCount": 685,
+  "wordCount": 612,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
-      "term": "accounted for",
-      "definitionEn": "To make up a particular amount or part of something.",
-      "definitionZh": "佔（比例、數量）；說明原因。",
-      "partOfSpeech": "phrasal verb",
-      "noteZh": "此處並非「解釋」之意，而是指佔據了總數的一部分。文中：Data from the Bureau of Labor Statistics shows that higher energy costs accounted for more than 60% of the price increases seen between April and May."
-    },
-    {
-      "term": "keeping up with",
-      "definitionEn": "To move or progress at the same speed as someone or something else.",
-      "definitionZh": "跟上；維持同樣的速度或水準。",
-      "partOfSpeech": "phrasal verb",
-      "noteZh": "形容薪資漲幅追不上物價上漲的速度。文中：This means that the real spending power of workers has gone down, as their paychecks are not keeping up with the rising cost of goods and services."
+      "term": "ripple effect",
+      "definitionEn": "A situation in which one event produces effects which spread and produce further effects.",
+      "definitionZh": "漣漪效應；連鎖反應",
+      "partOfSpeech": "noun",
+      "noteZh": "此處指單一因素（油價）引發的一連串經濟影響。文中：the cost of fuel has had a ripple effect across the economy."
     },
     {
       "term": "stubborn",
       "definitionEn": "Difficult to move, remove, or cure.",
-      "definitionZh": "（問題、疾病等）難以解決的、頑固的。",
+      "definitionZh": "難以消除的；頑固的",
       "partOfSpeech": "adjective",
-      "noteZh": "原意指人性格固執，這裡形容通貨膨脹難以消除。文中：However, because inflation remains stubborn, it is now considered less likely that the Fed will cut interest rates soon."
+      "noteZh": "原意指人固執，這裡形容通貨膨脹難以降低。文中：Because inflation remains stubborn, it is now less likely that the Federal Reserve will cut interest rates in the near future."
     },
     {
-      "term": "ease",
-      "definitionEn": "To become less severe, painful, or expensive.",
-      "definitionZh": "減輕；緩和；變輕鬆。",
-      "partOfSpeech": "verb",
-      "noteZh": "常見作名詞（輕鬆），這裡作動詞，形容價格漲勢趨緩。文中：There have been some recent hopes for a negotiated settlement—an agreement to stop fighting—between the U.S. and Iran, which has caused gasoline prices to ease slightly in recent days."
+      "term": "weigh heavily on",
+      "definitionEn": "To cause someone to feel worried or burdened.",
+      "definitionZh": "對...造成沉重負擔；使...感到壓力",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這裡形容經濟壓力對家庭財務狀況的影響。文中：the combination of high energy costs and stagnant wage growth continues to weigh heavily on the financial outlook of the average American household."
     }
   ],
   "sources": [
@@ -94,61 +82,69 @@
   ],
   "story": {
     "id": "us-inflation-reaches-three-year-high",
-    "type": "standalone",
-    "previousArticles": []
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "us-inflation-reaches-three-year-high-jun-2026",
+        "title": "US Inflation Hits Three-Year High Amid Iran Conflict",
+        "publishedAt": "2026-06-10T22:13:51.796441Z",
+        "category": "economics",
+        "summaryEn": "Inflation in the United States has reached its highest level in three years, climbing to 4.2% in May. The increase is largely driven by soaring gasoline prices linked to the ongoing war with Iran. While energy costs have risen sharply, wage growth has not kept pace, reducing the spending power of many workers. The Federal Reserve now faces difficult decisions regarding interest rates as economic uncertainty grows. Meanwhile, the White House maintains that its broader economic agenda is still delivering results for the country."
+      }
+    ]
   },
   "quiz": [
     {
       "id": "q1",
       "type": "detail",
-      "question": "According to the article, what is the primary reason for the recent increase in consumer prices in the United States?",
+      "question": "What is the primary reason mentioned for the recent increase in the cost of air travel?",
       "options": {
-        "A": "A significant rise in the cost of airline tickets and groceries.",
-        "B": "The ongoing military conflict between the United States and Iran.",
-        "C": "A decrease in the average wages earned by American workers.",
-        "D": "The Federal Reserve's decision to raise interest rates unexpectedly."
+        "A": "A significant rise in the cost of labor for airline staff.",
+        "B": "The ripple effect caused by rising fuel costs due to shipping disruptions.",
+        "C": "A decrease in the number of available flights during the summer season.",
+        "D": "The government's decision to increase taxes on international travel."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。文章第一段明確指出，物價上漲的主要原因是美國與伊朗之間持續的戰爭，導致能源價格大幅攀升。選項 A 雖然提到了機票與雜貨，但那是能源價格上漲後的後續影響，並非「主要原因」。選項 C 是工資與物價的對比結果，並非物價上漲的成因。選項 D 提到聯準會，但文章中提到聯準會是因為通膨才面臨壓力，而非導致通膨的源頭。"
+      "explanationZh": "正確答案為 B。根據文章第二段，文中明確指出由於荷姆茲海峽（Strait of Hormuz）航運受阻，導致全球油價上漲，燃料成本的上升對經濟產生了連鎖反應（ripple effect），進而導致機票價格上漲了約 27%。選項 A 在文中未提及；選項 C 雖然提到夏季旅遊季節，但非機票漲價的主因；選項 D 則完全未在文中出現。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "Based on the information provided, what is the likely consequence for American workers if wages continue to grow at 3.4% while inflation remains at current levels?",
+      "question": "Based on the article, why might the Federal Reserve be hesitant to lower interest rates?",
       "options": {
-        "A": "They will be able to afford more luxury goods due to higher paychecks.",
-        "B": "They will experience an increase in their actual purchasing power.",
-        "C": "They will struggle to maintain their current standard of living as costs outpace income.",
-        "D": "They will likely see a significant decrease in the unemployment rate."
+        "A": "They are waiting for the new chair, Kevin Warsh, to resign.",
+        "B": "They believe that the current inflation rate is not actually a problem.",
+        "C": "The combination of persistent inflation and a stable job market complicates the decision.",
+        "D": "They are waiting for gasoline prices to drop below pre-conflict levels."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。文章第四段提到物價漲幅（4.2%）高於平均工資漲幅（3.4%），導致勞工的「實際消費能力」（real spending power）下降。這意味著工資的成長追不上物價上漲的速度，因此人們的生活水準將受到擠壓。選項 A 與 B 與文章敘述相反，因為購買力下降代表能買的東西變少。選項 D 在文中並未提及，且經濟壓力通常與失業擔憂相關，而非降低失業率。"
+      "explanationZh": "正確答案為 C。根據第五段，聯準會（Fed）負責管理貨幣供應與利率，而目前的通膨依然頑固（stubborn），加上就業市場穩定（新增 17.2 萬個職位），這使得聯準會難以輕易採取降息措施。選項 A 文中未提及辭職；選項 B 與文中提到的「通膨頑固」矛盾；選項 D 雖然提到油價，但並非聯準會決策的唯一考量指標。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the sixth paragraph, what does the word 'stubborn' mean in the context of inflation?",
+      "question": "In the final paragraph, what does the word 'stagnant' mean in the context of 'stagnant wage growth'?",
       "options": {
-        "A": "Difficult to control or reduce.",
-        "B": "Acting in an aggressive or angry manner.",
-        "C": "Growing at a very fast and unexpected rate.",
-        "D": "Limited to a specific sector of the economy."
+        "A": "Not moving or making progress.",
+        "B": "Growing at a very rapid pace.",
+        "C": "Subject to frequent and sudden changes.",
+        "D": "Lowered significantly due to government intervention."
       },
       "correct": "A",
-      "explanationZh": "正確答案為 A。在此上下文中，「stubborn inflation」意指通膨現象難以被抑制或降低，就像頑固的人不願改變一樣。選項 B 是形容人的性格，不適用於經濟指標。選項 C 雖然通膨確實很高，但「stubborn」強調的是「難以改變的狀態」而非「成長速度」。選項 D 並非該詞的含義，文章中也提到通膨影響層面很廣，並非僅限於特定領域。"
+      "explanationZh": "正確答案為 A。在文章最後一段，stagnant 用來形容工資成長停滯不前，意指沒有顯著的進展或變動。對照第四段數據，物價上漲 4.2% 但工資僅增加 3.4%，顯示工資成長落後於物價，處於停滯狀態。選項 B 與原意相反；選項 C 指的是波動，與停滯意思不同；選項 D 則未提到工資被政府調降。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "What is the central message of this article regarding the current U.S. economic situation?",
+      "question": "Which of the following best summarizes the central message of the article?",
       "options": {
-        "A": "The U.S. government has successfully stabilized all consumer prices through new policies.",
-        "B": "The Federal Reserve has already solved the inflation crisis by cutting interest rates.",
-        "C": "Rising energy costs driven by geopolitical conflict are creating significant economic challenges for American households.",
-        "D": "The conflict with Iran has had no measurable impact on the daily lives of average Americans."
+        "A": "The U.S. government has successfully eliminated inflation through military action.",
+        "B": "Airline tickets are the only consumer goods affected by the current global crisis.",
+        "C": "The Federal Reserve has already decided to cut interest rates to help workers.",
+        "D": "Rising inflation and high energy costs are creating significant financial pressure for American households."
       },
-      "correct": "C",
-      "explanationZh": "正確答案為 C。這篇文章的核心在於探討地緣政治（美國與伊朗的戰爭）如何導致能源價格飆升，進而引發通膨，並對美國家庭的經濟狀況與消費信心造成負面影響。選項 A 與文章內容不符，因為政府反應不一且物價仍在漲。選項 B 錯誤，因為文章提到聯準會因通膨頑固而不太可能降息。選項 D 明顯錯誤，因為文章詳述了戰爭對油價與民眾生活的直接影響。"
+      "correct": "D",
+      "explanationZh": "正確答案為 D。本文主要探討美國當前的高通膨現狀，分析了能源成本上漲對經濟的影響、工資成長跟不上物價的現實，以及聯準會面臨的政策挑戰。選項 A 與事實不符，政府並未消除通膨；選項 B 過於狹隘，文中也提到了其他生活成本；選項 C 與第五段內容矛盾，聯準會尚未決定降息。"
     }
   ],
   "aiGenerated": true,
