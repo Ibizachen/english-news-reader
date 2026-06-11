@@ -1,76 +1,74 @@
 {
   "id": "2026-06-11-ai-data-centers-and-water-usage",
   "slug": "ai-data-centers-and-water-usage-jun-2026",
-  "publishedAt": "2026-06-11T22:13:51.111966Z",
+  "publishedAt": "2026-06-11T23:52:24.161288Z",
   "category": "energy",
-  "title": "The Hidden Cost of AI: Balancing Tech Growth and Water Security",
-  "subtitle": "As data centers expand to support artificial intelligence, companies face new pressure to manage their massive water and energy needs.",
+  "title": "The Hidden Cost of Growth: AI Data Centers and the Global Water Challenge",
+  "subtitle": "As cities struggle with extreme heat, tech companies face new questions about how much water they need to keep their systems running.",
   "summary": {
-    "en": "Amazon has released its first report on annual water usage for its global data centers. The company consumed 2.5 billion gallons of water in 2025 to keep its servers cool. This comes as cities worldwide struggle with rising temperatures and limited water supplies. Experts warn that the growth of artificial intelligence requires careful resource management. Tech firms are now under pressure to prove they can operate efficiently without harming local communities.",
-    "zh": "亞馬遜發布了首份全球資料中心年度用水報告，顯示該公司二〇二五年為冷卻伺服器消耗了二十五億加侖的水。此時，全球各地的城市正因氣溫升高與供水有限而陷入困境。專家警告，人工智慧的成長需要謹慎的資源管理。科技公司目前面臨壓力，必須證明其能在不損害當地社區的情況下有效率地運作。"
+    "en": "Amazon has released its first report on the water usage of its global data centers. The company used 2.5 billion gallons of water in 2025 to keep its computer servers cool. This report comes as cities around the world are facing record-breaking heat waves. Experts warn that rising temperatures are putting pressure on both public health and local water supplies. Tech companies now face increasing pressure to balance the growth of artificial intelligence with the need for environmental sustainability.",
+    "zh": "亞馬遜發布了首份關於其全球資料中心用水量的報告。該公司在 2025 年消耗了 25 億加侖的水來冷卻電腦伺服器。這份報告發布之際，全球各地的城市正遭遇破紀錄的熱浪。專家警告，氣溫升高正對公共衛生與在地供水造成壓力。科技公司目前面臨越來越大的壓力，必須在人工智慧的成長與環境永續的需求之間取得平衡。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "The rapid growth of artificial intelligence (AI) is changing how we use technology, but it is also creating a new challenge for the environment. As data centers—large buildings filled with computers that power the internet and AI services—continue to expand, they require massive amounts of electricity and water to stay cool. Recently, Amazon shared its annual water usage data for the first time, revealing that its global operations consumed 2.5 billion gallons of water in 2025.",
-      "zh": "人工智慧的快速成長正在改變我們使用科技的方式，但也為環境帶來了新的挑戰。隨著資料中心（即充滿電腦、為網際網路與人工智慧服務提供動力的龐大建築）持續擴張，它們需要消耗大量的電力與水來進行冷卻。亞馬遜（Amazon）近期首次公開其年度用水數據，顯示該公司二〇二五年在全球的營運共消耗了二十五億加侖的水。"
+      "en": "As the world faces rising temperatures and more frequent heat waves, the rapid growth of artificial intelligence is creating a new challenge for cities. Modern data centers, which power the AI tools used by millions, require massive amounts of electricity and water to stay cool. This issue has become a major topic of debate, as urban areas struggle to manage their own water supplies and energy needs during the hottest months of the year.",
+      "zh": "隨著全球面臨氣溫升高與熱浪頻繁來襲，人工智慧的快速發展正為城市帶來新的挑戰。現代資料中心為數百萬人使用的人工智慧工具提供動力，但這些設施需要消耗大量的電力與水資源來進行冷卻。此議題已成為主要的辯論焦點，因為都會區在一年中最炎熱的月份，正面臨難以兼顧居民用水與能源需求的困境。"
     },
     {
       "id": "p2",
-      "en": "This report from The Verge highlights that Amazon is trying to show it is more efficient than its competitors. According to the company, it uses less water per unit of electricity compared to rivals like Microsoft, Google, and Meta. Amazon claims its data centers are seven times more water-efficient than the industry average. However, the report also noted that these figures do not include all water use, such as the indirect water needed by power plants to generate electricity for these facilities, or the water used during the construction of new buildings. While Amazon says it uses air cooling for most of its operations, it still relies on water cooling during the hottest hours of the year.",
-      "zh": "這份來自科技媒體 The Verge 的報導指出，亞馬遜正試圖證明其效率優於競爭對手。根據該公司說法，與微軟（Microsoft）、Google 及 Meta 等對手相比，其每單位電力的用水量較低。亞馬遜聲稱其資料中心的用水效率比業界平均水準高出七倍。然而，報導也提到這些數據並未涵蓋所有用水，例如發電廠為這些設施供電時所需的間接用水，或是興建新建築過程中的用水。儘管亞馬遜表示其多數營運採用空氣冷卻，但在一年中最炎熱的時段，仍須依賴水冷系統。"
+      "en": "In a recent development, Amazon has shared its annual water usage data for the first time. According to The Verge, the company’s global data center operations consumed 2.5 billion gallons of water in 2025. This report was released shortly after officials in Seattle decided to pause the construction of new data centers for one year, a move that some of Amazon’s own employees had supported. The company noted that its water usage actually dropped by two percent compared to 2024, even as its operations continued to expand.",
+      "zh": "近期，亞馬遜 (Amazon) 首次公開了其年度用水數據。根據科技媒體「邊緣」(The Verge) 報導，該公司 2025 年在全球的資料中心營運共消耗了 25 億加侖的水。這份報告發布的時間點，正值西雅圖 (Seattle) 官員決定暫停新建資料中心一年，而這項決策也獲得了部分亞馬遜員工的支持。該公司指出，儘管營運規模持續擴張，但其用水量相較於 2024 年其實下降了百分之二。"
     },
     {
       "id": "p3",
-      "en": "This news arrives at a difficult time for many cities. As reported by Deutsche Welle (DW), urban areas are becoming \"heat islands,\" where paved roads and buildings make cities much hotter than the surrounding countryside. Climate change is making heat waves more frequent and intense, putting a strain on public health and city services. In places like Antalya, Turkey, and Teresina, Brazil, officials are working hard to keep their growing populations safe as temperatures rise. These cities are struggling to manage their energy and water systems, which are already under pressure from both the weather and the needs of millions of residents.",
-      "zh": "這則新聞發布之際，許多城市正處於艱難時刻。根據德國之聲（Deutsche Welle）報導，都會區正逐漸成為「熱島」，鋪設的道路與建築物使得城市溫度遠高於周邊郊區。氣候變遷正導致熱浪變得更加頻繁且劇烈，對公共衛生與城市服務造成壓力。在土耳其的安塔利亞（Antalya）與巴西的特雷西納（Teresina）等地，官員們正努力在氣溫升高之際，確保日益增長的人口安全。這些城市正竭力管理其能源與供水系統，而這些系統早已因氣候與數百萬居民的需求而備受壓力。"
+      "en": "Amazon claims that its data centers are highly efficient. The company stated that about 90 percent of the time, its facilities use air cooling rather than water. It only uses evaporative water cooling—a process that uses water to lower the temperature of hot air—during the hottest hours of the year. Based on an adjusted number from a research paper, Amazon claims its centers are seven times more water-efficient than the industry average. However, the report from The Verge points out that Amazon’s data does not include the water used to generate the electricity that powers its servers, nor does it count the water used during the construction of new buildings.",
+      "zh": "亞馬遜聲稱其資料中心具有極高的效率。該公司表示，約有百分之九十的時間，其設施是採用空氣冷卻而非水冷卻。僅在一年中最炎熱的時段，才會使用蒸發式水冷卻系統，這是一種利用水來降低熱空氣溫度的程序。根據一份研究報告調整後的數據，亞馬遜宣稱其中心的用水效率比產業平均水準高出七倍。然而，「邊緣」的報導指出，亞馬遜的數據並未包含發電給伺服器使用所消耗的水量，也沒有計入興建新建築時的用水。"
     },
     {
       "id": "p4",
-      "en": "The conflict between tech expansion and resource availability is becoming a major public debate. In the United States, some cities have even introduced a moratorium—a temporary official stop—on new data center construction. This move is often supported by local residents and even some tech employees who are worried about how these centers affect local water supplies and energy costs. The Verge noted that Seattle recently enacted such a pause, reflecting a growing trend of communities asking for more control over how tech infrastructure is built in their neighborhoods.",
-      "zh": "科技擴張與資源可用性之間的衝突，正成為一項重大的公眾辯論議題。在美國，部分城市甚至對新資料中心的建設實施了暫停令（即官方的臨時禁令）。此舉常獲得當地居民甚至部分科技業員工的支持，他們擔憂這些中心會影響當地的供水與能源成本。The Verge 指出，西雅圖（Seattle）近期便實施了此類暫停措施，反映出越來越多社區要求對科技基礎設施在其鄰近地區的建設方式擁有更多控制權的趨勢。"
+      "en": "While tech companies work to improve their efficiency, cities are facing a different kind of pressure. According to Deutsche Welle, urban areas are becoming \"heat islands,\" where paved roads and a lack of green space make cities significantly hotter than surrounding rural areas. This extra heat is not just uncomfortable; it is a serious public health risk. The World Health Organization has described heat as a \"silent killer,\" noting that nearly half a million people die every year from heat-related causes. As climate change makes heat waves longer and more intense, cities are finding it harder to keep their residents safe.",
+      "zh": "當科技公司致力於提升效率的同時，城市正面臨另一種壓力。根據德國之聲 (Deutsche Welle) 報導，都會區正逐漸成為「熱島」，鋪設的道路與缺乏綠地使得城市比周邊鄉村地區更加炎熱。這種額外的熱能不僅讓人感到不適，更構成嚴重的公共衛生風險。世界衛生組織 (World Health Organization) 將高溫形容為「沉默的殺手」，並指出每年有近五十萬人死於與高溫相關的原因。隨著氣候變遷導致熱浪持續時間更長、強度更高，城市要保障居民安全變得愈發困難。"
     },
     {
       "id": "p5",
-      "en": "Experts suggest that the \"nature of heat has changed,\" as noted by climate specialists in Turkey. It is no longer just a local weather issue; it is a challenge for public health and the economy. As cities work on strategies to stay livable, such as better building designs and more green spaces, the tech industry is also being asked to adapt. The challenge for companies like Amazon is to continue growing their AI capabilities while proving that they are not taking water away from the people who need it most.",
-      "zh": "專家指出，正如土耳其的氣候專家所言，「熱的本質已經改變」。這不再僅是地方性的天氣問題，而是公共衛生與經濟面臨的挑戰。當城市致力於制定策略以維持宜居性（例如改善建築設計與增加綠地）時，科技產業也被要求必須做出調整。對於像亞馬遜這樣的公司而言，挑戰在於如何在持續發展人工智慧能力的同時，證明他們並未剝奪最需要用水的民眾之資源。"
+      "en": "In cities like Teresina, Brazil, temperatures now frequently go above 40 degrees Celsius. This disrupts daily life, affecting everything from sleep quality to the productivity of the local population. Similarly, in Antalya, Turkey, officials are preparing for the upcoming COP31 climate talks while dealing with summer heat that is becoming more frequent and severe. Melike Kireccibasi, a climate expert in Antalya, told Deutsche Welle that the changing nature of the heat is placing \"increasing pressure\" on the city’s health services, energy systems, and water supplies.",
+      "zh": "在巴西的特雷西納 (Teresina) 等城市，氣溫經常飆破攝氏 40 度。這擾亂了日常生活，從睡眠品質到當地民眾的生產力都受到影響。同樣地，在土耳其的安塔利亞 (Antalya)，官員們正一邊籌備即將到來的第 31 屆聯合國氣候變遷大會 (COP31)，一邊應對日益頻繁且嚴峻的夏季高溫。安塔利亞的氣候專家基雷奇巴希 (Melike Kireccibasi) 向德國之聲表示，氣候變遷導致的高溫型態正對該市的醫療服務、能源系統與供水造成「日益沉重的壓力」。"
     },
     {
       "id": "p6",
-      "en": "Looking ahead, the pressure on tech companies to be transparent will likely increase. While Amazon argues that its efficiency is improving—noting a two percent drop in water use from 2024 to 2025—the total amount of water required remains very high. As the world faces more frequent heat extremes, the demand for cooling will only grow. The future of AI will depend not just on better software, but on whether these companies can find ways to operate that respect the limits of our natural resources. For now, the focus remains on finding a balance between the digital world and the physical needs of our warming planet.",
-      "zh": "展望未來，科技公司面臨的透明度壓力可能會持續增加。雖然亞馬遜主張其效率正在提升（指出二〇二四年至二〇二五年用水量下降了百分之二），但總用水量依然極高。隨著世界面臨更頻繁的極端高溫，對冷卻的需求只會不斷增加。人工智慧的未來將不僅取決於更優良的軟體，更取決於這些公司能否找到尊重自然資源極限的營運方式。目前，焦點仍放在如何在數位世界與我們這顆暖化行星的物理需求之間，找到平衡點。"
+      "en": "There is a growing tension between the needs of the tech industry and the needs of local communities. While Amazon argues that it is more efficient than rivals like Google, Microsoft, and Meta, the comparison is complicated. For example, reports suggest that some data from rivals may focus specifically on centers used for AI, while Amazon’s report covers all of its operations. This makes it difficult for the public to know exactly how much water the AI industry as a whole is consuming.",
+      "zh": "科技產業的需求與在地社區的需求之間，緊張關係正逐漸升溫。雖然亞馬遜主張其效率優於 Google、微軟 (Microsoft) 與 Meta 等競爭對手，但這種比較相當複雜。例如，有報導指出，部分競爭對手的數據可能專注於人工智慧專用的中心，而亞馬遜的報告則涵蓋了所有營運項目。這使得大眾難以確切得知人工智慧產業整體究竟消耗了多少水資源。"
+    },
+    {
+      "id": "p7",
+      "en": "Looking ahead, the challenge for cities will be to adapt to a warming world while managing the demands of new technology. Experts suggest that better building design, such as using materials that reflect heat or adding green roofs, can help reduce the need for constant air conditioning. However, as the demand for AI continues to rise, the debate over how much water these massive computing facilities should be allowed to use is likely to continue. With cities already struggling to provide enough water for their residents during extreme heat, the question of how to balance technological progress with environmental safety remains a critical issue for the future.",
+      "zh": "展望未來，城市面臨的挑戰將是在管理新科技需求的同時，適應暖化的世界。專家建議，透過更佳的建築設計，例如使用反射熱能的建材或增設綠屋頂，有助於減少對持續開冷氣的依賴。然而，隨著對人工智慧的需求持續攀升，關於這些大型運算設施應被允許使用多少水資源的辯論，預計將持續下去。在城市已難以在極端高溫下為居民提供足夠用水的情況下，如何平衡科技進步與環境安全，仍是未來至關重要的議題。"
     }
   ],
-  "wordCount": 632,
+  "wordCount": 724,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
-      "term": "cool",
-      "definitionEn": "To make something less hot.",
-      "definitionZh": "使冷卻、降溫。",
+      "term": "pause",
+      "definitionEn": "To stop an activity or process for a short period of time.",
+      "definitionZh": "暫停、中止。",
       "partOfSpeech": "verb",
-      "noteZh": "常見作形容詞（涼爽的），這裡作動詞用。文中：they require massive amounts of electricity and water to stay cool."
+      "noteZh": "常見作名詞（暫停），這裡作動詞用。文中：This report was released shortly after officials in Seattle decided to pause the construction of new data centers for one year, a move that some of Amazon’s own employees had supported."
     },
     {
-      "term": "strain",
-      "definitionEn": "A force or pressure that causes difficulty or damage.",
-      "definitionZh": "壓力、負擔。",
-      "partOfSpeech": "noun",
-      "noteZh": "常見作動詞（拉緊），這裡作名詞用。文中：Climate change is making heat waves more frequent and intense, putting a strain on public health and city services."
+      "term": "points out",
+      "definitionEn": "To draw attention to a particular fact or piece of information.",
+      "definitionZh": "指出、提出（事實或觀點）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "由動詞 point 和介系詞 out 組成，意思與單字原意不同。文中：However, the report from The Verge points out that Amazon’s data does not include the water used to generate the electricity that powers its servers, nor does it count the water used during the construction of new buildings."
     },
     {
-      "term": "pressure",
-      "definitionEn": "A difficult situation that makes someone feel worried or stressed.",
-      "definitionZh": "壓力、緊迫。",
-      "partOfSpeech": "noun",
-      "noteZh": "常見作動詞（施壓），這裡作名詞用。文中：These cities are struggling to manage their energy and water systems, which are already under pressure from both the weather and the needs of millions of residents."
-    },
-    {
-      "term": "move",
-      "definitionEn": "An action taken to achieve a specific goal.",
-      "definitionZh": "行動、舉措。",
-      "partOfSpeech": "noun",
-      "noteZh": "常見作動詞（移動），這裡作名詞用。文中：This move is often supported by local residents and even some tech employees who are worried about how these centers affect local water supplies and energy costs."
+      "term": "disrupts",
+      "definitionEn": "To interrupt an event, activity, or process by causing a disturbance or problem.",
+      "definitionZh": "擾亂、中斷。",
+      "partOfSpeech": "verb",
+      "noteZh": "此字在新聞英語中常形容對生活或系統的干擾。文中：This disrupts daily life, affecting everything from sleep quality to the productivity of the local population."
     }
   ],
   "sources": [
@@ -92,11 +90,25 @@
     "type": "update",
     "previousArticles": [
       {
-        "slug": "ai-data-centers-and-water-scarcity-conflicts-jun-2026",
-        "title": "The Hidden Cost of AI: Data Centers Face Growing Water and Energy Challenges",
-        "publishedAt": "2026-06-08T23:35:14.242901Z",
+        "slug": "ai-data-centers-and-water-usage-jun-2026",
+        "title": "The Hidden Cost of AI: Balancing Tech Growth and Water Security",
+        "publishedAt": "2026-06-11T22:13:51.111966Z",
         "category": "energy",
-        "summaryEn": "The artificial intelligence industry is expanding rapidly, creating a massive need for electricity and water. Many new data centers are being built in areas of the United States that are already suffering from severe drought. Researchers warn that these facilities use millions of gallons of water daily for cooling. Meanwhile, similar concerns are rising in Australia regarding the long-term benefits for local communities. Experts suggest that governments must take stronger action to manage these environmental and economic impacts."
+        "summaryEn": "Amazon has released its first report on annual water usage for its global data centers. The company consumed 2.5 billion gallons of water in 2025 to keep its servers cool. This comes as cities worldwide struggle with rising temperatures and limited water supplies. Experts warn that the growth of artificial intelligence requires careful resource management. Tech firms are now under pressure to prove they can operate efficiently without harming local communities."
+      },
+      {
+        "slug": "global-banks-increase-fossil-fuel-funding-jun-2026",
+        "title": "Global Banks Increase Fossil Fuel Funding Despite Climate Goals",
+        "publishedAt": "2026-06-09T23:42:15.208939Z",
+        "category": "energy",
+        "summaryEn": "A recent report reveals that the world's 65 largest banks provided $906 billion to fossil fuel companies last year. This represents an increase of $64 billion compared to the previous year. Experts warn that this funding makes it difficult to meet international climate goals. While some banks have reduced their support, others continue to invest heavily in expanding oil and gas production. The findings highlight a growing tension between banking practices and global efforts to stop rising temperatures."
+      },
+      {
+        "slug": "global-energy-transition-and-fossil-fuel-funding-jun-2026",
+        "title": "Global Banks Increase Fossil Fuel Funding Despite Climate Goals",
+        "publishedAt": "2026-06-09T22:13:29.803701Z",
+        "category": "energy",
+        "summaryEn": "A new report shows that the world's largest banks provided $906 billion to fossil fuel companies last year. This increase in funding makes it harder to meet international climate targets. Meanwhile, officials at the upcoming Cop31 summit are calling for a shift toward electricity to reduce carbon emissions. Experts warn that current investments lock the world into a risky and unreliable energy system. The global community faces a difficult choice between continuing with fossil fuels or moving toward a cleaner future."
       }
     ]
   },
@@ -104,54 +116,54 @@
     {
       "id": "q1",
       "type": "detail",
-      "question": "According to the article, what is one limitation of the water usage data Amazon reported?",
+      "question": "According to the article, how does Amazon manage cooling in its data centers?",
       "options": {
-        "A": "It only accounts for water used during the winter months.",
-        "B": "It excludes the water used to generate the electricity that powers their facilities.",
-        "C": "It does not include the water used by Google or Microsoft.",
-        "D": "It fails to mention the total amount of water consumed globally."
+        "A": "It uses only water-based cooling systems to ensure maximum efficiency.",
+        "B": "It primarily uses air cooling, reserving water-based cooling for the hottest periods.",
+        "C": "It relies entirely on air cooling to avoid using any water resources.",
+        "D": "It uses evaporative cooling 90 percent of the time to maintain server temperatures."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。文章第二段明確指出，Amazon 提供的數據並不包含「間接用水」，例如發電廠為了產生電力供應這些設施所消耗的水。選項 A 錯誤，因為文章提到的是冷卻需求在最熱時段會增加，並非只計算冬季。選項 C 錯誤，因為文章提到 Amazon 是與這些競爭對手進行比較，而非數據中不包含他們。選項 D 錯誤，文章開頭就明確提到了 2025 年全球消耗了 25 億加侖的水。"
+      "explanationZh": "正確答案為 B。文章第三段明確指出，Amazon 的設施約有 90% 的時間使用空氣冷卻，僅在一年中最炎熱的時段才使用蒸發式水冷系統。選項 A 錯誤，因為這與文章所述相反；選項 C 錯誤，因為並非「完全」不使用水；選項 D 錯誤，數據對調了，90% 是指空氣冷卻而非水冷。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "Why might local residents support a moratorium on new data center construction?",
+      "question": "What can be inferred about the reported water usage of tech companies like Amazon?",
       "options": {
-        "A": "They want to attract different types of industries to their cities.",
-        "B": "They believe data centers are causing the global climate to change.",
-        "C": "They are concerned that data centers compete with the community for essential resources.",
-        "D": "They prefer that tech companies focus on software development instead of physical infrastructure."
+        "A": "The reported figures provide a complete and accurate picture of total environmental impact.",
+        "B": "Tech companies are deliberately hiding their water usage to avoid public criticism.",
+        "C": "The reported data may underestimate the true water footprint of the industry.",
+        "D": "Amazon is currently the most water-efficient company in the entire tech industry."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。根據第四段，居民支持暫停（moratorium）是因為擔心數據中心對「當地水資源供應和能源成本」的影響。這代表居民認為數據中心會與社區爭奪有限的水電資源。選項 A 文章未提及。選項 B 誇大了因果關係，居民擔心的是當地資源，而非數據中心導致全球暖化。選項 D 並非文中提到的居民主要擔憂，居民在意的是資源分配而非開發重心。"
+      "explanationZh": "正確答案為 C。根據文章第三段與第六段，Amazon 的報告未包含發電用水及建築施工用水，且與競爭對手的數據比較標準不一，因此可以推論目前報告的數據可能低估了實際的總體耗水量。選項 A 錯誤，因為數據並不完整；選項 B 無法由文中證實；選項 D 錯誤，文中僅提到 Amazon 自稱比平均水平高效，且與對手的比較因標準不同而難以定論。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the fourth paragraph, what is the best meaning of the word 'moratorium'?",
+      "question": "In the fourth paragraph, what does the phrase 'heat islands' refer to?",
       "options": {
-        "A": "A permanent ban on all industrial activity.",
-        "B": "A temporary official stop to a specific activity.",
-        "C": "A financial penalty for using too much water.",
-        "D": "A new government regulation regarding building design."
+        "A": "Isolated rural areas that are naturally cooler than cities.",
+        "B": "Urban locations that experience higher temperatures than their surroundings.",
+        "C": "Coastal cities that are at risk of being flooded by rising sea levels.",
+        "D": "Buildings designed with green roofs to help cool down the city."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。文章第四段明確定義了 moratorium 為「a temporary official stop」（暫時的官方停止）。選項 A 錯誤，因為它是暫時的而非永久的。選項 C 錯誤，文中並未提到罰款。選項 D 雖然與建築有關，但 moratorium 指的是「停止」建設，而非單純的「規範」或「設計要求」。"
+      "explanationZh": "正確答案為 B。根據第四段上下文，作者提到鋪設的道路與缺乏綠地使得城市比周邊農村地區更熱，因此「heat islands」（熱島）指的是這種城市比周邊環境更熱的現象。選項 A 與文意相反；選項 C 與熱島效應的定義無關；選項 D 是解決方案，而非熱島效應本身。"
     },
     {
       "id": "q4",
       "type": "main_idea",
       "question": "What is the central message of the article?",
       "options": {
-        "A": "Amazon is the most environmentally friendly company in the tech industry.",
-        "B": "The growth of AI is primarily a problem of software inefficiency.",
-        "C": "Cities should focus on becoming 'heat islands' to handle rising temperatures.",
-        "D": "The rapid expansion of AI infrastructure creates a conflict between technological growth and environmental sustainability."
+        "A": "Amazon is leading the way in making data centers more environmentally friendly.",
+        "B": "Cities must stop the construction of all new data centers to save water.",
+        "C": "The rapid expansion of AI is creating a conflict between technological progress and urban resource management.",
+        "D": "Climate change is primarily caused by the excessive water consumption of large tech companies."
       },
-      "correct": "D",
-      "explanationZh": "正確答案為 D。整篇文章的核心在於探討 AI 基礎設施（數據中心）的擴張如何對環境資源（水與電）造成壓力，並引發了社會與城市的關注，這是一個關於科技發展與資源永續之間的衝突。選項 A 過度偏袒 Amazon，並非文章主旨。選項 B 錯誤，文章強調的是硬體設施的資源消耗。選項 C 完全曲解了「heat island」的意思，這是城市需要解決的負面問題，而非目標。"
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章從頭到尾都在探討 AI 科技發展對城市水資源與能源的壓力，並強調城市在面對極端氣候時，必須在科技需求與居民生活安全之間取得平衡。選項 A 僅是文章的一個細節；選項 B 過於極端，文中並未主張全面禁止；選項 D 將氣候變遷的原因過度簡化，並非文章主旨。"
     }
   ],
   "aiGenerated": true,

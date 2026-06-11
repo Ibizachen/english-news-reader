@@ -1,0 +1,156 @@
+{
+  "id": "2026-06-11-legal-liability-for-ai-in-healthcare",
+  "slug": "legal-liability-for-ai-in-healthcare-jun-2026",
+  "publishedAt": "2026-06-11T23:52:24.161288Z",
+  "category": "technology",
+  "title": "Doctors and Lawmakers Question AI Decisions in Healthcare",
+  "subtitle": "New concerns arise as artificial intelligence begins to play a larger role in denying patient care.",
+  "summary": {
+    "en": "Artificial intelligence is increasingly being used to make decisions about medical care. Doctors and lawmakers are now pushing back against these automated systems. Critics worry that AI might deny necessary treatments without human oversight. There is a growing demand for more transparency and accountability in how these tools operate. The debate highlights the tension between technological efficiency and patient safety.",
+    "zh": "人工智慧正日益被用於制定醫療照護決策。醫師與立法者目前正對這些自動化系統進行反制。批評者擔心人工智慧可能會在缺乏人類監督的情況下，拒絕必要的治療。各界對於這些工具的運作方式，要求提高透明度與課責性的呼聲日益高漲。這場辯論凸顯了科技效率與病患安全之間的緊張關係。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Artificial intelligence (AI) is changing many parts of our lives, and healthcare is no exception. In recent years, hospitals and insurance companies have started using computer programs to help make decisions about patient care. These systems can process huge amounts of data very quickly. However, a new conflict is growing as doctors and lawmakers begin to question how these tools are used, especially when they deny medical services to patients.",
+      "zh": "人工智慧正在改變我們生活的許多層面，醫療保健領域也不例外。近年來，醫院與保險公司開始利用電腦程式來協助制定病患照護的決策。這些系統能以極快的速度處理龐大的數據。然而，隨著醫師與立法者開始質疑這些工具的使用方式，特別是在它們拒絕提供病患醫療服務時，一場新的衝突正逐漸升溫。"
+    },
+    {
+      "id": "p2",
+      "en": "According to STAT News, there is a rising movement among medical professionals and government officials to challenge the way AI is used in healthcare. The American Medical Association (AMA), which represents doctors, has expressed serious concerns about these automated systems. The main problem is that when an AI program decides to deny a treatment or a test, it is often difficult for a patient or a doctor to understand why. This lack of clear information makes it hard for patients to fight back against a decision they believe is wrong.",
+      "zh": "根據 STAT 新聞報導，醫學專業人士與政府官員之間正興起一股挑戰人工智慧在醫療保健領域應用方式的浪潮。代表醫師的美國醫學會（American Medical Association, AMA）已對這些自動化系統表達了嚴重關切。主要問題在於，當人工智慧程式決定拒絕某項治療或檢查時，病患或醫師往往難以理解其原因。這種缺乏透明資訊的情況，使得病患難以對他們認為錯誤的決定提出申訴。"
+    },
+    {
+      "id": "p3",
+      "en": "For many years, insurance companies have used rules to decide which treatments they will pay for. In the past, these rules were usually managed by human staff. Now, companies are using AI to do this work faster. While this might save time and money, critics argue that it removes the human touch from medicine. Doctors worry that these programs might focus too much on cutting costs rather than what is best for the patient’s health.",
+      "zh": "多年來，保險公司一直使用既定規則來決定支付哪些治療費用。過去，這些規則通常由人工進行管理。現在，公司正利用人工智慧來加速這項工作。雖然這或許能節省時間與金錢，但批評者認為這抹去了醫療中的人性關懷。醫師擔心這些程式可能過於專注於削減成本，而非考量對病患健康最有利的方案。"
+    },
+    {
+      "id": "p4",
+      "en": "Lawmakers are also taking notice of this issue. Some officials are concerned that these systems are not being checked enough. They argue that if a machine is going to make a decision that affects a person’s health, there must be a way to hold someone responsible if that decision is incorrect. The current situation is complicated because the technology is moving much faster than the laws that are meant to regulate it. This means that patients may be stuck in a system where they cannot easily appeal a decision made by a computer.",
+      "zh": "立法者也開始注意到這個議題。部分官員擔心這些系統缺乏足夠的審查。他們主張，如果機器要做出影響個人健康的決定，那麼當決定錯誤時，必須有追究責任的管道。目前的局勢相當複雜，因為科技發展的速度遠快於旨在規範它的法律。這意味著病患可能會受困於一個無法輕易對電腦決策提出申訴的體系中。"
+    },
+    {
+      "id": "p5",
+      "en": "One of the biggest issues is the 'black box' nature of some AI tools. This means that even the people who build these programs sometimes cannot explain exactly how the AI reached a specific conclusion. For a doctor, this is a major problem. If a doctor cannot explain why a treatment was denied, they cannot provide the best care for their patient. The AMA has called for more transparency, which means that companies must be open about how their software works and what data it uses to make choices.",
+      "zh": "其中最大的問題之一是部分人工智慧工具的「黑盒子」特性。這意味著即使是開發這些程式的人，有時也無法精確解釋人工智慧是如何得出特定結論的。對醫師而言，這是一個重大問題。如果醫師無法解釋為何治療遭到拒絕，他們就無法為病患提供最佳的照護。美國醫學會已呼籲提高透明度，這意味著公司必須公開其軟體的運作方式，以及它是使用哪些數據來做出選擇。"
+    },
+    {
+      "id": "p6",
+      "en": "Despite these concerns, supporters of AI in healthcare argue that these tools can actually help doctors. They suggest that AI can find patterns in medical data that humans might miss. If used correctly, they believe AI could lead to faster diagnoses and more efficient hospital operations. The challenge, according to many experts, is finding the right balance between using new technology and keeping the human element in medicine.",
+      "zh": "儘管存在這些疑慮，醫療保健領域中人工智慧的支持者認為，這些工具實際上能協助醫師。他們指出，人工智慧能找出人類可能會忽略的醫療數據模式。若使用得當，他們相信人工智慧能帶來更快速的診斷與更有效率的醫院運作。許多專家認為，挑戰在於如何在運用新科技與保留醫療中的人性元素之間，找到正確的平衡點。"
+    },
+    {
+      "id": "p7",
+      "en": "Looking ahead, the debate is likely to continue as more hospitals adopt these technologies. Lawmakers are expected to look at new rules to ensure that patients are protected. These rules might require companies to have human experts review any decision made by an AI that leads to a denial of care. This would ensure that there is always a person responsible for the final outcome.",
+      "zh": "展望未來，隨著更多醫院採用這些技術，這場辯論可能會持續下去。預計立法者將研擬新規則，以確保病患權益受到保障。這些規則可能會要求公司在人工智慧做出導致拒絕照護的決定時，必須由人類專家進行審核。這將確保最終結果永遠有專人負責。"
+    },
+    {
+      "id": "p8",
+      "en": "Ultimately, the goal is to make sure that technology serves patients rather than controlling their access to healthcare. As the use of AI grows, the medical community will need to work closely with technology companies and government officials. By setting clear standards, they hope to build a future where AI helps doctors provide better care without taking away the rights of patients to receive the treatment they need.",
+      "zh": "歸根究柢，目標是確保科技服務於病患，而非控制他們取得醫療資源的管道。隨著人工智慧的使用日益普及，醫療界將需要與科技公司及政府官員密切合作。透過制定明確的標準，他們希望建立一個未來，讓人工智慧能協助醫師提供更好的照護，同時不剝奪病患獲得所需治療的權利。"
+    }
+  ],
+  "wordCount": 685,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "fight back",
+      "definitionEn": "To resist or oppose someone or something that is attacking or controlling you.",
+      "definitionZh": "反擊、抗爭。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見於肢體衝突，這裡指對抗不合理的決策。文中：This lack of clear information makes it hard for patients to fight back against a decision they believe is wrong."
+    },
+    {
+      "term": "taking notice",
+      "definitionEn": "To start to pay attention to something.",
+      "definitionZh": "開始注意、留意。",
+      "partOfSpeech": "idiom",
+      "noteZh": "由 take 和 notice 組成，但在這裡表達「開始關注某議題」。文中：Lawmakers are also taking notice of this issue."
+    },
+    {
+      "term": "stuck",
+      "definitionEn": "Unable to move or escape from a difficult situation.",
+      "definitionZh": "困住、動彈不得。",
+      "partOfSpeech": "adjective",
+      "noteZh": "常見作動詞 stick 的過去分詞，這裡形容人處於無法脫身的困境。文中：This means that patients may be stuck in a system where they cannot easily appeal a decision made by a computer."
+    },
+    {
+      "term": "taking away",
+      "definitionEn": "To remove or deprive someone of something.",
+      "definitionZh": "剝奪、拿走。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這裡指剝奪病人的權利，而非單純的拿走物品。文中：By setting clear standards, they hope to build a future where AI helps doctors provide better care without taking away the rights of patients to receive the treatment they need."
+    }
+  ],
+  "sources": [
+    {
+      "name": "STAT News",
+      "url": "https://www.statnews.com/2026/06/11/ama-lawmakers-push-back-ai-care-denials-health-tech/?utm_campaign=rss",
+      "title": "STAT+: AMA and lawmakers push back on AI care denials",
+      "publishedAt": "2026-06-11T19:25:59Z"
+    }
+  ],
+  "story": {
+    "id": "legal-liability-for-ai-in-healthcare",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is the primary reason why patients and doctors find it difficult to challenge AI-driven medical denials?",
+      "options": {
+        "A": "The insurance companies refuse to share their financial records with the public.",
+        "B": "The AI systems often fail to provide clear, understandable reasons for their decisions.",
+        "C": "Doctors are too busy to review the decisions made by the computer programs.",
+        "D": "The laws currently in place prevent patients from filing any formal complaints."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，AI 系統在拒絕治療時，醫生與病患往往難以理解其背後原因，缺乏透明度導致申訴困難。選項 A 錯誤，文中未提及財務紀錄問題；選項 C 錯誤，醫生並非太忙，而是因為 AI 的決策過程不明確；選項 D 錯誤，文中提到的是法律規範跟不上技術發展，而非法律禁止申訴。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the text, what can be inferred about the future of AI in the healthcare industry?",
+      "options": {
+        "A": "AI will likely be banned from hospitals to ensure patient safety.",
+        "B": "Insurance companies will stop using AI to save time and money.",
+        "C": "New regulations will likely require human oversight for AI-based treatment denials.",
+        "D": "Doctors will eventually be replaced by AI for all diagnostic tasks."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章最後兩段，立法者正考慮制定新規則，要求 AI 拒絕醫療服務的決定必須經過人類專家的審核，以確保責任歸屬。選項 A 錯誤，文中並未主張全面禁止；選項 B 錯誤，保險公司仍會使用 AI，只是受規範會增加；選項 D 錯誤，文中強調的是 AI 協助醫生，而非取代醫生。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fifth paragraph, what does the author mean by the 'black box' nature of AI tools?",
+      "options": {
+        "A": "The physical hardware of the AI is hidden inside a dark, secure casing.",
+        "B": "The software is too expensive for most hospitals to purchase.",
+        "C": "The internal decision-making process is opaque and difficult to explain.",
+        "D": "The AI is programmed to hide negative information from the patients."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文中提到「black box」是指即使是開發者也無法解釋 AI 如何得出特定結論，這是一種比喻，形容其運作機制不透明。選項 A 將其誤解為硬體外殼，不符合文意；選項 B 與價格無關；選項 D 錯誤，這並非蓄意隱瞞負面資訊，而是技術本身的運作機制難以理解。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article regarding the use of AI in healthcare?",
+      "options": {
+        "A": "AI is a perfect solution that will eliminate all errors in medical diagnosis.",
+        "B": "The use of AI in medicine should be completely stopped due to ethical concerns.",
+        "C": "AI offers significant benefits but requires better regulation and human oversight to protect patients.",
+        "D": "Insurance companies are the only group benefiting from the rise of AI in hospitals."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。本文整體探討 AI 在醫療領域的應用，既指出其提升效率的潛力，也強調了透明度缺失與責任歸屬等問題，並主張透過規範與人類監督來平衡科技與醫療品質。選項 A 過於樂觀；選項 B 過於極端；選項 D 錯誤，文中提到 AI 對醫生也有幫助，並非僅對保險公司有利。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}

@@ -1,44 +1,49 @@
 {
   "id": "2026-06-11-measles-outbreak-and-public-health-risks",
   "slug": "measles-outbreak-and-public-health-risks-jun-2026",
-  "publishedAt": "2026-06-11T22:13:51.111966Z",
+  "publishedAt": "2026-06-11T23:52:24.161288Z",
   "category": "public-health",
   "title": "Measles Outbreak in England Leads to Two Child Deaths",
-  "subtitle": "Health officials warn that vaccination rates are falling as new cases continue to rise across the country.",
+  "subtitle": "Health officials urge parents to vaccinate children as cases continue to rise across the country.",
   "summary": {
-    "en": "Two children in England have died from measles this year, marking a tragic development in the ongoing outbreak. Health authorities report over 100 new cases in the last two weeks alone. Most of those affected are children aged 10 and under who have not received the necessary vaccines. Experts are calling for urgent action to improve vaccination coverage. The situation highlights the serious risks of a disease that was once considered under control.",
-    "zh": "今年英格蘭有兩名兒童死於麻疹，這是該國持續爆發疫情以來悲劇性的發展。衛生當局報告顯示，僅在過去兩週內就新增了一百多起病例。受影響者多為十歲及以下未接種必要疫苗的兒童。專家呼籲採取緊急行動以提升疫苗接種覆蓋率。此情況凸顯了一種曾被認為已受控制的疾病所帶來的嚴重風險。"
+    "en": "Two children in England have died from measles this year, marking a tragic turn in the current health crisis. Health authorities report over 100 new infections in the last two weeks alone. Most of those affected are unvaccinated children aged 10 and under. Experts warn that the disease is spreading easily and can lead to serious complications. Officials are now calling for parents to ensure their children receive the necessary MMR vaccines.",
+    "zh": "今年英格蘭有兩名兒童死於麻疹，這標誌著當前健康危機的悲劇性轉折。衛生當局報告僅在過去兩週內就新增了超過一百起感染病例。受影響者大多是十歲以下未接種疫苗的兒童。專家警告，該疾病極易傳播且可能導致嚴重併發症。官員們目前正呼籲家長確保子女接種必要的MMR疫苗。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "Health officials in England have confirmed a tragic development in the country’s ongoing measles outbreak. According to The Guardian Health, two children have died from the virus this year. One child died from acute measles, while the other passed away due to the late effects of the illness. This marks the first time since 2018 that two children have died from measles in a single year in England and Wales.",
-      "zh": "英國衛生官員證實該國持續爆發的麻疹疫情出現了悲劇性的發展。根據《衛報健康版》（The Guardian Health）報導，今年已有兩名兒童死於該病毒。其中一名兒童死於急性麻疹，另一名則因該疾病的後遺症而不幸離世。這是自二〇一八年以來，英格蘭與威爾斯地區首次出現一年內有兩名兒童死於麻疹的情況。"
+      "en": "Health officials in England have confirmed that two children have died from measles this year. This tragic news comes as new data shows more than 100 cases reported in the last two weeks. According to The Guardian Health, this is the first time in eight years that two children have died from the disease in a single year in England and Wales. One child died from acute measles, while the other passed away due to the late effects of the virus.",
+      "zh": "英國衛生官員證實，今年已有兩名兒童死於麻疹。這項悲劇性的消息傳出之際，最新數據顯示過去兩週內通報了超過一百起病例。根據《衛報健康版》（The Guardian Health）報導，這是英格蘭與威爾斯地區八年來首次在單一年份內有兩名兒童因該疾病死亡。其中一名兒童死於急性麻疹，另一名則是因為病毒的後遺症而不幸離世。"
     },
     {
       "id": "p2",
-      "en": "Data released by the UK Health Security Agency (UKHSA) shows that the virus continues to spread in many parts of the country. In the last two weeks, there have been 106 new cases confirmed by laboratories. This brings the total number of cases between January 1 and June 8 to 736. For comparison, there were 959 total cases recorded during the entire year of 2025. The highest numbers of new infections have been reported in London, the east of England, and the West Midlands.",
-      "zh": "英國衛生安全局（UKHSA）發布的數據顯示，該病毒持續在英國多地蔓延。在過去兩週內，實驗室已確認新增一百零六起病例。這使得今年一月一日至六月八日期間的病例總數達到七百三十六例。作為對比，二〇二五年全年的病例總數為九百五十九例。目前新增感染人數最多的地區為倫敦、英格蘭東部以及西密德蘭地區。"
+      "en": "The UK Health Security Agency (UKHSA) reports that the virus continues to move through many parts of the country. Recent data shows that cases are highest in London, the east of England, and the West Midlands. Between January 1 and June 8, there were 736 confirmed cases. This is a significant concern, as the total number of cases for the entire year of 2025 was 959. Most of the people affected are children aged 10 and under who have not received the required vaccines.",
+      "zh": "英國衛生安全局（UKHSA）指出，病毒持續在該國多個地區傳播。近期數據顯示，倫敦、英格蘭東部以及西密德蘭地區的病例數最高。從一月一日到六月八日，累計確診病例達七百三十六起。這令人相當擔憂，因為二零二五年全年的病例總數為九百五十九起。受影響者多為十歲以下且未接種必要疫苗的兒童。"
     },
     {
       "id": "p3",
-      "en": "Dr. Vanessa Saliba, a consultant epidemiologist at the UKHSA, expressed deep sadness for the families who lost their children. She emphasized that measles is a highly infectious viral illness that can lead to serious health problems, such as pneumonia, brain inflammation, and in rare cases, long-term disability or death. Dr. Saliba urged all parents to ensure their children are up to date with their MMR or MMRV vaccines. These vaccines provide the safest protection against the disease. She also noted that anyone who has missed their shots can catch up at a local GP practice, regardless of their age.",
-      "zh": "英國衛生安全局的顧問流行病學家凡妮莎．薩利巴（Vanessa Saliba）博士對失去孩子的家庭表達了深切的哀悼。她強調，麻疹是一種傳染性極強的病毒性疾病，可能導致嚴重的健康問題，例如肺炎、腦炎，在極少數情況下還可能造成長期殘疾或死亡。薩利巴博士敦促所有家長確保其子女已按時接種麻疹、腮腺炎、德國麻疹（MMR）或麻疹、腮腺炎、德國麻疹、水痘（MMRV）疫苗。這些疫苗能提供對抗該疾病最安全的保護。她也指出，任何錯過接種的人，無論年齡大小，都可以前往當地的家庭醫師診所補打疫苗。"
+      "en": "Measles is a highly infectious viral illness. While many people recover, the disease can cause serious health problems. These include pneumonia, which is a lung infection, and brain inflammation. In rare cases, it can lead to long-term disability or even death. Dr. Vanessa Saliba, a consultant at the UKHSA, expressed deep sadness for the families who lost their children. She noted that measles is not a harmless childhood illness and can be very serious.",
+      "zh": "麻疹是一種傳染性極強的病毒性疾病。雖然許多人能夠康復，但該疾病可能引發嚴重的健康問題，包括肺炎（一種肺部感染）以及腦炎。在極少數情況下，它可能導致長期殘疾甚至死亡。英國衛生安全局的顧問凡妮莎·薩利巴（Vanessa Saliba）醫師對失去孩子的家庭表達了深切的哀悼。她強調，麻疹並非無害的兒童疾病，其後果可能非常嚴重。"
     },
     {
       "id": "p4",
-      "en": "Most of the recent cases have been found in unvaccinated children aged 10 and under. The latest data shows that only 91.8% of five-year-olds in England had received one dose of the MMR vaccine in the 2024-25 period. This figure is the lowest level seen since 2010-11. Health experts and members of parliament have previously criticized the NHS, suggesting that it is failing to ensure children receive these vital vaccinations. Some reports have even compared vaccination rates in parts of England to those in countries like Afghanistan and Malawi.",
-      "zh": "近期大多數病例皆發現於十歲及以下未接種疫苗的兒童身上。最新數據顯示，在二〇二四至二〇二五年度，英格蘭僅有百分之九十一點八的五歲兒童接種了一劑麻疹、腮腺炎、德國麻疹疫苗。此數據為二〇一〇至二〇一一年度以來的最低水準。衛生專家與國會議員先前曾批評英國國家醫療保健服務（NHS），認為其未能確保兒童獲得這些關鍵疫苗的接種。部分報導甚至將英格蘭部分地區的疫苗接種率與阿富汗及馬拉威等國家相提並論。"
+      "en": "To prevent the spread of the virus, health experts are urging all parents to make sure their children are up to date with their MMR or MMRV vaccines. These vaccines provide the safest and best protection against measles. The MMR vaccine protects against measles, mumps, and rubella. For those who have missed their shots, it is possible to catch up at any age by visiting a local doctor. Getting vaccinated does more than just protect the individual; it also helps keep babies who are too young for the vaccine safe, along with people who cannot have the vaccine due to other health conditions.",
+      "zh": "為了防止病毒擴散，衛生專家呼籲所有家長務必確保子女已接種麻疹、腮腺炎、德國麻疹（MMR）或麻疹、腮腺炎、德國麻疹、水痘（MMRV）疫苗。這些疫苗提供了對抗麻疹最安全且最有效的保護。MMR疫苗能預防麻疹、腮腺炎與德國麻疹。對於錯過接種時間的人，任何年齡層都可以透過諮詢當地醫師來補打。接種疫苗不僅能保護個人，還能保護年紀太小而無法接種的嬰兒，以及因其他健康狀況而無法接種疫苗的人群。"
     },
     {
       "id": "p5",
-      "en": "James Murray, the health secretary, described these deaths as a heartbreaking reminder that measles is not a harmless childhood illness. He stated that the MMR vaccine remains the best protection available and has saved countless lives. Murray encouraged parents and carers to check their children’s vaccination status immediately. He explained that getting vaccinated does more than just protect the individual child; it also helps safeguard the most vulnerable people in the community, including babies who are too young to receive the vaccine and those with specific health conditions.",
-      "zh": "衛生大臣詹姆斯．莫瑞（James Murray）形容這些死亡案例是一個令人心碎的提醒，說明麻疹並非無害的兒童疾病。他表示，麻疹、腮腺炎、德國麻疹疫苗依然是目前最有效的保護措施，且已拯救了無數生命。莫瑞鼓勵家長與照護者立即檢查孩子的疫苗接種狀態。他解釋說，接種疫苗不僅能保護兒童個人，還有助於守護社區中最脆弱的群體，包括年紀太小而無法接種疫苗的嬰兒，以及患有特定健康狀況的人士。"
+      "en": "There is growing concern about the current vaccination rates in England. Earlier this year, experts told The Guardian Health that the National Health Service (NHS) was failing to ensure children received their vaccines. Some areas of England now have vaccination rates similar to those found in Afghanistan and Malawi. Recent data shows that only 91.8% of five-year-olds had received one dose of the MMR vaccine in 2024-25. This is the lowest level since 2010-11 and shows that vaccination coverage has stalled.",
+      "zh": "英格蘭目前的疫苗接種率令人日益擔憂。今年稍早，專家曾向《衛報健康版》表示，國家醫療保健服務（NHS）未能確保兒童按時接種疫苗。英格蘭部分地區目前的疫苗接種率，甚至與阿富汗和馬拉威等國相當。近期數據顯示，二零二四至二零二五年度，僅有百分之九十一點八的五歲兒童接種了一劑MMR疫苗。這是自二零一零至二零一一年度以來的最低水準，顯示疫苗覆蓋率已陷入停滯。"
     },
     {
       "id": "p6",
-      "en": "The situation has become a significant public health concern. Earlier this year, officials noted that the UK is no longer considered to have eliminated measles, as vaccination coverage has stalled while cases continue to increase. As the virus continues to circulate, the focus remains on closing the gap in vaccination rates to prevent further tragedy. Health authorities are clear: the best way to stop the spread is to ensure that as many people as possible are protected through vaccination. Parents are being asked not to delay and to book an appointment with their doctor as soon as possible to ensure their families are safe.",
-      "zh": "目前的情況已成為重大的公共衛生隱憂。今年稍早，官員指出英國已不再被視為消除了麻疹，因為疫苗接種覆蓋率停滯不前，而病例數卻持續增加。隨著病毒持續傳播，當前的重點仍是縮小疫苗接種率的差距，以防止更多悲劇發生。衛生當局立場明確：阻止疫情擴散的最佳方式，是確保盡可能多的人透過接種疫苗獲得保護。當局呼籲家長切勿拖延，應儘速與醫師預約，以確保家人的安全。"
+      "en": "James Murray, the health secretary, spoke about the situation, noting that these deaths are a heartbreaking reminder of the dangers of the disease. He emphasized that the MMR vaccine has saved many lives and remains the most effective tool against this outbreak. He urged parents and caregivers to check their children’s vaccination status immediately. He stated that it is never too late to catch up on missed doses to protect both their families and the most vulnerable members of the community.",
+      "zh": "衛生大臣詹姆斯·莫瑞（James Murray）針對此情況表示，這些死亡案例令人心碎，也提醒了人們這種疾病的危險性。他強調，MMR疫苗拯救了許多生命，至今仍是對抗此次疫情最有效的工具。他敦促家長與照護者立即檢查子女的疫苗接種紀錄。他表示，補打疫苗永遠不嫌晚，這不僅能保護家人，也能保護社區中最脆弱的成員。"
+    },
+    {
+      "id": "p7",
+      "en": "Public health experts continue to monitor the situation closely. The goal is to increase vaccination rates to stop the virus from spreading further. As the UKHSA continues to track new infections, the message from officials remains clear: do not delay, and book an appointment for vaccination today. Protecting the population against this preventable disease is a top priority for health authorities as they work to manage this ongoing public health challenge.",
+      "zh": "公共衛生專家持續密切監控疫情。目標是提高疫苗接種率，以阻止病毒進一步擴散。隨著英國衛生安全局持續追蹤新感染病例，官員們的訊息非常明確：切勿拖延，請立即預約接種疫苗。在處理這項持續性的公共衛生挑戰時，保護民眾免受這種可預防疾病的侵害，是衛生當局的首要任務。"
     }
   ],
   "wordCount": 632,
@@ -46,24 +51,24 @@
   "keyTerms": [
     {
       "term": "stalled",
-      "definitionEn": "To stop making progress or to come to a standstill.",
-      "definitionZh": "停滯不前、陷入僵局。",
+      "definitionEn": "To stop making progress or to stop moving forward.",
+      "definitionZh": "停滯不前，陷入僵局。",
       "partOfSpeech": "verb (past participle)",
-      "noteZh": "常見於描述引擎熄火，這裡指疫苗接種率停止成長。文中：as vaccination coverage has stalled while cases continue to increase."
+      "noteZh": "常見於指車輛熄火，這裡指疫苗接種率停止成長。文中：This is the lowest level since 2010-11 and shows that vaccination coverage has stalled."
     },
     {
       "term": "catch up",
       "definitionEn": "To do something that you did not have time to do earlier.",
       "definitionZh": "補上（進度或錯過的事）。",
       "partOfSpeech": "phrasal verb",
-      "noteZh": "這裡指補打之前錯過的疫苗。文中：She also noted that anyone who has missed their shots can catch up at a local GP practice, regardless of their age."
+      "noteZh": "不僅指追上某人，這裡指補打疫苗。文中：For those who have missed their shots, it is possible to catch up at any age by visiting a local doctor."
     },
     {
-      "term": "closing the gap",
-      "definitionEn": "To reduce the difference between two things, such as current levels and target levels.",
-      "definitionZh": "縮小差距、填補缺口。",
-      "partOfSpeech": "idiom",
-      "noteZh": "這裡指縮小疫苗接種率與目標之間的落差。文中：As the virus continues to circulate, the focus remains on closing the gap in vaccination rates to prevent further tragedy."
+      "term": "move",
+      "definitionEn": "To spread or travel from one place to another.",
+      "definitionZh": "傳播，移動。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見指身體移動，這裡指病毒在人群中傳播。文中：The UK Health Security Agency (UKHSA) reports that the virus continues to move through many parts of the country."
     }
   ],
   "sources": [
@@ -79,6 +84,13 @@
     "type": "update",
     "previousArticles": [
       {
+        "slug": "measles-outbreak-and-public-health-risks-jun-2026",
+        "title": "Measles Outbreak in England Leads to Two Child Deaths",
+        "publishedAt": "2026-06-11T22:13:51.111966Z",
+        "category": "public-health",
+        "summaryEn": "Two children in England have died from measles this year, marking a tragic development in the ongoing outbreak. Health authorities report over 100 new cases in the last two weeks alone. Most of those affected are children aged 10 and under who have not received the necessary vaccines. Experts are calling for urgent action to improve vaccination coverage. The situation highlights the serious risks of a disease that was once considered under control."
+      },
+      {
         "slug": "measles-outbreak-nears-worst-in-decades-jun-2026",
         "title": "Measles Outbreak Nears Worst Levels in Decades",
         "publishedAt": "2026-06-10T23:49:43.438182Z",
@@ -91,54 +103,54 @@
     {
       "id": "q1",
       "type": "detail",
-      "question": "How do the measles-related deaths reported this year differ from those in previous years according to the article?",
+      "question": "How did the two children who died from measles this year pass away?",
       "options": {
-        "A": "This is the first time children have died from measles since 2018.",
-        "B": "This is the first time in over a decade that more than one child has died in a single year.",
-        "C": "These are the first recorded deaths caused by the late effects of the measles virus.",
-        "D": "These deaths represent the highest number of measles fatalities ever recorded in England."
+        "A": "Both children died from acute measles infections.",
+        "B": "One died from acute measles, and the other from the late effects of the virus.",
+        "C": "Both children died due to complications from pneumonia caused by the virus.",
+        "D": "One died from brain inflammation, and the other from a lack of vaccination."
       },
-      "correct": "A",
-      "explanationZh": "正確答案為 A。文章第一段明確指出，這是自 2018 年以來，英格蘭和威爾斯首次在一年內有兩名兒童死於麻疹。選項 B 雖然提到兩名兒童死亡，但文章並未強調這是「十年來」首次。選項 C 錯誤，因為文章僅提到其中一名兒童死於麻疹的後遺症，並未稱這是「首次」有此類死因。選項 D 誇大了事實，文章中並未將此數據與歷史最高紀錄進行比較。"
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第一段最後一句話：「One child died from acute measles, while the other passed away due to the late effects of the virus.」明確指出兩位兒童的死因不同。選項 A 錯誤，因為只有一位是急性感染；選項 C 雖提到肺炎是麻疹併發症，但並非文中描述兩位兒童的具體死因；選項 D 的腦部發炎雖是併發症，但文中並未將其歸類為這兩位兒童的特定死因。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "What can be inferred about the current vaccination situation in England based on the provided text?",
+      "question": "What can be inferred about the current state of vaccination in England based on the text?",
       "options": {
-        "A": "The NHS has successfully eliminated measles through mandatory vaccination programs.",
-        "B": "Vaccination rates are currently higher than they were during the 2010-11 period.",
-        "C": "The decline in vaccination coverage is a major factor contributing to the resurgence of the virus.",
-        "D": "Parents are intentionally refusing vaccines due to a lack of trust in medical professionals."
+        "A": "The government has successfully reached its target vaccination rate for 2025.",
+        "B": "Vaccination rates are currently higher in England than in developing nations.",
+        "C": "The decline in vaccination rates has made the community more vulnerable to outbreaks.",
+        "D": "Most parents in England are actively refusing to vaccinate their children due to personal beliefs."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。文章第六段提到英國已不再被視為「消除麻疹」的國家，且疫苗接種率停滯不前，導致病例增加，可推論接種率下降與疫情復燃有直接關聯。選項 A 與文章第六段內容矛盾。選項 B 錯誤，因為第四段明確指出 2024-25 年的接種率是自 2010-11 年以來最低的。選項 D 雖然提到接種率低，但文章並未說明家長拒絕接種的具體動機，故無法斷定是「缺乏信任」。"
+      "explanationZh": "正確答案為 C。文章第五段提到疫苗接種率停滯，且與阿富汗和馬拉威等國相當，結合第四段提到疫苗能保護無法接種的脆弱群體，可推論出接種率下降導致群體免疫力減弱，使社區更易受病毒威脅。選項 A 與文中提到的「failing to ensure」矛盾；選項 B 錯誤，文中提到部分地區接種率已降至與開發中國家相當；選項 D 文中並未提及家長拒絕的原因，僅提到接種率下降的現象。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the sixth paragraph, what does the word 'stalled' most closely mean in the context of vaccination coverage?",
+      "question": "In the fifth paragraph, what does the word 'stalled' mean as it is used in the context of vaccination coverage?",
       "options": {
-        "A": "Increased rapidly.",
-        "B": "Failed to make progress.",
-        "C": "Caused a sudden accident.",
-        "D": "Required more research."
+        "A": "It has suddenly increased at a rapid pace.",
+        "B": "It has stopped making progress or improving.",
+        "C": "It has been officially cancelled by the government.",
+        "D": "It has become very difficult to measure accurately."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。在文章第六段中，「stalled」用來形容疫苗接種覆蓋率的停滯狀態，意指進展停滯或無法提升。選項 A 與原意相反。選項 C 是該詞在機械故障情境下的常見解釋，但在文中不適用。選項 D 並非該詞的含義，文章中也未提到需要更多研究來解決此問題，而是強調需要採取行動補足接種缺口。"
+      "explanationZh": "正確答案為 B。在文中「vaccination coverage has stalled」是指疫苗接種覆蓋率停滯不前，沒有進展。stalled 在此處意指進度受阻或停頓。選項 A 與文意相反；選項 C 過度詮釋，文中並未說政策被取消；選項 D 雖然數據可能有挑戰，但這不是 stalled 在此處的定義，此處強調的是進度上的停滯。"
     },
     {
       "id": "q4",
       "type": "main_idea",
       "question": "What is the primary message of this article?",
       "options": {
-        "A": "To criticize the government for comparing England to developing nations.",
-        "B": "To explain the medical symptoms of measles in children.",
-        "C": "To highlight the urgent need for increased vaccination to combat the rising measles outbreak.",
-        "D": "To report on the personal stories of families affected by the virus."
+        "A": "To provide a medical history of measles and its symptoms over the last decade.",
+        "B": "To criticize the National Health Service for its handling of the 2025 outbreak.",
+        "C": "To explain the scientific differences between the MMR and MMRV vaccines.",
+        "D": "To highlight the dangers of rising measles cases and encourage urgent vaccination."
       },
-      "correct": "C",
-      "explanationZh": "正確答案為 C。全文的核心在於報導麻疹疫情的嚴重性，並透過專家呼籲和數據分析，強調提升疫苗接種率是遏止疫情擴散的關鍵。選項 A 僅是文章中的一個細節，並非全文主旨。選項 B 僅在第三段簡短提到，並非報導重點。選項 D 雖然提到悲劇，但文章重點在於公共衛生政策與預防，而非深入報導個別家庭的個人故事。"
+      "correct": "D",
+      "explanationZh": "正確答案為 D。本文主要報導了麻疹病例增加及死亡案例，強調其危險性，並多次引用官員呼籲家長儘速為兒童補打疫苗，這是文章的核心目的。選項 A 僅是背景資訊；選項 B 雖有提到 NHS 的不足，但並非全文主旨；選項 C 文中僅簡單提及疫苗種類，並非討論重點。"
     }
   ],
   "aiGenerated": true,
