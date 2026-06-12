@@ -1,0 +1,160 @@
+{
+  "id": "2026-06-12-environmental-impact-of-ai-data-centers",
+  "slug": "environmental-impact-of-ai-data-centers-jun-2026",
+  "publishedAt": "2026-06-12T23:47:53.477274Z",
+  "category": "energy",
+  "title": "The Growing Conflict Over AI Data Centers",
+  "subtitle": "As tech companies expand, local communities are increasingly using protests to stop new construction projects.",
+  "summary": {
+    "en": "The rapid growth of AI technology has led to a major increase in the number of data centers being built. These facilities require significant amounts of water and electricity to function, causing concern among local residents. Recent reports show that community opposition has successfully blocked or delayed billions of dollars in projects this year. While tech companies argue that their water usage is small compared to other industries, public resistance is becoming a major political issue. The future of these projects remains uncertain as both local governments and citizens demand more accountability.",
+    "zh": "人工智慧技術的快速成長導致資料中心興建數量大幅增加。這些設施運作需要消耗大量水電，引發在地居民擔憂。近期報告顯示，社區反對力量已成功在今年阻擋或延宕了價值數十億美元的開發案。儘管科技公司主張其用水量與其他產業相比微不足道，但公眾抵制正逐漸成為重大的政治議題。隨著地方政府與公民要求更高的當責性，這些計畫的未來仍充滿不確定性。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The rapid expansion of artificial intelligence (AI) has brought a new challenge to cities across the United States. As tech companies build more data centers—large buildings filled with computer servers that power AI—they are facing a wave of public resistance. According to NBC News, which cited data from the firm 10a Labs, the first three months of 2026 saw a record number of blocked or delayed projects. These protests stopped at least 75 construction efforts, with a total value of about $130 billion.",
+      "zh": "人工智慧的快速擴張為美國各地的城市帶來了新的挑戰。隨著科技公司興建更多資料中心——即容納驅動人工智慧運作之電腦伺服器的大型建築——他們正面臨一波公眾抵制浪潮。根據美國國家廣播公司新聞網（NBC News）引述 10a Labs 公司的數據，二〇二六年第一季出現了破紀錄的計畫遭阻擋或延宕案例。這些抗議活動至少攔阻了七十五項建設工程，總價值約一千三百億美元。"
+    },
+    {
+      "id": "p2",
+      "en": "This trend represents a major change in how local communities interact with tech companies. Researchers noted that this is not just a temporary spike in activity. Instead, there has been a structural shift. Communities have learned how to organize effectively, and the number of active opposition groups has more than doubled to 833 across 49 states. These groups are now focusing on issues like water rights, land use, and the high energy needs of these facilities. In some cases, citizens are attending political education sessions to better understand how to challenge these projects.",
+      "zh": "此趨勢代表地方社區與科技公司互動方式的重大轉變。研究人員指出，這不僅是短暫的活動高峰，而是一種結構性的改變。社區已學會如何有效組織，活躍的反對團體數量在四十九個州內增加了一倍以上，達到八百三十三個。這些團體目前聚焦於水權、土地使用以及這些設施對能源的高需求等議題。在某些案例中，公民甚至參加政治教育課程，以更深入了解如何挑戰這些開發案。"
+    },
+    {
+      "id": "p3",
+      "en": "Sociologist Tressie McMillan Cottom, writing for the New York Times, observed that people from different political backgrounds are coming together to oppose local construction. She noted that residents are not just worried about noise or higher utility costs. They are also concerned about the impact on public health and the use of local resources. This movement has become so strong that it is expected to influence the upcoming midterm elections, with political parties beginning to pay closer attention to the concerns of these local groups.",
+      "zh": "社會學家崔西·麥克米蘭·卡頓（Tressie McMillan Cottom）在為《紐約時報》（New York Times）撰文時觀察到，來自不同政治背景的人們正團結起來反對在地建設。她指出，居民擔心的不僅是噪音或水電費上漲，他們更關切這些設施對公共衛生及在地資源使用的影響。這股運動已變得相當強大，預計將影響即將到來的中期選舉，各政黨也開始更加重視這些地方團體的訴求。"
+    },
+    {
+      "id": "p4",
+      "en": "At the center of this debate is the question of environmental impact, particularly regarding water usage. Data centers often use water for cooling systems to prevent their powerful computers from overheating. Amazon recently released a report stating that its global data centers used about 2.5 billion gallons of water in 2025. While this number is large, Amazon argues that it is small when compared to other activities. For example, the company pointed out that the amount of water used annually for US golf courses or for watering lawns is much higher than what data centers consume. Other tech giants, including Google, Microsoft, and Meta, have also reported using billions of gallons of water annually to support their operations.",
+      "zh": "這場辯論的核心在於環境影響問題，特別是關於用水量。資料中心通常使用水來冷卻系統，以防止其強大的電腦過熱。亞馬遜（Amazon）近期發布報告指出，其全球資料中心在二〇二五年使用了約二十五億加侖的水。儘管數字龐大，亞馬遜主張與其他活動相比，這其實微不足道。例如，該公司指出，美國高爾夫球場或草坪灌溉的年度用水量遠高於資料中心的消耗量。包括谷歌（Google）、微軟（Microsoft）與臉書母公司 Meta 在內的其他科技巨頭，也回報其每年為維持營運而消耗數十億加侖的水。"
+    },
+    {
+      "id": "p5",
+      "en": "Despite these arguments from tech companies, the pressure on local water supplies remains a sensitive topic. A 2021 study published in Nature estimated that all US data centers combined consumed about 163 billion gallons of water. Experts believe this number has grown significantly as AI technology has become more popular. One analysis suggests that data centers in Texas alone could see their water usage rise to 399 billion gallons by 2030. This potential for massive growth is why some cities are taking direct action. For instance, Seattle recently started a one-year ban on new data center construction to study the environmental impact and energy needs of these projects.",
+      "zh": "儘管科技公司提出這些論點，地方供水壓力仍是一個敏感話題。二〇二一年發表於《自然》（Nature）期刊的一項研究估計，美國所有資料中心合計消耗約一千六百三十億加侖的水。專家認為，隨著人工智慧技術日益普及，此數字已大幅成長。一項分析顯示，僅德州的資料中心用水量到二〇三〇年可能攀升至三千九百九十億加侖。這種巨大的成長潛力正是部分城市採取直接行動的原因。例如，西雅圖近期開始實施為期一年的新資料中心建設禁令，以研究這些計畫對環境及能源的需求影響。"
+    },
+    {
+      "id": "p6",
+      "en": "As the debate continues, the gap between the needs of the tech industry and the concerns of local residents appears to be widening. Tech companies maintain that their water usage is a \"drop in the bucket\" compared to total national consumption, as reported by Ars Technica. However, for the communities living near these facilities, the local impact is what matters most. With opposition groups becoming more organized and political leaders beginning to listen, the future of data center development will likely involve much stricter oversight and more difficult negotiations than in the past.",
+      "zh": "隨著辯論持續，科技產業的需求與在地居民的擔憂之間似乎出現了越來越大的鴻溝。根據科技媒體 Ars Technica 報導，科技公司堅稱其用水量與全國總消耗量相比只是「九牛一毛」。然而，對於居住在這些設施附近的社區而言，在地影響才是最重要的。隨著反對團體組織化程度提高，加上政治領袖開始傾聽民意，資料中心開發的未來，很可能將面臨比過去更嚴格的監督與更艱難的談判。"
+    }
+  ],
+  "wordCount": 672,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "blocked",
+      "definitionEn": "Stopped from happening or moving forward.",
+      "definitionZh": "被阻擋的、被攔下的。",
+      "partOfSpeech": "adjective (past participle as adjective)",
+      "noteZh": "常見作動詞（block），這裡作為形容詞修飾 projects。文中：the first three months of 2026 saw a record number of blocked or delayed projects."
+    },
+    {
+      "term": "drop in the bucket",
+      "definitionEn": "A very small, unimportant amount compared to the total.",
+      "definitionZh": "杯水車薪；微不足道的一小部分。",
+      "partOfSpeech": "idiom",
+      "noteZh": "字面意思為「桶子裡的一滴水」，用來形容數量極小。文中：Tech companies maintain that their water usage is a \"drop in the bucket\" compared to total national consumption, as reported by Ars Technica."
+    },
+    {
+      "term": "power",
+      "definitionEn": "To provide the energy or electricity needed for a machine to operate.",
+      "definitionZh": "為……提供動力；驅動。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（力量、電力），這裡作動詞用。文中：large buildings filled with computer servers that power AI—they are facing a wave of public resistance."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
+      "title": "When it comes to total water use, AI data centers are a drop in the bucket",
+      "publishedAt": "2026-06-12T16:51:38Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
+      "title": "$130 billion in data center projects blocked by protests so far this year",
+      "publishedAt": "2026-06-12T17:18:49Z"
+    }
+  ],
+  "story": {
+    "id": "the-path-forward-innovation-and-unresolved-questions",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "ai-data-centers-and-water-usage-jun-2026",
+        "title": "The Hidden Cost of Growth: AI Data Centers and the Global Water Challenge",
+        "publishedAt": "2026-06-11T23:52:24.161288Z",
+        "category": "energy",
+        "summaryEn": "Amazon has released its first report on the water usage of its global data centers. The company used 2.5 billion gallons of water in 2025 to keep its computer servers cool. This report comes as cities around the world are facing record-breaking heat waves. Experts warn that rising temperatures are putting pressure on both public health and local water supplies. Tech companies now face increasing pressure to balance the growth of artificial intelligence with the need for environmental sustainability."
+      },
+      {
+        "slug": "seattle-bans-new-ai-data-centers-jun-2026",
+        "title": "Seattle Pauses New AI Data Centers Over Energy Concerns",
+        "publishedAt": "2026-06-10T23:49:43.438182Z",
+        "category": "energy",
+        "summaryEn": "Seattle has officially started a one-year ban on the construction of new data centers. The city council voted for this move to study the environmental impact and energy needs of AI projects. This decision follows growing public pressure from climate activists and local tech workers. Officials want to ensure that future data centers do not cause electricity bills to rise for residents. The city also plans to push for new state-level regulations during the next legislative session."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is the total number of active opposition groups fighting against data center construction in the United States?",
+      "options": {
+        "A": "75",
+        "B": "130",
+        "C": "833",
+        "D": "49"
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第二段，文中明確提到「active opposition groups has more than doubled to 833」。選項 A 的 75 是指被阻擋或延遲的建設項目數量；選項 B 的 130 億美元是指這些被阻擋項目的總價值；選項 D 的 49 則是這些團體分佈的州數，皆非題目所問的團體數量。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the future of data center construction based on the information provided?",
+      "options": {
+        "A": "Tech companies will likely stop building data centers in the U.S. entirely.",
+        "B": "The conflict between tech companies and local communities will likely become more complex and regulated.",
+        "C": "Political parties will stop supporting tech companies to gain votes in the midterm elections.",
+        "D": "Water usage by data centers will decrease significantly due to new government bans."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章最後一段提到，隨著反對團體組織化且政治人物開始介入，未來數據中心的發展將面臨更嚴格的監管與談判。選項 A 過度推論，文章並未說要完全停止；選項 C 錯誤，政黨只是開始關注民眾擔憂，並未表示會全面停止支持；選項 D 錯誤，文章提到的是數據中心用水量預計會大幅成長，而非減少。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, the phrase 'drop in the bucket' is used to describe the tech industry's water usage. What does this phrase mean in this context?",
+      "options": {
+        "A": "A very small, insignificant amount compared to the total.",
+        "B": "A dangerous amount that causes immediate flooding.",
+        "C": "A carefully measured amount used for industrial cooling.",
+        "D": "A secret supply of water hidden from the public."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。片語「a drop in the bucket」意指「滄海一粟」或「杯水車薪」，形容相對於整體而言是非常微小且不重要的部分。文中科技公司以此來辯解其用水量相對於全國總消耗量是微不足道的。選項 B、C、D 皆與該片語的慣用語義不符，屬於錯誤的字面解釋或臆測。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of this article?",
+      "options": {
+        "A": "Data centers are essential for the future of artificial intelligence technology.",
+        "B": "Tech companies are successfully convincing local communities to accept new data centers.",
+        "C": "The environmental impact of data centers has become a major source of conflict between tech firms and local communities.",
+        "D": "Seattle is the only city in the United States that is concerned about the water usage of data centers."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。全文的核心在於探討數據中心擴張帶來的環境問題（特別是用水），以及這如何引發全美各地社區的強烈反對與政治抗爭。選項 A 雖是背景，但非文章主旨；選項 B 與事實相反，民眾反對聲浪正高；選項 D 錯誤，文章提到反對團體分佈在 49 個州，西雅圖僅是一個案例，並非唯一。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
