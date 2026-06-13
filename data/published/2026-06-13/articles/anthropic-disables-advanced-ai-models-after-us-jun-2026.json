@@ -1,0 +1,163 @@
+{
+  "id": "2026-06-13-anthropic-disables-advanced-ai-models-after-us",
+  "slug": "anthropic-disables-advanced-ai-models-after-us-jun-2026",
+  "publishedAt": "2026-06-13T23:20:29.395674Z",
+  "category": "technology",
+  "title": "Anthropic Disables Advanced AI Models Following US Government Order",
+  "subtitle": "The company has cut off access to its newest technology due to national security concerns.",
+  "summary": {
+    "en": "Anthropic has decided to turn off its most powerful AI models, Fable 5 and Mythos 5. This follows a direct order from the US government to block access for foreign nationals. The government claims there are national security risks related to how the models could be used. Anthropic disagrees with the decision and says the government provided little evidence. The move highlights growing tension between AI companies and government regulators.",
+    "zh": "Anthropic 已決定關閉其最強大的 AI 模型 Fable 5 與 Mythos 5。此舉是為了遵循美國政府禁止外籍人士使用的直接命令。政府聲稱這些模型的使用方式存在國家安全風險。Anthropic 不同意此決定，並表示政府提供的證據不足。此舉凸顯了 AI 企業與政府監管機構之間日益緊張的關係。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The artificial intelligence company Anthropic has announced that it will stop access to its most advanced AI models, Fable 5 and Mythos 5. This decision follows a direct order from the United States government, which cited national security concerns. According to The Guardian Technology, the company will \"abruptly disable\" these models for all users to ensure it follows the new rules.",
+      "zh": "人工智慧公司 Anthropic 宣布，將停止開放其最先進的 AI 模型 Fable 5 與 Mythos 5。此項決定是遵循美國政府的直接命令，政府方面引述了國家安全疑慮。根據《衛報科技版》（The Guardian Technology）報導，該公司將「立即停用」這些模型，以確保符合新的規範。"
+    },
+    {
+      "id": "p2",
+      "en": "The government issued an export control directive—a set of rules that limits the movement of technology to other countries—requiring Anthropic to block access to these specific models for all foreign nationals. As reported by The Verge, this order applies to people both inside and outside the United States, including some of the company’s own employees. To meet these strict requirements, Anthropic decided that it had to cut off access to the models for all customers completely.",
+      "zh": "政府發布了一項出口管制指令——即限制技術流向其他國家的規則——要求 Anthropic 禁止所有外籍人士使用這些特定模型。據科技媒體 The Verge 報導，此命令適用於美國境內外的人士，甚至包括該公司部分員工。為了符合這些嚴格要求，Anthropic 決定必須全面切斷所有客戶對這些模型的存取權限。"
+    },
+    {
+      "id": "p3",
+      "en": "Anthropic stated that the government did not provide specific details about the security risks. Instead, the company claims that the evidence provided was only verbal and described a potential \"jailbreak.\" In the world of technology, a jailbreak is a method used to bypass or break the safety rules that stop an AI from doing something it should not do. The government reportedly believes that these models could be used to find software vulnerabilities, which are weak points in computer systems that hackers might attack.",
+      "zh": "Anthropic 表示，政府並未提供關於安全風險的具體細節。相反地，該公司聲稱政府提供的證據僅為口頭說明，並描述了一種潛在的「越獄」風險。在科技領域中，「越獄」是指繞過或破壞 AI 安全規則，使其執行不當行為的方法。據報導，政府認為這些模型可能被用於尋找軟體漏洞，即駭客可能攻擊的電腦系統弱點。"
+    },
+    {
+      "id": "p4",
+      "en": "This situation marks a significant moment in the relationship between the US government and AI developers. For many years, US export controls have focused on physical items, such as the computer chips used to power AI. However, this new action shows that the government is now focusing on the software and the AI models themselves. The Verge noted that Anthropic believes the vulnerabilities discovered by the government are minor and that other AI models from rival companies have similar abilities.",
+      "zh": "此情況標誌著美國政府與 AI 開發商之間關係的重要時刻。多年來，美國的出口管制主要集中在實體物品上，例如驅動 AI 的電腦晶片。然而，這次的新行動顯示政府現在正將焦點轉向軟體與 AI 模型本身。The Verge 指出，Anthropic 認為政府發現的漏洞屬於輕微問題，且競爭對手的其他 AI 模型也具備類似能力。"
+    },
+    {
+      "id": "p5",
+      "en": "There is clear disagreement between the two sides. Anthropic argued that it had worked closely with the US and UK governments on safety before launching its models. The company also pointed out that it has guardrails—safety features designed to prevent misuse—that stop the models from being used in risky areas like cyber-attacks. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company said in a statement cited by The Guardian Technology.",
+      "zh": "雙方顯然存在分歧。Anthropic 主張在推出模型前，已與美英兩國政府密切合作進行安全評估。該公司也指出，其設有「護欄」——即旨在防止濫用的安全功能——能阻止模型被用於網路攻擊等高風險領域。根據《衛報科技版》引述的聲明，該公司表示：「我們不同意僅因發現一個狹隘的潛在越獄風險，就應將已部署給數億人使用的商業模型撤回。」"
+    },
+    {
+      "id": "p6",
+      "en": "Not everyone agrees with the company's position. Kirsten Davies, the chief information officer for the Pentagon, shared her thoughts on the social media platform X. She stated that the defense department supports prioritizing national security over business goals. \"Some things are simply more important than revenue cycles, clickbait and pre-IPO valuation. America First. Always,\" Davies wrote.",
+      "zh": "並非所有人都認同該公司的立場。五角大廈的資訊長克莉絲汀·戴維斯（Kirsten Davies）在社群媒體平台 X 上分享了她的看法。她表示，國防部支持將國家安全置於商業目標之上。戴維斯寫道：「有些事情就是比營收週期、點擊誘餌和首次公開募股前的估值更重要。美國優先，永遠如此。」"
+    },
+    {
+      "id": "p7",
+      "en": "This event comes at a difficult time for Anthropic, which recently filed for an IPO—a process where a private company offers its shares to the public for the first time. The company’s relationship with the government has been tense for some time. Earlier this year, Anthropic refused to let the US military use its AI for domestic surveillance or weapons systems. Because of this, the government placed Anthropic on a supply chain blacklist, which is a list of companies that are restricted from doing business with certain government partners.",
+      "zh": "此事件對 Anthropic 而言發生在艱難時刻，該公司近期才剛申請首次公開募股（IPO）——即私人企業首次向大眾發行股票的過程。該公司與政府的關係已緊張一段時間。今年稍早，Anthropic 拒絕讓美軍將其 AI 用於國內監控或武器系統。因此，政府將 Anthropic 列入供應鏈黑名單，這是一份限制與特定政府合作夥伴進行業務往來的企業清單。"
+    },
+    {
+      "id": "p8",
+      "en": "Looking ahead, this situation highlights the growing tension between AI developers and government regulators. While Anthropic has previously called for more government oversight of AI, it argued that this specific action did not follow fair or fact-based rules. As the government continues to try to halt the AI capabilities of foreign adversaries, companies like Anthropic find themselves caught in the middle of a complex and changing legal landscape. For now, users of Fable 5 and Mythos 5 will have to wait to see if access is restored or if these models will remain unavailable.",
+      "zh": "展望未來，此情況凸顯了 AI 開發商與政府監管機構之間日益加劇的緊張關係。儘管 Anthropic 先前曾呼籲政府加強對 AI 的監管，但該公司認為這次的特定行動並未遵循公平或基於事實的規則。隨著政府持續嘗試阻止外國敵對勢力獲取 AI 能力，像 Anthropic 這樣的公司發現自己陷入了複雜且不斷變化的法律環境中。目前，Fable 5 與 Mythos 5 的使用者只能等待，看存取權限是否會恢復，或者這些模型是否將持續無法使用。"
+    }
+  ],
+  "wordCount": 682,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "block",
+      "definitionEn": "To prevent someone from using or accessing something.",
+      "definitionZh": "阻擋、禁止使用。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（街區、積木），這裡作動詞用。文中：requiring Anthropic to block access to these specific models for all foreign nationals."
+    },
+    {
+      "term": "cut off",
+      "definitionEn": "To stop the supply or access of something completely.",
+      "definitionZh": "切斷、中斷（供應或連結）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "此片語在此處表示完全停止提供服務，而非字面上的「切斷」。文中：Anthropic decided that it had to cut off access to the models for all customers completely."
+    },
+    {
+      "term": "halt",
+      "definitionEn": "To stop something from continuing or moving.",
+      "definitionZh": "停止、阻礙。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（停止），這裡作動詞用。文中：As the government continues to try to halt the AI capabilities of foreign adversaries, companies like Anthropic find themselves caught in the middle of a complex and changing legal landscape."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/2026/jun/13/anthropic-disable-advanced-ai-models-us-government-order",
+      "title": "Anthropic to disable its most advanced AI models after US order limiting foreign access",
+      "publishedAt": "2026-06-13T12:37:12Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+      "publishedAt": "2026-06-13T12:55:49Z"
+    }
+  ],
+  "story": {
+    "id": "anthropic-restricts-ai-models-due-to-security",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "anthropic-restricts-ai-models-due-to-security-jun-2026",
+        "title": "Anthropic Stops Access to Advanced AI Models After Government Order",
+        "publishedAt": "2026-06-13T22:13:50.949267Z",
+        "category": "technology",
+        "summaryEn": "The AI company Anthropic has decided to turn off its most powerful models, Fable 5 and Mythos 5. This decision follows a direct order from the United States government regarding national security. The government is worried that these models could be used to bypass safety rules, a process known as 'jailbreaking'. Anthropic disagrees with the order, stating that the risks are minor and not unique to their software. The company is now working to follow the rules while expressing frustration over the lack of clear evidence."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, why did Anthropic decide to completely disable access to Fable 5 and Mythos 5 for all users?",
+      "options": {
+        "A": "The company wanted to protect its intellectual property from rival AI developers.",
+        "B": "The government's export control directive required blocking access for all foreign nationals, making a total shutdown the most practical way to comply.",
+        "C": "The models were found to have severe, unfixable software vulnerabilities that posed a risk to the company's own servers.",
+        "D": "The company was preparing for an IPO and needed to remove the models to satisfy potential investors."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，政府的出口管制指令要求禁止所有外籍人士使用這些模型，這包含美國境內外的人員。為了嚴格遵守此規定，Anthropic 認為最徹底的做法就是對所有客戶全面關閉存取權限。選項 A 文章未提及；選項 C 文章提到的是政府擔憂的潛在風險，而非公司伺服器問題；選項 D 雖然提到 IPO，但這與關閉模型的原因無直接因果關係。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the relationship between Anthropic and the US government?",
+      "options": {
+        "A": "They have maintained a consistently cooperative partnership regarding national security interests.",
+        "B": "The government trusts Anthropic's internal safety guardrails implicitly.",
+        "C": "The relationship is currently strained due to previous disagreements over the use of their technology for military purposes.",
+        "D": "Anthropic is currently the only AI company facing strict government export control regulations."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第七段，Anthropic 先前拒絕讓美軍使用其 AI 進行國內監控或武器系統，導致公司被列入供應鏈黑名單，顯示雙方長期的關係已相當緊張。選項 A 與文章內容矛盾；選項 B 不正確，因為政府顯然對其安全性存疑；選項 D 文章並未提到只有 Anthropic 一家公司受到此類監管，僅提到其他公司也有類似模型。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fifth paragraph, what does the word 'guardrails' mean in the context of AI development?",
+      "options": {
+        "A": "Physical barriers installed in data centers to protect hardware.",
+        "B": "Legal documents that limit the liability of AI companies.",
+        "C": "Safety features or protocols designed to prevent the AI from being misused.",
+        "D": "Financial regulations that prevent AI companies from over-valuing their products."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第五段明確將「guardrails」定義為「safety features designed to prevent misuse」（旨在防止濫用的安全功能）。在 AI 領域中，這是一個常見的術語，指代限制 AI 輸出有害內容的機制。選項 A、B、D 皆與文章中對該詞的定義不符，屬於對詞彙的錯誤延伸解釋。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article?",
+      "options": {
+        "A": "Anthropic's Fable 5 and Mythos 5 models were proven to be dangerous to the public.",
+        "B": "The US government is successfully forcing all AI companies to move their operations abroad.",
+        "C": "The conflict between AI developers and government regulators regarding national security and software control is intensifying.",
+        "D": "The primary goal of the US government is to stop the development of AI technology entirely."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。整篇文章圍繞著 Anthropic 因政府出口管制而被迫關閉模型，並探討了 AI 開發者與政府之間在國家安全、軟體監管與商業利益上的衝突。選項 A 過於武斷，因為公司並不同意政府的指控；選項 B 文章未提及政府強迫搬遷；選項 D 錯誤，政府是在監管而非全面禁止技術發展。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
