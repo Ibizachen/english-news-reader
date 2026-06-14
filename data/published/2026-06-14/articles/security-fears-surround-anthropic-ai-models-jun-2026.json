@@ -1,0 +1,161 @@
+{
+  "id": "2026-06-14-security-fears-surround-anthropic-ai-models",
+  "slug": "security-fears-surround-anthropic-ai-models-jun-2026",
+  "publishedAt": "2026-06-14T23:36:43.093397Z",
+  "category": "technology",
+  "title": "New Security Concerns Emerge Over Anthropic AI Models",
+  "subtitle": "Reports suggest government restrictions on powerful AI were driven by fears of foreign access.",
+  "summary": {
+    "en": "The United States government has placed new export restrictions on Anthropic’s most advanced AI models, Mythos 5 and Fable 5. Recent reports indicate these rules were partly driven by fears that a group linked to China may have accessed the software. If true, experts warn that this could pose a significant national security risk. Anthropic has previously faced challenges with unauthorized access to its powerful technology. The company is now working to address these security concerns following government orders.",
+    "zh": "美國政府已對 Anthropic 最先進的人工智慧模型 Mythos 5 與 Fable 5 實施新的出口限制。近期報導指出，這些規範的部分原因是擔憂與中國有關的團體可能已存取該軟體。專家警告，若屬實，這將構成重大的國家安全風險。Anthropic 先前曾面臨其強大技術遭未經授權存取的挑戰，目前該公司正依據政府命令，致力於解決這些安全疑慮。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The United States government has introduced new export restrictions on Anthropic’s most advanced artificial intelligence models, known as Mythos 5 and Fable 5. These rules, which limit how the technology can be shared or sold outside the country, follow a period of growing concern regarding the safety and security of these powerful systems. While the company has already disabled access to these models in response to government orders, new details suggest that the decision was influenced by fears of foreign involvement.",
+      "zh": "美國政府針對人工智慧公司 Anthropic 最先進的「Mythos 5」與「Fable 5」模型，實施了新的出口限制。這些規範限制了該技術在國外的分享或銷售方式，起因於各界對這些強大系統的安全與防護能力日益擔憂。儘管該公司已依據政府命令停用這些模型的存取權限，但最新細節顯示，這項決策受到對外國勢力介入的恐懼所影響。"
+    },
+    {
+      "id": "p2",
+      "en": "According to a report from Semafor, officials in the White House were worried that a group linked to China might have gained unauthorized access to the Mythos model. If the Chinese government were able to use Mythos 5 or Fable 5, it could present a serious national security risk. Experts note that such access could allow a foreign power to copy the model’s behavior through a process called distillation. In this method, a smaller \"student\" AI is trained using the information from a more advanced model to copy its capabilities. By doing this, a country could potentially build its own version of the powerful technology without needing to develop it from scratch.",
+      "zh": "根據新聞媒體 Semafor 的報導，白宮官員擔心一個與中國有關聯的團體可能已非法存取 Mythos 模型。若中國政府能夠使用 Mythos 5 或 Fable 5，將可能構成嚴重的國家安全風險。專家指出，此類存取權限可能讓外國勢力透過一種稱為「蒸餾」的程序，複製該模型的運作模式。透過這種方法，外國能利用更先進模型的資訊來訓練一個較小的「學生」人工智慧，進而複製其能力。如此一來，該國便可能在無需從頭研發的情況下，建立屬於自己的強大技術版本。"
+    },
+    {
+      "id": "p3",
+      "en": "This is not the first time Anthropic has faced questions about the security of its most advanced software. The company has previously stated that models like Mythos are too powerful for the general public to use. However, reports have surfaced showing that a group on the messaging platform Discord was able to access the software for two weeks before the company discovered the breach and blocked them. These past incidents have made the government even more cautious about how such technology is protected.",
+      "zh": "這並非 Anthropic 首次面臨關於其最先進軟體安全性的質疑。該公司先前曾表示，像 Mythos 這類模型過於強大，不適合一般大眾使用。然而，有報導指出，通訊平台 Discord 上的一個群組曾成功存取該軟體長達兩週，直到公司發現漏洞並封鎖他們為止。這些過往事件使得政府對於如何保護此類技術變得更加謹慎。"
+    },
+    {
+      "id": "p4",
+      "en": "There are different views on why these new restrictions were put in place. While the report from Semafor highlights the concerns about China, other voices have focused on different technical risks. For example, a post on the platform X by David Sacks, an advisor to Donald Trump, did not mention China. Instead, Sacks pointed to reports that the Fable and Mythos models could be \"jailbroken.\" This term refers to finding ways to bypass the safety rules that AI companies put in place to prevent their models from being used for harmful activities. Anthropic has denied that its models can be easily broken in this way.",
+      "zh": "對於為何實施這些新限制，各界看法不一。雖然 Semafor 的報導強調了對中國的擔憂，但其他聲音則聚焦於不同的技術風險。例如，川普 (Donald Trump) 的顧問薩克斯 (David Sacks) 在社群平台 X 上發文時並未提及中國，而是指出有報導稱 Fable 與 Mythos 模型可能遭到「越獄」。此術語是指設法繞過人工智慧公司為防止模型被用於有害活動而設置的安全規則。Anthropic 則否認其模型能輕易以這種方式被破解。"
+    },
+    {
+      "id": "p5",
+      "en": "Anthropic has not provided a full response to these specific claims. However, a spokesperson for the company told Semafor that the government did not mention China during their discussions about the new export rules. This creates a complex situation where the exact reasons for the government's actions remain a subject of debate. The White House has also not officially confirmed the reports regarding the China-linked access.",
+      "zh": "Anthropic 並未針對這些具體指控提供完整回應。不過，該公司發言人向 Semafor 表示，政府在討論新出口規則的過程中並未提及中國。這造成了一種複雜的局面，即政府採取行動的確切原因仍是爭論焦點。白宮也尚未正式證實有關中國相關團體存取該軟體的報導。"
+    },
+    {
+      "id": "p6",
+      "en": "As the situation develops, the focus remains on how companies like Anthropic can keep their most powerful tools safe. The ability of these models to process vast amounts of information makes them valuable, but also dangerous if they fall into the wrong hands. The government’s decision to limit access is a clear sign that officials are treating these AI models as a matter of national importance. For now, the models remain offline as the company works to meet the security requirements set by the government. The future of these advanced tools will likely depend on whether Anthropic can prove that it can keep its technology secure from both accidental leaks and intentional interference from foreign groups.",
+      "zh": "隨著事態發展，焦點仍集中在像 Anthropic 這類公司如何確保其最強大工具的安全性。這些模型處理海量資訊的能力使其極具價值，但若落入不當之手也相當危險。政府決定限制存取權限，明確顯示官員已將這些人工智慧模型視為國家重要事務。目前，由於公司正致力於滿足政府設定的安全要求，這些模型仍處於離線狀態。這些先進工具的未來，將取決於 Anthropic 是否能證明其有能力保護技術，免受意外洩漏以及外國團體的蓄意干擾。"
+    }
+  ],
+  "wordCount": 628,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "from scratch",
+      "definitionEn": "From the very beginning, without using any previous work or materials.",
+      "definitionZh": "從零開始，從頭做起。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這是一個常見的慣用語，容易被誤認為與「抓癢」有關。文中：By doing this, a country could potentially build its own version of the powerful technology without needing to develop it from scratch."
+    },
+    {
+      "term": "surfaced",
+      "definitionEn": "To become known or appear after being hidden or unknown.",
+      "definitionZh": "浮出水面、顯露出來、被發現。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（表面），這裡作動詞，形容資訊或消息被公開。文中：However, reports have surfaced showing that a group on the messaging platform Discord was able to access the software for two weeks before the company discovered the breach and blocked them."
+    },
+    {
+      "term": "fall into the wrong hands",
+      "definitionEn": "To be acquired by people who might use something for bad or harmful purposes.",
+      "definitionZh": "落入壞人之手、被不懷好意的人取得。",
+      "partOfSpeech": "idiom",
+      "noteZh": "字面上看起來像「掉進錯誤的手」，實際是指物品被危險人士取得。文中：The ability of these models to process vast amounts of information makes them valuable, but also dangerous if they fall into the wrong hands."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+      "title": "China may have accessed Mythos",
+      "publishedAt": "2026-06-14T18:27:55Z"
+    }
+  ],
+  "story": {
+    "id": "anthropic-restricts-ai-models-due-to-security",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "security-concerns-over-advanced-ai-models-jun-2026",
+        "title": "New Security Fears Surround Anthropic’s Advanced AI Models",
+        "publishedAt": "2026-06-14T22:13:55.106101Z",
+        "category": "technology",
+        "summaryEn": "The US government has placed new restrictions on Anthropic’s most advanced AI models, Mythos 5 and Fable 5. Recent reports suggest these rules were partly driven by fears that a China-linked group may have accessed the software. If true, experts warn this could pose a significant national security risk. Anthropic has previously disabled access to these models following government orders. The company continues to face questions about how it secures its most powerful technology."
+      },
+      {
+        "slug": "anthropic-restricts-ai-models-due-to-security-jun-2026",
+        "title": "Anthropic Stops Access to Advanced AI Models After Government Order",
+        "publishedAt": "2026-06-13T22:13:50.949267Z",
+        "category": "technology",
+        "summaryEn": "The AI company Anthropic has decided to turn off its most powerful models, Fable 5 and Mythos 5. This decision follows a direct order from the United States government regarding national security. The government is worried that these models could be used to bypass safety rules, a process known as 'jailbreaking'. Anthropic disagrees with the order, stating that the risks are minor and not unique to their software. The company is now working to follow the rules while expressing frustration over the lack of clear evidence."
+      },
+      {
+        "slug": "anthropic-disables-advanced-ai-models-after-us-jun-2026",
+        "title": "Anthropic Disables Advanced AI Models Following US Government Order",
+        "publishedAt": "2026-06-13T23:20:29.395674Z",
+        "category": "technology",
+        "summaryEn": "Anthropic has decided to turn off its most powerful AI models, Fable 5 and Mythos 5. This follows a direct order from the US government to block access for foreign nationals. The government claims there are national security risks related to how the models could be used. Anthropic disagrees with the decision and says the government provided little evidence. The move highlights growing tension between AI companies and government regulators."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What happened when a group on the messaging platform Discord accessed Anthropic's software?",
+      "options": {
+        "A": "They immediately notified the government about a security flaw.",
+        "B": "They were able to use the software for a period of two weeks.",
+        "C": "They successfully used the 'distillation' process to copy the model.",
+        "D": "They were blocked by the company before they could interact with the model."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，該 Discord 群組在被 Anthropic 發現並封鎖之前，已經成功存取該軟體長達兩週。選項 A 錯誤，文中未提及該群組通知政府；選項 C 錯誤，文中僅提到 distillation 是可能的風險，並未指明該群組使用了此技術；選項 D 錯誤，因為他們在被發現前已經存取了兩週，並非在存取前就被阻擋。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the text, why would a foreign power be interested in using 'distillation' on Mythos 5?",
+      "options": {
+        "A": "To prove that the model can be easily 'jailbroken' by outsiders.",
+        "B": "To bypass the safety rules that prevent harmful activities.",
+        "C": "To create their own advanced AI without the need for original research and development.",
+        "D": "To communicate directly with the White House regarding export restrictions."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第二段，distillation 是一種讓較小的 AI 模型學習並複製先進模型能力的方法。這意味著外國勢力可以藉此獲得強大的技術，而無需從零開始研發。選項 A 與 D 與 distillation 的定義無關；選項 B 描述的是 jailbreaking 的概念，而非 distillation，因此不正確。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fourth paragraph, what does the word 'jailbroken' mean in the context of AI models?",
+      "options": {
+        "A": "The process of physically stealing the server hardware.",
+        "B": "The act of removing the built-in safety restrictions of the system.",
+        "C": "The unauthorized sharing of the software's source code on social media.",
+        "D": "The accidental deletion of data caused by a system error."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據第四段，文中明確解釋 jailbroken 是指找到方法繞過（bypass）AI 公司設置的安全規則，以防止模型被用於有害活動。選項 A、C、D 皆與文章中對該術語的定義不符，屬於對詞彙的錯誤解讀。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary focus of the article?",
+      "options": {
+        "A": "To explain the technical differences between Mythos 5 and Fable 5.",
+        "B": "To criticize the White House for its lack of transparency regarding AI policies.",
+        "C": "To argue that Anthropic's AI models are currently the most dangerous in the world.",
+        "D": "To discuss the government's efforts to secure advanced AI models amid security and export concerns."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。全文主要探討美國政府對 Anthropic 先進 AI 模型的出口限制，以及這些限制背後關於國家安全、外國勢力介入及模型安全性的討論。選項 A 過於細節；選項 B 僅是文章提到的其中一個觀點，並非主旨；選項 C 文章並未斷言它是「全球最危險」，僅提到其具備強大能力與潛在風險。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
