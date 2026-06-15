@@ -1,0 +1,37 @@
+{
+  "id": "global-renewable-transition",
+  "title": "The Great Energy Shift: Navigating the Global Transition",
+  "subtitle": "An examination of the complex shift from fossil fuels to sustainable power systems.",
+  "description": "This series explores the multi-faceted transition to renewable energy, covering the economic, political, and technological hurdles involved. It provides learners with the vocabulary and context to understand one of the most significant global shifts of the 21st century.",
+  "category": "energy",
+  "status": "active",
+  "updatedAt": "2026-06-15T06:23:23.417009Z",
+  "cadence": "5-part reading path. Complete series available.",
+  "articles": [
+    {
+      "slug": "global-renewable-transition-part-1",
+      "label": "Part 1",
+      "note": "The historical context of fossil fuel dependence and the scientific consensus driving the urgency for renewable adoption."
+    },
+    {
+      "slug": "global-renewable-transition-part-2",
+      "label": "Part 2",
+      "note": "The roles of governments, international organizations, and private corporations in shaping the energy market."
+    },
+    {
+      "slug": "global-renewable-transition-part-3",
+      "label": "Part 3",
+      "note": "The technical challenges of integrating intermittent energy sources like wind and solar into aging power grids."
+    },
+    {
+      "slug": "global-renewable-transition-part-4",
+      "label": "Part 4",
+      "note": "The socio-economic impacts of the transition, including job displacement in fossil fuel regions and energy affordability."
+    },
+    {
+      "slug": "global-renewable-transition-part-5",
+      "label": "Part 5",
+      "note": "The future of energy security, geopolitical tensions, and the remaining hurdles to achieving net-zero."
+    }
+  ]
+}
