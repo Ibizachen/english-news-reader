@@ -1,93 +1,77 @@
 {
   "id": "2026-06-16-ebola-outbreak-escalates-in-congo",
   "slug": "ebola-outbreak-escalates-in-congo-jun-2026",
-  "publishedAt": "2026-06-16T00:01:10.541339Z",
+  "publishedAt": "2026-06-16T23:46:56.919440Z",
   "category": "public-health",
-  "title": "Ebola Outbreak Spreads Rapidly in Eastern Congo",
-  "subtitle": "Health officials warn that the disease is moving faster than the current response efforts can manage.",
+  "title": "Ebola Recovery and Ongoing Challenges in the Congo",
+  "subtitle": "As one American doctor recovers from the virus, medical teams in the Democratic Republic of the Congo continue their difficult work.",
   "summary": {
-    "en": "The Ebola outbreak in the Democratic Republic of Congo has reached a critical stage one month after it was first declared. Authorities reported a significant increase in new cases, bringing the total number of infections to 782. Medical teams are struggling to control the virus due to limited supplies and the difficulty of tracking people who have been exposed. The virus has spread across multiple provinces and even reached neighboring Uganda. Experts are calling for urgent international support to provide more resources and stop the transmission.",
-    "zh": "剛果民主共和國的伊波拉疫情在宣布爆發一個月後，已進入關鍵階段。當局通報新增病例顯著增加，確診總數達七百八十二例。由於物資有限且追蹤接觸者困難，醫療團隊正竭力控制病毒。病毒已擴散至多個省份，甚至波及鄰國烏干達。專家呼籲國際社會緊急提供支援，以挹注更多資源並阻止病毒傳播。"
+    "en": "An American doctor who caught Ebola while working in the Congo has returned home after recovering. This news comes as the country continues to fight a dangerous outbreak that has lasted over a month. Medical teams are still working hard to stop the spread of the virus. Many people in the region are still very afraid of the disease. Experts remain focused on providing care despite the many challenges they face.",
+    "zh": "一名在剛果工作時感染伊波拉病毒的美國醫師，在康復後已經返國。此消息傳出之際，該國正持續對抗一場已持續超過一個月的危險疫情。醫療團隊仍努力不懈地阻止病毒擴散。該地區許多民眾對此疾病仍感到極度恐懼。儘管面臨諸多挑戰，專家們仍致力於提供照護。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "The Ebola outbreak in the Democratic Republic of Congo has reached a dangerous new stage. One month after the government officially declared the crisis on May 15, health authorities reported a major jump in new infections. According to the Congolese health ministry, 72 new cases were recorded in a single 24-hour period, bringing the total number of confirmed cases to 782. Sadly, there have been 181 confirmed deaths since the start of the outbreak.",
-      "zh": "剛果民主共和國的伊波拉病毒疫情已進入危險的新階段。在政府於五月十五日正式宣布危機發生一個月後，衛生當局通報新增感染病例大幅增加。根據剛果衛生部指出，在短短二十四小時內就記錄到七十二起新病例，使確診總數達到七百八十二例。令人遺憾的是，自疫情爆發以來，已有一百八十一例確診死亡。"
+      "en": "The fight against the Ebola virus in the Democratic Republic of the Congo remains a major concern for global health experts. As the outbreak continues to challenge medical teams on the ground, there is a small piece of positive news. According to CBS News, Dr. Peter Stafford, an American doctor who contracted Ebola while on a humanitarian mission in the region, has returned home. Dr. Stafford shared that he is feeling well after his recovery, providing a rare moment of relief in what has been a long and difficult struggle.",
+      "zh": "剛果民主共和國對抗伊波拉病毒的戰役，依然是全球衛生專家極為關切的議題。隨著疫情持續對當地的醫療團隊構成挑戰，目前傳出了一則小小的正面消息。根據哥倫比亞廣播公司新聞網（CBS News）報導，在該地區執行人道救援任務時感染伊波拉病毒的美國醫師彼得·史塔福（Peter Stafford）已經返國。史塔福醫師表示，他在康復後感覺良好，這場漫長且艱困的抗疫之戰，終於迎來了難得的寬慰時刻。"
     },
     {
       "id": "p2",
-      "en": "Experts warn that the true scale of the crisis is likely much higher than the official numbers suggest. Because the virus was circulating for weeks before it was officially identified, many deaths in remote villages and crowded suburbs have gone unnoticed. Kate White, an emergency medical coordinator for the group Doctors Without Borders, stated that the outbreak is currently moving faster than the response teams can manage. She noted that it is difficult to know the true size of the problem or exactly where the virus is spreading next.",
-      "zh": "專家警告，危機的真實規模很可能遠高於官方數據所顯示的數字。由於病毒在被正式確認前已傳播數週，許多在偏遠村莊與擁擠郊區發生的死亡案例並未被察覺。無國界醫生組織（Doctors Without Borders）的緊急醫療協調員凱特·懷特（Kate White）表示，目前的疫情擴散速度已超過應變小組所能掌控的範圍。她指出，目前很難掌握問題的真實規模，或預測病毒接下來會傳播到何處。"
+      "en": "This update follows earlier reports from June 2026, which described the outbreak as reaching a critical stage. Just one month after the virus was first identified, officials reported that the number of infections had risen to 782. Medical teams have been working under extreme pressure, often facing severe shortages of the equipment needed to treat patients safely. The situation has been complicated by the fear felt within local communities, which has sometimes caused people to avoid seeking help at medical centers.",
+      "zh": "這項最新進展是在二零二六年六月的早期報導之後出現的，當時的報導指出疫情已進入關鍵階段。在病毒首次被確認的一個月後，官員通報感染人數已攀升至七百八十二人。醫療團隊在極大壓力下工作，經常面臨安全治療病患所需設備嚴重短缺的問題。當地社區內部的恐懼感讓情況變得更加複雜，有時導致民眾不敢前往醫療中心尋求協助。"
     },
     {
       "id": "p3",
-      "en": "One of the biggest challenges for medical teams is \"contact tracing\" — the process of finding and monitoring everyone who has been near an infected person. According to the Congolese health ministry, only 56% of these contacts have been successfully traced. This percentage has dropped recently, making it harder for doctors to stop the spread. The task is made much more difficult by the region's geography and history. Ituri, the province at the center of the outbreak, has been affected by years of armed conflict. Many people have been forced to leave their homes, and the area is filled with dense forests and poor roads that are difficult to travel.",
-      "zh": "醫療團隊面臨的最大挑戰之一是「接觸者追蹤」，即找出並監控所有曾與感染者近距離接觸過的人。根據剛果衛生部數據，目前僅有百分之五十六的接觸者被成功追蹤。此比例近期有所下降，導致醫師更難以遏止病毒擴散。該地區的地理環境與歷史背景使這項任務變得更加艱鉅。作為疫情中心的伊圖里省（Ituri）多年來飽受武裝衝突影響，許多民眾被迫離鄉背井，且該地區遍布茂密森林與難以通行的道路。"
+      "en": "Ebola is a serious and often deadly virus that causes internal and external bleeding. Because it spreads through contact with the bodily fluids of infected people, it is very important for medical staff to have the right protective gear. Without enough supplies, the risk to both the patients and the doctors increases significantly. The ongoing crisis highlights the difficulty of managing a disease that requires strict isolation and specialized care in areas where resources are already limited.",
+      "zh": "伊波拉是一種嚴重且常致命的病毒，會導致體內與體外出血。由於病毒是透過接觸感染者的體液傳播，醫療人員擁有適當的防護裝備至關重要。若缺乏足夠的物資，病患與醫師面臨的風險都會大幅增加。這場持續中的危機凸顯了在資源本就有限的地區，管理一種需要嚴格隔離與專業照護的疾病有多麼困難。"
     },
     {
       "id": "p4",
-      "en": "In cities like Bunia, the capital of Ituri, the situation is becoming increasingly tense. With a population of over one million people, Bunia currently holds the highest number of cases. Community volunteers like 25-year-old Eliezer Kasongo are going door to door to teach people about the disease, but they often face fear and resistance. In one recent incident, a sick man died in the middle of the city, causing panic among those nearby. This event showed how hard it is for health workers to track suspected cases when people are afraid or constantly moving.",
-      "zh": "在伊圖里省首府布尼亞（Bunia）等城市，局勢正變得日益緊張。布尼亞人口超過一百萬，目前是病例數最多的地區。像二十五歲的艾利澤·卡松戈（Eliezer Kasongo）這樣的社區志工正挨家挨戶進行衛教，但他們常面臨恐懼與抗拒。近期曾發生一起病患在市中心死亡的事件，引發周遭民眾恐慌。此事件顯示，當民眾感到恐懼或不斷遷徙時，醫護人員要追蹤疑似病例是多麼困難。"
+      "en": "Beyond the immediate medical needs, the outbreak has created a climate of fear. As noted in previous reports, the community response has been mixed. While many people are seeking care, others are staying away from clinics due to uncertainty and worry. This makes it harder for health workers to track the virus and stop it from spreading to new areas. The work of international volunteers like Dr. Stafford is vital, but the long-term success of the response depends on building trust with the local population and ensuring that clinics have the tools they need to operate effectively.",
+      "zh": "除了迫切的醫療需求外，疫情也造成了恐懼的氛圍。如先前的報導所述，社區的反應不一。雖然許多民眾尋求照護，但也有人因為不確定感與擔憂而遠離診所。這使得衛生工作者更難以追蹤病毒，並阻止其擴散至新區域。像史塔福醫師這樣的國際志工貢獻至關重要，但防疫工作的長期成功，取決於與當地民眾建立信任，並確保診所擁有有效運作所需的工具。"
     },
     {
       "id": "p5",
-      "en": "Medical facilities are also under extreme pressure. At the Clinique Universelle in Bunia, staff had to close the hospital after a patient tested positive for the virus. The hospital director, Patient Mazirane, explained that his team has been working without enough personal protective equipment, or PPE, which includes items like gloves and masks that keep doctors safe from infection. While aid groups have sent hundreds of tons of medicine and supplies, it is still not enough to meet the growing demand.",
-      "zh": "醫療設施也承受著極大壓力。在布尼亞的環球診所（Clinique Universelle），院方在一名病患確診後被迫關閉醫院。院長帕蒂恩·馬齊拉內（Patient Mazirane）解釋，他的團隊一直缺乏足夠的個人防護裝備（PPE），例如保護醫師免受感染的手套與口罩等物資。儘管援助組織已運送數百噸藥品與物資，但仍不足以應對日益增長的需求。"
+      "en": "Looking ahead, the situation in the Congo remains a top priority for global health organizations. The goal is to lower the number of new cases and provide better support to the families affected by the virus. While the recovery of individual patients like Dr. Stafford is encouraging, the broader challenge of ending the outbreak continues. Medical teams are expected to remain in the region for the foreseeable future, continuing their efforts to save lives and prevent further tragedy. The international community continues to watch the situation closely, hoping for a decline in cases as more resources reach those who need them most.",
+      "zh": "展望未來，剛果的疫情仍是全球衛生組織的首要任務。目標是降低新增病例數，並為受病毒影響的家庭提供更好的支援。雖然像史塔福醫師這樣個別病患的康復令人鼓舞，但終結疫情的廣泛挑戰仍在持續。預計醫療團隊在可預見的未來將留在該地區，繼續努力拯救生命並防止更多悲劇發生。國際社會持續密切關注局勢，期盼隨著更多資源送達最需要的人手中，病例數能有所下降。"
     },
     {
       "id": "p6",
-      "en": "This specific outbreak is caused by the rare Bundibugyo virus. Unlike the more common Zaire virus, which has a vaccine — a medicine that helps the body fight off a disease — there is no widely available vaccine for this specific type. This makes the current situation even more difficult for medical professionals who are used to fighting other versions of the disease.",
-      "zh": "此次疫情是由罕見的邦迪布焦病毒（Bundibugyo virus）所引起。與擁有疫苗（一種協助人體對抗疾病的藥物）的常見薩伊病毒（Zaire virus）不同，目前針對此特定病毒類型尚無廣泛可用的疫苗。這使得習慣對抗其他病毒版本的醫療專業人員，在面對當前局勢時感到更加棘手。"
-    },
-    {
-      "id": "p7",
-      "en": "Despite these challenges, there are some signs of progress. The World Health Organization is sending more supplies and technical experts to help with testing and treatment. Additionally, the Africa CDC, which is the top health organization on the continent, is working to support laboratory systems and community efforts to find new cases. Jean Kaseya, the head of the Africa CDC, has called on international partners and donors to urgently provide more resources to help save lives and stop the virus from spreading further.",
-      "zh": "儘管面臨這些挑戰，仍有一些進展跡象。世界衛生組織（World Health Organization）正運送更多物資與技術專家，以協助檢測與治療。此外，作為非洲大陸最高衛生機構的非洲疾病管制與預防中心（Africa CDC），正致力於支援實驗室系統與社區防疫工作。非洲疾管中心負責人尚·卡塞亞（Jean Kaseya）已呼籲國際夥伴與捐助者緊急提供更多資源，以協助拯救生命並阻止病毒進一步擴散。"
-    },
-    {
-      "id": "p8",
-      "en": "As the outbreak continues to expand into new areas, including across the border into Uganda, the need for a stronger response is clear. Health officials emphasize that the fight against Ebola is not just about medicine; it is about reaching people in remote areas, gaining the trust of local communities, and ensuring that medical workers have the tools they need to stay safe. For now, the people of eastern Congo remain in a difficult race against time to contain the virus before it spreads any further.",
-      "zh": "隨著疫情持續擴散至新區域，包括跨越邊境進入烏干達，採取更強有力應對措施的必要性顯而易見。衛生官員強調，對抗伊波拉不僅是藥物問題，更在於深入偏遠地區、贏得當地社區信任，並確保醫護人員擁有保護自身安全所需的工具。目前，剛果東部的民眾仍處於一場艱難的與時間賽跑中，必須在病毒進一步擴散前將其控制住。"
+      "en": "In the context of wider public health, this outbreak serves as a reminder of how quickly infectious diseases can move across communities. Whether it is the Ebola virus in the Congo or other health concerns being monitored by agencies like the NIH, the need for fast and effective research remains clear. The creation of new offices, such as the Office of Research Innovation, Validation, and Application (ORIVA), shows that there is a global push to speed up medical research. However, for the people currently living through the Ebola crisis, the focus remains on the basic needs of safety, medicine, and support.",
+      "zh": "在更廣泛的公共衛生背景下，此次疫情提醒了我們傳染病在社區間擴散的速度有多快。無論是剛果的伊波拉病毒，還是美國國家衛生研究院（NIH）等機構監控的其他健康問題，對快速且有效研究的需求依然明確。諸如研究創新、驗證與應用辦公室（ORIVA）等新單位的成立，顯示全球正致力於加速醫學研究。然而，對於目前正經歷伊波拉危機的民眾而言，焦點仍放在安全、藥物與支援等基本需求上。"
     }
   ],
-  "wordCount": 738,
+  "wordCount": 612,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
-      "term": "jump",
-      "definitionEn": "A sudden, significant increase in a number or amount.",
-      "definitionZh": "（數值或數量的）突增、大幅上升。",
-      "partOfSpeech": "noun",
-      "noteZh": "常見作動詞（跳躍），這裡作名詞表示數量的激增。文中：health authorities reported a major jump in new infections."
+      "term": "on the ground",
+      "definitionEn": "In the actual location where an event or activity is happening, rather than from a distance.",
+      "definitionZh": "在現場；在第一線。",
+      "partOfSpeech": "idiom",
+      "noteZh": "常被誤以為與地面有關，這裡指實際執行任務的地點。文中：As the outbreak continues to challenge medical teams on the ground, there is a small piece of positive news."
     },
     {
-      "term": "hold",
-      "definitionEn": "To contain or have a certain number of people or things.",
-      "definitionZh": "容納、擁有（某數量）。",
-      "partOfSpeech": "verb",
-      "noteZh": "常見作「握住」，這裡指城市容納或擁有一定數量的病例。文中：Bunia currently holds the highest number of cases."
+      "term": "mixed",
+      "definitionEn": "Consisting of different, often opposing, feelings or reactions.",
+      "definitionZh": "參差不齊的；好壞參半的。",
+      "partOfSpeech": "adjective",
+      "noteZh": "常見作動詞（混合），這裡形容社區對疫情的反應不一致。文中：As noted in previous reports, the community response has been mixed."
     },
     {
-      "term": "meet",
-      "definitionEn": "To satisfy a need, requirement, or demand.",
-      "definitionZh": "滿足（需求、要求）。",
-      "partOfSpeech": "verb",
-      "noteZh": "常見作「遇見」，這裡指滿足物資需求。文中：it is still not enough to meet the growing demand."
+      "term": "foreseeable future",
+      "definitionEn": "As far into the future as can be predicted or expected.",
+      "definitionZh": "可預見的未來。",
+      "partOfSpeech": "phrase",
+      "noteZh": "這是一個固定搭配，形容一段時間內情況不會改變。文中：Medical teams are expected to remain in the region for the foreseeable future, continuing their efforts to save lives and prevent further tragedy."
     }
   ],
   "sources": [
     {
-      "name": "NPR Health",
-      "url": "https://www.npr.org/2026/06/15/nx-s1-5856414/ebola-congo-bunia-health-crisis",
-      "title": "Inside Ebola country: NPR reports from eastern DR Congo's outbreak zone",
-      "publishedAt": "2026-06-15T09:00:00Z"
-    },
-    {
       "name": "MedPage Today",
-      "url": "https://www.medpagetoday.com/infectiousdisease/publichealth/121764",
-      "title": "Congo Reports Large Daily Jump in Ebola Cases a Month After Outbreak Was Declared",
-      "publishedAt": "2026-06-15T19:59:54Z"
+      "url": "https://www.medpagetoday.com/washington-watch/washington-watch/121774",
+      "title": "NEJM Editors Slam Trump Administration; Alfredo Sauce Recall; Ebola Doc Comes Home",
+      "publishedAt": "2026-06-16T13:34:10Z"
     }
   ],
   "story": {
@@ -95,11 +79,11 @@
     "type": "update",
     "previousArticles": [
       {
-        "slug": "ebola-outbreak-escalates-in-drc-jun-2026",
-        "title": "Ebola Outbreak Grows Rapidly in Eastern Congo",
-        "publishedAt": "2026-06-15T22:13:26.189379Z",
+        "slug": "ebola-outbreak-escalates-in-congo-jun-2026",
+        "title": "Ebola Outbreak Spreads Rapidly in Eastern Congo",
+        "publishedAt": "2026-06-16T00:01:10.541339Z",
         "category": "public-health",
-        "summaryEn": "The Ebola outbreak in the Democratic Republic of Congo is spreading faster than expected one month after it began. Authorities reported a large jump in new cases, bringing the total to 782. Medical teams face major challenges, including a lack of protective equipment and difficulty finding people who were exposed to the virus. Conflict and a shifting population in the Ituri province make the situation even harder to control. International groups are now working to send more supplies and support to the region."
+        "summaryEn": "The Ebola outbreak in the Democratic Republic of Congo has reached a critical stage one month after it was first declared. Authorities reported a significant increase in new cases, bringing the total number of infections to 782. Medical teams are struggling to control the virus due to limited supplies and the difficulty of tracking people who have been exposed. The virus has spread across multiple provinces and even reached neighboring Uganda. Experts are calling for urgent international support to provide more resources and stop the transmission."
       },
       {
         "slug": "concerns-over-ebola-outbreak-in-drc-jun-2026",
@@ -107,13 +91,6 @@
         "publishedAt": "2026-06-14T23:36:43.093397Z",
         "category": "public-health",
         "summaryEn": "The Ebola outbreak in the Democratic Republic of the Congo has reached a critical point one month after it began. Medical teams are struggling to manage the virus while facing severe equipment shortages. Local communities remain fearful, sometimes avoiding the very care that could save their lives. International leaders are now meeting to discuss how to provide better funding and support. Experts emphasize that building trust with local people is essential to stopping the spread of the disease."
-      },
-      {
-        "slug": "who-concerned-over-ebola-outbreak-in-drc-jun-2026",
-        "title": "Health Experts Warn of Growing Ebola Risks in the Democratic Republic of Congo",
-        "publishedAt": "2026-06-13T23:20:29.395674Z",
-        "category": "public-health",
-        "summaryEn": "The Democratic Republic of Congo is facing a difficult Ebola outbreak that is worrying global health officials. Medical workers are struggling to contain the virus while lacking basic safety equipment. Experts warn that the current situation puts both patients and doctors at high risk. Recent reports highlight the fear and uncertainty felt by those living in affected areas. International health organizations are calling for more support to help stop the spread of the disease."
       }
     ]
   },
@@ -121,54 +98,54 @@
     {
       "id": "q1",
       "type": "detail",
-      "question": "According to the article, what is the primary reason why the percentage of successful contact tracing has recently decreased?",
+      "question": "According to the reports from June 2026, what was the status of the Ebola outbreak one month after the virus was first identified?",
       "options": {
-        "A": "There are not enough volunteers to go door to door in cities like Bunia.",
-        "B": "The region's difficult geography and history of armed conflict hinder movement.",
-        "C": "The Bundibugyo virus spreads much faster than the previously known Zaire virus.",
-        "D": "Medical teams are prioritizing the distribution of PPE over tracking infected individuals."
+        "A": "The number of infections had reached a total of 782.",
+        "B": "Medical teams had finally secured enough protective equipment.",
+        "C": "Dr. Peter Stafford had already returned home to recover.",
+        "D": "The local community had fully embraced the medical centers."
       },
-      "correct": "B",
-      "explanationZh": "正確答案為 B。文章第三段明確指出，接觸者追蹤的任務因該地區的地理環境（茂密森林、道路崎嶇）以及長期的武裝衝突導致居民流離失所，使得追蹤工作變得極度困難。選項 A 雖然提到志工面臨阻力，但並非追蹤率下降的主因；選項 C 雖然提到病毒類型，但未將其與追蹤率下降直接連結；選項 D 則是混淆了醫療設施壓力與追蹤工作的挑戰。"
+      "correct": "A",
+      "explanationZh": "正確答案為 A。根據文章第二段，報告明確指出在病毒被識別後的一個月內，感染人數已上升至 782 人。選項 B 錯誤，因為文章提到醫療團隊面臨嚴重物資短缺；選項 C 錯誤，因為文中未說明 Dr. Stafford 回國的確切時間點與該數據的關聯；選項 D 錯誤，因為文章提到當地社區仍存在恐懼，導致人們避免尋求協助。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "Based on the information provided, what can be inferred about the official death toll of 181?",
+      "question": "What can be inferred about the impact of community fear on the Ebola response efforts?",
       "options": {
-        "A": "It is likely an accurate reflection of the total number of people who have died from the virus.",
-        "B": "It represents only a small fraction of the total infections currently in the region.",
-        "C": "It is likely an underestimation of the actual number of fatalities caused by the outbreak.",
-        "D": "It includes deaths that occurred during the weeks before the virus was officially identified."
+        "A": "It has led to a decrease in the number of international volunteers.",
+        "B": "It prevents health workers from accurately monitoring the virus's spread.",
+        "C": "It has caused the government to close down all local medical clinics.",
+        "D": "It is the primary reason why Dr. Stafford contracted the virus."
       },
-      "correct": "C",
-      "explanationZh": "正確答案為 C。文章第二段提到，由於病毒在官方確認前已傳播數週，且許多偏遠村莊與擁擠郊區的死亡案例未被記錄，專家警告實際危機規模遠高於官方數據。因此，我們可以推論 181 這個數字很可能低估了實際死亡人數。選項 A 與推論矛盾；選項 B 雖然數字可能不準，但重點在於死亡人數而非感染人數；選項 D 雖然提到病毒傳播時間，但文中並未指出這 181 人包含那些未被發現的早期死亡個案。"
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段與第四段，當地民眾因為恐懼而避開醫療中心，這使得衛生工作者難以追蹤病毒路徑並阻止其擴散。選項 A 文中未提及志工減少；選項 C 錯誤，因為文章並未提到診所關閉；選項 D 錯誤，文中僅提到 Dr. Stafford 在執行任務時感染，並未歸咎於社區恐懼。此推論結合了社區反應與防疫工作的困難度。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the final paragraph, what does the phrase 'a difficult race against time' imply about the current situation?",
+      "question": "In the fourth paragraph, what is the best meaning of the word 'mixed' as used in the phrase 'the community response has been mixed'?",
       "options": {
-        "A": "Medical professionals are competing in a formal athletic event to raise funds.",
-        "B": "The virus is spreading so rapidly that containment efforts must be extremely urgent.",
-        "C": "Scientists are racing to develop a vaccine before the virus crosses the border.",
-        "D": "Local communities are moving too quickly for health workers to provide them with medicine."
+        "A": "Confused and disorganized.",
+        "B": "Inconsistent or containing different reactions.",
+        "C": "Violent and aggressive.",
+        "D": "Positive and welcoming."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。這裡的「race against time」是一個慣用語，意指必須在極短時間內完成某事以防止負面後果發生。文章指出病毒正在擴散，且醫療團隊反應速度趕不上疫情，因此這場「與時間的賽跑」強調了控制疫情的急迫性。選項 A 誤解了比喻用法；選項 C 雖有提到疫苗，但並非文中所述的唯一重點；選項 D 則曲解了文中關於民眾移動與追蹤困難的描述。"
+      "explanationZh": "正確答案為 B。在文中，作者提到有些人尋求治療，但有些人因為擔心而避開診所，這顯示出社區反應並不一致，因此 'mixed' 在此處意指「反應不一的」。選項 A 不精確，因為反應並非單純的混亂；選項 C 過於誇大，文中未提及暴力；選項 D 僅涵蓋了部分事實，忽略了那些避開醫療的人。此詞彙在此處描述了民眾態度上的分歧。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "Which of the following best summarizes the main message of the article?",
+      "question": "What is the central message of the article regarding the Ebola crisis in the Congo?",
       "options": {
-        "A": "The Ebola outbreak in Congo is primarily a result of the lack of international medical donations.",
-        "B": "The Bundibugyo virus is significantly more deadly than the Zaire virus due to the lack of a vaccine.",
-        "C": "The Ebola crisis in Congo is complex, requiring more than just medical supplies to effectively contain.",
-        "D": "The Congolese government has failed to manage the outbreak because they ignored the virus for too long."
+        "A": "The recovery of individual doctors is the only sign of progress in the region.",
+        "B": "The Ebola virus is no longer a major concern for global health organizations.",
+        "C": "Ending the outbreak requires both medical resources and building trust within the local community.",
+        "D": "The creation of new research offices like ORIVA has already ended the Ebola crisis."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。本文全面探討了伊波拉疫情的挑戰，包括地理因素、衝突、疫苗缺乏、以及民眾信任問題。最後一段總結指出，對抗伊波拉不僅是醫藥問題，還涉及接觸偏遠地區、贏得信任及確保安全工具，這反映了文章的核心主旨。選項 A 過度簡化；選項 B 僅針對病毒特性，未涵蓋全文；選項 D 對政府的批評並非文章的核心論點。"
+      "explanationZh": "正確答案為 C。文章的核心在於探討防疫的複雜性，強調除了醫療設備與資源，建立與當地民眾的互信以確保防疫工作順利進行至關重要。選項 A 過於狹隘，個人康復只是小插曲；選項 B 與事實相反，文章開頭即強調這是重大關切；選項 D 錯誤，文中提到 ORIVA 是全球研究的進展，但並未宣稱已解決危機。這總結了文章第四段與第五段的論點。"
     }
   ],
   "aiGenerated": true,

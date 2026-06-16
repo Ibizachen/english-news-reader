@@ -1,72 +1,83 @@
 {
   "id": "2026-06-16-bank-of-japan-raises-interest-rates",
   "slug": "bank-of-japan-raises-interest-rates-jun-2026",
-  "publishedAt": "2026-06-16T22:14:02.848483Z",
+  "publishedAt": "2026-06-16T23:46:56.919440Z",
   "category": "economics",
-  "title": "Bank of Japan Raises Interest Rates to 31-Year High",
-  "subtitle": "The central bank takes action to manage inflation as global tensions begin to ease.",
+  "title": "Bank of Japan Raises Interest Rates to Highest Level in 31 Years",
+  "subtitle": "The central bank moves toward normal policy as it balances inflation concerns with economic growth.",
   "summary": {
-    "en": "The Bank of Japan has increased its short-term interest rate to 1%, the highest level since 1995. This decision aims to control inflation caused by rising energy costs during the recent conflict in the Middle East. Although oil prices have recently fallen due to a new peace deal, the bank remains cautious about price stability. Officials believe the risk of a major economic decline has decreased. Meanwhile, Japan's stock market reached a new record high following the announcement.",
-    "zh": "日本銀行已將短期利率調升至百分之一，創下自一九九五年以來的新高。此決策旨在控制近期中東衝突期間因能源成本上漲所引發的通貨膨脹。儘管油價因新的和平協議而下跌，銀行對物價穩定仍持謹慎態度。官員認為經濟大幅衰退的風險已降低。與此同時，日本股市在消息宣布後創下歷史新高。"
+    "en": "The Bank of Japan has increased its main interest rate to 1%, reaching a level not seen since 1995. This decision is part of a move to return to normal monetary policy after decades of low rates. Policymakers are responding to rising energy costs and broader inflation across the country. While the bank aims to control prices, it must also consider the impact on businesses and government borrowing. Markets reacted positively, with the Nikkei stock index reaching a new record high.",
+    "zh": "日本銀行已將主要利率調升至百分之一，達到一九九五年以來未見的水準。這項決策是該國在經歷數十年低利率後，回歸正常貨幣政策的一環。決策官員正針對能源成本上漲及全國範圍的通膨做出回應。儘管央行旨在控制物價，但也必須考量對企業與政府借貸的影響。市場對此反應正面，日經股價指數創下歷史新高。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "The Bank of Japan (BoJ) has officially raised its short-term interest rates to 1%, marking the highest level in 31 years. This decision represents a significant change in how the country manages its money. By raising rates—the cost of borrowing money from a bank—the BoJ hopes to control inflation, which is the rate at which the prices of goods and services increase over time.",
-      "zh": "日本銀行（Bank of Japan）已正式將短期利率調升至百分之一，創下三十一年來的新高。這項決策代表該國貨幣政策的重大轉變。透過調升利率（即向銀行借貸的成本），日本銀行希望藉此控制通貨膨脹，也就是商品與服務價格隨時間上漲的速度。"
+      "en": "The Bank of Japan (BOJ) has officially raised its main interest rate to 1%, marking the highest level for the country in 31 years. This decision, announced this week, moves the rate up from 0.75%. It represents a significant change for Japan, which kept interest rates near zero for two decades to help the economy recover from a long period of falling prices, known as deflation. By raising rates, the central bank is making it more expensive to borrow money, which is a tool used to slow down rising prices, or inflation.",
+      "zh": "日本銀行（Bank of Japan，簡稱日銀）已正式將主要利率調升至百分之一，創下該國三十一年來的新高。這項於本週宣布的決策，將利率從百分之零點七五調升。對於長期為了協助經濟從通貨緊縮（即物價長期下跌）的泥淖中復甦，而將利率維持在近乎零水準長達二十年的日本而言，這代表了一項重大轉變。透過升息，中央銀行提高了借貸成本，這是用來抑制物價上漲（即通貨膨脹）的一種手段。"
     },
     {
       "id": "p2",
-      "en": "According to The Guardian, the decision to raise rates from 0.75% to 1% was made to address rising costs caused by the conflict in the Middle East. While the price of oil has started to fall recently because the United States and Iran have agreed on a peace deal, the BoJ remains careful. Shinichi Uchida, the governor of the central bank, spoke at a press conference in Tokyo. He welcomed the news of the peace agreement but noted that there is still uncertainty regarding how quickly oil supplies will return to normal levels.",
-      "zh": "根據《衛報》（The Guardian）報導，此次將利率從百分之零點七五調升至百分之一的決策，是為了因應中東衝突所導致的成本攀升。儘管近期因美國與伊朗達成和平協議，油價已開始下跌，但日本銀行仍保持謹慎。日本銀行總裁內田真一（Shinichi Uchida）在東京的記者會上表示，他樂見這項和平協議，但也指出石油供應恢復正常的速度仍存在不確定性。"
+      "en": "According to the BBC, this latest increase is part of a gradual shift that began in March 2024. For many years, Japan used \"emergency\" monetary policies to support its economy. However, economist Jesper Koll told the BBC that Japan is now in an \"inflationary upcycle,\" meaning prices are rising steadily. Because of this, the BOJ believes it is time to return to a more normal way of managing the economy. The bank has been under pressure to act because the cost of energy, such as oil and gas, has increased significantly, partly due to the recent conflict between the US, Israel, and Iran.",
+      "zh": "根據英國廣播公司（BBC）報導，這次的升息是自二零二四年三月以來，逐步調整政策的一環。多年來，日本採取「緊急」貨幣政策來支撐經濟。然而，經濟學家傑斯帕·柯爾（Jesper Koll）向BBC表示，日本目前正處於「通膨上升週期」，意即物價正穩定上漲。因此，日銀認為現在是回歸更常態化經濟管理方式的時候了。由於能源成本（如石油與天然氣）顯著增加，部分原因歸咎於近期美國、以色列與伊朗之間的衝突，日銀一直面臨採取行動的壓力。"
     },
     {
       "id": "p3",
-      "en": "For many years, Japan struggled with deflation, a situation where prices for goods fall over a long period, which can hurt economic growth. To fight this, the BoJ previously used a negative interest rate policy. This meant that banks were essentially paid to keep money with the central bank, encouraging them to lend more to people and businesses. However, the current economic environment is very different. The BoJ now believes that the risk of a sharp economic decline has decreased, partly because of government support packages designed to help families pay for expensive fuel.",
-      "zh": "多年來，日本一直苦於通貨緊縮，即商品價格長期下跌，這會損害經濟成長。為了對抗此現象，日本銀行先前採取了負利率政策。這意味著銀行將資金存放在中央銀行反而能獲得報酬，藉此鼓勵銀行向民眾與企業提供更多貸款。然而，當前的經濟環境已大不相同。日本銀行目前認為，經濟急劇衰退的風險已經降低，部分原因在於政府推出了旨在協助家庭負擔昂貴燃料費用的補助方案。"
+      "en": "Despite these challenges, the situation is complex. The Guardian reports that Japan’s annual core inflation actually fell to a four-year low of 1.4% in April, which is below the bank's target of 2%. However, the BOJ remains concerned that \"underlying inflation\"—the long-term trend of price increases—could eventually rise above that target. Shinichi Uchida, a central bank official, explained at a press conference that while the risk of a sharp economic decline has decreased, price increases are spreading across different parts of the economy. He noted that it is important for the bank to ensure it reaches its 2% target in a stable way.",
+      "zh": "儘管面臨這些挑戰，情況依然複雜。《衛報》（The Guardian）報導指出，日本四月份的核心通膨年率實際上降至百分之一點四的四年低點，低於央行百分之二的目標。然而，日銀仍擔心「潛在通膨」——即物價上漲的長期趨勢——最終可能會超過該目標。央行官員內田真一（Shinichi Uchida）在記者會上解釋，雖然經濟急劇下滑的風險已經降低，但物價上漲正擴散至經濟的不同領域。他指出，央行確保以穩定的方式達成百分之二的目標至關重要。"
     },
     {
       "id": "p4",
-      "en": "Despite the increase in borrowing costs, the reaction from the financial world has been positive. The Guardian reports that Japan’s stock market, known as the Nikkei share index, reached a record high of 70,000 points on the day of the announcement. The index has grown significantly this year, showing that investors feel confident about the future of the Japanese economy. Susannah Streeter, a strategist at Wealth Club, mentioned that the rate hike was expected by most experts. She explained that while this is a major step for Japan, it was not as aggressive as some people had feared.",
-      "zh": "儘管借貸成本增加，金融界的反應卻相當正面。《衛報》報導指出，日本股市（即日經股價指數）在消息宣布當天創下七萬點的歷史新高。該指數今年大幅成長，顯示投資人對日本經濟的未來深具信心。財富俱樂部（Wealth Club）的策略師蘇珊娜·斯特里特（Susannah Streeter）提到，大多數專家都預期會升息。她解釋說，雖然這對日本而言是一大步，但並未如部分人士擔憂的那樣激進。"
+      "en": "There are different views on how this policy will affect the country. The BOJ faces a difficult trade-off. While higher interest rates can help lower inflation, they also make it more expensive for the government and private companies to borrow money. This could potentially slow down business growth. However, some experts believe the move is necessary to strengthen the yen, the Japanese currency. University of California San Diego professor Ulrike Schaede told the BBC that there has been a feeling that the yen was too cheap and that increasing its value would not hurt the economy.",
+      "zh": "對於這項政策將如何影響國家，各界看法不一。日銀面臨著艱難的權衡。雖然升息有助於降低通膨，但也會增加政府與民間企業的借貸成本，這可能會拖累企業成長。不過，部分專家認為此舉對於強化日圓匯率有其必要性。加州大學聖地牙哥分校教授烏爾莉克·沙德（Ulrike Schaede）告訴BBC，市場一直有一種日圓過於廉價的感受，且提升日圓價值並不會傷害經濟。"
     },
     {
       "id": "p5",
-      "en": "This move by the BoJ makes Japan the second G7 country to raise interest rates since the start of the conflict in the Middle East. The G7 is a group of seven of the world's largest developed economies. The European Central Bank recently raised its own rates as well. In contrast, other major institutions like the US Federal Reserve and the Bank of England are expected to keep their rates the same for the time being.",
-      "zh": "日本銀行的這項舉措，使其成為中東衝突爆發以來，七大工業國組織（G7）中第二個調升利率的國家。七大工業國組織是由全球七個主要已開發經濟體組成的團體。歐洲中央銀行（European Central Bank）近期也調升了利率。相較之下，美國聯準會（US Federal Reserve）與英國央行（Bank of England）等其他主要機構，預計暫時將維持利率不變。"
+      "en": "Government leaders have also been involved in the discussion. Prime Minister Sanae Takaichi has previously expressed doubt about raising rates, as she prefers policies that boost spending. However, she has not publicly criticized the BOJ’s recent actions. The government has also introduced relief packages to help households manage the high costs of fuel, which the BOJ says has helped lower the risk of a major economic crisis caused by the conflict in the Middle East.",
+      "zh": "政府領導階層也參與了相關討論。首相高市早苗（Sanae Takaichi）先前曾對升息表達疑慮，因為她傾向採取能促進消費的政策。不過，她並未公開批評日銀近期的行動。政府也推出了紓困方案以協助家庭應對高昂的燃料成本，日銀表示，這有助於降低中東衝突所引發的重大經濟危機風險。"
     },
     {
       "id": "p6",
-      "en": "Looking ahead, the Bank of Japan faces the challenge of keeping inflation near its 2% target. Governor Uchida explained that price increases are spreading across the economy, and the bank wants to ensure that this trend stays stable. While the country has moved far away from the deflationary problems of the past, the central bank is now focused on preventing the economy from overheating. By carefully adjusting interest rates, the BoJ hopes to balance the need for growth with the need to keep prices affordable for everyone in Japan.",
-      "zh": "展望未來，日本銀行面臨著將通貨膨脹率維持在百分之二目標附近的挑戰。內田總裁解釋，物價上漲正擴散至整個經濟體，而銀行希望確保此趨勢保持穩定。雖然日本已遠離過去的通貨緊縮困境，但中央銀行目前正致力於防止經濟過熱。透過審慎調整利率，日本銀行希望能平衡經濟成長的需求，並確保日本民眾能負擔物價。"
+      "en": "Market reaction to the news has been notable. The Guardian reports that Tokyo’s stock market hit a record high, with the Nikkei share index reaching 70,000 points for the first time. This suggests that investors are generally confident in the current direction of the economy. The Nikkei has grown by one-third so far this year, showing strong momentum despite the changes in interest rate policy.",
+      "zh": "市場對此消息的反應相當顯著。《衛報》報導，東京股市創下歷史新高，日經股價指數首次達到七萬點。這顯示投資人對當前的經濟走向普遍抱持信心。日經指數今年以來已成長三分之一，顯示儘管利率政策有所變動，市場仍具備強勁動能。"
+    },
+    {
+      "id": "p7",
+      "en": "Looking ahead, the BOJ will continue to monitor the global situation. While the recent agreement between the US and Iran to end their conflict is a positive sign, the bank remains cautious about how quickly global oil supplies will return to normal. The BOJ governor, Kazuo Ueda, has been absent from recent meetings due to health reasons, but other policymakers have maintained a positive stance on the need for higher rates. As the country moves away from its long history of near-zero interest rates, the central bank will have to carefully balance the need to control inflation with the need to keep the economy growing. For now, the focus remains on achieving stable, long-term economic health.",
+      "zh": "展望未來，日銀將持續監控全球局勢。雖然美國與伊朗近期達成終止衝突的協議是一個正面訊號，但央行對於全球石油供應恢復正常的速度仍持謹慎態度。日銀總裁植田和男（Kazuo Ueda）因健康因素缺席了近期的會議，但其他決策官員對於升息的必要性仍維持正面立場。隨著日本告別長期近乎零利率的歷史，中央銀行必須謹慎平衡控制通膨與維持經濟成長的需求。目前，焦點仍放在達成穩定且長期的經濟健全發展上。"
     }
   ],
-  "wordCount": 612,
+  "wordCount": 712,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
-      "term": "manage",
-      "definitionEn": "To control or handle the operation of a system or resource.",
-      "definitionZh": "管理、處理、運用（資源或系統）。",
-      "partOfSpeech": "verb",
-      "noteZh": "常見作「設法做到」，這裡指對國家經濟資源的調控。文中：This decision represents a significant change in how the country manages its money."
+      "term": "under",
+      "definitionEn": "Subject to or controlled by a specific condition or pressure.",
+      "definitionZh": "處於（某種狀態或壓力）之下。",
+      "partOfSpeech": "preposition (idiomatic)",
+      "noteZh": "這裡並非指物理上的「在下方」，而是指承受某種壓力。文中：The bank has been under pressure to act because the cost of energy, such as oil and gas, has increased significantly, partly due to the recent conflict between the US, Israel, and Iran."
     },
     {
-      "term": "overheating",
-      "definitionEn": "In economics, when an economy grows too quickly, leading to high inflation.",
-      "definitionZh": "（經濟）過熱，指經濟發展過快導致通貨膨脹風險。 ",
-      "partOfSpeech": "verb (present participle)",
-      "noteZh": "常見於描述機器過熱，這裡指經濟狀態。文中：the central bank is now focused on preventing the economy from overheating."
+      "term": "move",
+      "definitionEn": "An action taken to achieve a specific goal or result.",
+      "definitionZh": "行動、舉措。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（移動），這裡作名詞，指政策上的決策或行動。文中：However, some experts believe the move is necessary to strengthen the yen, the Japanese currency."
     },
     {
-      "term": "for the time being",
-      "definitionEn": "For a short period of time, but not permanently.",
-      "definitionZh": "暫時、目前。",
-      "partOfSpeech": "idiom",
-      "noteZh": "這是一個固定片語，字面意思容易誤導，指「當下這段時間」。文中：other major institutions like the US Federal Reserve and the Bank of England are expected to keep their rates the same for the time being."
+      "term": "stance",
+      "definitionEn": "A publicly stated opinion or attitude about a particular subject.",
+      "definitionZh": "立場、態度。",
+      "partOfSpeech": "noun",
+      "noteZh": "容易與 physical posture（姿勢）混淆，這裡指對政策的態度。文中：other policymakers have maintained a positive stance on the need for higher rates."
     }
   ],
   "sources": [
+    {
+      "name": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&at_campaign=rss",
+      "title": "Japan raises interest rate to highest for 31 years",
+      "publishedAt": "2026-06-16T08:26:30Z"
+    },
     {
       "name": "The Guardian World",
       "url": "https://www.theguardian.com/business/2026/jun/16/bank-of-japan-raises-interest-rates-iran-war-inflation-us-fed-bank-of-england",
@@ -76,61 +87,69 @@
   ],
   "story": {
     "id": "bank-of-japan-raises-interest-rates",
-    "type": "standalone",
-    "previousArticles": []
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "bank-of-japan-raises-interest-rates-jun-2026",
+        "title": "Bank of Japan Raises Interest Rates to 31-Year High",
+        "publishedAt": "2026-06-16T22:14:02.848483Z",
+        "category": "economics",
+        "summaryEn": "The Bank of Japan has increased its short-term interest rate to 1%, the highest level since 1995. This decision aims to control inflation caused by rising energy costs during the recent conflict in the Middle East. Although oil prices have recently fallen due to a new peace deal, the bank remains cautious about price stability. Officials believe the risk of a major economic decline has decreased. Meanwhile, Japan's stock market reached a new record high following the announcement."
+      }
+    ]
   },
   "quiz": [
     {
       "id": "q1",
       "type": "detail",
-      "question": "What reason does the article provide for the Bank of Japan's decision to raise interest rates?",
+      "question": "What is the primary reason the Bank of Japan is concerned about inflation despite the recent drop in core inflation to 1.4%?",
       "options": {
-        "A": "To encourage banks to lend more money to businesses.",
-        "B": "To manage the rising costs resulting from the conflict in the Middle East.",
-        "C": "To help the Nikkei share index reach a record high of 70,000 points.",
-        "D": "To immediately lower the price of oil worldwide."
+        "A": "The government is forcing the bank to raise rates to pay off national debt.",
+        "B": "They fear that the 'underlying inflation' trend could eventually exceed their 2% target.",
+        "C": "They believe that the current 1.4% rate is already too high for the Japanese economy.",
+        "D": "The bank is responding to the immediate collapse of the Tokyo stock market."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。根據文章第二段，日本央行提高利率是為了應對中東衝突所導致的物價上漲。選項 A 是過去實施負利率政策的目的，而非本次升息的原因。選項 C 雖提到了日經指數創新高，但這是升息後的市場反應，而非升息的動機。選項 D 錯誤，因為文章提到油價下跌是因為和平協議，而非日本升息的直接結果。"
+      "explanationZh": "正確答案為 B。根據文章第三段，儘管核心通膨率降至 1.4%，低於 2% 的目標，但日本央行仍擔心「潛在通膨」（underlying inflation）的長期趨勢可能會超過該目標。選項 A 文中未提及。選項 C 與文章內容相反，因為 1.4% 低於 2% 目標。選項 D 錯誤，因為文章第六段提到東京股市反而達到了歷史新高，而非崩盤。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "What can be inferred about the Bank of Japan's current view on the Japanese economy compared to the past?",
+      "question": "Based on the information provided, what can be inferred about the relationship between interest rates and the value of the yen?",
       "options": {
-        "A": "They believe the economy is still in danger of a long-term deflationary period.",
-        "B": "They are more concerned about the economy overheating than about falling prices.",
-        "C": "They no longer believe that government support packages are necessary for families.",
-        "D": "They have decided to follow the same interest rate path as the US Federal Reserve."
+        "A": "Higher interest rates are expected to make the yen weaker.",
+        "B": "The government believes that a cheaper yen is essential for economic recovery.",
+        "C": "Increasing interest rates is viewed by some experts as a way to strengthen the yen.",
+        "D": "The yen's value is completely independent of the central bank's interest rate decisions."
       },
-      "correct": "B",
-      "explanationZh": "正確答案為 B。文章最後一段提到日本已遠離過去的通貨緊縮問題，現在的重點在於防止經濟「過熱」（overheating），這暗示央行目前的擔憂已從「價格過低」轉向「價格成長過快」。選項 A 與文章論點相反。選項 C 錯誤，因為文章提到政府補助是經濟風險降低的原因之一，並未說不再需要。選項 D 錯誤，文章第五段明確指出美國聯準會與日本央行的利率政策方向不同。"
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第四段，教授 Ulrike Schaede 指出，有些人認為提高利率是必要的，因為這有助於增強日圓的價值。選項 A 與推論相反，提高利率通常會吸引資金流入，進而增強貨幣。選項 B 與文中提到「日圓過於便宜」的觀點矛盾。選項 D 錯誤，因為文章明確連結了利率政策與貨幣價值之間的關係。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the final paragraph, what does the phrase 'overheating' mean in the context of the economy?",
+      "question": "In the fourth paragraph, what does the word 'trade-off' mean as it is used in the context of the BOJ's policy?",
       "options": {
-        "A": "A state where the economy grows too quickly, leading to unsustainable price increases.",
-        "B": "A physical condition where the central bank's machinery becomes too hot.",
-        "C": "A situation where the government provides too much fuel to families.",
-        "D": "A period where interest rates are kept at a negative level for too long."
+        "A": "A situation where you must choose between two things that cannot both be achieved.",
+        "B": "A formal agreement to exchange goods between two different countries.",
+        "C": "A sudden drop in the quality of a product or service.",
+        "D": "A method of calculating the total cost of business loans."
       },
       "correct": "A",
-      "explanationZh": "正確答案為 A。在經濟學語境中，overheating 指的是經濟成長過快，導致需求超過供給，進而引發通貨膨脹，這與文章提到央行希望將通膨維持在 2% 目標的背景相符。選項 B 是字面上的誤解。選項 C 與文章提到的政府補助無關。選項 D 則是描述過去的政策，而非 overheating 的定義。"
+      "explanationZh": "正確答案為 A。「Trade-off」意指「權衡」或「取捨」，即為了獲得某種好處而必須放棄另一種東西。文中提到央行面臨困難的權衡：升息有助於抑制通膨，但同時會增加借貸成本並可能拖累經濟成長，兩者難以兼得。選項 B、C、D 皆非此單字在經濟語境下的正確含義。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "What is the primary message of this article?",
+      "question": "What is the central message of this article regarding the Bank of Japan's recent actions?",
       "options": {
-        "A": "The Bank of Japan is struggling to fix the damage caused by the Nikkei index crash.",
-        "B": "Global conflicts have made it impossible for any country to control inflation.",
-        "C": "Japan is adjusting its monetary policy to balance economic growth with stable prices.",
-        "D": "The Middle East conflict is the only factor influencing the global economy today."
+        "A": "The Japanese economy is entering a major crisis due to the conflict in the Middle East.",
+        "B": "The BOJ is successfully ending inflation by keeping interest rates at zero.",
+        "C": "The BOJ is cautiously shifting away from long-term emergency policies to normalize the economy.",
+        "D": "Prime Minister Sanae Takaichi has taken full control of the central bank's interest rate decisions."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。全文核心在於探討日本央行如何透過升息來應對當前的經濟局勢，並試圖在促進成長與控制通膨之間取得平衡。選項 A 與事實不符，日經指數是創新高而非崩盤。選項 B 過於誇大，文章並未表示無法控制通膨。選項 D 錯誤，文章雖提到中東衝突，但也提到了政府政策與國內經濟狀況等其他因素。"
+      "explanationZh": "正確答案為 C。文章的核心在於描述日本央行如何結束長達二十年的近零利率政策，轉向更正常的經濟管理方式，以應對通膨趨勢。選項 A 誇大了危機感，文中提到政府有紓困措施。選項 B 錯誤，因為央行正是透過「升息」而非「維持零利率」來應對通膨。選項 D 錯誤，文中指出總理雖有意見，但並未批評央行行動，更未顯示其掌控央行決策。"
     }
   ],
   "aiGenerated": true,
