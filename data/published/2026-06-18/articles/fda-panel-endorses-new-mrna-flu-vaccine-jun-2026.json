@@ -1,141 +1,178 @@
 {
   "id": "2026-06-18-fda-panel-endorses-new-mrna-flu-vaccine",
   "slug": "fda-panel-endorses-new-mrna-flu-vaccine-jun-2026",
-  "publishedAt": "2026-06-18T22:14:09.695899Z",
+  "publishedAt": "2026-06-18T23:59:41.389177Z",
   "category": "health",
-  "title": "New mRNA Flu Vaccine Faces Key Review by US Health Experts",
-  "subtitle": "A new vaccine technology used during the Covid-19 pandemic could soon help protect older adults from the flu.",
+  "title": "FDA Panel Backs New mRNA Flu Vaccine After Recent Controversy",
+  "subtitle": "Experts vote unanimously to support a new shot that could change how we fight seasonal influenza.",
   "summary": {
-    "en": "US health advisers are meeting to discuss a new mRNA flu vaccine developed by Moderna. This vaccine is intended for people aged 50 and older to help reduce flu-related illnesses. While mRNA technology is known for its speed in production, the vaccine has faced some challenges during the approval process. The FDA has reviewed the data and found no major safety concerns so far. Experts will now decide if this new option is ready for the upcoming winter season.",
-    "zh": "美國衛生顧問正齊聚討論由莫德納開發的新型 mRNA 流感疫苗。此疫苗旨在為五十歲及以上的人群提供保護，以協助減少流感相關疾病。儘管 mRNA 技術以生產速度快著稱，但該疫苗在審批過程中面臨了一些挑戰。美國食品藥物管理局已審查相關數據，目前未發現重大安全疑慮。專家們現在將決定這項新選擇是否已準備好迎接即將到來的冬季。"
+    "en": "An independent advisory panel for the FDA has voted to support Moderna’s new mRNA flu vaccine. The decision follows a period of disagreement within the agency regarding the review process. Data shows the vaccine is more effective than standard shots for adults over 50. Experts believe the mRNA platform will help the country respond faster to future virus strains. The FDA will now make a final decision on whether to approve the product for public use.",
+    "zh": "一個獨立的 FDA 諮詢小組已投票支持莫德納的新型 mRNA 流感疫苗。此決定是在該機構內部針對審查程序出現分歧後所做出的。數據顯示，該疫苗對 50 歲以上成年人的效力優於標準疫苗。專家認為，mRNA 平台將有助於國家更快速地應對未來的病毒株。FDA 接下來將針對是否核准該產品供公眾使用做出最終決定。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "US health experts are meeting this week to discuss a new type of flu vaccine. This vaccine is the first of its kind to use mRNA technology, the same method that was very important in ending the Covid-19 pandemic. The company Moderna is asking the Food and Drug Administration (FDA) for approval to offer this shot, called mFlusiva, to people aged 50 and older. This meeting is a major step toward a final decision before the winter flu season begins.",
-      "zh": "美國衛生專家本週齊聚一堂，討論一款新型流感疫苗。這款疫苗是首個採用信使核糖核酸（mRNA）技術的流感疫苗，該技術在終結新冠肺炎疫情中發揮了至關重要的作用。莫德納（Moderna）公司正向美國食品藥物管理局（FDA）申請批准，計畫為五十歲及以上的民眾提供這款名為 mFlusiva 的疫苗。此次會議是疫苗在冬季流感季節開始前，邁向最終決策的重要一步。"
+      "en": "A group of independent health experts has voted to support a new flu vaccine created by Moderna. On Thursday, the Vaccines and Related Biological Products Advisory Committee (VRBPAC) held an all-day meeting to review the vaccine, which is known as mFlusiva. The committee voted 9–0 to endorse the vaccine, stating that its benefits for adults aged 50 and older are greater than its potential risks.",
+      "zh": "一群獨立健康專家投票支持莫德納（Moderna）研發的新型流感疫苗。週四，疫苗與相關生物製品諮詢委員會（VRBPAC）召開了一整天的會議，審查這款名為 mFlusiva 的疫苗。委員會以 9 票對 0 票通過背書，指出該疫苗對 50 歲及以上成年人的益處大於潛在風險。"
     },
     {
       "id": "p2",
-      "en": "Influenza, commonly known as the flu, is a serious illness that causes tens of thousands of deaths in the United States every year. Older adults are among those most at risk of becoming very sick. While there are already several flu vaccines available in the US, including three specifically for people 65 and older, this new mRNA version offers a different approach. According to The Guardian Health, mRNA technology is faster to manufacture than older types of vaccines. Experts believe this speed is a significant advantage because the flu virus often changes its shape, or mutates, which sometimes requires scientists to quickly create new doses to match the current virus.",
-      "zh": "流感是一種嚴重的疾病，每年在美國造成數萬人死亡。老年人是罹患重症風險最高的族群之一。儘管美國市面上已有數款流感疫苗，包括三款專為六十五歲及以上長者設計的疫苗，但這款新型 mRNA 疫苗提供了不同的防護途徑。根據《衛報健康》（The Guardian Health）報導，mRNA 技術的生產速度比傳統疫苗更快。專家認為，這種速度是一項顯著優勢，因為流感病毒經常變異，有時需要科學家迅速研發新劑量以應對當前的病毒株。"
+      "en": "This vote is a significant step for the vaccine, which recently faced a difficult path to review. Earlier this year, the Food and Drug Administration (FDA) briefly refused to accept the application for the vaccine. According to STAT News, a top official at the agency initially blocked the review, claiming that the company had not compared its vaccine against the best available options for older adults. However, the agency later changed its position after Moderna provided more data and agreed to perform further studies after the vaccine is released to the public.",
+      "zh": "這次投票對該疫苗而言是重要的一步，因為它近期在審查過程中面臨重重困難。今年稍早，美國食品藥物管理局（FDA）曾一度拒絕受理該疫苗的申請。根據 STAT 新聞報導，該機構的一位高層官員起初阻撓了審查，聲稱該公司未將其疫苗與現有針對老年人的最佳選擇進行比較。然而，在莫德納提供更多數據並同意在疫苗上市後進行後續研究後，該機構隨後改變了立場。"
     },
     {
       "id": "p3",
-      "en": "Moderna’s application is based on a large study involving 40,000 people aged 50 and older. The results showed that the mRNA vaccine reduced the number of flu cases by about 27% when compared to another common vaccine brand. Ahead of the meeting, the FDA published a positive review of this data and reported that there were no safety concerns. Moderna is currently seeking full approval for people aged 50 to 64, as well as authorization for those 65 and older while the company continues to collect more information.",
-      "zh": "莫德納的申請案是基於一項涵蓋四萬名五十歲及以上受試者的大型研究。結果顯示，與另一款常見的疫苗品牌相比，這款 mRNA 疫苗將流感病例數減少了約百分之二十七。在會議召開前，美國食品藥物管理局發布了對此數據的正面評估，並表示目前沒有安全疑慮。莫德納目前正為五十至六十四歲的族群尋求全面批准，同時也為六十五歲及以上的長者申請授權，並持續收集更多相關資訊。"
+      "en": "The vaccine uses mRNA technology, the same method used to create highly effective COVID-19 shots. While this technology is well-known, it has recently faced criticism from some government leaders. MedPage Today reports that Robert F. Kennedy Jr., the current Secretary of Health and Human Services, has previously expressed concerns about mRNA technology and even cancelled federal funding for related research. Despite this, the panel of experts highlighted the clear advantages of using this platform for seasonal flu protection.",
+      "zh": "該疫苗採用信使核糖核酸（mRNA）技術，這與研發高效能新冠肺炎疫苗的方法相同。儘管這項技術廣為人知，但近期卻面臨部分政府領導人的批評。MedPage Today 報導指出，現任衛生與公共服務部部長小羅伯特·甘迺迪（Robert F. Kennedy Jr.）過去曾對 mRNA 技術表達擔憂，甚至取消了相關研究的聯邦資金。儘管如此，專家小組仍強調了使用此平台進行季節性流感防護的顯著優勢。"
     },
     {
       "id": "p4",
-      "en": "The path to this meeting has not been simple. Earlier this year, the vaccine was at the center of a public disagreement. A top FDA official at the time, Dr. Vinay Prasad, blocked the company’s application. According to The Guardian Health, Dr. Prasad argued that Moderna should have compared its new shot to a high-dose flu vaccine already recommended for seniors, rather than a standard-dose brand. This event highlighted the increased level of scrutiny, or careful examination, that the FDA has been applying to vaccines under the leadership of health secretary Robert F. Kennedy Jr.",
-      "zh": "這場會議的召開過程並不順利。今年稍早，該疫苗曾引發公開爭議。當時的一位美國食品藥物管理局高層官員普拉薩德（Vinay Prasad）博士曾駁回了該公司的申請。根據《衛報健康》報導，普拉薩德博士認為，莫德納應該將其新疫苗與已建議長者施打的高劑量流感疫苗進行比較，而非與標準劑量品牌相比。此事件凸顯了在衛生部長小羅伯特·甘迺迪（Robert F. Kennedy Jr.）的領導下，美國食品藥物管理局對疫苗審查力度的加強。"
+      "en": "During the meeting, experts pointed to the vaccine’s strong performance in clinical trials. Data from a large study of over 40,000 adults aged 50 and older showed that the mRNA vaccine was about 27 percent more effective than standard flu shots. For those aged 65 and older, the results were even more promising. This group is particularly important because, according to CDC estimates cited by MedPage Today, people over 65 account for the majority of flu-related hospitalizations and deaths in the United States.",
+      "zh": "會議期間，專家們指出了該疫苗在臨床試驗中的強勁表現。一項針對超過 4 萬名 50 歲及以上成年人的大型研究數據顯示，mRNA 疫苗的效力比標準流感疫苗高出約 27%。對於 65 歲及以上的人群，結果更為樂觀。根據 MedPage Today 引述美國疾病管制與預防中心（CDC）的估計，這個族群尤為重要，因為 65 歲以上人口占了美國流感相關住院與死亡病例的大多數。"
     },
     {
       "id": "p5",
-      "en": "Moderna challenged that decision. The company pointed out that FDA staff had actually approved the design of the main study before it began. Moderna also cited a separate, smaller study that compared the mRNA shot with a high-dose vaccine for seniors. This smaller study found that the mRNA shot created flu-fighting antibodies—proteins in the blood that help the body defend against disease—at a similar level to the high-dose vaccine. Only a few days after this disagreement, the FDA accepted Moderna’s application for review.",
-      "zh": "莫德納對該決定提出異議。該公司指出，美國食品藥物管理局的工作人員在研究開始前，實際上已經批准了主要研究的設計方案。莫德納還引用了另一項規模較小、將 mRNA 疫苗與長者高劑量疫苗進行比較的獨立研究。這項小型研究發現，mRNA 疫苗產生的抗流感抗體（血液中協助身體抵禦疾病的蛋白質）水準與高劑量疫苗相當。在爭議發生僅幾天後，美國食品藥物管理局便接受了莫德納的申請並進行審查。"
+      "en": "Flor Munoz-Rivas, a member of the advisory committee and a pediatric infectious disease expert at Baylor College of Medicine, praised the study results. She noted that the data was very clear and showed that the vaccine provides meaningful extra protection. She also highlighted that the mRNA platform allows scientists to develop vaccines much faster. This speed is essential for preparing for new, emerging strains of the flu or even future pandemics, she explained.",
+      "zh": "諮詢委員會成員、貝勒醫學院（Baylor College of Medicine）的小兒傳染病專家芙洛·穆諾茲-里瓦斯（Flor Munoz-Rivas）對研究結果表示讚賞。她指出數據非常明確，顯示該疫苗提供了顯著的額外保護。她也強調，mRNA 平台讓科學家能更快速地研發疫苗。她解釋說，這種速度對於應對新興流感病毒株或未來的流行病至關重要。"
     },
     {
       "id": "p6",
-      "en": "Despite the positive data, the expert panel still has work to do. The FDA’s initial review noted that the new vaccine lacks information on very frail older adults and those with weak immune systems. These groups are often the most vulnerable to severe illness, so understanding how the vaccine works for them is important. The panel will now carefully assess both the large study and the smaller study to determine if the vaccine is ready for public use.",
-      "zh": "儘管數據正面，專家小組仍有工作要做。美國食品藥物管理局的初步審查指出，這款新疫苗缺乏針對極度虛弱的老年人以及免疫系統較弱者的相關資訊。這些族群往往最容易受到嚴重疾病的威脅，因此了解疫苗對他們的效用至關重要。專家小組現在將仔細評估大型與小型研究，以判定該疫苗是否已準備好投入公共使用。"
+      "en": "Other experts highlighted different benefits of the new technology. Hayley Gans, a doctor at Stanford Medicine Children's Health, noted that the vaccine appears to create a better T-cell response. T-cells are a vital part of the body’s immune system that help fight off infections. Gans explained that current flu vaccines often struggle to keep immunity levels high, but this new mRNA approach could offer longer-lasting protection.",
+      "zh": "其他專家則強調了這項新技術的其他益處。史丹佛醫學兒童健康中心（Stanford Medicine Children's Health）的醫師海莉·甘斯（Hayley Gans）指出，該疫苗似乎能產生更好的 T 細胞反應。T 細胞是人體免疫系統中對抗感染的重要部分。甘斯解釋說，目前的流感疫苗往往難以維持高水準的免疫力，但這種新的 mRNA 方法或許能提供更持久的保護。"
     },
     {
       "id": "p7",
-      "en": "If approved, this mRNA vaccine could become a new tool in the fight against the flu. By using technology that allows for faster production, health officials hope to be better prepared for the changing nature of the flu virus. For now, the focus remains on the upcoming meeting, where experts will weigh the benefits of this new technology against the need for more data on specific groups of patients. The final decision will be a key moment for public health as the country prepares for the challenges of the winter season.",
-      "zh": "若獲批准，這款 mRNA 疫苗可能成為對抗流感的新利器。透過採用能加速生產的技術，衛生官員希望能在應對流感病毒不斷變化的特性上做好更充分的準備。目前，焦點仍集中在即將召開的會議上，專家將權衡這項新技術的益處，以及針對特定患者群體獲取更多數據的必要性。隨著國家為冬季季節的挑戰做準備，最終的決定將成為公共衛生領域的關鍵時刻。"
+      "en": "Despite the positive vote, some members of the panel noted that the research had limitations. Adam Berger, a scientist from the National Institutes of Health, pointed out that the main study only looked at one flu season. He also noted that there is not yet enough data on how the vaccine works in people who are very frail or have weak immune systems. However, Berger concluded that the evidence was strong enough to suggest that the vaccine will be effective in the real world.",
+      "zh": "儘管投票結果正面，但部分委員會成員指出該研究存在局限性。美國國家衛生研究院（NIH）的科學家亞當·伯格（Adam Berger）指出，主要研究僅觀察了一個流感季節。他也提到，目前尚無足夠數據顯示該疫苗對身體極度虛弱或免疫系統較差的人群有何影響。不過，伯格總結認為，現有證據已足以證明該疫苗在現實世界中將會有效。"
+    },
+    {
+      "id": "p8",
+      "en": "Moderna is now seeking two types of approval from the FDA. For adults aged 50 to 64, the company is asking for traditional approval. For those 65 and older, they are seeking an accelerated approval — a process that allows for faster access to medicines that treat serious conditions. To support this, Moderna has promised to conduct a large, multi-year study to compare the vaccine’s effectiveness in the real world.",
+      "zh": "莫德納目前正向 FDA 尋求兩種類型的核准。針對 50 至 64 歲的成年人，該公司申請的是傳統核准；對於 65 歲及以上的人群，他們則尋求加速核准，這是一種能讓治療嚴重疾病的藥物更快上市的程序。為了支持這項申請，莫德納承諾將進行一項大型、多年期的研究，以比較該疫苗在現實世界中的效力。"
+    },
+    {
+      "id": "p9",
+      "en": "While the committee’s vote is not the final step, it is a major signal of support. The FDA usually follows the advice of its expert panels, though it is not required to do so. If the agency gives its final approval, it would mark a change in how the U.S. approaches annual flu prevention. As the country looks toward future flu seasons, this new technology could become a primary tool in protecting the health of older Americans.",
+      "zh": "雖然委員會的投票並非最終步驟，但這是一個強烈的支持訊號。FDA 通常會遵循其專家小組的建議，儘管並非強制要求。如果該機構給予最終核准，這將標誌著美國處理年度流感預防方式的轉變。隨著國家展望未來的流感季節，這項新技術可能成為保護美國老年人健康的主要工具。"
     }
   ],
-  "wordCount": 684,
+  "wordCount": 738,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
       "term": "blocked",
-      "definitionEn": "To stop or prevent something from moving forward or being approved.",
-      "definitionZh": "阻擋、阻止（計畫或申請案通過）。",
+      "definitionEn": "To stop or prevent something from happening or moving forward.",
+      "definitionZh": "阻礙、阻擋（計畫或進展）。",
       "partOfSpeech": "verb",
-      "noteZh": "常見作名詞（街區），這裡作動詞用。文中：A top FDA official at the time, Dr. Vinay Prasad, blocked the company’s application."
+      "noteZh": "常見作名詞（街區），這裡作動詞，指阻礙審查流程。文中：According to STAT News, a top official at the agency initially blocked the review, claiming that the company had not compared its vaccine against the best available options for older adults."
     },
     {
-      "term": "weigh",
-      "definitionEn": "To carefully consider or compare different factors before making a decision.",
-      "definitionZh": "權衡、仔細考慮（利弊）。",
-      "partOfSpeech": "verb",
-      "noteZh": "常見作名詞（重量），這裡作動詞用。文中：For now, the focus remains on the upcoming meeting, where experts will weigh the benefits of this new technology against the need for more data on specific groups of patients."
+      "term": "account for",
+      "definitionEn": "To make up a particular amount or proportion of something.",
+      "definitionZh": "佔（比例、數量）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這是一個常見的片語，容易被誤解為「解釋」。文中：This group is particularly important because, according to CDC estimates cited by MedPage Today, people over 65 account for the majority of flu-related hospitalizations and deaths in the United States."
     },
     {
-      "term": "shot",
-      "definitionEn": "An injection of a vaccine.",
-      "definitionZh": "注射、疫苗接種。",
-      "partOfSpeech": "noun",
-      "noteZh": "常見作動詞（射擊），這裡指疫苗注射。文中：The company Moderna is asking the Food and Drug Administration (FDA) for approval to offer this shot, called mFlusiva, to people aged 50 and older."
+      "term": "fight off",
+      "definitionEn": "To defend oneself against an illness or an attacker.",
+      "definitionZh": "抵抗、擊退（疾病或敵人）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這裡指免疫系統抵抗感染，而非字面上的「打架」。文中：T-cells are a vital part of the body’s immune system that help fight off infections."
+    },
+    {
+      "term": "mark",
+      "definitionEn": "To be a sign of an important stage or event.",
+      "definitionZh": "標誌著、象徵（某個階段或事件）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（記號），這裡作動詞，指某事象徵著改變。文中：If the agency gives its final approval, it would mark a change in how the U.S. approaches annual flu prevention."
     }
   ],
   "sources": [
     {
-      "name": "The Guardian Health",
-      "url": "https://www.theguardian.com/us-news/2026/jun/18/fda-flu-vaccine-mrna",
-      "title": "FDA panel considers a first-of-its-kind flu vaccine using mRNA technology",
-      "publishedAt": "2026-06-18T12:45:48Z"
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
+      "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
+      "publishedAt": "2026-06-18T22:08:59Z"
+    },
+    {
+      "name": "MedPage Today",
+      "url": "https://www.medpagetoday.com/infectiousdisease/uritheflu/121851",
+      "title": "FDA Panel Endorses New Flu Shot That Uses Tech Dissed by RFK Jr.",
+      "publishedAt": "2026-06-18T21:08:55Z"
+    },
+    {
+      "name": "STAT News",
+      "url": "https://www.statnews.com/2026/06/18/fda-mrna-flu-vaccine-vrbpac-advisers-endorse-moderna-shots/?utm_campaign=rss",
+      "title": "STAT+: FDA advisory panel endorses Moderna mRNA flu vaccine that was subject of controversy",
+      "publishedAt": "2026-06-18T20:26:25Z"
     }
   ],
   "story": {
     "id": "fda-panel-endorses-new-mrna-flu-vaccine",
-    "type": "standalone",
-    "previousArticles": []
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "fda-panel-endorses-new-mrna-flu-vaccine-jun-2026",
+        "title": "New mRNA Flu Vaccine Faces Key Review by US Health Experts",
+        "publishedAt": "2026-06-18T22:14:09.695899Z",
+        "category": "health",
+        "summaryEn": "US health advisers are meeting to discuss a new mRNA flu vaccine developed by Moderna. This vaccine is intended for people aged 50 and older to help reduce flu-related illnesses. While mRNA technology is known for its speed in production, the vaccine has faced some challenges during the approval process. The FDA has reviewed the data and found no major safety concerns so far. Experts will now decide if this new option is ready for the upcoming winter season."
+      }
+    ]
   },
   "quiz": [
     {
       "id": "q1",
       "type": "detail",
-      "question": "What was the primary reason Dr. Vinay Prasad initially blocked Moderna's vaccine application?",
+      "question": "What condition did the FDA set before ultimately agreeing to review Moderna's mFlusiva vaccine?",
       "options": {
-        "A": "The vaccine showed safety concerns during the 40,000-person study.",
-        "B": "He believed the vaccine should have been compared against a high-dose vaccine instead of a standard one.",
-        "C": "The FDA had not yet approved the design of the main study before it began.",
-        "D": "The vaccine was found to be less effective than existing vaccines for people over 65."
+        "A": "Moderna had to prove the vaccine was safer than COVID-19 mRNA shots.",
+        "B": "Moderna had to provide additional data and commit to post-release studies.",
+        "C": "Moderna had to lower the price of the vaccine for the elderly population.",
+        "D": "Moderna had to secure funding from the Department of Health and Human Services."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。根據文章第四段，Dr. Vinay Prasad 當時反對的原因是 Moderna 在研究中將其新疫苗與「標準劑量」疫苗相比，而非針對老年人建議使用的「高劑量」疫苗。選項 A 錯誤，因為 FDA 的評估報告顯示並無安全疑慮。選項 C 錯誤，因為文章第五段提到 FDA 事實上在研究開始前就已核准其設計。選項 D 錯誤，文章並未指出該疫苗成效較差，而是針對比較的基準點有爭議。"
+      "explanationZh": "正確答案為 B。根據文章第二段，FDA 起初拒絕審查是因為認為 Moderna 未將疫苗與市面上最好的選項進行比較，後來在 Moderna 提供更多數據並同意在疫苗上市後進行進一步研究後，FDA 才改變立場。選項 A 在文中未提及；選項 C 關於價格的內容文中未提及；選項 D 錯誤，因為文中提到該部門負責人甚至取消了相關研究經費，並非提供經費。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "Based on the text, why might the mRNA vaccine be particularly useful for managing the flu?",
+      "question": "Based on the information provided, why might the FDA grant 'accelerated approval' specifically to the 65 and older age group?",
       "options": {
-        "A": "It is the only vaccine that provides total immunity for people over 65.",
-        "B": "It is significantly cheaper to produce than traditional flu vaccines.",
-        "C": "Its manufacturing process allows for a faster response to the flu virus's tendency to mutate.",
-        "D": "It has been proven to be completely effective for frail older adults with weak immune systems."
+        "A": "Because this group has the highest rate of flu-related hospitalizations and deaths.",
+        "B": "Because this group has already participated in the largest portion of clinical trials.",
+        "C": "Because the mRNA technology is proven to be less effective in younger adults.",
+        "D": "Because this group is less likely to experience side effects from the vaccine."
       },
-      "correct": "C",
-      "explanationZh": "正確答案為 C。根據文章第二段，流感病毒經常變異（mutates），而 mRNA 技術的優勢在於製造速度快，這使得科學家能更迅速地針對變異後的病毒調整疫苗。選項 A 過度推論，文章並未宣稱其提供「全面免疫」。選項 B 文章未提及成本比較。選項 D 錯誤，文章第六段明確指出該疫苗目前缺乏針對身體虛弱及免疫系統較差族群的數據，因此尚未證實其對該族群的效用。"
+      "correct": "A",
+      "explanationZh": "正確答案為 A。文章第四段提到，CDC 數據顯示 65 歲以上族群佔了美國流感相關住院與死亡的大多數，且第八段提到加速審核是用於治療嚴重疾病的藥物。結合兩者可推論，由於該族群風險最高，因此更需要加速取得疫苗以預防重症。選項 B 文中未提及誰參與最多；選項 C 文中提到該疫苗對 50 歲以上有效，並未說對年輕人無效；選項 D 文中未提及副作用與年齡的關聯。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the fourth paragraph, what does the word 'scrutiny' mean as it is used in the context of the FDA's evaluation process?",
+      "question": "In the final paragraph, what does the word 'primary' most likely mean as used in the phrase 'a primary tool in protecting the health of older Americans'?",
       "options": {
-        "A": "A lack of interest or concern.",
-        "B": "A process of careful and critical examination.",
-        "C": "A legal requirement to reject new applications.",
-        "D": "A fast-track approval system for pharmaceutical companies."
+        "A": "Elementary or simple.",
+        "B": "Main or most important.",
+        "C": "First in a chronological sequence.",
+        "D": "Original or primitive."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。根據文中提到「increased level of scrutiny, or careful examination」，scrutiny 在此處指對疫苗申請進行嚴格且細緻的審查。選項 A 與原意相反。選項 C 錯誤，scrutiny 是一種審查態度，而非拒絕申請的法律規定。選項 D 錯誤，這是一個審查過程，而非加速批准的機制。"
+      "explanationZh": "正確答案為 B。在此語境中，primary 意指「主要的」、「首要的」，用來形容該疫苗技術將成為保護老年人健康的核心手段。選項 A (簡單的) 與文意不符；選項 C (時間順序上的第一) 雖然 primary 有此義，但在這裡是指重要性而非順序；選項 D (原始的) 在此處完全不適用。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "What is the central focus of the article regarding Moderna's new mRNA flu vaccine?",
+      "question": "What is the main message of this article?",
       "options": {
-        "A": "A detailed history of how mRNA technology was developed for Covid-19.",
-        "B": "The financial success of Moderna in the pharmaceutical market.",
-        "C": "The ongoing debate and evaluation process regarding the approval of a new, faster-to-produce flu vaccine.",
-        "D": "The failure of the FDA to protect older adults from the seasonal flu."
+        "A": "Moderna's new mRNA flu vaccine has successfully replaced all traditional flu shots.",
+        "B": "The FDA has officially approved mFlusiva for use by all American adults.",
+        "C": "An expert panel has endorsed a new mRNA flu vaccine, which could significantly improve flu prevention for older adults.",
+        "D": "The development of mRNA vaccines is currently being halted due to political opposition."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。本文的核心在於報導 Moderna 申請 mRNA 流感疫苗的審核過程，包括其技術優勢、與 FDA 的爭議、以及專家小組目前面臨的評估挑戰。選項 A 僅是背景資訊。選項 B 文章完全未提及財務表現。選項 D 錯誤，文章並未指控 FDA 失敗，而是描述其在審查過程中的嚴謹態度與對數據的需求。"
+      "explanationZh": "正確答案為 C。文章核心在於報導 VRBPAC 專家委員會投票支持 Moderna 的 mFlusiva 疫苗，並討論了該疫苗對 50 歲以上族群的潛在優勢與科學依據。選項 A 錯誤，文中僅提到這是一種新技術，並未說已取代所有傳統疫苗；選項 B 錯誤，文中提到這還不是最終步驟，FDA 尚未給予最終核准；選項 D 錯誤，儘管有政治人物批評，但專家委員會仍給予了支持，研究並未停止。"
     }
   ],
   "aiGenerated": true,
