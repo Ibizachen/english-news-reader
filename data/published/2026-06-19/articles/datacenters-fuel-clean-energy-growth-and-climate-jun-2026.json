@@ -1,0 +1,171 @@
+{
+  "id": "2026-06-19-datacenters-fuel-clean-energy-growth-and-climate",
+  "slug": "datacenters-fuel-clean-energy-growth-and-climate-jun-2026",
+  "publishedAt": "2026-06-19T23:13:06.145656Z",
+  "category": "energy",
+  "title": "The Datacenter Paradox: Powering the AI Boom While Challenging Climate Goals",
+  "subtitle": "How the massive energy needs of artificial intelligence are both helping and hurting the transition to clean power.",
+  "summary": {
+    "en": "The rapid growth of artificial intelligence datacenters is creating a complex situation for the energy industry. These facilities require massive amounts of electricity, which is boosting investment in wind and solar power. However, the high demand is also forcing some utility companies to keep old coal and gas plants running. This situation creates a difficult balance between technological progress and environmental protection. Experts describe this as a paradox where the same technology drives both green energy growth and climate risks.",
+    "zh": "人工智慧資料中心的快速成長正為能源產業帶來複雜的局面。這些設施需要龐大的電力，進而帶動了對風能與太陽能的投資。然而，高需求也迫使部分公用事業公司必須維持老舊燃煤與燃氣電廠的運作。這種情況在技術進步與環境保護之間造成了難以平衡的困境。專家將此描述為一種矛盾，即同一項技術既推動了綠能成長，也帶來了氣候風險。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The rise of artificial intelligence has created a new and difficult situation for the energy industry in the United States. As companies build more datacenters—large buildings filled with powerful computers needed to run AI—the demand for electricity has grown to record levels. This trend has created a strange result: while these centers are helping the clean energy industry grow, they are also causing significant environmental problems.",
+      "zh": "人工智慧的興起為美國能源產業帶來了嶄新且棘手的局面。隨著企業建造更多資料中心——即運行人工智慧所需、內部裝滿高效能電腦的大型建築——電力需求已攀升至歷史新高。這種趨勢產生了一個弔詭的結果：雖然這些中心正協助潔淨能源產業成長，但同時也造成了嚴重的環境問題。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Guardian, the clean energy sector was struggling before the recent AI boom. After a period of growth in 2020, the industry faced challenges from high inflation and a lack of new projects. However, the need to power AI has changed this. Many clean energy companies have seen their stock values rise significantly over the last year. Experts like Douglas Jester, a consultant for 5 Lakes Energy, describe the situation as a paradox. He notes that the increase in electricity sales is clearly driving more investment in renewable energy sources like wind and solar.",
+      "zh": "根據《衛報》（The Guardian）報導，潔淨能源產業在近期人工智慧熱潮前曾陷入困境。在經歷二〇二〇年的一段成長期後，該產業面臨高通貨膨脹與缺乏新開發案的挑戰。然而，人工智慧的電力需求改變了這一切。許多潔淨能源公司在過去一年中，股價皆顯著上漲。如「五湖能源」（5 Lakes Energy）顧問道格拉斯·傑斯特（Douglas Jester）等專家，將此現狀形容為一種矛盾。他指出，電力銷售的增加顯然正推動更多針對風能與太陽能等再生能源的投資。"
+    },
+    {
+      "id": "p3",
+      "en": "Despite this growth, datacenters remain a major concern for the climate. The Guardian reports that many utility companies are struggling to keep up with the massive power demands. In some states, including Michigan, the need for electricity has forced companies to keep old coal and gas power plants running longer than planned. In other areas, utilities are racing to build new fossil-fuel plants to ensure the lights stay on. This trend has effectively slowed down the transition to cleaner energy in several parts of the country.",
+      "zh": "儘管有所成長，資料中心對氣候而言仍是一大隱憂。《衛報》報導指出，許多公用事業公司正疲於應付龐大的電力需求。在密西根州等部分地區，電力需求迫使企業必須讓老舊的燃煤與燃氣電廠延長運作，超出原定計畫。在其他地區，公用事業公司則競相興建新的化石燃料電廠，以確保電力供應不中斷。這種趨勢在美國多個地區實際上減緩了轉向潔淨能源的腳步。"
+    },
+    {
+      "id": "p4",
+      "en": "The gas industry is also playing a large role in this expansion. Some gas companies are building new plants specifically to serve datacenters. This growth is happening while the current political climate, under the second Trump administration, remains supportive of fossil fuels and less focused on government programs that previously helped wind and solar energy. Because of this, the energy landscape has become more complicated for companies trying to reach climate goals.",
+      "zh": "天然氣產業在此擴張過程中也扮演了重要角色。部分天然氣公司正專門興建電廠以服務資料中心。這種成長發生在川普（Donald Trump）第二任政府執政下的當前政治氛圍中，該政府持續支持化石燃料，且較不重視先前協助風能與太陽能發展的政府計畫。正因如此，對於試圖達成氣候目標的企業而言，能源環境已變得更加複雜。"
+    },
+    {
+      "id": "p5",
+      "en": "One major issue is the delay in connecting new energy projects to the electric grid—the network of wires and stations that delivers electricity to homes and businesses. Supply chain problems and regulatory delays mean that some projects are waiting up to 12 years to be connected. This long wait has forced big technology companies to take matters into their own hands. Many are now spending large sums of money to produce their own power. For example, Google recently developed a massive battery to power a datacenter in Minnesota and is working on an \"off the grid\" center in Texas that will use a mix of wind, solar, batteries, and gas.",
+      "zh": "一個主要問題是將新能源專案併入電網——即輸送電力至住家與企業的電線與變電站網路——的過程遭到延宕。供應鏈問題與法規滯後，意味著部分專案需等待長達十二年才能併網。漫長的等待迫使大型科技公司必須採取主動。許多公司現在正投入鉅資自行發電。例如，Google 近期開發了一款大型電池，為明尼蘇達州的一座資料中心供電，並正致力於在德州打造一座結合風能、太陽能、電池與天然氣的「離網」中心。"
+    },
+    {
+      "id": "p6",
+      "en": "This shift toward private energy production is changing the market. Companies like Nextpower, which produces large-scale solar infrastructure, are seeing strong growth. They are even buying other companies that specialize in battery storage to better serve the datacenter market. However, this progress is not helping everyone equally. While there is a lot of development for large, industrial-scale projects, there is very little direct benefit for home rooftop solar panels.",
+      "zh": "這種轉向私人能源生產的趨勢正在改變市場。如生產大型太陽能基礎設施的 Nextpower 等公司，正見證強勁的成長。他們甚至收購其他專精於電池儲能的公司，以更好地服務資料中心市場。然而，這種進步並非讓所有人同等受惠。雖然大型工業級專案的開發相當熱絡，但對住家屋頂太陽能板的直接助益卻微乎其微。"
+    },
+    {
+      "id": "p7",
+      "en": "Looking ahead, the situation remains uncertain. While the demand for AI is pushing the energy industry toward new technology like better batteries and more efficient solar power, the reliance on fossil fuels to meet immediate needs is a significant hurdle. Energy economist Lucas Davis from UC Berkeley notes that the industry is being pushed forward by both the AI boom and the falling costs of renewable technology. Yet, the challenge of balancing this massive energy consumption with the need to protect the climate will likely continue for years to come.",
+      "zh": "展望未來，局勢仍充滿不確定性。雖然人工智慧的需求正推動能源產業朝向更佳的電池與更高效的太陽能等新技術發展，但為了滿足迫切需求而對化石燃料的依賴，仍是一大障礙。加州大學柏克萊分校（UC Berkeley）的能源經濟學家盧卡斯·戴維斯（Lucas Davis）指出，該產業正受到人工智慧熱潮與再生能源技術成本下降的雙重推動。然而，在龐大的能源消耗與氣候保護需求之間取得平衡的挑戰，很可能會持續多年。"
+    },
+    {
+      "id": "p8",
+      "en": "Ultimately, the story of datacenters is one of competing interests. On one hand, the need for power is providing a much-needed boost to the renewable energy sector. On the other hand, the sheer scale of the demand is testing the limits of the power grid and threatening to keep the country dependent on traditional, polluting energy sources. As the tech industry continues to grow, the choices made by these companies and government regulators will play a major role in determining the future of the environment.",
+      "zh": "歸根究柢，資料中心的故事是利益衝突的寫照。一方面，電力需求為再生能源產業提供了急需的助力；另一方面，龐大的需求規模正考驗著電網的極限，並威脅著讓國家持續依賴傳統且高污染的能源。隨著科技產業持續成長，這些企業與政府監管機構所做的選擇，將在決定環境未來方面扮演關鍵角色。"
+    }
+  ],
+  "wordCount": 712,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "keep up with",
+      "definitionEn": "To manage to move or progress at the same speed as someone or something else.",
+      "definitionZh": "跟上、趕上（進度或需求）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "此處指電力供應無法滿足快速增長的需求。文中：The Guardian reports that many utility companies are struggling to keep up with the massive power demands."
+    },
+    {
+      "term": "take matters into their own hands",
+      "definitionEn": "To deal with a problem yourself because other people have failed to do so.",
+      "definitionZh": "採取主動，親自處理問題（因為別人沒做好）。",
+      "partOfSpeech": "idiom",
+      "noteZh": "形容科技公司因電網連接延遲，決定自己解決電力來源。文中：This long wait has forced big technology companies to take matters into their own hands."
+    },
+    {
+      "term": "boost",
+      "definitionEn": "An action or event that helps something to increase or become more successful.",
+      "definitionZh": "推動力、促進、提升。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（推動），這裡作名詞，指對產業的正面刺激。文中：On one hand, the need for power is providing a much-needed boost to the renewable energy sector."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Environment",
+      "url": "https://www.theguardian.com/us-news/2026/jun/19/datacenters-us-clean-energy-growth-climate",
+      "title": "Datacenters driving US clean energy growth while still threatening climate",
+      "publishedAt": "2026-06-19T11:00:30Z"
+    }
+  ],
+  "story": {
+    "id": "the-foundation-of-change-why-we-must-shift",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "datacenters-driving-clean-energy-growth-jun-2026",
+        "title": "The Datacenter Paradox: Powering AI While Challenging Climate Goals",
+        "publishedAt": "2026-06-19T22:14:01.937565Z",
+        "category": "energy",
+        "summaryEn": "The rapid growth of artificial intelligence datacenters is creating a complex situation for the energy industry. These facilities require massive amounts of electricity, which is boosting investment in wind and solar power. However, the high demand is also forcing some utility companies to keep old coal and gas plants running. This trend is causing a split in the energy market, where some clean energy sectors are booming while others struggle. Experts describe this as a paradox where technology growth both helps and hurts environmental progress."
+      },
+      {
+        "slug": "public-opinion-on-climate-and-fossil-fuels-jun-2026",
+        "title": "Americans Still Support Climate Action Despite Political Shifts",
+        "publishedAt": "2026-06-17T23:50:08.928709Z",
+        "category": "energy",
+        "summaryEn": "Recent reports show that American public opinion on climate change remains steady despite political efforts to increase fossil fuel production. Although media coverage of environmental issues has decreased, most people still worry about the climate crisis. Experts note that voters continue to support clean energy over traditional fuels. This trend persists even as political leaders push for more oil and gas development. The disconnect between government policy and public opinion highlights a growing gap in the national conversation."
+      },
+      {
+        "slug": "public-opinion-on-climate-change-and-fossil-fuels-jun-2026",
+        "title": "Public Opinion Stays Focused on Climate Change Despite Political Shifts",
+        "publishedAt": "2026-06-17T22:14:07.134994Z",
+        "category": "energy",
+        "summaryEn": "Recent reports show that American public opinion on climate change remains steady despite political efforts to increase fossil fuel production. Although media coverage of environmental issues has decreased, most people still worry about the climate crisis. Experts note that voters continue to support renewable energy projects over coal and oil. This trend persists even as other global issues, such as war and inflation, dominate the news. The findings suggest a clear gap between the government's energy agenda and the views of the general public."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is one specific consequence of the high electricity demand from datacenters in states like Michigan?",
+      "options": {
+        "A": "The government has banned the construction of new solar farms.",
+        "B": "Utility companies are extending the operation of coal and gas power plants.",
+        "C": "The cost of residential electricity has dropped significantly.",
+        "D": "Datacenters are being forced to move to other countries."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第三段明確指出，在密西根州等地，為了應對數據中心巨大的電力需求，電力公司被迫延長舊有燃煤與天然氣發電廠的使用壽命。選項 A 文章未提及禁止太陽能；選項 C 文章未提及住宅電費下降；選項 D 文章中並未提到數據中心被迫搬遷至國外，而是提到企業正在尋求自給自足的電力來源。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the relationship between technology companies and the traditional electric grid?",
+      "options": {
+        "A": "Tech companies prefer to use the grid because it is cheaper than building their own power sources.",
+        "B": "The grid is currently efficient enough to handle all future AI energy demands without changes.",
+        "C": "Tech companies are increasingly frustrated by grid limitations and are seeking independent power solutions.",
+        "D": "The government has prohibited tech companies from generating their own electricity."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第五段，由於連接新能源專案到電網的過程存在長達 12 年的延遲與法規問題，科技公司被迫「自行處理（take matters into their own hands）」，例如 Google 開發電池與離網中心。這暗示了現有電網無法滿足其需求，導致企業轉向獨立供電。選項 A 與文意相反；選項 B 與文中提到的電網限制矛盾；選項 D 文章中並未提及政府禁止企業自發電。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the second paragraph, the word 'paradox' is used to describe the situation in the clean energy industry. What does this mean in context?",
+      "options": {
+        "A": "A situation that contains two opposing facts that seem impossible to exist together.",
+        "B": "A rapid increase in financial profits for all energy companies.",
+        "C": "A complete failure of the renewable energy market due to lack of investment.",
+        "D": "A simple solution to a complex environmental problem."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。文章中提到 AI 數據中心一方面推動了再生能源的投資（正面），另一方面卻因電力需求過大而造成環境問題並延緩了能源轉型（負面）。這種「既促進又阻礙」的矛盾現象即為 paradox（悖論）。選項 B 過於簡化；選項 C 與文意相反，因為再生能源產業反而因 AI 需求而成長；選項 D 錯誤，因為這是一個複雜的難題，而非簡單的解決方案。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article regarding the rise of AI datacenters?",
+      "options": {
+        "A": "AI datacenters are exclusively responsible for the success of the modern green energy movement.",
+        "B": "The energy industry is facing a complex conflict where AI growth simultaneously aids and hinders climate goals.",
+        "C": "The U.S. government has successfully solved the energy crisis caused by the AI boom.",
+        "D": "Private tech companies have abandoned renewable energy in favor of coal to save money."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章總結段落明確指出，數據中心的故事是「利益衝突」的體現：一方面為再生能源帶來投資，另一方面卻因需求過大而威脅氣候目標，並使國家依賴傳統污染能源。選項 A 過於絕對，忽略了負面影響；選項 C 錯誤，政府並未解決此危機；選項 D 與文意不符，因為許多科技公司仍在投資風能與太陽能等再生能源。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
