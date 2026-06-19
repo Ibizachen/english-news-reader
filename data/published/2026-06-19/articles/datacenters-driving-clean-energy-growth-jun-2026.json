@@ -1,0 +1,173 @@
+{
+  "id": "2026-06-19-datacenters-driving-clean-energy-growth",
+  "slug": "datacenters-driving-clean-energy-growth-jun-2026",
+  "publishedAt": "2026-06-19T22:14:01.937565Z",
+  "category": "energy",
+  "title": "The Datacenter Paradox: Powering AI While Challenging Climate Goals",
+  "subtitle": "How the massive energy needs of artificial intelligence are changing the future of clean energy in the United States.",
+  "summary": {
+    "en": "The rapid growth of artificial intelligence datacenters is creating a complex situation for the energy industry. These facilities require massive amounts of electricity, which is boosting investment in wind and solar power. However, the high demand is also forcing some utility companies to keep old coal and gas plants running. This trend is causing a split in the energy market, where some clean energy sectors are booming while others struggle. Experts describe this as a paradox where technology growth both helps and hurts environmental progress.",
+    "zh": "人工智慧資料中心的快速成長，為能源產業帶來了複雜的局面。這些設施需要龐大的電力，進而推動了對風能與太陽能的投資。然而，高漲的需求也迫使部分公用事業公司必須維持老舊燃煤與燃氣電廠的運作。這種趨勢導致能源市場出現分歧，部分潔淨能源領域蓬勃發展，而其他領域則陷入困境。專家將此描述為一種悖論，即技術成長既有助於環境進步，同時也造成了傷害。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The rapid rise of artificial intelligence (AI) is changing the energy landscape in the United States. As tech companies build more datacenters—large buildings filled with computer servers that process data—the demand for electricity has reached record levels. This growth is creating a strange situation: while these centers are helping to revive the clean energy industry, they are also making it harder for the country to move away from fossil fuels.",
+      "zh": "人工智慧的快速崛起正在改變美國的能源版圖。隨著科技公司興建更多資料中心（即裝滿處理數據之電腦伺服器的大型建築），電力需求已達到歷史新高。這種成長造成了一種奇特的局面：這些中心在協助復甦潔淨能源產業的同時，也讓美國更難以擺脫對化石燃料的依賴。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Guardian, this situation is a \"paradox.\" For years, the clean energy sector struggled as projects became too expensive and overall energy demand stayed flat. However, the sudden need for power from datacenters has changed this. Companies are now investing huge amounts of money into wind, solar, and battery storage to keep their servers running. This investment has helped many clean energy companies see their stock prices rise significantly over the past year, marking a sharp recovery from a difficult period between 2021 and 2025.",
+      "zh": "根據《衛報》（The Guardian）報導，這種情況是一個「悖論」。多年來，潔淨能源產業因專案成本過高且整體能源需求停滯而陷入困境。然而，資料中心對電力的迫切需求改變了這一點。企業現在投入巨額資金於風能、太陽能及電池儲能系統，以維持伺服器運作。這項投資幫助許多潔淨能源公司在過去一年中股價大幅上漲，標誌著從二零二一年至二零二五年的艱難時期中強勢復甦。"
+    },
+    {
+      "id": "p3",
+      "en": "Despite this growth, the environmental impact remains a major concern. The Guardian reports that many utility companies are struggling to keep up with the massive power needs of these new facilities. In some states, such as Michigan, the need for constant, reliable electricity has forced energy providers to keep old coal and gas plants open longer than planned. In other cases, utilities are building new fossil-fuel plants just to serve the datacenters. This trend is slowing down the transition to renewable energy sources, as the grid struggles to handle the new demand.",
+      "zh": "儘管有所成長，環境影響仍是主要隱憂。《衛報》指出，許多公用事業公司正疲於應付這些新設施龐大的電力需求。在密西根州等部分地區，對穩定且持續供電的需求，迫使能源供應商讓老舊的燃煤與燃氣電廠延長運作時間，超出了原定計畫。在其他案例中，公用事業公司甚至為了供應資料中心而興建新的化石燃料電廠。由於電網難以負荷新增的需求，這種趨勢正拖慢轉向再生能源的腳步。"
+    },
+    {
+      "id": "p4",
+      "en": "One of the biggest problems is the time it takes to connect new energy projects to the electric grid. Because of regulatory delays and shortages in equipment, it can take up to 12 years for a new power project to be fully connected. To avoid these long waits, big tech companies are now choosing to produce their own power. For example, Google recently built a large battery system in Minnesota and is working on an \"off the grid\" center in Texas. This facility will use a mix of wind, solar, batteries, and gas to ensure it has power without waiting for the public grid.",
+      "zh": "最大的問題之一是將新能源專案併入電網所需的時間。由於法規延宕與設備短缺，一個新的電力專案可能需要長達十二年才能完全併網。為了避免漫長的等待，大型科技公司現在選擇自行發電。例如，Google 最近在明尼蘇達州建立了一套大型電池系統，並正在德州開發一座「離網」中心。該設施將結合風能、太陽能、電池與天然氣，確保在無需等待公共電網的情況下也能獲得電力。"
+    },
+    {
+      "id": "p5",
+      "en": "Not all parts of the clean energy sector are benefiting from this boom. While datacenters are driving development for large-scale solar and battery technology, they are doing very little to help small-scale projects like rooftop solar for homes. Experts like Lucas Davis, an energy economist at UC Berkeley, noted that the industry is being pushed forward by both the datacenter boom and the falling costs of renewable technology. However, the reliance on fossil fuels remains a significant hurdle.",
+      "zh": "並非潔淨能源產業的所有領域都能從這波熱潮中獲益。雖然資料中心推動了大型太陽能與電池技術的發展，但對住宅屋頂太陽能等小型專案的幫助微乎其微。加州大學柏克萊分校（UC Berkeley）的能源經濟學家盧卡斯·戴維斯（Lucas Davis）指出，產業正受到資料中心熱潮與再生能源技術成本下降的雙重推動。然而，對化石燃料的依賴依然是一大障礙。"
+    },
+    {
+      "id": "p6",
+      "en": "This development comes at a time when public opinion on climate change remains steady, even as political support for green energy has shifted. As reported in recent updates, many Americans continue to worry about the climate crisis despite changes in government policy. The current situation with datacenters highlights the tension between the need for technological progress and the goal of protecting the environment.",
+      "zh": "此一發展正值大眾對氣候變遷的看法保持穩定，但綠能的政治支持度卻出現轉變之際。根據近期報導，儘管政府政策有所變動，許多美國人仍持續擔憂氣候危機。資料中心目前的處境，凸顯了技術進步需求與環境保護目標之間的緊張關係。"
+    },
+    {
+      "id": "p7",
+      "en": "Looking ahead, the future of this energy transition remains uncertain. Some companies are moving toward \"vertically integrated\" systems, meaning they want to own and control every part of their energy supply. This could lead to more private, self-sufficient power networks. However, as long as the demand for AI continues to grow, the pressure on the national power grid will likely continue. Whether this leads to a cleaner future or a continued reliance on fossil fuels will depend on how quickly companies can scale up their renewable energy solutions and how regulators manage the grid in the coming years.",
+      "zh": "展望未來，能源轉型的前景仍不明朗。部分公司正朝向「垂直整合」系統發展，意即他們希望擁有並掌控能源供應的每一個環節。這可能導致更多私有且自給自足的電力網路出現。然而，只要人工智慧的需求持續成長，國家電網所承受的壓力很可能會持續下去。這究竟會引領我們走向更潔淨的未來，還是導致對化石燃料的持續依賴，將取決於企業擴大再生能源解決方案的速度，以及監管機構在未來幾年內如何管理電網。"
+    }
+  ],
+  "wordCount": 668,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "flat",
+      "definitionEn": "Not increasing or decreasing; remaining at the same level.",
+      "definitionZh": "持平的、沒有變動的。",
+      "partOfSpeech": "adjective",
+      "noteZh": "常見作形容詞（平坦的），這裡形容能源需求沒有成長。文中：For years, the clean energy sector struggled as projects became too expensive and overall energy demand stayed flat."
+    },
+    {
+      "term": "keep up with",
+      "definitionEn": "To manage to move or progress at the same speed as something else.",
+      "definitionZh": "跟上、趕上（進度或需求）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "由動詞與介系詞組成，意思非字面直譯，指無法滿足快速增長的需求。文中：The Guardian reports that many utility companies are struggling to keep up with the massive power needs of these new facilities."
+    },
+    {
+      "term": "serve",
+      "definitionEn": "To provide a service or supply power to a specific place or customer.",
+      "definitionZh": "供應、服務（電力需求）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作動詞（服務人），這裡指電力設施供應電力給特定對象。文中：In other cases, utilities are building new fossil-fuel plants just to serve the datacenters."
+    },
+    {
+      "term": "scale up",
+      "definitionEn": "To increase the size, amount, or importance of something.",
+      "definitionZh": "擴大規模、提升產能。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見的商業用語，指增加規模。文中：Whether this leads to a cleaner future or a continued reliance on fossil fuels will depend on how quickly companies can scale up their renewable energy solutions and how regulators manage the grid in the coming years."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Environment",
+      "url": "https://www.theguardian.com/us-news/2026/jun/19/datacenters-us-clean-energy-growth-climate",
+      "title": "Datacenters driving US clean energy growth while still threatening climate",
+      "publishedAt": "2026-06-19T11:00:30Z"
+    }
+  ],
+  "story": {
+    "id": "the-foundation-of-change-why-we-must-shift",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "public-opinion-on-climate-and-fossil-fuels-jun-2026",
+        "title": "Americans Still Support Climate Action Despite Political Shifts",
+        "publishedAt": "2026-06-17T23:50:08.928709Z",
+        "category": "energy",
+        "summaryEn": "Recent reports show that American public opinion on climate change remains steady despite political efforts to increase fossil fuel production. Although media coverage of environmental issues has decreased, most people still worry about the climate crisis. Experts note that voters continue to support clean energy over traditional fuels. This trend persists even as political leaders push for more oil and gas development. The disconnect between government policy and public opinion highlights a growing gap in the national conversation."
+      },
+      {
+        "slug": "environmental-cost-of-global-mega-consumers-jun-2026",
+        "title": "The High Price of Our Habits: How Top Consumers Impact the Planet",
+        "publishedAt": "2026-06-18T23:59:41.389177Z",
+        "category": "energy",
+        "summaryEn": "A new study reveals that the world's top 10% of consumers cause up to $5.7 trillion in environmental damage annually. This cost comes from high levels of food and energy consumption, including red meat and fossil fuels. Researchers found that this group has a massive impact on climate change and the loss of nature. While many of these people live in wealthy nations, high-consuming households in emerging economies are also catching up. Experts suggest that taxing luxury goods and investments could help solve these problems."
+      },
+      {
+        "slug": "public-opinion-on-climate-change-and-fossil-fuels-jun-2026",
+        "title": "Public Opinion Stays Focused on Climate Change Despite Political Shifts",
+        "publishedAt": "2026-06-17T22:14:07.134994Z",
+        "category": "energy",
+        "summaryEn": "Recent reports show that American public opinion on climate change remains steady despite political efforts to increase fossil fuel production. Although media coverage of environmental issues has decreased, most people still worry about the climate crisis. Experts note that voters continue to support renewable energy projects over coal and oil. This trend persists even as other global issues, such as war and inflation, dominate the news. The findings suggest a clear gap between the government's energy agenda and the views of the general public."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is one specific consequence of the high electricity demand from datacenters in states like Michigan?",
+      "options": {
+        "A": "The government has banned the construction of new coal plants.",
+        "B": "Existing coal and gas power plants are remaining operational for longer than originally scheduled.",
+        "C": "Public grid connection times have been reduced to less than five years.",
+        "D": "Tech companies have stopped investing in renewable energy projects."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，為了滿足資料中心對電力穩定性的需求，密西根州等地的能源供應商被迫延長舊有燃煤與燃氣電廠的運作時間。選項 A 與文章內容相反；選項 C 與第四段提到的 12 年等待期矛盾；選項 D 則與第二段提到科技公司投入大量資金於再生能源的事實不符。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the text, why might large tech companies prefer to build 'off the grid' power facilities?",
+      "options": {
+        "A": "They want to avoid paying taxes to the state government.",
+        "B": "They believe that public utility companies are intentionally overcharging them.",
+        "C": "They need to bypass the slow and bureaucratic process of connecting to the public electric grid.",
+        "D": "They are trying to hide their energy consumption from environmental regulators."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第四段指出，由於法規延宕與設備短缺，新電力項目連接至電網可能耗時長達 12 年，因此科技公司選擇自行發電以避開這些漫長的等待。選項 A 與 B 在文中並未提及；選項 D 雖然提到環境影響，但並非選擇「離網」設施的主要原因，文中強調的是時間效率。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the phrase 'vertically integrated' imply regarding the energy strategies of some companies?",
+      "options": {
+        "A": "They are prioritizing the development of tall, multi-story solar panels.",
+        "B": "They are seeking to own and manage every stage of their energy supply chain.",
+        "C": "They are focusing exclusively on wind energy located at high altitudes.",
+        "D": "They are merging with other tech companies to share power resources."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章最後一段明確定義了「vertically integrated」是指公司想要擁有並控制其能源供應的每一個環節。選項 A 與 C 是對「vertical」一詞的字面誤解，與能源產業術語無關；選項 D 則是對「integrated」一詞的錯誤解讀，文中並未提及公司間的合併。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "Which statement best summarizes the central conflict presented in the article?",
+      "options": {
+        "A": "The rise of AI has completely solved the financial problems of the clean energy sector.",
+        "B": "Tech companies are failing to meet their environmental goals due to lack of interest.",
+        "C": "The rapid growth of datacenters creates a dilemma between meeting high energy demands and achieving a transition to green energy.",
+        "D": "The government is actively preventing tech companies from building their own private energy networks."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。本文的核心在於探討 AI 與資料中心的蓬勃發展如何一方面促進了再生能源投資，另一方面卻因電力需求過大而迫使電網繼續依賴化石燃料，形成一種矛盾（paradox）。選項 A 過於樂觀且忽略了負面影響；選項 B 與文中提到的巨額投資相矛盾；選項 D 則非文章討論的重點。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
