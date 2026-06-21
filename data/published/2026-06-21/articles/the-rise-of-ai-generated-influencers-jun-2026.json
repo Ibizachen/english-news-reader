@@ -1,74 +1,79 @@
 {
   "id": "2026-06-21-the-rise-of-ai-generated-influencers",
   "slug": "the-rise-of-ai-generated-influencers-jun-2026",
-  "publishedAt": "2026-06-21T22:14:01.837863Z",
+  "publishedAt": "2026-06-21T23:43:37.685418Z",
   "category": "technology",
-  "title": "The Rise of AI Influencers: Are You Being Fooled Online?",
-  "subtitle": "Companies are increasingly using computer-generated people to sell products, leading to calls for better rules and honesty.",
+  "title": "The Hidden World of AI Influencers: Are You Being Fooled Online?",
+  "subtitle": "As companies increasingly use computer-generated people to sell products, experts warn that consumers are struggling to tell what is real.",
   "summary": {
-    "en": "Brands are now using AI-generated people to promote products on social media platforms. These digital characters often look like real humans, making it hard for customers to tell the difference. Experts worry that this lack of transparency could lead to people being misled by advertisements. While some regions are creating new laws to require clear labeling of AI content, other areas still lack these protections. Consumers are encouraged to be more careful about what they see online as the technology becomes more common.",
-    "zh": "品牌目前正利用人工智慧生成的人物在社群媒體平台上推廣產品。這些數位角色通常看起來與真人無異，導致顧客難以分辨。專家擔心這種缺乏透明度的做法可能導致民眾被廣告誤導。雖然部分地區正在制定新法，要求清楚標示人工智慧內容，但其他地區仍缺乏此類保護措施。隨著這項技術日益普及，建議消費者對網路上所見的內容應更加謹慎。"
+    "en": "Brands are now using AI-generated influencers to promote products on social media platforms. These digital characters often look like real humans, making it hard for customers to tell the difference. Experts worry that this lack of transparency could lead to people being misled by advertisements. While some companies defend the practice as a creative experiment, consumer groups are calling for clearer rules. New legislation in the EU will soon require labels on such content, but the UK currently lacks similar protections.",
+    "zh": "品牌目前正利用人工智慧生成的網紅在社群媒體平台上推廣產品。這些數位角色外觀常與真人無異，導致消費者難以分辨真偽。專家擔憂這種缺乏透明度的做法可能誤導大眾。儘管部分企業將此辯稱為創意實驗，消費者團體仍呼籲制定更明確的規範。歐盟的新法規即將要求對此類內容進行標示，但英國目前尚缺乏類似的保護措施。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "When you scroll through your social media feed, you might see a person recommending a new app, a fashion brand, or a travel service. They look like real people sharing their honest opinions. However, a new investigation by The Guardian has revealed that many of these influencers are not real humans at all. Instead, they are computer-generated images created by artificial intelligence (AI).",
-      "zh": "當您瀏覽社群媒體動態時，可能會看到有人推薦一款新應用程式、一個時尚品牌或一項旅遊服務。他們看起來就像真實的人在分享誠懇的意見。然而，衛報 (The Guardian) 的一項最新調查揭露，這些網紅中有許多根本不是真人，而是由人工智慧 (AI) 所創造的電腦生成影像。"
+      "en": "In recent months, social media users have seen a rise in influencers who do not actually exist. These digital characters, created by artificial intelligence, are being used by brands to promote everything from photo apps to fashion designs. While these AI-generated people often look and act like real humans, their presence online is causing growing concern among experts and consumer groups who worry that the public is being misled.",
+      "zh": "近幾個月來，社群媒體使用者發現網路上出現越來越多並非真實存在的網紅。這些由人工智慧創造的數位角色，正被品牌用於推廣從照片應用程式到時尚設計等各式產品。雖然這些人工智慧生成的虛擬人物在外觀與行為上常與真人無異，但他們在網路上的存在，已引起專家與消費者團體的日益擔憂，他們擔心大眾正受到誤導。"
     },
     {
       "id": "p2",
-      "en": "Companies are quietly using these digital influencers to promote their products. The goal is often to make the advertisements feel like genuine customer experiences. Because these AI characters look so realistic, most people cannot tell that they are looking at a machine-made image rather than a real person. In some cases, the people who create this content are asked to sign non-disclosure agreements—legal contracts that prevent them from talking about their work—which keeps the process hidden from the public.",
-      "zh": "企業正悄悄利用這些數位網紅來推廣產品。其目標通常是讓廣告看起來像是真實的顧客體驗。由於這些人工智慧角色看起來非常逼真，大多數人無法分辨自己看到的是機器生成的影像，而非真人。在某些情況下，製作這些內容的人員會被要求簽署保密協議（即禁止他們談論工作內容的法律契約），這使得整個過程對大眾隱而不宣。"
+      "en": "According to The Guardian, companies are quietly using these digital figures to show what they claim are genuine customer experiences. These posts often feature AI-generated people praising products, such as a bride recommending a photo app or a woman showing off a new home design tool. Because these characters are designed to look realistic, many viewers assume they are watching a real person share their honest opinion. However, there is often no clear sign that the content was created by a computer rather than a human.",
+      "zh": "根據《衛報 (The Guardian)》報導，企業正悄悄利用這些數位人物來展示所謂真實的顧客體驗。這些貼文常以人工智慧生成的虛擬人物來讚賞產品，例如由一位新娘推薦照片應用程式，或是由一名女性展示新的居家設計工具。由於這些角色被設計得極為逼真，許多觀眾會誤以為自己是在觀看真人分享真實心得。然而，內容中往往缺乏明確標示，告知觀眾這些內容是由電腦而非人類所製作。"
     },
     {
       "id": "p3",
-      "en": "There are several examples of this practice appearing on popular platforms like Instagram. For instance, an app called Once, which helps people take photos at events, has been linked to potential AI-generated influencer content. In one video, a woman appears to be a bride talking about how much she liked using the app at her wedding. When asked about this, the company did not provide a comment. Another brand, a housing design app called Maket, admitted to using AI influencers. The company stated that they use these digital characters to test new marketing ideas on a small scale. They described the practice as an experiment to see what kind of content catches the attention of their audience.",
-      "zh": "在 Instagram 等熱門平台上，這類做法已有不少案例。例如，一款名為 Once 的應用程式，其功能是協助人們在活動中拍照，該程式已被連結到潛在的人工智慧生成網紅內容。在一段影片中，一名女子看似新娘，談論著她在婚禮上使用該應用程式的喜愛程度。當被問及此事時，該公司並未提供評論。另一個品牌，名為 Maket 的居家設計應用程式，則承認使用了人工智慧網紅。該公司表示，他們利用這些數位角色在小範圍內測試新的行銷點子。他們將此做法描述為一項實驗，旨在觀察何種內容能吸引受眾的注意。"
+      "en": "This trend has created a difficult situation for shoppers. Lisa Barber, the editor of Which? Tech, noted that a recent investigation found that 70% of people could not correctly tell the difference between real and fake videos. This means that many consumers are likely being misled by content they believe is authentic. Barber warned that this lack of trust makes it easier for scammers to target people, as consumers find it harder to know which advertisements are honest and which are not.",
+      "zh": "這種趨勢為消費者帶來了困境。科技消費者權益組織「Which? Tech」的編輯麗莎·巴伯 (Lisa Barber) 指出，近期一項調查顯示，百分之七十的人無法正確分辨真實影片與虛假影片的差異。這意味著許多消費者很可能正被他們認為真實的內容所誤導。巴伯警告，這種信任感的缺失讓詐騙者更容易鎖定目標，因為消費者越來越難以判斷哪些廣告是誠實的，哪些不是。"
     },
     {
       "id": "p4",
-      "en": "Sometimes, the technology is not perfect, which can lead to strange mistakes. A fashion brand called Ashle once posted a photo of a woman wearing their clothes at a restaurant. Sharp-eyed viewers noticed that the woman in the picture appeared to have an extra finger—a common error in AI-generated images. After being contacted by The Guardian, the brand deleted the photos from their social media page. A spokesperson for Ashle explained that while their clothes are real and handmade, they had used AI for some of their early marketing images. They claimed the photos were removed because those designs were no longer for sale, not because of the AI technology itself.",
-      "zh": "有時，這項技術並不完美，可能會導致奇怪的錯誤。一個名為 Ashle 的時尚品牌曾發布一張女子在餐廳穿著他們服飾的照片。眼尖的觀眾發現照片中的女子似乎多了一根手指，這是人工智慧生成影像中常見的錯誤。在接獲衛報聯繫後，該品牌將照片從社群媒體頁面上刪除。Ashle 的發言人解釋說，雖然他們的服飾是真實且手工製作的，但他們在部分早期行銷影像中確實使用了人工智慧。他們聲稱刪除照片是因為那些設計已不再販售，而非人工智慧技術本身的問題。"
+      "en": "Some companies have defended their use of AI. For example, the company Maket stated that they have used AI influencers to test new marketing ideas on a small scale. They explained that this is not their main strategy but rather an experiment to see what kind of content connects with their audience. Other brands have been more cautious. When The Guardian contacted a fashion brand called Ashle after noticing an AI-generated image with an error—an extra finger—the brand removed the photos from its social media page. The company later claimed the images were only used during their early launch phase to show off their designs.",
+      "zh": "部分企業為其使用人工智慧的行為進行辯護。例如，Maket 公司表示，他們曾小規模使用人工智慧網紅來測試新的行銷創意。他們解釋這並非主要策略，而是一種測試，旨在觀察哪種內容能與受眾產生共鳴。其他品牌則較為謹慎。當《衛報》注意到時尚品牌 Ashle 的一張人工智慧生成圖片出現錯誤（多了一根手指）並聯繫該公司時，該品牌隨即將照片從社群頁面移除。該公司事後宣稱，這些圖片僅在初期發布階段用於展示設計。"
     },
     {
       "id": "p5",
-      "en": "This trend has raised serious concerns about honesty in advertising. Lisa Barber, the editor of a tech group called Which?, noted that their research found a worrying 70% of people could not correctly tell the difference between real and fake videos. This means that many consumers are being misled without knowing it. Barber warned that this makes it much easier for scammers to trick people online. Because there are currently no specific rules requiring brands to tell customers when they are using AI, many people feel that the situation is becoming unfair.",
-      "zh": "此趨勢引發了對廣告誠信的嚴重擔憂。科技組織 Which? 的編輯芭芭拉 (Lisa Barber) 指出，他們的研究發現，高達百分之七十的人無法正確分辨真實影片與虛假影片的差異，這令人擔憂。這意味著許多消費者在不知情的情況下受到誤導。芭芭拉警告，這使得詐騙者更容易在網路上欺騙民眾。由於目前沒有明確規定要求品牌在運用人工智慧時必須告知顧客，許多人認為這種情況正變得不公平。"
+      "en": "One major issue is the lack of rules regarding how these ads are labeled. Currently, there are no specific laws requiring brands to tell customers when they are viewing AI-generated content. This has led to concerns about transparency, as some content creators are even being asked to sign non-disclosure agreements—legal contracts that prevent them from speaking about their work—so that the use of AI remains a secret.",
+      "zh": "一個主要問題是缺乏關於如何標示這類廣告的規範。目前尚無具體法律要求品牌在消費者觀看人工智慧生成的內容時必須告知。這引發了對透明度的擔憂，因為有些內容創作者甚至被要求簽署保密協議——即禁止他們談論工作內容的法律合約——以確保人工智慧的使用保持隱密。"
     },
     {
       "id": "p6",
-      "en": "Different parts of the world are reacting to this problem in different ways. In the European Union, new rules under the Artificial Intelligence Act will start in August. These laws will require AI-generated content—such as deepfakes, which are realistic but fake videos or images—to be clearly labeled so that viewers know what they are seeing. However, these laws will not apply in the United Kingdom, leaving a gap in protection for consumers there. The group Which? has argued that customers should always be informed when they are looking at promotional content featuring AI-generated people instead of real individuals.",
-      "zh": "世界各地正以不同方式應對此問題。在歐盟，人工智慧法案 (Artificial Intelligence Act) 下的新規定將於八月生效。這些法律將要求人工智慧生成的內容（例如深偽技術，即逼真但虛假的影片或影像）必須清楚標示，以便觀眾了解自己所見為何。然而，這些法律並不適用於英國，導致當地消費者保護出現缺口。Which? 組織主張，當顧客看到的是由人工智慧生成的人物而非真人所呈現的促銷內容時，應該始終獲得告知。"
+      "en": "There is some hope for change, though it depends on where you live. In the European Union, new rules under the Artificial Intelligence Act will begin in August. This law will require that AI-generated or changed content, such as deepfake images or videos, be clearly labeled so that viewers know they are not looking at real footage. A deepfake is a piece of media that has been digitally changed or created by AI to look or sound like a real person. However, these new rules will not apply in the UK, leaving consumers there without the same level of protection.",
+      "zh": "儘管如此，改變仍有一線希望，但這取決於你居住的地方。在歐盟，根據《人工智慧法案 (Artificial Intelligence Act)》制定的新規則將於八月生效。該法律將要求人工智慧生成或修改的內容（例如深偽影像或影片）必須清楚標示，讓觀眾知道他們看到的並非真實畫面。深偽技術是指透過人工智慧數位化修改或創造，使其看起來或聽起來像真人的媒體內容。然而，這些新規則並不適用於英國，導致當地的消費者無法獲得同等程度的保障。"
     },
     {
       "id": "p7",
-      "en": "As technology continues to improve, it will become even harder to spot the difference between a real person and a digital creation. For now, experts suggest that consumers should be more careful about the content they see on their screens. If an influencer’s story seems too perfect or if a photo looks slightly strange, it might be a sign that the person is not real. As companies continue to experiment with these tools, the debate over how much honesty is required in digital advertising is likely to grow. For the average user, the best advice is to stay informed and keep a healthy level of doubt about the advertisements that appear in their daily feed.",
-      "zh": "隨著技術持續進步，分辨真人與數位創作的差異將變得更加困難。目前，專家建議消費者應對螢幕上看到的內容更加謹慎。如果某位網紅的故事看起來太過完美，或者照片看起來有些怪異，這可能就是該人物並非真人的跡象。隨著企業持續嘗試這些工具，關於數位廣告需要多少誠信的辯論可能會愈演愈烈。對於一般使用者而言，最好的建議是保持資訊靈通，並對每日動態中出現的廣告保持適度的懷疑。"
+      "en": "As the technology behind AI continues to improve, these digital influencers will likely become even more realistic. This makes it harder for the average person to spot when they are being sold a product by a machine. Consumer groups like Which? are now calling for brands to be more open about their marketing methods. They argue that customers have a right to know if the person recommending a product is a real human being or just a set of computer-generated pixels.",
+      "zh": "隨著人工智慧技術持續進步，這些數位網紅可能會變得更加逼真。這使得一般人更難察覺自己是否正被機器推銷產品。像「Which?」這樣的消費者團體正呼籲品牌在行銷手法上應更加公開。他們主張，消費者有權知道推薦產品的對象究竟是真人，還是僅僅是一組由電腦生成的像素。"
+    },
+    {
+      "id": "p8",
+      "en": "For now, the best advice for social media users is to remain skeptical. If an advertisement seems too perfect or if a creator’s movements look slightly strange, it might be an AI influencer. As companies continue to experiment with these tools, the gap between reality and digital fiction will only grow, making it essential for users to stay informed and cautious about what they see on their screens.",
+      "zh": "目前，給社群媒體使用者的最佳建議是保持懷疑態度。如果一則廣告看起來過於完美，或者創作者的動作顯得有些怪異，那它可能就是人工智慧網紅。隨著企業持續嘗試這些工具，現實與數位虛構之間的界線只會越來越模糊，因此使用者必須隨時保持警覺，並對螢幕上看到的內容多加留意。"
     }
   ],
-  "wordCount": 735,
+  "wordCount": 718,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
-      "term": "scroll",
-      "definitionEn": "To move through text or images on a computer or phone screen.",
-      "definitionZh": "滑動（螢幕畫面）。",
-      "partOfSpeech": "verb",
-      "noteZh": "常見作名詞（卷軸），這裡作動詞，指在數位裝置上瀏覽內容。文中：When you scroll through your social media feed, you might see a person recommending a new app, a fashion brand, or a travel service."
+      "term": "showing off",
+      "definitionEn": "To display something in order to impress others or draw attention to it.",
+      "definitionZh": "炫耀、展示。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見作「炫耀」之意，這裡指展示產品以吸引注意。文中：a woman showing off a new home design tool."
     },
     {
-      "term": "catches",
-      "definitionEn": "To attract or hold someone's attention.",
-      "definitionZh": "吸引（注意力）。",
-      "partOfSpeech": "verb",
-      "noteZh": "常見作「捕捉」實體物品，這裡指吸引目光。文中：They described the practice as an experiment to see what kind of content catches the attention of their audience."
+      "term": "connects with",
+      "definitionEn": "To have a positive relationship or emotional bond with someone or something.",
+      "definitionZh": "與……產生共鳴、建立連結。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這裡非指物理上的連接，而是指行銷內容對受眾產生影響。文中：an experiment to see what kind of content connects with their audience."
     },
     {
       "term": "spot",
       "definitionEn": "To notice or identify someone or something, especially when it is difficult to see.",
       "definitionZh": "發現、辨認出。",
       "partOfSpeech": "verb",
-      "noteZh": "常見作名詞（斑點），這裡作動詞，指在眾多事物中辨識出某物。文中：As technology continues to improve, it will become even harder to spot the difference between a real person and a digital creation."
+      "noteZh": "常見作名詞（點、斑點），這裡作動詞用。文中：This makes it harder for the average person to spot when they are being sold a product by a machine."
     }
   ],
   "sources": [
@@ -81,61 +86,69 @@
   ],
   "story": {
     "id": "the-rise-of-ai-generated-influencers",
-    "type": "standalone",
-    "previousArticles": []
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "the-rise-of-ai-generated-influencers-jun-2026",
+        "title": "The Rise of AI Influencers: Are You Being Fooled Online?",
+        "publishedAt": "2026-06-21T22:14:01.837863Z",
+        "category": "technology",
+        "summaryEn": "Brands are now using AI-generated people to promote products on social media platforms. These digital characters often look like real humans, making it hard for customers to tell the difference. Experts worry that this lack of transparency could lead to people being misled by advertisements. While some regions are creating new laws to require clear labeling of AI content, other areas still lack these protections. Consumers are encouraged to be more careful about what they see online as the technology becomes more common."
+      }
+    ]
   },
   "quiz": [
     {
       "id": "q1",
       "type": "detail",
-      "question": "According to the article, why did the brand Ashle remove photos of a woman from their social media?",
+      "question": "According to the article, what action did the fashion brand 'Ashle' take after being contacted by The Guardian?",
       "options": {
-        "A": "They were pressured by The Guardian to admit the images were fake.",
-        "B": "The clothing items featured in the images were no longer available for purchase.",
-        "C": "They wanted to hide the fact that the woman in the photo had an extra finger.",
-        "D": "They realized that using AI-generated influencers was against the law."
+        "A": "They issued a public apology for misleading their customers.",
+        "B": "They removed the social media posts that contained AI-generated images.",
+        "C": "They admitted that AI influencers were their primary marketing strategy.",
+        "D": "They updated their images to fix the error regarding the extra finger."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。根據第四段，Ashle 的發言人解釋刪除照片的原因是該服裝設計已不再販售，而非因為 AI 技術本身。選項 A 錯誤，雖然他們被聯繫後刪除照片，但並非因為被強迫承認造假。選項 C 雖提到了多出一根手指的錯誤，但這僅是網友發現的瑕疵，並非官方聲稱的刪除動機。選項 D 錯誤，文中並未提到當時有相關法律限制其行為。"
+      "explanationZh": "正確答案為 B。根據文章第四段，當 The Guardian 聯繫 Ashle 時，該品牌移除了社交媒體頁面上的照片。選項 A 錯誤，文中未提到道歉；選項 C 錯誤，文中提到該品牌稱這些圖片僅用於早期發布階段，而非主要策略；選項 D 錯誤，文中僅提到他們移除了照片，並未提到進行修正。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "Based on the information provided, what can be inferred about the future of online advertising?",
+      "question": "What can be inferred about the current state of consumer protection regarding AI influencers?",
       "options": {
-        "A": "Companies will likely stop using AI influencers due to public backlash.",
-        "B": "It will become increasingly difficult for consumers to distinguish between authentic and artificial content.",
-        "C": "The European Union's new laws will effectively eliminate all AI-generated scams globally.",
-        "D": "Most companies will voluntarily disclose their use of AI to maintain customer trust."
+        "A": "Consumers in the UK are currently better protected than those in the European Union.",
+        "B": "Most countries have already implemented strict laws to label AI-generated advertisements.",
+        "C": "The absence of labeling requirements makes it difficult for consumers to distinguish between authentic and artificial marketing.",
+        "D": "Companies are legally required to disclose the use of AI if they use non-disclosure agreements."
       },
-      "correct": "B",
-      "explanationZh": "正確答案為 B。根據第七段，文章指出隨著技術進步，分辨真實人類與數位創作將變得更加困難。選項 A 錯誤，文中提到廣告商持續實驗這些工具，並未顯示停止跡象。選項 C 錯誤，歐盟的法律僅適用於歐盟境內，無法解決全球性的詐騙問題。選項 D 錯誤，文中提到許多公司甚至簽署保密協議來隱藏 AI 的使用，顯示企業並非主動透明。"
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第五、六段，目前缺乏強制標示 AI 內容的法律，且英國消費者缺乏歐盟即將實施的保護措施，這導致消費者難以判斷內容真偽。選項 A 與文意相反；選項 B 錯誤，文中提到目前缺乏相關法律；選項 D 錯誤，非揭露協議（NDA）是用來隱藏 AI 使用事實，而非強制揭露。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the final paragraph, what does the author mean by a 'healthy level of doubt'?",
+      "question": "In the final paragraph, what does the author mean by the phrase 'the gap between reality and digital fiction will only grow'?",
       "options": {
-        "A": "A suspicious attitude that leads to constant stress.",
-        "B": "A reasonable amount of skepticism when viewing online content.",
-        "C": "A medical condition caused by staring at screens for too long.",
-        "D": "A complete refusal to believe anything seen on social media."
+        "A": "It will become increasingly difficult to distinguish between real human content and AI-generated content.",
+        "B": "The amount of content produced by AI will decrease as technology improves.",
+        "C": "Digital influencers will eventually stop trying to look like real human beings.",
+        "D": "The physical distance between real people and digital screens will increase."
       },
-      "correct": "B",
-      "explanationZh": "正確答案為 B。在此語境下，「healthy level of doubt」意指在面對網路廣告時，應保持適度的懷疑與警覺，而非盲目相信。選項 A 錯誤，healthy 在此並非指造成壓力的負面情緒。選項 C 錯誤，這是對詞彙的錯誤解讀，與醫學無關。選項 D 錯誤，作者建議的是保持懷疑，而非完全否定所有資訊，這兩者程度不同。"
+      "correct": "A",
+      "explanationZh": "正確答案為 A。該句意指隨著 AI 技術進步，虛擬與現實的界線將越來越模糊。選項 B 錯誤，因為技術進步通常會增加內容產出；選項 C 錯誤，因為文章指出 AI 會變得更逼真；選項 D 錯誤，這是對句子的字面誤解，而非隱喻意義。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "What is the primary message of this article?",
+      "question": "What is the primary message of the article?",
       "options": {
-        "A": "AI technology is the most effective way for companies to increase their sales.",
-        "B": "The government should ban all AI-generated images to protect the public.",
-        "C": "The rise of AI influencers creates challenges for consumer transparency and honesty in advertising.",
-        "D": "Social media users are becoming better at identifying AI-generated content over time."
+        "A": "AI influencers are a revolutionary tool that will soon replace all human marketing professionals.",
+        "B": "The use of AI influencers is a harmless experiment that helps brands understand their audiences better.",
+        "C": "Consumers should be aware that AI-generated influencers are becoming common and often lack transparent labeling.",
+        "D": "The European Union is the only region capable of regulating the development of artificial intelligence."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。全文核心在於討論 AI 網紅的興起如何導致消費者被誤導，以及缺乏透明度所引發的誠信問題。選項 A 錯誤，文章並未評估 AI 的銷售成效，而是聚焦於其帶來的負面影響。選項 B 錯誤，文中僅提到歐盟要求標示，並未主張全面禁止。選項 D 錯誤，文中明確指出 70% 的人無法分辨真偽，顯示大眾辨識能力並未提升。"
+      "explanationZh": "正確答案為 C。本文旨在探討 AI 網紅崛起帶來的影響，強調其缺乏透明度以及對消費者造成的誤導風險，並提醒讀者保持警惕。選項 A 過度推論；選項 B 忽略了文章對消費者的擔憂；選項 D 錯誤，文中僅提到歐盟的法規進展，並未稱其為唯一有能力的地區。"
     }
   ],
   "aiGenerated": true,

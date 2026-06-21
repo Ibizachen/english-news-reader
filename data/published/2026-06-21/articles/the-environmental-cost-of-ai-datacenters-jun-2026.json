@@ -1,0 +1,161 @@
+{
+  "id": "2026-06-21-the-environmental-cost-of-ai-datacenters",
+  "slug": "the-environmental-cost-of-ai-datacenters-jun-2026",
+  "publishedAt": "2026-06-21T23:43:37.685418Z",
+  "category": "energy",
+  "title": "The Hidden Costs of Australia’s AI Datacenter Boom",
+  "subtitle": "As new projects move forward, experts question the environmental and economic impact of powering the artificial intelligence revolution.",
+  "summary": {
+    "en": "Australia is currently experiencing a rapid increase in the construction of large-scale datacenters to support global artificial intelligence growth. These facilities act as massive, climate-controlled warehouses that store and process the data needed for modern digital services. However, their high demand for electricity and water is raising concerns among local councils and energy experts. While some argue these projects could boost economic growth, others worry about the pressure on the national power grid. The debate now focuses on whether Australia can balance this digital expansion with its climate goals.",
+    "zh": "澳洲目前正經歷大規模資料中心建設的快速成長，以支援全球人工智慧的發展。這些設施如同大型且具備溫控功能的倉庫，負責儲存與處理現代數位服務所需的資料。然而，它們對電力與水資源的高需求，已引起地方議會與能源專家的擔憂。儘管有人認為這些計畫能促進經濟成長，但也有人擔心這會對國家電網造成壓力。目前的辯論焦點在於，澳洲能否在數位擴張與氣候目標之間取得平衡。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Australia is currently in the middle of a massive building boom for datacenters, the large warehouses that house the servers and IT equipment necessary for artificial intelligence. Following recent reports on the rapid growth of these facilities, new attention is turning toward a proposed project on Mamre Road in Sydney’s western suburbs. If approved, this site would become one of the largest in the world, featuring six four-storey buildings and hundreds of cooling units. This project is just one part of a $155 billion investment plan expected over the next decade.",
+      "zh": "澳洲目前正處於資料中心的大規模建設熱潮中，這些大型倉庫存放著人工智慧所需的伺服器與資訊科技設備。繼近期關於這些設施快速成長的報導後，位於雪梨西郊曼雷路（Mamre Road）的一項擬議開發案受到新的關注。若該計畫獲准，此處將成為全球最大的資料中心之一，包含六棟四層樓高的建築以及數百台冷卻裝置。此計畫僅是未來十年預計投入的一千五百五十億美元投資方案中的一部分。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Guardian, there are already about 160 datacenters operating across Australia, with another 90 currently being proposed. These facilities are essential for the modern digital economy, as they provide the power for cloud services and artificial intelligence. However, the scale of these new developments is causing significant debate. The Mamre Road project, for example, is expected to become the single largest energy user in the country once it begins operations, consuming more power than the Tomago aluminium smelter. Because of this high energy demand, the local Penrith council has expressed strong opposition to the plan.",
+      "zh": "根據《衛報》（The Guardian）報導，澳洲目前已有約一百六十座資料中心在運作，另有九十座正在規劃中。這些設施對於現代數位經濟至關重要，因為它們為雲端服務與人工智慧提供運算動力。然而，這些新開發案的規模引發了重大爭議。以曼雷路計畫為例，預計在開始營運後，它將成為全國單一最大的能源消耗者，耗電量甚至超過托馬戈（Tomago）鋁冶煉廠。由於這種高能源需求，當地的彭里斯（Penrith）市議會已對該計畫表達強烈反對。"
+    },
+    {
+      "id": "p3",
+      "en": "Energy experts are now questioning the long-term impact of this growth. Alex Hooper, the head of climate and energy economics at Oxford Economics Australia, noted that while there are opportunities for economic growth, the country must be smart about its approach. Hooper explained that datacenters currently account for 2.8% of electricity consumption on Australia’s east coast, but this figure is expected to rise to 7% by 2030 and over 10% by the mid-2030s. The Climate Council warned that if this extra demand is not matched by new renewable energy sources, wholesale electricity prices could rise by 20% by 2035.",
+      "zh": "能源專家目前正質疑這種成長帶來的長期影響。牛津經濟研究院澳洲分部（Oxford Economics Australia）氣候與能源經濟主管胡珀（Alex Hooper）指出，雖然這帶來了經濟成長的機會，但國家必須採取明智的應對方式。胡珀解釋，資料中心目前佔澳洲東岸電力消耗的百分之二點八，但預計到二零三零年此數字將升至百分之七，並在二零三零年代中期超過百分之十。氣候委員會（Climate Council）警告，若此額外需求未能由新的再生能源補足，批發電價在二零三五年之前可能會上漲百分之二十。"
+    },
+    {
+      "id": "p4",
+      "en": "Beyond electricity, these facilities require large amounts of water for cooling systems that prevent servers from overheating. They also require significant amounts of land, often located near residential areas. A major point of contention is whether these projects actually provide enough benefits to the local community. Studies from the United States suggest that while datacenters create many jobs during the construction phase, they only require a few hundred workers once they are fully operational. This has led some to wonder if the environmental and infrastructure costs are worth the limited long-term employment gains.",
+      "zh": "除了電力之外，這些設施還需要大量水資源來運作冷卻系統，以防止伺服器過熱。它們也需要相當大的土地面積，且通常位於住宅區附近。爭論的焦點之一在於，這些計畫是否真的為當地社區帶來足夠的利益。來自美國的研究顯示，雖然資料中心在建設階段創造了許多工作機會，但一旦全面營運，僅需數百名員工。這讓一些人懷疑，環境與基礎設施的代價是否值得那有限的長期就業收益。"
+    },
+    {
+      "id": "p5",
+      "en": "Despite these challenges, some experts remain hopeful that Australia can avoid the mistakes made by other countries. Beth Webster, an economics professor at Melbourne University, believes that Australia can learn from the United States, where developers were not always required to provide extra energy or water for their projects. Webster suggests that by setting stricter rules, Australia can ensure that the growth of artificial intelligence does not come at the expense of its climate goals or the stability of the local power grid.",
+      "zh": "儘管面臨這些挑戰，一些專家仍抱持希望，認為澳洲可以避免其他國家犯過的錯誤。墨爾本大學（Melbourne University）經濟學教授韋伯斯特（Beth Webster）認為，澳洲可以借鏡美國的經驗，在美國，開發商並不總是需要為其計畫提供額外的能源或水資源。韋伯斯特建議，透過制定更嚴格的規範，澳洲可以確保人工智慧的發展不會以犧牲氣候目標或當地電網穩定性為代價。"
+    },
+    {
+      "id": "p6",
+      "en": "As the government and local councils continue to review these proposals, the central question remains: how much investment is truly sustainable? The balance between supporting the global artificial intelligence revolution and protecting local resources is becoming a major challenge. Policymakers are now tasked with deciding how to manage this demand while ensuring that the country’s energy future remains affordable and reliable for all citizens. The outcome of the Mamre Road project may set a precedent for how future datacenters are managed across the nation.",
+      "zh": "隨著政府與地方議會持續審查這些提案，核心問題依然存在：究竟多少投資才是真正永續的？如何在支持全球人工智慧革命與保護在地資源之間取得平衡，正成為一項重大挑戰。決策者現在的任務是決定如何管理這種需求，同時確保國家的能源未來對所有公民而言既負擔得起又可靠。曼雷路計畫的結果，可能會為全國未來如何管理資料中心立下先例。"
+    }
+  ],
+  "wordCount": 628,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "boom",
+      "definitionEn": "A period of sudden, rapid growth or economic activity.",
+      "definitionZh": "（經濟或活動的）繁榮、激增。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（發出巨響），這裡作名詞，指產業的快速擴張。文中：Australia is currently in the middle of a massive building boom for datacenters, the large warehouses that house the servers and IT equipment necessary for artificial intelligence."
+    },
+    {
+      "term": "account for",
+      "definitionEn": "To form a particular amount or part of something.",
+      "definitionZh": "佔（比例、數量）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見意思為「解釋」，這裡指佔據數據比例。文中：Hooper explained that datacenters currently account for 2.8% of electricity consumption on Australia’s east coast, but this figure is expected to rise to 7% by 2030 and over 10% by the mid-2030s."
+    },
+    {
+      "term": "at the expense of",
+      "definitionEn": "In a way that causes harm to something else.",
+      "definitionZh": "以犧牲……為代價。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這是一個固定搭配，容易誤解為「在……的費用下」。文中：Webster suggests that by setting stricter rules, Australia can ensure that the growth of artificial intelligence does not come at the expense of its climate goals or the stability of the local power grid."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/2026/jun/22/australia-ai-datacentre-boom-environmental-impacts-climate-how-sustainable-is-it-artificial-intelligence",
+      "title": "Thirsty and power hungry: Australia is in the middle of a datacentre boom – but are they good for the economy?",
+      "publishedAt": "2026-06-21T15:00:33Z"
+    }
+  ],
+  "story": {
+    "id": "the-foundation-of-change-why-we-must-shift",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "the-environmental-impact-of-ai-datacenters-jun-2026",
+        "title": "Australia’s Datacenter Boom: The High Cost of the AI Revolution",
+        "publishedAt": "2026-06-21T22:14:01.837863Z",
+        "category": "energy",
+        "summaryEn": "Australia is currently experiencing a rapid increase in the construction of large-scale datacenters to support global artificial intelligence growth. While these facilities are essential for the modern digital economy, they require massive amounts of electricity and water. Experts warn that this surge in demand could significantly raise energy prices for regular citizens. Local governments are now questioning whether the economic benefits of these projects outweigh the environmental costs. The future of this industry depends on whether Australia can balance technological progress with sustainable energy management."
+      },
+      {
+        "slug": "datacenters-fuel-clean-energy-growth-and-climate-jun-2026",
+        "title": "The Datacenter Paradox: Powering the AI Boom While Challenging Climate Goals",
+        "publishedAt": "2026-06-19T23:13:06.145656Z",
+        "category": "energy",
+        "summaryEn": "The rapid growth of artificial intelligence datacenters is creating a complex situation for the energy industry. These facilities require massive amounts of electricity, which is boosting investment in wind and solar power. However, the high demand is also forcing some utility companies to keep old coal and gas plants running. This situation creates a difficult balance between technological progress and environmental protection. Experts describe this as a paradox where the same technology drives both green energy growth and climate risks."
+      },
+      {
+        "slug": "datacenters-driving-clean-energy-growth-jun-2026",
+        "title": "The Datacenter Paradox: Powering AI While Challenging Climate Goals",
+        "publishedAt": "2026-06-19T22:14:01.937565Z",
+        "category": "energy",
+        "summaryEn": "The rapid growth of artificial intelligence datacenters is creating a complex situation for the energy industry. These facilities require massive amounts of electricity, which is boosting investment in wind and solar power. However, the high demand is also forcing some utility companies to keep old coal and gas plants running. This trend is causing a split in the energy market, where some clean energy sectors are booming while others struggle. Experts describe this as a paradox where technology growth both helps and hurts environmental progress."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What does the article state about the energy consumption of the proposed Mamre Road datacenter?",
+      "options": {
+        "A": "It will consume less energy than current Australian industrial sites.",
+        "B": "It is projected to be the single largest energy user in Australia once operational.",
+        "C": "It will rely entirely on renewable energy sources to power its cooling units.",
+        "D": "It will consume 10% of Australia's total electricity by 2035."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第二段明確指出，Mamre Road 專案一旦開始運作，預計將成為全國單一最大的能源消耗者，甚至超過 Tomago 鋁冶煉廠。選項 A 與文意相反；選項 C 文章並未提及該專案將完全依賴再生能源；選項 D 的 10% 是指全澳洲資料中心在 2030 年代中期的總預估耗電量，而非單一專案的耗電量。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the information provided, why might local communities be skeptical about the benefits of new datacenters?",
+      "options": {
+        "A": "They believe datacenters will cause a permanent increase in local property taxes.",
+        "B": "They are concerned that datacenters will replace existing residential housing.",
+        "C": "They worry that the long-term job creation is insufficient compared to the infrastructure strain.",
+        "D": "They fear that artificial intelligence will eventually replace all local government workers."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第四段，研究顯示資料中心在建設階段雖能創造職位，但一旦正式營運，僅需極少數員工。因此，當地居民與官員質疑這些設施對環境與基礎設施造成的負擔，是否值得其帶來的有限就業機會。選項 A、B、D 在文中均未提及，屬於無中生有的選項。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what is the meaning of the word 'precedent'?",
+      "options": {
+        "A": "A previous event that serves as a guide for future similar situations.",
+        "B": "A financial penalty imposed on developers for failing to meet standards.",
+        "C": "A formal document that outlines the rules for building construction.",
+        "D": "A physical barrier built to protect residential areas from noise."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在文中，「precedent」意指「先例」。作者提到 Mamre Road 專案的結果可能會成為未來全國資料中心管理的標準或參考案例。選項 B、C、D 皆與「先例」的定義無關，屬於干擾選項，旨在測試學生是否能透過上下文推敲出法律或行政慣例的意涵。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary focus of the article?",
+      "options": {
+        "A": "The technological advancements in artificial intelligence servers.",
+        "B": "The history of industrial development in Sydney’s western suburbs.",
+        "C": "The challenges and debates surrounding the rapid expansion of datacenters in Australia.",
+        "D": "The urgent need for Australia to become the world leader in cloud computing."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。整篇文章從澳洲資料中心的建設熱潮切入，討論了能源消耗、環境影響、就業效益以及政策監管等議題，核心在於探討這種快速成長所帶來的挑戰與爭議。選項 A 僅是背景；選項 B 僅提及一個案例；選項 D 並非文章主旨，文章並未鼓吹澳洲成為全球領袖，而是強調「永續性」與「管理」的重要性。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
