@@ -1,0 +1,37 @@
+{
+  "id": "global-aging-labor-crisis",
+  "title": "The Silver Tsunami: Navigating the Global Labor Shortage",
+  "subtitle": "As birth rates decline and life expectancy rises, nations worldwide are forced to rethink their economic foundations.",
+  "description": "This series examines the structural shift caused by aging populations, exploring how shrinking workforces impact national economies and social welfare systems. Readers will gain insights into the complex intersection of demographics, immigration policy, and technological automation.",
+  "category": "economics",
+  "status": "active",
+  "updatedAt": "2026-06-22T06:30:35.897086Z",
+  "cadence": "5-part reading path. Complete series available.",
+  "articles": [
+    {
+      "slug": "global-aging-labor-crisis-part-1",
+      "label": "Part 1",
+      "note": "Explaining the fundamental causes of aging populations, including declining fertility rates and increased longevity."
+    },
+    {
+      "slug": "global-aging-labor-crisis-part-2",
+      "label": "Part 2",
+      "note": "Focusing on the impact of shrinking workforces on industries and national productivity."
+    },
+    {
+      "slug": "global-aging-labor-crisis-part-3",
+      "label": "Part 3",
+      "note": "Examining how countries are reacting through immigration, pension reform, and retirement age adjustments."
+    },
+    {
+      "slug": "global-aging-labor-crisis-part-4",
+      "label": "Part 4",
+      "note": "The impact on healthcare systems, family structures, and individual quality of life."
+    },
+    {
+      "slug": "global-aging-labor-crisis-part-5",
+      "label": "Part 5",
+      "note": "Exploring the potential of AI and robotics to mitigate labor shortages and future societal adaptations."
+    }
+  ]
+}
