@@ -1,0 +1,156 @@
+{
+  "id": "2026-06-24-china-s-supercomputer-overtakes-us-machines",
+  "slug": "china-s-supercomputer-overtakes-us-machines-jun-2026",
+  "publishedAt": "2026-06-24T22:13:26.618879Z",
+  "category": "technology",
+  "title": "China’s New Supercomputer Takes Top Spot in Global Rankings",
+  "subtitle": "The powerful LineShine machine marks a major shift in the race for technological leadership.",
+  "summary": {
+    "en": "A new Chinese supercomputer called LineShine has become the fastest in the world. It officially passed the US-based El Capitan in the latest Top500 rankings. This machine is unique because it uses standard computer chips instead of the specialized ones often used for AI. Experts note that these powerful computers are essential for scientific discoveries and national security. Meanwhile, other regions like Europe are investing heavily to keep up with this fast-moving technology.",
+    "zh": "中國一台名為 LineShine 的新型超級電腦已成為全球最快。在最新的五百強排行榜中，它正式超越了美國的酋長岩。這台機器的獨特之處在於它使用標準電腦晶片，而非人工智慧常用的特殊晶片。專家指出，這些強大的電腦對於科學發現與國家安全至關重要。同時，歐洲等其他地區也正投入大量資金，以跟上這項快速發展的技術。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "A powerful new supercomputer in China has officially taken the top spot as the fastest machine in the world. According to The Guardian Technology, the machine, known as LineShine, appeared on the Top500 list for the first time this week. This event is significant because it is the first time since 2017 that a Chinese computer has held the number one position. The ranking is often seen by experts as a clear measure of a nation’s technological strength.",
+      "zh": "中國一台強大的新型超級電腦正式躍居全球最快機器的榜首。根據《衛報科技》（The Guardian Technology）報導，這台名為「LineShine」的機器本週首次出現在「全球超級電腦五百強」（Top500）排行榜上。此事件意義重大，因為這是自二〇一七年以來，首次有中國電腦奪下第一名的寶座。專家通常將此排名視為衡量國家科技實力的明確指標。"
+    },
+    {
+      "id": "p2",
+      "en": "LineShine is located at China’s National Supercomputing Center in Shenzhen. Scientists involved in the Top500 project reported that the machine achieved 2.198 exaflops. This means it can perform more than 2 quintillion—or two billion billion—calculations every single second. To put this into perspective, supercomputers are more than 1,000 times faster than a regular home computer. They are used for complex tasks like finding medical breakthroughs, modeling climate systems, and even simulating nuclear explosions.",
+      "zh": "LineShine 位於中國深圳的國家超級計算中心。參與五百強計畫的科學家指出，該機器的運算效能達到每秒兩百一十九點八京次浮點運算（exaflops）。這意味著它每秒能執行超過兩百京次（即兩百萬兆次）的計算。為了讓大眾更有概念，超級電腦的運算速度比一般家用電腦快上一千倍以上。它們被用於處理複雜任務，例如尋求醫療突破、建立氣候系統模型，甚至是模擬核子爆炸。"
+    },
+    {
+      "id": "p3",
+      "en": "Before this change, the US-based computer El Capitan held the top position. El Capitan, which is located at the Lawrence Livermore National Laboratory in California, has now moved to second place. Two other US supercomputers, located at national laboratories in Tennessee and Illinois, also remain in the top five. The Jupiter supercomputer in Germany, which is now in fifth place, completes the list of the world’s five publicly verified exascale computers. An exascale computer is a machine capable of performing at least one quintillion calculations per second.",
+      "zh": "在此次變動之前，位於美國的「酋長岩」（El Capitan）超級電腦位居榜首。位於加州勞倫斯利佛摩國家實驗室（Lawrence Livermore National Laboratory）的酋長岩，現已退居第二名。另外兩台位於田納西州與伊利諾州國家實驗室的美國超級電腦，也依然保持在前五名之內。德國的「木星」（Jupiter）超級電腦目前排名第五，補齊了全球五台經公開驗證的百京級（exascale）電腦名單。百京級電腦是指每秒能執行至少一百京次計算的機器。"
+    },
+    {
+      "id": "p4",
+      "en": "One interesting detail about LineShine is how it is built. While many modern high-performance computers rely on graphics processors—specialized chips often used for artificial intelligence—LineShine runs entirely on conventional computer chips, known as CPUs. According to the Top500 list, the machine requires about 42.2 megawatts of electricity to operate. This is a massive amount of power, highlighting the intense energy needs of modern computing technology.",
+      "zh": "關於 LineShine 的一個有趣細節在於它的構造方式。雖然許多現代高效能電腦依賴圖形處理器（即常用於人工智慧的特殊晶片），但 LineShine 完全使用傳統的電腦晶片，也就是中央處理器（CPU）來運作。根據五百強排行榜的數據，該機器運作時需要約四十二點二百萬瓦的電力。這是一個極為龐大的耗電量，凸顯了現代運算技術對能源的巨大需求。"
+    },
+    {
+      "id": "p5",
+      "en": "Other countries are also working hard to advance their computing capabilities. The UK, for example, has 11 machines on the list, with the University of Bristol’s Isambard-AI ranking the highest among them at 11th place. Meanwhile, Australia’s best-performing machine, Setonix, is ranked 86th. These rankings show that while the US and China are currently leading, other nations are actively participating in this global competition.",
+      "zh": "其他國家也正致力於提升自身的運算能力。以英國為例，該國有十一台機器上榜，其中布里斯托大學（University of Bristol）的「伊桑巴德人工智慧」（Isambard-AI）排名最高，位居第十一名。同時，澳洲表現最好的機器「塞托尼克斯」（Setonix）則排名第八十六。這些排名顯示，儘管目前由美國與中國領先，其他國家也正積極參與這場全球競爭。"
+    },
+    {
+      "id": "p6",
+      "en": "Europe is also making a major effort to catch up. The Guardian Technology reported that the European Union has revealed a plan worth 20 billion euros to build new sites for massive supercomputers. These facilities are designed to help develop the next generation of artificial intelligence models. The EU strategy document suggests that these \"gigafactories\" will focus on \"moonshot\" innovations—ambitious projects that aim to solve very difficult problems in areas like healthcare, robotics, and scientific discovery.",
+      "zh": "歐洲也正努力追趕。據《衛報科技》報導，歐盟已公布一項價值兩百億歐元的計畫，旨在為大型超級電腦建設新站點。這些設施旨在協助開發下一代人工智慧模型。歐盟的戰略文件指出，這些「巨型工廠」將聚焦於「登月計畫」式的創新，即針對醫療保健、機器人學與科學發現等領域中極具挑戰性的難題，提出雄心勃勃的解決方案。"
+    },
+    {
+      "id": "p7",
+      "en": "However, these large-scale projects come with challenges. The EU strategy notes that these facilities will require huge amounts of electricity and water for cooling. An EU official mentioned that these centers should run on green energy as much as possible and look for ways to recycle water. Despite these goals, some campaigners are worried that such power-hungry centers could make it harder for Europe to meet its climate goals. As the demand for computing power continues to grow, balancing technological progress with environmental responsibility remains a difficult task for governments around the world.",
+      "zh": "然而，這些大型計畫伴隨著挑戰。歐盟戰略指出，這些設施將需要消耗大量的電力與水資源來進行冷卻。一位歐盟官員提到，這些中心應盡可能使用綠色能源，並尋求回收水資源的方法。儘管有這些目標，一些倡議人士仍擔心，這類耗電量巨大的中心可能會使歐洲更難達成氣候目標。隨著對運算能力的需求持續成長，在技術進步與環境責任之間取得平衡，對世界各國政府而言仍是一項艱鉅的任務。"
+    },
+    {
+      "id": "p8",
+      "en": "Ultimately, the rise of LineShine shows that the race to build the world’s most powerful computers is far from over. As countries continue to invest in these machines, they are not just competing for a spot on a list; they are building the tools that will define the future of science, industry, and national security. Whether through new hardware designs or massive investments in AI infrastructure, the global landscape of high-performance computing is changing rapidly.",
+      "zh": "總結來說，LineShine 的崛起顯示全球打造最強大電腦的競賽遠未結束。隨著各國持續投資這些機器，它們不僅是在爭奪排行榜上的名次，更是在打造將定義科學、產業與國家安全未來的工具。無論是透過新型硬體設計，還是對人工智慧基礎設施的大規模投資，全球高效能運算的版圖正迅速改變。"
+    }
+  ],
+  "wordCount": 712,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "spot",
+      "definitionEn": "A specific position or place in a ranking or list.",
+      "definitionZh": "（排名中的）位置、名次。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（弄髒）或名詞（斑點），這裡指排名中的位置。文中：A powerful new supercomputer in China has officially taken the top spot as the fastest machine in the world."
+    },
+    {
+      "term": "run on",
+      "definitionEn": "To use a particular type of power or fuel to operate.",
+      "definitionZh": "靠……運作、使用……作為能源。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見作動詞（跑），這裡指機器運作的能源來源。文中：LineShine runs entirely on conventional computer chips, known as CPUs."
+    },
+    {
+      "term": "catch up",
+      "definitionEn": "To reach the same level or standard as someone or something else that is ahead.",
+      "definitionZh": "趕上、追趕上。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見作動詞（抓住），這裡指在技術或進度上追趕領先者。文中：Europe is also making a major effort to catch up."
+    },
+    {
+      "term": "power-hungry",
+      "definitionEn": "Requiring a large amount of electricity to operate.",
+      "definitionZh": "耗電量大的、極度消耗能源的。",
+      "partOfSpeech": "adjective",
+      "noteZh": "由 power（電力）與 hungry（飢餓）組成，形容機器非常耗電。文中：Despite these goals, some campaigners are worried that such power-hungry centers could make it harder for Europe to meet its climate goals."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/2026/jun/24/china-supercomputer-world-fastest-top500-ranking-lineshine",
+      "title": "Chinese supercomputer leapfrogs best US machines to be ranked world’s fastest",
+      "publishedAt": "2026-06-24T01:18:11Z"
+    }
+  ],
+  "story": {
+    "id": "china-s-supercomputer-overtakes-us-machines",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What distinguishes the hardware architecture of LineShine from many other current high-performance computers?",
+      "options": {
+        "A": "It utilizes specialized chips designed specifically for AI tasks.",
+        "B": "It relies exclusively on traditional central processing units (CPUs).",
+        "C": "It requires significantly less electricity than machines using graphics processors.",
+        "D": "It is the only supercomputer that does not use graphics processors at all."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第四段，LineShine 與許多依賴圖形處理器（graphics processors）的高效能電腦不同，它是完全運行在傳統電腦晶片（CPUs）上。選項 A 錯誤，因為那是其他電腦的做法，而非 LineShine；選項 C 錯誤，文中提到它需要 42.2 兆瓦的電力，這被描述為巨大的能源需求，並未提到比其他機器省電；選項 D 雖然提到它用 CPU，但「唯一」這個絕對用語在文中並未明確證實，且選項 B 的敘述更精確符合原文。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the text, what can be inferred about the relationship between supercomputing and environmental sustainability?",
+      "options": {
+        "A": "Supercomputing centers are currently the primary cause of global climate change.",
+        "B": "Technological advancement in computing is inherently incompatible with green energy goals.",
+        "C": "Governments face a difficult trade-off between achieving high-level computing power and meeting climate targets.",
+        "D": "The EU's 'gigafactories' will be the first facilities to successfully solve the problem of water cooling."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章最後兩段，超級電腦需要極大的電力與冷卻用水，儘管歐盟希望使用綠能，但環保人士仍擔心這些耗電中心會阻礙氣候目標的達成。這顯示出科技進步與環境責任之間存在著難以平衡的衝突。選項 A 過度誇大，文中並未說它是主要原因；選項 B 錯誤，因為文中提到政府正在尋求綠能解決方案，並非完全不可相容；選項 D 錯誤，文中僅提到歐盟的計畫，並未保證其能成功解決冷卻用水問題。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the sixth paragraph, what does the term 'moonshot' mean in the context of the EU's innovation strategy?",
+      "options": {
+        "A": "Ambitious and difficult projects aimed at major breakthroughs.",
+        "B": "Small-scale experiments conducted in outer space.",
+        "C": "Projects that are funded exclusively by private space companies.",
+        "D": "Technological designs that focus on improving computer hardware speed."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。文中提到「moonshot」創新是指那些旨在解決醫療、機器人與科學發現等領域中極端困難問題的雄心勃勃計畫。這是一個比喻用法，意指像登月計畫一樣挑戰極限。選項 B 是對該詞的字面誤解，與太空無關；選項 C 與文中提到的歐盟資金來源不符；選項 D 雖然超級電腦與硬體有關，但「moonshot」在文中描述的是更廣泛的創新目標，而非僅限於硬體速度。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article regarding the current state of global supercomputing?",
+      "options": {
+        "A": "China has permanently secured its dominance in the field of global supercomputing.",
+        "B": "The US and China are the only two countries capable of building exascale computers.",
+        "C": "Supercomputing is a competitive global race that reflects national strength and shapes future scientific progress.",
+        "D": "The high energy consumption of supercomputers will likely lead to a global halt in their development."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章開頭提到超級電腦排名被視為國家科技實力的衡量標準，結尾則總結這是一場全球競爭，且這些機器將定義未來科學、工業與國家安全。選項 A 錯誤，文中提到競爭遠未結束；選項 B 錯誤，文中提到德國也有超級電腦；選項 D 錯誤，文中提到的是挑戰與平衡，而非停止發展。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}

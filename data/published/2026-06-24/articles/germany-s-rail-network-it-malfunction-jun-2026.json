@@ -1,0 +1,150 @@
+{
+  "id": "2026-06-24-germany-s-rail-network-it-malfunction",
+  "slug": "germany-s-rail-network-it-malfunction-jun-2026",
+  "publishedAt": "2026-06-24T22:13:26.618879Z",
+  "category": "society",
+  "title": "Germany’s Rail Network Faces Major Disruption After IT Failure",
+  "subtitle": "A technical error in the national communication system left thousands of passengers stranded across the country.",
+  "summary": {
+    "en": "Germany's national railway operator, Deutsche Bahn, recently experienced a massive nationwide IT disruption. The failure of a digital radio system forced the company to stop all train services for over two hours. While initial fears suggested a cyber-attack, the company later confirmed the issue was caused by a technical maintenance error. The incident has drawn attention to the aging infrastructure of Germany's rail network. Passengers faced significant delays and cancellations as the system slowly returned to normal.",
+    "zh": "德國國家鐵路營運商德國鐵路公司近期經歷了一場大規模的全國性資訊科技中斷。數位無線電系統的故障迫使該公司暫停所有列車服務超過兩小時。儘管最初擔憂是網路攻擊，但公司隨後證實問題是由技術維護失誤所引起。此事件引起大眾對德國鐵路網老舊基礎設施的關注。隨著系統緩慢恢復正常，乘客面臨了嚴重的延誤與班次取消。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Germany’s national rail operator, Deutsche Bahn, faced a major crisis on Tuesday night when a nationwide IT failure forced the company to pause all train services. For more than two-and-a-half hours, the country’s rail network came to a complete standstill. The disruption affected long-distance trains, regional services, and the S-Bahn trains that connect suburbs to city centers. According to the BBC, the problem started at 22:30 local time, leaving passengers stuck at stations or on tracks far from their destinations.",
+      "zh": "德國國家鐵路營運商德國鐵路公司（Deutsche Bahn）週二晚間面臨重大危機，一場全國性的資訊科技故障迫使該公司暫停所有列車服務。在超過兩個半小時的時間裡，全國鐵路網完全陷入停擺。這場中斷影響了長途列車、區域服務，以及連接郊區與市中心的城市快鐵（S-Bahn）。根據英國廣播公司（BBC）報導，問題始於當地時間晚間十點半，導致乘客受困於車站或距離目的地甚遠的軌道上。"
+    },
+    {
+      "id": "p2",
+      "en": "The cause of the chaos was a malfunction in the Global System for Mobile Communication for Railways, known as GSM-R. This is a wireless communication tool that allows train drivers to talk to traffic control centers. Without this system, trains cannot safely move, which forced the company to hold all vehicles as a safety measure. While many people initially worried that a cyber-attack had taken place, The Guardian reports that the failure was actually caused by a planned attempt to replace an old technical component in the network.",
+      "zh": "造成混亂的原因是鐵路全球行動通訊系統（GSM-R）發生故障。這是一種無線通訊工具，讓列車駕駛員能與交通控制中心通話。若沒有這套系統，列車便無法安全行駛，這迫使公司基於安全考量將所有車輛停駛。雖然許多人起初擔心是遭到網路攻擊，但《衛報》（The Guardian）報導指出，故障實際上是由於計畫更換網路中一個舊技術組件所引發的。"
+    },
+    {
+      "id": "p3",
+      "en": "Deutsche Bahn worked quickly to fix the issue, and services began to resume later that night. However, the company warned that delays and cancellations would continue for some time. In a statement, the operator apologized to passengers and offered to provide taxi and hotel vouchers to those who were unable to reach their homes. Evelyn Palla, the CEO of Deutsche Bahn, told the German newspaper Bild that the main priority was getting trains into stations so that travelers could finally get off.",
+      "zh": "德國鐵路公司迅速採取行動修復問題，服務於當晚稍晚開始恢復。然而，該公司警告延誤與取消的情況仍會持續一段時間。營運商在聲明中向乘客致歉，並提議為無法返家的旅客提供計程車與旅館抵用券。德國鐵路公司執行長艾芙琳·帕拉（Evelyn Palla）向德國《畫報》（Bild）表示，當前的首要任務是讓列車進入車站，以便旅客能順利下車。"
+    },
+    {
+      "id": "p4",
+      "en": "This event has highlighted deeper problems within Germany’s railway system. Once known for being on time and highly efficient, the network has struggled with frequent delays and technical issues in recent years. The Guardian notes that the GSM-R system relies on 1990s 2G technology, which is the same type used in the first mobile phones. Because modern 5G technology is not expected to replace it until 2035, the company has had to search for and buy old parts from around the world to keep the system running.",
+      "zh": "此事件凸顯了德國鐵路系統內部的深層問題。該鐵路網曾以準時與高效率聞名，近年來卻飽受頻繁延誤與技術問題所苦。《衛報》指出，鐵路全球行動通訊系統依賴的是一九九○年代的二代行動通訊技術，與早期手機使用的類型相同。由於現代的五代行動通訊技術預計要到二○三五年才能取代它，該公司不得不從世界各地搜尋並購買舊零件，以維持系統運作。"
+    },
+    {
+      "id": "p5",
+      "en": "Philipp Nagl, the chief executive of DB InfraGO, the state-owned company responsible for railway infrastructure, said they are analyzing the cause of the failure with the \"highest priority\" to ensure it does not happen again. The government still owns 100% of Deutsche Bahn, which operates about 50,000 trains every day across a massive network of over 33,000 kilometers. Because of this, the state of the railways is often seen as a sign of the country’s overall economic health. Many people in Germany have expressed frustration, as the rail system is frequently compared to other aging infrastructure, such as broken roads and old school buildings.",
+      "zh": "負責鐵路基礎設施的國營企業「德國鐵路基礎設施公司」（DB InfraGO）執行長菲利普·納格爾（Philipp Nagl）表示，他們正以「最高優先級」分析故障原因，以確保此類事件不再發生。德國政府目前仍百分之百持有德國鐵路公司，該公司每天在超過三萬三千公里的龐大路網上營運約五萬班列車。正因如此，鐵路的狀況常被視為國家整體經濟健康的指標。許多德國民眾對此表達不滿，因為鐵路系統常被拿來與其他老舊的基礎設施相提並論，例如破損的道路與老舊的校舍。"
+    },
+    {
+      "id": "p6",
+      "en": "Experts suggest that the path forward will not be easy. The railway is currently undergoing a multi-billion-euro overhaul, but Evelyn Palla has warned that significant improvements will likely take several years to complete. For now, the network remains fragile. Even in major hubs like Berlin, other systems have faced issues, such as a recent case where dozens of escalators at the central station broke down and required engineers to be flown in from Finland for repairs.",
+      "zh": "專家認為，未來的改善之路並不容易。鐵路系統目前正進行數十億歐元的全面翻修，但艾芙琳·帕拉警告，顯著的改善可能需要數年時間才能完成。目前，鐵路網依然脆弱。即使在柏林等主要樞紐，其他系統也曾面臨問題，例如近期曾發生中央車站數十座手扶梯故障，必須從芬蘭空運工程師前來維修的案例。"
+    },
+    {
+      "id": "p7",
+      "en": "As the country looks toward the future, the pressure on Deutsche Bahn to modernize is growing. The recent IT failure has served as a reminder of how much work is still needed to bring the network up to modern standards. For the thousands of passengers who were left waiting on Tuesday night, the incident was a frustrating example of the challenges facing Germany’s transport system. While the immediate technical issue has been resolved, the conversation about how to fix the aging railway infrastructure is only just beginning.",
+      "zh": "隨著德國展望未來，德國鐵路公司面臨的現代化壓力日益增加。近期發生的資訊科技故障提醒了眾人，要將鐵路網提升至現代標準仍需付出多少努力。對於週二晚間被迫等待的數千名乘客而言，這起事件是德國交通系統所面臨挑戰的一個令人沮喪的例子。雖然眼前的技術問題已經解決，但關於如何修復老舊鐵路基礎設施的討論才剛剛開始。"
+    }
+  ],
+  "wordCount": 685,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "standstill",
+      "definitionEn": "A situation where all activity or movement has stopped.",
+      "definitionZh": "停滯、停頓狀態。",
+      "partOfSpeech": "noun",
+      "noteZh": "常與動詞 come 搭配使用，形容活動完全停止。文中：For more than two-and-a-half hours, the country’s rail network came to a complete standstill."
+    },
+    {
+      "term": "hold",
+      "definitionEn": "To keep something in a particular place or state, or to stop it from moving.",
+      "definitionZh": "暫停、扣留、使保持不動。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作「持有」，這裡指暫停交通工具的運行。文中：Without this system, trains cannot safely move, which forced the company to hold all vehicles as a safety measure."
+    },
+    {
+      "term": "overhaul",
+      "definitionEn": "A thorough examination and repair of a system or machine.",
+      "definitionZh": "全面檢修、徹底改造。",
+      "partOfSpeech": "noun",
+      "noteZh": "此字常被誤以為是動詞，但在這裡作為名詞使用，指大規模的系統升級。文中：The railway is currently undergoing a multi-billion-euro overhaul, but Evelyn Palla has warned that significant improvements will likely take several years to complete."
+    }
+  ],
+  "sources": [
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
+      "title": "Germany rail network briefly halted nationwide due to IT malfunction",
+      "publishedAt": "2026-06-23T23:46:01Z"
+    },
+    {
+      "name": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/jun/24/germany-rail-network-deutsche-bahn-standstill-it-replacement",
+      "title": "Germany’s railways grind to halt as IT maintenance snag takes down network",
+      "publishedAt": "2026-06-24T17:37:19Z"
+    }
+  ],
+  "story": {
+    "id": "germany-s-rail-network-it-malfunction",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What was the specific reason for the nationwide train standstill on Tuesday night?",
+      "options": {
+        "A": "A successful cyber-attack on the German rail network.",
+        "B": "A malfunction during a planned update of a technical component.",
+        "C": "A complete failure of the 5G technology used by the trains.",
+        "D": "A strike by train drivers protesting against poor working conditions."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，雖然大眾起初擔心是網路攻擊，但《衛報》報導指出，故障其實是源於一項更換舊技術組件的計畫性作業。選項 A 錯誤，因為文章明確否定了網路攻擊的可能性。選項 C 錯誤，因為文章提到系統目前仍依賴 2G 技術，而非 5G。選項 D 在文中完全未提及，屬於無中生有的干擾選項。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the information provided, why might the German government be particularly concerned about the state of the railway system?",
+      "options": {
+        "A": "Because the railway system is privately owned and does not pay taxes.",
+        "B": "Because the railway system is a direct competitor to the country's road network.",
+        "C": "Because the condition of the railways is viewed as a reflection of Germany's economic health.",
+        "D": "Because the government is planning to sell the railway network to a foreign company."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第五段，由於政府擁有 Deutsche Bahn 百分之百的股權，且鐵路網規模龐大，鐵路的狀況常被視為國家整體經濟健康的指標。選項 A 與事實相反，文中提到政府擁有該公司。選項 B 文中並未提及鐵路與公路是競爭對手，僅提到兩者皆屬於老舊基礎設施。選項 D 文中並未提到任何出售鐵路的計畫。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the sixth paragraph, what does the word 'fragile' mean as used in the context of the railway network?",
+      "options": {
+        "A": "Easily broken or likely to fail.",
+        "B": "Highly advanced and complex.",
+        "C": "Expensive to maintain.",
+        "D": "Flexible and easy to change."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在第六段中，作者提到鐵路網正在進行昂貴的翻修，但 Evelyn Palla 警告改善需要數年時間，因此網路目前依然「fragile」（脆弱的）。這意味著系統極不穩定，容易再次發生故障。選項 B 與文章描述的「老舊且問題頻傳」相反。選項 C 雖是事實，但並非「fragile」一詞在此處表達的核心含義。選項 D 則完全曲解了該詞的意涵。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article?",
+      "options": {
+        "A": "The German government has successfully modernized its rail network to 5G standards.",
+        "B": "Deutsche Bahn is the most efficient and punctual rail operator in the world.",
+        "C": "A recent IT failure highlights the urgent need to address systemic issues in Germany's aging rail infrastructure.",
+        "D": "Passengers should avoid using trains in Germany until the year 2035."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。全文從一次具體的 IT 故障切入，進而探討德國鐵路系統面臨的深層問題，如技術老舊（2G）、基礎設施維護困難以及現代化進程緩慢，強調了改革的迫切性。選項 A 與文意完全相反，現代化尚未完成。選項 B 與文中提到的「經常延誤」衝突。選項 D 雖提到 2035 年，但文章並未建議乘客完全放棄搭乘火車，僅是描述了現況的挑戰。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
