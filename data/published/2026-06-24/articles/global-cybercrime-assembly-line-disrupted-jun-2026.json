@@ -1,0 +1,151 @@
+{
+  "id": "2026-06-24-global-cybercrime-assembly-line-disrupted",
+  "slug": "global-cybercrime-assembly-line-disrupted-jun-2026",
+  "publishedAt": "2026-06-24T23:21:05.608266Z",
+  "category": "technology",
+  "title": "Global Operation Shuts Down Major Cybercrime 'Assembly Line'",
+  "subtitle": "International authorities and technology companies work together to stop tools used for stealing passwords and money.",
+  "summary": {
+    "en": "International police and technology companies have successfully disrupted two major cybercrime tools. The tools, known as Amadey and StealC, were used to steal login information and money from people around the world. These platforms acted like an assembly line for criminals, making it easier to launch attacks. Microsoft used artificial intelligence to find that both tools shared the same digital infrastructure. This allowed authorities to take action against both systems at the same time.",
+    "zh": "國際警方與科技公司成功瓦解了兩項主要的網路犯罪工具。這些名為 Amadey 與 StealC 的工具被用於在全球各地竊取登入資訊與金錢。這些平台如同犯罪分子的生產線，讓發動攻擊變得更加容易。微軟利用人工智慧發現這兩種工具共享相同的數位基礎設施，這使得當局能夠同時對這兩個系統採取行動。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "In a major victory against online crime, international authorities and private technology companies have worked together to stop a dangerous cybercrime operation. This operation acted like an 'assembly line' for criminals, helping them steal millions of dollars and private information from people across the globe. By working together, these groups were able to disrupt two different tools that hackers frequently use to commit fraud.",
+      "zh": "在打擊網路犯罪的一場重大勝利中，國際執法當局與私人科技公司攜手合作，成功阻止了一項危險的網路犯罪行動。該行動如同犯罪分子的「生產線」，協助他們在全球各地竊取數百萬美元及私人資訊。透過通力合作，這些組織成功瓦解了駭客經常利用來進行詐騙的兩種工具。"
+    },
+    {
+      "id": "p2",
+      "en": "According to Ars Technica, the operation targeted two specific tools: Amadey and StealC. These tools are sold as services, meaning criminals can pay to use them to carry out their own attacks. Amadey is a type of malware—software designed to damage or gain unauthorized access to a computer—that helps attackers get into a device. Once inside, they can use it to deliver other harmful programs, such as ransomware, which is a type of software that locks a user's files until they pay money to get them back.",
+      "zh": "根據科技新聞網站 Ars Technica 報導，此次行動鎖定了兩種特定工具：Amadey 與 StealC。這些工具以服務形式對外販售，意即犯罪分子只需付費，就能利用它們發動各自的攻擊。Amadey 是一種惡意軟體，即設計用來破壞電腦或在未經授權下存取電腦的程式，它能協助攻擊者入侵裝置。一旦進入系統，攻擊者便能利用它植入其他有害程式，例如勒索軟體，這是一種會鎖定使用者檔案，直到受害者支付贖金才解鎖的軟體。"
+    },
+    {
+      "id": "p3",
+      "en": "StealC works in a different way. It is an 'infostealer,' a tool designed to secretly collect sensitive data. This includes login passwords, authentication cookies, and even cryptocurrency wallets. By using these two tools together, criminals could easily break into a computer and then steal everything of value stored on it. Ars Technica reports that these tools have been responsible for stealing more than $47 million and millions of login credentials.",
+      "zh": "StealC 的運作方式則有所不同。它是一種「資訊竊取程式」，專門用來秘密蒐集敏感資料，包括登入密碼、驗證 Cookie，甚至是加密貨幣錢包。透過結合這兩種工具，犯罪分子能輕易入侵電腦，並竊取儲存在其中的所有貴重資產。Ars Technica 報導指出，這些工具已導致超過四千七百萬美元的損失，以及數百萬筆登入憑證遭竊。"
+    },
+    {
+      "id": "p4",
+      "en": "While Amadey and StealC are separate tools run by different people, many criminals use them together to make their attacks more effective. Microsoft, which played a key role in the operation, used artificial intelligence to study how these tools work. They discovered that despite being separate, both tools relied on the same underlying digital infrastructure to function. This discovery was the key to the success of the operation. Because they shared the same foundation, Microsoft was able to ask for a legal order to disrupt both tools at the same time.",
+      "zh": "雖然 Amadey 與 StealC 是由不同人士營運的獨立工具，但許多犯罪分子會將兩者搭配使用，以提升攻擊成效。在此次行動中扮演關鍵角色的微軟（Microsoft）利用人工智慧研究這些工具的運作模式，發現儘管兩者互不隸屬，卻依賴相同的底層數位基礎設施來運作。這項發現是行動成功的關鍵。由於它們共享相同的基礎，微軟得以申請法律命令，同時瓦解這兩種工具。"
+    },
+    {
+      "id": "p5",
+      "en": "Microsoft explained that this action was important because it targeted the entire 'assembly line' of cybercrime. By stopping these tools, they are making it much harder for criminals to launch coordinated attacks that lead to financial fraud or the disruption of public services. Amadey has been active since at least 2018, and in the past year, it was even seen using the popular coding platform GitHub to hide its activities and collect information from infected devices.",
+      "zh": "微軟解釋，這項行動之所以重要，是因為它針對的是整個網路犯罪的「生產線」。透過阻斷這些工具，他們大幅增加了犯罪分子發動導致金融詐騙或公共服務中斷等協同攻擊的難度。Amadey 至少自二〇一八年起就已活躍，在過去一年中，甚至被發現利用熱門程式碼平台 GitHub 來隱藏其活動，並從受感染的裝置中蒐集資訊。"
+    },
+    {
+      "id": "p6",
+      "en": "This operation highlights how modern cybercrime has become a business. Criminals no longer need to be experts in writing code; they can simply rent these 'malware-as-a-service' platforms. This makes it possible for even inexperienced people to carry out serious crimes. By taking down these platforms, authorities hope to make the internet a safer place for everyone.",
+      "zh": "這項行動凸顯了現代網路犯罪已演變成一種商業模式。犯罪分子不再需要具備編寫程式的專業知識，只需租用這些「惡意軟體即服務」平台即可。這使得即便是缺乏經驗的人，也能犯下嚴重的罪行。透過剷除這些平台，當局希望能讓網路對所有人而言變得更加安全。"
+    },
+    {
+      "id": "p7",
+      "en": "However, experts warn that this is only one step in a much larger fight. While the disruption of Amadey and StealC is a significant blow to criminal networks, the people behind these tools often find new ways to operate. The success of this mission shows that cooperation between private companies and law enforcement is essential for protecting users from digital threats. As technology continues to evolve, the methods used to fight these crimes must also keep changing to stay one step ahead of the attackers.",
+      "zh": "然而，專家警告這僅是長期抗戰中的一小步。雖然瓦解 Amadey 與 StealC 對犯罪網絡造成了重大打擊，但這些工具背後的操盤手往往能找到新的運作方式。此次任務的成功顯示，私人企業與執法單位之間的合作，對於保護使用者免受數位威脅至關重要。隨著科技持續演進，打擊這些犯罪的手法也必須不斷更新，才能在與攻擊者的較量中保持領先。"
+    }
+  ],
+  "wordCount": 612,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "assembly line",
+      "definitionEn": "A series of workers and machines in a factory by which a succession of identical items is progressively assembled; here used metaphorically to describe a systematic, repetitive process for crime.",
+      "definitionZh": "裝配線、流水線；文中用來比喻犯罪集團有系統、標準化的作業流程。",
+      "partOfSpeech": "idiom",
+      "noteZh": "字面上是工廠的生產線，這裡比喻犯罪活動的系統化過程。文中：This operation acted like an 'assembly line' for criminals, helping them steal millions of dollars and private information from people across the globe."
+    },
+    {
+      "term": "deliver",
+      "definitionEn": "To distribute or transmit something to a destination; here used in a technical context to mean installing or injecting malicious software.",
+      "definitionZh": "傳送、遞送；這裡指將惡意軟體植入電腦系統中。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見於快遞或演講，這裡指網路攻擊中「植入」病毒的動作。文中：Once inside, they can use it to deliver other harmful programs, such as ransomware, which is a type of software that locks a user's files until they pay money to get them back."
+    },
+    {
+      "term": "taking down",
+      "definitionEn": "To remove or dismantle something, especially a website, service, or illegal operation.",
+      "definitionZh": "拆除、關閉（網站或非法服務）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見於「記下」或「拆除建築」，這裡指關閉網路服務。文中：By taking down these platforms, authorities hope to make the internet a safer place for everyone."
+    },
+    {
+      "term": "blow",
+      "definitionEn": "A sudden shock or a damaging setback to someone or something.",
+      "definitionZh": "打擊、挫折。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（吹氣），這裡作名詞表示對犯罪組織的沉重打擊。文中：While the disruption of Amadey and StealC is a significant blow to criminal networks, the people behind these tools often find new ways to operate."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
+      "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
+      "publishedAt": "2026-06-24T21:03:34Z"
+    }
+  ],
+  "story": {
+    "id": "global-cybercrime-assembly-line-disrupted",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, how has the malware Amadey attempted to conceal its operations during the past year?",
+      "options": {
+        "A": "By creating fake cryptocurrency wallets to confuse investigators.",
+        "B": "By utilizing the coding platform GitHub to store data and mask its activity.",
+        "C": "By disguising itself as a legitimate Microsoft security update.",
+        "D": "By operating exclusively on private networks that are difficult to track."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第五段，文中明確提到 Amadey 在過去一年中利用熱門編碼平台 GitHub 來隱藏其活動並從受感染設備中收集資訊。選項 A 雖然提到加密貨幣錢包，但那是 StealC 的功能，非 Amadey 的隱蔽手段。選項 C 與 D 皆未在文中提及，屬於無中生有的干擾選項。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the 'malware-as-a-service' business model from the article?",
+      "options": {
+        "A": "It requires criminals to have advanced degrees in computer science.",
+        "B": "It has significantly decreased the total amount of money stolen by hackers.",
+        "C": "It lowers the barrier to entry for individuals who lack specialized programming skills.",
+        "D": "It ensures that criminals are caught more easily because they use shared platforms."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第六段，文章指出罪犯不再需要成為編寫程式的專家，只需租用這些平台即可進行犯罪，這暗示了該模式降低了犯罪門檻。選項 A 與文意相反，文中強調不需要專家。選項 B 錯誤，因為文章提到這些工具已造成 4700 萬美元的損失，並未顯示總金額下降。選項 D 雖然提到合作破獲，但並未暗示使用共享平台會讓罪犯更容易被抓，這僅是調查成功的關鍵因素。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the author mean by the phrase 'a significant blow' to criminal networks?",
+      "options": {
+        "A": "A powerful and damaging impact that disrupts their operations.",
+        "B": "A physical confrontation between authorities and hackers.",
+        "C": "A minor annoyance that does not affect long-term planning.",
+        "D": "A sudden increase in the number of people joining the networks."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在此上下文中，「a significant blow」意指對犯罪網絡造成了重大打擊或嚴重損害，使其運作受阻。選項 B 將「blow」誤解為物理上的打擊，不符合語境。選項 C 與 D 的解釋與「significant」（重大的）和「blow」（打擊）的負面含義完全相反，故皆為錯誤選項。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article regarding the recent action against Amadey and StealC?",
+      "options": {
+        "A": "Microsoft is the only company capable of stopping global cybercrime.",
+        "B": "Cybercrime is becoming less profitable due to new government regulations.",
+        "C": "The fight against cybercrime requires ongoing collaboration between the private sector and law enforcement.",
+        "D": "StealC is a more dangerous tool than Amadey because it targets financial data directly."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章的核心在於強調國際當局與科技公司（如 Microsoft）合作的重要性，並在結尾指出這種合作對於應對數位威脅是不可或缺的。選項 A 過度誇大 Microsoft 的角色，文中也提到國際當局的參與。選項 B 與文意不符，文中並未提到法規的影響。選項 D 雖然正確描述了 StealC 的功能，但這只是細節，並非整篇文章的主旨。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
