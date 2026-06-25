@@ -1,0 +1,152 @@
+{
+  "id": "2026-06-25-australia-faces-legal-challenge-over-fossil-fuels",
+  "slug": "australia-faces-legal-challenge-over-fossil-fuels-jun-2026",
+  "publishedAt": "2026-06-25T22:13:35.661206Z",
+  "category": "energy",
+  "title": "The Growing Global Fight Against Datacentres and Fossil Fuels",
+  "subtitle": "From Australia to Ireland, communities are using the law to challenge how big tech and energy policies affect the climate.",
+  "summary": {
+    "en": "A new report shows that legal cases against datacentres are rising across the world. These lawsuits focus on how these facilities use massive amounts of energy and water. In Australia, citizens are also challenging the government over fossil fuel exports. Meanwhile, countries like Ireland and the US face similar legal battles regarding energy policy. These actions show that citizens are increasingly using the courts to demand better environmental protection.",
+    "zh": "一份新報告顯示，針對資料中心的法律案件在全球各地不斷增加。這些訴訟聚焦於這些設施如何消耗大量的能源與水資源。在澳洲，公民也正因化石燃料出口問題挑戰政府。同時，愛爾蘭與美國等國也面臨關於能源政策的類似法律戰。這些行動顯示，公民正日益頻繁地利用法院來要求更好的環境保護。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The world is seeing a major increase in legal actions against the technology industry and energy policies. A new report from the London School of Economics (LSE) shows that datacentres—the large buildings that house computer servers for AI and cloud services—are now a primary target for climate-related lawsuits. These cases, which have grown in number since 2015, challenge how these facilities use electricity, water, and their impact on air quality.",
+      "zh": "全球針對科技產業與能源政策的法律行動正大幅增加。倫敦政經學院（London School of Economics, LSE）的一份新報告顯示，資料中心——即容納人工智慧與雲端服務電腦伺服器的大型建築——已成為氣候相關訴訟的主要目標。這些案件自二〇一五年以來數量不斷成長，挑戰這些設施的用電、用水方式及其對空氣品質的影響。"
+    },
+    {
+      "id": "p2",
+      "en": "This trend follows a recent legal challenge in Australia, where a group of citizens took their case to the United Nations. They argue that the Australian government’s decision to continue exporting coal and gas violates their human rights. The group claims that these fossil fuel exports make climate change worse, which has already led to severe disasters in their country, such as intense bushfires and floods. This case is part of a larger global movement where people are using the law to hold governments and companies responsible for their environmental impact.",
+      "zh": "此趨勢源於近期澳洲的一項法律挑戰，一群公民向聯合國提出訴訟。他們主張澳洲政府持續出口煤炭與天然氣的決定侵犯了他們的人權。該團體聲稱，這些化石燃料出口加劇了氣候變遷，已導致該國發生嚴重的災難，例如強烈的森林大火與洪水。此案是全球運動的一部分，人們正透過法律手段，要求政府與企業為其環境影響負起責任。"
+    },
+    {
+      "id": "p3",
+      "en": "The LSE report highlights that these legal battles are happening in many different countries. In Chile, for example, residents successfully stopped a Google datacentre project in Santiago. They argued that the project did not properly consider the impact on the city’s water supply, which is already under pressure from climate change. Although that specific project was halted, the report notes that the rapid growth of datacentres continues to put a strain on wetlands across the country.",
+      "zh": "倫敦政經學院的報告強調，這些法律戰正發生在許多不同的國家。例如在智利，當地居民成功阻止了谷歌（Google）在聖地牙哥的資料中心計畫。他們主張該計畫未妥善評估對城市供水的影響，而該市的水資源已因氣候變遷而面臨壓力。儘管該特定計畫已暫停，但報告指出，資料中心的快速擴張仍持續對全國的濕地造成負擔。"
+    },
+    {
+      "id": "p4",
+      "en": "Ireland has become a major center for these legal challenges. The Irish government wants the technology sector to grow, even though datacentres already use more than one-fifth of the nation’s electricity. In December, the Commission for the Regulation of Utilities (CRU) decided that large energy users could continue to use fossil fuels for another six years. After that period, these companies must use at least 80% renewable energy—energy that comes from natural sources like wind or sun that do not run out. However, groups such as Friends of the Irish Environment and ClientEarth are seeking a judicial review. This is a process where a court checks if a government decision was made correctly. These groups argue that the decision will force Ireland to rely on expensive and polluting fossil gas for many years.",
+      "zh": "愛爾蘭已成為這些法律挑戰的主要中心。愛爾蘭政府希望科技產業成長，儘管資料中心的用電量已超過全國總電力的五分之一。去年十二月，公用事業監管委員會（Commission for the Regulation of Utilities, CRU）決定，大型能源用戶可繼續使用化石燃料六年。在此期限後，這些企業必須使用至少百分之八十的再生能源——即來自風力或太陽能等不會耗盡的自然資源能源。然而，「愛爾蘭環境之友」（Friends of the Irish Environment）與「地球客戶」（ClientEarth）等團體正尋求司法審查。這是一種由法院檢視政府決策是否合規的程序。這些團體主張，該決定將迫使愛爾蘭在未來多年內依賴昂貴且高污染的化石天然氣。"
+    },
+    {
+      "id": "p5",
+      "en": "The United States is also seeing a rise in legal actions. In Mississippi, a group called the National Association for the Advancement of Colored People has filed a lawsuit against xAI, a company owned by Elon Musk. They argue that the company is breaking the Clean Air Act by using portable gas generators without the right permits. They claim these generators create health risks for nearby minority communities. The US Department of Justice is attempting to stop this lawsuit, arguing that the company’s work is important for the economy. Meanwhile, in California, the city of Pittsburg now requires new datacentres to use renewable energy and recycled water for cooling their servers.",
+      "zh": "美國的法律行動也在增加。在密西西比州，一個名為「全國有色人種協進會」（National Association for the Advancement of Colored People）的團體對伊隆·馬斯克（Elon Musk）旗下的 xAI 公司提起訴訟。他們主張該公司在未取得適當許可的情況下使用移動式發電機，違反了《清淨空氣法》。他們聲稱這些發電機對附近的少數族群社區造成健康風險。美國司法部正試圖阻止此訴訟，主張該公司的工作對經濟至關重要。與此同時，在加州，匹茲堡市現在要求新建的資料中心必須使用再生能源與回收水來冷卻伺服器。"
+    },
+    {
+      "id": "p6",
+      "en": "In the United Kingdom, campaigners recently challenged the government over the construction of a large datacentre in Buckinghamshire. Groups like Foxglove and Global Action Plan argued that the government ignored the project’s high electricity and water needs. The government later admitted that there were flaws in the approval process, and the lawsuit was dropped. The developer now agrees that they must include environmental protections in a binding contract with the local council.",
+      "zh": "在英國，倡議人士近期針對白金漢郡一座大型資料中心的建設挑戰政府。像「狐狸手套」（Foxglove）與「全球行動計畫」（Global Action Plan）等團體主張，政府忽視了該計畫對電力與水資源的高需求。政府隨後承認審核過程存在瑕疵，訴訟因而撤銷。開發商現已同意，必須在與地方議會簽署的具法律約束力合約中，納入環境保護條款。"
+    },
+    {
+      "id": "p7",
+      "en": "According to the LSE report, these cases in the US and UK show that legal action is a powerful tool. It can force governments and companies to change how they make decisions about the environment. While the technology industry continues to expand, these lawsuits suggest that the public is no longer willing to accept projects that do not prioritize the planet. As the world moves toward a future that relies more on AI and digital services, the debate over how to power these technologies will likely continue to be settled in courtrooms around the globe.",
+      "zh": "根據倫敦政經學院的報告，這些發生在美國與英國的案件顯示，法律行動是一項強而有力的工具。它能迫使政府與企業改變其環境決策方式。隨著科技產業持續擴張，這些訴訟顯示大眾已不再願意接受不重視地球環境的計畫。當世界邁向更依賴人工智慧與數位服務的未來時，關於如何為這些技術提供能源的辯論，很可能會持續在全球各地的法庭上進行裁決。"
+    }
+  ],
+  "wordCount": 732,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "house",
+      "definitionEn": "To provide space or a place for something to be kept or stored.",
+      "definitionZh": "容納、安置。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（房子），這裡作動詞用，指建築物提供空間存放設備。文中：datacentres—the large buildings that house computer servers for AI and cloud services—are now a primary target for climate-related lawsuits."
+    },
+    {
+      "term": "strain",
+      "definitionEn": "A force or pressure that causes difficulty or damage.",
+      "definitionZh": "壓力、負擔。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（拉緊），這裡作名詞，指資源承受過大壓力。文中：Although that specific project was halted, the report notes that the rapid growth of datacentres continues to put a strain on wetlands across the country."
+    },
+    {
+      "term": "dropped",
+      "definitionEn": "To stop pursuing or continuing a legal case or plan.",
+      "definitionZh": "撤銷、放棄（法律訴訟或計畫）。",
+      "partOfSpeech": "verb (past participle)",
+      "noteZh": "常見作動詞（掉落），這裡指法律上的撤訴。文中：The government later admitted that there were flaws in the approval process, and the lawsuit was dropped."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Business",
+      "url": "https://www.theguardian.com/environment/2026/jun/25/datacentres-facing-increase-in-global-climate-related-legal-cases-report-finds",
+      "title": "Datacentres are growing target of global climate-related legal cases, report finds",
+      "publishedAt": "2026-06-25T10:03:54Z"
+    }
+  ],
+  "story": {
+    "id": "the-foundation-of-change-why-we-must-shift",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "climate-vulnerability-of-global-datacenters-jun-2026",
+        "title": "Australia Faces New Legal Challenge Over Fossil Fuel Exports",
+        "publishedAt": "2026-06-23T23:20:58.885311Z",
+        "category": "energy",
+        "summaryEn": "A group of Australians has filed a legal claim with the United Nations against their government. They argue that exporting coal and gas violates their human rights by worsening climate change. The group points to recent disasters like bushfires and floods as evidence of the harm caused. This action follows a major international ruling that allows countries to be held accountable for climate impacts. The case highlights the growing tension between economic exports and the urgent need to protect citizens from extreme weather."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the specific requirement for large energy users in Ireland after the six-year transition period mentioned by the CRU?",
+      "options": {
+        "A": "They must completely stop using fossil fuels.",
+        "B": "They must source at least 80% of their energy from renewable sources.",
+        "C": "They must reduce their total electricity consumption by 20%.",
+        "D": "They must move their datacentres to locations with better water access."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第四段，愛爾蘭能源監管委員會（CRU）決定大型能源用戶在六年的過渡期後，必須至少使用 80% 的再生能源。選項 A 錯誤，因為文章僅要求 80% 而非完全停止使用化石燃料。選項 C 混淆了 80% 的能源比例與用電量減少。選項 D 在文章中並未提及作為強制要求。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the impact of public legal challenges on datacentre development?",
+      "options": {
+        "A": "Legal challenges have successfully stopped every proposed datacentre project globally.",
+        "B": "Governments are now prioritizing economic growth over environmental concerns in all cases.",
+        "C": "Legal actions are effectively forcing developers and governments to incorporate stricter environmental safeguards.",
+        "D": "The technology industry has decided to stop building new datacentres due to the high cost of lawsuits."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章最後一段及各國案例（如英國 Buckinghamshire 的案例與加州 Pittsburg 的新規定），法律行動迫使開發商與政府在核准過程中必須納入環境保護措施。選項 A 錯誤，因為並非所有項目都被終止。選項 B 與文章論點相反，政府在壓力下正被迫調整決策。選項 D 過度推論，文章並未提到產業停止擴張，僅提到擴張過程受到更多監管。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fourth paragraph, what does the word 'binding' mean in the phrase 'binding contract'?",
+      "options": {
+        "A": "A contract that is legally enforceable and cannot be easily ignored.",
+        "B": "A contract that is written in very simple and clear language.",
+        "C": "A contract that involves multiple parties working together.",
+        "D": "A contract that is temporary and will expire after a short time."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在法律語境中，「binding」意指具有法律約束力的，即簽署後各方必須遵守，否則將面臨法律後果。選項 B 與契約的法律效力無關；選項 C 描述的是合作性質而非契約的強制力；選項 D 則與「binding」的含義完全相反，binding 通常代表長期且嚴肅的承諾。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of this article?",
+      "options": {
+        "A": "The technology industry is the sole cause of the world's current climate crisis.",
+        "B": "Legal action is increasingly being used as a tool to hold entities accountable for the environmental impact of digital infrastructure.",
+        "C": "The United Nations is the primary organization responsible for regulating datacentres worldwide.",
+        "D": "Renewable energy is the only way to power future AI and cloud services effectively."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。全文主旨圍繞著全球各地如何透過法律手段，挑戰科技產業（特別是耗能的數據中心）及能源政策對環境的負面影響。選項 A 誇大了科技業的責任；選項 C 錯誤，聯合國僅是案例之一，並非全球監管機構；選項 D 雖然提到再生能源是趨勢，但並非文章探討的核心論點，文章重點在於「法律行動」作為改變決策的工具。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
