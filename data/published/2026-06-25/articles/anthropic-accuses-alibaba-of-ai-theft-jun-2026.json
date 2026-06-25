@@ -1,74 +1,79 @@
 {
   "id": "2026-06-25-anthropic-accuses-alibaba-of-ai-theft",
   "slug": "anthropic-accuses-alibaba-of-ai-theft-jun-2026",
-  "publishedAt": "2026-06-25T22:13:35.661206Z",
+  "publishedAt": "2026-06-25T23:43:23.325630Z",
   "category": "technology",
-  "title": "Anthropic Accuses Alibaba of Large-Scale AI Theft",
-  "subtitle": "The US tech firm claims its rival used millions of fake accounts to copy advanced artificial intelligence capabilities.",
+  "title": "Anthropic Accuses Alibaba of Massive AI Technology Theft",
+  "subtitle": "The US-based AI company claims its rival used millions of fake interactions to copy its most advanced technology.",
   "summary": {
-    "en": "US-based AI company Anthropic has accused Chinese firm Alibaba of stealing technology from its Claude model. Anthropic claims Alibaba used thousands of fake accounts to perform millions of exchanges to train its own AI. This process, known as a distillation attack, allows companies to copy expensive technology at a low cost. Anthropic has asked the US Congress to take action against such practices. Alibaba has not yet commented on these specific accusations.",
-    "zh": "總部位於美國的人工智慧公司 Anthropic 指控中國企業阿里巴巴竊取其 Claude 模型的技術。Anthropic 聲稱阿里巴巴利用數千個假帳號進行數百萬次交流，藉此訓練自家的人工智慧。這種稱為「蒸餾攻擊」的過程，讓企業能以低成本複製昂貴的技術。Anthropic 已要求美國國會針對此類行為採取行動。阿里巴巴尚未對這些具體指控發表評論。"
+    "en": "US AI firm Anthropic has accused Chinese technology giant Alibaba of stealing its Claude model's capabilities. Anthropic claims that operators linked to Alibaba used nearly 25,000 fake accounts to perform millions of exchanges. This method, known as a distillation attack, allows companies to train their own AI models using the work of others. Anthropic has asked the US Congress to take action against such activities to protect American research. Alibaba has previously denied similar allegations regarding its ties to the Chinese military.",
+    "zh": "美國人工智慧公司 Anthropic 指控中國科技巨頭阿里巴巴竊取其 Claude 模型的能力。Anthropic 聲稱與阿里巴巴有關的營運者使用了近 2 萬 5 千個假帳號進行了數百萬次的交流。這種稱為「蒸餾攻擊」的方法，讓企業能利用他人的成果來訓練自己的人工智慧模型。Anthropic 已要求美國國會針對此類活動採取行動，以保護美國的研究成果。阿里巴巴先前已否認過關於其與中國軍方有關聯的類似指控。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "A major conflict has emerged in the world of artificial intelligence. Anthropic, a leading US-based AI company, has accused the Chinese technology giant Alibaba of stealing its AI technology. In a letter sent to US Senators Tim Scott and Elizabeth Warren, Anthropic described what it called the largest campaign of its kind to copy the capabilities of its AI model, Claude.",
-      "zh": "人工智慧領域爆發了一場重大衝突。總部位於美國的領先人工智慧公司 Anthropic 指控中國科技巨頭阿里巴巴竊取其人工智慧技術。在致美國參議員史考特 (Tim Scott) 與華倫 (Elizabeth Warren) 的信函中，Anthropic 形容這是有史以來規模最大、旨在複製其人工智慧模型 Claude 功能的行動。"
+      "en": "The US-based artificial intelligence company Anthropic has made a serious accusation against its Chinese rival, Alibaba. In a letter sent to US Senators Tim Scott and Elizabeth Warren, Anthropic claimed that Alibaba carried out what it described as the largest campaign of its kind to steal the capabilities of its Claude AI model. This development follows a series of similar accusations regarding how Chinese firms are working to match the performance of American AI technology.",
+      "zh": "總部位於美國的人工智慧公司 Anthropic 對其中國競爭對手阿里巴巴（Alibaba）提出了嚴厲指控。在致美國參議員史考特（Tim Scott）與華倫（Elizabeth Warren）的一封信中，Anthropic 聲稱阿里巴巴執行了該公司所稱的史上最大規模竊取其 Claude 人工智慧模型能力的行動。在此之前，已有一系列關於中國企業如何試圖追趕美國人工智慧技術表現的類似指控。"
     },
     {
       "id": "p2",
-      "en": "According to BBC News, the company claims that operators linked to Alibaba used thousands of fraudulent accounts to interact with Claude nearly 29 million times. Ars Technica reports that these interactions took place between April 22 and June 5. Anthropic stated that the goal of this activity was to perform a \"distillation attack.\" This is a process where a weaker AI model is trained by asking a stronger model, like Claude, to provide answers and reasoning. By doing this, a company can copy the advanced skills of a top-tier model without spending the huge amounts of money required for original research and development.",
-      "zh": "根據英國廣播公司新聞網 (BBC News) 報導，該公司聲稱與阿里巴巴有關聯的營運商利用數千個詐騙帳號，與 Claude 進行了近 2,900 萬次的互動。科技媒體 Ars Technica 報導指出，這些互動發生在 4 月 22 日至 6 月 5 日之間。Anthropic 表示，此類活動的目的是進行「蒸餾攻擊」。這是一種透過要求較強大的模型（如 Claude）提供答案與推理過程，進而訓練較弱人工智慧模型的手段。透過這種方式，企業無需投入原創研發所需的巨額資金，即可複製頂尖模型的先進技能。"
+      "en": "According to the letter, which was dated June 10, operators linked to Alibaba and its AI lab, Alibaba Qwen, allegedly used nearly 25,000 fraudulent accounts to interact with Claude. Between April 22 and June 5, these accounts performed more than 28.8 million exchanges with the model. Anthropic stated that these actions were a clear violation of its terms of service and access rules, which are meant to prevent such unauthorized use.",
+      "zh": "根據這封日期為 6 月 10 日的信件，與阿里巴巴及其人工智慧實驗室「阿里通義千問」（Alibaba Qwen）有關的營運者，涉嫌使用近 2 萬 5 千個詐騙帳號與 Claude 進行互動。在 4 月 22 日至 6 月 5 日期間，這些帳號與該模型進行了超過 2,880 萬次的交流。Anthropic 表示，這些行為明顯違反了其服務條款與存取規則，而這些規則旨在防止此類未經授權的使用。"
     },
     {
       "id": "p3",
-      "en": "Anthropic noted that the attackers targeted some of Claude’s most valuable features. These include the model's ability to solve complex software engineering problems and its skill in handling long-term tasks. The company argued that these attacks are happening on an \"industrial scale.\" By using these methods, Anthropic claims that Chinese firms are turning billions of dollars of American investment into a free resource for their own geopolitical competitors.",
-      "zh": "Anthropic 指出，攻擊者鎖定了 Claude 最具價值的幾項功能，包括該模型解決複雜軟體工程問題的能力，以及處理長期任務的技巧。該公司主張這些攻擊正以「工業規模」進行。Anthropic 聲稱，透過這些手段，中國企業正將數十億美元的美國投資轉化為自身地緣政治競爭對手的免費資源。"
+      "en": "Anthropic explained that the attackers used a technique called a \"distillation attack.\" In this process, a weaker AI model is trained by using the answers and data provided by a stronger, more advanced model. By doing this, companies can copy the intelligence of a high-level model without spending the massive amounts of money and time required for original research and development. Anthropic noted that the attackers specifically targeted Claude’s most valuable skills, including its ability to complete complex tasks, perform software engineering, and engage in advanced decision-making.",
+      "zh": "Anthropic 解釋說，攻擊者使用了一種稱為「蒸餾攻擊」的技術。在此過程中，透過使用更強大、更先進模型所提供的答案與數據，來訓練一個較弱的人工智慧模型。藉由這種方式，企業無需花費原創研發所需的大量資金與時間，即可複製高階模型的智慧。Anthropic 指出，攻擊者特別鎖定了 Claude 最具價值的技能，包括其完成複雜任務、執行軟體工程以及進行高階決策的能力。"
     },
     {
       "id": "p4",
-      "en": "This is not the first time such accusations have been made. Both BBC News and Ars Technica mention that other major US AI developers, including OpenAI and Google, have reported similar attacks on their own models. US developers have previously claimed that Chinese competitors use these techniques to build rival technology at only a small fraction of the actual cost. Anthropic warned that there is now a growing \"circumvention economy\"—a system where people find ways to bypass rules—that helps these companies hide their activities using complex technical tricks.",
-      "zh": "這並非首次出現此類指控。英國廣播公司新聞網與 Ars Technica 皆提到，包括 OpenAI 與 Google 在內的其他美國大型人工智慧開發商，也曾通報其模型遭受類似攻擊。美國開發商先前即主張，中國競爭對手利用這些技術，僅以實際成本的一小部分便打造出對抗性的技術。Anthropic 警告，目前正出現一種日益擴大的「規避經濟」——即透過複雜的技術手段繞過規則並隱藏活動的體系。"
+      "en": "To avoid being caught, the operators allegedly used complex methods to hide their identity, including \"proxy networks\"—systems that route internet traffic through different locations to mask the true source. Anthropic warned that these tactics are becoming more common, creating what it called a \"circumvention economy\" where groups help each other bypass security measures to steal AI technology. The company argued that these attacks turn billions of dollars of American investment into a \"massive subsidy\" for its geopolitical competitors, effectively letting them use US research for free.",
+      "zh": "為了避免被發現，這些營運者涉嫌使用複雜的方法來隱藏身分，包括「代理網路」——即透過不同地點傳輸網路流量以掩蓋真實來源的系統。Anthropic 警告說，這些策略正變得越來越普遍，形成了一種該公司所謂的「規避經濟」，即各個組織互相協助繞過安全措施以竊取人工智慧技術。該公司主張，這些攻擊將數十億美元的美國投資轉化為對其地緣政治競爭對手的「巨額補貼」，實際上讓他們能免費使用美國的研究成果。"
     },
     {
       "id": "p5",
-      "en": "The situation is complicated by broader tensions between the US and China regarding technology and national security. Anthropic pointed to claims from the US Department of Defense that suggest several major Chinese firms, including Alibaba, have ties to the Chinese military. While these companies have denied such claims, the tension remains high. In fact, Alibaba has recently taken legal action against the US government, asking to be removed from a list of companies that the US military considers a security risk.",
-      "zh": "美中兩國在科技與國家安全方面的廣泛緊張關係，使局勢更為複雜。Anthropic 引述美國國防部的說法，指出包括阿里巴巴在內的多家中國大型企業與中國軍方有關聯。儘管這些公司否認相關指控，但緊張局勢依然高漲。事實上，阿里巴巴近期已對美國政府採取法律行動，要求將其從美國軍方認定的安全風險企業名單中移除。"
+      "en": "This is not the first time Anthropic has raised concerns about such activities. Earlier this year, the company accused other Chinese firms, including DeepSeek, Moonshot, and MiniMax, of using similar tactics to extract data from its models. Other major US tech companies, such as OpenAI and Google, have also reported that their AI models have been targeted by similar efforts. Anthropic stated that these actions are being carried out on an \"industrial scale\" to help Chinese companies repackage American technology as their own.",
+      "zh": "這並非 Anthropic 首次對此類活動表示擔憂。今年稍早，該公司曾指控包括深度求索（DeepSeek）、月之暗面（Moonshot）與 MiniMax 在內的其他中國企業，使用類似策略從其模型中提取數據。其他美國大型科技公司，如 OpenAI 與 Google，也曾報告其人工智慧模型遭到類似手段的鎖定。Anthropic 表示，這些行為正以「工業規模」進行，旨在協助中國企業將美國技術重新包裝為己有。"
     },
     {
       "id": "p6",
-      "en": "Anthropic is currently preparing for a major move into the public stock market, which could make it one of the most valuable companies in the world. As the company grows, it is urging the US Congress to create stricter rules to stop these attacks. Anthropic believes that without new measures, US technology will continue to be stolen, which could threaten both the economy and national security.",
-      "zh": "Anthropic 目前正準備進軍公開股票市場，這可能使其成為全球最有價值的公司之一。隨著公司成長，它正敦促美國國會制定更嚴格的規則以遏止這些攻擊。Anthropic 認為，若無新措施，美國技術將持續遭到竊取，這可能威脅到經濟與國家安全。"
+      "en": "Beyond the issue of AI theft, the situation is complicated by broader tensions between the two nations. Anthropic’s letter pointed to claims from the US Department of Defense that suggest Alibaba and other major Chinese firms have ties to the Chinese military. These claims have been a point of significant conflict. In response to being placed on a US government blacklist, Alibaba has taken legal action, suing the government in an attempt to have its name removed from the list. The companies involved in these allegations have generally denied any wrongdoing or connections to military activities.",
+      "zh": "除了人工智慧竊取問題外，兩國之間更廣泛的緊張局勢也使情況變得複雜。Anthropic 的信件指出了美國國防部的說法，暗示阿里巴巴與其他中國大型企業與中國軍方有關聯。這些說法一直是重大衝突的焦點。為了回應被列入美國政府的黑名單，阿里巴巴已採取法律行動，控告美國政府，試圖將其名稱從名單中移除。涉案企業通常否認有任何不當行為或與軍事活動有關聯。"
     },
     {
       "id": "p7",
-      "en": "For now, the situation remains a point of serious disagreement. While Anthropic has provided details about the millions of exchanges it recorded, Alibaba has not yet provided a public response to these specific claims. The case highlights how difficult it is to protect advanced software in a world where AI models are becoming more powerful and more valuable every day. As the race to build the best AI continues, these \"distillation attacks\" are likely to remain a major concern for tech companies and government officials alike.",
-      "zh": "目前，此情況仍是嚴重的爭議焦點。儘管 Anthropic 提供了其記錄的數百萬次交流細節，但阿里巴巴尚未針對這些具體指控做出公開回應。此案凸顯了在人工智慧模型日益強大且價值與日俱增的世界中，保護先進軟體是多麼困難。隨著打造最強人工智慧的競賽持續進行，這些「蒸餾攻擊」很可能仍是科技公司與政府官員共同關注的重大問題。"
+      "en": "Anthropic is currently preparing for a major stock market debut, which is expected to make it one of the most valuable companies in the world. As it grows, the company is urging the US Congress to take stronger action to penalize companies that engage in these attacks. Anthropic believes that without stricter measures, American AI companies will continue to face threats to their intellectual property. The company emphasized that protecting these technologies is a matter of national security, especially as the competition to develop the most powerful AI models intensifies globally.",
+      "zh": "Anthropic 目前正準備進行大規模的股票上市，預計將使其成為全球最有價值的公司之一。隨著公司成長，它正敦促美國國會採取更強有力的行動，懲罰參與這些攻擊的企業。Anthropic 認為，若沒有更嚴格的措施，美國人工智慧公司將持續面臨智慧財產權受威脅的風險。該公司強調，保護這些技術是國家安全問題，尤其是在全球開發最強大人工智慧模型的競爭日益激烈之際。"
+    },
+    {
+      "id": "p8",
+      "en": "As of now, the situation remains a point of high tension in the tech industry. While Anthropic continues to provide evidence of these \"distillation attacks,\" the debate over how to protect AI research from being copied by foreign competitors is likely to continue in the halls of the US government. For now, both the tech companies and policymakers are watching closely to see how these accusations will impact future regulations and the ongoing race for AI dominance.",
+      "zh": "截至目前，此情況仍是科技產業高度緊張的焦點。儘管 Anthropic 持續提供這些「蒸餾攻擊」的證據，但關於如何保護人工智慧研究免受外國競爭對手複製的辯論，很可能會在美國政府內部持續進行。目前，科技公司與政策制定者都在密切關注這些指控將如何影響未來的法規，以及持續進行中的人工智慧主導權之爭。"
     }
   ],
-  "wordCount": 628,
+  "wordCount": 724,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
-      "term": "linked to",
-      "definitionEn": "Connected to or associated with someone or something.",
-      "definitionZh": "與……有關聯的；與……掛鉤的。",
-      "partOfSpeech": "phrasal verb",
-      "noteZh": "此處表示幕後操縱者與該公司有聯繫，而非實體連接。文中：According to BBC News, the company claims that operators linked to Alibaba used thousands of fraudulent accounts to interact with Claude nearly 29 million times."
+      "term": "match",
+      "definitionEn": "To be equal to or as good as someone or something else.",
+      "definitionZh": "與……匹敵、比得上。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（比賽）或動詞（配對），這裡指能力相當。文中：This development follows a series of similar accusations regarding how Chinese firms are working to match the performance of American AI technology."
     },
     {
-      "term": "scale",
-      "definitionEn": "The size, extent, or importance of something.",
-      "definitionZh": "規模；程度。",
+      "term": "subsidy",
+      "definitionEn": "Financial support given to help a process or business, often used here ironically to mean getting something for free that others paid for.",
+      "definitionZh": "補助金、津貼。",
       "partOfSpeech": "noun",
-      "noteZh": "常見作名詞（秤、刻度），這裡指事件發生的廣度或嚴重程度。文中：Anthropic noted that the attackers targeted some of Claude’s most valuable features. These include the model's ability to solve complex software engineering problems and its skill in handling long-term tasks. The company argued that these attacks are happening on an \"industrial scale.\""
+      "noteZh": "此處用引號表示反諷，指競爭對手免費獲取美國的研發成果。文中：The company argued that these attacks turn billions of dollars of American investment into a \"massive subsidy\" for its geopolitical competitors, effectively letting them use US research for free."
     },
     {
-      "term": "move",
-      "definitionEn": "An action taken to achieve a goal or a change in status.",
-      "definitionZh": "行動；舉措。",
+      "term": "debut",
+      "definitionEn": "The first public appearance of something, such as a company's stock on the market.",
+      "definitionZh": "首次亮相、初次登場。",
       "partOfSpeech": "noun",
-      "noteZh": "常見作動詞（移動），這裡作名詞指公司的一項重大商業決策。文中：Anthropic is currently preparing for a major move into the public stock market, which could make it one of the most valuable companies in the world."
+      "noteZh": "常指藝人首次演出，這裡指公司首次公開募股（IPO）。文中：Anthropic is currently preparing for a major stock market debut, which is expected to make it one of the most valuable companies in the world."
     }
   ],
   "sources": [
@@ -87,61 +92,69 @@
   ],
   "story": {
     "id": "anthropic-accuses-alibaba-of-ai-theft",
-    "type": "standalone",
-    "previousArticles": []
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "anthropic-accuses-alibaba-of-ai-theft-jun-2026",
+        "title": "Anthropic Accuses Alibaba of Large-Scale AI Theft",
+        "publishedAt": "2026-06-25T22:13:35.661206Z",
+        "category": "technology",
+        "summaryEn": "US-based AI company Anthropic has accused Chinese firm Alibaba of stealing technology from its Claude model. Anthropic claims Alibaba used thousands of fake accounts to perform millions of exchanges to train its own AI. This process, known as a distillation attack, allows companies to copy expensive technology at a low cost. Anthropic has asked the US Congress to take action against such practices. Alibaba has not yet commented on these specific accusations."
+      }
+    ]
   },
   "quiz": [
     {
       "id": "q1",
       "type": "detail",
-      "question": "Over what specific period did the alleged 'distillation attack' on Claude take place?",
+      "question": "What specific method did Anthropic claim was used to extract information from its Claude AI model?",
       "options": {
-        "A": "Between April 22 and June 5",
-        "B": "Throughout the entire year of 2023",
-        "C": "From the time Claude was first released until early June",
-        "D": "During the months of May and June"
+        "A": "Directly hacking into the company's central servers to steal source code.",
+        "B": "Using a weaker model to learn from the responses of a stronger model.",
+        "C": "Deploying malware to track the keystrokes of Anthropic's software engineers.",
+        "D": "Buying access to the model through official corporate partnerships."
       },
-      "correct": "A",
-      "explanationZh": "正確答案為 A。根據文章第二段，文中明確指出這些互動發生在 4 月 22 日至 6 月 5 日之間。選項 B 並未提及具體年份或全年數據；選項 C 錯誤地推測了攻擊起始時間；選項 D 雖然包含部分時間，但忽略了 4 月份的數據，因此 A 是最精確的答案。"
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，Anthropic 指出攻擊者使用「蒸餾攻擊」(distillation attack)，即利用較弱的 AI 模型透過向較強的模型提問並學習其回答來複製其能力。選項 A 錯誤，因為文章未提及駭入伺服器；選項 C 的惡意軟體與文章內容不符；選項 D 錯誤，因為這是未經授權的行為，而非官方合作。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "What can be inferred about the 'distillation attack' strategy?",
+      "question": "Based on the article, why does Anthropic describe these attacks as a 'massive subsidy' for its competitors?",
       "options": {
-        "A": "It is a method used primarily to crash an AI system's server",
-        "B": "It requires the attacker to have their own original AI research team",
-        "C": "It allows companies to bypass the high costs of independent research",
-        "D": "It is a legal way for companies to share data with competitors"
+        "A": "Because the Chinese government is paying Anthropic directly for the use of its technology.",
+        "B": "Because Alibaba is paying a subscription fee to use Claude for its own research.",
+        "C": "Because the attackers avoid the high costs of R&D by stealing the results of American investments.",
+        "D": "Because Anthropic is receiving tax breaks from the US government for reporting these incidents."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。根據文章第二段，蒸餾攻擊（distillation attack）讓公司能透過強大的模型來訓練較弱的模型，進而複製先進技能，而不需投入高昂的研發經費。選項 A 錯誤，這並非為了癱瘓系統；選項 B 與文中提到的「節省研發成本」目標衝突；選項 D 錯誤，這明顯被 Anthropic 指控為盜竊行為，並非合法共享。"
+      "explanationZh": "正確答案為 C。文章第四段提到，這些攻擊讓對手能以「免費」方式使用美國的研究成果，省去了原本研發 AI 所需的巨額時間與金錢成本，因此 Anthropic 將其比喻為一種「巨額補貼」。選項 A、B 與 D 皆與文章脈絡不符，特別是這些行為並非合法交易或政府補貼，而是透過竊取手段達成的經濟優勢。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the fourth paragraph, what does the term 'circumvention economy' refer to?",
+      "question": "In the context of the fourth paragraph, what does the word 'circumvention' mean?",
       "options": {
-        "A": "A system where companies trade AI models for profit",
-        "B": "A network of methods used to bypass rules and hide activities",
-        "C": "The financial loss caused by AI technology theft",
-        "D": "The growth of the AI industry in the global market"
+        "A": "The act of finding a way around a rule or security barrier.",
+        "B": "The process of improving the efficiency of a computer network.",
+        "C": "The legal procedure for filing a lawsuit against a foreign company.",
+        "D": "The act of publicly announcing a new technological discovery."
       },
-      "correct": "B",
-      "explanationZh": "正確答案為 B。文章第四段將其定義為「a system where people find ways to bypass rules」，即繞過規則並隱藏行為的系統。選項 A 誤解了該詞的負面意涵；選項 C 將其視為損失而非手段；選項 D 則過於籠統，未捕捉到「規避規則」這一核心意義。"
+      "correct": "A",
+      "explanationZh": "正確答案為 A。文中提到「circumvention economy」是指一群人互相幫助以繞過安全措施來竊取技術。Circumvent 的字根包含「繞過」之意，在此處指規避安全防護。選項 B 與技術優化無關；選項 C 與法律訴訟無關；選項 D 與公開發表無關，皆非此詞在文中的正確含義。"
     },
     {
       "id": "q4",
       "type": "main_idea",
       "question": "What is the primary message of the article?",
       "options": {
-        "A": "Alibaba has officially admitted to stealing technology from Anthropic",
-        "B": "The US government has already banned all Chinese AI companies",
-        "C": "AI developers are facing significant challenges in protecting their technology from large-scale theft",
-        "D": "Anthropic is currently the only company affected by AI distillation attacks"
+        "A": "Alibaba is the only company currently challenging the dominance of US AI firms.",
+        "B": "Anthropic is seeking to improve its relationship with Chinese tech companies through dialogue.",
+        "C": "The US government has successfully stopped all attempts by foreign firms to copy AI technology.",
+        "D": "Anthropic is raising alarms about AI intellectual property theft, framing it as a national security concern."
       },
-      "correct": "C",
-      "explanationZh": "正確答案為 C。全文的核心在於探討 Anthropic 對阿里巴巴的指控，並延伸至 AI 產業面臨的「蒸餾攻擊」威脅及保護先進軟體的困難。選項 A 錯誤，因為文中提到阿里巴巴尚未回應；選項 B 與文中事實不符；選項 D 錯誤，因為文中提到 OpenAI 和 Google 也曾遭遇類似攻擊。"
+      "correct": "D",
+      "explanationZh": "正確答案為 D。本文主要報導 Anthropic 指控中國企業竊取 AI 技術，並強調這不僅是商業糾紛，更涉及國家安全與智慧財產權保護，呼籲美國國會採取行動。選項 A 錯誤，因為文中提到還有其他公司；選項 B 與事實相反，雙方正處於對立面；選項 C 錯誤，因為政府尚未解決此問題，威脅依然存在。"
     }
   ],
   "aiGenerated": true,
