@@ -1,0 +1,164 @@
+{
+  "id": "2026-06-26-openai-faces-regulatory-hurdles-for-new-ai-model",
+  "slug": "openai-faces-regulatory-hurdles-for-new-ai-model-jun-2026",
+  "publishedAt": "2026-06-26T23:33:55.290880Z",
+  "category": "technology",
+  "title": "OpenAI Releases New AI Models Under Strict Government Supervision",
+  "subtitle": "The tech company navigates new safety rules while facing ongoing legal battles over copyright",
+  "summary": {
+    "en": "OpenAI has officially launched its new GPT-5.6 model suite following a request from the US government. The release is being handled in stages to ensure the technology is safe and cannot be used for cyber attacks. While the company is working with officials to follow new safety rules, it has expressed concerns about government involvement in product launches. Meanwhile, OpenAI and its partner Microsoft are dealing with an updated lawsuit from The New York Times. The legal case focuses on claims that the companies used copyrighted material to train their AI systems.",
+    "zh": "OpenAI 在美國政府的要求下，正式推出了全新的 GPT-5.6 模型套件。此次發布採取分階段進行，以確保技術安全且不會被用於網路攻擊。雖然該公司正與官員合作以遵守新的安全規則，但也對政府介入產品發布表達了擔憂。與此同時，OpenAI 及其合作夥伴微軟正處理來自《紐約時報》的更新版訴訟，該法律案件的核心在於指控這兩家公司使用受版權保護的素材來訓練其人工智慧系統。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "OpenAI has officially released its new GPT-5.6 model suite, but the launch comes with significant restrictions. Following a request from the US government, the company is using a \"staggered\" release plan. This means the AI models are not being made available to everyone at once. Instead, they are being shared with a small group of trusted partners first. According to The Guardian, this move is similar to a recent situation involving a rival company, Anthropic, which had to stop public access to its own technology due to government security concerns.",
+      "zh": "OpenAI 已正式發布其全新的 GPT-5.6 模型套件，但此次推出伴隨著重大限制。應美國政府的要求，該公司正採取「分階段」的發布計畫。這意味著人工智慧模型並非一次性提供給所有人，而是先分享給一小群受信任的合作夥伴。根據《衛報》（The Guardian）報導，此舉與近期競爭對手 Anthropic 遭遇的情況相似，該公司因政府的安全疑慮，不得不停止公眾對其技術的存取權限。"
+    },
+    {
+      "id": "p2",
+      "en": "The new GPT-5.6 suite includes three different versions: Sol, Terra, and Luna. The Verge reports that Sol is the most powerful model in the group, while Terra is designed for high-volume work, and Luna is the most affordable option. OpenAI claims that Sol is its strongest model yet, specifically mentioning its skills in coding, biology, and cybersecurity. However, the company also emphasized that the model is designed to help people find and fix security problems rather than perform dangerous cyber attacks.",
+      "zh": "全新的 GPT-5.6 套件包含三種不同版本：Sol、Terra 與 Luna。《The Verge》報導指出，Sol 是該系列中最強大的模型，Terra 專為處理大量工作而設計，而 Luna 則是價格最親民的選擇。OpenAI 聲稱 Sol 是其迄今最強大的模型，特別提到其在程式編碼、生物學與網路安全方面的能力。然而，該公司也強調，此模型旨在協助人們發現並修復安全問題，而非執行危險的網路攻擊。"
+    },
+    {
+      "id": "p3",
+      "en": "This limited release is happening because of an executive order issued by President Donald Trump. The order requires companies to follow a specific framework for checking and deploying new, powerful AI models. OpenAI stated that it is working closely with the White House to develop these safety rules. However, the company also made it clear that it does not want this type of government oversight to become a permanent requirement. In a blog post, OpenAI noted that this process prevents the best tools from reaching users, developers, and global partners who need them. Despite these concerns, the company is following the rules for now, hoping that this short-term step will lead to broader availability in the coming weeks.",
+      "zh": "此次有限度的發布，源於川普（Donald Trump）總統簽署的一項行政命令。該命令要求企業必須遵循特定的架構，以審查並部署強大的新型人工智慧模型。OpenAI 表示正與白宮密切合作，以制定這些安全規範。不過，該公司也明確表示，不希望這類政府監管成為永久性的要求。OpenAI 在一篇部落格文章中指出，此流程阻礙了最先進的工具觸及真正需要的用戶、開發者與全球合作夥伴。儘管有這些顧慮，該公司目前仍遵守規定，並希望這一短期措施能在未來幾週內促成更廣泛的開放。"
+    },
+    {
+      "id": "p4",
+      "en": "During this preview period, the US government is approving customers on a case-by-case basis. OpenAI’s chief executive, Sam Altman, told staff that the government would be monitoring the process closely. If everything goes well, the models will be released to the general public in about two weeks. For now, access is limited to US-based entities, though employees of those companies who are based in countries like the UK and Australia may also be able to use the technology.",
+      "zh": "在此預覽期間，美國政府將逐案審核客戶資格。OpenAI 執行長奧特曼（Sam Altman）告訴員工，政府將密切監控此過程。如果一切順利，這些模型將在大約兩週後向大眾發布。目前，存取權限僅限於美國境內的實體，不過這些公司派駐在英國與澳洲等國的員工，或許也能使用該技術。"
+    },
+    {
+      "id": "p5",
+      "en": "While OpenAI manages these regulatory hurdles, it is also facing new developments in a major legal case. The New York Times is currently updating its lawsuit against OpenAI and its partner, Microsoft. In a recent court filing, the newspaper proposed changes to its complaint, arguing that Microsoft actively encouraged OpenAI to use copyrighted works without permission. The New York Times claims that Microsoft built a powerful supercomputer specifically to help OpenAI train its models on this protected content.",
+      "zh": "在處理這些監管障礙的同時，OpenAI 也面臨一項重大法律案件的最新進展。《紐約時報》（The New York Times）目前正在更新其針對 OpenAI 及其合作夥伴微軟（Microsoft）的訴訟。在近期提交的法院文件中，該報社提出了對訴狀的修改，主張微軟積極鼓勵 OpenAI 在未經許可的情況下使用受版權保護的作品。《紐約時報》指控微軟專門打造了一台強大的超級電腦，協助 OpenAI 利用這些受保護的內容來訓練其模型。"
+    },
+    {
+      "id": "p6",
+      "en": "According to Ars Technica, the legal move by The New York Times follows a change in how courts look at \"contributory infringement.\" This is a legal term for when a party is accused of helping others break the law. The newspaper wants to align its case with new legal standards, which require plaintiffs to prove that companies intentionally acted to cause illegal conduct. A spokesperson for The New York Times stated that their core argument remains the same: that Microsoft and OpenAI used millions of copyrighted works to build products that compete with the newspaper.",
+      "zh": "根據《Ars Technica》報導，《紐約時報》此舉是為了因應法院對「協助侵權」（contributory infringement）認定方式的改變。這是一個法律術語，指控某一方協助他人違法。該報社希望使其案件符合新的法律標準，即原告必須證明企業是有意採取行動以導致非法行為。一位《紐約時報》發言人表示，他們的核心論點保持不變：微軟與 OpenAI 使用了數百萬件受版權保護的作品，來打造與該報社競爭的產品。"
+    },
+    {
+      "id": "p7",
+      "en": "In response, a Microsoft spokesperson described the updated lawsuit as a \"last-ditch effort\" to save a case that has faced unfavorable rulings in other recent legal battles. Microsoft maintains that the claims are without merit. As the situation develops, OpenAI finds itself in a difficult position. It must satisfy the strict safety demands of the US government to keep its new models moving toward a full release, while simultaneously defending its business practices in court. The coming weeks will be critical for the company as it attempts to balance these government requirements with its goal of providing broad access to its latest AI tools.",
+      "zh": "對此，微軟發言人將更新後的訴訟描述為「最後的掙扎」，試圖挽救一個在近期其他法律戰中已面臨不利裁決的案件。微軟堅稱這些指控毫無根據。隨著情勢發展，OpenAI 陷入了兩難的處境。它必須滿足美國政府嚴格的安全要求，以確保其新模型能持續邁向全面發布，同時還要在法庭上為其商業行為辯護。未來幾週對該公司至關重要，因為它正試圖在這些政府要求與提供廣泛使用其最新人工智慧工具的目標之間取得平衡。"
+    }
+  ],
+  "wordCount": 718,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "staggered",
+      "definitionEn": "Arranged to happen at different times rather than all at once.",
+      "definitionZh": "交錯的、錯開的（指時間或安排）。",
+      "partOfSpeech": "adjective",
+      "noteZh": "常見作動詞（搖晃），這裡形容發布計畫是分階段進行的。文中：the company is using a \"staggered\" release plan."
+    },
+    {
+      "term": "case-by-case",
+      "definitionEn": "Dealing with each situation individually as it happens, rather than using a general rule.",
+      "definitionZh": "逐案處理的、個案審核的。",
+      "partOfSpeech": "adjective/adverb",
+      "noteZh": "這是一個常見的慣用語，用來強調沒有統一標準，必須一個一個單獨審核。文中：the US government is approving customers on a case-by-case basis."
+    },
+    {
+      "term": "last-ditch",
+      "definitionEn": "A final attempt to achieve something when there is little hope of success.",
+      "definitionZh": "最後一搏的、孤注一擲的。",
+      "partOfSpeech": "adjective",
+      "noteZh": "由名詞 ditch（溝渠）組成的複合形容詞，形容在絕望中做的最後努力。文中：a Microsoft spokesperson described the updated lawsuit as a \"last-ditch effort\" to save a case that has faced unfavorable rulings in other recent legal battles."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos",
+      "title": "OpenAI staggers AI model release after Trump administration request",
+      "publishedAt": "2026-06-26T14:06:11Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+      "publishedAt": "2026-06-26T17:00:00Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+      "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+      "publishedAt": "2026-06-26T20:04:55Z"
+    }
+  ],
+  "story": {
+    "id": "openai-and-microsoft-face-ai-regulatory-challenges",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "openai-and-microsoft-face-ai-regulatory-challenges-jun-2026",
+        "title": "OpenAI Faces New Government Rules and Legal Challenges",
+        "publishedAt": "2026-06-26T22:13:28.503979Z",
+        "category": "technology",
+        "summaryEn": "OpenAI has released its new GPT-5.6 model suite under strict supervision from the US government. The company is following a staggered release plan to ensure safety against cyber threats. Meanwhile, The New York Times is updating its lawsuit against OpenAI and Microsoft. The newspaper claims that Microsoft helped OpenAI use copyrighted work to build powerful AI systems. OpenAI says it hopes these government restrictions are only a temporary measure."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "Which specific capabilities does OpenAI highlight as the primary strengths of the Sol model?",
+      "options": {
+        "A": "High-volume data processing and affordability.",
+        "B": "Coding, biology, and cybersecurity.",
+        "C": "Legal analysis and copyright protection.",
+        "D": "General administrative tasks and communication."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，OpenAI 明確指出 Sol 模型最強大的領域在於程式設計（coding）、生物學（biology）以及網路安全（cybersecurity）。選項 A 描述的是 Terra 和 Luna 的特點，而非 Sol。選項 C 與 D 皆非文章中提到的 Sol 模型核心功能，屬於無中生有的干擾選項。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, what can be inferred about the current relationship between OpenAI and the US government?",
+      "options": {
+        "A": "OpenAI is completely refusing to comply with the government's safety orders.",
+        "B": "The government is fully satisfied and has removed all restrictions on OpenAI.",
+        "C": "OpenAI is cooperating with safety requirements but is unhappy about the long-term implications.",
+        "D": "The government is trying to prevent OpenAI from ever releasing its models to the public."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第三段，OpenAI 表示正與白宮密切合作以制定安全規則，顯示其配合態度；但同時文中也提到該公司不希望這種監管成為永久性要求，並指出這類程序阻礙了工具的普及。選項 A 錯誤，因為公司目前正在遵守規定。選項 B 錯誤，因為限制仍然存在。選項 D 錯誤，因為政府的目標是監管而非永久禁止，且預計兩週後會全面公開。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the phrase 'last-ditch effort' most likely mean?",
+      "options": {
+        "A": "A final, desperate attempt to achieve something.",
+        "B": "A well-planned and highly successful strategy.",
+        "C": "A minor change that has no impact on the outcome.",
+        "D": "A legal requirement that must be followed by law."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在文中，微軟發言人將紐約時報更新訴訟內容稱為「last-ditch effort」，意指這是該報在面對先前法律訴訟不利判決後，最後且帶有孤注一擲意味的嘗試。選項 B 與文意相反，因為微軟認為該訴訟缺乏依據。選項 C 低估了該詞彙的緊迫感，選項 D 則錯誤地將其解釋為法律義務，而非一種策略行為。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary focus of this article?",
+      "options": {
+        "A": "A technical comparison of the three new GPT-5.6 models.",
+        "B": "A detailed history of the legal conflict between Microsoft and The New York Times.",
+        "C": "An analysis of how AI will change the future of global cybersecurity.",
+        "D": "The challenges OpenAI faces regarding government regulation and ongoing legal disputes."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。文章開頭介紹了 GPT-5.6 的發佈限制（政府監管），隨後討論了 OpenAI 在此過程中的立場，最後段落則轉向與紐約時報的法律訴訟。全文的核心在於描述 OpenAI 如何在嚴格的政府監管與法律挑戰的雙重壓力下尋求發展。選項 A 僅涉及文章一小部分，選項 B 忽略了 OpenAI 的政府監管議題，選項 C 則過度推論，並非文章主旨。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
