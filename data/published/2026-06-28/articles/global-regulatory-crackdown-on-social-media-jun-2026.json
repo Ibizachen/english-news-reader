@@ -1,83 +1,89 @@
 {
   "id": "2026-06-28-global-regulatory-crackdown-on-social-media",
   "slug": "global-regulatory-crackdown-on-social-media-jun-2026",
-  "publishedAt": "2026-06-28T22:14:01.987571Z",
+  "publishedAt": "2026-06-28T23:17:27.294201Z",
   "category": "technology",
-  "title": "Governments Tighten Rules on Social Media as Global Age Bans Spread",
-  "subtitle": "Australia doubles fines for tech companies as more nations consider strict limits on youth access to online platforms.",
+  "title": "Governments Move to Limit Social Media Access for Teenagers",
+  "subtitle": "Countries around the world are introducing new laws to protect young people from the risks of online platforms.",
   "summary": {
-    "en": "Australia has announced it will double the maximum penalty for social media companies that fail to keep children under 16 off their platforms. This move follows reports that many young users are still finding ways to access banned apps. Other countries, including the UK, are now planning similar laws to protect teenagers from online harm. Tech companies face growing pressure as public trust in their safety measures continues to fall. Experts and officials argue that current regulations are not enough to stop the risks of digital addiction.",
-    "zh": "澳洲宣布將對未能將十六歲以下兒童阻絕於平台之外的社群媒體公司，將最高罰款金額提高一倍。此舉是在有報告指出許多年輕使用者仍能找到方法存取遭禁用的應用程式後所做出的。包括英國在內的其他國家，目前也正計畫制定類似法律，以保護青少年免受網路傷害。隨著公眾對科技公司安全措施的信任度持續下降，這些公司正面臨日益增長的壓力。專家與官員主張，目前的監管措施不足以遏止數位成癮帶來的風險。"
+    "en": "Governments globally are moving to restrict social media access for teenagers under 16. Australia recently increased penalties for tech companies that fail to enforce these age limits. Other nations like the UK, France, and Indonesia are following this trend with their own legislative plans. Tech companies argue that these rules are difficult to enforce and may not solve the underlying issues of mental health. Experts continue to debate the best ways to keep young users safe in a digital world.",
+    "zh": "全球各國政府正採取行動，限制十六歲以下青少年的社群媒體使用權。澳洲近期加重了對未能落實年齡限制的科技公司之罰則。英國、法國與印尼等國也正跟進此趨勢，研擬各自的立法計畫。科技公司則主張這些規則難以執行，且未必能解決心理健康的根本問題。專家們持續針對如何在數位世界中保障年輕使用者安全，進行最佳方式的辯論。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "The Australian government has announced a major increase in the penalties for social media companies that fail to keep children under 16 off their platforms. Under the new rules, the maximum fine for breaking the law will double to $99 million. This decision comes after officials found that many children are still using banned apps despite a law that started in December 2025. The Australian government stated that these harsher penalties are necessary because tech companies are not doing enough to follow the law.",
-      "zh": "澳洲政府宣布大幅提高對社群媒體公司的罰款，以懲罰未能將十六歲以下兒童阻絕於平台之外的業者。根據新規定，違法行為的最高罰款將翻倍至九千九百萬美元。此項決策是在官員發現儘管二零二五年十二月已實施相關法律，仍有許多兒童在使用遭禁用的應用程式後所做出的。澳洲政府表示，這些更嚴厲的懲罰是有必要的，因為科技公司在遵守法律方面做得還不夠。"
+      "en": "Governments across the globe are taking stronger action to limit how teenagers use social media. Following the lead of Australia, which was the first country to ban social media for children under 16, many other nations are now introducing similar rules. These new laws aim to protect young people from the potential harms of online platforms, such as addiction and exposure to dangerous content. This shift represents a growing lack of trust between the public and the large technology companies that run these services.",
+      "zh": "全球各國政府正採取更強硬的行動，限制青少年使用社群媒體。繼澳洲成為全球第一個禁止十六歲以下兒童使用社群媒體的國家後，許多其他國家也正陸續推行類似規範。這些新法旨在保護年輕人免受網路平台潛在的危害，例如成癮問題以及接觸到危險內容。這種轉變反映出大眾與經營這些服務的大型科技公司之間，信任感正日益降低。"
     },
     {
       "id": "p2",
-      "en": "According to the BBC, the Australian eSafety Commissioner will now have more power to demand evidence from social media companies about how they are following the rules. Investigations are currently looking into five major platforms: Facebook, Instagram, Snapchat, TikTok, and YouTube. Although the ban was introduced with high expectations, enforcement has proven difficult. A report from the eSafety Commission found that seven out of 10 children who had an account before the ban still have some access to social media. Prime Minister Anthony Albanese said he was heartened by the global interest in the law, but added that it is clear big tech companies are still not doing enough to protect children.",
-      "zh": "根據英國廣播公司（BBC）報導，澳洲電子安全專員（eSafety Commissioner）現在將擁有更大權力，要求社群媒體公司提供關於其如何遵守規定的證據。目前調查正針對五大平台進行：臉書（Facebook）、Instagram、Snapchat、TikTok 以及 YouTube。儘管這項禁令在推出時備受期待，但執行上卻困難重重。電子安全委員會的一份報告發現，在禁令實施前就擁有帳號的兒童中，仍有七成的人仍能以某種方式使用社群媒體。澳洲總理艾班尼斯（Anthony Albanese）表示，他對全球對此法律的關注感到欣慰，但也補充說，顯然大型科技公司在保護兒童方面仍做得不足。"
+      "en": "Recent reports from The Guardian highlight that parents everywhere are worried about their children going online. Arturo Béjar, a former employee at Meta, the company that owns Facebook and Instagram, noted that parents are dreading the day their children reach the age to join these platforms. Béjar, who has acted as a witness in legal trials against tech firms, claims that these companies have designed their products to be addictive while misleading the public about safety. Meta has disagreed with these claims, stating that the issue of mental health is very complex and cannot be blamed on a single cause.",
+      "zh": "根據《衛報 (The Guardian)》近期的報導，世界各地的家長都對孩子上網感到擔憂。曾任職於臉書 (Facebook) 與 Instagram 母公司 Meta 的阿圖羅·貝哈爾 (Arturo Béjar) 指出，家長們對於孩子達到能加入這些平台的年齡感到恐懼。貝哈爾曾在針對科技公司的法律訴訟中擔任證人，他聲稱這些公司將產品設計成會讓人成癮，同時在安全性問題上誤導大眾。Meta 對此表示不認同，並指出心理健康問題非常複雜，不能歸咎於單一原因。"
     },
     {
       "id": "p3",
-      "en": "Australia is not the only country taking action. The global trend of setting a minimum age for social media is growing. In June 2026, the UK announced plans to introduce a similar ban for children under 16 by the spring of 2027. Other nations, including Indonesia, Malaysia, Austria, France, and Norway, are also looking at different ways to restrict access for young people. In Germany, recent statistics show that many teenagers spend several hours a day on their phones, leading to calls for stronger controls. Experts in Germany have suggested that platforms should be held more accountable for their content and that there should be safer default settings for minors.",
-      "zh": "澳洲並非唯一採取行動的國家。全球對於設定社群媒體最低使用年齡的趨勢正日益增長。二零二六年六月，英國宣布計畫在二零二七年春季前，針對十六歲以下兒童實施類似的禁令。包括印尼、馬來西亞、奧地利、法國和挪威在內的其他國家，也正在研擬各種限制年輕人使用網路的方法。在德國，近期統計數據顯示許多青少年每天花數小時在手機上，這引發了要求加強管控的呼聲。德國專家建議，平台應對其內容負起更多責任，並應為未成年人提供更安全的預設設定。"
+      "en": "In Germany, the conversation is also heating up. According to Deutsche Welle, many teenagers in the country spend a large amount of time on their phones every day. Recent studies show that a significant number of young people in Germany use social media to a problematic extent, with hundreds of thousands considered addicted. As a result, an independent expert commission has suggested new rules. These include better age verification, which is a process to confirm how old a user is, and making platforms more accountable for the content they show to minors.",
+      "zh": "在德國，相關討論也日益升溫。根據德國之聲 (Deutsche Welle) 報導，該國許多青少年每天花費大量時間在手機上。近期研究顯示，德國有相當比例的年輕人過度使用社群媒體，甚至有數十萬人被認為已成癮。因此，一個獨立專家委員會建議採取新規定，包括強化年齡驗證（即確認使用者年齡的程序），並要求平台對向未成年人展示的內容負起更多責任。"
     },
     {
       "id": "p4",
-      "en": "This shift in policy is partly driven by a decline in public trust. Arturo Béjar, a former employee at Meta, told The Guardian that parents around the world share a common fear about their children going online. He noted that many young people have already experienced harmful situations that could have been prevented. Recent court cases in the United States have also ruled that companies like Meta designed products that were intentionally addictive. While Meta has said it disagrees with these rulings and plans to appeal, the legal pressure is clearly influencing politicians in other parts of the world.",
-      "zh": "這種政策轉變部分源於公眾信任度的下降。曾任職於 Meta 的貝哈爾（Arturo Béjar）告訴《衛報》（The Guardian），世界各地的家長對於孩子上網都有共同的擔憂。他指出，許多年輕人已經經歷過本可預防的有害情況。美國近期的法院判決也裁定，像 Meta 這樣的公司設計的產品具有刻意讓人成癮的特性。雖然 Meta 表示不同意這些裁決並計畫上訴，但法律壓力顯然正在影響世界其他地區的政治人物。"
+      "en": "Other countries are moving quickly to implement their own bans. The UK plans to have a ban in place by spring 2027, while Canada is also working on legislation to block under-16s from certain apps unless they have strong safety measures. Indonesia and Malaysia have already introduced restrictions, and countries like Austria and France are currently looking at similar options. Brazil has taken a different approach by banning mobile phones in schools entirely, while also linking social media access for children under 16 to their parents' accounts.",
+      "zh": "其他國家也正迅速採取行動以實施各自的禁令。英國計畫在二零二七年春季前實施禁令，加拿大也正研擬立法，禁止十六歲以下青少年使用特定應用程式，除非該程式具備嚴格的安全防護措施。印尼與馬來西亞已實施限制，而奧地利與法國等國目前也正在研議類似方案。巴西則採取了不同的做法，全面禁止在校園內使用手機，並將十六歲以下青少年的社群媒體存取權與其家長的帳號連結。"
     },
     {
       "id": "p5",
-      "en": "However, the path to regulation is not simple. Some tech companies have expressed frustration, arguing that inconsistent rules make it difficult to design effective safety measures. A source from one tech company told The Guardian that rushed and heavy regulations might not actually lead to safer designs. They argued that when countries act without a clear, consistent plan, it can lead to high levels of circumvention, where users simply find ways to bypass the restrictions. Meanwhile, the tech industry continues to spend large amounts of money on lobbying—the act of trying to influence government decisions—to argue against strict new rules.",
-      "zh": "然而，監管之路並不容易。一些科技公司表達了挫折感，認為不一致的規定使得設計有效的安全措施變得困難。一家科技公司的消息人士告訴《衛報》，倉促且沉重的監管可能實際上無法帶來更安全的設計。他們主張，當各國在沒有明確、一致的計畫下採取行動時，可能會導致高比例的規避行為，即使用者會輕易找到繞過限制的方法。與此同時，科技產業持續投入大量資金進行遊說——即試圖影響政府決策的行為——以反對嚴格的新規定。"
+      "en": "However, these new laws are not without controversy. Some tech companies have expressed frustration, arguing that the rules are being rushed and are not consistent across different countries. A source at one tech company told The Guardian that these regulations do not necessarily encourage safer design. Instead, they noted that such bans often lead to high levels of circumvention, where young people find ways to bypass the rules and continue using the platforms anyway. They argued that the industry needs more consistency to truly improve safety.",
+      "zh": "然而，這些新法並非沒有爭議。部分科技公司表達了不滿，認為這些規定過於倉促，且在各國之間缺乏一致性。一家科技公司的消息人士向《衛報》透露，這些法規未必能促進更安全的設計。相反地，他們指出這類禁令往往導致高比例的規避行為，年輕人總能找到方法繞過規則並繼續使用平台。他們主張，產業需要更一致的標準才能真正提升安全性。"
     },
     {
       "id": "p6",
-      "en": "Despite these challenges, the debate seems to have changed. In the past, many believed that social media companies could manage their own safety issues. Today, there is a growing consensus among governments that they must step in. In addition to age bans, some countries are considering other measures, such as overnight curfews and limits on features like infinite scrolling, which keeps users on an app for as long as possible. The UK government is currently looking at these options as part of its upcoming legislation.",
-      "zh": "儘管面臨這些挑戰，辯論的焦點似乎已經改變。過去，許多人認為社群媒體公司可以自行管理其安全問題。如今，各國政府之間已達成越來越多的共識，認為必須介入干預。除了年齡限制外，一些國家正在考慮其他措施，例如夜間宵禁，以及限制如「無限捲動」等功能，因為這類功能會讓使用者盡可能長時間地停留在應用程式上。英國政府目前正將這些選項納入其即將推出的立法考量中。"
+      "en": "Despite the push for regulation, some regions remain hesitant. In the United States, where many of the world’s largest tech companies are based, there is no prospect of a federal-level ban. This is partly due to legal protections regarding free speech. Meanwhile, the tech industry continues to spend large amounts of money on lobbying, which is the act of trying to influence government officials, to prevent these strict rules from being passed.",
+      "zh": "儘管推動監管的呼聲不斷，部分地區仍持保留態度。在擁有許多全球最大科技公司的美國，目前並無聯邦層級的禁令前景，部分原因是基於對言論自由的法律保障。同時，科技產業持續投入大量資金進行遊說（即試圖影響政府官員的行為），以阻止這些嚴格法規通過。"
     },
     {
       "id": "p7",
-      "en": "For many families, these changes cannot come soon enough. As more governments follow Australia’s lead, the pressure on social media companies to prove they can provide a safe environment will only increase. Whether these new laws will be enough to change the digital habits of a generation remains to be seen. For now, the message from regulators is clear: the era of self-regulation for big tech is coming to an end, and the focus is shifting toward strict, legally enforced protection for young users.",
-      "zh": "對許多家庭而言，這些改變來得正是時候。隨著越來越多國家跟隨澳洲的腳步，社群媒體公司在證明其能提供安全環境方面所面臨的壓力只會越來越大。這些新法律是否足以改變這一代人的數位習慣，仍有待觀察。目前，監管機構傳達的訊息很明確：大型科技公司自我監管的時代即將結束，焦點正轉向針對年輕使用者、具法律強制力的嚴格保護。"
+      "en": "As the debate continues, the focus remains on finding a balance between allowing young people to participate in the digital world and keeping them safe. Education Minister Prien in Germany has suggested a minimum age of 13 for independent social media use, supported by phased safeguards until the age of 18. This approach focuses on digital education and parental responsibility rather than just a total ban.",
+      "zh": "隨著辯論持續進行，焦點仍放在如何在讓年輕人參與數位世界與保障其安全之間取得平衡。德國教育部長普里恩 (Prien) 建議將獨立使用社群媒體的最低年齡設為十三歲，並輔以直到十八歲為止的階段性安全防護措施。這種做法側重於數位教育與家長責任，而非單純的全面禁止。"
+    },
+    {
+      "id": "p8",
+      "en": "Ultimately, the global trend shows that governments are no longer waiting for tech companies to fix these problems on their own. Whether these bans will be effective in the long term remains to be seen. For now, the message from lawmakers is clear: they want platforms to be more accountable, and they are willing to use the law to make it happen. As more countries join this movement, the pressure on tech giants to change their business models will likely continue to grow.",
+      "zh": "歸根究柢，全球趨勢顯示各國政府已不再等待科技公司自行解決這些問題。這些禁令長期下來是否有效仍有待觀察。目前，立法者的訊息很明確：他們希望平台負起更多責任，並且願意透過法律手段來實現。隨著越來越多國家加入此行列，科技巨頭在改變商業模式上所面臨的壓力，預計將持續增加。"
     }
   ],
-  "wordCount": 756,
+  "wordCount": 728,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
-      "term": "step in",
-      "definitionEn": "To become involved in a difficult situation or argument in order to help or improve it.",
-      "definitionZh": "介入、插手（以解決問題）。",
+      "term": "heating up",
+      "definitionEn": "Becoming more active, intense, or serious.",
+      "definitionZh": "變得更加熱烈、激烈或緊張。",
       "partOfSpeech": "phrasal verb",
-      "noteZh": "這裡指政府介入管理社交媒體。文中：Today, there is a growing consensus among governments that they must step in."
+      "noteZh": "常用於描述溫度升高，這裡比喻討論變得激烈。文中：In Germany, the conversation is also heating up."
     },
     {
-      "term": "accountable",
-      "definitionEn": "Required to explain your actions or decisions and accept responsibility for them.",
-      "definitionZh": "應負責任的、需解釋的。",
-      "partOfSpeech": "adjective",
-      "noteZh": "常見於商業或法律語境，指對行為負責。文中：Experts in Germany have suggested that platforms should be held more accountable for their content and that there should be safer default settings for minors."
+      "term": "block",
+      "definitionEn": "To prevent someone from accessing or using something.",
+      "definitionZh": "阻止、封鎖（某人使用某物）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（街區、積木），這裡作動詞用。文中：Canada is also working on legislation to block under-16s from certain apps unless they have strong safety measures."
     },
     {
-      "term": "lead",
-      "definitionEn": "An example or action that others follow.",
-      "definitionZh": "榜樣、帶頭作用。",
-      "partOfSpeech": "noun",
-      "noteZh": "常見作動詞（引導），這裡作名詞，指澳洲的先例。文中：As more governments follow Australia’s lead, the pressure on social media companies to prove they can provide a safe environment will only increase."
+      "term": "in place",
+      "definitionEn": "Established, ready, or operating.",
+      "definitionZh": "已準備就緒、已實施、到位。",
+      "partOfSpeech": "idiom",
+      "noteZh": "字面意思是「在位置上」，這裡指法律或規定已經開始實施。文中：The UK plans to have a ban in place by spring 2027, while Canada is also working on legislation to block under-16s from certain apps unless they have strong safety measures."
+    },
+    {
+      "term": "remain to be seen",
+      "definitionEn": "It is not yet known or certain.",
+      "definitionZh": "尚待觀察、還不確定。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這是一個固定用法，用來表達對未來結果的不確定性。文中：Whether these bans will be effective in the long term remains to be seen."
     }
   ],
   "sources": [
-    {
-      "name": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c78yv5g74e9o?at_medium=RSS&at_campaign=rss",
-      "title": "Australia to double maximum penalty for platforms in breach of social media ban",
-      "publishedAt": "2026-06-27T22:34:11Z"
-    },
     {
       "name": "The Guardian World",
       "url": "https://www.theguardian.com/world/2026/jun/28/tech-firms-are-losing-the-public-social-media-age-bans-near-tipping-point",
@@ -95,6 +101,13 @@
     "id": "australia-s-global-crackdown-on-social-media-for-minors",
     "type": "update",
     "previousArticles": [
+      {
+        "slug": "global-regulatory-crackdown-on-social-media-jun-2026",
+        "title": "Governments Tighten Rules on Social Media as Global Age Bans Spread",
+        "publishedAt": "2026-06-28T22:14:01.987571Z",
+        "category": "technology",
+        "summaryEn": "Australia has announced it will double the maximum penalty for social media companies that fail to keep children under 16 off their platforms. This move follows reports that many young users are still finding ways to access banned apps. Other countries, including the UK, are now planning similar laws to protect teenagers from online harm. Tech companies face growing pressure as public trust in their safety measures continues to fall. Experts and officials argue that current regulations are not enough to stop the risks of digital addiction."
+      },
       {
         "slug": "australia-s-global-crackdown-on-social-media-jun-2026",
         "title": "Australia Increases Penalties as Global Social Media Bans Grow",
@@ -115,54 +128,54 @@
     {
       "id": "q1",
       "type": "detail",
-      "question": "What is the primary reason the Australian government decided to increase the maximum fine for social media companies?",
+      "question": "What specific measure has Brazil adopted in response to concerns about teenagers and social media?",
       "options": {
-        "A": "To generate more tax revenue from large technology corporations.",
-        "B": "Because evidence showed that many children are still accessing banned apps.",
-        "C": "To force companies to pay for the legal costs of recent court cases.",
-        "D": "Because the eSafety Commissioner requested more funding for new investigations."
+        "A": "It has banned all social media platforms for citizens under the age of 16.",
+        "B": "It has prohibited mobile phones in schools and tied social media access for minors to parental accounts.",
+        "C": "It has mandated that all tech companies must implement strict age verification by 2027.",
+        "D": "It has focused primarily on digital education programs rather than legislative bans."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。根據文章第一段，政府決定提高罰款是因為官員發現，儘管 2025 年 12 月實施了禁令，但許多兒童仍在使用被禁止的應用程式。選項 A 文中未提及；選項 C 提到的法院案件發生在美國，與澳洲政府提高罰款的直接動機無關；選項 D 雖然提到 eSafety Commissioner 有更多權力，但提高罰款的動機是為了應對禁令執行不力的現況，而非為了籌措調查經費。"
+      "explanationZh": "正確答案為 B。根據文章第四段，巴西採取了與其他國家不同的做法，即全面禁止在校園內使用手機，並將 16 歲以下兒童的社交媒體存取權與其父母的帳戶連結。選項 A 錯誤，因為該做法是澳洲首創，並非巴西的唯一措施；選項 C 提到的 2027 年期限是英國的計畫；選項 D 則是德國教育部長 Prien 所提倡的觀點，而非巴西的政策。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "What can be inferred about the tech industry's stance on the new government regulations?",
+      "question": "Based on the article, why might a total ban on social media for teenagers be considered ineffective by some tech industry insiders?",
       "options": {
-        "A": "They believe that strict government laws are the most effective way to protect children.",
-        "B": "They are actively working with governments to ensure all countries have identical safety rules.",
-        "C": "They are concerned that a lack of global consistency will lead to users bypassing the rules.",
-        "D": "They have fully accepted that the era of self-regulation is over and are redesigning their apps."
+        "A": "Because tech companies are already voluntarily changing their business models to protect minors.",
+        "B": "Because governments lack the legal authority to enforce any regulations on global tech giants.",
+        "C": "Because young people are likely to find ways to bypass the restrictions, rendering the bans useless.",
+        "D": "Because the bans do not address the mental health issues that are unrelated to social media usage."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。根據文章第五段，科技公司消息人士指出，各國法規不一致（inconsistent rules）會導致用戶更容易繞過限制（circumvention），這暗示了產業認為缺乏全球統一標準會削弱法規的有效性。選項 A 與文中提到的「科技公司對法規感到沮喪」矛盾；選項 B 錯誤，因為文中提到公司正花錢遊說反對嚴格的新規定；選項 D 過於武斷，文中並未表示科技公司已完全接受並放棄抵抗。"
+      "explanationZh": "正確答案為 C。根據文章第五段，科技公司內部人士指出，禁令往往會導致「規避」（circumvention）行為，即年輕人會設法繞過規則繼續使用平台。這暗示了單純的禁令可能無法達到預期效果。選項 A 與文章內容矛盾，因為文章指出政府不再等待企業自律；選項 B 過於誇大，文章僅提到美國因言論自由法律而難以實施聯邦禁令，並非所有國家都無法執行；選項 D 雖然提到心理健康，但並非禁令無效的主要推論依據。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the final paragraph, what does the phrase 'the era of self-regulation' refer to?",
+      "question": "In the sixth paragraph, what does the word 'lobbying' mean in the context of the US tech industry's actions?",
       "options": {
-        "A": "A period where companies were responsible for setting their own safety standards.",
-        "B": "A time when users were required to regulate their own screen time.",
-        "C": "A new policy where governments allow companies to write their own laws.",
-        "D": "A system where parents were solely responsible for monitoring their children's online behavior."
+        "A": "The act of attempting to persuade government officials to support or oppose specific policies.",
+        "B": "The process of creating new software designs to make platforms safer for younger users.",
+        "C": "The legal practice of suing the government to protect free speech rights.",
+        "D": "The financial strategy of investing in new startups to avoid strict regulation."
       },
       "correct": "A",
-      "explanationZh": "正確答案為 A。文中提到「the era of self-regulation for big tech is coming to an end」，結合第六段提到的「In the past, many believed that social media companies could manage their own safety issues」，可知這指的是過去科技公司被允許自行管理平台安全、無需政府強制介入的時期。選項 B、C、D 皆曲解了「self-regulation」在商業語境中指企業自主管理而非政府強制監管的含義。"
+      "explanationZh": "正確答案為 A。文章第六段提到科技產業花費巨資進行「lobbying」以防止嚴格規則通過。在政治語境下，lobbying（遊說）指的是透過各種手段試圖影響政府官員的決策。選項 B 錯誤，因為遊說的目的是阻止規則而非改善設計；選項 C 混淆了遊說與訴訟的概念；選項 D 將遊說誤解為投資策略，與文章描述的政治影響力行為不符。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "What is the central message of the article?",
+      "question": "What is the primary message of this article regarding the relationship between governments and social media companies?",
       "options": {
-        "A": "Social media platforms have successfully improved their safety features for minors since 2025.",
-        "B": "The United States is leading the global effort to ban social media for children under 16.",
-        "C": "Governments are shifting from relying on tech companies' voluntary safety efforts to implementing strict, legally enforced regulations.",
-        "D": "Tech companies are successfully using lobbying to prevent governments from passing any new laws."
+        "A": "Governments and tech companies have reached a consensus on how to best protect teenagers online.",
+        "B": "Tech companies are successfully convincing governments that strict regulations will harm innovation.",
+        "C": "Global governments are increasingly taking legislative action to force tech companies to be more accountable for user safety.",
+        "D": "The digital world is becoming safer for teenagers due to the universal adoption of social media bans."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。全文核心在於探討全球政府（以澳洲為首）如何從過去信任科技公司自行管理，轉向透過嚴格法律手段來限制未成年人使用社群媒體。選項 A 與事實相反，文中強調執行困難且成效不彰；選項 B 錯誤，文中指出澳洲是領頭羊，且美國僅是提到法院案例；選項 D 雖然提到遊說，但並非文章主旨，文章最後明確指出政府介入已成趨勢，遊說並未阻止此潮流。"
+      "explanationZh": "正確答案為 C。文章的核心主旨在於探討全球政府如何透過立法手段，對科技巨頭施加壓力，要求其對未成年人的網路安全負起責任。文章開頭與結尾皆強調了政府不再等待企業自律的趨勢。選項 A 錯誤，因為雙方存在矛盾與衝突；選項 B 與事實相反，政府並未被說服；選項 D 過於樂觀，文章結尾提到禁令是否長期有效仍有待觀察，且並非所有國家都已實施禁令。"
     }
   ],
   "aiGenerated": true,
