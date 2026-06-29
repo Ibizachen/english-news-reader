@@ -1,0 +1,37 @@
+{
+  "id": "global-plastic-waste-series",
+  "title": "The Plastic Paradox: Managing a Global Crisis",
+  "subtitle": "An in-depth look at the lifecycle, environmental impact, and policy challenges of global plastic waste.",
+  "description": "This series examines the complex journey of plastic from production to disposal. It provides learners with the vocabulary and context to understand international environmental policy and the circular economy.",
+  "category": "society",
+  "status": "active",
+  "updatedAt": "2026-06-29T05:30:06.902674Z",
+  "cadence": "5-part reading path. Complete series available.",
+  "articles": [
+    {
+      "slug": "global-plastic-waste-series-part-1",
+      "label": "Part 1",
+      "note": "The historical expansion of plastic production and why it became a global reliance."
+    },
+    {
+      "slug": "global-plastic-waste-series-part-2",
+      "label": "Part 2",
+      "note": "The trade of plastic waste between developed and developing nations."
+    },
+    {
+      "slug": "global-plastic-waste-series-part-3",
+      "label": "Part 3",
+      "note": "How China's 2018 ban on plastic imports forced a global reckoning."
+    },
+    {
+      "slug": "global-plastic-waste-series-part-4",
+      "label": "Part 4",
+      "note": "The biological and social impact of microplastics and mismanagement."
+    },
+    {
+      "slug": "global-plastic-waste-series-part-5",
+      "label": "Part 5",
+      "note": "The future of plastic management, from global treaties to material innovation."
+    }
+  ]
+}
