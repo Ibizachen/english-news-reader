@@ -1,0 +1,157 @@
+{
+  "id": "2026-06-30-uk-watchdog-targets-apple-and-google-app-stores",
+  "slug": "uk-watchdog-targets-apple-and-google-app-stores-jun-2026",
+  "publishedAt": "2026-06-30T22:14:07.093375Z",
+  "category": "technology",
+  "title": "UK Watchdog Challenges Apple and Google Over App Store Fees",
+  "subtitle": "New rules aim to increase competition by allowing app developers to guide users to cheaper payment methods.",
+  "summary": {
+    "en": "The UK’s Competition and Markets Authority is taking action against Apple and Google to reduce their control over mobile app stores. The watchdog wants to allow app developers to steer users toward alternative payment methods outside of the companies' own systems. Currently, Apple and Google charge high commissions of up to 30% on digital purchases. Tech companies argue that these restrictions protect users from security risks and scams. Meanwhile, Apple is also fighting legal battles in the United States over similar fee structures.",
+    "zh": "英國的競爭及市場管理局正採取行動對抗蘋果與谷歌，以減少兩者對行動應用程式商店的控制。該監管機構希望允許應用程式開發者引導使用者前往公司系統以外的替代支付方式。目前，蘋果與谷歌針對數位消費收取高達 30% 的高額佣金。科技公司則主張，這些限制能保護使用者免受安全風險與詐騙。與此同時，蘋果也在美國面臨關於類似收費結構的法律訴訟。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The UK’s competition watchdog, the Competition and Markets Authority (CMA), has announced plans to challenge the dominance of Apple and Google in the mobile app market. The regulator describes the two tech giants as an “effective duopoly”—a situation where two companies control almost the entire market. According to the CMA, at least 90% of mobile devices in the UK run on software platforms owned by these two companies. This control allows Apple and Google to set strict rules for how apps operate and how users pay for digital services.",
+      "zh": "英國的競爭監管機構「競爭及市場管理局」（Competition and Markets Authority，簡稱 CMA）已宣布計畫，旨在挑戰蘋果（Apple）與谷歌（Google）在行動應用程式市場的壟斷地位。該監管機構將這兩家科技巨頭形容為「實質上的雙頭壟斷」，即兩家公司控制了幾乎整個市場的情況。根據 CMA 的說法，英國至少有 90% 的行動裝置運行在這兩家公司擁有的軟體平台上。這種控制權使蘋果與谷歌能夠針對應用程式的運作方式以及使用者支付數位服務費用的方式，制定嚴格的規範。"
+    },
+    {
+      "id": "p2",
+      "en": "At the heart of the issue is the practice of “steering.” This refers to the ability of app developers to guide their users to websites outside of the official Apple or Google app stores to make purchases. Currently, both companies charge a commission of up to 30% on transactions made within their apps, such as monthly subscriptions. The CMA argues that these high fees and restrictions on steering hurt both consumers and businesses. By allowing developers to bypass these mandatory fees, the regulator hopes to create more competition in the mobile market.",
+      "zh": "此議題的核心在於「引導」行為。這指的是應用程式開發者引導使用者前往蘋果或谷歌官方應用程式商店以外的網站進行消費的能力。目前，這兩家公司對應用程式內的交易（例如每月訂閱費用）收取高達 30% 的佣金。CMA 主張，這些高額費用以及對引導行為的限制，損害了消費者與企業的利益。透過允許開發者繞過這些強制性費用，該監管機構希望在行動市場中創造更多競爭。"
+    },
+    {
+      "id": "p3",
+      "en": "Will Hayter, the CMA executive director for digital markets, explained that giving users more choice is essential. He noted that the current lack of competition in this area is a significant problem. According to The Guardian Technology, the CMA is now consulting on ways to lift these constraints. While the regulator suggests that Apple and Google could still charge fees for the services they provide, these charges must be fair and transparent. Google has already made some changes to its system, including allowing apps to steer users to alternative payment methods.",
+      "zh": "CMA 數位市場執行總監海特（Will Hayter）解釋說，賦予使用者更多選擇至關重要。他指出，目前該領域缺乏競爭是一個嚴重的問題。根據《衛報科技版》（The Guardian Technology）報導，CMA 目前正就如何解除這些限制進行諮詢。雖然監管機構建議蘋果與谷歌仍可針對其提供的服務收取費用，但這些收費必須公平且透明。谷歌已對其系統進行了一些調整，包括允許應用程式引導使用者使用替代的支付方式。"
+    },
+    {
+      "id": "p4",
+      "en": "However, the tech companies have expressed strong concerns about these changes. Apple argues that allowing developers to direct users away from its payment system undermines user safety. A spokesperson for Apple stated that when users leave the company’s trusted payment infrastructure, they lose the protections that Apple provides, which could open the door to scams and problems with parental controls. The Coalition for App Fairness, a group representing companies like Spotify and Match Group, also criticized the proposal. They argue that any fees charged by Apple or Google for steering should be based on clear data that proves the actual cost of the service to the tech companies.",
+      "zh": "然而，這些科技公司對上述變革表達了強烈的擔憂。蘋果主張，允許開發者引導使用者離開其支付系統會破壞使用者安全。蘋果發言人表示，當使用者離開該公司受信任的支付基礎設施時，他們將失去蘋果所提供的保護，這可能會導致詐騙以及家長監護功能出現問題。代表 Spotify 與 Match Group 等公司的團體「應用程式公平聯盟」（Coalition for App Fairness）也批評了這項提案。他們認為，蘋果或谷歌針對引導行為所收取的任何費用，都應基於明確的數據，以證明該服務對科技公司產生的實際成本。"
+    },
+    {
+      "id": "p5",
+      "en": "This move by the UK regulator follows a decision last October to give Apple and Google “strategic market status.” This status allows the CMA to set specific rules for how these companies must behave to ensure fair competition. The situation in the UK is part of a larger, global debate about the power of big tech companies. In the United States, Apple is currently involved in a high-stakes legal battle with Epic Games regarding similar app store fees. According to Ars Technica, Apple has asked the Supreme Court to intervene in a case involving a contempt finding. This legal challenge centers on whether a court can punish a company for violating the “spirit” of an order, even if the order did not explicitly forbid the specific actions taken by the company.",
+      "zh": "英國監管機構的這項舉措，是在去年十月決定給予蘋果與谷歌「戰略市場地位」之後所採取的行動。此地位使 CMA 能夠針對這些公司的行為制定特定規則，以確保公平競爭。英國的情況是全球關於大型科技公司權力辯論的一部分。在美國，蘋果目前正與 Epic Games 就類似的應用程式商店費用問題進行高風險的法律訴訟。根據《Ars Technica》報導，蘋果已請求最高法院介入一起涉及藐視法庭裁定的案件。這項法律挑戰的核心在於，法院是否可以懲罰違反命令「精神」的公司，即使該命令並未明確禁止公司所採取的特定行為。"
+    },
+    {
+      "id": "p6",
+      "en": "For many users, these changes could lead to lower prices for digital services. For example, Spotify currently does not allow users to buy subscriptions through the Apple app store because it does not want to pay the high fees, which would force them to raise prices for customers. Instead, users must sign up through a desktop website. If the CMA’s new rules are successful, such barriers could be removed, making it easier for people to manage their subscriptions and payments directly within their favorite apps.",
+      "zh": "對許多使用者而言，這些變革可能會降低數位服務的價格。例如，Spotify 目前不允許使用者透過蘋果應用程式商店購買訂閱，因為該公司不想支付高額費用，這會迫使他們提高對客戶的收費。相反地，使用者必須透過電腦版網站進行註冊。如果 CMA 的新規則成功實施，這類障礙將可被移除，讓使用者能更輕鬆地直接在他們喜愛的應用程式內管理訂閱與付款。"
+    },
+    {
+      "id": "p7",
+      "en": "As the CMA continues its work, the tech industry is watching closely. The outcome of these discussions in the UK, combined with the ongoing legal fights in the United States, will likely shape the future of how mobile apps are bought and sold. While the regulator focuses on the benefits of competition, Apple and Google remain committed to defending their current business models, citing security and user protection as their primary goals. The coming months will be critical as the CMA moves forward with its plans to change the rules for one of the most important parts of the modern digital economy.",
+      "zh": "隨著 CMA 持續推動其工作，科技產業正密切關注。這些在英國進行的討論結果，加上美國持續進行的法律訴訟，很可能會形塑未來行動應用程式買賣的方式。儘管監管機構聚焦於競爭帶來的益處，但蘋果與谷歌仍致力於捍衛其目前的商業模式，並將安全與使用者保護作為其主要目標。隨著 CMA 推進其改變現代數位經濟中最重要領域之一的規則計畫，未來幾個月將至關重要。"
+    }
+  ],
+  "wordCount": 718,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "challenge",
+      "definitionEn": "To question the authority or power of someone or something, often by trying to change or stop it.",
+      "definitionZh": "質疑、挑戰（權威或現狀）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（挑戰），這裡作動詞，指對現有權力結構提出異議。文中：The UK’s competition watchdog, the Competition and Markets Authority (CMA), has announced plans to challenge the dominance of Apple and Google in the mobile app market."
+    },
+    {
+      "term": "consulting",
+      "definitionEn": "To ask for opinions or advice from the public or experts before making a decision.",
+      "definitionZh": "諮詢、徵詢意見。",
+      "partOfSpeech": "verb (present participle)",
+      "noteZh": "常見作「顧問」或「諮詢某人」，這裡指政府機構在決策前公開徵求大眾意見。文中：According to The Guardian Technology, the CMA is now consulting on ways to lift these constraints."
+    },
+    {
+      "term": "open the door to",
+      "definitionEn": "To make something possible or allow something to happen (often something negative).",
+      "definitionZh": "導致、開啟（某種負面情況）的可能性。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這是比喻用法，並非真的打開一扇門。文中：A spokesperson for Apple stated that when users leave the company’s trusted payment infrastructure, they lose the protections that Apple provides, which could open the door to scams and problems with parental controls."
+    },
+    {
+      "term": "centers on",
+      "definitionEn": "To have something as the main subject or focus.",
+      "definitionZh": "以……為中心、聚焦於……。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見作名詞（中心），這裡作動詞片語，指法律爭議的核心焦點。文中：This legal challenge centers on whether a court can punish a company for violating the “spirit” of an order, even if the order did not explicitly forbid the specific actions taken by the company."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/business/2026/jun/30/uk-apple-google-mobile-app-stores-developers-payment-cma",
+      "title": "UK watchdog plans to break Apple and Google’s ‘effective duopoly’ on mobile app stores",
+      "publishedAt": "2026-06-30T14:32:03Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/06/apple-takes-epic-fight-over-app-store-fees-to-the-supreme-court/",
+      "title": "Apple takes Epic fight over app store fees to the Supreme Court",
+      "publishedAt": "2026-06-30T20:20:29Z"
+    }
+  ],
+  "story": {
+    "id": "uk-watchdog-targets-apple-and-google-app-stores",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the primary reason the CMA believes the current mobile app market structure is problematic?",
+      "options": {
+        "A": "It forces users to rely exclusively on desktop websites for all digital subscriptions.",
+        "B": "It allows two companies to control the vast majority of the market and set restrictive rules.",
+        "C": "It prevents tech companies from charging any fees for the services they provide to developers.",
+        "D": "It creates a legal conflict between the UK government and the United States Supreme Court."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第一段，CMA 將 Apple 與 Google 稱為「有效雙頭壟斷」(effective duopoly)，並指出這兩家公司控制了英國至少 90% 的行動裝置平台，這種控制權使他們能強加嚴格的規則。選項 A 錯誤，因為這是目前限制下的結果，而非 CMA 認為該結構有問題的根本原因；選項 C 錯誤，因為文章第三段提到監管機構認為收費是可以的，但必須公平透明；選項 D 雖然提到美英兩地的法律鬥爭，但這並非 CMA 認為市場結構有問題的原因。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the text, why might app developers like Spotify support the CMA’s proposed changes?",
+      "options": {
+        "A": "They want to avoid paying any fees to Apple or Google for using their platforms.",
+        "B": "They believe that the current system is the safest way to protect their customers' data.",
+        "C": "They hope to lower costs for consumers by bypassing the high commissions charged by app stores.",
+        "D": "They want to force Apple and Google to stop providing parental control features entirely."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第六段提到，Spotify 目前不允許用戶透過 Apple App Store 訂閱，因為不想支付高額佣金並將成本轉嫁給消費者。因此，如果 CMA 的新規定能讓開發者繞過這些佣金（steering），開發者就能降低服務價格或改善用戶體驗。選項 A 不完全正確，因為開發者爭論的是費用應基於實際成本（第四段），而非完全不付費；選項 B 與開發者的立場相反；選項 D 在文中並未提及，且非開發者的主要訴求。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fourth paragraph, what does the word 'undermines' mean as it is used in the context of Apple's argument?",
+      "options": {
+        "A": "Strengthens or supports.",
+        "B": "Weakens or damages.",
+        "C": "Underlines or emphasizes.",
+        "D": "Replaces or substitutes."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在第四段中，Apple 表示允許開發者引導用戶使用外部支付系統會「undermine」用戶安全。根據上下文，Apple 認為這會導致用戶失去保護，因此這裡的 undermine 是指「削弱」或「損害」安全保障。選項 A 是反義詞；選項 C 是常見的混淆字，但在語意上不合；選項 D 與語境無關。這是一個動詞，在此處用來描述對安全防護機制的負面影響。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central theme of this article?",
+      "options": {
+        "A": "The history of how Apple and Google became the world's most valuable tech companies.",
+        "B": "A detailed comparison of the legal systems in the United Kingdom and the United States.",
+        "C": "The technical challenges of creating secure payment systems for mobile applications.",
+        "D": "The CMA's efforts to regulate the dominant market power of Apple and Google in the app industry."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。全文的核心在於報導英國 CMA 試圖挑戰 Apple 與 Google 在行動應用市場的壟斷地位，並討論了「steering」（引導）政策、高額佣金爭議以及各方（監管機構、科技巨頭、開發者）的立場。選項 A 偏離主題，文章未討論歷史發展；選項 B 僅為文章的一小部分背景資訊，非主旨；選項 C 雖然提到技術問題，但文章重點在於市場競爭與法規，而非技術開發細節。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
