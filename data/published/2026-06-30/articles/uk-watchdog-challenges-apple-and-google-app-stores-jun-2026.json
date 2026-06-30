@@ -1,0 +1,165 @@
+{
+  "id": "2026-06-30-uk-watchdog-challenges-apple-and-google-app-stores",
+  "slug": "uk-watchdog-challenges-apple-and-google-app-stores-jun-2026",
+  "publishedAt": "2026-06-30T23:37:14.297402Z",
+  "category": "technology",
+  "title": "UK Watchdog Challenges Apple and Google Over App Store Rules",
+  "subtitle": "New efforts to increase competition in the mobile app market face resistance from tech giants.",
+  "summary": {
+    "en": "The UK’s Competition and Markets Authority is taking action to reduce the control Apple and Google have over mobile app stores. The regulator wants to allow developers to guide users to cheaper payment methods outside of these platforms. Currently, Apple and Google charge high fees for transactions made within their app stores. Apple argues that these changes could put user security and privacy at risk. Meanwhile, the legal battle over these fees continues to reach the highest courts.",
+    "zh": "英國競爭與市場管理局正採取行動，以減少蘋果與谷歌對行動應用程式商店的控制。該監管機構希望允許開發者引導使用者前往這些平台之外、費用更低廉的支付方式。目前，蘋果與谷歌針對在其應用程式商店內進行的交易收取高額費用。蘋果主張，這些變更可能會使使用者的安全與隱私面臨風險。與此同時，關於這些費用的法律爭議正持續延燒至最高法院。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The UK’s competition watchdog is taking new steps to challenge the power of Apple and Google in the mobile app market. The Competition and Markets Authority (CMA) argues that these two companies hold an “effective duopoly”—a situation where only two companies control almost the entire market. According to the CMA, at least 90% of mobile devices in the UK run on software created by these two tech giants. This control allows them to set rules that the regulator believes are unfair to both app developers and consumers.",
+      "zh": "英國的競爭監管機構正採取新措施，挑戰蘋果 (Apple) 與谷歌 (Google) 在行動應用程式市場的權力。競爭與市場管理局 (CMA) 指出，這兩家公司掌握了「實質上的雙頭壟斷」，也就是僅有兩家企業控制了幾乎整個市場的情況。根據競爭與市場管理局的說法，英國至少有百分之九十的行動裝置運行著由這兩大科技巨頭所開發的軟體。這種控制權使他們能夠制定規則，而監管機構認為這些規則對應用程式開發者與消費者而言皆不公平。"
+    },
+    {
+      "id": "p2",
+      "en": "At the heart of the issue is the practice of “steering.” This means allowing apps to guide users to websites where they can pay for services outside of the official Apple or Google app stores. Currently, both companies charge a commission—a fee paid for a service—of up to 30% on purchases made inside their apps. Because of these high costs, some companies, such as Spotify, do not allow users to buy subscriptions directly through the app. Instead, customers must go to a website to complete the purchase. The CMA wants to lift these restrictions so that developers can avoid these mandatory fees, which the regulator says will create more competition in the mobile market.",
+      "zh": "問題的核心在於「引導」的做法。這意味著允許應用程式引導使用者前往網站，以便在官方的蘋果或谷歌應用程式商店之外支付服務費用。目前，這兩家公司對應用程式內的消費皆收取高達百分之三十的佣金，也就是針對服務所支付的費用。由於這些高昂的成本，像是 Spotify 等部分公司不允許使用者直接透過應用程式購買訂閱服務，顧客必須前往網站才能完成購買。競爭與市場管理局希望解除這些限制，讓開發者能夠避開這些強制性費用，監管機構表示，這將在行動市場中創造更多競爭。"
+    },
+    {
+      "id": "p3",
+      "en": "Will Hayter, the CMA executive director for digital markets, explained that giving users more choice is essential. He noted that the current lack of competition in the mobile ecosystem is a major problem. By allowing developers to steer users toward alternative payment methods, the CMA hopes to force Apple and Google to lower their prices. While the regulator suggests that Apple and Google could still charge a fee for allowing this, it insists that any such charges must be fair and based on clear data. However, the Coalition for App Fairness, which represents companies like Spotify and Match Group, has criticized the idea of allowing these companies to charge any fee at all without clear evidence of their costs.",
+      "zh": "競爭與市場管理局數位市場執行總監海特 (Will Hayter) 解釋，賦予使用者更多選擇至關重要。他指出，目前行動生態系統中缺乏競爭是一個重大問題。透過允許開發者將使用者引導至替代的支付方式，競爭與市場管理局希望迫使蘋果與谷歌降低價格。雖然監管機構暗示蘋果與谷歌仍可針對此項許可收取費用，但堅持任何此類收費都必須公平且基於明確的數據。然而，代表 Spotify 與 Match Group 等公司的「應用程式公平聯盟」則批評了允許這些公司在沒有明確成本證據的情況下收取任何費用的想法。"
+    },
+    {
+      "id": "p4",
+      "en": "Apple has strongly opposed these changes. An Apple spokesperson stated that these rules undermine protections for users and could make it easier for scams to happen. The company argues that when users are directed away from Apple’s trusted payment systems, they lose the security that the company provides. Apple also expressed concerns that these changes could make it harder for parents to control what their children buy or do on their devices.",
+      "zh": "蘋果強烈反對這些變更。蘋果發言人表示，這些規則破壞了對使用者的保護，並可能使詐騙行為更容易發生。該公司主張，當使用者被引導離開蘋果受信任的支付系統時，他們將失去公司所提供的安全性。蘋果也表達了擔憂，認為這些變更可能會讓家長更難以控管孩子在裝置上的購買行為或活動。"
+    },
+    {
+      "id": "p5",
+      "en": "This move by the UK regulator follows a decision last October to give Apple and Google “strategic market status.” This status allows the CMA to set specific rules for these companies to ensure they do not abuse their dominant position. Google has already made some changes to its system, including allowing apps to steer users to other payment methods, though it has also introduced new fees for this service.",
+      "zh": "英國監管機構的這項舉措，是繼去年十月決定給予蘋果與谷歌「戰略市場地位」之後所做出的。此地位允許競爭與市場管理局為這些公司制定特定規則，以確保他們不會濫用其主導地位。谷歌已經對其系統做出了一些調整，包括允許應用程式將使用者引導至其他支付方式，儘管該公司也針對這項服務引入了新的收費項目。"
+    },
+    {
+      "id": "p6",
+      "en": "While the UK is working to change these rules, the fight over app store fees is also happening in the United States. According to Ars Technica, Apple has taken a legal battle with Epic Games to the Supreme Court. The case involves a court order that required Apple to allow developers to include links to outside payment methods. Apple initially tried to charge a 27% commission on these outside payments, which led to a legal finding of contempt—a situation where a person or company is punished for failing to follow a court order. Apple is now asking the Supreme Court to decide if a court can punish a company for violating the “spirit” of an order, rather than just the specific words written in it.",
+      "zh": "儘管英國正致力於改變這些規則，但關於應用程式商店費用的爭議也在美國上演。根據科技媒體 Ars Technica 報導，蘋果已將與遊戲開發商 Epic Games 的法律戰打到了最高法院。該案件涉及一項法院命令，要求蘋果允許開發者加入外部支付方式的連結。蘋果起初試圖針對這些外部支付收取百分之二十七的佣金，這導致了藐視法庭的法律裁定，也就是個人或公司因未遵守法院命令而受到懲罰的情況。蘋果目前正請求最高法院裁決，法院是否可以因為公司違反命令的「精神」，而非僅僅是違反命令中明確寫出的文字，而對其進行懲罰。"
+    },
+    {
+      "id": "p7",
+      "en": "As the CMA continues its work in the UK and the Supreme Court prepares to hear Apple’s arguments, the future of the mobile app market remains uncertain. For now, developers and consumers are waiting to see if these efforts will truly lead to lower prices and more freedom. The outcome will likely change how millions of people use their phones and buy digital services every day.",
+      "zh": "隨著競爭與市場管理局在英國持續推動工作，以及最高法院準備審理蘋果的論點，行動應用程式市場的未來仍充滿不確定性。目前，開發者與消費者都在觀望這些努力是否真能帶來更低的價格與更多的自由。最終結果很可能會改變數百萬人每天使用手機與購買數位服務的方式。"
+    }
+  ],
+  "wordCount": 685,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "lift",
+      "definitionEn": "To remove a rule or restriction.",
+      "definitionZh": "解除（限制、禁令等）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（電梯）或動詞（舉起），這裡指解除限制。文中：The CMA wants to lift these restrictions so that developers can avoid these mandatory fees, which the regulator says will create more competition in the mobile market."
+    },
+    {
+      "term": "steer",
+      "definitionEn": "To guide or direct someone toward a particular action or destination.",
+      "definitionZh": "引導、導向。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（駕駛盤）或動詞（駕駛車輛），這裡指引導用戶行為。文中：By allowing developers to steer users toward alternative payment methods, the CMA hopes to force Apple and Google to lower their prices."
+    },
+    {
+      "term": "undermine",
+      "definitionEn": "To make something weaker or less effective.",
+      "definitionZh": "削弱、損害。",
+      "partOfSpeech": "verb",
+      "noteZh": "此詞在商業與法律語境中常出現，意指破壞基礎或效力。文中：An Apple spokesperson stated that these rules undermine protections for users and could make it easier for scams to happen."
+    },
+    {
+      "term": "spirit",
+      "definitionEn": "The true meaning or intention of a rule or law, rather than just the literal words.",
+      "definitionZh": "（法律或規則的）精神、真意。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作名詞（靈魂、精神），這裡指法律條文背後的真實意圖。文中：Apple is now asking the Supreme Court to decide if a court can punish a company for violating the “spirit” of an order, rather than just the specific words written in it."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/business/2026/jun/30/uk-apple-google-mobile-app-stores-developers-payment-cma",
+      "title": "UK watchdog plans to break Apple and Google’s ‘effective duopoly’ on mobile app stores",
+      "publishedAt": "2026-06-30T14:32:03Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/06/apple-takes-epic-fight-over-app-store-fees-to-the-supreme-court/",
+      "title": "Apple takes Epic fight over app store fees to the Supreme Court",
+      "publishedAt": "2026-06-30T20:20:29Z"
+    }
+  ],
+  "story": {
+    "id": "uk-watchdog-targets-apple-and-google-app-stores",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "uk-watchdog-targets-apple-and-google-app-stores-jun-2026",
+        "title": "UK Watchdog Challenges Apple and Google Over App Store Fees",
+        "publishedAt": "2026-06-30T22:14:07.093375Z",
+        "category": "technology",
+        "summaryEn": "The UK’s Competition and Markets Authority is taking action against Apple and Google to reduce their control over mobile app stores. The watchdog wants to allow app developers to steer users toward alternative payment methods outside of the companies' own systems. Currently, Apple and Google charge high commissions of up to 30% on digital purchases. Tech companies argue that these restrictions protect users from security risks and scams. Meanwhile, Apple is also fighting legal battles in the United States over similar fee structures."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, why do some companies like Spotify currently prevent users from buying subscriptions directly within their mobile apps?",
+      "options": {
+        "A": "They want to comply with new UK government regulations.",
+        "B": "They wish to avoid paying the high commission fees charged by Apple and Google.",
+        "C": "They are concerned that in-app purchases are not secure enough for their users.",
+        "D": "They are waiting for the Supreme Court to rule on the legality of app store fees."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，Apple 和 Google 對應用程式內的購買收取高達 30% 的佣金，因此 Spotify 等公司為了避免這些高額費用，選擇不讓用戶直接在 App 內訂閱。選項 A 錯誤，因為這並非為了配合法規，而是為了規避費用；選項 C 與文章提到的安全疑慮無關，那是 Apple 反對改變的理由；選項 D 提到的最高法院官司是美國的情況，與 Spotify 目前採取此作法的直接動機無關。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the relationship between the CMA's goals and Apple's arguments?",
+      "options": {
+        "A": "Both parties agree that current app store fees are based on clear, transparent data.",
+        "B": "The CMA believes that increased competition will automatically eliminate the risk of online scams.",
+        "C": "The CMA prioritizes market competition and lower prices, while Apple prioritizes security and control over the user experience.",
+        "D": "Apple is willing to lower its fees if the CMA agrees to stop investigating its 'strategic market status'."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。透過文章第三段與第四段的對比可以推論，CMA 的目標是透過引入競爭來降低價格，而 Apple 在第四段明確表示，其現行規則是為了保護用戶免受詐騙並保障安全性。選項 A 錯誤，因為 Coalition for App Fairness 質疑費用缺乏數據支持；選項 B 過度推論，CMA 並未聲稱這能消除詐騙；選項 D 文章中並未提到 Apple 有此提議。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the context of the sixth paragraph, what does the word 'contempt' mean?",
+      "options": {
+        "A": "A feeling of strong dislike or disrespect.",
+        "B": "A legal state of being punished for disobeying a court order.",
+        "C": "A lack of interest in participating in a legal battle.",
+        "D": "A disagreement between two companies regarding market share."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在法律語境中，contempt (of court) 指的是「藐視法庭」，即因為不遵守法院命令而受到懲罰的狀態。文章提到 Apple 因為試圖繞過法院要求，導致了「legal finding of contempt」，這明確指出了法律後果。選項 A 是該詞的常見日常定義，但在本段法律脈絡下不適用；選項 C 與 D 則完全扭曲了該詞在法律程序中的具體含義。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary focus of the article?",
+      "options": {
+        "A": "The history of how Apple and Google became the dominant players in the tech industry.",
+        "B": "The technical challenges developers face when creating apps for different mobile platforms.",
+        "C": "The ongoing regulatory and legal efforts to challenge the control Apple and Google have over app store payments.",
+        "D": "The specific impact of Spotify's business strategy on the global mobile app market."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。全文的核心主旨都在探討英國監管機構（CMA）以及美國法律體系如何試圖介入，以挑戰 Apple 和 Google 在應用程式商店收費機制上的壟斷地位。選項 A 僅在開頭簡短提及；選項 B 並非文章重點；選項 D 的 Spotify 僅是作為一個案例被提及，並非整篇文章探討的主體。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
