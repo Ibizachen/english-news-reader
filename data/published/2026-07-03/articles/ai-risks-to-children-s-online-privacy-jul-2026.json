@@ -1,74 +1,79 @@
 {
   "id": "2026-07-03-ai-risks-to-children-s-online-privacy",
   "slug": "ai-risks-to-children-s-online-privacy-jul-2026",
-  "publishedAt": "2026-07-03T22:13:58.705712Z",
+  "publishedAt": "2026-07-03T23:17:36.852246Z",
   "category": "technology",
-  "title": "New Warning: Why Parents Should Think Twice Before Posting Children’s Photos Online",
-  "subtitle": "Experts urge families to secure their social media accounts as AI tools make it easier for criminals to create harmful content.",
+  "title": "New Warnings Issued Over AI Risks to Children’s Privacy",
+  "subtitle": "Experts urge parents to limit public photos of children as AI-generated abuse material rises.",
   "summary": {
-    "en": "The National Crime Agency and the Internet Watch Foundation have issued new guidance for parents regarding online safety. They warn that AI tools are being used to create fake, harmful images of children from photos found on social media. Parents are encouraged to review their privacy settings and limit who can see their children's pictures. This advice follows a sharp rise in AI-generated abuse material identified by safety organizations. Experts emphasize that these steps are necessary to protect children from potential blackmail and exploitation.",
-    "zh": "英國國家犯罪調查局與網際網路觀察基金會針對網路安全發布了新的指導方針。他們警告，人工智慧工具正被用於從社群媒體上的照片製作虛假且有害的兒童影像。官方鼓勵父母檢視隱私設定，並限制能瀏覽孩子照片的對象。這項建議是在安全組織發現人工智慧生成的虐待素材急劇增加後所提出。專家強調，這些步驟對於保護兒童免受潛在的勒索與剝削至關重要。"
+    "en": "The National Crime Agency and the Internet Watch Foundation have released new guidance for parents. They warn that AI tools are being used to turn ordinary photos of children into harmful, fake sexual images. Criminals are increasingly using public social media posts to create this illegal content. Parents are now being encouraged to make their accounts private and review their sharing habits. This update follows a significant rise in AI-generated abuse material identified by safety organizations.",
+    "zh": "國家打擊犯罪調查局與網路觀察基金會發布了針對家長的新指導方針。他們警告，人工智慧工具正被用於將兒童的普通照片轉化為有害的虛假性影像。犯罪分子越來越常利用公開的社群媒體貼文來製作這些非法內容。家長現在被鼓勵將帳號設為私人並檢視自己的分享習慣。這項更新是在安全組織識別出人工智慧生成的虐待素材顯著增加後所發布的。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "In recent years, sharing photos of children on social media has become a normal part of daily life for many families. This practice, often called “sharenting,” allows parents to easily share special moments with friends and family. However, experts are now warning that this habit carries serious risks. The National Crime Agency (NCA) and the Internet Watch Foundation (IWF) have released new guidance, urging parents to be much more careful about what they post online because of the rapid growth of artificial intelligence (AI) technology.",
-      "zh": "近年來，在社群媒體上分享孩子的照片已成為許多家庭日常生活的一部分。這種通常被稱為「曬娃」的行為，讓父母能輕鬆地與親友分享珍貴時刻。然而，專家們現在警告，這種習慣隱藏著嚴重的風險。英國國家犯罪調查局 (National Crime Agency, NCA) 與網際網路觀察基金會 (Internet Watch Foundation, IWF) 已發布新的指導方針，敦促父母因應人工智慧技術的快速發展，對於在網路上發布的內容必須更加謹慎。"
+      "en": "Parents are being urged to stop sharing photos of their children on public social media accounts. This new warning comes from the National Crime Agency (NCA) and the Internet Watch Foundation (IWF). These organizations are concerned about the rapid growth of AI-generated child sexual abuse material, often called CSAM. This is illegal content that shows children in sexual situations, even if the images were created by a computer rather than by photographing a real child.",
+      "zh": "家長們正被呼籲停止在公開的社群媒體帳號上分享孩子的照片。這項新的警告來自英國國家打擊犯罪調查局（National Crime Agency, NCA）與網路觀察基金會（Internet Watch Foundation, IWF）。這些組織對於人工智慧生成的兒童性虐待素材（簡稱 CSAM）之快速增長感到擔憂。即便這些影像是由電腦生成而非拍攝真實兒童，這類呈現兒童性行為的內容仍屬非法。"
     },
     {
       "id": "p2",
-      "en": "According to the NCA and the IWF, criminals are now using AI tools to create fake, harmful images of children. These tools can take a normal photo of a child and turn it into sexual abuse material. This type of content is known as CSAM, or child sexual abuse material. The IWF reported that in 2025, they identified over 8,000 AI-generated images and videos of this kind, which was a 14% increase from the previous year. Even more concerning is the rise in AI-generated videos, which jumped from 13 cases in 2024 to 3,440 in 2025.",
-      "zh": "根據國家犯罪調查局與網際網路觀察基金會的說法，犯罪分子目前正利用人工智慧工具製作虛假且有害的兒童影像。這些工具能將一張普通的兒童照片轉變為性虐待素材。這類內容被稱為兒童性虐待素材。基金會報告指出，他們在二〇二五年識別出超過八千張這類由人工智慧生成的影像與影片，較前一年增加了百分之十四。更令人擔憂的是人工智慧生成影片的激增，從二〇二四年的十三件案例，暴增至二〇二五年的三千四百四十件。"
+      "en": "According to the IWF, the number of these fake, harmful images and videos has risen sharply. In 2025, the organization identified more than 8,000 AI-generated pieces of abuse material, which is a 14% increase from the year before. Most concerning is the jump in AI-generated videos, which rose from 13 cases in 2024 to 3,440 in 2025. The NCA noted that many parents are unaware that their public posts are being used by criminals to create this material without ever needing to contact the children directly.",
+      "zh": "根據網路觀察基金會的數據，這類虛假且有害的影像與影片數量已急劇上升。該組織在二零二五年識別出超過八千件人工智慧生成的虐待素材，較前一年增加了百分之十四。最令人擔憂的是人工智慧生成影片的激增，從二零二四年的十三件上升至二零二五年的三千四百四十件。國家打擊犯罪調查局指出，許多家長並未意識到，犯罪分子正利用他們公開發布的貼文來製作這些素材，且完全不需要直接接觸這些兒童。"
     },
     {
       "id": "p3",
-      "en": "Lorna Sinclair, a child sexual abuse education manager at the NCA, noted that most parents do not realize the danger. “The average parent or carer does not post a picture of a child online thinking that it might be scraped to be turned into CSAM,” she explained. In the past, criminals often had to contact or “groom” a child directly to get private images. Now, they can simply use publicly available photos from social media to create realistic, fake content without ever speaking to the victim.",
-      "zh": "國家犯罪調查局的兒童性虐待防治經理羅娜·辛克萊 (Lorna Sinclair) 指出，大多數父母並未意識到其中的危險。她解釋道：「一般的父母或照顧者在網路上發布孩子照片時，並不會想到這些照片可能會被擷取並轉製成兒童性虐待素材。」過去，犯罪分子通常必須直接聯繫或「誘騙」兒童才能取得私密影像。現在，他們只需使用社群媒體上公開的照片，就能在完全不與受害者接觸的情況下，製作出逼真的虛假內容。"
+      "en": "This issue is closely linked to the practice of \"sharenting,\" a term used to describe parents who frequently share photos or videos of their children online. While many parents post these pictures to share happy memories with family and friends, experts warn that these images can be \"scraped\" or collected by criminals. These criminals then use AI tools to manipulate the photos, such as removing clothing or creating fake sexual content. The Guardian reports that some teenagers have already been blackmailed by people who threatened to share these fake images unless they received money or other favors.",
+      "zh": "此問題與「曬娃」行為密切相關，這是一個用來描述家長頻繁在網路上分享孩子照片或影片的術語。雖然許多家長發布這些照片是為了與親友分享快樂的回憶，但專家警告，這些影像可能會被犯罪分子「抓取」或蒐集。隨後，這些犯罪分子會利用人工智慧工具對照片進行操弄，例如移除衣物或製作虛假的性內容。據《衛報》報導，已有部分青少年遭到威脅，若不支付金錢或提供其他好處，對方就會散布這些偽造的影像。"
     },
     {
       "id": "p4",
-      "en": "This technology has already caused real harm. The IWF has heard from teenagers who were blackmailed by people using these fake images. In one case reported to the Childline service, a 15-year-old girl discovered that a stranger had used a photo from her Instagram account to create a fake, inappropriate image of her. Criminals have also targeted school websites, taking photos of students to create harmful material and then threatening to publish it unless they receive money. Because of these threats, groups like the early warning working group (EWWG) have suggested that schools remove clear photos of students from their websites and social media pages.",
-      "zh": "這項技術已經造成了實際的傷害。網際網路觀察基金會已接獲青少年通報，他們遭到利用這些虛假影像的人士勒索。在向兒童求助專線服務通報的一起案例中，一名十五歲少女發現陌生人使用了她 Instagram 帳號上的照片，製作出她虛假且不雅的影像。犯罪分子也鎖定學校網站，竊取學生照片以製作有害素材，隨後威脅若不支付金錢便將其公開。由於這些威脅，如早期預警工作小組 (Early Warning Working Group, EWWG) 等組織建議學校應將網站與社群媒體頁面上清晰的學生照片移除。"
+      "en": "To help families stay safe, the NCA and IWF have released specific guidance. They suggest that parents should review their privacy settings on all social media apps. By making accounts private or creating a \"close friends\" group, parents can ensure that only people they know and trust can see their children's photos. The guidance also suggests that parents look back at old posts to see if they should delete any images that show identifying details, such as a child’s face or their school uniform. These details can make it easier for criminals to target specific children.",
+      "zh": "為了協助家庭保持安全，國家打擊犯罪調查局與網路觀察基金會發布了具體的指導方針。他們建議家長應檢查所有社群媒體應用程式的隱私設定。透過將帳號設為私人，或建立「摯友」群組，家長可以確保只有自己認識且信任的人才能看到孩子的照片。該指南也建議家長回顧舊貼文，檢視是否應刪除任何顯示識別細節的影像，例如孩子的臉部或校服。這些細節會讓犯罪分子更容易鎖定特定的兒童。"
     },
     {
       "id": "p5",
-      "en": "To help families stay safe, the NCA and IWF have suggested three simple steps. First, parents should review their privacy settings on all social media apps. By making accounts private or creating a “close friends” group, parents can ensure that only people they know and trust can see their photos. Second, parents should look back at old posts and delete any pictures that show identifying details, such as a child’s face or their school uniform. Finally, parents should think about who has permission to take and share photos of their children. This includes checking with schools, sports clubs, and family members to ensure they are not posting images without consent.",
-      "zh": "為了協助家庭保持安全，國家犯罪調查局與網際網路觀察基金會提出了三個簡單步驟。首先，父母應檢查所有社群媒體應用程式的隱私設定。透過將帳號設為私人，或建立「摯友」群組，父母能確保只有自己認識且信任的人才能看到照片。其次，父母應回顧舊貼文，刪除任何顯示識別細節的照片，例如孩子的臉部特徵或學校制服。最後，父母應思考誰有權拍攝並分享孩子的照片。這包括與學校、運動俱樂部及家庭成員確認，確保他們不會在未經同意的情況下發布影像。"
+      "en": "Beyond personal social media, the guidance also addresses how organizations handle images. Schools and sports clubs are being encouraged to check their own websites and social media pages. In some cases, blackmailers have targeted school websites to steal photos of students, which they then turn into harmful AI content. As a result, some groups now recommend that schools remove clear photos of pupils from public view. Parents are also encouraged to revisit any consent forms they have signed, which give schools or clubs permission to publish photos of their children.",
+      "zh": "除了個人的社群媒體外，該指南也探討了組織應如何處理影像。學校與運動社團被鼓勵檢查自身的網站與社群媒體頁面。在某些案例中，勒索者會鎖定學校網站竊取學生照片，並將其轉化為有害的人工智慧內容。因此，部分團體現在建議學校將學生的清晰照片從公開頁面移除。家長也被鼓勵重新檢視他們曾簽署的同意書，這些文件通常授權學校或社團發布孩子的照片。"
     },
     {
       "id": "p6",
-      "en": "Tim Wright, a senior manager at the NCA, said that while the situation might feel alarming, parents are not alone. The goal of the new guidance is not to tell parents how to behave, but to help them understand the risks and take action. “We encourage parents and carers to take a few simple steps today,” Wright said. The guidance also suggests that parents talk to their children about how and where their photos are shared. This helps children feel more comfortable saying no if they do not want a picture taken or posted.",
-      "zh": "國家犯罪調查局的高階經理提姆·萊特 (Tim Wright) 表示，雖然情況可能令人恐慌，但父母並非孤軍奮戰。這份新指導方針的目的並非教導父母如何行事，而是幫助他們理解風險並採取行動。萊特說：「我們鼓勵父母與照顧者今天就採取幾個簡單的步驟。」該指導方針也建議父母與孩子討論照片分享的方式與地點。這有助於孩子在不想被拍照或發布照片時，能更自在地表達拒絕。"
+      "en": "Lorna Sinclair, a child sexual abuse education manager at the NCA, explained that most parents do not realize the danger. She noted that the average person does not post a picture thinking it will be turned into illegal material. However, the technology has become so easy to use that criminals no longer need to \"groom\" or build a relationship with a victim to create this content. Instead, they simply take what is already available on the public internet.",
+      "zh": "國家打擊犯罪調查局的兒童性虐待教育經理蘿娜·辛克萊（Lorna Sinclair）解釋說，大多數家長並未意識到危險。她指出，一般人發布照片時，並不會想到這些照片會被轉化為非法素材。然而，這項技術已變得非常容易使用，犯罪分子不再需要透過「誘拐」或與受害者建立關係來製作這些內容。相反地，他們只需直接取用網路上現有的公開資訊即可。"
     },
     {
       "id": "p7",
-      "en": "Dan Sexton, the chief technology officer at the IWF, admitted that it is difficult to tell parents to stop sharing photos of their children. However, he believes there is no other choice given the current risks. “I would be very cautious,” he said. As AI technology continues to improve, the ability to manipulate images will likely become even easier. For now, experts agree that limiting the amount of personal information and photos available to the public is the best way to protect children from these new digital threats.",
-      "zh": "網際網路觀察基金會的技術長丹·塞克斯頓 (Dan Sexton) 坦言，要要求父母停止分享孩子的照片確實很困難。然而，他認為鑑於目前的風險，這已是別無選擇。他說：「我會非常謹慎。」隨著人工智慧技術持續進步，操縱影像的能力可能會變得更加容易。目前，專家們一致認為，限制公開的個人資訊與照片數量，是保護兒童免受這些新型數位威脅的最佳方式。"
+      "en": "For many, this advice is difficult to hear. Dan Sexton, the chief technology officer at the IWF, admitted that he feels uncomfortable telling parents they should not share photos of their children. However, he stated that he sees no other choice given the current risks. The government is also trying to help by banning certain \"nudification\" apps and updating laws to ensure that AI companies take responsibility for preventing their systems from being used to create abuse material.",
+      "zh": "對許多人來說，這項建議很難接受。網路觀察基金會的技術長丹·塞克斯頓（Dan Sexton）坦言，他對於告訴家長不應分享孩子照片感到不自在。然而，他表示鑑於目前的風險，他認為別無選擇。政府也正試圖透過禁止特定的「去衣」應用程式，並更新法律來確保人工智慧公司負起責任，防止其系統被用於製作虐待素材。"
+    },
+    {
+      "id": "p8",
+      "en": "Ultimately, the experts hope that these steps will help parents feel more in control. The guidance suggests that parents should talk to their children about how their images are used. By including children in these discussions, parents can help them understand why privacy is important and give them the confidence to say no when they do not want a photo taken or shared. While AI is becoming a part of everyday life, the NCA and IWF emphasize that simple changes to online habits can make a significant difference in protecting children from these modern digital threats.",
+      "zh": "最終，專家們希望這些步驟能幫助家長感到更有掌控力。該指南建議家長應與孩子討論影像如何被使用。透過讓孩子參與這些討論，家長可以幫助他們理解隱私的重要性，並賦予他們在不想被拍照或分享照片時，有勇氣說不的自信。雖然人工智慧正成為日常生活的一部分，但國家打擊犯罪調查局與網路觀察基金會強調，改變簡單的網路習慣，對於保護兒童免受這些現代數位威脅能產生顯著的影響。"
     }
   ],
-  "wordCount": 732,
+  "wordCount": 756,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
       "term": "scraped",
-      "definitionEn": "To automatically collect large amounts of data from websites.",
-      "definitionZh": "（網路用語）抓取、蒐集（網站上的資料）。",
+      "definitionEn": "In this context, to automatically collect large amounts of data or images from websites using software.",
+      "definitionZh": "（網路用語）自動抓取、蒐集網路上的大量資料或圖片。",
       "partOfSpeech": "verb",
-      "noteZh": "常見作名詞（刮痕）或動詞（刮掉），這裡指網路爬蟲技術。文中：The average parent or carer does not post a picture of a child online thinking that it might be scraped to be turned into CSAM"
+      "noteZh": "常見意思為「刮除」，這裡指網路爬蟲技術。文中：experts warn that these images can be \"scraped\" or collected by criminals."
     },
     {
       "term": "groom",
-      "definitionEn": "To build a relationship with a child to gain their trust for the purpose of sexual abuse.",
-      "definitionZh": "（對兒童）進行誘拐前的心理控制與建立信任關係。",
+      "definitionEn": "To build a relationship with a child over time to gain their trust for the purpose of sexual abuse.",
+      "definitionZh": "（犯罪用語）誘騙、培養感情，指犯罪者長期與受害者建立信任關係以進行性剝削。",
       "partOfSpeech": "verb",
-      "noteZh": "常見作動詞（梳理毛髮、打扮），這裡指犯罪心理操控。文中：In the past, criminals often had to contact or “groom” a child directly to get private images."
+      "noteZh": "常見意思為「梳理毛髮」或「打扮」，這裡指犯罪行為。文中：criminals no longer need to \"groom\" or build a relationship with a victim to create this content."
     },
     {
-      "term": "jumped",
-      "definitionEn": "To increase suddenly and by a large amount.",
-      "definitionZh": "（數量或數值）大幅增加、暴增。",
+      "term": "revisit",
+      "definitionEn": "To look at or consider something again, especially to check or change it.",
+      "definitionZh": "重新檢視、重新考慮。",
       "partOfSpeech": "verb",
-      "noteZh": "常見作動詞（跳躍），這裡形容數據的急劇上升。文中：Even more concerning is the rise in AI-generated videos, which jumped from 13 cases in 2024 to 3,440 in 2025."
+      "noteZh": "常見意思為「重遊（景點）」，這裡指重新審視文件。文中：Parents are also encouraged to revisit any consent forms they have signed, which give schools or clubs permission to publish photos of their children."
     }
   ],
   "sources": [
@@ -87,61 +92,69 @@
   ],
   "story": {
     "id": "ai-risks-to-children-s-online-privacy",
-    "type": "standalone",
-    "previousArticles": []
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "ai-risks-to-children-s-online-privacy-jul-2026",
+        "title": "New Warning: Why Parents Should Think Twice Before Posting Children’s Photos Online",
+        "publishedAt": "2026-07-03T22:13:58.705712Z",
+        "category": "technology",
+        "summaryEn": "The National Crime Agency and the Internet Watch Foundation have issued new guidance for parents regarding online safety. They warn that AI tools are being used to create fake, harmful images of children from photos found on social media. Parents are encouraged to review their privacy settings and limit who can see their children's pictures. This advice follows a sharp rise in AI-generated abuse material identified by safety organizations. Experts emphasize that these steps are necessary to protect children from potential blackmail and exploitation."
+      }
+    ]
   },
   "quiz": [
     {
       "id": "q1",
       "type": "detail",
-      "question": "According to the IWF report, what trend was observed regarding AI-generated videos of children between 2024 and 2025?",
+      "question": "According to the statistics provided by the IWF, how did the number of AI-generated abuse videos change between 2024 and 2025?",
       "options": {
-        "A": "They decreased by 14 percent.",
-        "B": "They increased from 13 cases to 3,440 cases.",
-        "C": "They remained stable with very few reported incidents.",
-        "D": "They were primarily created by school staff members."
+        "A": "It increased by 14%.",
+        "B": "It rose from 13 cases to 3,440 cases.",
+        "C": "It reached a total of 8,000 cases.",
+        "D": "It remained relatively stable compared to images."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。根據文章第二段，報告明確指出 AI 生成的影片數量從 2024 年的 13 件大幅增加至 2025 年的 3,440 件。選項 A 錯誤，因為 14% 是指整體 AI 影像的增長率而非影片單項；選項 C 與數據不符；選項 D 文章中並未提及學校員工參與製作影片，僅提到學校網站的照片被罪犯盜用。"
+      "explanationZh": "正確答案為 B。根據文章第二段，文中明確指出 AI 生成的影片數量從 2024 年的 13 件大幅增加至 2025 年的 3,440 件。選項 A 的 14% 是指整體虐待素材的增長率，而非影片的增長比例；選項 C 的 8,000 件是該年度所有 AI 生成素材的總數；選項 D 錯誤，因為數據顯示影片數量經歷了極大的飆升，而非穩定。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "What can be inferred about the shift in tactics used by criminals to obtain images of children?",
+      "question": "Based on the article, why is it now easier for criminals to create harmful content compared to the past?",
       "options": {
-        "A": "Criminals now prefer to interact with children in person to build trust.",
-        "B": "Criminals no longer target school websites because of stricter privacy laws.",
-        "C": "Criminals rely less on direct communication with victims than they did in the past.",
-        "D": "Criminals are now focusing exclusively on celebrities' children to gain more money."
+        "A": "Criminals have become better at building personal relationships with children.",
+        "B": "Schools and sports clubs are now actively helping criminals gather data.",
+        "C": "Criminals no longer need to interact with victims because they can scrape public images.",
+        "D": "AI technology has made it impossible for parents to protect their privacy settings."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。根據文章第三段，過去罪犯需要直接接觸或「誘騙」(groom) 兒童來獲取照片，但現在他們可以利用社交媒體上的公開照片。這顯示罪犯不再需要與受害者進行直接溝通即可取得素材。選項 A 與文意相反；選項 B 錯誤，文章提到學校網站仍是被鎖定的目標；選項 D 文章中並未提及罪犯僅針對名人子女。"
+      "explanationZh": "正確答案為 C。根據第六段 Lorna Sinclair 的說明，現代科技讓犯罪者無需再透過「誘拐」（grooming）或建立關係來獲取素材，他們只需從公開網路取得現成照片。選項 A 與文中提到的犯罪趨勢相反；選項 B 錯誤，因為學校是受害者而非協助者；選項 D 錯誤，文章建議家長透過隱私設定來保護孩子，並未說隱私設定無效。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the third paragraph, what does the word 'scraped' mean in the context of criminals obtaining photos?",
+      "question": "In the third paragraph, what does the word 'scraped' mean in the context of digital images?",
       "options": {
-        "A": "Collected or gathered data from online sources automatically.",
-        "B": "Physically removed a printed photograph from a wall.",
-        "C": "Edited or modified the quality of a digital image.",
-        "D": "Deleted private information from a secure database."
+        "A": "To remove or delete unwanted parts of a photograph.",
+        "B": "To gather or collect data from the internet automatically.",
+        "C": "To physically damage a printed photo.",
+        "D": "To share a photo with a large number of people."
       },
-      "correct": "A",
-      "explanationZh": "正確答案為 A。在此語境中，scraped 指的是利用技術手段從網路（如社交媒體）上大量搜集或抓取公開的數據與影像。選項 B 為字面上的刮除，不符合數位語境；選項 C 描述的是後續的影像處理，而非獲取照片的過程；選項 D 則與原文描述的「獲取素材」之意完全相反。"
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在數位語境中，'scrape' 指的是利用軟體自動從網站上抓取或蒐集大量資料。文章提到罪犯會將照片「scraped」，意指他們大量蒐集公開的照片以供 AI 使用。選項 A 雖然在修圖時有類似概念，但在此處不符合語境；選項 C 是字面意義，不適用於數位圖片；選項 D 與蒐集行為無關。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "What is the primary message of the article regarding the practice of 'sharenting'?",
+      "question": "What is the primary message of the article regarding the sharing of children's photos?",
       "options": {
-        "A": "Parents should stop using social media entirely to protect their children's privacy.",
-        "B": "AI technology is beneficial for families to share special moments more effectively.",
-        "C": "Parents need to be aware of the risks of AI and take proactive steps to limit public access to their children's images.",
-        "D": "Schools are solely responsible for the safety of photos posted online."
+        "A": "Parents should stop using all forms of social media entirely.",
+        "B": "AI technology is beneficial for children but requires strict government regulation.",
+        "C": "Schools are the only places responsible for the safety of children's digital images.",
+        "D": "Parents should change their online habits and privacy settings to protect children from AI-related threats."
       },
-      "correct": "C",
-      "explanationZh": "正確答案為 C。文章的核心主旨在於提醒家長，由於 AI 技術的進步，分享孩子照片已產生嚴重風險，因此文章提出了具體的防範措施（如調整隱私設定、刪除舊照片等）。選項 A 過於極端，文章建議的是謹慎而非完全停用；選項 B 忽略了文章的警示性質；選項 D 錯誤，文章強調家長在保護孩子隱私方面扮演關鍵角色。"
+      "correct": "D",
+      "explanationZh": "正確答案為 D。本文主旨旨在提醒家長關注「分享育兒」（sharenting）帶來的風險，並提供具體的防護建議（如調整隱私設定、與孩子溝通等），以應對 AI 生成非法內容的威脅。選項 A 過於極端，文章建議的是調整隱私與習慣而非完全禁用；選項 B 偏離了保護兒童的主題；選項 C 錯誤，因為文章強調家長與組織皆有責任。"
     }
   ],
   "aiGenerated": true,
