@@ -1,0 +1,144 @@
+{
+  "id": "2026-07-04-concerns-over-ai-scribes-in-medical-settings",
+  "slug": "concerns-over-ai-scribes-in-medical-settings-jul-2026",
+  "publishedAt": "2026-07-04T22:13:56.870036Z",
+  "category": "technology",
+  "title": "Doctors’ Growing Use of AI Scribes Raises Privacy Concerns",
+  "subtitle": "As medical professionals turn to technology to save time, the Australian government warns of risks to patient data and consent.",
+  "summary": {
+    "en": "AI scribe tools are becoming very popular among doctors to help manage paperwork. These tools record and summarize patient conversations to save time during medical visits. However, the Australian government is worried about how these tools handle private patient information. There are also concerns that patients are not always properly asked for their permission before their data is recorded. Experts are now calling for stronger rules to ensure that this technology helps patients rather than just increasing profits.",
+    "zh": "人工智慧紀錄員工具在醫師間變得非常熱門，有助於處理文書工作。這些工具透過記錄並總結病患對話，以節省看診時間。然而，澳洲政府對於這些工具處理病患私人資訊的方式感到憂心。此外，亦有疑慮指出病患在資料被記錄前，未必總是被妥善徵求同意。專家們目前正呼籲制定更嚴格的規範，以確保這項技術能造福病患，而非僅僅是增加利潤。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "In the last year and a half, a new technology has changed how many doctors work. Known as \"AI scribes,\" these digital tools record, transcribe (turn speech into text), and summarize conversations between doctors and their patients. The goal is to help doctors create medical notes faster, which reduces the heavy amount of paperwork they face every day. However, as these tools become more common, the Australian government has raised serious concerns about how they are being used and whether they are safe for patient privacy.",
+      "zh": "在過去一年半中，一項新技術改變了許多醫師的工作方式。這些被稱為「人工智慧紀錄員」的數位工具，能記錄、轉錄（將語音轉為文字）並總結醫師與病患之間的對話。其目標是協助醫師更快速地完成醫療紀錄，進而減輕他們每日面臨的沉重文書負擔。然而，隨著這些工具日益普及，澳洲政府對於這些工具的使用方式，以及是否能確保病患隱私安全，已提出了嚴正關切。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Guardian, the use of AI scribes by doctors in Australia has grown quickly. Data from the Royal Australian College of General Practitioners (RACGP) shows that the number of doctors using these tools nearly doubled between August 2024 and November 2025, rising from 22% to 40%. Companies that create these tools say they have been used hundreds of millions of times around the world. While the technology promises to make doctors more productive and lower their stress levels, officials are now looking closely at the risks involved.",
+      "zh": "根據《衛報》（The Guardian）報導，澳洲醫師使用人工智慧紀錄員的情形成長迅速。來自澳洲皇家全科醫師學院（RACGP）的數據顯示，使用這些工具的醫師比例在二零二四年八月至二零二五年十一月間幾乎翻倍，從百分之二十二上升至百分之四十。開發這些工具的企業聲稱，其產品在全球已被使用數億次。儘管這項技術承諾能提升醫師的工作效率並降低壓力，但官方目前正密切審視其中涉及的風險。"
+    },
+    {
+      "id": "p3",
+      "en": "One major problem is that these tools often have very little oversight. In February 2026, government documents revealed that the federal health department is worried about how these companies operate. Many of these digital scribes are not classified as \"medical devices,\" which means they do not always have to follow the strict rules that apply to medical equipment. The department noted that some companies claim their products are safe and private, but they often lack transparency. In some cases, these companies may not even realize that their cloud platforms—the online services where data is stored—are sending sensitive patient information outside of Australia. This creates a significant risk for the security of personal health data.",
+      "zh": "一個主要問題在於這些工具往往缺乏足夠的監督。二零二六年二月，政府文件揭露聯邦衛生部門對於這些企業的運作方式感到憂心。許多這類數位紀錄員並未被歸類為「醫療器材」，這意味著它們不一定需要遵守適用於醫療設備的嚴格規範。衛生部門指出，部分企業聲稱其產品安全且具隱私性，但往往缺乏透明度。在某些案例中，這些企業甚至可能未察覺其雲端平台（即儲存資料的線上服務）正將敏感的病患資訊傳輸至澳洲境外。這對個人健康資料的安全性構成了重大風險。"
+    },
+    {
+      "id": "p4",
+      "en": "Another issue is the way doctors get permission from their patients. The health department noted that there is a big difference in how medical practices ask for consent. According to the department, for consent to be truly \"informed,\" patients must clearly understand both the benefits and the limitations of the technology being used. However, reports suggest that some patients are not being given a real choice. For example, some doctors have reportedly told patients they must agree to the use of an AI scribe or find a different doctor. This has caused frustration among those who are uncomfortable with their private conversations being recorded by an artificial intelligence.",
+      "zh": "另一個問題在於醫師取得病患許可的方式。衛生部門指出，醫療院所要求同意的程序存在巨大差異。根據該部門說法，若要使同意真正達到「知情」，病患必須清楚理解所使用技術的優點與侷限。然而，有報導指出部分病患並未獲得真正的選擇權。例如，據傳有些醫師告知病患，必須同意使用人工智慧紀錄員，否則就得另尋其他醫師。這讓那些對於私人對話被人工智慧記錄感到不自在的病患，產生了挫折感。"
+    },
+    {
+      "id": "p5",
+      "en": "Dr. Elizabeth Deveny, the chief executive of the Consumer Health Forum, said that the government and the public are asking the same important questions. She noted that while it is good the health department is looking into these issues, the real question is whether current rules are strong enough to protect people in everyday life. She also pointed out that if these tools are meant to save time, the public deserves to know how that time is being used. \"If they save clinicians time, the public deserves to know if that time means better care, better access, or if it just means more billable activity,\" she said.",
+      "zh": "消費者健康論壇（Consumer Health Forum）執行長伊莉莎白．德文尼（Elizabeth Deveny）博士表示，政府與大眾正提出同樣重要的問題。她指出，雖然衛生部門著手調查這些議題是件好事，但真正的問題在於現行法規是否足以保護日常生活中的民眾。她也強調，如果這些工具旨在節省時間，大眾有權知道這些時間是如何被運用的。她表示：「如果這些工具節省了臨床醫師的時間，大眾有權知道這是否意味著更好的照護、更便利的就醫管道，或者僅僅代表更多的收費活動。」"
+    },
+    {
+      "id": "p6",
+      "en": "There are also financial concerns. Some companies advertise that their AI tools can help doctors increase their revenue by 30% without needing to work longer hours or see more patients. The health department warned that this has implications for the Medicare Benefits Scheme—the Australian government’s system for funding healthcare. If doctors are using technology to increase their income without providing more value to the healthcare system, it could lead to higher costs for the government and taxpayers.",
+      "zh": "此外還有財務方面的疑慮。部分企業宣傳其人工智慧工具能協助醫師在無需延長工時或增加看診人數的情況下，將收入提高百分之三十。衛生部門警告，這對「聯邦醫療保險福利計畫」（Medicare Benefits Scheme，即澳洲政府的醫療保健資助系統）具有影響。如果醫師利用科技增加收入，卻未對醫療體系提供更多價值，這可能會導致政府與納稅人承擔更高的成本。"
+    },
+    {
+      "id": "p7",
+      "en": "Looking ahead, the government’s AI advisory group has noted that these tools share the same problems as other large language models. This means they can sometimes make mistakes in quality or accuracy. Because these tools are now part of the national digital health infrastructure, any error could affect patient safety and the accuracy of medical records. As the health regulator considers the need for new safeguards, the debate continues over how to balance the benefits of modern technology with the need to protect patient rights and ensure that medical care remains fair and transparent for everyone.",
+      "zh": "展望未來，政府的人工智慧諮詢小組指出，這些工具與其他大型語言模型面臨相同的問題，這意味著它們有時會在品質或準確性上出錯。由於這些工具現已成為國家數位健康基礎設施的一部分，任何錯誤都可能影響病患安全與醫療紀錄的準確性。隨著衛生監管機構考慮是否需要制定新的防護措施，各界持續辯論如何在現代科技的益處與保護病患權利之間取得平衡，並確保醫療照護對所有人而言依然公平且透明。"
+    }
+  ],
+  "wordCount": 738,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "oversight",
+      "definitionEn": "The act of watching and directing a process or activity to ensure it is done correctly.",
+      "definitionZh": "監督、監管。",
+      "partOfSpeech": "noun",
+      "noteZh": "容易與「疏忽」（overlook的動詞名詞化）混淆，這裡指管理與監督。文中：One major problem is that these tools often have very little oversight."
+    },
+    {
+      "term": "billable",
+      "definitionEn": "Able to be charged to a client or insurance provider as a fee for services.",
+      "definitionZh": "可計費的、可收費的。",
+      "partOfSpeech": "adjective",
+      "noteZh": "常見於商業或醫療領域，指能向保險或政府申請給付的項目。文中：or if it just means more billable activity,"
+    },
+    {
+      "term": "implications",
+      "definitionEn": "Possible future effects or consequences of an action or decision.",
+      "definitionZh": "可能的影響、後果或牽連。",
+      "partOfSpeech": "noun",
+      "noteZh": "常被誤解為「暗示」，但在正式文件中多指某事帶來的深遠影響。文中：The health department warned that this has implications for the Medicare Benefits Scheme—the Australian government’s system for funding healthcare."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/05/doctors-ai-scribes-australia-government-privacy-warning",
+      "title": "Doctors’ soaring use of AI scribes prompts Australian government warning over privacy",
+      "publishedAt": "2026-07-04T20:00:07Z"
+    }
+  ],
+  "story": {
+    "id": "concerns-over-ai-scribes-in-medical-settings",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the data from the Royal Australian College of General Practitioners (RACGP), how did the usage of AI scribes change between August 2024 and November 2025?",
+      "options": {
+        "A": "It increased by 22%.",
+        "B": "It grew from 22% to 40%.",
+        "C": "It nearly doubled from 40% to 80%.",
+        "D": "It remained stable at approximately 40%."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，RACGP 的數據明確指出澳洲醫生使用 AI 記錄工具的比例在 2024 年 8 月至 2025 年 11 月期間，從 22% 上升至 40%。選項 A 混淆了起始比例；選項 C 錯誤解讀了「nearly doubled」的具體數值；選項 D 則完全忽略了時間段內的增長事實。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the current regulatory status of AI scribes in Australia?",
+      "options": {
+        "A": "They are strictly regulated as medical devices by the government.",
+        "B": "They are prohibited from being used in any Australian medical practice.",
+        "C": "They operate in a legal gray area with insufficient oversight.",
+        "D": "They are fully transparent regarding where patient data is stored."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第三段，這些工具往往未被歸類為「醫療器材」，因此不受嚴格的醫療法規限制，且政府對其運作缺乏透明度感到擔憂。這顯示它們處於監管不足的灰色地帶。選項 A 與文意相反；選項 B 過於誇大，文中並未禁止使用；選項 D 則與文中提到的「缺乏透明度」與「數據外流風險」相矛盾。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what is the meaning of the word 'safeguards'?",
+      "options": {
+        "A": "Financial profits or revenue.",
+        "B": "Protective measures or rules.",
+        "C": "Technical errors or mistakes.",
+        "D": "Digital storage platforms."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。「Safeguards」在文中指為了防止危險或損害而採取的預防措施或保護機制。文中提到監管機構正在考慮是否需要新的 safeguards 來保護病患權利。選項 A 指的是財務收益；選項 C 指的是文中提到的技術錯誤（errors）；選項 D 指的是雲端儲存空間，皆與詞義不符。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary focus of the article?",
+      "options": {
+        "A": "Explaining how AI scribes can help doctors increase their income by 30%.",
+        "B": "Promoting the widespread adoption of AI technology in Australian hospitals.",
+        "C": "Comparing different brands of AI scribes available to general practitioners.",
+        "D": "Discussing the benefits of AI scribes alongside the concerns regarding their regulation and safety."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。本文開頭介紹了 AI 記錄工具的用途與優點（減輕文書負擔），隨後花費大量篇幅討論政府對隱私、監管、知情同意及財務影響的擔憂。選項 A 僅是文中提到的一個次要問題（財務影響）；選項 B 與文章批判性的語氣不符；選項 C 文中並未對品牌進行比較，因此皆非文章主旨。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}

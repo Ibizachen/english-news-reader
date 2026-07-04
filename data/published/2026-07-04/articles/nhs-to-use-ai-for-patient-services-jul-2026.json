@@ -1,0 +1,153 @@
+{
+  "id": "2026-07-04-nhs-to-use-ai-for-patient-services",
+  "slug": "nhs-to-use-ai-for-patient-services-jul-2026",
+  "publishedAt": "2026-07-04T22:13:56.870036Z",
+  "category": "health",
+  "title": "NHS to Use Artificial Intelligence to Improve Patient Care",
+  "subtitle": "New technology aims to reduce waiting times and help doctors spend more time with patients.",
+  "summary": {
+    "en": "The NHS is introducing artificial intelligence to its official app to help direct patients to the right medical services. This new tool will triage patients, deciding if they need a doctor's appointment or care from a pharmacy. The government hopes this will solve the problem of long phone queues for GP appointments. While officials believe this will save time and improve efficiency, some experts have raised concerns about privacy and the need for a long-term plan. The project is part of a large investment to update technology across the health service.",
+    "zh": "英國國家醫療保健服務（NHS）正在其官方應用程式中導入人工智慧，以協助引導病患前往合適的醫療服務。這項新工具將負責病患的檢傷分類，決定他們需要預約門診還是前往藥局尋求照護。政府希望此舉能解決全科醫生門診電話預約大排長龍的問題。儘管官員認為這將能節省時間並提升效率，但部分專家已針對隱私問題以及制定長期計畫的必要性提出疑慮。該計畫是醫療服務體系全面更新技術之大型投資的一部分。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The National Health Service (NHS) has announced a major plan to use artificial intelligence (AI) to manage patient services. AI refers to computer systems that can perform tasks usually requiring human intelligence. This new technology will be added to the official NHS app to help patients find the right care more quickly. The system will act as a digital assistant, known as a triage tool, which assesses a patient’s health needs to decide if they should see a doctor, visit a pharmacy, or go to an emergency department.",
+      "zh": "英國國家醫療保健服務（NHS）宣布了一項重大計畫，將運用人工智慧（AI）來管理病患服務。人工智慧是指能執行通常需要人類智慧之任務的電腦系統。這項新技術將加入官方的國家醫療保健服務應用程式中，以協助病患更快速地找到合適的醫療照護。該系統將扮演數位助理的角色，即所謂的「檢傷分類工具」，負責評估病患的健康需求，進而決定他們應該去看醫生、前往藥局，還是直接去急診室。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Guardian Health, this update is expected to reach 200,000 patients over the next year, with the goal of being available to all users by April 2028. The government hopes this will help end the common problem of patients struggling to book same-day doctor appointments early in the morning. A trial at the Wealden Ridge Medical Partnership in Sussex showed that using this technology led to a 29% drop in the number of people waiting on the phone to book an appointment.",
+      "zh": "根據《衛報健康》（The Guardian Health）報導，這項更新預計在未來一年內觸及二十萬名病患，目標是在二〇二八年四月前開放給所有使用者。政府希望此舉能解決病患在清晨難以預約當日門診的常見問題。在薩塞克斯郡（Sussex）的威爾登嶺醫療合夥診所（Wealden Ridge Medical Partnership）進行的試驗顯示，使用這項技術後，排隊打電話預約門診的人數減少了百分之二十九。"
+    },
+    {
+      "id": "p3",
+      "en": "This initiative is part of a £10 billion government funding package. The goal is to modernize technology and data systems throughout the health service to make it work more efficiently. Beyond the app, the NHS plans to use AI to record patient consultations. By automatically writing down notes during meetings between doctors and patients, the system aims to reduce the amount of time staff spend on paperwork. Officials noted that a trial at Great Ormond Street hospital in London found that staff spent 25% more time talking to patients when they used this tool.",
+      "zh": "這項倡議是政府一百億英鎊資金計畫的一部分。其目標是將整個醫療服務體系的技術與數據系統現代化，以提升運作效率。除了應用程式之外，國家醫療保健服務也計畫利用人工智慧來記錄病患的諮詢過程。透過在醫生與病患會談時自動撰寫筆記，該系統旨在減少醫護人員處理文書工作的時間。官員指出，在倫敦大奧蒙德街醫院（Great Ormond Street Hospital）的試驗發現，使用此工具後，醫護人員與病患交談的時間增加了百分之二十五。"
+    },
+    {
+      "id": "p4",
+      "en": "Health Secretary James Murray expressed confidence in these changes. He stated that new technology would get patients to the right care faster and free doctors from large amounts of paperwork, ultimately helping to reduce long waiting times. The government believes that these digital tools are essential for the future of the health service.",
+      "zh": "衛生大臣莫瑞（James Murray）對這些變革表達了信心。他表示，新技術能讓病患更快獲得合適的照護，並將醫生從繁重的文書工作中解放出來，最終有助於縮短漫長的候診時間。政府認為，這些數位工具對於醫療服務的未來至關重要。"
+    },
+    {
+      "id": "p5",
+      "en": "However, not everyone is convinced that technology alone is the answer. Health leaders have called for a clearer, long-term strategy for how AI should be used across the entire NHS. They are worried that there is not enough evidence to prove that these tools will significantly improve productivity. There are also concerns regarding patient privacy and the safety of personal information. Some experts fear that people who are not comfortable using technology might be left behind or have a harder time accessing care.",
+      "zh": "然而，並非所有人都相信單靠技術就能解決問題。醫療界領袖呼籲，針對人工智慧應如何在整個國家醫療保健服務體系中使用，必須制定更明確的長期策略。他們擔心目前缺乏足夠的證據證明這些工具能顯著提升生產力。此外，大眾也對病患隱私及個人資料安全感到憂心。部分專家擔心，不習慣使用科技的人可能會被遺落，或在取得醫療服務時面臨更多困難。"
+    },
+    {
+      "id": "p6",
+      "en": "Lynn Woolsey, the chief nursing officer at the Royal College of Nursing, described the app update as an important step forward. However, she also warned that there is a risk of being too optimistic about the benefits of AI. She emphasized that the NHS must ensure these systems are accurate and do not create more work for staff who might have to fix mistakes made by the computer. She also stressed that patients need to feel confident that their private information is being protected.",
+      "zh": "英國皇家護理學院（Royal College of Nursing）的護理長伍爾西（Lynn Woolsey）形容這次應用程式的更新是重要的一步。不過，她也警告，對人工智慧的效益過度樂觀存在風險。她強調，國家醫療保健服務必須確保這些系統準確無誤，且不會因為需要修正電腦錯誤而為醫護人員增加更多負擔。她也強調，病患必須對個人隱私受到保護感到安心。"
+    },
+    {
+      "id": "p7",
+      "en": "Tim Horton, the deputy director of policy at the Health Foundation, welcomed the investment but noted that it must be part of a bigger plan. He explained that the NHS risks using AI in a disconnected way if there is no clear, long-term strategy to guide the system. He argued that it is critical to understand how to support different organizations so they can use these tools effectively. Without a broader plan, he warned, the health service might struggle to achieve real benefits on a large scale.",
+      "zh": "健康基金會（Health Foundation）政策副主任霍頓（Tim Horton）對這項投資表示歡迎，但指出這必須是更大規模計畫的一部分。他解釋說，如果沒有明確的長期策略來引導系統，國家醫療保健服務將面臨以零散方式使用人工智慧的風險。他主張，了解如何支援不同機構以有效運用這些工具至關重要。他警告，若缺乏更廣泛的計畫，醫療服務體系可能難以在大規模層面上實現真正的效益。"
+    },
+    {
+      "id": "p8",
+      "en": "Ciarán Devane, the chief executive of the NHS Alliance, highlighted another important issue. He argued that the £10 billion investment should focus on giving local leaders the power to decide which technologies work best for their specific communities. He believes that local leaders should have the freedom to invest in solutions that make the most sense for their patients.",
+      "zh": "國家醫療保健服務聯盟（NHS Alliance）執行長德瓦恩（Ciarán Devane）強調了另一個重要議題。他主張，這一百億英鎊的投資應聚焦於賦予地方領導者權力，讓他們決定哪些技術最適合其特定社區。他認為，地方領導者應有自由去投資對其病患最有意義的解決方案。"
+    },
+    {
+      "id": "p9",
+      "en": "As the NHS moves forward with these digital changes, the focus will likely remain on balancing innovation with safety. While the promise of faster care and less paperwork is attractive, the health service must address the concerns of experts and patients alike. The success of this project will depend on whether the government can create a system that is not only efficient but also fair and secure for everyone.",
+      "zh": "隨著國家醫療保健服務持續推動這些數位變革，重點很可能仍會放在創新與安全之間的平衡。雖然能更快獲得照護且減少文書工作的願景相當吸引人，但醫療服務體系必須同時回應專家與病患的擔憂。此計畫的成功與否，將取決於政府能否建立一套不僅高效，且對每個人而言都公平且安全的系統。"
+    }
+  ],
+  "wordCount": 768,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "drop",
+      "definitionEn": "A decrease in the amount or number of something.",
+      "definitionZh": "下降、減少。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（掉落），這裡作名詞用。文中：A trial at the Wealden Ridge Medical Partnership in Sussex showed that using this technology led to a 29% drop in the number of people waiting on the phone to book an appointment."
+    },
+    {
+      "term": "free",
+      "definitionEn": "To remove someone or something from a duty or burden.",
+      "definitionZh": "常見作形容詞（免費的、自由的），這裡作動詞用。文中：He stated that new technology would get patients to the right care faster and free doctors from large amounts of paperwork, ultimately helping to reduce long waiting times.",
+      "partOfSpeech": "verb"
+    },
+    {
+      "term": "left behind",
+      "definitionEn": "To be at a disadvantage because you are not progressing as quickly as others.",
+      "definitionZh": "被拋在後頭、跟不上進度。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這裡指因無法適應科技進步而處於劣勢。文中：Some experts fear that people who are not comfortable using technology might be left behind or have a harder time accessing care."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Health",
+      "url": "https://www.theguardian.com/society/2026/jul/04/nhs-ai-app-patients-appropriate-services-health",
+      "title": "NHS to use AI on its app to direct patients to appropriate services",
+      "publishedAt": "2026-07-04T21:30:08Z"
+    }
+  ],
+  "story": {
+    "id": "nhs-to-use-ai-for-patient-services",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What specific outcome was observed during the trial at the Great Ormond Street hospital?",
+      "options": {
+        "A": "A 29% reduction in telephone waiting times for appointments.",
+        "B": "A 25% increase in the time medical staff spent interacting with patients.",
+        "C": "A significant decrease in the total amount of paperwork required by the government.",
+        "D": "A faster triage process for patients visiting the emergency department."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，Great Ormond Street 醫院的試驗結果顯示，醫護人員在使用 AI 記錄系統後，與病患對話的時間增加了 25%。選項 A 雖然提到了 29% 的數據，但那是發生在 Wealden Ridge Medical Partnership 的試驗結果，與此題問的醫院不同。選項 C 與 D 雖然是 AI 帶來的整體願景，但並非該醫院試驗的具體數據結果。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the potential challenges for elderly or less tech-savvy patients under the new NHS plan?",
+      "options": {
+        "A": "They will be required to visit a pharmacy before they can book a doctor's appointment.",
+        "B": "They might face increased difficulty in accessing healthcare services compared to tech-literate patients.",
+        "C": "They will be automatically excluded from the 200,000-patient trial scheduled for next year.",
+        "D": "They will have to pay extra fees to access the digital assistant features on the NHS app."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第五段提到，專家擔心那些不習慣使用科技的人可能會被「遺漏」（left behind）或在取得醫療服務時面臨更多困難。這暗示了數位落差會造成獲取醫療資源的不平等。選項 A 文中並未提及；選項 C 的排除說法過於武斷，文中並未說會直接排除；選項 D 關於額外費用的資訊在文中完全沒有提到。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the word 'balancing' imply in the context of the NHS's digital changes?",
+      "options": {
+        "A": "Equally distributing funding between different local hospital departments.",
+        "B": "Carefully managing the trade-off between adopting new technology and maintaining safety.",
+        "C": "Using a physical scale to weigh the benefits of AI against traditional paper records.",
+        "D": "Ensuring that the number of AI developers is equal to the number of medical staff."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在此語境下，「balancing」是指在兩者之間取得權衡或協調。文章提到雖然 AI 的好處很吸引人，但必須同時處理專家與病患對於安全與隱私的擔憂，因此是在「創新」與「安全」之間尋求平衡。選項 A、C、D 皆為字面上的誤解或與文章脈絡無關的解釋，並未反映出該詞在文中作為「權衡利弊」的深層含義。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "Which of the following best summarizes the main message of the article?",
+      "options": {
+        "A": "The NHS is replacing human doctors with AI to save money on administrative tasks.",
+        "B": "AI will solve all NHS waiting time problems by April 2028 without any additional costs.",
+        "C": "The NHS is implementing AI to improve efficiency, but experts stress the need for a careful, strategic, and secure approach.",
+        "D": "Local hospital leaders are currently resisting the government's plan to use AI in patient services."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。這篇文章全面地介紹了 NHS 引進 AI 的計畫，同時也呈現了支持者的願景（效率、減少文書工作）以及反對者或專家提出的擔憂（缺乏長期策略、隱私問題、數位落差）。選項 A 錯誤，因為 AI 是輔助而非取代醫生；選項 B 過於樂觀，忽略了文章提到的挑戰；選項 D 錯誤，因為文章並未提到地方領導人「反抗」計畫，僅是提出建議與擔憂。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
