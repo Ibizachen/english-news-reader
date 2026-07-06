@@ -1,0 +1,37 @@
+{
+  "id": "space-debris-management",
+  "title": "The Orbital Cleanup: Managing Space Debris",
+  "subtitle": "An examination of how the growing accumulation of space junk threatens the future of global satellite infrastructure.",
+  "description": "As low-Earth orbit becomes increasingly crowded, space debris poses a significant risk to modern communication and navigation systems. This series explores the technical, legal, and economic challenges of cleaning up the final frontier.",
+  "category": "technology",
+  "status": "active",
+  "updatedAt": "2026-07-06T05:10:21.839194Z",
+  "cadence": "5-part reading path. Complete series available.",
+  "articles": [
+    {
+      "slug": "space-debris-management-part-1",
+      "label": "Part 1",
+      "note": "Explain the historical origin of space debris and the theoretical risk of a chain reaction collision."
+    },
+    {
+      "slug": "space-debris-management-part-2",
+      "label": "Part 2",
+      "note": "Identify the key actors, including space agencies, private satellite constellations, and emerging space nations."
+    },
+    {
+      "slug": "space-debris-management-part-3",
+      "label": "Part 3",
+      "note": "Examine how anti-satellite (ASAT) tests have significantly worsened the debris problem."
+    },
+    {
+      "slug": "space-debris-management-part-4",
+      "label": "Part 4",
+      "note": "Discuss the impact on global GPS, telecommunications, and the insurance industry."
+    },
+    {
+      "slug": "space-debris-management-part-5",
+      "label": "Part 5",
+      "note": "Explore current initiatives for active debris removal (ADR) and future international policy frameworks."
+    }
+  ]
+}
