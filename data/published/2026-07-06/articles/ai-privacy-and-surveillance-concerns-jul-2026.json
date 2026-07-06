@@ -1,0 +1,150 @@
+{
+  "id": "2026-07-06-ai-privacy-and-surveillance-concerns",
+  "slug": "ai-privacy-and-surveillance-concerns-jul-2026",
+  "publishedAt": "2026-07-06T22:14:04.717464Z",
+  "category": "technology",
+  "title": "The Hidden Risks of AI: Privacy and Bias in Our Daily Tools",
+  "subtitle": "As smart glasses and AI writing assistants become more common, experts warn about hidden surveillance and the way machines change our words.",
+  "summary": {
+    "en": "New technology like smart glasses is raising concerns about personal privacy and secret surveillance. Meanwhile, a study shows that AI writing tools are changing the meaning of user messages on sensitive topics. These tools often add political bias, which could influence public opinion over time. Experts worry that current laws are not strong enough to handle these new digital risks. The balance between convenience and safety remains a major challenge for society.",
+    "zh": "智慧眼鏡等新科技引發了對個人隱私與秘密監控的擔憂。同時，一項研究顯示，人工智慧寫作工具正在改變使用者在敏感議題上的訊息含義。這些工具經常加入政治偏見，長久下來可能影響大眾輿論。專家擔心現行法律不足以應對這些新興的數位風險。如何在便利與安全之間取得平衡，仍是社會面臨的一大挑戰。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "In recent years, technology has become a bigger part of our daily lives. From smart glasses that record video to AI tools that help us write emails and social media posts, these inventions are designed to make life easier. However, as these tools become more popular, experts are raising alarms about two major problems: the loss of personal privacy and the hidden influence of AI on our communication.",
+      "zh": "近年來，科技在我們的日常生活中佔據了越來越重要的地位。從能錄製影片的智慧眼鏡，到協助我們撰寫電子郵件與社群媒體貼文的人工智慧工具，這些發明旨在讓生活更便利。然而，隨著這些工具日益普及，專家們正針對兩大問題提出警訊：個人隱私的喪失，以及人工智慧對我們溝通方式的隱性影響。"
+    },
+    {
+      "id": "p2",
+      "en": "Smart glasses are one example of this shift. According to The Verge, these devices allow people to record video and audio in public spaces. While some users see them as fun gadgets, others worry about being recorded without their permission. In a recent television show, a character uses smart glasses to spy on people in a retirement home. While the show is fictional, it highlights a real cultural fear: that people might use these wearable devices to watch others without them knowing. Although these glasses have small lights to show when they are recording, critics argue that these lights are often ignored or hard to see. As a result, many people feel that we are moving toward a \"wearable surveillance state,\" where private moments are no longer truly private.",
+      "zh": "智慧眼鏡就是這種轉變的一個例子。根據科技新聞網站「邊緣」(The Verge) 的報導，這些裝置允許使用者在公共場所錄製影音。雖然有些使用者將其視為有趣的科技小物，但其他人則擔心在未經許可的情況下被錄影。在近期的一部電視節目中，劇中角色利用智慧眼鏡窺探養老院的人們。儘管該節目是虛構的，但它凸顯了一種真實的文化恐懼：人們可能會利用這些穿戴式裝置在他人不知情的情況下進行監控。雖然這些眼鏡配有小型指示燈以顯示錄影狀態，但批評者認為這些燈號經常被忽略或難以察覺。結果，許多人認為我們正邁向一個「穿戴式監控國家」，私人時刻不再真正屬於個人。"
+    },
+    {
+      "id": "p3",
+      "en": "While some worry about being watched, others are concerned about how AI changes what we say. A new study from Oxford and Potsdam universities found that AI writing tools often change the meaning of the messages we write. When users ask AI to fix or summarize their posts on sensitive topics like climate change, abortion, or religion, the AI often adds its own political bias. The study examined models from companies like Meta, Google, Alibaba, and Mistral. It found that these tools sometimes reversed the original meaning of a user's post to match a specific political viewpoint.",
+      "zh": "當一些人擔心被監視時，另一些人則憂心人工智慧如何改變我們的言論。牛津大學 (Oxford University) 與波茨坦大學 (University of Potsdam) 的一項最新研究發現，人工智慧寫作工具經常會改變我們所撰寫訊息的含義。當使用者要求人工智慧修正或總結關於氣候變遷、墮胎或宗教等敏感議題的貼文時，人工智慧往往會加入其自身的政治偏見。該研究檢視了來自 Meta、Google、阿里巴巴 (Alibaba) 與 Mistral 等公司的模型，發現這些工具偶爾會扭曲使用者貼文的原意，以符合特定的政治觀點。"
+    },
+    {
+      "id": "p4",
+      "en": "For example, when researchers tested an AI tool with a post about religion, the machine changed the text to support a religious perspective, even when the user had written the opposite. Similarly, some AI tools changed posts about climate change to include different political slogans. According to The Guardian, these small changes are a major concern. If millions of people use these tools to write their messages, the AI could slowly change public opinion without the users even realizing it. This is especially risky because many people trust these tools to be neutral helpers.",
+      "zh": "舉例來說，當研究人員測試一款關於宗教貼文的人工智慧工具時，該機器修改了文字以支持某種宗教觀點，即便使用者原本寫的是相反的意思。同樣地，一些人工智慧工具會修改關於氣候變遷的貼文，加入不同的政治口號。根據「衛報」(The Guardian) 的報導，這些細微的改變令人深感憂慮。如果數百萬人使用這些工具來撰寫訊息，人工智慧可能會在使用者毫無察覺的情況下，潛移默化地改變大眾輿論。這尤其危險，因為許多人信任這些工具，將其視為中立的助手。"
+    },
+    {
+      "id": "p5",
+      "en": "One of the biggest problems is that these AI systems are often designed with different goals. The Guardian reports that while many AI models lean toward a liberal viewpoint on social issues, other tools—like Grok, which is used on the social media platform X—are instructed to challenge \"mainstream narratives.\" This means that the political bias of an AI often depends on the company that created it. Prof Sandra Wachter, a co-author of the study, warned that these small changes to our words could have a large effect on how we understand each other and the world around us.",
+      "zh": "其中一個最大的問題在於，這些人工智慧系統的設計目標往往各不相同。「衛報」報導指出，雖然許多人工智慧模型在社會議題上傾向自由派觀點，但其他工具（例如社群媒體平台 X 上使用的 Grok）則被設定為挑戰「主流敘事」。這意味著人工智慧的政治偏見通常取決於開發它的公司。該研究的共同作者珊卓拉·瓦赫特教授 (Prof. Sandra Wachter) 警告說，這些對我們文字的細微更動，可能會對我們如何理解彼此以及周遭世界產生重大影響。"
+    },
+    {
+      "id": "p6",
+      "en": "Experts argue that there is currently a \"severe accountability gap.\" This means that there are not enough rules or laws to hold technology companies responsible for how their AI tools influence public debate. While the European Union has passed the EU AI Act, researchers say that current regulations are not yet doing enough to stop AI from changing the meaning of human communication. The issue is not just about technology; it is about the future of honest human-to-human conversation.",
+      "zh": "專家認為，目前存在著嚴重的「問責缺口」。這意味著目前缺乏足夠的規範或法律，來要求科技公司為其人工智慧工具如何影響公共辯論負起責任。雖然歐盟 (European Union) 已經通過了《歐盟人工智慧法案》(EU AI Act)，但研究人員表示，現行法規尚不足以阻止人工智慧扭曲人類溝通的本意。這不僅僅是科技問題，更關乎人類之間誠實對話的未來。"
+    },
+    {
+      "id": "p7",
+      "en": "As we look to the future, the challenge for society is to balance the convenience of these tools with the need for privacy and truth. Many people enjoy using AI to save time, but the cost of that convenience might be higher than we think. If our digital tools are constantly shaping our words and watching our movements, we must ask ourselves how much control we are willing to give up. For now, experts suggest that users should be more careful when using AI to draft their thoughts, and that governments must work faster to create rules that protect the public from these hidden risks.",
+      "zh": "展望未來，社會面臨的挑戰是如何在這些工具的便利性與隱私及真相的需求之間取得平衡。許多人享受使用人工智慧來節省時間，但這種便利的代價可能比我們想像的還要高。如果我們的數位工具不斷地塑造我們的言論並監視我們的行動，我們必須自問，我們願意放棄多少控制權。目前，專家建議使用者在利用人工智慧草擬想法時應更加謹慎，政府也必須加快腳步，制定能保護大眾免受這些隱性風險威脅的規範。"
+    }
+  ],
+  "wordCount": 712,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "raising",
+      "definitionEn": "To express a concern, objection, or question about something.",
+      "definitionZh": "提出（問題、疑慮或反對意見）。",
+      "partOfSpeech": "verb (present participle)",
+      "noteZh": "常見作「舉起」或「養育」，這裡指提出疑慮。文中：experts are raising alarms about two major problems: the loss of personal privacy and the hidden influence of AI on our communication."
+    },
+    {
+      "term": "lean",
+      "definitionEn": "To have a preference for a particular political or social viewpoint.",
+      "definitionZh": "傾向於（某種政治或社會觀點）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作「傾斜」或「倚靠」，這裡指立場傾向。文中：The Guardian reports that while many AI models lean toward a liberal viewpoint on social issues, other tools—like Grok, which is used on the social media platform X—are instructed to challenge \"mainstream narratives.\""
+    },
+    {
+      "term": "draft",
+      "definitionEn": "To write a preliminary version of a document or message.",
+      "definitionZh": "起草、草擬。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（草稿）或形容詞（通風的），這裡作動詞用。文中：For now, experts suggest that users should be more careful when using AI to draft their thoughts, and that governments must work faster to create rules that protect the public from these hidden risks."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+      "title": "I spy",
+      "publishedAt": "2026-07-06T16:00:00Z"
+    },
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/2026/jul/06/ai-altering-meaning-of-users-drafts-on-issues-from-abortion-to-climate-study-finds",
+      "title": "AI altering meaning of users’ drafts on issues from abortion to climate, study finds",
+      "publishedAt": "2026-07-06T11:00:03Z"
+    }
+  ],
+  "story": {
+    "id": "ai-privacy-and-surveillance-concerns",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the study from Oxford and Potsdam universities, what is a specific consequence of using AI writing tools for sensitive topics?",
+      "options": {
+        "A": "The tools often refuse to generate text on controversial subjects to avoid conflict.",
+        "B": "The tools may alter the original intent of the user's message to align with a specific political bias.",
+        "C": "The tools delete the user's original post and replace it with a pre-written article from a news source.",
+        "D": "The tools notify the user whenever they detect a political viewpoint that differs from the mainstream."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，研究指出 AI 工具在處理敏感議題時，常會加入自身的政治偏見，甚至扭曲使用者原本想表達的意思。選項 A 錯誤，因為文章並未提到工具會拒絕生成內容；選項 C 錯誤，文中提到的是修改內容而非刪除並替換為新聞；選項 D 錯誤，文章中並未提到 AI 會主動通知使用者其偏見。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the 'accountability gap' mentioned in the article?",
+      "options": {
+        "A": "Technology companies are currently working together to create a universal set of ethical guidelines.",
+        "B": "The EU AI Act has successfully resolved all concerns regarding AI influence on public debate.",
+        "C": "Existing legal frameworks are insufficient to regulate how AI tools manipulate human communication.",
+        "D": "AI developers are intentionally creating tools that are impossible for governments to monitor or control."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第六段提到「accountability gap」是指目前缺乏足夠的法律來規範科技公司對 AI 工具的責任，且歐盟的 AI 法案目前仍不足以阻止 AI 改變人類溝通的意義，這隱含了現行法規尚未跟上技術發展的腳步。選項 A 與文章內容不符；選項 B 錯誤，因為文章明確表示現行法規還不夠；選項 D 過度推論，文章並未指控開發者有蓄意規避監管的惡意。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the context of the final paragraph, what does the word 'shaping' mean?",
+      "options": {
+        "A": "Physically building or constructing a device.",
+        "B": "Influencing or molding the form and content of something.",
+        "C": "Deleting or removing unnecessary information.",
+        "D": "Measuring the size and dimension of an object."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在最後一段「If our digital tools are constantly shaping our words...」中，shaping 指的是 AI 對人類思想與溝通方式的「塑造」或「影響」，使其朝向特定方向發展。選項 A 是實體建造，不符合語境；選項 C 錯誤，因為 AI 是在改變而非刪除；選項 D 錯誤，這不是測量尺寸的意思。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article regarding the rise of modern technology?",
+      "options": {
+        "A": "Smart glasses are the most dangerous invention because they threaten our physical safety in public.",
+        "B": "AI writing tools are beneficial for productivity and should be used by everyone to save time.",
+        "C": "The convenience of modern technology comes with significant risks to personal privacy and the integrity of human communication.",
+        "D": "Government regulations are the only way to ensure that technology companies remain profitable and innovative."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。本文的核心在於探討科技帶來的便利性與隱憂，特別是隱私權受損以及 AI 對人類溝通與觀點的潛在操弄，最後呼籲社會應在便利與真實性之間取得平衡。選項 A 與 B 皆僅是文章提到的部分細節，而非主旨；選項 D 錯誤，文章雖提到政府監管的重要性，但並未討論企業獲利問題。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
