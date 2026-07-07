@@ -1,0 +1,165 @@
+{
+  "id": "2026-07-07-ai-data-centers-threaten-energy-and-manufacturing",
+  "slug": "ai-data-centers-threaten-energy-and-manufacturing-jul-2026",
+  "publishedAt": "2026-07-07T23:13:33.643929Z",
+  "category": "technology",
+  "title": "The AI Energy Conflict: How Data Centers Are Changing the Power Grid",
+  "subtitle": "Rising electricity costs and project delays create a difficult challenge for both tech companies and traditional manufacturers.",
+  "summary": {
+    "en": "The rapid growth of AI data centers is putting a heavy strain on electricity grids in the United States. Traditional manufacturers are seeing their energy bills rise sharply as they compete with tech companies for power. Meanwhile, many large-scale data center projects are facing delays or cancellations due to environmental concerns and supply chain issues. Experts warn that the global energy demand for these facilities will continue to grow significantly. This situation creates a difficult balance between supporting new technology and protecting industrial production.",
+    "zh": "人工智慧資料中心的快速成長，正對美國電網造成沉重負擔。傳統製造商在與科技公司爭奪電力資源的同時，面臨電費急劇上漲的困境。與此同時，許多大型資料中心計畫因環境疑慮與供應鏈問題而面臨延宕或取消。專家警告，這些設施的全球能源需求將持續顯著成長。這種情況使得如何在支持新技術與保護工業生產之間取得平衡，成為一項艱難的挑戰。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The rapid expansion of artificial intelligence (AI) is creating a new and difficult challenge for the American power grid. As tech companies build more data centers to support their AI models, the demand for electricity has risen sharply. This growth is now causing significant problems for traditional manufacturers, who are struggling to pay for the energy needed to keep their factories running.",
+      "zh": "人工智慧的快速擴張，正為美國電網帶來一項艱鉅的新挑戰。隨著科技公司為了支援其人工智慧模型而興建更多資料中心，電力需求急劇攀升。這種成長目前正對傳統製造商造成重大問題，這些廠商正苦於支付維持工廠運作所需的能源費用。"
+    },
+    {
+      "id": "p2",
+      "en": "According to Ars Technica, manufacturers in many cities across the Rust Belt are seeing their electricity costs increase significantly. This is because data centers are putting a heavy strain on the largest power grid operator in the United States. For some businesses, the impact is severe. For example, the Belden Brick Company in Ohio saw its monthly electricity bills jump from $1,600 to $12,000. These rising costs are a major concern for the steel industry as well. The Steel Manufacturers Association reported that steel companies in the region are paying tens of millions of dollars more in energy costs each year. Since electricity accounts for up to 40 percent of the cost of making steel, these price increases threaten the future of many factories.",
+      "zh": "根據科技新聞網站 Ars Technica 報導，美國「鐵鏽帶」許多城市的製造商發現電費大幅上漲。這是因為資料中心對美國最大的電網營運商造成了沉重負擔。對某些企業而言，影響相當嚴重。例如，位於俄亥俄州的貝爾登磚業公司（Belden Brick Company），其每月電費從一千六百美元暴增至一萬兩千美元。這些上漲的成本對鋼鐵業來說也是一大隱憂。鋼鐵製造商協會指出，該地區的鋼鐵公司每年需多支付數千萬美元的能源費用。由於電力成本佔鋼鐵生產成本高達四成，這些價格漲幅正威脅著許多工廠的未來。"
+    },
+    {
+      "id": "p3",
+      "en": "This situation creates a conflict for government leaders. While there is a strong desire to support the tech companies behind the AI boom, these same companies are making it harder for traditional \"Made in America\" manufacturing plans to succeed. The problem is linked to how power grid operators manage supply and demand. As more states attract large data center projects, the cost of capacity—the amount of power available on the grid—has risen dramatically. Data from the grid operator PJM Interconnection shows that these capacity prices have increased by more than ten times between 2024 and 2026.",
+      "zh": "這種情況讓政府領導人陷入兩難。儘管政府極力支持推動人工智慧熱潮的科技公司，但這些公司卻同時讓「美國製造」的傳統製造業計畫更難以成功。問題的核心在於電網營運商如何管理供需。隨著越來越多州爭取大型資料中心計畫，電網容量（即電網可提供的電力總量）的成本已大幅飆升。電網營運商 PJM Interconnection 的數據顯示，這些容量價格在二零二四年至二零二六年之間成長了超過十倍。"
+    },
+    {
+      "id": "p4",
+      "en": "While the energy demand is rising, the construction of the data centers themselves is not always going as planned. The Guardian Technology reports that hundreds of large-scale data center projects around the world are facing delays or cancellations. Some of these projects are stopped by local community groups who worry about the environmental impact or the loss of historic sites. For instance, a major project in Virginia was halted by a court ruling because it was located too close to a historic Civil War battlefield.",
+      "zh": "儘管能源需求不斷上升，資料中心本身的建設進度卻不如預期。據《衛報》科技版報導，全球有數百項大型資料中心計畫面臨延宕或取消。其中一些計畫遭到當地社區團體阻撓，他們擔憂環境影響或歷史古蹟的流失。例如，維吉尼亞州一項重大計畫就因法院裁決而被迫停工，原因是該地點距離一處歷史悠久的南北戰爭戰場太近。"
+    },
+    {
+      "id": "p5",
+      "en": "Beyond local opposition, there are other factors slowing down the industry. The Uptime Institute, which rates data centers, found that about half of the large projects announced between 2021 and 2024 will likely be delayed or canceled. Some of these issues are caused by supply chain problems, such as the difficulty of getting the necessary computer chips. Other projects fail because the developers lack experience or do not have clear plans for how to manage the massive amounts of energy and water these facilities require. Even with these cancellations, the total power needed for data centers is expected to increase rapidly over the next five years.",
+      "zh": "除了地方上的反對聲浪，還有其他因素拖慢了產業發展。負責評估資料中心的正常運作時間協會（Uptime Institute）發現，二零二一年至二零二四年期間宣布的大型計畫中，約有一半可能會延遲或取消。部分問題源於供應鏈障礙，例如難以取得必要的電腦晶片。其他計畫則是因為開發商缺乏經驗，或對於如何管理這些設施所需的龐大能源與水資源缺乏明確規劃而失敗。即便有這些取消案例，資料中心所需的總電力預計在未來五年內仍將快速增加。"
+    },
+    {
+      "id": "p6",
+      "en": "Tech giants like Google and Microsoft are feeling the pressure of this \"compute-constrained\" environment. As they try to build more powerful AI services, they need more space and energy. However, the global supply chain and the limits of existing power grids cannot keep up with the current speed of development. Some of the planned \"mega-projects\" are so large that they aim for 5 gigawatts of power, which is nearly as much as the total peak energy demand of an entire country like Ireland.",
+      "zh": "像 Google 和微軟（Microsoft）這樣的科技巨頭，正感受到這種「運算受限」環境帶來的壓力。為了打造更強大的人工智慧服務，他們需要更多的空間與能源。然而，全球供應鏈與現有電網的極限，已無法跟上當前的發展速度。部分規劃中的「超級計畫」規模極大，目標電力需求高達五百萬瓩（5 gigawatts），這幾乎相當於愛爾蘭整個國家尖峰時刻的總電力需求。"
+    },
+    {
+      "id": "p7",
+      "en": "Looking ahead, the tension between AI growth and industrial energy needs is likely to continue. While US steelmakers have benefited slightly from the demand for steel in data center construction, the long-term impact of high energy costs remains a major worry. As the world moves toward an era of massive, energy-hungry data centers, policymakers and energy companies must find a way to balance the needs of the digital future with the needs of traditional industry. Without a clear plan, the competition for power will only become more intense, potentially slowing down both the AI revolution and the manufacturing sector.",
+      "zh": "展望未來，人工智慧成長與工業能源需求之間的緊張關係恐將持續。雖然美國鋼鐵製造商已從資料中心建設對鋼材的需求中獲得些許利益，但高昂能源成本帶來的長期影響仍是一大隱憂。隨著世界邁向大規模、耗電量巨大的資料中心時代，決策者與能源公司必須設法在數位未來的需求與傳統工業的需求之間取得平衡。若缺乏明確的規劃，電力競爭只會愈演愈烈，並可能同時拖累人工智慧革命與製造業的發展。"
+    }
+  ],
+  "wordCount": 712,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "strain",
+      "definitionEn": "A force or pressure that causes difficulty or damage.",
+      "definitionZh": "壓力、負擔。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（拉緊），這裡作名詞，指對電力系統造成的巨大負擔。文中：This is because data centers are putting a heavy strain on the largest power grid operator in the United States."
+    },
+    {
+      "term": "accounts for",
+      "definitionEn": "To make up a particular amount or part of something.",
+      "definitionZh": "佔（比例、數量）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見作「解釋」或「負責」，這裡指在總成本中所佔的比例。文中：Since electricity accounts for up to 40 percent of the cost of making steel, these price increases threaten the future of many factories."
+    },
+    {
+      "term": "keep up with",
+      "definitionEn": "To move or progress at the same speed as something else.",
+      "definitionZh": "跟上、保持同步。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "由動詞與介詞組成，意思並非字面上的「保持向上」，而是指發展速度無法匹配。文中：However, the global supply chain and the limits of existing power grids cannot keep up with the current speed of development."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
+      "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan",
+      "publishedAt": "2026-07-07T21:03:07Z"
+    },
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/2026/jul/07/stymied-datacentre-projects-threaten-global-ai-revolution",
+      "title": "Stymied datacentre projects threaten global AI revolution",
+      "publishedAt": "2026-07-07T09:00:35Z"
+    }
+  ],
+  "story": {
+    "id": "ai-data-center-energy-demands-threaten-manufacturing",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "ai-data-center-energy-demands-threaten-jul-2026",
+        "title": "The Growing Conflict Between AI Growth and Industrial Needs",
+        "publishedAt": "2026-07-07T22:13:53.190074Z",
+        "category": "technology",
+        "summaryEn": "The rapid expansion of AI data centers is causing significant energy challenges in both the United States and the United Kingdom. In the U.S., manufacturers are facing much higher electricity costs as data centers strain the power grid. Meanwhile, Scotland is considering a freeze on new data center projects due to concerns about overdevelopment and resource use. These developments highlight the tension between building AI infrastructure and protecting local industries and environments. Governments are now being urged to create better plans for managing these massive energy demands."
+      },
+      {
+        "slug": "space-debris-management-part-2",
+        "title": "The Stakeholders of the Final Frontier",
+        "publishedAt": "2026-07-06T05:09:46.322502Z",
+        "category": "technology",
+        "summaryEn": "This article examines the competing interests of space agencies and private corporations in low-Earth orbit. It highlights the challenges of creating effective international laws to manage space debris. As satellite constellations grow, the need for global cooperation becomes more urgent."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the data from PJM Interconnection, what has happened to the cost of capacity between 2024 and 2026?",
+      "options": {
+        "A": "It has doubled in price.",
+        "B": "It has increased by more than ten times.",
+        "C": "It has remained stable due to government regulation.",
+        "D": "It has decreased because of the cancellation of many data center projects."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第三段明確指出「Data from the grid operator PJM Interconnection shows that these capacity prices have increased by more than ten times between 2024 and 2026」。選項 A 錯誤，因為增幅遠超過兩倍；選項 C 與文中事實相反，成本並未穩定；選項 D 錯誤，雖然有項目取消，但文中提到的是容量成本在該期間的具體上升數據，而非下降。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, why might the 'Made in America' manufacturing initiative be at risk?",
+      "options": {
+        "A": "Because tech companies are moving their data centers overseas to avoid high energy costs.",
+        "B": "Because the government is prioritizing the construction of historic sites over industrial growth.",
+        "C": "Because the rapid growth of AI infrastructure is driving up electricity prices for traditional factories.",
+        "D": "Because steel manufacturers are choosing to invest in AI technology instead of traditional production."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第二段與第三段的連結，AI 資料中心對電力的需求導致電網壓力大增，進而推高了電力成本。對於鋼鐵業等傳統製造業來說，電力成本佔總成本的 40%，這直接威脅到其生存，因此與政府支持的「美國製造」目標產生衝突。選項 A 文中未提及；選項 B 僅是項目延遲的一個原因，非製造業風險的主因；選項 D 文中並未提到鋼鐵廠轉型 AI。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the sixth paragraph, what does the term 'compute-constrained' imply about the current state of tech giants like Google and Microsoft?",
+      "options": {
+        "A": "They are limited by a lack of necessary resources to power their AI developments.",
+        "B": "They have successfully calculated all the energy requirements for their future projects.",
+        "C": "They are intentionally slowing down their AI growth to save money.",
+        "D": "They are experiencing a surplus of computing power that they cannot use."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。文中提到 'compute-constrained' 是因為「global supply chain and the limits of existing power grids cannot keep up with the current speed of development」。這意味著儘管他們想發展，但受限於電力與硬體供應，無法達到預期速度。選項 B 錯誤，因為他們受限而非掌握；選項 C 與文意不符，他們是受限而非主動放慢；選項 D 則完全相反，他們是缺乏資源而非過剩。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of this article regarding the relationship between AI and the energy sector?",
+      "options": {
+        "A": "Data centers are the most environmentally friendly way to use energy in the United States.",
+        "B": "The AI industry will soon solve the energy crisis by creating more efficient power grids.",
+        "C": "The rapid expansion of AI is causing a critical conflict over energy resources with traditional manufacturing.",
+        "D": "Government regulations have successfully balanced the needs of both the tech industry and traditional factories."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章的核心論點在於 AI 資料中心對電力的巨大需求與傳統製造業的能源需求之間產生了激烈的競爭與衝突，導致電價上漲並威脅到傳統產業。選項 A 文中未提及環保優勢；選項 B 與文意相反，AI 是能源壓力的來源而非解決者；選項 D 錯誤，文章最後一段明確提到政府目前尚未找到平衡點，競爭正變得越來越激烈。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
