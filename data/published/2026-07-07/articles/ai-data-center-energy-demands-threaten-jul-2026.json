@@ -1,0 +1,155 @@
+{
+  "id": "2026-07-07-ai-data-center-energy-demands-threaten",
+  "slug": "ai-data-center-energy-demands-threaten-jul-2026",
+  "publishedAt": "2026-07-07T22:13:53.190074Z",
+  "category": "technology",
+  "title": "The Growing Conflict Between AI Growth and Industrial Needs",
+  "subtitle": "As data centers demand more electricity, traditional manufacturers and local communities are pushing back against the AI boom.",
+  "summary": {
+    "en": "The rapid expansion of AI data centers is causing significant energy challenges in both the United States and the United Kingdom. In the U.S., manufacturers are facing much higher electricity costs as data centers strain the power grid. Meanwhile, Scotland is considering a freeze on new data center projects due to concerns about overdevelopment and resource use. These developments highlight the tension between building AI infrastructure and protecting local industries and environments. Governments are now being urged to create better plans for managing these massive energy demands.",
+    "zh": "人工智慧資料中心的快速擴張，正導致美國與英國面臨重大的能源挑戰。在美國，由於資料中心造成電網負擔，製造商正面臨電費大幅上漲的困境。同時，蘇格蘭因擔憂過度開發與資源消耗，正考慮凍結新的資料中心計畫。這些發展凸顯了建設人工智慧基礎設施與保護在地產業及環境之間的緊張關係。目前各界正敦促政府制定更完善的計畫，以管理這些龐大的能源需求。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The rapid rise of artificial intelligence (AI) is changing the way we think about energy. As tech companies build more data centers—large buildings filled with servers that power AI—they require huge amounts of electricity. This growth is now creating a difficult situation for traditional industries and local communities, leading to new debates about how to balance technology goals with the needs of the real world.",
+      "zh": "人工智慧（AI）的快速崛起正在改變我們對能源的看法。隨著科技公司建造更多資料中心——即容納驅動人工智慧伺服器的大型建築——它們需要消耗龐大的電力。這種成長目前正為傳統產業與在地社區帶來困境，引發了關於如何在科技目標與現實世界需求之間取得平衡的新辯論。"
+    },
+    {
+      "id": "p2",
+      "en": "In the United States, the impact is being felt by manufacturing companies. According to Ars Technica, many factories in the Rust Belt region are seeing their electricity bills rise sharply. This is happening because data centers are using so much power that they are straining the largest power grid operator in the country, known as PJM Interconnection. When demand for electricity goes up, the price that businesses must pay for that power often follows.",
+      "zh": "在美國，製造業正感受到這股衝擊。根據科技新聞網站 Ars Technica 報導，許多位於「鐵鏽帶」（Rust Belt）地區的工廠發現電費急劇攀升。這是因為資料中心消耗了過多電力，導致全國最大的電網營運商「PJM 互連公司」（PJM Interconnection）不堪負荷。當電力需求增加時，企業必須支付的電價往往也會隨之調漲。"
+    },
+    {
+      "id": "p3",
+      "en": "For some companies, these costs are becoming very hard to accept. Ars Technica noted the example of the Belden Brick Company, a long-standing manufacturer in Ohio. Its monthly electricity bill jumped from $1,600 to $12,000. Similarly, the Steel Manufacturers Association has warned that steel companies are paying millions of dollars more each year. Because electricity can make up to 40 percent of the total cost of producing steel, these price hikes are a serious problem. The company Metallus, for instance, reported that its energy costs have jumped by 70 percent since 2024, adding $15 million to its yearly expenses.",
+      "zh": "對某些企業而言，這些成本已變得難以承受。Ars Technica 舉了俄亥俄州的長期製造商「貝爾登磚塊公司」（Belden Brick Company）為例，其每月電費從 1,600 美元暴漲至 12,000 美元。同樣地，「鋼鐵製造商協會」（Steel Manufacturers Association）也警告，鋼鐵公司每年需多支付數百萬美元。由於電力成本最高可佔鋼鐵生產總成本的 40%，這些漲價已成為嚴重的問題。例如，金屬製造商 Metallus 指出，自 2024 年以來，其能源成本已飆升 70%，每年增加了 1,500 萬美元的支出。"
+    },
+    {
+      "id": "p4",
+      "en": "This situation creates a conflict for government leaders. While the current U.S. administration wants to support the AI industry, it also has a plan to revive American manufacturing. Ars Technica reports that the rising energy costs are making it harder for these factories to stay profitable, which could hurt the goal of keeping manufacturing strong at home. While steelmakers do get some business from building data centers, the higher cost of daily operations is a major concern for the industry.",
+      "zh": "這種情況讓政府官員陷入兩難。儘管現任美國政府希望支持人工智慧產業，但同時也計畫振興美國製造業。Ars Technica 報導稱，不斷上漲的能源成本使得這些工廠更難維持獲利，這可能會損害維持國內製造業強盛的目標。雖然鋼鐵製造商確實能從建造資料中心的工程中獲得部分業務，但日常營運成本的增加對該產業而言是一大隱憂。"
+    },
+    {
+      "id": "p5",
+      "en": "Across the Atlantic, Scotland is facing a different kind of problem. The Scottish government is considering a \"moratorium\"—a temporary ban or freeze—on building new data centers. According to The Guardian Technology, this move comes after the Scottish National Party (SNP) passed a motion to stop new projects. Local leaders argue that the current plans for data centers represent \"overdevelopment\" and are not suitable for the local environment.",
+      "zh": "在大西洋的另一端，蘇格蘭正面臨不同類型的問題。蘇格蘭政府正在考慮對新建資料中心實施「暫停令」（moratorium），即暫時禁止或凍結相關建設。根據《衛報科技版》（The Guardian Technology）報導，此舉是在蘇格蘭民族黨（SNP）通過一項停止新開發案的動議後所採取的行動。地方領袖認為，目前的資料中心計畫屬於「過度開發」，並不適合當地環境。"
+    },
+    {
+      "id": "p6",
+      "en": "One of the main concerns in Scotland is the amount of power these centers would use. The Guardian Technology reported that there are 24 large-scale data center projects in the planning stages. If built, these centers would use more than one-and-a-half times the total electricity that Scotland uses at its busiest times. This has led to worries that the country’s renewable energy resources could be overwhelmed.",
+      "zh": "蘇格蘭的主要擔憂之一是這些中心將消耗的電力總量。《衛報科技版》報導指出，目前有 24 個大型資料中心計畫正處於規劃階段。若這些中心全數建成，其用電量將超過蘇格蘭在尖峰時刻總用電量的一點五倍。這引發了人們對該國再生能源資源可能不堪負荷的擔憂。"
+    },
+    {
+      "id": "p7",
+      "en": "There is also growing criticism of how these projects were promised to the public. The Guardian Technology noted that some \"AI growth zones,\" which were supposed to bring jobs and investment to rural areas, have been described as \"phantom investments.\" In some cases, the government failed to properly check if these projects were actually viable or if they would really create the jobs they promised. Critics, including members of the Scottish parliament, are now calling for a more careful government approach to decide exactly how many data centers the country actually needs.",
+      "zh": "此外，對於這些計畫當初如何向大眾承諾，批評聲浪也日益高漲。《衛報科技版》提到，一些原本被宣稱能為農村地區帶來就業機會與投資的「人工智慧成長區」，被形容為「虛幻的投資」。在某些案例中，政府未能妥善審核這些計畫是否真正可行，或是否真的能創造所承諾的就業機會。包括蘇格蘭議會成員在內的批評者，現在呼籲政府採取更謹慎的態度，以決定該國究竟需要多少資料中心。"
+    },
+    {
+      "id": "p8",
+      "en": "These challenges in both the U.S. and the U.K. show that the AI boom is not just a technical issue; it is a question of resources. As data centers continue to demand more power, they are competing with traditional factories and local communities for energy. Moving forward, experts suggest that governments must do more than just encourage AI growth. They need to create clear, long-term plans that account for the energy capacity of their regions. Without such planning, the push for AI could continue to make life more expensive for manufacturers and create unwanted pressure on local environments.",
+      "zh": "這些發生在美國與英國的挑戰顯示，人工智慧的繁榮不僅是技術問題，更是資源問題。隨著資料中心持續要求更多電力，它們正與傳統工廠及在地社區爭奪能源。展望未來，專家建議政府必須做的不僅是鼓勵人工智慧成長，更需要制定明確的長期計畫，將各區域的能源承載能力納入考量。若缺乏此類規劃，推動人工智慧發展可能會持續增加製造商的生活成本，並對在地環境造成不必要的壓力。"
+    }
+  ],
+  "wordCount": 712,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "straining",
+      "definitionEn": "To put too much pressure or demand on something, making it difficult for it to function properly.",
+      "definitionZh": "使不堪負荷、造成壓力。",
+      "partOfSpeech": "verb (present participle)",
+      "noteZh": "常見作名詞（拉傷），這裡作動詞，形容電力系統因負荷過重而運作困難。文中：This is happening because data centers are using so much power that they are straining the largest power grid operator in the country, known as PJM Interconnection."
+    },
+    {
+      "term": "make up",
+      "definitionEn": "To form or constitute a specific part or percentage of a whole.",
+      "definitionZh": "組成、構成（某個比例）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見作「化妝」或「編造」，這裡指佔據總成本的比例。文中：Because electricity can make up to 40 percent of the total cost of producing steel, these price hikes are a serious problem."
+    },
+    {
+      "term": "account for",
+      "definitionEn": "To consider or include a particular factor when making a plan or decision.",
+      "definitionZh": "考慮到、顧及。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見作「解釋原因」，這裡指在規劃時將能源容量納入考量。文中：They need to create clear, long-term plans that account for the energy capacity of their regions."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
+      "title": "Data centers’ energy demand threatens Trump’s “Made in America” plan",
+      "publishedAt": "2026-07-07T21:03:07Z"
+    },
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/07/scotland-could-freeze-datacentre-projects-in-challenge-to-uks-ai-strategy",
+      "title": "Scotland could freeze datacentre projects in challenge to UK’s AI strategy",
+      "publishedAt": "2026-07-06T23:01:23Z"
+    }
+  ],
+  "story": {
+    "id": "ai-data-center-energy-demands-threaten-manufacturing",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what specific financial impact did the rise in electricity costs have on the company Metallus?",
+      "options": {
+        "A": "Its monthly electricity bill increased from $1,600 to $12,000.",
+        "B": "Its yearly operating expenses increased by $15 million.",
+        "C": "Its total production costs for steel increased by 40 percent.",
+        "D": "Its energy costs have risen by 70 percent since 2023."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，Metallus 公司報告其能源成本自 2024 年以來上漲了 70%，這使其年度支出增加了 1,500 萬美元。選項 A 是 Belden Brick Company 的情況，而非 Metallus。選項 C 混淆了數據，40% 是電力成本在鋼鐵生產總成本中的佔比，而非漲幅。選項 D 的年份錯誤，文章提到的是 2024 年而非 2023 年。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the relationship between the U.S. government's policy goals and the current energy situation?",
+      "options": {
+        "A": "The government is prioritizing the survival of factories over the expansion of AI.",
+        "B": "The government's support for AI is unintentionally undermining its own manufacturing revival strategy.",
+        "C": "The government has successfully balanced the energy needs of both data centers and local manufacturers.",
+        "D": "The government plans to stop all new data center construction to lower electricity prices for factories."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。綜合文章第四段，美國政府一方面想支持 AI 產業，另一方面又想振興國內製造業。然而，由於數據中心導致能源成本飆升，使得製造業難以獲利，這直接衝突了政府振興製造業的目標。選項 A 與文章描述的「衝突」矛盾。選項 C 與文章所述的能源危機事實不符。選項 D 錯誤，因為目前只有蘇格蘭在考慮暫停建設，而非美國政府。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the seventh paragraph, what is the most likely meaning of the phrase 'phantom investments'?",
+      "options": {
+        "A": "Investments that are extremely profitable and hidden from the public.",
+        "B": "Investments that were planned but failed to materialize or provide promised benefits.",
+        "C": "Investments that are focused entirely on digital technology rather than physical infrastructure.",
+        "D": "Investments that are ghost-written by government officials to deceive the media."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在第七段中，作者用「phantom（幻影）」來形容那些承諾帶來就業與投資，但實際上卻未能落實或審核不周的項目。這暗示這些投資如同幻影般不真實。選項 A 錯誤，因為文章批評這些項目缺乏實質效益。選項 C 雖然提到科技，但「phantom」強調的是其虛假或無效的本質，而非產業類別。選項 D 為過度解讀，文章並未提及代筆。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article regarding the AI boom?",
+      "options": {
+        "A": "The AI boom is primarily a technical challenge that can be solved by building more efficient servers.",
+        "B": "The AI boom is a global economic disaster that will inevitably lead to the closure of all traditional factories.",
+        "C": "The AI boom requires governments to manage energy resources carefully to avoid conflicts between new tech and existing industries.",
+        "D": "The AI boom is a positive development that has successfully created new jobs in rural areas of Scotland and the U.S."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章最後一段總結道，AI 的發展不僅是技術問題，更是資源分配問題。數據中心與傳統產業競爭能源，因此政府需要制定長遠規劃來平衡兩者需求。選項 A 忽略了能源資源的限制。選項 B 過於誇大，文章並未說會導致所有工廠關閉。選項 D 與文章中提到的「phantom investments」及製造業面臨的困境相違背。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
