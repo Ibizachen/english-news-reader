@@ -1,79 +1,69 @@
 {
   "id": "2026-07-08-ai-cheating-scandal-at-brown-university",
   "slug": "ai-cheating-scandal-at-brown-university-jul-2026",
-  "publishedAt": "2026-07-08T22:13:43.431259Z",
+  "publishedAt": "2026-07-08T23:29:36.394484Z",
   "category": "technology",
-  "title": "AI Cheating Scandal at Brown University Raises Questions About Future of Learning",
-  "subtitle": "A difficult economics course saw record-breaking grades, leading a professor to suspect widespread use of artificial intelligence.",
+  "title": "When Shortcuts Go Too Far: The AI Cheating Scandal at Brown University",
+  "subtitle": "An economics professor’s decision to allow take-home exams has sparked a major debate about academic honesty and the role of artificial intelligence in higher education.",
   "summary": {
-    "en": "A professor at Brown University noticed unusually high grades in his economics class after allowing take-home exams. The course, which usually has few students, saw a large increase in enrollment this semester. Roberto Serrano, the professor, believes many students used artificial intelligence to complete their work. This situation highlights the growing challenge of academic honesty in the age of AI. Many students face high pressure to succeed, which may lead them to use technology as a shortcut.",
-    "zh": "布朗大學的一位教授在開放居家考試後，發現其經濟學課程的成績高得異常。這門通常選修人數較少的課程，本學期選修人數大幅增加。教授塞拉諾認為許多學生利用人工智慧來完成作業。此事件凸顯了在人工智慧時代，學術誠信所面臨的日益嚴峻的挑戰。許多學生面臨追求成功的巨大壓力，這可能導致他們將科技視為捷徑。"
+    "en": "A Brown University economics professor noticed suspicious results after allowing students to take exams at home. The class, which usually has a small number of students, saw a massive increase in enrollment this semester. Nearly half of the students received a perfect score on a difficult midterm exam. Professor Roberto Serrano believes that students used artificial intelligence to cheat on their assignments. This situation has led to a wider discussion about how technology is changing the way students learn and perform in school.",
+    "zh": "布朗大學一名經濟學教授在允許學生居家考試後，發現了可疑的成績結果。該課程通常選修人數較少，但本學期選課人數大幅增加。在一次高難度的期中考中，近半數學生獲得了滿分。羅貝托·塞拉諾教授認為學生利用人工智慧在作業中作弊。此事件引發了關於科技如何改變學生學習與校內表現的廣泛討論。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "In the world of higher education, students at top universities are known for their intelligence and hard work. However, a recent event at Brown University shows that even the brightest students may be tempted to use technology to get ahead. A scandal involving artificial intelligence—computer programs that can create text or solve problems—has caused a serious debate about how students learn and how they are tested.",
-      "zh": "在高等教育的世界裡，頂尖大學的學生以聰明與勤奮著稱。然而，布朗大學（Brown University）最近發生的一起事件顯示，即使是最優秀的學生，也可能禁不起誘惑，利用科技來獲取優勢。一場涉及人工智慧（即能生成文字或解決問題的電腦程式）的醜聞，引發了關於學生學習方式及評量方式的嚴肅辯論。"
+      "en": "A serious academic scandal is currently unfolding at Brown University, raising difficult questions about how students use technology to complete their work. The situation centers on an economics course, ECON 1170, taught by Professor Roberto Serrano. After a tragic shooting incident on campus in December 2025, Professor Serrano decided to make his spring 2026 exams 'take-home' to help students during a difficult time. However, this change led to unexpected and troubling results that have now become the focus of a national conversation.",
+      "zh": "布朗大學（Brown University）目前正爆發一起嚴重的學術醜聞，引發了關於學生如何利用科技完成課業的棘手質疑。這起事件的核心是一門由羅貝托·塞拉諾（Roberto Serrano）教授所開設的經濟學課程「ECON 1170」。在二零二五年十二月校園發生一起悲劇性的槍擊事件後，塞拉諾教授為了在艱難時期協助學生，決定將二零二六年春季學期的考試改為「居家考試」。然而，這項變動卻導致了意想不到且令人不安的結果，如今已成為全國討論的焦點。"
     },
     {
       "id": "p2",
-      "en": "According to Ars Technica, the situation began in a difficult economics course called ECON 1170. The professor, Roberto Serrano, decided to change the way he tested his students in the spring of 2026. After a tragic event on campus in December 2025, where a gunman killed two people, Serrano wanted to be more flexible. He decided to let students take their midterm and final exams at home. He hoped this would help students who were feeling stressed after the campus tragedy.",
-      "zh": "根據科技新聞網站 Ars Technica 報導，這起事件始於一門名為 ECON 1170 的高難度經濟學課程。教授羅伯托·塞拉諾（Roberto Serrano）決定在 2026 年春季改變評量學生的方式。在 2025 年 12 月校園發生槍手殺害兩人的悲劇後，塞拉諾希望採取更具彈性的做法。他決定讓學生在家中進行期中考與期末考，希望能藉此減輕學生在校園悲劇後的心理壓力。"
+      "en": "According to Ars Technica, the course usually attracts a small group of highly dedicated students. In the past, the average grade for the midterm exam typically ranged between 65 and 80 percent. Because the exams were now take-home, Professor Serrano made them even more challenging than usual. Despite the increased difficulty, the results were shocking. The class size grew to 86 students, and the average score on the midterm was 96 out of 100. Most notably, 40 students—nearly half of the class—received a perfect score of 100.",
+      "zh": "根據科技媒體「Ars Technica」報導，這門課程通常只吸引少數極為認真的學生。過去，期中考的平均成績通常落在六十五分到八十分之間。由於改為居家考試，塞拉諾教授將考題設計得比以往更具挑戰性。儘管難度提升，結果卻令人震驚。該班級人數增加至八十六人，而期中考平均分數竟高達九十六分（滿分一百分）。最引人注目的是，有四十名學生——幾乎佔了全班的一半——拿到了滿分一百分。"
     },
     {
       "id": "p3",
-      "en": "This change in the testing method had an unexpected result. Usually, this specific economics class is small, with fewer than 30 students. This semester, 86 students signed up for the course. When the midterm exam results came back, the scores were surprisingly high. Ars Technica reports that the average score was 96 out of 100, and 40 students actually received a perfect score of 100. This was very unusual, as the professor noted that historical averages for this course usually range between 65 and 80 percent.",
-      "zh": "這種評量方式的改變產生了意想不到的結果。通常這門經濟學課程選修人數較少，不到 30 人，但本學期卻有 86 名學生選修。當期中考成績出爐時，分數高得令人驚訝。Ars Technica 報導指出，平均分數高達 96 分（滿分 100 分），且有 40 名學生獲得了 100 分的滿分。這非常不尋常，因為教授指出，該課程過去的平均成績通常落在 65 到 80 分之間。"
+      "en": "Professor Serrano, who has been very open about his concerns, believes these results are not a sign of hard work, but rather evidence of widespread cheating using generative AI. Generative AI is a type of computer software that can create text, solve problems, and write essays in seconds. While these tools can be helpful for brainstorming, they can also be used to write entire exam answers without the student actually learning the material. As reported by Ars Technica, Serrano noted that he cannot accept such results, as they suggest that students are choosing shortcuts instead of engaging with the difficult economic concepts he teaches.",
+      "zh": "對於此事直言不諱的塞拉諾教授認為，這些成績並非學生努力的證明，而是大規模利用生成式人工智慧作弊的證據。生成式人工智慧是一種能在幾秒鐘內生成文字、解決問題並撰寫文章的電腦軟體。雖然這些工具對腦力激盪很有幫助，但學生也可能利用它們撰寫整份考卷，而無需真正學習課程內容。正如「Ars Technica」所報導，塞拉諾指出他無法接受這樣的結果，因為這顯示學生選擇走捷徑，而非深入鑽研他所教授的高難度經濟學概念。"
     },
     {
       "id": "p4",
-      "en": "Professor Serrano told Inside Higher Ed that the exam he gave this year was actually harder than those he had written in the past. Because the students had unlimited time at home, he wanted to challenge them more. However, instead of struggling with the difficult questions, the students performed better than ever before. This led the professor to believe that many students were not using their own knowledge to answer the questions. Instead, he suspects they were using generative AI to write their answers for them.",
-      "zh": "塞拉諾教授向高等教育媒體 Inside Higher Ed 表示，他今年出的考題其實比過去更難。由於學生在家中有充裕的時間，他希望能增加挑戰性。然而，學生們不僅沒有被難題考倒，表現反而比以往更好。這讓教授認為，許多學生並非運用自己的知識來回答問題，而是懷疑他們使用了生成式人工智慧來代寫答案。"
+      "en": "This incident at Brown University is part of a larger trend in education. A recent survey of students at Princeton University found that nearly 30 percent of students admitted to using AI to cheat on at least one assignment or exam. Experts suggest that while students at top universities are clearly intelligent, they are also under immense pressure to succeed. When students are busy and competitive, AI tools can look like an easy way to save time. However, educators warn that this behavior undermines the purpose of university education. If students rely on machines to do their thinking, they miss the opportunity to develop the critical skills they will need in their future careers.",
+      "zh": "布朗大學發生的這起事件，是教育界更大趨勢的一部分。近期一項針對普林斯頓大學（Princeton University）學生的調查發現，近百分之三十的學生坦承曾在至少一項作業或考試中利用人工智慧作弊。專家指出，頂尖大學的學生固然聰明，但也承受著巨大的成功壓力。當學生忙碌且競爭激烈時，人工智慧工具看起來就像是節省時間的捷徑。然而，教育工作者警告，這種行為破壞了大學教育的目的。如果學生依賴機器代勞思考，他們將錯失培養未來職涯所需關鍵技能的機會。"
     },
     {
       "id": "p5",
-      "en": "This is not the first time that AI has been linked to cheating in schools. A survey of students at Princeton University found that nearly 30 percent of students admitted to using AI to cheat on an exam or an assignment. Experts suggest that students often feel a lot of pressure to be successful and to manage their busy lives. When they have too much to do, they may see AI as a quick way to finish their work so they can focus on other things. However, using these tools to complete assignments means that students are not actually learning the material they are supposed to study.",
-      "zh": "這並非人工智慧首次與校園作弊扯上關係。一項針對普林斯頓大學（Princeton University）學生的調查發現，近 30% 的學生承認曾在考試或作業中使用人工智慧作弊。專家指出，學生往往感受到追求成功的巨大壓力，且需處理繁忙的生活。當課業負擔過重時，他們可能會將人工智慧視為快速完成工作的捷徑，以便專注於其他事務。然而，利用這些工具完成作業，意味著學生並未真正學會他們理應研讀的教材。"
+      "en": "Professor Serrano has shared his story with several news outlets, including El País and Inside Higher Ed, to highlight the severity of the issue. He argues that universities must find ways to address this behavior before it becomes the new normal. The scandal has left the university community struggling to find a balance between trusting students and ensuring that grades accurately reflect what a student has actually learned. Some faculty members are now reconsidering the use of take-home exams, while others are looking for new ways to test students that cannot be easily solved by AI.",
+      "zh": "塞拉諾教授已向包括西班牙《國家報》（El País）與《高等教育內幕》（Inside Higher Ed）在內的多家新聞媒體分享了他的遭遇，以凸顯此問題的嚴重性。他主張大學必須在這種行為成為新常態之前，設法加以應對。這起醜聞讓大學社群陷入兩難，必須在信任學生與確保成績能準確反映學生實際學習成果之間尋求平衡。部分教職員正重新評估是否繼續採用居家考試，而其他人則在尋找無法輕易被人工智慧破解的新型評量方式。"
     },
     {
       "id": "p6",
-      "en": "The situation at Brown University is a clear example of how technology is changing the classroom. While AI can be a helpful tool for research or organization, it can also become a shortcut that prevents real learning. If students use AI to get high grades without understanding the subject, they are not gaining the skills they need for their future careers. The story of ECON 1170 serves as a warning for both teachers and students about the importance of academic honesty.",
-      "zh": "布朗大學的情況清楚地說明了科技如何改變課堂。雖然人工智慧可以是研究或組織資料的實用工具，但它也可能成為阻礙真實學習的捷徑。如果學生利用人工智慧在不理解學科的情況下取得高分，他們將無法獲得未來職涯所需的技能。ECON 1170 的案例對師生雙方而言，都是關於學術誠信重要性的一項警示。"
-    },
-    {
-      "id": "p7",
-      "en": "As universities continue to deal with this issue, many are looking for new ways to test students. Some professors are returning to in-person, handwritten exams to make sure that students are doing their own work. Others are trying to change their assignments so that AI cannot easily provide the answers. The goal is to find a balance where students can use modern technology without losing the ability to think for themselves.",
-      "zh": "隨著大學持續應對此議題，許多學校正尋求新的評量方式。部分教授回歸到面對面、手寫考試，以確保學生是憑藉自身能力完成作業。其他人則嘗試調整作業設計，使人工智慧無法輕易提供答案。目標是在現代科技與學生獨立思考能力之間找到平衡點。"
-    },
-    {
-      "id": "p8",
-      "en": "Ultimately, the scandal at Brown University shows that the pressure to succeed can be very strong. When students feel that they must get perfect grades to be successful, they may choose to take the easy path. However, as Professor Serrano’s experience shows, these shortcuts are easy to spot when the results are too good to be true. The challenge for universities now is to create an environment where students feel they can succeed through their own hard work, rather than relying on a machine to do the thinking for them.",
-      "zh": "歸根究柢，布朗大學的醜聞顯示，追求成功的壓力可能非常巨大。當學生認為必須取得完美成績才能成功時，他們可能會選擇走捷徑。然而，正如塞拉諾教授的經驗所顯示，當結果好得不真實時，這些捷徑很容易被識破。大學現在面臨的挑戰，是創造一個讓學生覺得能透過自身努力獲得成功的環境，而不是依賴機器來代勞思考。"
+      "en": "As the investigation into the exam results continues, the case serves as a warning for other schools. The ease with which students can now access powerful AI tools means that traditional methods of testing may no longer be enough to prevent cheating. For students, the challenge is to resist the temptation of the 'easy path.' For universities, the challenge is to create environments where learning is valued more than a high grade. Whether this scandal will lead to stricter rules or a new approach to teaching remains to be seen, but it is clear that the relationship between technology and academic honesty has changed forever.",
+      "zh": "隨著對考試結果的調查持續進行，此案對其他學校而言是一項警訊。學生如今能輕易取得強大的人工智慧工具，意味著傳統的評量方式可能已不足以防止作弊。對學生而言，挑戰在於抵擋「走捷徑」的誘惑；對大學而言，挑戰則在於創造一個重視學習勝過高分的環境。這起醜聞是否會導致更嚴格的規定，或是促成新的教學方法仍有待觀察，但顯而易見的是，科技與學術誠信之間的關係已永遠改變了。"
     }
   ],
-  "wordCount": 732,
+  "wordCount": 682,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
-      "term": "get ahead",
-      "definitionEn": "To make progress or become successful in one's life or career.",
-      "definitionZh": "取得成功、領先、出人頭地。",
+      "term": "centers on",
+      "definitionEn": "To have something as the main subject or focus.",
+      "definitionZh": "以……為中心；聚焦於……",
       "partOfSpeech": "phrasal verb",
-      "noteZh": "此片語在文中指學生為了獲得優勢而作弊。文中：even the brightest students may be tempted to use technology to get ahead."
+      "noteZh": "常見於名詞用法（中心），這裡作為動詞片語使用。文中：The situation centers on an economics course, ECON 1170, taught by Professor Roberto Serrano."
     },
     {
-      "term": "signed up",
-      "definitionEn": "To register or enroll for a course or activity.",
-      "definitionZh": "報名、註冊。",
+      "term": "engaging with",
+      "definitionEn": "To become involved with or show a deep interest in a subject or idea.",
+      "definitionZh": "深入參與；投入；與……互動",
       "partOfSpeech": "phrasal verb",
-      "noteZh": "常見於簽名，這裡指加入課程。文中：This semester, 86 students signed up for the course."
+      "noteZh": "此處並非指「訂婚」或「交戰」，而是指學生對學術概念的深入理解與思考。文中：Serrano noted that he cannot accept such results, as they suggest that students are choosing shortcuts instead of engaging with the difficult economic concepts he teaches."
     },
     {
-      "term": "spot",
-      "definitionEn": "To notice or identify someone or something, especially when it is difficult to see.",
-      "definitionZh": "發現、看出、辨認出。",
+      "term": "undermines",
+      "definitionEn": "To gradually weaken or damage something, especially someone's authority or a process.",
+      "definitionZh": "逐漸削弱；損害",
       "partOfSpeech": "verb",
-      "noteZh": "常見作名詞（斑點），這裡作動詞用。文中：these shortcuts are easy to spot when the results are too good to be true."
+      "noteZh": "此詞在學術或正式文章中常見，容易被誤認為與「挖礦」有關，但實際意指破壞基礎。文中：However, educators warn that this behavior undermines the purpose of university education."
     }
   ],
   "sources": [
@@ -86,61 +76,69 @@
   ],
   "story": {
     "id": "ai-cheating-scandal-at-brown-university",
-    "type": "standalone",
-    "previousArticles": []
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "ai-cheating-scandal-at-brown-university-jul-2026",
+        "title": "AI Cheating Scandal at Brown University Raises Questions About Future of Learning",
+        "publishedAt": "2026-07-08T22:13:43.431259Z",
+        "category": "technology",
+        "summaryEn": "A professor at Brown University noticed unusually high grades in his economics class after allowing take-home exams. The course, which usually has few students, saw a large increase in enrollment this semester. Roberto Serrano, the professor, believes many students used artificial intelligence to complete their work. This situation highlights the growing challenge of academic honesty in the age of AI. Many students face high pressure to succeed, which may lead them to use technology as a shortcut."
+      }
+    ]
   },
   "quiz": [
     {
       "id": "q1",
       "type": "detail",
-      "question": "What was the primary reason Professor Serrano decided to change the testing format for ECON 1170?",
+      "question": "What change did Professor Serrano make to the ECON 1170 course in spring 2026, and what was the outcome regarding student performance?",
       "options": {
-        "A": "He wanted to accommodate a larger number of students enrolled in the class.",
-        "B": "He aimed to provide flexibility for students affected by a campus tragedy.",
-        "C": "He believed that taking exams at home would prevent students from using AI.",
-        "D": "He wanted to test if students could maintain high scores on harder assignments."
+        "A": "He reduced the course difficulty, which led to a higher number of students enrolling in the class.",
+        "B": "He implemented take-home exams, which resulted in an unusually high average score of 96.",
+        "C": "He allowed students to use AI tools, which caused the average grade to drop compared to previous years.",
+        "D": "He increased the number of exams, leading to 40 students dropping out due to the workload."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。根據文章第二段，教授在 2025 年 12 月發生校園槍擊事件後，為了體恤受此悲劇影響、感到壓力的學生，決定讓學生在家進行考試。選項 A 不正確，因為學生人數增加是改變考試方式後的結果，而非原因。選項 C 與文章內容相反，教授並未預期在家考試會防止作弊。選項 D 是教授後來為了因應作弊疑慮所做的調整，而非最初改變考試形式的動機。"
+      "explanationZh": "正確答案為 B。根據文章第二段，Serrano 教授為了體恤學生，將考試改為「居家考試」（take-home exams），且刻意增加了難度，結果平均分數卻高達 96 分，且有 40 人獲得滿分。選項 A 錯誤，因為教授反而增加了難度；選項 C 錯誤，因為文章並未提到教授允許使用 AI，且分數是上升而非下降；選項 D 錯誤，文章提到的是班級人數成長至 86 人，而非退選。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "What can be inferred about the relationship between the class size increase and the exam results?",
+      "question": "Based on the information provided, why might students at top universities be particularly susceptible to using AI for assignments?",
       "options": {
-        "A": "The larger class size meant that the professor could not monitor the students during the exam.",
-        "B": "The increase in students made it impossible for the professor to grade the exams fairly.",
-        "C": "The sudden surge in enrollment likely included many students who were less prepared for the course.",
-        "D": "The unusually high scores suggest that the larger group of students relied on external assistance rather than their own study."
+        "A": "They lack the basic academic foundation to understand the complex economic concepts taught.",
+        "B": "They are encouraged by their professors to use AI to improve their critical thinking skills.",
+        "C": "They face significant pressure to perform well, making time-saving shortcuts appear attractive.",
+        "D": "They believe that traditional testing methods are outdated and no longer relevant to their future careers."
       },
-      "correct": "D",
-      "explanationZh": "正確答案為 D。文章第三段提到該課程通常不到 30 人，但該學期卻有 86 人報名，且平均分數高達 96 分，遠高於歷史平均（65-80%）。結合第四段教授認為考題變難但學生表現卻異常優異的觀察，可以推論這些高分並非來自學生的真實學術能力，而是因為學生利用 AI 獲取了捷徑。選項 A、B、C 雖然在邏輯上可能發生，但文章中並未提供足夠的證據支持這些推論，且 D 選項最能連結「人數激增」與「異常高分」之間的關聯性。"
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第四段，專家指出頂尖大學的學生雖然聰明，但承受極大的成功壓力（immense pressure to succeed）。當學生忙碌且競爭激烈時，AI 工具成為節省時間的捷徑。選項 A 過度推論，文章並未說學生缺乏基礎；選項 B 與文章內容相反，教授們反而擔心 AI 會破壞教育目的；選項 D 雖然提到考試方法可能過時，但這不是學生使用 AI 的主要動機。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the final paragraph, what does the phrase 'too good to be true' suggest about the exam results?",
+      "question": "In the final paragraph, what does the author mean by the phrase 'the easy path'?",
       "options": {
-        "A": "The results were impressive but required an unrealistic amount of effort.",
-        "B": "The results were so high that they seemed impossible to achieve honestly.",
-        "C": "The results were pleasant surprises that exceeded the professor's expectations.",
-        "D": "The results were beneficial for the students' future career prospects."
+        "A": "A method of learning that focuses on practical, hands-on experience.",
+        "B": "The act of using technology to bypass the effort required for genuine academic work.",
+        "C": "A new teaching strategy that helps students complete their assignments more quickly.",
+        "D": "The traditional way of studying that relies on textbooks rather than digital tools."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。「Too good to be true」在文中用來描述異常高的考試成績，意指這些成績好到令人懷疑其真實性。教授在第四段提到考題變難了，但學生卻考得比以往都好，這違背了常理，因此這些成績看起來「好得不真實」。選項 A 錯誤，因為這些成績並非來自努力。選項 C 錯誤，教授並未感到驚喜，反而懷疑學生作弊。選項 D 與文意無關，文章強調的是這些作弊行為反而會損害學生的未來能力。"
+      "explanationZh": "正確答案為 B。文中提到學生面臨挑戰是「抗拒『簡單路徑』（easy path）的誘惑」，結合前後文討論 AI 協助作弊的脈絡，這裡的「簡單路徑」指的就是利用 AI 快速完成作業而不進行深度思考。選項 A 與文意相反；選項 C 將其視為正面教學策略是錯誤的；選項 D 與原文強調的「科技帶來的捷徑」不符。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "What is the central message of this article regarding the use of AI in higher education?",
+      "question": "What is the primary message of the article regarding the impact of AI on higher education?",
       "options": {
-        "A": "AI tools are essential for modern students to manage their heavy academic workloads.",
-        "B": "Universities must ban all technology to ensure that students do not cheat on exams.",
-        "C": "The pressure to succeed academically is leading students to use AI as a shortcut, which undermines the purpose of learning.",
-        "D": "Professor Serrano's economics course is the only example of how AI is negatively impacting university grading systems."
+        "A": "AI tools have proven that traditional university education is no longer necessary for success.",
+        "B": "Professors at Brown University are solely responsible for the rise in academic dishonesty.",
+        "C": "The convenience of AI is forcing universities to rethink how they assess student learning and academic integrity.",
+        "D": "Students are increasingly choosing to cheat because they no longer respect their professors' authority."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。文章透過布朗大學的案例，探討了 AI 如何被用作逃避學習的捷徑，並指出這種行為會阻礙學生獲得真正的技能。文章結尾提到大學需要尋找平衡點，讓學生在不依賴機器思考的前提下使用科技。選項 A 與文意相反，文章認為這是負面影響。選項 B 過於極端，文章提到的是「改變考試方式」而非全面禁止科技。選項 D 錯誤，文章第五段已提到普林斯頓大學也有類似的調查數據，顯示這是一個普遍現象。"
+      "explanationZh": "正確答案為 C。整篇文章透過 Brown 大學的案例，探討了 AI 如何改變學術誠信，並指出大學必須在信任學生與確保評量真實性之間找到平衡，且傳統考試方法已不足以應對。選項 A 過於極端，文章並未否定大學價值；選項 B 將責任歸咎於教授有失公允；選項 D 將作弊動機簡化為對教授的不尊重，忽略了壓力與科技便利性的核心問題。"
     }
   ],
   "aiGenerated": true,

@@ -1,0 +1,158 @@
+{
+  "id": "2026-07-08-ai-data-centers-strain-energy-and-water",
+  "slug": "ai-data-centers-strain-energy-and-water-jul-2026",
+  "publishedAt": "2026-07-08T23:29:36.394484Z",
+  "category": "energy",
+  "title": "The Hidden Costs of the AI Boom: Energy and Water Under Pressure",
+  "subtitle": "As data centers expand to support artificial intelligence, local communities and power grids face growing challenges.",
+  "summary": {
+    "en": "The rapid growth of artificial intelligence is leading to a massive increase in the number of data centers worldwide. These facilities require enormous amounts of electricity and water to function, creating significant challenges for local communities. Recent incidents, such as water contamination in Wyoming, highlight the environmental risks associated with this expansion. Experts are now calling for better regulation to ensure that the benefits of AI do not come at too high a cost. Governments are currently struggling to balance the need for new technology with the protection of vital public resources.",
+    "zh": "人工智慧的快速成長正導致全球資料中心數量大幅增加。這些設施需要消耗龐大的電力與水資源才能運作，為當地社區帶來了重大挑戰。近期如懷俄明州發生的水污染事件，凸顯了此類擴張所帶來的環境風險。專家目前呼籲加強監管，以確保人工智慧的效益不會付出過高的代價。各國政府目前正努力在發展新技術的需求與保護重要公共資源之間取得平衡。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The rapid rise of artificial intelligence (AI) is changing how we live and work, but it is also creating a massive demand for physical infrastructure. Across the globe, the number of data centers—large buildings filled with computer servers that store and process digital information—is growing at an incredible speed. While these centers are necessary to power the AI tools that help with medical research and energy efficiency, they are also placing a heavy burden on local energy grids and water supplies.",
+      "zh": "人工智慧（AI）的快速崛起正在改變我們的生活與工作方式，但也同時創造了對實體基礎設施的龐大需求。全球各地，資料中心（即裝滿電腦伺服器以儲存及處理數位資訊的大型建築）的數量正以驚人的速度成長。雖然這些中心對於驅動有助於醫學研究與能源效率的 AI 工具而言不可或缺，但它們也對當地的能源電網與水資源供應造成了沉重負擔。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Guardian, there are currently more than 10,000 active data centers worldwide. Experts expect this number to increase by 3.5 times in the coming years, with total costs reaching trillions of dollars. This expansion is not just a global trend; it is happening in countries like Australia, which has hundreds of active or planned facilities. Proponents often describe these projects as essential infrastructure, but critics argue that the public benefits are not always clear compared to the high environmental costs.",
+      "zh": "根據《衛報》（The Guardian）報導，目前全球有超過一萬座運作中的資料中心。專家預計未來幾年內，此數量將增加三點五倍，總成本將達到數兆美元。這種擴張不僅是全球趨勢，也發生在澳洲等國家，該國已有數百座運作中或規劃中的設施。支持者常將這些計畫描述為必要基礎設施，但批評者則認為，相較於高昂的環境成本，其帶來的公眾利益並不總是顯而易見。"
+    },
+    {
+      "id": "p3",
+      "en": "One of the most significant concerns is the amount of energy these centers consume. Data centers are often called \"energy vampires\" because they require constant power to run their servers and cooling systems. In Australia, energy consumption from these facilities is expected to triple by 2030. This creates a difficult situation for governments trying to move toward renewable energy. If data centers continue to pull large amounts of power from the grid, it could slow down the transition to cleaner energy and lead to higher electricity bills for regular people.",
+      "zh": "最重大的擔憂之一是這些中心所消耗的能源量。資料中心常被稱為「能源吸血鬼」，因為它們需要持續不斷的電力來運作伺服器與冷卻系統。在澳洲，這些設施的能源消耗預計在二〇三〇年前將增加至三倍。這為試圖轉向再生能源的政府帶來了艱難處境。如果資料中心持續從電網抽取大量電力，可能會拖慢邁向潔淨能源的轉型，並導致一般民眾的電費上漲。"
+    },
+    {
+      "id": "p4",
+      "en": "Beyond energy, water usage is becoming a major point of conflict. Data centers need vast amounts of water to keep their equipment from overheating. In some cases, a single facility can use as much water as 1,000 households every day. This creates tension in areas where water is already a limited resource. The Guardian reported a recent incident in Wyoming, where a contractor for Meta flushed water contaminated with bacteria into the public sewer system during the construction of a new data center. While the company stated that the water did not affect drinking supplies, the event forced local officials to create much stricter rules for how data centers dispose of their wastewater.",
+      "zh": "除了能源之外，用水量也正成為主要的衝突點。資料中心需要大量的水來防止設備過熱。在某些情況下，單一設施每天的用水量可達一千戶家庭的用量。這在水資源本已有限的地區造成了緊張局勢。《衛報》報導了近期發生在懷俄明州（Wyoming）的一起事件，當時 Meta 的承包商在興建一座新資料中心期間，將受細菌污染的水排入公共污水系統。儘管該公司聲稱這些水未影響飲用水供應，但此事件迫使當地官員針對資料中心如何處理廢水制定了更嚴格的規範。"
+    },
+    {
+      "id": "p5",
+      "en": "This incident in Wyoming is part of a larger, nationwide backlash against the construction of these resource-hungry buildings. Local authorities are now taking action to protect their communities. For example, the city of Cheyenne has permanently stopped the data center from discharging waste into its treatment facilities. They have also adopted new policies to prevent similar problems in the future, as the city uses recycled water for public parks and other spaces. Officials worry that even small amounts of bacteria in the water supply could pose health risks when the water is sprayed into the air for irrigation.",
+      "zh": "這起發生在懷俄明州的事件，是針對這些資源消耗型建築的全國性反彈浪潮的一部分。地方當局目前正採取行動以保護社區。例如，夏安市（Cheyenne）已永久禁止該資料中心將廢水排入其處理設施。他們也採取了新政策以防止未來發生類似問題，因為該市使用回收水來灌溉公園與其他公共空間。官員擔心，即使是少量的細菌進入供水系統，當水被噴灑到空氣中進行灌溉時，也可能構成健康風險。"
+    },
+    {
+      "id": "p6",
+      "en": "Despite these challenges, many argue that AI offers real value to society. In cities like Shanghai, AI is used to reduce traffic jams, and in hospitals, it helps doctors diagnose illnesses faster. However, experts suggest that governments must stop taking a \"laissez-faire\" approach—a policy of letting things happen without interference or rules. They argue that if data centers are to be treated as essential infrastructure, they should face the same strict examinations as any other major project to ensure their benefits truly outweigh the costs.",
+      "zh": "儘管面臨這些挑戰，許多人仍認為人工智慧為社會提供了實質價值。在上海等城市，人工智慧被用於減少交通壅塞，而在醫院中，它能協助醫師更快速地診斷疾病。然而，專家建議政府必須停止採取「自由放任」（laissez-faire）的態度，即一種不加干預或不設規則的政策。他們主張，若要將資料中心視為必要基礎設施，就應比照其他重大工程進行嚴格審查，以確保其效益確實大於成本。"
+    },
+    {
+      "id": "p7",
+      "en": "As we look to the future, the debate over data centers is likely to grow. Some regions, such as Queensland, have expressed a willingness to continue using fossil fuels to power these facilities, which conflicts with national goals to lower greenhouse gas emissions. This disagreement highlights the complex choice facing leaders today: how to support the growth of powerful new technology without harming the environment or straining the resources that local communities rely on every day. Moving forward, the focus will likely shift toward finding ways to make these centers more efficient and ensuring that tech companies are held responsible for their impact on the planet.",
+      "zh": "展望未來，關於資料中心的辯論可能會持續升溫。昆士蘭州（Queensland）等部分地區已表示願意繼續使用化石燃料來為這些設施供電，這與國家降低溫室氣體排放的目標相衝突。這種分歧凸顯了當今領導人面臨的複雜抉擇：如何在不損害環境或耗盡當地社區賴以生存的資源的前提下，支持強大新技術的成長。未來，焦點可能會轉向尋找讓這些中心更有效率的方法，並確保科技公司為其對地球造成的影響負起責任。"
+    }
+  ],
+  "wordCount": 724,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "pull",
+      "definitionEn": "To draw or extract something (like power) from a source.",
+      "definitionZh": "從某處抽取或獲取（能源、資源等）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作「拉、拖」，這裡指從電網中抽取電力。文中：If data centers continue to pull large amounts of power from the grid, it could slow down the transition to cleaner energy and lead to higher electricity bills for regular people."
+    },
+    {
+      "term": "backlash",
+      "definitionEn": "A strong and negative reaction by a large number of people to a social or political development.",
+      "definitionZh": "強烈的反對聲浪或抵制行動。",
+      "partOfSpeech": "noun",
+      "noteZh": "此詞常指社會大眾對某政策或現象的反彈。文中：This incident in Wyoming is part of a larger, nationwide backlash against the construction of these resource-hungry buildings."
+    },
+    {
+      "term": "outweigh",
+      "definitionEn": "To be greater or more significant than something else.",
+      "definitionZh": "在重要性或價值上超過某事物。",
+      "partOfSpeech": "verb",
+      "noteZh": "由 out- (超過) + weigh (重量) 組成，指效益大於成本。文中：They argue that if data centers are to be treated as essential infrastructure, they should face the same strict examinations as any other major project to ensure their benefits truly outweigh the costs."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Environment",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/09/ai-artificial-intelligence-benefits-costs-datacentres-energy-water-environment",
+      "title": "Datacentres are a ticking timebomb. We must make sure AI’s benefits outweigh the costs | Nicki Hutley",
+      "publishedAt": "2026-07-08T15:00:36Z"
+    },
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/us-news/2026/jul/08/meta-datacenter-ai-wyoming-water",
+      "title": "Wyoming tightens wastewater rules after Meta datacenter contractor flushed contaminated water",
+      "publishedAt": "2026-07-08T14:08:00Z"
+    }
+  ],
+  "story": {
+    "id": "ai-data-centers-strain-energy-grids",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "ai-data-centers-strain-energy-grids-jul-2026",
+        "title": "The Hidden Costs of the AI Boom: Energy and Water Under Pressure",
+        "publishedAt": "2026-07-08T22:13:43.431259Z",
+        "category": "energy",
+        "summaryEn": "The rapid expansion of artificial intelligence is leading to a massive increase in the number of data centers worldwide. These facilities require enormous amounts of electricity and water to function, creating significant challenges for local communities. Recent incidents, such as water contamination in Wyoming, have highlighted the environmental risks associated with this industry. While AI offers potential benefits, experts argue that governments must better manage the infrastructure demands of these projects. Balancing technological progress with the protection of essential public resources remains a critical issue for the future."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is one specific consequence of the high energy demand of data centers on the general public?",
+      "options": {
+        "A": "It causes frequent power outages in residential areas.",
+        "B": "It could lead to an increase in electricity costs for ordinary people.",
+        "C": "It forces the government to shut down public parks to save energy.",
+        "D": "It prevents hospitals from using AI to diagnose illnesses."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第三段明確指出，如果資料中心持續從電網抽取大量電力，可能會拖慢潔淨能源的轉型，並導致一般民眾的電費增加。選項 A 文章未提及停電問題；選項 C 指的是水資源問題而非電力；選項 D 文章提到 AI 確實能協助醫院，但並未說電力需求會導致醫院無法使用 AI。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the relationship between local authorities and data center companies based on the text?",
+      "options": {
+        "A": "Local authorities are fully supportive of all AI infrastructure projects.",
+        "B": "Companies are proactively working with cities to improve energy efficiency.",
+        "C": "The relationship is becoming increasingly strained due to resource management issues.",
+        "D": "Data center companies have complete control over local water policies."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第四段與第五段，懷俄明州的廢水事件導致當地政府採取更嚴格的法規，且 Cheyenne 市甚至禁止該設施排放廢水。這顯示出地方政府與科技公司之間因資源消耗與環境安全產生了緊張關係。選項 A 與事實相反；選項 B 文章未提及公司主動改善；選項 D 錯誤，因為政府正在制定法規來限制公司行為，而非由公司掌控政策。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the sixth paragraph, what does the author mean by a 'laissez-faire' approach?",
+      "options": {
+        "A": "A strategy that involves strict and constant government oversight.",
+        "B": "A policy of allowing businesses to operate without interference or regulations.",
+        "C": "A method of using renewable energy to power data centers.",
+        "D": "A process of evaluating the environmental costs of new technology."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文中括號內解釋了該詞的含義，即「letting things happen without interference or rules」（放任不管，不加干涉）。這在經濟學中常指自由放任政策。選項 A 與文意完全相反；選項 C 與 D 則是專家建議政府應該採取的「嚴格審查」措施，而非 laissez-faire 本身的含義。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article regarding the growth of data centers?",
+      "options": {
+        "A": "Data centers are unnecessary and should be replaced by older technology.",
+        "B": "The benefits of AI completely outweigh the environmental costs of data centers.",
+        "C": "The rapid expansion of data centers presents a complex challenge that requires balancing technological progress with environmental and resource sustainability.",
+        "D": "Australia is the only country currently facing problems with data center construction."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章從頭到尾都在探討 AI 帶來的便利與數據中心對能源、水資源造成的負擔之間的衝突，並在結尾總結這是一個需要領導者在科技發展與環境保護之間取得平衡的複雜課題。選項 A 過於極端；選項 B 與文章觀點不符，文章強調效益與成本的爭議；選項 D 錯誤，文章提到這是全球現象，並非僅限於澳洲。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
