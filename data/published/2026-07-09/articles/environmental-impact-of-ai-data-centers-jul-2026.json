@@ -1,0 +1,157 @@
+{
+  "id": "2026-07-09-environmental-impact-of-ai-data-centers",
+  "slug": "environmental-impact-of-ai-data-centers-jul-2026",
+  "publishedAt": "2026-07-09T23:35:25.223128Z",
+  "category": "energy",
+  "title": "The Growing Battle Over AI Data Centers",
+  "subtitle": "As tech companies build more power-hungry facilities, local communities are pushing back against the environmental and economic costs.",
+  "summary": {
+    "en": "The rapid growth of artificial intelligence is leading to a massive increase in the construction of energy-intensive data centers. These facilities require huge amounts of electricity and water, placing significant strain on local power grids. Communities are increasingly opposing these projects due to concerns about resource use and high energy prices. While some local protests have been successful, well-funded tech companies often find ways to move forward with their plans. Experts argue that these local battles may distract from larger concerns about the influence of AI companies.",
+    "zh": "人工智慧的快速成長導致了能源密集型資料中心的建設大幅增加。這些設施需要消耗大量的電力與水資源，對當地電網造成了顯著的壓力。由於對資源消耗與高能源價格的擔憂，社區對這些計畫的反對聲浪日益高漲。雖然一些地方性的抗議活動取得了成功，但資金雄厚的科技公司往往能找到方法繼續推動其計畫。專家認為，這些地方性的爭端可能會轉移大眾對人工智慧公司影響力等更廣泛議題的關注。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The rapid expansion of artificial intelligence (AI) is changing the physical landscape of the United States. To support the massive computing power needed for AI, technology companies are building a growing number of data centers—large buildings filled with servers that store and process digital information. These facilities require enormous amounts of electricity and water to stay cool and operational, leading to new tensions between tech giants and local communities.",
+      "zh": "人工智慧的快速擴張正在改變美國的實體地景。為了支援人工智慧所需的龐大運算能力，科技公司正不斷興建資料中心，這些大型建築內裝滿了儲存與處理數位資訊的伺服器。這些設施需要消耗極大量的電力與水資源來維持冷卻與運作，這也導致科技巨頭與當地社區之間產生了新的緊張關係。"
+    },
+    {
+      "id": "p2",
+      "en": "As noted in our previous coverage, the strain on local power grids and water supplies has become a major point of conflict. Many residents are worried that these centers will drive up energy prices and use resources that are already limited. According to The Guardian, opposition to these data centers has become a primary theme in American politics, crossing traditional party lines. People are coming together to ask if the economic benefits promised by these companies are truly worth the environmental and social costs.",
+      "zh": "正如我們之前的報導所提到的，當地電網與供水系統所承受的壓力已成為主要的衝突點。許多居民擔心這些中心會推升能源價格，並消耗本已有限的資源。根據《衛報》（The Guardian）報導，對這些資料中心的抗拒已成為美國政治中的一個核心議題，並跨越了傳統的黨派界線。民眾正集結起來質疑，這些公司所承諾的經濟利益，是否真的值得付出環境與社會成本。"
+    },
+    {
+      "id": "p3",
+      "en": "One of the biggest concerns for local residents is the lack of jobs created by these facilities. Unlike traditional factories or industrial sites, data centers are highly automated and require few workers once they are built. The Guardian reports that opposition is often strongest in lower-income communities. These residents feel that tech companies are taking advantage of local resources while offering very little in return. This has created a sense of unfairness, as communities see their land and energy used for projects that do not improve their daily lives.",
+      "zh": "當地居民最擔心的問題之一，是這些設施創造的就業機會極少。與傳統工廠或工業區不同，資料中心高度自動化，一旦建成後幾乎不需要太多員工。據《衛報》報導，反對聲浪通常在低收入社區最為強烈。這些居民認為，科技公司在利用當地資源的同時，卻幾乎沒有提供任何回饋。這產生了一種不公平感，因為社區眼睜睜看著自己的土地與能源被用於那些無法改善他們日常生活的計畫上。"
+    },
+    {
+      "id": "p4",
+      "en": "However, the battle between local towns and global tech companies is not always equal. While some community campaigns have successfully stopped early-stage projects, well-funded developments often find ways to succeed. A clear example of this is a facility in Saline township, Michigan, backed by OpenAI and Oracle. Even after local officials voted to reject the project, the developers used legal action to force a settlement. The construction of the facility is now moving forward despite the local government's initial opposition.",
+      "zh": "然而，地方城鎮與全球科技公司之間的角力並不總是對等的。雖然有些社區運動成功阻止了早期的開發計畫，但資金雄厚的開發案往往能找到成功的途徑。一個明顯的例子是位於密西根州薩林鎮（Saline township）的設施，該計畫由 OpenAI 與甲骨文（Oracle）支持。即便當地官員投票否決了該計畫，開發商仍透過法律手段強行達成和解。儘管當地政府最初持反對意見，該設施的建設工程目前仍在持續推進。"
+    },
+    {
+      "id": "p5",
+      "en": "Experts Bruce Schneier and Nathan E. Sanders, writing for The Guardian, suggest that these local protests might be exactly what AI companies expect. By focusing on the construction of data centers, political opponents may be distracted from the larger goals of these companies. The authors argue that while the investment in data center infrastructure is huge—reaching three-quarters of a trillion dollars this year—it is only a small part of the industry's long-term plan. Tech companies are aiming to capture value across entire sectors, including healthcare, legal services, and education.",
+      "zh": "專家布魯斯·施奈爾（Bruce Schneier）與納森·E·桑德斯（Nathan E. Sanders）在為《衛報》撰文時指出，這些地方性的抗議活動可能正是人工智慧公司所預料到的。透過將焦點集中在資料中心的建設上，政治反對者可能會被轉移注意力，忽略了這些公司更宏大的目標。作者認為，雖然對資料中心基礎設施的投資金額龐大——今年已達到七千五百億美元——但這僅是該產業長期計畫中的一小部分。科技公司正試圖在整個產業鏈中獲取價值，包括醫療保健、法律服務與教育領域。"
+    },
+    {
+      "id": "p6",
+      "en": "There is also a broader fear regarding the influence of these companies. Critics worry that by focusing all their energy on fighting data center construction, the public is losing sight of how AI products are used in society. There are concerns that AI could spread misinformation, take away jobs, or create risks for humanity. Some observers believe that tech companies would rather spend their time fighting local resistance to building infrastructure than discussing the deeper ethical issues of how their products should be used in sensitive fields like medicine or teaching.",
+      "zh": "大眾對於這些公司影響力的擔憂也更為廣泛。批評者擔心，若將所有精力都放在對抗資料中心建設上，公眾將會忽略人工智慧產品在社會中被運用的方式。人們擔心人工智慧可能會散布假訊息、剝奪工作機會，或對人類造成風險。一些觀察家認為，科技公司寧願花時間對抗地方上的基礎設施建設阻力，也不願討論其產品在醫療或教學等敏感領域中應如何使用的深層倫理問題。"
+    },
+    {
+      "id": "p7",
+      "en": "As the demand for AI continues to grow, the pressure on energy and water resources will likely increase. The environmental impact of these data centers is a global concern, as their carbon footprint—the total amount of greenhouse gases produced by their activities—could grow to unsustainable levels if usage continues to rise at the current speed. For many, opposing a local data center is the only way to express their disapproval of the rapid and often unchecked expansion of AI technology.",
+      "zh": "隨著人工智慧的需求持續成長，能源與水資源的壓力很可能會隨之增加。這些資料中心對環境的影響已成為全球關注的焦點，因為若使用量持續以目前的速度成長，其碳足跡（即其活動所產生的溫室氣體總量）可能會達到無法永續的程度。對許多人來說，反對當地的資料中心是表達他們對人工智慧技術快速且往往缺乏監管的擴張感到不滿的唯一途徑。"
+    },
+    {
+      "id": "p8",
+      "en": "Looking ahead, the situation remains uncertain. While some communities continue to fight, the power and financial influence of the companies involved make them difficult to stop. The debate over data centers is not just about electricity or land; it is a reflection of a much larger struggle over how much power AI companies should have in our society. As these companies continue to build, the question of who benefits from this technology—and who pays the price—will likely remain at the center of the conversation for years to come.",
+      "zh": "展望未來，局勢依然充滿不確定性。雖然一些社區持續抗爭，但涉事公司所擁有的權力與財務影響力，使得它們難以被阻擋。關於資料中心的辯論不僅僅是關於電力或土地的問題，它反映了關於人工智慧公司在我們社會中應擁有多少權力的一場更巨大的鬥爭。隨著這些公司持續擴建，誰能從這項技術中獲益，以及誰將付出代價，這些問題在未來幾年內很可能仍將是討論的核心。"
+    }
+  ],
+  "wordCount": 724,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "drive up",
+      "definitionEn": "To cause the price or cost of something to increase quickly.",
+      "definitionZh": "使（價格、成本等）飆升、推高。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見於商業新聞，指價格上漲。文中：Many residents are worried that these centers will drive up energy prices and use resources that are already limited."
+    },
+    {
+      "term": "party lines",
+      "definitionEn": "The official policies or positions of a political party; crossing them means people from different political groups agree on something.",
+      "definitionZh": "政黨立場；「跨越政黨立場」指不同黨派的人意見一致。",
+      "partOfSpeech": "idiom",
+      "noteZh": "此處指政治立場的界線。文中：According to The Guardian, opposition to these data centers has become a primary theme in American politics, crossing traditional party lines."
+    },
+    {
+      "term": "losing sight of",
+      "definitionEn": "To stop thinking about or paying attention to something important because you are focused on other things.",
+      "definitionZh": "忽略、不再關注（某個重要的事物）。",
+      "partOfSpeech": "idiom",
+      "noteZh": "字面上是「失去視線」，引申為忽略重點。文中：Critics worry that by focusing all their energy on fighting data center construction, the public is losing sight of how AI products are used in society."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Environment",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/09/ai-datacenter-company-politics",
+      "title": "The fight against AI data centers is important – but it’s just a starting point | Bruce Schneier and Nathan E Sanders",
+      "publishedAt": "2026-07-09T15:00:54Z"
+    }
+  ],
+  "story": {
+    "id": "ai-data-centers-strain-energy-grids",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "the-environmental-impact-of-ai-data-centers-jul-2026",
+        "title": "The Growing Conflict Over AI Data Centers",
+        "publishedAt": "2026-07-09T22:13:42.548302Z",
+        "category": "energy",
+        "summaryEn": "The rapid expansion of artificial intelligence is driving a massive increase in the construction of energy-hungry data centers. These facilities require vast amounts of electricity and water, leading to significant strain on local power grids and resources. While some communities have successfully opposed these projects, others are finding it difficult to stop well-funded tech companies. Critics argue that focusing only on data centers misses the larger, more dangerous impacts of AI on society. The debate highlights a growing tension between corporate growth and the needs of local residents."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is the primary reason why data centers are considered a source of frustration for local communities regarding employment?",
+      "options": {
+        "A": "They require specialized workers that local residents are not qualified for.",
+        "B": "They are highly automated and provide very few jobs after construction is finished.",
+        "C": "They prioritize hiring workers from outside the state rather than local residents.",
+        "D": "They force existing local businesses to close down due to increased competition."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第三段明確指出，資料中心與傳統工廠不同，它們高度自動化，一旦建成後所需的勞動力極少，這也是當地居民感到不滿的主因。選項 A 文中未提及資格問題；選項 C 雖然提到當地人感到不公平，但並非因為外地人搶工作；選項 D 文中並未提到資料中心導致其他當地企業倒閉。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the example of the Saline township facility, what can be inferred about the relationship between local communities and tech companies?",
+      "options": {
+        "A": "Local governments have the final legal authority to block any tech project they dislike.",
+        "B": "Tech companies are generally willing to relocate if they face strong local opposition.",
+        "C": "Financial resources and legal strategies often allow tech companies to override local opposition.",
+        "D": "Most tech companies prioritize maintaining positive relationships with local residents over project completion."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第四段透過 Saline township 的例子說明，儘管當地官員投票反對，但開發商透過法律途徑強行推動工程，顯示財力雄厚的公司有能力凌駕於地方反對意見之上。選項 A 與事實相反，地方政府無法完全阻擋；選項 B 文中未提及公司會搬遷；選項 D 從文中可以看出公司更重視工程進度而非居民感受。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fifth paragraph, what does the word 'capture' mean as used in the phrase 'aiming to capture value across entire sectors'?",
+      "options": {
+        "A": "To physically seize or take possession of something.",
+        "B": "To record or document information for later use.",
+        "C": "To successfully gain control or a share of a market.",
+        "D": "To attract the attention of a specific group of people."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。在此語境下，capture value 指的是科技公司試圖在醫療、法律和教育等領域中獲取經濟利益或市場佔有率。選項 A 的實體扣押不符合商業語境；選項 B 的記錄資訊過於狹隘，無法涵蓋整個產業的獲利意圖；選項 D 的吸引注意力並非該片語的核心商業意義。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "Which of the following best summarizes the central theme of the article?",
+      "options": {
+        "A": "The technical challenges of building data centers in rural areas.",
+        "B": "The urgent need for new laws to regulate the energy consumption of AI companies.",
+        "C": "The growing tension between local communities and tech giants over the expansion and impact of AI infrastructure.",
+        "D": "The economic benefits of AI technology for lower-income communities in the United States."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。本文的核心在於探討資料中心擴張所帶來的環境、經濟及社會衝突，以及這場爭論如何反映出大眾對於 AI 公司影響力擴張的擔憂。選項 A 僅是細節之一；選項 B 文中雖有提及爭議，但並未強調需要立法；選項 D 與文章中提到當地居民感到被剝削的觀點完全相反。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
