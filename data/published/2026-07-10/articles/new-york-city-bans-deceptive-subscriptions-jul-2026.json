@@ -1,74 +1,81 @@
 {
   "id": "2026-07-10-new-york-city-bans-deceptive-subscriptions",
   "slug": "new-york-city-bans-deceptive-subscriptions-jul-2026",
-  "publishedAt": "2026-07-10T22:14:17.038253Z",
+  "publishedAt": "2026-07-10T23:12:25.496295Z",
   "category": "economics",
-  "title": "New York City Takes Action Against Hidden Subscription Costs",
-  "subtitle": "New rules aim to make cancelling services easier and stop companies from hiding extra fees.",
+  "title": "New York City Leads Fight Against Hidden Subscription Costs",
+  "subtitle": "New rules aim to stop companies from trapping customers in unwanted services and hidden fees.",
   "summary": {
-    "en": "New York City has introduced new rules to stop companies from using unfair subscription practices. Starting in October, businesses must make it simple for customers to cancel their services. The city is also working on a plan to force companies to show the total price of goods, including all extra fees, upfront. These changes aim to protect consumers from hidden costs that make products and housing more expensive. While the city government supports these rules, some industry groups worry that the government is interfering too much in business pricing.",
-    "zh": "紐約市已推出新規定，以遏止企業採取不公平的訂閱手段。從十月開始，商家必須讓消費者能簡單地取消服務。市府也正研擬計畫，強制企業在初期就顯示商品總價，包含所有額外費用。這些變革旨在保護消費者免受隱藏成本影響，避免產品與住房價格被墊高。雖然市政府支持這些規定，但部分產業團體擔心政府過度干預企業定價。"
+    "en": "New York City has introduced strict new rules to end deceptive subscription practices. Starting in October, businesses must make it easy for customers to cancel their services. The city is also working to stop companies from hiding extra costs in housing and other goods. These changes aim to save consumers millions of dollars each year. However, some industry groups argue that these rules interfere with how businesses set their prices.",
+    "zh": "紐約市已引入嚴格的新規定，旨在終結欺騙性的訂閱行為。從十月開始，企業必須讓客戶能輕鬆取消服務。該市也致力於阻止企業在住房及其他商品中隱藏額外成本。這些變革旨在每年為消費者節省數百萬美元。然而，部分產業團體認為這些規定干預了企業的定價方式。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "New York City has officially announced a new rule to stop companies from using deceptive subscription practices. This change, which will begin on October 1, is designed to prevent businesses from trapping customers in memberships they no longer want. According to The Guardian, the city’s consumer protection office is taking this step to protect people who struggle to cancel gym memberships, streaming services, and other recurring charges.",
-      "zh": "紐約市已正式宣布一項新規定，旨在遏止企業採取欺騙性的訂閱手段。這項變革將於十月一日生效，目的是防止商家將消費者困在他們不再需要的會員資格中。根據《衛報》（The Guardian）報導，紐約市消費者保護辦公室採取此舉，是為了保護那些在取消健身房會籍、串流服務及其他定期扣款項目時遭遇困難的民眾。"
+      "en": "New York City has taken a major step toward protecting consumers by becoming the first city in the United States to ban deceptive subscription practices. This new rule, which officially begins on October 1, targets companies that make it difficult for customers to cancel recurring charges for services like gym memberships and streaming platforms. According to The Guardian, the city’s consumer protection office is promising strong enforcement, with companies facing fines of $525 per user for failing to provide a simple way to end a subscription.",
+      "zh": "紐約市邁出了保護消費者的重要一步，成為美國第一個禁止欺騙性訂閱行為的城市。這項新規定將於十月一日正式生效，針對的是那些讓客戶難以取消健身房會員或串流平台等定期收費服務的企業。根據《衛報》（The Guardian）報導，該市消費者保護辦公室承諾將嚴格執法，若企業未能提供簡單的取消訂閱管道，每位用戶將面臨五百二十五美元的罰款。"
     },
     {
       "id": "p2",
-      "en": "Under the new rules, companies must provide a simple way for customers to end their subscriptions. Samuel AA Levine, the city’s commissioner of consumer and worker protection, explained why this is necessary. He noted that people should not have to wait on the phone for thirty minutes, send special letters, or visit a store in person just to stop a service. If companies fail to follow these rules, they could face heavy fines of $525 per user subscription, along with other costs. The Roosevelt Institute, a research group, estimates that these changes could save New Yorkers as much as $162.5 million every year.",
-      "zh": "根據新規定，企業必須提供簡單的方式讓消費者終止訂閱。紐約市消費者與勞工保護局局長李文（Samuel AA Levine）解釋了這項規定的必要性。他指出，民眾不應該為了停止一項服務，而被迫在電話線上等待三十分鐘、寄送特殊信件或親自前往門市辦理。若企業未能遵守這些規定，每位用戶的訂閱案可能面臨五百二十五美元的重罰，以及其他相關成本。研究機構羅斯福研究所（Roosevelt Institute）估計，這些變革每年可為紐約市民節省高達一億六千兩百五十萬美元。"
+      "en": "This update follows earlier efforts by the city to address what officials call \"junk fees.\" These are extra, often hidden costs added to the price of everything from apartments to sporting events. Samuel AA Levine, the city’s commissioner of consumer and worker protection, explained that the goal is to stop companies from hiding the true cost of their products. \"People shouldn’t have to wait on hold for half an hour or send a certified letter or show up to a store in person in order to cancel,\" Levine said in an interview with The Guardian.",
+      "zh": "這項更新延續了該市先前為解決官員所謂「垃圾費用」所做的努力。這些費用通常是隱藏在公寓租金到體育賽事門票等各類商品價格中的額外成本。紐約市消費者與勞工保護局局長李文（Samuel AA Levine）解釋，目標是阻止企業隱瞞產品的真實成本。李文在接受《衛報》採訪時表示：「民眾不應該為了取消服務，而被迫在電話線上等待半小時、寄送掛號信，或是親自前往門市辦理。」"
     },
     {
       "id": "p3",
-      "en": "Beyond subscriptions, the city is also targeting what officials call “junk fees.” These are extra, often hidden charges that increase the final price of everything from sporting events to apartments. The city has proposed a new rule that would require sellers to show the total price of a product or service, including all mandatory extra charges, right from the start. This move is part of a larger effort by city leaders, including Zohran Mamdani and Levine, to stop what they describe as unfair business behavior.",
-      "zh": "除了訂閱服務外，紐約市也將目標鎖定在官員所謂的「垃圾費用」（junk fees）。這些是額外且通常隱蔽的收費，會墊高從體育賽事到租屋等各項服務的最終價格。市府已提出一項新規定，要求賣方從一開始就必須顯示產品或服務的總價，並包含所有強制性的額外收費。此舉是市府領導階層（包括曼達尼（Zohran Mamdani）與李文）為遏止他們所稱的不公平商業行為，所採取更大規模行動的一部分。"
+      "en": "Beyond subscriptions, the city is proposing new rules for the housing market, where about 70% of residents are renters. Many renters currently face a \"rising tide\" of extra charges, such as \"boiler management\" or \"lifestyle\" fees, which are added to the monthly rent. If these rules pass, landlords would be required to include all mandatory fees in the total price shown to potential renters. Levine noted that the current situation allows companies to compete by hiding the real price rather than by offering better value, which he argues distorts the market.",
+      "zh": "除了訂閱服務外，該市也針對房屋市場提出了新規定，因為當地約有七成的居民是租屋族。許多租屋者目前面臨「不斷上漲」的額外費用，例如每月租金中被額外添加的「鍋爐管理費」或「生活型態費」。如果這些規定通過，房東將被要求把所有強制性費用包含在向潛在租客展示的總價中。李文指出，目前的情況讓企業透過隱瞞真實價格而非提供更好的價值來競爭，他認為這扭曲了市場機制。"
     },
     {
       "id": "p4",
-      "en": "This proposal could have a major impact on the city’s expensive housing market, where about 70% of residents are renters. Currently, many management companies add extra costs to rental agreements, such as fees for “lifestyle” services or building maintenance. These charges often make the true cost of renting an apartment hundreds of dollars higher than the price shown on company websites. If the new rule passes after a period of public discussion, all mandatory fees will have to be included in the monthly rent price advertised to potential tenants.",
-      "zh": "這項提案可能會對紐約市昂貴的房地產市場產生重大影響，因為當地約有七成居民是租屋族。目前，許多物業管理公司會在租賃合約中增加額外費用，例如「生活風格」服務費或大樓維護費。這些費用往往使租屋的真實成本比公司網站上顯示的價格高出數百美元。若該新規定在公開討論期後順利通過，所有強制性費用都必須納入向潛在租客宣傳的每月租金價格中。"
+      "en": "These new measures are part of a larger effort by city officials to address what they describe as predatory corporate malpractice. Levine, who previously led consumer protection at the Federal Trade Commission (FTC), suggested that for the last 40 years, companies have been allowed to police their own behavior too much. He believes this lack of oversight has led to decades of deceptive pricing. The Roosevelt Institute, a thinktank, estimates that the new subscription rule alone could save New Yorkers as much as $162.5 million per year.",
+      "zh": "這些新措施是市政府官員為解決所謂「掠奪性企業不當行為」所做更大努力的一部分。曾領導聯邦貿易委員會（FTC）消費者保護部門的李文認為，過去四十年來，企業被允許過度自我監管。他相信這種缺乏監督的情況導致了數十年來的欺騙性定價。智庫羅斯福研究所（Roosevelt Institute）估計，僅僅是這項新的訂閱規定，每年就能為紐約市民節省高達一億六千兩百五十萬美元。"
     },
     {
       "id": "p5",
-      "en": "Levine believes that the current system is broken because companies are not competing based on who has the best price. Instead, he argues that companies are competing to see who is best at hiding the true cost of their services. He noted that for the past 40 years, many businesses have been allowed to regulate themselves, which he believes has led to a long history of deceptive pricing. By forcing companies to be honest about their costs, the city hopes to create a fairer market for everyone.",
-      "zh": "李文認為，目前的體系已經失靈，因為企業並非透過提供最優惠的價格來競爭。相反地，他主張企業是在比誰更擅長隱藏服務的真實成本。他指出，過去四十年來，許多企業被允許進行自我監管，他認為這導致了長期的欺騙性定價歷史。透過強制企業誠實揭露成本，紐約市希望為所有人創造一個更公平的市場。"
+      "en": "Despite the popularity of these rules among consumers, they have faced significant pushback from industry groups. When the federal government attempted to introduce similar rules in the past, the US Chamber of Commerce argued that such regulations were an attempt to \"micromanage\" how businesses set their prices. In fact, after intense lobbying by the real-estate industry, fees related to apartment rentals were removed from a federal rule proposed by the Biden administration in 2024. Additionally, a national \"click-to-cancel\" rule—a policy requiring that cancelling a service be as easy as signing up—was struck down by a federal judge in 2025 due to procedural issues.",
+      "zh": "儘管這些規定在消費者中很受歡迎，卻面臨來自產業團體的強烈抵制。當聯邦政府過去試圖引入類似規定時，美國商會（US Chamber of Commerce）曾主張這類監管是試圖「微觀管理」企業如何制定價格。事實上，在房地產產業的強力遊說下，與公寓租賃相關的費用在拜登政府二零二四年提出的聯邦規則中被刪除。此外，一項全國性的「點擊即取消」規則——即要求取消服務必須與註冊一樣容易的政策——在二零二五年因程序問題被聯邦法官駁回。"
     },
     {
       "id": "p6",
-      "en": "However, these changes are not without critics. In the past, industry groups have fought hard against similar rules. When the Biden administration tried to introduce a national rule against junk fees in 2024, the US Chamber of Commerce argued that the government was trying to “micromanage” how businesses set their prices. Because of this pressure, fees related to apartment rentals were eventually removed from the federal plan. Additionally, a national “click-to-cancel” rule—a simple way to end a subscription online—was blocked by a federal judge in 2025 due to a technical legal issue.",
-      "zh": "然而，這些變革並非沒有批評者。過去，產業團體曾極力反對類似規定。當拜登（Joe Biden）政府在二零二四年試圖推動一項反對垃圾費用的全國性規定時，美國商會（US Chamber of Commerce）主張政府試圖「微觀管理」企業的定價方式。由於這股壓力，與公寓租賃相關的費用最終被從聯邦計畫中移除。此外，一項全國性的「點擊即取消」規定（即在線上終止訂閱的簡易方式），也因技術性的法律問題在二零二五年遭到聯邦法官阻擋。"
+      "en": "While the current rules are limited to New York City, they represent a significant shift in how local governments handle corporate pricing. The city’s approach is to force transparency, requiring sellers to advertise the total price for any good or service, including all mandatory extra charges, right from the start. This move is designed to ensure that consumers know exactly what they are paying for before they commit their money.",
+      "zh": "雖然目前的規定僅限於紐約市，但它們代表了地方政府處理企業定價方式的重大轉變。該市的做法是強制要求透明化，要求賣方從一開始就必須標示任何商品或服務的總價，包括所有強制性的額外費用。此舉旨在確保消費者在投入金錢之前，能確切知道自己支付的費用包含哪些項目。"
     },
     {
       "id": "p7",
-      "en": "Despite these challenges, New York City is moving forward as the first city in the United States to implement such a ban on deceptive subscriptions. While the new rule only applies within the city, it represents a significant shift in how local governments are trying to control corporate practices. As the October start date approaches, many consumers are waiting to see if these changes will truly make it easier to manage their monthly expenses and avoid unwanted charges. For now, the city remains committed to its goal of making pricing more transparent, ensuring that residents know exactly what they are paying for before they sign up for any service.",
-      "zh": "儘管面臨這些挑戰，紐約市仍持續推動，成為美國第一個實施此類禁止欺騙性訂閱規定的城市。雖然新規定僅在市內適用，但這代表地方政府在試圖控管企業行為的方式上，出現了重大轉變。隨著十月的實施日期臨近，許多消費者正拭目以待，觀察這些變革是否真能讓他們更輕鬆地管理每月開支並避免不必要的扣款。目前，紐約市仍致力於實現讓定價更加透明的目標，確保居民在註冊任何服務前，都能清楚了解自己支付的費用內容。"
+      "en": "As the October start date approaches, businesses are being warned that the city intends to enforce these rules aggressively. Companies that continue to use traps to keep customers paying for services they no longer want will face not only fines but also the requirement to pay back fees. For many New Yorkers, these changes are a welcome relief from the frustration of hidden costs and difficult cancellation processes. Whether these local rules will influence national policy remains to be seen, but for now, New York City is setting a new standard for consumer protection in the United States.",
+      "zh": "隨著十月的生效日期臨近，企業已收到警告，市政府打算積極執行這些規定。那些繼續使用陷阱來留住客戶、讓他們為不再需要的服務付費的企業，不僅將面臨罰款，還必須退還相關費用。對許多紐約市民來說，這些改變緩解了隱藏成本和困難取消流程所帶來的挫折感。這些地方性規定是否會影響國家政策仍有待觀察，但就目前而言，紐約市正在為美國的消費者保護樹立新的標準。"
     }
   ],
-  "wordCount": 712,
+  "wordCount": 682,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
-      "term": "trapping",
-      "definitionEn": "To prevent someone from leaving a situation or place.",
-      "definitionZh": "困住、使無法脫身。",
-      "partOfSpeech": "verb (present participle)",
-      "noteZh": "常見作名詞（陷阱），這裡作動詞，形容企業讓消費者難以取消訂閱。文中：This change, which will begin on October 1, is designed to prevent businesses from trapping customers in memberships they no longer want."
-    },
-    {
-      "term": "broken",
-      "definitionEn": "Not working correctly or failing to function as intended.",
-      "definitionZh": "失靈的、運作不良的。",
-      "partOfSpeech": "adjective",
-      "noteZh": "常見作動詞 break 的過去分詞（損壞的），這裡形容系統運作不良。文中：Levine believes that the current system is broken because companies are not competing based on who has the best price."
-    },
-    {
-      "term": "moving forward",
-      "definitionEn": "To continue with a plan or process despite difficulties.",
-      "definitionZh": "繼續推進、進行下去。",
+      "term": "wait on hold",
+      "definitionEn": "To wait on the telephone for someone to answer or for a connection to be made.",
+      "definitionZh": "在電話線上等待接通。",
       "partOfSpeech": "phrasal verb",
-      "noteZh": "字面意思為「向前移動」，這裡指政策持續推動。文中：Despite these challenges, New York City is moving forward as the first city in the United States to implement such a ban on deceptive subscriptions."
+      "noteZh": "這是一個常見的電話用語，容易誤解為「暫停」。文中：People shouldn’t have to wait on hold for half an hour or send a certified letter or show up to a store in person in order to cancel"
+    },
+    {
+      "term": "rising tide",
+      "definitionEn": "A metaphorical way to describe a steady increase or growth of something, often something negative.",
+      "definitionZh": "（比喻）持續增長或蔓延的趨勢（常指負面事物）。",
+      "partOfSpeech": "idiom",
+      "noteZh": "字面意思是「漲潮」，這裡用來形容費用不斷增加。文中：Many renters currently face a \"rising tide\" of extra charges, such as \"boiler management\" or \"lifestyle\" fees, which are added to the monthly rent."
+    },
+    {
+      "term": "police",
+      "definitionEn": "To monitor or control the behavior of people or organizations to ensure they follow rules.",
+      "definitionZh": "監督、監管或管制（行為）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（警察），這裡作動詞用，指監管企業行為。文中：Levine, who previously led consumer protection at the Federal Trade Commission (FTC), suggested that for the last 40 years, companies have been allowed to police their own behavior too much."
+    },
+    {
+      "term": "struck down",
+      "definitionEn": "To officially declare that a law or rule is invalid or no longer in effect.",
+      "definitionZh": "（法律或規定）被廢除、被判無效。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這是法律新聞常見的用法，指法院駁回或廢除某項規定。文中：Additionally, a national \"click-to-cancel\" rule—a policy requiring that cancelling a service be as easy as signing up—was struck down by a federal judge in 2025 due to procedural issues."
     }
   ],
   "sources": [
@@ -81,61 +88,69 @@
   ],
   "story": {
     "id": "new-york-city-bans-deceptive-subscriptions",
-    "type": "standalone",
-    "previousArticles": []
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "new-york-city-bans-deceptive-subscriptions-jul-2026",
+        "title": "New York City Takes Action Against Hidden Subscription Costs",
+        "publishedAt": "2026-07-10T22:14:17.038253Z",
+        "category": "economics",
+        "summaryEn": "New York City has introduced new rules to stop companies from using unfair subscription practices. Starting in October, businesses must make it simple for customers to cancel their services. The city is also working on a plan to force companies to show the total price of goods, including all extra fees, upfront. These changes aim to protect consumers from hidden costs that make products and housing more expensive. While the city government supports these rules, some industry groups worry that the government is interfering too much in business pricing."
+      }
+    ]
   },
   "quiz": [
     {
       "id": "q1",
       "type": "detail",
-      "question": "What is the specific financial consequence for companies that fail to comply with the new subscription cancellation rules in New York City?",
+      "question": "What is the specific financial consequence for companies that fail to provide an easy subscription cancellation process in New York City?",
       "options": {
         "A": "They must pay a flat fine of $162.5 million.",
-        "B": "They may be charged $525 for each individual user subscription that violates the rule.",
-        "C": "They are required to refund all subscription fees collected over the past 40 years.",
-        "D": "They will be forced to shut down their operations within the city immediately."
+        "B": "They are required to pay a fine of $525 per affected user.",
+        "C": "They will have their business licenses revoked by the city.",
+        "D": "They must refund all subscription fees collected over the last 40 years."
       },
       "correct": "B",
-      "explanationZh": "正確答案是 B。根據文章第二段，如果公司不遵守規則，每筆違規的用戶訂閱將面臨 525 美元的罰款。選項 A 錯誤，因為 1.625 億美元是預估全市每年節省的總金額，而非單一罰款。選項 C 與 D 在文中均未提及，屬於無中生有的選項，因此皆為錯誤。"
+      "explanationZh": "正確答案為 B。根據文章第一段，紐約市消費者保護辦公室明確指出，未能提供簡單取消訂閱方式的公司，將面臨每位用戶 525 美元的罰款。選項 A 提到的 1.625 億美元是預估全市一年可節省的總金額，而非單一罰款金額。選項 C 與 D 在文中皆未提及，屬於無中生有的錯誤選項。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "Based on the information provided, why might the new rule regarding rental apartment pricing be difficult to enforce?",
+      "question": "Based on the article, what can be inferred about the relationship between the real-estate industry and government regulation?",
       "options": {
-        "A": "Because 70% of New York City residents are not interested in price transparency.",
-        "B": "Because the city government has already decided to exempt all management companies from the rule.",
-        "C": "Because industry groups have a history of successfully lobbying against or legally challenging similar regulations.",
-        "D": "Because the rule only applies to streaming services and not to the housing market."
+        "A": "The real-estate industry fully supports the city's new transparency rules.",
+        "B": "The real-estate industry has successfully used lobbying to block certain rental fee regulations.",
+        "C": "The real-estate industry is currently being investigated for illegal boiler management.",
+        "D": "The real-estate industry prefers federal rules over local New York City regulations."
       },
-      "correct": "C",
-      "explanationZh": "正確答案是 C。文章第六段提到，產業團體過去曾強力反對類似規定，並成功在聯邦層級讓租屋相關費用從法案中移除，這暗示了地方政府在推動租屋價格透明化時，可能會面臨來自產業遊說的強大阻力。選項 A 文中未提及；選項 B 與文章所述「正在推動」的立場矛盾；選項 D 錯誤，因為文章明確指出該規則也針對租屋市場。"
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第五段，文中提到在聯邦政府嘗試引入租賃相關規範時，房地產行業透過強力的遊說（lobbying），成功讓聯邦規範草案移除了關於公寓租賃費用的限制。選項 A 與文意相反；選項 C 雖然提到了「boiler management」，但文章並未指控其違法，僅將其列為租屋額外費用；選項 D 無法從文中推論出該產業對法規管轄層級的偏好。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the fifth paragraph, what does the word 'regulate' mean in the phrase 'many businesses have been allowed to regulate themselves'?",
+      "question": "In the third paragraph, what does the phrase 'distorts the market' mean?",
       "options": {
-        "A": "To control or supervise their own activities and standards.",
-        "B": "To increase the prices of their products regularly.",
-        "C": "To provide customer service via telephone or email.",
-        "D": "To compete with other companies for new customers."
+        "A": "To make the market more efficient and profitable for everyone.",
+        "B": "To create a situation where companies compete based on product quality.",
+        "C": "To cause the market to function in an unnatural or unfair way due to hidden costs.",
+        "D": "To force all companies in the market to lower their prices simultaneously."
       },
-      "correct": "A",
-      "explanationZh": "正確答案是 A。在此語境下，「regulate themselves」意指企業自行制定規範與標準，而不受政府外部干預。作者認為這種「自我管理」的模式導致了欺騙性定價的歷史。選項 B、C、D 皆與「管理/規範」的定義無關，且在文中語境下無法解釋該行為如何導致欺騙性定價的問題。"
+      "correct": "C",
+      "explanationZh": "正確答案為 C。在文中，Samuel AA Levine 指出公司透過隱藏真實價格來競爭，而非透過提供更好的價值，這種行為「扭曲了市場」（distorts the market）。這意味著市場機制因為資訊不透明而無法正常運作，導致競爭變得不公平。選項 A 與 B 皆為正面描述，與扭曲市場的負面含義不符；選項 D 則過度解讀了該詞彙的意涵。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "What is the primary goal of New York City’s new initiative regarding subscriptions and fees?",
+      "question": "What is the primary message of the article regarding New York City's new consumer protection measures?",
       "options": {
-        "A": "To eliminate all recurring subscription services within the city limits.",
-        "B": "To increase tax revenue by imposing heavy fines on large corporations.",
-        "C": "To force companies to lower their prices to match national averages.",
-        "D": "To ensure market honesty by requiring companies to be transparent about total costs."
+        "A": "The city is primarily focused on banning all forms of online streaming services.",
+        "B": "The city is taking a leading, aggressive role in enforcing price transparency to stop deceptive corporate practices.",
+        "C": "The city's new rules are expected to fail because of resistance from the US Chamber of Commerce.",
+        "D": "The city is attempting to lower the overall cost of living by directly setting prices for all goods."
       },
-      "correct": "D",
-      "explanationZh": "正確答案是 D。文章多次提到紐約市的目標是停止欺騙性定價（deceptive pricing）與隱藏費用，並讓定價更加透明（transparent），讓消費者在簽約前清楚知道實際支付金額。選項 A 錯誤，目標是簡化取消流程而非禁止服務；選項 B 錯誤，罰款是手段而非目的；選項 C 錯誤，政府是要求「透明化」而非強制降價。"
+      "correct": "B",
+      "explanationZh": "正確答案為 B。全文的核心在於紐約市如何透過強制透明化（transparency）與嚴格執法，打擊企業隱藏費用與誘導性訂閱的惡劣行為，並試圖建立新的消費者保護標準。選項 A 錯誤，文章僅針對取消機制而非服務本身；選項 C 僅提到有阻力，未斷言會失敗；選項 D 錯誤，政府是要求標價透明，而非直接由政府制定所有商品的價格。"
     }
   ],
   "aiGenerated": true,
