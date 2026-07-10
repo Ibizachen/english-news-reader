@@ -1,0 +1,167 @@
+{
+  "id": "2026-07-10-eu-threatens-meta-over-addictive-design",
+  "slug": "eu-threatens-meta-over-addictive-design-jul-2026",
+  "publishedAt": "2026-07-10T22:14:17.038253Z",
+  "category": "technology",
+  "title": "EU Warns Meta Over 'Addictive' Social Media Design",
+  "subtitle": "Regulators demand changes to Facebook and Instagram to protect young users from compulsive habits.",
+  "summary": {
+    "en": "The European Union has accused Meta of using 'addictive' design features on Facebook and Instagram. Officials claim that tools like infinite scrolling and video autoplay encourage unhealthy habits, especially among children. If Meta does not make changes, it could face fines of up to 6% of its global annual income. Meta argues that it has already introduced strong safety measures, including new 'Teen Accounts.' The EU is currently considering stricter rules, including a possible social media ban for minors.",
+    "zh": "歐盟指控 Meta 在臉書與 Instagram 上使用具有「成癮性」的設計功能。官員聲稱，無限捲動與影片自動播放等工具會助長不健康的習慣，特別是在兒童族群中。若 Meta 不做出改變，可能面臨最高達其全球年度總營收 6% 的罰款。Meta 則主張該公司已導入強力的安全措施，包括新的「青少年帳號」。歐盟目前正在研擬更嚴格的規範，包括可能全面禁止未成年人使用社群媒體。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The European Union (EU) has issued a serious warning to Meta, the company that owns Facebook and Instagram. According to the European Commission, the design of these platforms is \"addictive\" and may harm the physical and mental health of users. This warning is part of a larger effort by the EU to force big technology companies to better protect their users, particularly children and teenagers.",
+      "zh": "歐盟（European Union）已對擁有臉書（Facebook）與 Instagram 的母公司 Meta 發出嚴正警告。根據歐盟執委會（European Commission）指出，這些平台的設計具有「成癮性」，可能會損害使用者的身心健康。這項警告是歐盟致力於強制大型科技公司加強保護使用者（特別是兒童與青少年）的一環。"
+    },
+    {
+      "id": "p2",
+      "en": "In its preliminary findings released on Friday, the European Commission identified several specific features that it believes cause problems. These include \"infinite scroll,\" which keeps loading new content as you move down the page, and videos that play automatically. The Commission stated that these features keep the brain in \"autopilot mode,\" which can lead to compulsive use—a situation where a person feels they cannot stop using the app. According to the BBC, the EU is particularly worried that these designs encourage young people to spend too much time on their phones, even late at night.",
+      "zh": "在週五發布的初步調查結果中，歐盟執委會點名了幾項被認為會造成問題的特定功能。其中包括當使用者向下捲動頁面時會不斷載入新內容的「無限捲動」，以及會自動播放的影片。執委會表示，這些功能會讓大腦處於「自動導航模式」，進而導致強迫性使用，即使用者會覺得自己無法停止使用該應用程式。根據英國廣播公司（BBC）報導，歐盟特別擔憂這些設計會誘使年輕人花太多時間在手機上，甚至到了深夜仍無法放下。"
+    },
+    {
+      "id": "p3",
+      "en": "Henna Virkkunen, the EU tech chief, stated that protecting the health of European citizens must be a priority for social media companies. The Commission argued that Meta has failed to properly assess the risks of its own designs. Furthermore, the EU criticized Meta’s current safety tools. It noted that time-management features are too easy for users to ignore, and parental controls are often too difficult for parents to understand or set up correctly. As reported by Ars Technica, the Commission suggested that Meta should turn off autoplay and infinite scroll by default and change its recommendation systems to be less focused on keeping users online for as long as possible.",
+      "zh": "歐盟科技事務負責人薇爾庫寧（Henna Virkkunen）表示，保護歐洲公民的健康必須是社群媒體公司的首要任務。執委會認為，Meta 未能妥善評估其自身設計所帶來的風險。此外，歐盟也批評了 Meta 目前的安全工具，指出時間管理功能太容易被使用者忽略，而家長監護設定對父母來說往往太過複雜，難以理解或正確設定。根據科技新聞網站 Ars Technica 報導，執委會建議 Meta 應預設關閉自動播放與無限捲動功能，並調整其推薦系統，減少以「盡可能讓使用者長時間在線」為目標的設計。"
+    },
+    {
+      "id": "p4",
+      "en": "Meta has strongly disagreed with these findings. A spokesperson for the company, Ben Walters, told reporters that the EU is ignoring the significant steps Meta has already taken to protect younger users. According to The Guardian, Meta recently introduced \"Teen Accounts.\" These accounts automatically limit screen time to 15 minutes a day and allow parents to block access to Instagram at night. Meta claims these features put parents in control and provide a safer experience for teens.",
+      "zh": "Meta 強烈反對這些調查結果。該公司發言人華特斯（Ben Walters）向記者表示，歐盟忽視了 Meta 為保護年輕使用者所採取的重大措施。根據《衛報》（The Guardian）報導，Meta 近期推出了「青少年帳號」（Teen Accounts）。這些帳號會自動將每日螢幕使用時間限制在 15 分鐘內，並允許家長在夜間封鎖 Instagram 的使用權限。Meta 聲稱這些功能讓家長擁有掌控權，並為青少年提供更安全的體驗。"
+    },
+    {
+      "id": "p5",
+      "en": "This investigation is part of the Digital Services Act, an EU law designed to protect internet users from harmful content and dangerous online practices. If Meta does not make the requested changes, it could face a very large fine. The potential penalty is up to 6% of the company's total global annual turnover, which is the total amount of money a company makes in a year. While these findings are not a final decision, they represent a major step in the EU’s ongoing legal battle with big tech firms.",
+      "zh": "這項調查是歐盟《數位服務法》（Digital Services Act）的一部分，該法旨在保護網路使用者免受有害內容與危險網路行為的侵害。如果 Meta 未能做出要求的調整，可能會面臨鉅額罰款。潛在罰金最高可達該公司全球年度總營收的 6%。雖然這些調查結果並非最終裁決，但這代表歐盟在與大型科技公司的法律戰中邁出了重要的一步。"
+    },
+    {
+      "id": "p6",
+      "en": "The timing of this warning is significant. The European Commission is currently preparing to receive recommendations from an expert panel regarding the safety of children online. There is growing pressure within the EU to take even stronger action. According to Deutsche Welle, at least 10 EU member states, including France, Italy, and Spain, are already discussing plans for a total social media ban for minors. This follows similar restrictions recently introduced in Australia.",
+      "zh": "這項警告發布的時間點相當關鍵。歐盟執委會目前正準備接收專家小組關於兒童網路安全的建議。歐盟內部要求採取更強硬行動的壓力日益增加。根據德國之聲（Deutsche Welle）報導，包括法國、義大利與西班牙在內，至少有 10 個歐盟成員國正在討論全面禁止未成年人使用社群媒體的計畫。在此之前，澳洲近期也實施了類似的限制措施。"
+    },
+    {
+      "id": "p7",
+      "en": "European Commission President Ursula von der Leyen has also expressed concerns about the influence of social media on young people. She has suggested that the focus should not be on whether children should have access to social media, but rather whether social media should have access to children. This perspective highlights a shift in how regulators view the responsibility of tech giants.",
+      "zh": "歐盟執委會主席馮德萊恩（Ursula von der Leyen）也對社群媒體對年輕人的影響表示擔憂。她建議，重點不應在於兒童是否應該接觸社群媒體，而是在於社群媒體是否應該接觸兒童。這種觀點凸顯了監管機構在看待科技巨頭責任時的轉變。"
+    },
+    {
+      "id": "p8",
+      "en": "For now, the situation remains in a period of review. Meta has the right to look at the evidence against it and provide a formal response to the European Commission. The company has stated that it will continue to work with regulators to provide safe experiences for teens. However, the message from Brussels is clear: if the design of these platforms does not change, the EU is prepared to use its legal power to enforce stricter rules. As the debate continues, the future of how young people interact with social media in Europe remains uncertain.",
+      "zh": "目前，情況仍處於審查階段。Meta 有權檢視針對該公司的證據，並向歐盟執委會提出正式回應。該公司表示將持續與監管機構合作，為青少年提供安全的體驗。然而，來自布魯塞爾的訊息很明確：如果這些平台的設計不改變，歐盟已準備好動用法律權力來強制執行更嚴格的規範。隨著辯論持續進行，歐洲年輕人未來與社群媒體互動的方式仍充滿變數。"
+    }
+  ],
+  "wordCount": 712,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "turnover",
+      "definitionEn": "The total amount of money a company receives from sales during a specific period.",
+      "definitionZh": "營業額；營收。",
+      "partOfSpeech": "noun",
+      "noteZh": "此詞在一般語境常指「人員流動率」，但在商業語境指營收。文中：The potential penalty is up to 6% of the company's total global annual turnover, which is the total amount of money a company makes in a year."
+    },
+    {
+      "term": "set up",
+      "definitionEn": "To prepare or arrange something so that it is ready to be used.",
+      "definitionZh": "設置；安裝；安排。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "此片語在文中指調整軟體或系統的設定。文中：and parental controls are often too difficult for parents to understand or set up correctly."
+    },
+    {
+      "term": "block",
+      "definitionEn": "To stop something from moving, passing, or being accessed.",
+      "definitionZh": "封鎖；阻擋。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（街區、積木），這裡作動詞用。文中：These accounts automatically limit screen time to 15 minutes a day and allow parents to block access to Instagram at night."
+    }
+  ],
+  "sources": [
+    {
+      "name": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss",
+      "title": "EU threatens Meta with fines over 'addictive' Facebook and Instagram",
+      "publishedAt": "2026-07-10T12:02:40Z"
+    },
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/2026/jul/10/eu-accuses-meta-failing-tackle-mental-health-risks-addictive-design",
+      "title": "EU accuses Meta of failing to tackle mental health risks of ‘addictive design’",
+      "publishedAt": "2026-07-10T11:38:29Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+      "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
+      "publishedAt": "2026-07-10T15:46:18Z"
+    },
+    {
+      "name": "Deutsche Welle (DW) Top",
+      "url": "https://www.dw.com/en/eu-threatens-meta-with-hefty-fine-over-addictive-design/a-77912229?maca=en-rss-en-top-1022-rdf",
+      "title": "EU threatens Meta with hefty fine over 'addictive design'",
+      "publishedAt": "2026-07-10T19:26:00Z"
+    }
+  ],
+  "story": {
+    "id": "eu-threatens-meta-over-addictive-design",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What specific consequence might Meta face if it fails to comply with the EU's demands regarding platform design?",
+      "options": {
+        "A": "A total ban on Facebook and Instagram across all EU member states.",
+        "B": "A financial penalty reaching up to 6% of its total global annual turnover.",
+        "C": "A mandatory requirement to remove all recommendation systems from its platforms.",
+        "D": "The immediate suspension of its European tech chief's professional license."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第五段，若 Meta 不進行調整，可能面臨高達全球年度總營收 6% 的罰款。選項 A 錯誤，因為目前僅提到部分國家討論禁令，而非歐盟對 Meta 的直接懲罰。選項 C 錯誤，因為歐盟建議的是改變系統而非完全移除。選項 D 文中並未提及。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, what is the underlying shift in the EU's regulatory perspective regarding children and social media?",
+      "options": {
+        "A": "The EU believes children should be completely banned from accessing all forms of digital technology.",
+        "B": "The EU is shifting the burden of responsibility from parents to the tech companies themselves.",
+        "C": "The EU is encouraging Meta to develop more complex parental control tools for better safety.",
+        "D": "The EU has concluded that Meta's 'Teen Accounts' are the most effective solution for child protection."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據第七段歐盟執委會主席 Ursula von der Leyen 的觀點，重點不在於兒童是否該使用社群媒體，而在於社群媒體是否該「接觸」兒童，這顯示監管權責已從家長轉向科技巨頭。選項 A 過於極端；選項 C 與文中批評家長控制工具太難用的觀點不符；選項 D 文中並未認定其為最有效的解決方案。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the second paragraph, what does the phrase 'autopilot mode' imply about user behavior on social media?",
+      "options": {
+        "A": "Users are actively managing their settings to save battery life.",
+        "B": "Users are consciously choosing to watch videos for entertainment.",
+        "C": "Users are engaging with content without active thought or control.",
+        "D": "Users are utilizing automated tools to filter out harmful information."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。「Autopilot mode」（自動導航模式）在此處比喻使用者在瀏覽時處於一種無意識、被動且無法停止的狀態，就像自動駕駛一樣不需要思考。選項 A 與電池無關；選項 B 與文中提到的「強迫性使用」（compulsive use）矛盾；選項 D 則完全扭曲了原文中關於成癮設計的負面意涵。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of this article regarding the conflict between the EU and Meta?",
+      "options": {
+        "A": "Meta is successfully proving that its new safety features satisfy all EU legal requirements.",
+        "B": "The EU is investigating Meta to ensure its platforms are more profitable for European businesses.",
+        "C": "The EU is pressuring Meta to redesign addictive platform features to protect users, especially minors.",
+        "D": "Meta and the EU are collaborating on a new law to ban social media use for people under 18."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。全文核心在於歐盟依據《數位服務法》，針對 Meta 平台設計（如無限捲動、自動播放）對使用者（特別是青少年）造成的成癮與健康危害進行調查並要求改善。選項 A 與事實相反，Meta 與歐盟仍處於爭議中；選項 B 與文章主旨無關；選項 D 錯誤，因為目前僅是部分國家討論禁令，而非歐盟與 Meta 的共同政策。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
