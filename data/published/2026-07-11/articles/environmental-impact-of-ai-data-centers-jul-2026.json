@@ -1,0 +1,151 @@
+{
+  "id": "2026-07-11-environmental-impact-of-ai-data-centers",
+  "slug": "environmental-impact-of-ai-data-centers-jul-2026",
+  "publishedAt": "2026-07-11T23:08:55.175142Z",
+  "category": "energy",
+  "title": "The Hidden Cost of AI: Tech Giants See Carbon Emissions Rise",
+  "subtitle": "As the demand for artificial intelligence grows, the energy needed to power data centers is making it harder for big tech companies to meet their climate goals.",
+  "summary": {
+    "en": "Major technology companies like Microsoft, Amazon, and Google have seen their carbon emissions rise significantly over the past year. This increase is largely due to the rapid construction of data centers needed to support artificial intelligence. Experts argue that these companies are struggling to balance their climate promises with the massive energy demands of new digital tools. While the companies maintain their long-term goals for net-zero emissions, the current data shows a move in the opposite direction. The situation highlights a growing tension between the expansion of AI and global environmental sustainability efforts.",
+    "zh": "微軟、亞馬遜與谷歌等大型科技公司在過去一年中，碳排放量顯著上升。此增長主要歸因於為支援人工智慧而快速興建的資料中心。專家認為，這些公司正努力在氣候承諾與新數位工具帶來的龐大能源需求之間取得平衡。儘管這些公司仍堅持其長期淨零排放的目標，但目前的數據顯示其發展方向正背道而馳。此情況凸顯了人工智慧擴張與全球環境永續發展努力之間日益加劇的緊張關係。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The world’s largest technology companies are facing a difficult challenge. Microsoft, Amazon, and Google have all reported a sharp rise in their carbon emissions over the past year. According to The Guardian, the collective emissions of these three companies increased by nearly twenty percent. This rise is largely linked to the massive amount of energy required to build and run data centers—the large buildings filled with computer servers that store data and power the internet.",
+      "zh": "全球最大的科技公司正面臨一項艱鉅的挑戰。微軟（Microsoft）、亞馬遜（Amazon）與谷歌（Google）皆報告指出，過去一年其碳排放量急劇上升。根據《衛報》（The Guardian）報導，這三家公司的總排放量增加了近百分之二十。此增長主要與建設及營運資料中心所需的大量能源有關，這些資料中心是存放電腦伺服器、儲存數據並支撐網際網路運作的大型建築物。"
+    },
+    {
+      "id": "p2",
+      "en": "In the financial year ending in March 2026, these three companies released 119 million metric tonnes of carbon dioxide equivalent. This amount is roughly equal to one-third of the total emissions produced by the entire country of France. This is a major change from previous years, when tech companies were working hard to lower their environmental impact. For example, Microsoft’s emissions had remained steady for two years before this recent jump. Now, the company reports that its emissions have increased by 25 percent, a change they say is driven primarily by the expansion of their data center infrastructure.",
+      "zh": "在截至二零二六年三月的財政年度中，這三家公司共排放了相當於一億一千九百萬公噸的二氧化碳。此數值約等於法國全國總排放量的三分之一。這與往年相比是一項重大轉變，過去科技公司曾致力於降低其對環境的影響。例如，微軟的排放量在近期激增前已連續兩年保持穩定。如今，該公司報告稱其排放量增加了百分之二十五，並表示此變化主要是由資料中心基礎設施的擴張所導致。"
+    },
+    {
+      "id": "p3",
+      "en": "This trend is directly connected to the global boom in artificial intelligence. As companies race to develop and train AI chatbots and other advanced digital tools, they need more computing power than ever before. To meet this demand, tech giants are spending hundreds of billions of dollars to build new data centers in locations ranging from Norway to North Tyneside. Shaolei Ren, a professor of electrical engineering at the University of California, Riverside, noted that the increase in carbon emissions is strongly linked to this heavy investment in AI.",
+      "zh": "此趨勢與全球人工智慧（AI）的熱潮直接相關。隨著各公司競相開發與訓練人工智慧聊天機器人及其他先進數位工具，它們對運算能力的需求比以往任何時候都更高。為了滿足此需求，科技巨頭正投入數千億美元，在從挪威到北泰恩賽德（North Tyneside）等各地興建新的資料中心。加州大學河濱分校（University of California, Riverside）電機工程學教授任紹雷（Shaolei Ren）指出，碳排放量的增加與這項對人工智慧的巨額投資有著強烈的關聯。"
+    },
+    {
+      "id": "p4",
+      "en": "Despite these rising numbers, the companies continue to state that they are committed to their long-term environmental goals. Amazon, which saw a 16 percent increase in total emissions, still describes its current work as making progress toward its goal of reaching net-zero emissions by 2040. Net-zero means that a company removes as much carbon from the atmosphere as it puts in. Google and Microsoft have set even earlier targets, aiming to reach net-zero by 2030. Google also pointed out that its AI systems are already helping to reduce emissions in other areas by finding more efficient ways to manage energy use.",
+      "zh": "儘管數據不斷攀升，這些公司仍持續聲明其致力於實現長期的環境目標。亞馬遜的總排放量增加了百分之十六，但仍稱其目前的努力正朝著二零四零年實現淨零排放的目標邁進。淨零排放意指公司從大氣中移除的碳量與其排放量相等。谷歌與微軟則設定了更早的目標，計畫於二零三零年實現淨零排放。谷歌也指出，其人工智慧系統已透過尋找更有效率的能源管理方式，協助其他領域減少排放。"
+    },
+    {
+      "id": "p5",
+      "en": "However, some experts are skeptical of these claims. Cecilia Rikap, an economics professor at University College London, suggests that the focus on AI as an environmental solution is a marketing strategy. She argues that as more businesses move their operations to the cloud—a system where data is stored on remote servers rather than local computers—they are simply passing their own carbon footprint onto the tech giants. By using these cloud services, other corporations can hide the true environmental cost of their own digital activities.",
+      "zh": "然而，部分專家對這些說法持懷疑態度。倫敦大學學院（University College London）經濟學教授塞西莉亞·里卡普（Cecilia Rikap）認為，將人工智慧視為環境解決方案只是一種行銷策略。她主張，隨著更多企業將業務轉移至雲端——即數據儲存在遠端伺服器而非本地電腦的系統——它們實際上只是將自身的碳足跡轉嫁給了科技巨頭。透過使用這些雲端服務，其他企業得以隱藏其數位活動背後的真實環境成本。"
+    },
+    {
+      "id": "p6",
+      "en": "Another issue is the difficulty of offsetting these emissions. Companies often use carbon credits, which are certificates that represent the removal or prevention of carbon dioxide from the atmosphere, to balance out their own pollution. However, Microsoft’s recent report suggests that there are fewer of these credits available on the global market than before. Professor Ren explained that there is a possible lack of supply in the carbon market to meet the high needs of these technology companies. This makes it even harder for them to reach their climate targets while their energy use continues to grow.",
+      "zh": "另一個問題是抵銷這些排放量的難度。公司經常使用碳權（carbon credits）來平衡自身的污染，這些憑證代表了從大氣中移除或防止二氧化碳排放的證明。然而，微軟近期的報告顯示，全球市場上可用的碳權比以往更少。任教授解釋，碳市場可能面臨供應不足的問題，難以滿足這些科技公司的高需求。這使得它們在能源使用持續增長的情況下，更難以達成氣候目標。"
+    },
+    {
+      "id": "p7",
+      "en": "As the demand for AI technology shows no signs of slowing down, the pressure on these companies to find sustainable energy sources will likely increase. The current situation creates a difficult question for the industry: can the growth of artificial intelligence continue at this speed without causing serious damage to the environment? For now, the data suggests that the rapid expansion of digital infrastructure is making the goal of a greener future much harder to achieve.",
+      "zh": "由於對人工智慧技術的需求絲毫沒有減緩的跡象，這些公司尋找永續能源的壓力可能會隨之增加。目前的局勢為該產業帶來了一個棘手的問題：人工智慧的發展能否在不對環境造成嚴重破壞的情況下，以這種速度持續下去？就目前而言，數據顯示數位基礎設施的快速擴張，正使得實現綠色未來的目標變得更加困難。"
+    }
+  ],
+  "wordCount": 682,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "run",
+      "definitionEn": "To operate or manage a machine, system, or business.",
+      "definitionZh": "運作、管理（機器或系統）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作「跑步」，這裡指運作電腦系統。文中：This rise is largely linked to the massive amount of energy required to build and run data centers—the large buildings filled with computer servers that store data and power the internet."
+    },
+    {
+      "term": "driven",
+      "definitionEn": "Caused or influenced by a particular factor.",
+      "definitionZh": "由……所驅動、促成。",
+      "partOfSpeech": "verb (past participle)",
+      "noteZh": "常見作「駕駛」，這裡指造成某種結果的原因。文中：Now, the company reports that its emissions have increased by 25 percent, a change they say is driven primarily by the expansion of their data center infrastructure."
+    },
+    {
+      "term": "passing",
+      "definitionEn": "To transfer a responsibility or burden to someone else.",
+      "definitionZh": "轉嫁、移交（責任或負擔）。",
+      "partOfSpeech": "verb (present participle)",
+      "noteZh": "常見作「經過」或「傳遞」，這裡指將碳排放責任轉嫁給他人。文中：She argues that as more businesses move their operations to the cloud—a system where data is stored on remote servers rather than local computers—they are simply passing their own carbon footprint onto the tech giants."
+    },
+    {
+      "term": "balance out",
+      "definitionEn": "To make things equal or compensate for something.",
+      "definitionZh": "抵銷、平衡。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "由動詞與介系詞組成，意思非字面相加。文中：Companies often use carbon credits, which are certificates that represent the removal or prevention of carbon dioxide from the atmosphere, to balance out their own pollution."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Environment",
+      "url": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
+      "title": "Datacentres drive up big tech’s carbon emissions to a third of those of France",
+      "publishedAt": "2026-07-11T11:00:49Z"
+    }
+  ],
+  "story": {
+    "id": "environmental-impact-of-ai-data-centers",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is the primary reason for the recent increase in carbon emissions for Microsoft?",
+      "options": {
+        "A": "A decline in the availability of carbon credits on the global market.",
+        "B": "The expansion of their data center infrastructure.",
+        "C": "The failure of their AI systems to manage energy efficiently.",
+        "D": "A shift in operations from local computers to the cloud by other businesses."
+      },
+      "correct": "B",
+      "explanationZh": "根據文章第二段，微軟明確表示其碳排放量增加了 25%，而這項變化的主要驅動力是「數據中心基礎設施的擴張」（expansion of their data center infrastructure）。選項 A 是第六段提到的問題，但非微軟排放增加的主因；選項 C 與文章內容相反，因為 Google 反而認為 AI 有助於節能；選項 D 是 Cecilia Rikap 提出的觀點，與微軟自身的直接排放原因不同。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the relationship between AI development and environmental goals?",
+      "options": {
+        "A": "AI development is currently helping tech companies reach their net-zero targets ahead of schedule.",
+        "B": "Tech companies have decided to stop building new data centers to prioritize the environment.",
+        "C": "The rapid growth of AI creates a conflict that makes reaching net-zero targets more challenging.",
+        "D": "Carbon credits are the most effective way for tech companies to offset the energy used by AI."
+      },
+      "correct": "C",
+      "explanationZh": "根據文章最後一段，AI 需求的成長沒有放緩跡象，且數據顯示數位基礎設施的快速擴張使得綠色未來的目標變得更難達成。這暗示了 AI 的發展與環保目標之間存在嚴重的衝突。選項 A 與文意不符；選項 B 文章未提及停止建設；選項 D 文章提到碳權供應不足，並未稱其為最有效的方法。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fifth paragraph, what does the word 'skeptical' mean as used in the context of the experts' views?",
+      "options": {
+        "A": "Doubtful or questioning the truth of a claim.",
+        "B": "Highly supportive and enthusiastic.",
+        "C": "Confused by the complexity of the information.",
+        "D": "Unaware of the current environmental situation."
+      },
+      "correct": "A",
+      "explanationZh": "在第五段中，專家 Cecilia Rikap 對科技公司將 AI 視為環保解決方案的說法持保留態度，並認為這只是一種行銷策略。因此，'skeptical' 在此處意指「懷疑的」或「對某事真實性存疑的」。選項 B 與其立場相反；選項 C 雖然表示不確定，但文中專家是有明確立場的批評，而非感到困惑；選項 D 則完全錯誤，專家顯然非常了解狀況。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of this article?",
+      "options": {
+        "A": "Tech companies are successfully using AI to solve the global climate crisis.",
+        "B": "The rapid expansion of AI infrastructure is significantly increasing carbon emissions, complicating environmental goals.",
+        "C": "Carbon credits are the only viable solution for tech giants to manage their environmental impact.",
+        "D": "Microsoft, Amazon, and Google are currently the only companies contributing to global warming."
+      },
+      "correct": "B",
+      "explanationZh": "本文的核心主旨在於探討 AI 科技的蓬勃發展如何帶動數據中心的需求，進而導致碳排放量激增，使得科技巨頭難以達成其設定的環保目標。選項 A 與文章論點相反；選項 C 過度誇大，文章僅提到碳權是選項之一且面臨供應不足；選項 D 錯誤，文中並未指稱只有這三家公司造成全球暖化，僅是以它們為例。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
