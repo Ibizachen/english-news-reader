@@ -1,0 +1,149 @@
+{
+  "id": "2026-07-12-software-engineers-adapting-to-ai-revolution",
+  "slug": "software-engineers-adapting-to-ai-revolution-jul-2026",
+  "publishedAt": "2026-07-12T22:14:08.663800Z",
+  "category": "technology",
+  "title": "The Changing World of Software Engineering in the Age of AI",
+  "subtitle": "As artificial intelligence takes over the task of writing code, software engineers are finding new ways to stay valuable in a shifting job market.",
+  "summary": {
+    "en": "Software engineers are facing major changes as artificial intelligence begins to write most computer code. Many professionals feel anxious about their job security and the future of their careers. While coding skills were once the most important part of the job, the ability to manage AI tools is now becoming essential. Industry experts suggest that the role of an engineer is moving toward system design and problem solving. Workers are now looking for new ways to adapt, including learning new skills and seeking better protections.",
+    "zh": "隨著人工智慧開始撰寫大部分的電腦程式碼，軟體工程師正面臨重大變革。許多專業人士對工作保障及職涯未來感到焦慮。雖然程式編寫技能曾是該職位最重要的部分，但管理人工智慧工具的能力如今變得至關重要。產業專家認為，工程師的角色正朝向系統設計與問題解決發展。從業人員目前正尋求各種適應方式，包括學習新技能以及爭取更好的工作保障。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "For many years, being a software engineer was seen as a safe and high-paying career path. It offered stability and the chance to earn a salary much higher than the national average. However, the rise of artificial intelligence (AI) is changing this profession faster than many workers expected. Today, engineers are facing a new reality where the value of their traditional skills is being questioned.",
+      "zh": "多年來，軟體工程師一直被視為一條安全且高薪的職涯道路。它提供了穩定性，以及賺取遠高於全國平均薪資的機會。然而，人工智慧（AI）的興起正以比許多從業人員預期更快的速度改變這個行業。如今，工程師們面臨著一個新的現實，即他們傳統技能的價值正受到質疑。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Guardian, the change is significant. At companies like Google, AI now writes 75% of all code. This shift has left many experienced workers feeling frustrated and worried about their future. One engineer, who asked to be called Matt to protect his job, explained that his daily work has moved away from writing code himself. Instead, he spends his time reviewing code created by AI. Matt worries that this change will make his own skills weaker over time, so he tries to practice writing code on his own during his long train commute.",
+      "zh": "根據《衛報》（The Guardian）報導，這種轉變相當顯著。在 Google 等公司，人工智慧目前已撰寫了所有程式碼的百分之七十五。這種轉變讓許多經驗豐富的員工感到挫折，並對未來感到擔憂。一位為了保住工作而要求化名為麥特（Matt）的工程師解釋說，他的日常工作已不再是親自撰寫程式碼，而是將時間花在審核由人工智慧生成的程式碼上。麥特擔心這種改變會隨著時間推移削弱他自己的能力，因此他試著在漫長的火車通勤途中練習獨自撰寫程式碼。"
+    },
+    {
+      "id": "p3",
+      "en": "Data shows that the tech industry is going through a difficult period. According to Layoff.fyi, more than 600,000 tech workers in the United States have lost their jobs since the release of ChatGPT in 2022. Furthermore, the New York Fed reports that the unemployment rate for recent computer science graduates rose to 7% in 2024. Job postings on the website Indeed also fell by 36% between 2020 and 2025. These numbers highlight the challenges that both new and experienced workers are currently facing.",
+      "zh": "數據顯示，科技業正經歷一段困難時期。根據 Layoff.fyi 的統計，自從 2022 年 ChatGPT 發布以來，美國已有超過 60 萬名科技業員工失業。此外，紐約聯邦準備銀行（New York Fed）報告指出，2024 年應屆電腦科學畢業生的失業率已升至百分之七。求職網站 Indeed 上的職缺數量在 2020 年至 2025 年間也下降了百分之三十六。這些數字凸顯了新進人員與資深員工目前所面臨的挑戰。"
+    },
+    {
+      "id": "p4",
+      "en": "Despite these challenges, experts believe the profession is not disappearing; it is simply changing. Bouke Klein Teeselink, an assistant professor of economics at King’s College London, told The Guardian that the traditional skill of writing code by hand may be becoming less important. Instead, success now depends on how well an engineer can use AI to do their work. He noted that AI is changing what it means to be a software engineer, and workers must adapt to this new way of operating.",
+      "zh": "儘管面臨這些挑戰，專家認為這個職業並未消失，只是正在轉型。倫敦國王學院（King’s College London）經濟學助理教授克萊恩．提塞林克（Bouke Klein Teeselink）告訴《衛報》，手寫程式碼這項傳統技能的重要性可能正在降低。相反地，成功與否現在取決於工程師運用人工智慧完成工作的能力。他指出，人工智慧正在重新定義軟體工程師的職責，從業人員必須適應這種新的運作方式。"
+    },
+    {
+      "id": "p5",
+      "en": "Ethan Mollick, an associate professor at the University of Pennsylvania’s Wharton School, agrees that the focus of the job is shifting. He explained that the goal is no longer about who can write the most lines of code. Instead, the most important tasks now involve defining problems, designing complex systems, and directing AI tools to perform the work correctly. By focusing on these higher-level tasks, engineers can continue to provide value to their companies.",
+      "zh": "賓州大學華頓商學院（Wharton School）副教授莫利克（Ethan Mollick）也認同工作的重心正在轉移。他解釋說，目標不再是誰能寫出最多的程式碼行數，最重要的任務現在在於定義問題、設計複雜的系統，並指導人工智慧工具正確執行工作。透過專注於這些高階任務，工程師可以持續為公司創造價值。"
+    },
+    {
+      "id": "p6",
+      "en": "In response to these changes, many engineers are taking action. Some are working hard to improve their fundamental skills, while others are learning entirely new technologies to stay relevant in the job market. There is also a growing interest in collective action, where workers come together to ask for better job protections and support. Some people are even considering leaving the tech industry entirely if they feel they can no longer find the security they once enjoyed.",
+      "zh": "為了應對這些變化，許多工程師正採取行動。有些人努力精進基礎技能，另一些人則學習全新的技術以在就業市場中保持競爭力。此外，集體行動的呼聲也日益高漲，員工們團結起來爭取更好的工作保障與支持。如果覺得無法再找到過去那種安穩感，有些人甚至考慮完全離開科技業。"
+    },
+    {
+      "id": "p7",
+      "en": "Looking ahead, it is clear that the role of the software engineer will continue to evolve. While the future of the industry remains uncertain, the ability to evaluate and manage AI-generated work is becoming a key requirement. For those who can successfully transition from being \"code writers\" to \"system directors,\" there may still be a strong future in the field. However, for many, the transition requires a difficult adjustment period as they learn to balance human expertise with the speed and power of new technology.",
+      "zh": "展望未來，軟體工程師的角色顯然將持續演變。雖然產業前景仍不明朗，但評估與管理人工智慧生成成果的能力正成為一項關鍵要求。對於那些能成功從「程式碼撰寫者」轉型為「系統指導者」的人來說，該領域或許仍有廣闊的未來。然而，對許多人而言，這種轉型需要一段艱難的適應期，因為他們必須學習在人類專業知識與新科技的強大速度之間取得平衡。"
+    },
+    {
+      "id": "p8",
+      "en": "Ultimately, the story of software engineering today is one of adaptation. As AI becomes a standard tool in the workplace, professionals must decide how to keep their skills sharp while embracing the new tools available to them. Whether through learning new systems or pushing for better workplace policies, engineers are working to ensure that their expertise remains a vital part of the modern digital world.",
+      "zh": "歸根究底，今日軟體工程的故事就是一個關於適應的故事。隨著人工智慧成為職場的標準工具，專業人士必須決定如何在擁抱新工具的同時，保持自身技能的敏銳度。無論是透過學習新系統還是推動更好的職場政策，工程師們正努力確保他們的專業知識，依然是現代數位世界中不可或缺的一部分。"
+    }
+  ],
+  "wordCount": 709,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "shift",
+      "definitionEn": "A change in position, direction, or tendency.",
+      "definitionZh": "轉變、變動。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（移動），這裡作名詞用。文中：This shift has left many experienced workers feeling frustrated and worried about their future."
+    },
+    {
+      "term": "relevant",
+      "definitionEn": "Closely connected or appropriate to the matter at hand; in this context, still useful or valuable in the job market.",
+      "definitionZh": "有關聯的；在此語境下指「仍有價值」、「不被淘汰」。",
+      "partOfSpeech": "adjective",
+      "noteZh": "容易誤以為只是「相關的」，但這裡強調在職場競爭中保持競爭力。文中：Some are working hard to improve their fundamental skills, while others are learning entirely new technologies to stay relevant in the job market."
+    },
+    {
+      "term": "sharp",
+      "definitionEn": "In this context, mentally alert, skillful, or effective.",
+      "definitionZh": "敏銳的；在此指技能保持熟練、不生疏。",
+      "partOfSpeech": "adjective",
+      "noteZh": "常見作形容詞（尖銳的），這裡用來形容技能保持高水準。文中：As AI becomes a standard tool in the workplace, professionals must decide how to keep their skills sharp while embracing the new tools available to them."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai",
+      "title": "Chasing new skills, going back to basics and pushing for collective action: how software engineers are adapting to AI",
+      "publishedAt": "2026-07-12T10:00:15Z"
+    }
+  ],
+  "story": {
+    "id": "software-engineers-adapting-to-ai-revolution",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is one specific action Matt takes to address his concerns about the impact of AI on his career?",
+      "options": {
+        "A": "He is applying for jobs at companies that do not use AI.",
+        "B": "He practices coding independently while traveling on the train.",
+        "C": "He is enrolling in university courses to learn new AI technologies.",
+        "D": "He is leading a collective action group to demand better job security."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，Matt 擔心 AI 導致他的程式撰寫技能退化，因此他利用長途通勤的時間自行練習寫程式。選項 A 與文章內容不符，文中並未提到他要轉職到不使用 AI 的公司。選項 C 中提到的進修課程並非 Matt 採取的行動。選項 D 雖然提到集體行動是工程師們的應對方式之一，但文章並未指出這是 Matt 個人的具體行動。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the future of software engineering based on the perspectives of experts like Bouke Klein Teeselink and Ethan Mollick?",
+      "options": {
+        "A": "The demand for software engineers will likely disappear completely.",
+        "B": "Engineers will no longer need to understand how to write any code at all.",
+        "C": "The value of an engineer will shift from manual coding to managing AI systems.",
+        "D": "The tech industry will return to traditional methods to ensure higher quality."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第四段與第五段，專家們一致認為軟體工程師的角色正在轉型，從單純的「寫程式」轉向「定義問題」與「指導 AI 工具」。這暗示了工程師的價值核心已改變。選項 A 與文章觀點矛盾，文中強調的是轉型而非消失。選項 B 過於極端，文中提到的是手寫程式的重要性降低，而非完全不需要理解程式。選項 D 則與文章提到的「適應新科技」趨勢完全相反。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the author mean by the phrase 'keep their skills sharp'?",
+      "options": {
+        "A": "To maintain and improve their professional abilities.",
+        "B": "To make their code more precise and less prone to errors.",
+        "C": "To cut ties with outdated technologies quickly.",
+        "D": "To focus only on the most difficult and complex tasks."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在文中，「keep their skills sharp」意指保持技能的敏銳度與競爭力，即持續精進專業能力。選項 B 雖然提到「精準」，但這並非該慣用語在職場語境下的核心意義。選項 C 的解釋與「sharp」一詞的意涵無關。選項 D 則過度解讀，文中並未限制工程師只能處理困難任務，而是強調整體技能的維持與更新。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "Which of the following best summarizes the central message of the article?",
+      "options": {
+        "A": "The rise of AI has caused a permanent decline in the tech industry's profitability.",
+        "B": "Software engineers must adapt to AI by shifting their focus from manual coding to system direction.",
+        "C": "Most software engineers are choosing to leave the industry due to the fear of job loss.",
+        "D": "AI tools are currently unable to produce high-quality code without human intervention."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。本文的主旨在於探討 AI 如何改變軟體工程師的職業型態，並強調工程師必須透過適應新工具（如轉型為系統指導者）來維持自身價值。選項 A 錯誤，文章討論的是職位轉型而非產業獲利能力。選項 C 錯誤，文中提到有人考慮離開，但並非「大多數」工程師的選擇。選項 D 與文章開頭提到的「AI 現在能撰寫 75% 的程式碼」事實相違背。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
