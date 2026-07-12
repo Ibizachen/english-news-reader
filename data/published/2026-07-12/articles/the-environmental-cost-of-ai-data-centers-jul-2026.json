@@ -1,0 +1,172 @@
+{
+  "id": "2026-07-12-the-environmental-cost-of-ai-data-centers",
+  "slug": "the-environmental-cost-of-ai-data-centers-jul-2026",
+  "publishedAt": "2026-07-12T23:07:59.190036Z",
+  "category": "energy",
+  "title": "The Physical Cost of AI: Communities Fight Back Against Data Centers",
+  "subtitle": "As tech giants race to build massive AI facilities, local residents are pushing back against the strain on their energy and water supplies.",
+  "summary": {
+    "en": "The rapid growth of artificial intelligence is leading to a massive increase in the construction of energy-intensive data centers. These facilities require huge amounts of electricity and water, placing significant strain on local power grids. Communities across the United States and beyond are now organizing to block or delay these projects. Recent investigations reveal that some tech companies have misrepresented their environmental impact and sustainability plans. As these projects face more scrutiny, the future of the AI boom depends on how companies address these physical and environmental challenges.",
+    "zh": "人工智慧的快速成長導致能源密集型資料中心的興建數量大幅增加。這些設施需要消耗龐大的電力與水資源，對當地電網造成顯著壓力。美國及其他地區的社區目前正組織起來，試圖阻撓或延宕這些開發案。近期調查顯示，部分科技公司在環境影響與永續發展計畫上存在誤導。隨著這些計畫面臨更多審視，人工智慧熱潮的未來取決於企業如何解決這些物理與環境挑戰。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The rapid rise of artificial intelligence is changing the world, but it is also leaving a heavy mark on the physical environment. As reported in our previous coverage, major technology companies are seeing their carbon emissions rise as they build more data centers—large buildings filled with computers that store data and power AI services. While these facilities are essential for the AI boom, they are now facing a wave of opposition from local communities concerned about their impact on the planet and daily life.",
+      "zh": "人工智慧的快速崛起正在改變世界，但也對實體環境留下了沉重的負擔。正如我們之前的報導所述，大型科技公司在興建更多資料中心時，碳排放量正隨之攀升；這些巨大的建築物內裝滿了儲存資料並驅動人工智慧服務的電腦。雖然這些設施對於人工智慧的蓬勃發展至關重要，但它們現在正面臨來自當地社區的一波反對浪潮，居民們擔憂這些設施對地球環境及日常生活造成的影響。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Verge, the fight against these projects is spreading across the United States. Residents are flooding town halls to express worries about rising energy costs, noise, light pollution, and the impact on local water quality. The scale of this opposition is significant. A study from Data Center Watch indicates that the number of active protest groups more than doubled between the end of 2025 and the first three months of 2026. During that same period, protesters successfully blocked or delayed at least 75 projects across the country.",
+      "zh": "根據科技新聞網站「邊緣」（The Verge）報導，針對這些開發案的抗爭正席捲全美。居民們湧入市政廳，表達對能源成本上漲、噪音、光害以及當地水質影響的擔憂。這股反對聲浪規模龐大，根據「資料中心觀察」（Data Center Watch）的一項研究顯示，從二零二五年底到二零二六年第一季，活躍的抗議團體數量增加了一倍以上。在同一時期，抗議者成功阻撓或延宕了全國至少七十五個開發案。"
+    },
+    {
+      "id": "p3",
+      "en": "This trend is not entirely new. Years before the current AI boom, Apple faced a lengthy legal battle in Ireland after announcing plans for a large data center in the town of Athenry. Although the company promised to use renewable energy and provide community benefits, local residents raised concerns about noise, traffic, and the impact on wildlife. After years of legal challenges and uncertainty, Apple eventually canceled the project in 2018. This early case set the stage for the challenges tech companies face today as they try to build massive infrastructure in local neighborhoods.",
+      "zh": "這種趨勢並非全然新鮮事。早在當前的人工智慧熱潮之前，蘋果公司（Apple）在宣布於愛爾蘭阿森里鎮（Athenry）興建大型資料中心的計畫後，就面臨了一場漫長的法律訴訟。儘管該公司承諾使用再生能源並提供社區福利，當地居民仍對噪音、交通以及對野生動物的影響提出疑慮。經過多年的法律挑戰與不確定性，蘋果最終在二零一八年取消了該計畫。這起早期案例為今日科技公司在當地社區試圖興建大型基礎設施時所面臨的挑戰，奠定了先例。"
+    },
+    {
+      "id": "p4",
+      "en": "The Guardian reports that tech journalists are now spending more time in the physical world to investigate these claims. Reporters have been visiting sites in Scotland, London, and Wales to see if the promises made by tech companies match the reality on the ground. In one recent investigation, The Guardian found that an expensive AI complex in rural Scotland had misrepresented its plans to use only on-site renewable energy. This kind of \"shoe-leather reporting\"—a term for doing on-the-ground research—is becoming essential as the industry expands.",
+      "zh": "英國「衛報」（The Guardian）報導指出，科技記者現在花費更多時間深入實地調查這些說法。記者們親自走訪蘇格蘭、倫敦與威爾斯等地，以確認科技公司所做的承諾是否與現場實況相符。在近期的一項調查中，衛報發現蘇格蘭鄉間一座昂貴的人工智慧園區，在宣稱僅使用現場再生能源的計畫上存在誤導。這種透過實地走訪進行調查的報導方式，隨著產業擴張正變得愈發重要。"
+    },
+    {
+      "id": "p5",
+      "en": "There are several reasons for this growing tension. First, the energy demand is massive. The US Energy Information Administration reports that commercial energy demand is expected to surpass residential demand this year, largely because of the AI data center buildout. This demand is predicted to double by 2027. Second, these facilities are some of the most complex structures ever built. As Blake Montgomery, the US tech editor for The Guardian, noted, these buildings are massive and change the landscape of the areas where they are placed. This physical presence creates a \"sensory assault\" for nearby residents, who must deal with constant noise and light.",
+      "zh": "這種緊張局勢加劇的原因有幾點。首先，能源需求極為龐大。美國能源資訊管理局（EIA）指出，由於人工智慧資料中心的擴建，預計今年商業能源需求將超越住宅能源需求，且該需求預計在二零二七年翻倍。其次，這些設施是人類建造過最複雜的結構之一。正如衛報美國科技編輯蒙哥馬利（Blake Montgomery）所言，這些建築物體積龐大，改變了所在地區的地貌。這種實體存在對附近居民造成了「感官衝擊」，他們必須忍受持續不斷的噪音與光線。"
+    },
+    {
+      "id": "p6",
+      "en": "Tech companies often claim that their data centers will be sustainable, but experts are questioning these commitments. The Guardian noted that it is not as simple as \"waving a magic wand\" to make a data center environmentally friendly. There are real constraints, such as the limited capacity of local electricity grids and the need for vast amounts of water to keep computer servers cool. When these physical limits are ignored, it can lead to problems for the surrounding community.",
+      "zh": "科技公司常宣稱其資料中心將具備永續性，但專家們對這些承諾抱持懷疑。衛報指出，要讓資料中心變得環保，並非像「揮動魔杖」那樣簡單。現實中存在諸多限制，例如當地電網容量有限，以及需要消耗大量水資源來冷卻電腦伺服器。當這些物理限制被忽視時，便會對周邊社區造成問題。"
+    },
+    {
+      "id": "p7",
+      "en": "Looking ahead, the future of the AI industry may depend on how companies handle these physical reality checks. Tech companies are finding that they cannot simply build wherever they want without considering the needs of local people. As more communities organize, the ability of tech giants to complete these massive projects will likely face even more hurdles. Whether it is through legal action, petitions, or public protests, residents are making it clear that they expect transparency and accountability from the companies that want to build in their backyards. For now, the \"AI boom\" is being tested by the very real, physical limits of the world we live in.",
+      "zh": "展望未來，人工智慧產業的前景可能取決於企業如何處理這些實體現實的考驗。科技公司正發現，他們不能在不考慮當地居民需求的情況下，隨意在任何地方進行建設。隨著更多社區組織起來，科技巨頭完成這些大型計畫的能力，很可能會面臨更多阻礙。無論是透過法律行動、連署還是公開抗議，居民們都明確表示，他們要求那些想在自家後院進行開發的企業必須具備透明度與當責性。目前，「人工智慧熱潮」正受到我們所處世界中極為真實且具體的物理限制所考驗。"
+    }
+  ],
+  "wordCount": 712,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "mark",
+      "definitionEn": "A visible impression or effect left on something.",
+      "definitionZh": "痕跡、影響。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（標記），這裡作名詞，指環境受到的負面影響。文中：but it is also leaving a heavy mark on the physical environment."
+    },
+    {
+      "term": "flooding",
+      "definitionEn": "Arriving or appearing in large numbers or amounts.",
+      "definitionZh": "大量湧入、蜂擁而至。",
+      "partOfSpeech": "verb (present participle)",
+      "noteZh": "常見作名詞（洪水），這裡形容居民大量湧入會議廳。文中：Residents are flooding town halls to express worries about rising energy costs, noise, light pollution, and the impact on local water quality."
+    },
+    {
+      "term": "set the stage",
+      "definitionEn": "To prepare the conditions for something to happen later.",
+      "definitionZh": "為某事鋪路、預作準備。",
+      "partOfSpeech": "idiom",
+      "noteZh": "字面意思是「佈置舞台」，這裡指早期的案例為後來的挑戰奠定了基礎。文中：This early case set the stage for the challenges tech companies face today as they try to build massive infrastructure in local neighborhoods."
+    },
+    {
+      "term": "reality checks",
+      "definitionEn": "An occasion when you look at the facts of a situation to see if it is as good as you thought.",
+      "definitionZh": "認清現實、面對現實的考驗。",
+      "partOfSpeech": "noun (plural)",
+      "noteZh": "由 reality 和 check 組成，指科技公司必須面對現實的限制。文中：The future of the AI industry may depend on how companies handle these physical reality checks."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "title": "The fight against AI data centers is just beginning",
+      "publishedAt": "2026-07-12T12:00:00Z"
+    },
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/membership/2026/jul/12/tech-reporting-physical-world-ai-revolution-datacentres",
+      "title": "‘These are some of the most complex structures ever created’: how tech reporting moved into the physical world",
+      "publishedAt": "2026-07-12T14:00:19Z"
+    }
+  ],
+  "story": {
+    "id": "environmental-impact-of-ai-data-centers",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "environmental-impact-of-ai-data-centers-jul-2026",
+        "title": "The Hidden Cost of AI: Tech Giants See Carbon Emissions Rise",
+        "publishedAt": "2026-07-11T23:08:55.175142Z",
+        "category": "energy",
+        "summaryEn": "Major technology companies like Microsoft, Amazon, and Google have seen their carbon emissions rise significantly over the past year. This increase is largely due to the rapid construction of data centers needed to support artificial intelligence. Experts argue that these companies are struggling to balance their climate promises with the massive energy demands of new digital tools. While the companies maintain their long-term goals for net-zero emissions, the current data shows a move in the opposite direction. The situation highlights a growing tension between the expansion of AI and global environmental sustainability efforts."
+      },
+      {
+        "slug": "environmental-impact-of-ai-data-centers-jul-2026",
+        "title": "The Growing Battle Over AI Data Centers",
+        "publishedAt": "2026-07-09T23:35:25.223128Z",
+        "category": "energy",
+        "summaryEn": "The rapid growth of artificial intelligence is leading to a massive increase in the construction of energy-intensive data centers. These facilities require huge amounts of electricity and water, placing significant strain on local power grids. Communities are increasingly opposing these projects due to concerns about resource use and high energy prices. While some local protests have been successful, well-funded tech companies often find ways to move forward with their plans. Experts argue that these local battles may distract from larger concerns about the influence of AI companies."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what happened to the Apple data center project in Athenry?",
+      "options": {
+        "A": "It was successfully completed after Apple promised to use only renewable energy.",
+        "B": "It was abandoned by Apple in 2018 following years of legal disputes and community opposition.",
+        "C": "It was relocated to a different site in Ireland to avoid further noise and traffic complaints.",
+        "D": "It was delayed until 2026, when local protest groups finally allowed construction to begin."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第三段明確指出，Apple 在愛爾蘭 Athenry 的數據中心計畫因當地居民對噪音、交通及野生動物影響的擔憂，經歷了長期的法律訴訟，最終在 2018 年取消。選項 A 錯誤，因為該項目並未完成；選項 C 錯誤，文中未提到遷移地點；選項 D 錯誤，該項目是被取消而非延遲到 2026 年。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the relationship between AI expansion and local energy grids?",
+      "options": {
+        "A": "Local grids are currently underutilized and can easily support the new AI infrastructure.",
+        "B": "AI companies have developed new technology to make electricity grids more efficient.",
+        "C": "The rapid growth of AI data centers is putting significant pressure on existing power supplies.",
+        "D": "Residential energy demand is decreasing, which allows AI companies to use the surplus power."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第五段與第六段，商業能源需求預計將超過住宅需求，且數據中心面臨電力網容量有限的限制，這些都暗示了 AI 擴張正對電力基礎設施造成巨大壓力。選項 A 與事實相反；選項 B 文中未提及；選項 D 錯誤，文中提到的是商業需求激增，而非住宅需求減少。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fourth paragraph, what does the author mean by the term 'shoe-leather reporting'?",
+      "options": {
+        "A": "Conducting investigative journalism by visiting physical locations to verify facts.",
+        "B": "Writing reports about the manufacturing of footwear and clothing in rural areas.",
+        "C": "Using digital tools to track the carbon footprint of major technology companies.",
+        "D": "Relying on official press releases provided by tech companies to save time."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。文中括號內解釋了該術語意指「doing on-the-ground research」（進行實地調查），這與記者親自前往蘇格蘭、倫敦等地查證企業承諾的行為相符。選項 B 是對字面的錯誤解讀；選項 C 與 D 則與文中描述的實地查核工作性質完全相反。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of this article regarding the AI boom?",
+      "options": {
+        "A": "AI technology is the most environmentally friendly innovation of the 21st century.",
+        "B": "Local communities are unfairly blocking technological progress for personal gain.",
+        "C": "The growth of AI is facing significant resistance due to its tangible impact on local environments and resources.",
+        "D": "Tech companies have successfully solved the energy and water consumption issues associated with AI."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。本文主旨探討 AI 產業擴張帶來的環境代價，以及這些代價如何引發社區抗爭與法律挑戰，強調了 AI 發展受到「物理限制」的制約。選項 A 與文意不符；選項 B 過於主觀且未涵蓋環境因素；選項 D 與文中提到企業承諾常被質疑且面臨資源限制的內容矛盾。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
