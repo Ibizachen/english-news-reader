@@ -1,0 +1,37 @@
+{
+  "id": "food-insecurity-climate-resilience",
+  "title": "The Global Food Crisis: Climate, Conflict, and Resilience",
+  "subtitle": "An in-depth look at how climate change is reshaping global food security and the efforts to build a more sustainable future.",
+  "description": "This series examines the complex interplay between environmental instability and global food systems. Readers will explore the systemic causes of hunger and the innovative strategies being deployed to secure the world's food supply.",
+  "category": "society",
+  "status": "active",
+  "updatedAt": "2026-07-13T04:31:07.733773Z",
+  "cadence": "5-part reading path. Complete series available.",
+  "articles": [
+    {
+      "slug": "food-insecurity-climate-resilience-part-1",
+      "label": "Part 1",
+      "note": "Explaining the convergence of climate change, supply chain disruptions, and population growth as the primary drivers of food insecurity."
+    },
+    {
+      "slug": "food-insecurity-climate-resilience-part-2",
+      "label": "Part 2",
+      "note": "Identifying the roles of international organizations, major agricultural exporters, and smallholder farmers in the food security equation."
+    },
+    {
+      "slug": "food-insecurity-climate-resilience-part-3",
+      "label": "Part 3",
+      "note": "Analyzing how recent events like the war in Ukraine and record-breaking heatwaves have acted as catalysts for food price volatility."
+    },
+    {
+      "slug": "food-insecurity-climate-resilience-part-4",
+      "label": "Part 4",
+      "note": "Examining the real-world impact of food insecurity on health, migration, and local economies, including perspectives from Taiwan."
+    },
+    {
+      "slug": "food-insecurity-climate-resilience-part-5",
+      "label": "Part 5",
+      "note": "Exploring technological innovations, policy shifts, and regenerative agriculture as paths forward."
+    }
+  ]
+}

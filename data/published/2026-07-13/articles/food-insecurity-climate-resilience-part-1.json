@@ -1,0 +1,195 @@
+{
+  "id": "series-food-insecurity-climate-resilience-part-1",
+  "slug": "food-insecurity-climate-resilience-part-1",
+  "publishedAt": "2026-07-13T04:29:55.087712Z",
+  "category": "society",
+  "title": "The Roots of Instability: Why Global Food Systems Are Failing",
+  "subtitle": "Understanding how climate change, supply chain disruptions, and population growth are creating a perfect storm for global food insecurity.",
+  "byline": "Adapted from reporting by international news agencies and global policy research, October 2023",
+  "summary": {
+    "en": "This article explores the primary drivers of global hunger, including climate change and supply chain issues. It explains why our current food system is fragile and struggles to feed a growing population. Readers will learn about the interconnected nature of these global challenges.",
+    "zh": "這篇文章探討了導致全球飢餓的主要因素，包括氣候變遷與供應鏈問題。文中解釋了為何目前的糧食系統如此脆弱，且難以應對不斷增加的人口需求。讀者將了解這些全球挑戰之間相互關聯的本質。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "According to the 2023 State of Food Security and Nutrition in the World report by the Food and Agriculture Organization (FAO), global hunger remains a critical challenge that affects millions of people across every continent. The report indicates that the stability of food systems is being threatened by a dangerous combination of factors that go beyond simple weather patterns. Experts from the FAO argue that while food production has increased globally, the distribution and accessibility of these resources remain deeply unequal. This systemic failure is driven by a complex mix of environmental, economic, and social issues that continue to undermine the efforts of international organizations to provide basic nutrition to the world's most vulnerable populations.",
+      "zh": "根據聯合國糧食及農業組織（FAO）發布的《2023年世界糧食安全和營養狀況》報告，全球飢餓問題依然是一項影響各大洲數百萬人的嚴峻挑戰。報告指出，糧食系統的穩定性正受到一系列超越單純天氣模式的危險因素威脅。糧農組織的專家認為，儘管全球糧食產量有所增加，但這些資源的分配與獲取途徑仍然極度不平等。這種系統性的失敗是由環境、經濟與社會問題的複雜組合所驅動的，這些問題持續削弱了國際組織為世界上最脆弱的族群提供基本營養的努力。"
+    },
+    {
+      "id": "p2",
+      "en": "The World Bank notes in its latest food security analysis that climate change acts as a 'threat multiplier' for existing agricultural vulnerabilities. As global temperatures rise, the frequency and intensity of extreme weather events, such as droughts and floods, have increased significantly, according to climate researchers cited by the World Bank. These events destroy crops and disrupt the livelihoods of smallholder farmers who rely on predictable seasons to survive. By destabilizing the environment, climate change forces farmers to abandon traditional methods, leading to lower yields and higher prices for consumers, which further complicates the ability of low-income families to secure a consistent food supply.",
+      "zh": "世界銀行在其最新的糧食安全分析中指出，氣候變遷對於現有的農業脆弱性而言，扮演了「威脅放大器」的角色。根據世界銀行引用的氣候研究人員說法，隨著全球氣溫升高，乾旱與洪水等極端天氣事件的頻率與強度已顯著增加。這些事件摧毀了農作物，並擾亂了依賴可預測季節生存的小農生計。透過破壞環境穩定性，氣候變遷迫使農民放棄傳統耕作方式，導致產量下降與消費者物價上漲，這進一步使得低收入家庭難以確保穩定的糧食供應。"
+    },
+    {
+      "id": "p3",
+      "en": "Supply chain disruptions represent another major driver of food insecurity, as reported by international trade analysts who track the movement of essential goods. These analysts observe that the global food system is highly centralized, meaning that a problem in one region can quickly affect the availability of food in another. For instance, when transportation networks are blocked or fuel prices spike, the cost of moving food from farms to markets increases dramatically. According to the World Trade Organization, these logistical bottlenecks prevent food from reaching areas where it is needed most, effectively creating artificial shortages even when global production levels are technically sufficient to meet demand.",
+      "zh": "根據追蹤必需品流動的國際貿易分析師報告，供應鏈中斷是導致糧食不安全的另一個主要因素。這些分析師觀察到，全球糧食系統高度集中，這意味著一個地區的問題可能會迅速影響另一個地區的糧食供應。例如，當運輸網絡受阻或燃料價格飆升時，將糧食從農場運送到市場的成本會大幅增加。根據世界貿易組織的說法，這些物流瓶頸阻礙了糧食運送到最需要的地區，即便全球生產水準在技術上足以滿足需求，這些因素仍有效地造成了人為的短缺。"
+    },
+    {
+      "id": "p4",
+      "en": "Population growth is also placing unprecedented pressure on the global food system, according to demographic studies published by the United Nations. As the world population continues to climb toward ten billion, the demand for calories and protein is expected to rise sharply, creating a massive challenge for agricultural sustainability. Demographic experts suggest that this growth is not evenly distributed, with the highest increases occurring in regions that are already struggling with food insecurity. This demographic shift necessitates a fundamental change in how food is produced, processed, and distributed, as current systems are not designed to handle the sheer volume of demand expected in the coming decades.",
+      "zh": "根據聯合國發布的人口統計研究，人口成長也正對全球糧食系統施加前所未有的壓力。隨著世界人口持續朝向一百億邁進，對熱量與蛋白質的需求預計將急劇上升，這對農業永續性構成了巨大挑戰。人口統計學專家指出，這種成長並非平均分佈，人口增加最快的地區往往是那些已經在對抗糧食不安全的區域。這種人口結構的轉變要求我們必須徹底改變糧食的生產、加工與分配方式，因為目前的系統並非為了應對未來幾十年預期的龐大需求量而設計。"
+    },
+    {
+      "id": "p5",
+      "en": "The fragility of the current system is underscored by its reliance on a limited number of staple crops, as noted by agricultural scientists in recent academic journals. By focusing heavily on wheat, rice, and corn, the global food system has become vulnerable to pests and diseases that can wipe out entire harvests in a single season. Academic researchers argue that this lack of biodiversity makes the food supply chain less resilient to environmental shocks. If one major crop fails due to a new climate-related pathogen, the entire global market suffers, causing price spikes that disproportionately hurt the poorest nations that rely on these specific imports.",
+      "zh": "農業科學家在近期的學術期刊中指出，目前系統的脆弱性凸顯於其對少數幾種主食作物的過度依賴。由於過度集中於小麥、稻米與玉米，全球糧食系統變得極易受到害蟲與疾病的影響，這些災害可能在一個季節內摧毀整批收成。學術研究人員認為，這種生物多樣性的缺乏使得糧食供應鏈在面對環境衝擊時較不具備韌性。如果某種主要作物因氣候相關的新型病原體而歉收，整個全球市場都會受到影響，導致物價飆升，進而對那些依賴這些特定進口糧食的最貧窮國家造成不成比例的傷害。"
+    },
+    {
+      "id": "p6",
+      "en": "Economic inequality serves as a final, critical layer to this crisis, according to reports from humanitarian organizations like the World Food Programme. These organizations emphasize that hunger is often a problem of poverty rather than a lack of food availability. Even when food is physically present in a market, millions of people cannot afford to purchase it due to rising inflation and stagnant wages. Humanitarian reports suggest that without systemic economic reforms that improve the purchasing power of the poor, technological advancements in agriculture will fail to solve the core issue of food insecurity because the fundamental barrier remains the inability to pay for basic necessities.",
+      "zh": "根據世界糧食計畫署等國際人道組織的報告，經濟不平等是這場危機的最後一個關鍵層面。這些組織強調，飢餓通常是貧窮問題，而非糧食供應不足的問題。即使市場上確實有糧食，數百萬人仍因通貨膨脹加劇與薪資停滯而買不起。人道救援報告指出，若沒有能提升窮人購買力的系統性經濟改革，農業技術的進步將無法解決糧食不安全的核心問題，因為最根本的障礙依然是無法負擔基本生活必需品。"
+    },
+    {
+      "id": "p7",
+      "en": "In conclusion, the failure of the global food system is a multi-causal issue that requires a comprehensive approach, as stated by policy experts at the Global Food Security Summit. By addressing climate change, improving supply chain efficiency, and promoting agricultural biodiversity, nations can begin to build a more resilient system. However, as noted by international observers, these actions must be accompanied by a commitment to reducing poverty and addressing the root causes of economic instability. Only by tackling these interconnected challenges simultaneously can the world hope to achieve long-term food security and ensure that everyone has access to the nutrition they need to survive and thrive.",
+      "zh": "總結來說，全球糧食系統的失敗是一個多重原因導致的問題，需要採取全面的解決方案，正如全球糧食安全高峰會的政策專家所言。透過應對氣候變遷、提升供應鏈效率以及促進農業生物多樣性，各國可以開始建立一個更具韌性的系統。然而，正如國際觀察家所指出的，這些行動必須伴隨著減少貧窮與解決經濟不穩定根源的承諾。唯有同時應對這些相互關聯的挑戰，世界才有希望實現長期的糧食安全，並確保每個人都能獲得生存與發展所需的營養。"
+    }
+  ],
+  "wordCount": 748,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "threat multiplier",
+      "partOfSpeech": "noun",
+      "definitionEn": "A factor that increases the severity or impact of existing problems.",
+      "definitionZh": "威脅放大器；指加劇現有問題嚴重性的因素。",
+      "noteZh": "在文中指氣候變遷讓原本就脆弱的農業問題變得更嚴重。"
+    },
+    {
+      "term": "smallholder farmers",
+      "partOfSpeech": "noun",
+      "definitionEn": "Farmers who own or rent small plots of land and produce food mainly for their own families or local markets.",
+      "definitionZh": "小農；指耕作小塊土地，主要為家庭自給自足或供應當地市場的農民。",
+      "noteZh": "此詞在國際發展與農業報導中非常常見。"
+    },
+    {
+      "term": "logistical bottlenecks",
+      "partOfSpeech": "noun",
+      "definitionEn": "Points in a supply chain where the flow of goods is slowed down or stopped.",
+      "definitionZh": "物流瓶頸；指供應鏈中導致貨物運輸變慢或停滯的環節。",
+      "noteZh": "Bottleneck 字面意思是瓶頸，引申為系統中卡住的地方。"
+    },
+    {
+      "term": "resilient",
+      "partOfSpeech": "adjective",
+      "definitionEn": "Able to withstand or recover quickly from difficult conditions.",
+      "definitionZh": "有韌性的；指能承受困難狀況或從中快速恢復的。"
+    },
+    {
+      "term": "multi-causal",
+      "partOfSpeech": "adjective",
+      "definitionEn": "Having many different causes.",
+      "definitionZh": "多重原因的；由多種因素共同造成的。",
+      "noteZh": "由 multi- (多) 和 causal (原因的) 組成。"
+    }
+  ],
+  "sources": [
+    {
+      "name": "FAO",
+      "url": "https://www.fao.org/publications/home/fao-flagship-publications/the-state-of-food-security-and-nutrition-in-the-world",
+      "title": "The State of Food Security and Nutrition in the World",
+      "publishedAt": "2023-07-12T00:00:00Z"
+    },
+    {
+      "name": "World Bank",
+      "url": "https://www.worldbank.org/en/topic/agriculture/brief/food-security-update",
+      "title": "Food Security Update",
+      "publishedAt": "2023-10-01T00:00:00Z"
+    }
+  ],
+  "series": {
+    "id": "food-insecurity-climate-resilience",
+    "part": 1,
+    "totalParts": 5
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is one reason why the current food system is considered fragile?",
+      "options": {
+        "A": "It relies on too many different types of crops.",
+        "B": "It is overly dependent on a small number of staple crops.",
+        "C": "It produces too much food for the global population.",
+        "D": "It has too many small farms and not enough large ones."
+      },
+      "correct": "B",
+      "explanationZh": "文章第五段提到，系統過度依賴小麥、稻米與玉米等少數主食，導致其面對病蟲害時非常脆弱。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What does the author imply about the relationship between food production and hunger?",
+      "options": {
+        "A": "Hunger is caused only by a lack of food production.",
+        "B": "If we grow more food, hunger will automatically disappear.",
+        "C": "Hunger is often an economic issue related to poverty rather than just a supply issue.",
+        "D": "Technological advancements are the only way to solve the global food crisis."
+      },
+      "correct": "C",
+      "explanationZh": "文章第六段指出，飢餓通常是貧窮問題，即使市場上有糧食，許多人也因經濟因素買不起。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the context of the article, what does the term 'threat multiplier' mean?",
+      "options": {
+        "A": "A machine that helps farmers grow more crops.",
+        "B": "A factor that makes existing problems more severe.",
+        "C": "A person who tracks global food prices.",
+        "D": "A type of climate-related disease that kills crops."
+      },
+      "correct": "B",
+      "explanationZh": "Threat multiplier 指的是像氣候變遷這樣，會讓原本就存在的農業脆弱性變得更嚴重的因素。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the main message of this article regarding the global food crisis?",
+      "options": {
+        "A": "The food crisis is caused solely by climate change.",
+        "B": "The food crisis is a simple problem that can be solved by better transportation.",
+        "C": "The food crisis is a complex, multi-causal issue involving climate, supply chains, and economic inequality.",
+        "D": "The food crisis will be solved automatically as the global population stabilizes."
+      },
+      "correct": "C",
+      "explanationZh": "文章整體強調糧食危機是由氣候、供應鏈、人口成長與經濟不平等共同導致的複雜問題。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 根據連載大綱生成，事實與引用請以原始來源為準。審閱後方可發佈。",
+  "_generation": {
+    "provider": "gemini",
+    "model": "gemini-3.1-flash-lite",
+    "tokensUsed": 4767,
+    "durationSec": 12.88
+  },
+  "_seriesPartMeta": {
+    "angle": "Explaining the convergence of climate change, supply chain disruptions, and population growth as the primary drivers of food insecurity.",
+    "learningGoal": "Understand the multi-causal nature of food insecurity beyond just weather events.",
+    "keyQuestions": [
+      "What are the primary drivers of global hunger?",
+      "How does climate change exacerbate existing supply chain issues?",
+      "Why is the current global food system considered fragile?"
+    ],
+    "sourcePlan": [
+      {
+        "sourceType": "official report",
+        "searchHint": "FAO State of Food Security and Nutrition in the World report",
+        "whyUseful": "Provides authoritative statistics on global hunger rates.",
+        "whyUsefulZh": "提供關於全球飢餓率的權威統計數據。",
+        "attributionExample": "According to the 2023 State of Food Security and Nutrition report by the FAO..."
+      },
+      {
+        "sourceType": "analysis",
+        "searchHint": "World Bank food security analysis climate change",
+        "whyUseful": "Connects economic impacts with environmental degradation.",
+        "whyUsefulZh": "連結經濟影響與環境退化之間的關係。",
+        "attributionExample": "The World Bank notes in its latest analysis that..."
+      }
+    ]
+  }
+}
