@@ -1,74 +1,79 @@
 {
   "id": "2026-07-13-us-parasite-outbreak-reaches-2-800-cases",
   "slug": "us-parasite-outbreak-reaches-2-800-cases-jul-2026",
-  "publishedAt": "2026-07-13T22:14:10.134807Z",
+  "publishedAt": "2026-07-13T23:11:29.829090Z",
   "category": "public-health",
   "title": "US Parasite Outbreak Reaches 2,800 Cases",
-  "subtitle": "Health officials struggle to identify the source of a growing infection as funding cuts complicate investigation efforts.",
+  "subtitle": "Health experts warn that funding cuts are making it harder to track the source of the infection",
   "summary": {
-    "en": "A parasitic infection called cyclosporiasis has now reached over 2,800 cases across the United States. The illness causes severe stomach problems, including watery diarrhea and weight loss. While the Centers for Disease Control and Prevention reports lower confirmed numbers, state officials in Michigan and Ohio are seeing a much larger impact. Experts suggest that recent federal funding cuts have made it harder for health departments to track the source of the outbreak. Investigators are currently urging the public to wash or cook produce thoroughly to avoid infection.",
-    "zh": "一種稱為環孢子蟲症的寄生蟲感染在美國已累計超過 2,800 例。該疾病會引起嚴重胃部問題，包括水瀉與體重減輕。儘管美國疾病管制與預防中心通報的確診數較低，但密西根州與俄亥俄州的官員觀察到疫情影響更為巨大。專家認為，近期聯邦資金的削減使得衛生部門更難追蹤疫情源頭。調查人員目前呼籲大眾徹底清洗或烹煮農產品，以避免感染。"
+    "en": "A parasitic infection known as cyclosporiasis has now reached over 2,800 cases in the United States. The illness causes severe stomach problems, including watery diarrhea and weight loss. While the Centers for Disease Control and Prevention reports lower official numbers, state health departments are seeing a much larger impact. Experts suggest that recent government funding cuts have made it difficult to investigate the outbreak. Health officials are now urging the public to wash or cook fresh produce to stay safe.",
+    "zh": "一種稱為環孢子蟲症的寄生蟲感染在美國已累計超過 2,800 例。該疾病會引發嚴重的腸胃問題，包括水瀉與體重減輕。儘管美國疾病管制與預防中心報告的官方數字較低，但各州衛生部門觀察到的影響範圍廣泛得多。專家認為，近期政府削減資金導致疫情調查變得困難。衛生官員目前呼籲民眾清洗或煮熟新鮮農產品以確保安全。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "A growing outbreak of a parasitic infection known as cyclosporiasis has now reached more than 2,800 cases across the United States. This illness, which is caused by a tiny parasite, leads to symptoms such as watery diarrhea, a loss of appetite, and significant weight loss. While health authorities continue their work to identify the source of the sickness, the scale of the outbreak has raised serious questions about the ability of public health systems to respond effectively during a crisis.",
-      "zh": "一種稱為「環孢子蟲症」的寄生蟲感染疫情正持續擴大，目前全美病例已超過 2,800 例。這種由微小寄生蟲引起的疾病，會導致水瀉、食慾不振以及體重顯著下降等症狀。儘管衛生當局持續努力追查病源，但此次疫情的規模已引發大眾對公共衛生系統在危機期間應對能力的嚴重質疑。"
+      "en": "A growing outbreak of a parasitic infection called cyclosporiasis has now reached more than 2,800 cases across the United States. The illness, which causes watery diarrhea, loss of appetite, and weight loss, is creating a difficult challenge for health officials as they work to identify the source of the spread. While the Centers for Disease Control and Prevention (CDC) reports 843 confirmed cases and 1,500 suspected cases across 31 states, state-level data suggests the situation is much more serious.",
+      "zh": "一種稱為環孢子蟲症的寄生蟲感染疫情正持續擴大，目前全美病例已超過 2,800 例。這種疾病會導致水瀉、食慾不振與體重減輕，正對衛生官員在追查傳染源的工作上構成嚴峻挑戰。儘管美國疾病管制與預防中心（CDC）報告在 31 個州有 843 例確診與 1,500 例疑似病例，但各州的數據顯示情況遠比這嚴重得多。"
     },
     {
       "id": "p2",
-      "en": "According to The Guardian Health, the situation is particularly serious in Michigan, where officials have reported 2,640 cases. Nearby, officials in Ohio have identified another 177 cases. These numbers are notably higher than the figures released by the Centers for Disease Control and Prevention (CDC). On Friday, the CDC reported 843 confirmed cases and 1,500 suspected cases across 31 states. The agency noted that 86 people have been hospitalized, though fortunately, no deaths have been linked to the outbreak so far. The CDC expects these numbers to rise, partly because of the natural delays that occur when investigating any disease.",
-      "zh": "根據《衛報健康版》（The Guardian Health）報導，密西根州的情況尤為嚴重，當地官員已通報 2,640 例病例。鄰近的俄亥俄州官員也確認了另外 177 例。這些數字顯著高於美國疾病管制與預防中心（CDC）所發布的數據。週五時，CDC 通報全美 31 州共有 843 例確診病例及 1,500 例疑似病例。該機構指出，目前已有 86 人住院治療，所幸截至目前為止尚未傳出死亡案例。CDC 預計病例數還會上升，部分原因是調查任何疾病時都會出現的自然延遲現象。"
+      "en": "Michigan appears to be the most affected area, with state health officials reporting 2,640 cases. Meanwhile, officials in Ohio have reported 177 cases. Despite these high numbers, experts have not yet identified a specific food item or location that caused the outbreak. Dr. Natasha Bagdasarian, the chief medical executive in Michigan, told the Associated Press that there is clearly a linked outbreak happening right now, even though the exact source remains unknown.",
+      "zh": "密西根州似乎是受災最嚴重的地區，該州衛生官員報告了 2,640 例病例。與此同時，俄亥俄州的官員則報告了 177 例。儘管數字龐大，專家尚未找出導致疫情爆發的特定食品或地點。密西根州首席醫療執行官娜塔莎·巴格達薩里安（Natasha Bagdasarian）博士向美聯社表示，目前顯然存在一場關聯性的疫情，儘管確切的源頭仍然不明。"
     },
     {
       "id": "p3",
-      "en": "Investigating an outbreak like this is a difficult task. Cyclospora has a two-week incubation period, which is the time between catching the parasite and the first appearance of symptoms. Because of this, experts often have to wait several weeks before they can interview patients. By the time investigators ask people what they ate or where they shopped, many patients struggle to remember the details. Dr. Natasha Bagdasarian Natasha Bagdasarian, the chief medical executive in Michigan, told the Associated Press that despite these challenges, there is clearly a linked outbreak happening right now.",
-      "zh": "調查這類疫情是一項艱鉅的任務。環孢子蟲的潛伏期為兩週，也就是從感染寄生蟲到出現症狀的時間。正因如此，專家往往需要等待數週才能訪談病患。等到調查人員詢問民眾吃了什麼或在哪裡購物時，許多病患已難以回憶細節。密西根州首席醫療執行官娜塔莎·巴格達薩里安（Natasha Bagdasarian）向美聯社表示，儘管面臨這些挑戰，但目前顯然正發生一起關聯性的疫情。"
+      "en": "Investigating this type of illness is naturally difficult. Cyclospora has a two-week incubation period — the time between catching the germ and feeling sick. Furthermore, the CDC usually expects a six-week delay between when a person gets sick and when the case is officially reported. To find the source, epidemiologists — scientists who study how diseases spread — must interview patients to ask what they ate. Because of the long delay, many people struggle to remember their meals from weeks earlier, making it hard to find common links between victims.",
+      "zh": "調查這類疾病本質上相當困難。環孢子蟲有兩週的潛伏期，也就是從感染病菌到出現症狀的時間。此外，CDC 通常預期從患者發病到正式通報之間會有六週的延遲。為了找出源頭，流行病學家（研究疾病傳播方式的科學家）必須訪談患者，詢問他們的飲食內容。由於延遲時間過長，許多人難以回憶起數週前的餐點，這使得找出受害者之間的共同關聯變得十分困難。"
     },
     {
       "id": "p4",
-      "en": "Experts are concerned that the investigation is being slowed down by recent changes in government support. Barbara Kowalcyk, an associate professor at the George Washington University’s Milken Institute of Public Health, explained that tracking an outbreak is like solving a puzzle. She noted that when pieces of that puzzle are removed, it becomes much harder to see the whole picture. According to The Guardian Health, the Trump administration cut $11.4 billion in grants to state and local health departments in March 2025. These cuts have forced some departments to reduce staff or move employees to part-time roles, which limits their ability to scale up their work during an emergency.",
-      "zh": "專家擔憂，近期政府支援的變動正拖慢調查進度。喬治華盛頓大學米爾肯公共衛生學院（Milken Institute of Public Health）副教授芭芭拉·科瓦爾奇克（Barbara Kowalcyk）解釋，追蹤疫情就像解謎。她指出，當拼圖碎片被移除時，要看清全貌就變得困難許多。根據《衛報健康版》報導，川普政府在 2025 年 3 月削減了 114 億美元對州及地方衛生部門的補助。這些刪減迫使部分部門裁減人力或將員工轉為兼職，限制了他們在緊急情況下擴大作業的能力。"
+      "en": "Many experts believe that these typical investigation delays are being made worse by recent government decisions. Barbara Kowalcyk, an associate professor at the George Washington University’s Milken Institute of Public Health, explained that public health departments are currently struggling with limited resources. In March 2025, the Trump administration cut $11.4 billion in grants that were previously given to state and local health departments. According to Bridge Michigan, a local news outlet, Michigan’s public health labs alone lost $5.5 million in funding.",
+      "zh": "許多專家認為，這些常見的調查延遲正因政府近期的決策而惡化。喬治華盛頓大學米爾肯公共衛生學院（Milken Institute of Public Health）副教授芭芭拉·科瓦爾奇克（Barbara Kowalcyk）解釋說，公共衛生部門目前正苦於資源匱乏。在 2025 年 3 月，川普政府削減了 114 億美元原本提供給州與地方衛生部門的補助金。根據當地新聞媒體《密西根橋報》（Bridge Michigan）報導，僅密西根州的公共衛生實驗室就損失了 550 萬美元的資金。"
     },
     {
       "id": "p5",
-      "en": "Kowalcyk stated that the funding cuts have likely made the typical delays in disease reporting even worse. She explained that if a department is understaffed, they might not be able to interview patients until six or eight weeks after they become ill. This makes the job of epidemiologists—scientists who study how diseases spread—much harder. Furthermore, the administration reduced the remit, or the range of responsibilities, of a program specifically designed to coordinate information on foodborne illnesses. This reduction in support has made it more difficult for officials to connect the dots between cases in different states.",
-      "zh": "科瓦爾奇克表示，資金削減很可能使疾病通報中常見的延遲情況更加惡化。她解釋，如果部門人力不足，他們可能無法在病患發病後的六到八週內進行訪談。這使得流行病學家（研究疾病傳播方式的科學家）的工作變得更加困難。此外，政府還縮減了一個專門用於協調食源性疾病資訊計畫的職權範圍。這種支援的減少，使得官員更難以將不同州之間的病例連結起來。"
+      "en": "Kowalcyk compared the current situation to a puzzle. She noted that when you take pieces out of a puzzle, it becomes much harder to see the whole picture. She believes that because health departments are now understaffed, they may be forced to interview patients much later than usual, sometimes six to eight weeks after they first became ill. This makes it nearly impossible to gather accurate information. She argued that the funding cuts have directly impacted the ability of local departments to scale up their work during an emergency.",
+      "zh": "科瓦爾奇克將目前的情況比作拼圖。她指出，當你從拼圖中拿走幾塊，就更難看清全貌。她認為，由於衛生部門目前人力不足，他們可能被迫在患者發病六到八週後才進行訪談，這使得收集準確資訊幾乎成為不可能。她主張，資金削減直接影響了地方部門在緊急情況下擴大作業規模的能力。"
     },
     {
       "id": "p6",
-      "en": "While investigators work to find the origin of the parasite, health departments are taking steps to protect the public. In Michigan, officials are urging restaurants and commercial kitchens in the south-east part of the state to be extra careful. They recommend that all leafy greens, snow peas, certain herbs, and raspberries should be washed thoroughly. Ideally, these items should be cooked before they are served to ensure that any parasites are killed.",
-      "zh": "在調查人員努力尋找寄生蟲來源的同時，衛生部門也採取措施保護大眾。在密西根州，官員呼籲該州東南部的餐廳與商業廚房務必格外謹慎。他們建議所有葉菜類、荷蘭豆、特定香草及覆盆子都應徹底清洗。理想情況下，這些食材在供應前應先烹煮，以確保寄生蟲被消滅。"
+      "en": "While the CDC reports that 86 people have been hospitalized, there have been no deaths reported so far. However, the agency expects the total number of cases to keep rising as more reports come in from across the country. The difficulty in tracking the outbreak is a major concern for those working in food safety. As Kowalcyk explained, many staff members in local departments are funded by several different sources; when one source of money is removed, departments often have to reduce their staff or move people to part-time roles, leaving them with few choices on how to respond to a crisis.",
+      "zh": "雖然 CDC 報告有 86 人住院，但目前尚未有死亡案例。然而，該機構預計隨著全國各地通報增加，總病例數將持續上升。追蹤疫情的困難是食品安全工作者的一大隱憂。正如科瓦爾奇克所解釋的，許多地方部門的員工薪資來自多個不同來源；當其中一項資金來源被切斷，部門往往必須裁員或將人員轉為兼職，導致他們在應對危機時選擇有限。"
     },
     {
       "id": "p7",
-      "en": "As the investigation continues, the focus remains on finding the common link between the thousands of people who have become sick. Whether it is a specific food item or a particular store, finding the source is the only way to stop the spread. However, as Kowalcyk observed, the current lack of resources means that the process is moving slower than it would have in the past. For now, the public is advised to follow local health guidelines and practice good food safety habits while waiting for more information from federal and state authorities.",
-      "zh": "隨著調查持續進行，焦點仍放在找出數千名病患之間的共同連結。無論是特定食品還是特定商店，找出源頭是阻止疫情擴散的唯一途徑。然而，正如科瓦爾奇克所觀察到的，目前資源匱乏意味著調查進度比過去緩慢。目前，大眾被建議遵循當地衛生準則，並在等待聯邦與州政府進一步資訊的同時，保持良好的食品安全習慣。"
+      "en": "For now, health officials are focusing on prevention. The Michigan health department is advising restaurants and commercial kitchens in the south-east to be extra careful. They are urging staff to thoroughly wash leafy greens, snow peas, certain herbs, and raspberries. If possible, they recommend cooking these items, as heat is an effective way to kill the parasite.",
+      "zh": "目前，衛生官員正專注於預防工作。密西根州衛生部門建議東南部地區的餐廳與商業廚房務必格外謹慎。他們敦促員工徹底清洗葉菜類、荷蘭豆、特定香草與覆盆子。如果可能，他們建議將這些食材煮熟，因為高溫是殺死寄生蟲的有效方法。"
+    },
+    {
+      "id": "p8",
+      "en": "As the investigation continues, the gap between the CDC’s official numbers and the reports from state health departments highlights the ongoing struggle to monitor foodborne illnesses. With limited staff and a long reporting delay, finding the source of this outbreak will remain a difficult task for health authorities in the coming weeks. For the public, the best defense remains careful food preparation and staying informed as new updates become available from local health agencies.",
+      "zh": "隨著調查持續進行，CDC 官方數據與各州衛生部門報告之間的落差，凸顯了監控食源性疾病的持續困境。在人力有限且通報延遲的情況下，找出此次疫情的源頭在未來幾週對衛生當局而言仍將是一項艱鉅任務。對大眾而言，最好的防禦方式依然是謹慎處理食物，並隨時留意地方衛生機構發布的最新資訊。"
     }
   ],
-  "wordCount": 715,
+  "wordCount": 724,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
       "term": "scale up",
       "definitionEn": "To increase the size, amount, or importance of something.",
-      "definitionZh": "擴大、增加（規模或能力）。",
+      "definitionZh": "擴大、增加（規模或強度）。",
       "partOfSpeech": "phrasal verb",
-      "noteZh": "常見於商業或組織運作，指提升處理能力。文中：These cuts have forced some departments to reduce staff or move employees to part-time roles, which limits their ability to scale up their work during an emergency."
+      "noteZh": "此處指擴大應對疫情的工作量。文中：She argued that the funding cuts have directly impacted the ability of local departments to scale up their work during an emergency."
     },
     {
-      "term": "connect the dots",
-      "definitionEn": "To understand the relationship between different facts or pieces of information.",
-      "definitionZh": "將零散的資訊連結起來，找出關聯性。",
-      "partOfSpeech": "idiom",
-      "noteZh": "字面上是連連看，引申為從線索中推導出真相。文中：This reduction in support has made it more difficult for officials to connect the dots between cases in different states."
+      "term": "gap",
+      "definitionEn": "A difference between two things that should be the same.",
+      "definitionZh": "差距、落差。",
+      "partOfSpeech": "noun",
+      "noteZh": "這裡指官方數據與實際報告之間的差異。文中：As the investigation continues, the gap between the CDC’s official numbers and the reports from state health departments highlights the ongoing struggle to monitor foodborne illnesses."
     },
     {
       "term": "linked",
-      "definitionEn": "Connected or related to something else.",
-      "definitionZh": "有關聯的、相連的。",
+      "definitionEn": "Connected to or associated with something else.",
+      "definitionZh": "有關聯的、連結的。",
       "partOfSpeech": "adjective",
-      "noteZh": "這裡形容疫情爆發並非偶然，而是有共同關聯。文中：Dr. Natasha Bagdasarian Natasha Bagdasarian, the chief medical executive in Michigan, told the Associated Press that despite these challenges, there is clearly a linked outbreak happening right now."
+      "noteZh": "形容疫情之間存在關聯。文中：Dr. Natasha Bagdasarian, the chief medical executive in Michigan, told the Associated Press that there is clearly a linked outbreak happening right now, even though the exact source remains unknown."
     }
   ],
   "sources": [
@@ -84,6 +89,13 @@
     "type": "update",
     "previousArticles": [
       {
+        "slug": "us-parasite-outbreak-reaches-2-800-cases-jul-2026",
+        "title": "US Parasite Outbreak Reaches 2,800 Cases",
+        "publishedAt": "2026-07-13T22:14:10.134807Z",
+        "category": "public-health",
+        "summaryEn": "A parasitic infection called cyclosporiasis has now reached over 2,800 cases across the United States. The illness causes severe stomach problems, including watery diarrhea and weight loss. While the Centers for Disease Control and Prevention reports lower confirmed numbers, state officials in Michigan and Ohio are seeing a much larger impact. Experts suggest that recent federal funding cuts have made it harder for health departments to track the source of the outbreak. Investigators are currently urging the public to wash or cook produce thoroughly to avoid infection."
+      },
+      {
         "slug": "us-cyclosporiasis-outbreak-spreads-across-states-jul-2026",
         "title": "Health Officials Work to Find Source of Growing Parasite Outbreak",
         "publishedAt": "2026-07-12T23:07:59.190036Z",
@@ -96,13 +108,6 @@
         "publishedAt": "2026-07-12T22:14:08.663800Z",
         "category": "public-health",
         "summaryEn": "A parasitic illness called cyclosporiasis is spreading across 31 U.S. states. The infection causes stomach problems like diarrhea and nausea. Health officials have reported hundreds of cases, but the true number is likely much higher. Investigators are still working to find the specific food or water source responsible. Experts advise people to wash produce thoroughly and follow food safety rules."
-      },
-      {
-        "slug": "ebola-outbreak-spreads-in-congo-jul-2026",
-        "title": "Ebola Outbreak in Congo Spreads to New Areas as Death Toll Rises",
-        "publishedAt": "2026-07-10T23:12:25.496295Z",
-        "category": "public-health",
-        "summaryEn": "The Democratic Republic of the Congo is facing its fastest-growing Ebola outbreak in history. Official data shows 1,759 confirmed cases and 600 deaths across several provinces. The virus has also spread to neighboring Uganda, causing further concern for health officials. Ongoing armed conflicts and a lack of international funding are making it difficult to control the disease. Researchers have recently begun clinical trials to test potential treatments for this rare virus."
       }
     ]
   },
@@ -110,54 +115,54 @@
     {
       "id": "q1",
       "type": "detail",
-      "question": "What is the primary reason why investigators struggle to obtain accurate information from patients during the current cyclosporiasis outbreak?",
+      "question": "According to the article, why is it particularly challenging for epidemiologists to identify the source of the cyclosporiasis outbreak?",
       "options": {
-        "A": "Patients are unwilling to cooperate with health officials due to privacy concerns.",
-        "B": "The two-week incubation period causes patients to forget details about their recent diet and shopping habits.",
-        "C": "Government budget cuts have eliminated the staff members responsible for conducting patient interviews.",
-        "D": "The symptoms of the illness are so severe that patients are often unable to communicate with investigators."
+        "A": "The parasite is resistant to heat and cannot be killed by cooking.",
+        "B": "There is a significant time gap between infection and the reporting of cases.",
+        "C": "Most patients refuse to participate in interviews about their recent meals.",
+        "D": "The CDC has officially stopped tracking the number of hospitalizations."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。根據文章第三段，Cyclospora 有兩週的潛伏期，這導致調查人員必須等待數週才能訪談患者，而患者往往已經難以回憶起當時吃了什麼或在哪裡購物。選項 A 文中未提及；選項 C 雖然提到預算削減導致人力不足，但不是造成「患者難以回憶」的主要原因；選項 D 雖然提到症狀，但並未說明症狀嚴重到無法溝通。"
+      "explanationZh": "正確答案為 B。文章第三段明確指出，Cyclospora 有兩週的潛伏期，且從發病到正式通報通常有六週的延遲，這導致病患很難回憶起幾週前吃了什麼。選項 A 錯誤，因為文章最後一段提到加熱是殺死寄生蟲的有效方法。選項 C 文章未提及。選項 D 與文章內容矛盾，CDC 仍在追蹤住院數據。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "Based on the information provided, what can be inferred about the impact of the 2025 government funding cuts on public health?",
+      "question": "What can be inferred about the impact of recent government funding cuts on public health investigations?",
       "options": {
-        "A": "They have directly caused the cyclosporiasis outbreak to spread to more states than originally anticipated.",
-        "B": "They have made it impossible for health departments to provide any guidance on food safety to the public.",
-        "C": "They have exacerbated existing investigative delays, making it harder to track the source of the disease.",
-        "D": "They have resulted in the complete closure of all state and local health departments across the country."
+        "A": "They have caused the parasite to spread faster than it did in previous years.",
+        "B": "They have led to an increase in the number of staff members working in local labs.",
+        "C": "They have likely exacerbated the existing delays in gathering information from patients.",
+        "D": "They have forced the CDC to take over all responsibilities from state health departments."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。文章第四段與第五段指出，政府削減預算導致人手不足與協調能力下降，這使得調查人員難以連結不同地區的病例，並加劇了疾病報告的延遲。選項 A 過度推論，文中未說預算削減是導致擴散的原因；選項 B 錯誤，因為文中提到衛生部門仍有提供食物安全建議；選項 D 誇大其詞，文中僅提到裁員或改為兼職，而非完全關閉。"
+      "explanationZh": "正確答案為 C。根據第四段與第五段，Barbara Kowalcyk 指出資金削減導致衛生部門人手不足，被迫更晚進行訪談，這使得收集準確資訊變得幾乎不可能。選項 A 無法從文中推論，資金削減影響的是調查效率而非寄生蟲傳播速度。選項 B 與文意相反，資金削減導致人手減少。選項 D 文中未提及 CDC 接管所有事務。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the fifth paragraph, what does the word 'remit' most likely mean as used in the context of the government program?",
+      "question": "In the fifth paragraph, what does the word 'scale' mean as used in the phrase 'scale up their work'?",
       "options": {
-        "A": "The total amount of funding allocated to a specific project.",
-        "B": "The official scope of responsibilities or authority assigned to an organization.",
-        "C": "The time limit imposed on a research project to complete its findings.",
-        "D": "The number of staff members permitted to work on a government initiative."
+        "A": "To increase the size, extent, or intensity of an operation.",
+        "B": "To climb or reach the top of a difficult mountain or obstacle.",
+        "C": "To measure the weight of something using a specific tool.",
+        "D": "To remove the outer layer or skin from a piece of produce."
       },
-      "correct": "B",
-      "explanationZh": "正確答案為 B。文中提到「reduced the remit, or the range of responsibilities」，明確定義了 remit 在此處的意思為職責範圍。選項 A 指的是經費，文中已用 grants 或 funding 表達；選項 C 指的是期限；選項 D 指的是人力。這些選項皆不符合文中對該詞的直接解釋與上下文語境。"
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在此語境中，'scale up' 是一個片語，意指擴大業務規模或加強工作力度，以應對突發的公共衛生危機。選項 B 是 scale 的物理意義（攀爬）。選項 C 指秤重。選項 D 指去鱗或去皮，皆與文中討論的行政與調查能力擴展無關。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "What is the central message of the article regarding the current cyclosporiasis outbreak?",
+      "question": "Which of the following best summarizes the central message of the article?",
       "options": {
-        "A": "The outbreak is primarily confined to Michigan and Ohio, requiring only local intervention.",
-        "B": "Cyclosporiasis is a deadly disease that has overwhelmed the national healthcare system.",
-        "C": "The outbreak highlights the critical need for better food safety regulations in commercial kitchens.",
-        "D": "Resource limitations and administrative challenges are significantly hindering efforts to identify and control the outbreak."
+        "A": "Cyclosporiasis is a deadly disease that has caused thousands of deaths in Michigan.",
+        "B": "The CDC is solely responsible for the failure to identify the source of the current outbreak.",
+        "C": "The outbreak is primarily caused by restaurants failing to wash leafy greens.",
+        "D": "Investigating the current outbreak is complicated by reporting delays and reduced public health resources."
       },
       "correct": "D",
-      "explanationZh": "正確答案為 D。整篇文章的核心在於討論為何這次疫情調查困難，重點在於政府預算削減、人力不足以及調查程序的延遲，這些因素共同阻礙了疫情源頭的追查。選項 A 忽略了全國性的影響；選項 B 錯誤，文中提到目前無人死亡；選項 C 雖有提到食物安全，但這只是防疫措施的一部分，並非文章探討的整體核心問題。"
+      "explanationZh": "正確答案為 D。文章整體探討了 cyclosporiasis 疫情爆發的背景，並重點分析了為何調查困難，特別是強調了「潛伏期與通報延遲」以及「政府預算削減導致人手不足」這兩個核心因素。選項 A 錯誤，文中指出目前無死亡案例。選項 B 過於武斷，文中未將責任全歸咎於 CDC。選項 C 僅是預防建議的一部分，並非文章主旨。"
     }
   ],
   "aiGenerated": true,
