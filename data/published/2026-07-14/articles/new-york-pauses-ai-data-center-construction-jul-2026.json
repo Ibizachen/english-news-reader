@@ -1,0 +1,165 @@
+{
+  "id": "2026-07-14-new-york-pauses-ai-data-center-construction",
+  "slug": "new-york-pauses-ai-data-center-construction-jul-2026",
+  "publishedAt": "2026-07-14T23:10:07.106570Z",
+  "category": "technology",
+  "title": "New York Pauses AI Data Center Construction to Address Growing Concerns",
+  "subtitle": "Governor Kathy Hochul announces a one-year break on new large-scale facilities to protect energy and water resources.",
+  "summary": {
+    "en": "New York has become the first U.S. state to pause the construction of large artificial intelligence data centers. Governor Kathy Hochul signed an executive order to stop new projects for one year. This move aims to create new standards for energy use and environmental protection. Many residents are worried that these facilities will increase utility bills and harm local resources. Other states and cities across the country are also considering similar limits on these massive tech projects.",
+    "zh": "紐約州已成為美國第一個暫停大型人工智慧資料中心建設的州。州長凱西·霍楚簽署了一項行政命令，將新專案暫停一年。此舉旨在為能源使用與環境保護建立新標準。許多居民擔心這些設施會增加水電費並損害當地資源。全美其他州與城市也正在考慮對這些大型科技專案實施類似的限制。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "New York has officially become the first state in the United States to place a temporary stop on the construction of large data centers. On Tuesday, Governor Kathy Hochul signed an executive order that creates a one-year pause on the development of new, massive facilities. These buildings are essential for powering artificial intelligence products, but their rapid growth has caused significant concern among local communities and government officials.",
+      "zh": "紐約州正式成為美國第一個對大型資料中心建設實施暫時性禁令的州。週二，州長凱西·霍楚（Kathy Hochul）簽署了一項行政命令，針對新建的大型設施實施為期一年的開發暫停。這些建築對於驅動人工智慧產品至關重要，但其快速擴張已引起當地社區與政府官員的重大擔憂。"
+    },
+    {
+      "id": "p2",
+      "en": "The new rule specifically targets \"hyperscale\" data centers, which are defined as facilities that use more than 50 megawatts of electricity. According to The Guardian Technology, the governor’s office stated that this pause will allow state regulators to develop clear, consistent standards for how these projects should be built. During this year-long break, the state will focus on how these centers affect the energy grid, water supplies, and the local environment. Governor Hochul explained that the goal is to protect New York’s resources while still supporting the state's role in future technology.",
+      "zh": "這項新規定特別針對「超大規模」資料中心，定義為電力消耗超過 50 百萬瓦的設施。根據《衛報科技》（The Guardian Technology）報導，州長辦公室表示，此暫停期將使州政府監管機構能夠針對這些專案的建設方式，制定明確且一致的標準。在這為期一年的空窗期內，州政府將聚焦於這些中心對能源電網、供水系統及當地環境的影響。霍楚州長解釋，目標是在保護紐約州資源的同時，仍能支持該州在未來科技領域所扮演的角色。"
+    },
+    {
+      "id": "p3",
+      "en": "This decision comes as public frustration grows across the country. Many Americans are worried that data centers will lead to higher utility bills and cause noise or environmental damage in their neighborhoods. A recent poll mentioned by The Guardian Technology found that nearly three-quarters of Americans are against having a data center built near their homes. While New York has fewer of these facilities than states like Texas or Virginia, it had a long list of projects waiting for approval to connect to the state’s power grid. Some of these projects had already faced strong opposition from local residents.",
+      "zh": "這項決定是在全美民眾不滿情緒日益高漲的背景下做出的。許多美國人擔心資料中心會導致水電費上漲，並對其居住社區造成噪音或環境破壞。《衛報科技》提到的一項近期民調顯示，近四分之三的美國人反對在住家附近興建資料中心。雖然紐約州的這類設施數量少於德州或維吉尼亞州，但該州仍有一長串等待批准連接至電網的專案清單，其中部分專案已面臨當地居民的強烈反對。"
+    },
+    {
+      "id": "p4",
+      "en": "Ars Technica reported that this move is part of a larger national trend. Across the U.S., officials are feeling more pressure to address the potential negative effects of data centers before they are built. In fact, more than $130 billion worth of data center projects have been delayed or blocked by public protests so far this year. While some national leaders, such as Bernie Sanders and Alexandria Ocasio-Cortez, have suggested a nationwide ban on such construction, others worry that stopping these projects could hurt America’s lead in the global AI race. For example, Donald Trump has argued that such pauses could threaten the country’s ability to compete in technology.",
+      "zh": "《科技藝術》（Ars Technica）報導指出，此舉是更廣泛的全國性趨勢之一。在美國各地，官員們正感受到越來越大的壓力，必須在資料中心動工前解決其潛在的負面影響。事實上，今年以來已有價值超過 1300 億美元的資料中心專案因公眾抗議而遭到延宕或阻撓。儘管部分國家級領袖，如桑德斯（Bernie Sanders）與歐加修-寇蒂茲（Alexandria Ocasio-Cortez），曾建議在全國範圍內禁止此類建設，但其他人則擔心停止這些專案可能會損害美國在全球人工智慧競賽中的領先地位。例如，川普（Donald Trump）便主張，此類暫停措施可能會威脅到美國在科技領域的競爭力。"
+    },
+    {
+      "id": "p5",
+      "en": "Governor Hochul emphasized that the state’s goal is not to stop innovation, but to ensure that communities benefit when these projects are built. She suggested that future policies might require data center companies to pay more for their energy or even produce their own power to keep costs low for regular residents. Additionally, she has proposed ending tax breaks for large data centers. The governor noted that these facilities should only be built in areas that want them and must follow local zoning rules.",
+      "zh": "霍楚州長強調，州政府的目標並非阻礙創新，而是確保這些專案在建設時能讓社區受益。她建議未來的政策可能要求資料中心企業支付更高的能源費用，甚至自行發電，以維持一般居民的低廉電費。此外，她也提議取消對大型資料中心的稅收減免。州長指出，這些設施應僅在當地歡迎的地區興建，且必須遵守當地的土地分區法規。"
+    },
+    {
+      "id": "p6",
+      "en": "The state legislature had already been working on a bill to address these issues, including new requirements for environmental reports and energy efficiency. While the governor’s executive order provides an immediate pause, her office is also working to finalize these broader policies. According to Ars Technica, the governor’s team is currently reviewing the legislative proposal to ensure the final rules are as strong as possible. Once these new standards are in place, the moratorium—a temporary official ban—will be reviewed and eventually lifted.",
+      "zh": "州議會先前已在研擬一項法案以解決這些問題，內容包括對環境報告與能源效率的新要求。雖然州長的行政命令提供了立即性的暫停，但其辦公室也正致力於完善這些更廣泛的政策。《科技藝術》報導稱，州長團隊目前正在審查該立法提案，以確保最終規則盡可能嚴謹。一旦這些新標準到位，這項暫時性的官方禁令將會進行審查並最終解除。"
+    },
+    {
+      "id": "p7",
+      "en": "As New York moves forward, the success of this policy will likely be watched closely by other states. With cities like Seattle already implementing their own one-year bans, the debate over how to balance the massive energy needs of artificial intelligence with the needs of local communities is far from over. For now, the focus in New York remains on creating a framework that protects the environment while keeping the state’s energy grid stable for everyone.",
+      "zh": "隨著紐約州採取行動，這項政策的成效很可能會受到其他州的密切關注。隨著西雅圖等城市已實施各自為期一年的禁令，關於如何平衡人工智慧龐大的能源需求與當地社區需求之間的辯論，遠未結束。目前，紐約州的重點仍放在建立一套既能保護環境，又能為所有人維持州內電網穩定的架構上。"
+    }
+  ],
+  "wordCount": 678,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "place",
+      "definitionEn": "To put or set something into a specific state or condition.",
+      "definitionZh": "放置、安置；這裡指「實施」某項措施。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（地方），這裡作動詞用。文中：New York has officially become the first state in the United States to place a temporary stop on the construction of large data centers."
+    },
+    {
+      "term": "targets",
+      "definitionEn": "To direct an action or a policy at a specific group or thing.",
+      "definitionZh": "針對、瞄準。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（目標），這裡作動詞用。文中：The new rule specifically targets \"hyperscale\" data centers, which are defined as facilities that use more than 50 megawatts of electricity."
+    },
+    {
+      "term": "blocked",
+      "definitionEn": "To prevent something from happening or moving forward.",
+      "definitionZh": "阻擋、阻礙。",
+      "partOfSpeech": "verb (past participle)",
+      "noteZh": "常見作名詞（街區），這裡作動詞用。文中：In fact, more than $130 billion worth of data center projects have been delayed or blocked by public protests so far this year."
+    },
+    {
+      "term": "lifted",
+      "definitionEn": "To officially end a rule, law, or restriction.",
+      "definitionZh": "解除（禁令、限制）。",
+      "partOfSpeech": "verb (past participle)",
+      "noteZh": "常見作動詞（舉起），這裡指解除禁令。文中：Once these new standards are in place, the moratorium—a temporary official ban—will be reviewed and eventually lifted."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/us-news/2026/jul/14/new-york-moratorium-ai-datacenters",
+      "title": "New York becomes first state to impose one-year pause on new AI datacenters",
+      "publishedAt": "2026-07-14T17:23:51Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+      "title": "New York bans data center construction for a year, rattling AI industry",
+      "publishedAt": "2026-07-14T15:06:28Z"
+    }
+  ],
+  "story": {
+    "id": "new-york-imposes-moratorium-on-ai-data-centers",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "new-york-imposes-moratorium-on-ai-data-centers-jul-2026",
+        "title": "New York Becomes First State to Pause AI Data Center Construction",
+        "publishedAt": "2026-07-14T22:13:33.060010Z",
+        "category": "technology",
+        "summaryEn": "New York has become the first U.S. state to pause the construction of large-scale AI data centers. Governor Kathy Hochul announced a one-year moratorium to allow the state to create new environmental and energy standards. The move follows growing public concern over high utility bills and the strain these facilities place on local resources. While some officials support the pause to protect communities, others worry about the impact on American innovation. The state plans to use this time to ensure future projects provide clear benefits to the public."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the specific criteria that classifies a facility as a 'hyperscale' data center under New York's new rule?",
+      "options": {
+        "A": "It must be located in a residential neighborhood.",
+        "B": "It must consume more than 50 megawatts of electricity.",
+        "C": "It must be a project that has faced significant public protest.",
+        "D": "It must be part of an AI infrastructure project worth over $130 billion."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，文中明確定義「hyperscale」資料中心為使用超過 50 兆瓦（megawatts）電力的設施。選項 A 是民眾反對的原因，而非定義標準；選項 C 雖提到許多計畫面臨抗議，但這不是定義 hyperscale 的技術門檻；選項 D 的金額是全國性數據，與單一設施的定義無關。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the information provided, why might the New York state government eventually lift the moratorium?",
+      "options": {
+        "A": "Because local residents have demanded that the data centers be built immediately.",
+        "B": "Because the state has decided to completely ban all future AI technology.",
+        "C": "Because they expect to have established a regulatory framework to manage the centers' impacts.",
+        "D": "Because the federal government has threatened to sue the state for blocking innovation."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第六段，州政府實施暫停令（moratorium）是為了制定更明確的標準（如環境報告、能源效率），一旦這些新標準到位，暫停令就會被審查並解除。選項 A 與文章描述的民眾反對態度相反；選項 B 錯誤，因為政府目標是平衡發展而非全面禁止；選項 D 文章中並未提及聯邦政府的法律威脅，僅提到部分政治人物的觀點。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the word 'framework' mean in the context of the state's goal?",
+      "options": {
+        "A": "A physical structure or building frame.",
+        "B": "A set of rules and guidelines for future policy.",
+        "C": "A computer software program for AI development.",
+        "D": "A list of arguments used by politicians to win elections."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在文中，「framework」指的是政府為了管理資料中心對環境與電網影響所建立的一套政策架構或規則體系。選項 A 是該詞的字面義，但在文中並非指建築骨架；選項 C 雖然 AI 開發需要 framework，但在此語境下是指政策面的規範；選項 D 則過於狹隘，未涵蓋該詞在政策制定上的廣泛含義。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article?",
+      "options": {
+        "A": "New York is leading the nation in banning all new artificial intelligence research.",
+        "B": "Data centers are being shut down permanently due to their high electricity costs.",
+        "C": "New York is pausing large data center construction to create regulations that balance tech growth with community and environmental needs.",
+        "D": "Public protests have successfully stopped all data center projects across the United States."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。全文核心在於紐約州政府透過暫停令，尋求在推動科技創新與保護環境、電網穩定及社區利益之間取得平衡。選項 A 誇大了禁令範圍，僅針對大型資料中心；選項 B 錯誤，因為這是暫時性的（temporary pause）而非永久關閉；選項 D 錯誤，因為文章提到的是部分計畫受阻，而非全國所有計畫皆已停止。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}

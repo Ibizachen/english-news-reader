@@ -1,0 +1,155 @@
+{
+  "id": "2026-07-14-meta-lawsuit-over-ai-driven-layoffs",
+  "slug": "meta-lawsuit-over-ai-driven-layoffs-jul-2026",
+  "publishedAt": "2026-07-14T23:10:07.106570Z",
+  "category": "society",
+  "title": "Meta Faces Lawsuit Over Use of AI in Layoffs",
+  "subtitle": "Former employees claim that artificial intelligence tools unfairly targeted workers on medical or family leave.",
+  "summary": {
+    "en": "A group of 26 former Meta employees has filed a lawsuit against the tech giant. They claim that Meta used artificial intelligence to decide who to fire during recent job cuts. The lawsuit alleges that these AI systems unfairly targeted people who were on medical or family leave. Meta has denied these claims, stating that all employment decisions were made by human managers. This case is significant as it is one of the first to challenge the use of AI in making major workplace decisions.",
+    "zh": "一群共 26 名 Meta 前員工對這家科技巨頭提起訴訟。他們聲稱 Meta 在近期的裁員過程中，利用人工智慧來決定解僱對象。訴訟指控這些人工智慧系統不公平地針對處於醫療或家庭照顧假的員工。Meta 否認了這些指控，並表示所有聘僱決策均由人類主管做出。此案意義重大，因為這是首批挑戰人工智慧在職場重大決策中應用的案件之一。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "A group of 26 former employees has filed a lawsuit against Meta, the parent company of Facebook and Instagram, over the way it handled recent job cuts. The lawsuit, filed in a United States court in California, claims that the company used artificial intelligence (AI) tools to select workers for termination. This legal action is notable because it is one of the first times a major American company has been challenged in court for using AI to manage layoffs.",
+      "zh": "一群共 26 名的前員工對臉書 (Facebook) 與 Instagram 的母公司 Meta 提起訴訟，指控該公司處理近期裁員的方式不當。這起在美國加州法院提出的訴訟聲稱，該公司利用人工智慧工具來篩選被解僱的員工。此法律行動之所以引人注目，是因為這是大型美國企業首次因使用人工智慧進行裁員管理而面臨法律挑戰。"
+    },
+    {
+      "id": "p2",
+      "en": "According to Ars Technica, the layoffs took place in May as part of a larger plan by Meta to reduce its total staff by 10 percent, which affected approximately 8,000 workers. The former employees, who are referred to as “Doe” plaintiffs in the court documents, argue that the company did not rely on the personal judgment of managers who knew the employees’ work. Instead, they claim that Meta used a complex system of internal AI tools to score and rank staff members.",
+      "zh": "根據科技媒體 Ars Technica 報導，這波裁員發生在五月，是 Meta 將總員工數減少百分之十計畫的一部分，約有 8,000 名員工受到影響。這些在法庭文件中被稱為「無名氏」的原告主張，公司並未依賴了解員工工作表現的主管之個人判斷，而是聲稱 Meta 使用了一套複雜的內部人工智慧工具系統來對員工進行評分與排名。"
+    },
+    {
+      "id": "p3",
+      "en": "The lawsuit describes a variety of systems used by the company, including an internal assistant called “Metamate” and other AI agents trained by employees. The complaint states that Meta monitored workers through various digital methods, such as tracking how often they used AI tools and measuring their daily activity. According to The Verge, the company even used internal dashboards to label employees based on how much they used these new technologies, with categories such as “AI Native,” “AI First,” and “AI Enabled.”",
+      "zh": "訴訟書描述了該公司使用的多種系統，包括名為「Metamate」的內部助理以及其他由員工訓練的人工智慧代理程式。訴狀指出，Meta 透過各種數位方式監控員工，例如追蹤他們使用人工智慧工具的頻率並測量其每日活動量。根據科技媒體 The Verge 報導，該公司甚至使用內部儀表板，根據員工使用這些新技術的程度將其標記分類，類別包括「人工智慧原生」、「人工智慧優先」以及「人工智慧賦能」等。"
+    },
+    {
+      "id": "p4",
+      "en": "The core of the legal complaint is that these AI tools were biased against certain groups of people. The former employees argue that the scoring systems failed to account for workers who were on protected medical or family leave. In the United States, employees have a legal right to take time off for specific health or family reasons without losing their jobs. The lawsuit claims that because these workers were not actively using the company’s AI tools or producing data during their time away, the AI systems gave them lower scores. As a result, these employees were more likely to be chosen for the layoff list.",
+      "zh": "這起法律訴訟的核心在於這些人工智慧工具對特定群體存在偏見。前員工們主張，這些評分系統未能將處於受保障醫療或家庭照顧假的員工納入考量。在美國，員工擁有法律權利，可以因特定的健康或家庭因素請假而不致失去工作。訴訟聲稱，由於這些員工在休假期間沒有積極使用公司的人工智慧工具或產生數據，人工智慧系統給予他們較低的分數。結果，這些員工更有可能被列入裁員名單。"
+    },
+    {
+      "id": "p5",
+      "en": "“Those tools draw on inputs—performance ratings, calibration scores, productivity and output metrics, ‘AI-native’ ratings, and AI-token consumption—that, by design, cannot be accumulated by an employee who is on protected medical or family leave,” the lawsuit explained. The plaintiffs argue that this process effectively punished employees for exercising their legal rights to take time off. By using these metrics, the lawsuit claims that Meta violated both federal and state laws that protect workers from being fired for taking such leave.",
+      "zh": "訴訟書解釋道：「這些工具依賴的輸入數據——包括績效評級、校準分數、生產力與產出指標、『人工智慧原生』評級以及人工智慧代幣消耗量——在設計上，處於受保障醫療或家庭照顧假的員工根本無法累積這些數據。」原告主張，此過程實際上是在懲罰行使合法休假權利的員工。訴訟聲稱，透過使用這些指標，Meta 違反了聯邦與州法律中保護員工免於因請假而被解僱的規定。"
+    },
+    {
+      "id": "p6",
+      "en": "Meta has strongly denied these allegations. In a statement provided to both Ars Technica and The Verge, a company spokesperson named Tracy Clayton said that the claims are not based on facts and lack merit. The company insists that its decisions regarding staff were made by human managers, not by automated computer programs. “Workforce management and organizational decisions were and are made by people, not AI,” the company stated.",
+      "zh": "Meta 強烈否認這些指控。在提供給 Ars Technica 與 The Verge 的聲明中，公司發言人崔西·克萊頓 (Tracy Clayton) 表示，這些指控並非基於事實且毫無根據。該公司堅稱其關於員工的決定是由人類主管所做，而非自動化的電腦程式。公司聲明：「人力管理與組織決策過去是由、現在也依然是由人類而非人工智慧所做出。」"
+    },
+    {
+      "id": "p7",
+      "en": "This case highlights a growing concern about the role of technology in the modern workplace. As companies increasingly use data and algorithms—sets of rules that computers follow to solve problems—to manage performance and make hiring or firing decisions, questions about fairness and transparency are becoming more common. If the court finds that Meta’s tools were indeed biased, it could set a major legal precedent for how other large companies use AI in the future.",
+      "zh": "此案凸顯了人們對科技在現代職場中扮演角色的日益擔憂。隨著企業越來越多地使用數據與演算法（電腦用來解決問題的一套規則）來管理績效並做出聘僱或解僱決策，關於公平性與透明度的質疑也變得更加普遍。如果法院認定 Meta 的工具確實存在偏見，這可能會為其他大型企業未來如何使用人工智慧樹立重要的法律先例。"
+    },
+    {
+      "id": "p8",
+      "en": "For now, the legal battle is just beginning. The 26 former employees are seeking to prove that the reliance on these digital tools led to unfair treatment. Meanwhile, Meta maintains that its processes were fair and managed by human leaders. As the case moves forward, it will likely draw more attention to the risks of using automated systems to make life-changing decisions for employees. Many experts are watching this situation closely to see how the legal system will balance the use of new technology with the protection of workers' rights.",
+      "zh": "目前，這場法律戰才剛開始。這 26 名前員工正試圖證明對這些數位工具的依賴導致了不公平的對待。與此同時，Meta 堅持其流程公平且由人類領導者管理。隨著案件推進，這可能會讓大眾更加關注使用自動化系統來做出影響員工人生重大決策所帶來的風險。許多專家正密切關注此情況，觀察法律體系將如何在新技術應用與保護勞工權益之間取得平衡。"
+    }
+  ],
+  "wordCount": 732,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "filed",
+      "definitionEn": "To officially submit a legal document to a court.",
+      "definitionZh": "（法律上）正式提出（訴訟或文件）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見於文件歸檔，這裡指法律上的提告。文中：A group of 26 former employees has filed a lawsuit against Meta, the parent company of Facebook and Instagram, over the way it handled recent job cuts."
+    },
+    {
+      "term": "draw on",
+      "definitionEn": "To use information, experience, or resources to help you do something.",
+      "definitionZh": "利用、憑藉（資源、經驗或資訊）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這是一個片語，意思並非字面上的「畫在上面」。文中：Those tools draw on inputs—performance ratings, calibration scores, productivity and output metrics, ‘AI-native’ ratings, and AI-token consumption—that, by design, cannot be accumulated by an employee who is on protected medical or family leave,"
+    },
+    {
+      "term": "merit",
+      "definitionEn": "The quality of being good or worthy; in a legal context, it refers to the legal strength of a case.",
+      "definitionZh": "價值、優點；在法律語境中指案件的「法律依據」或「勝訴可能性」。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作「優點」，但在法律新聞中常指案件是否有理。文中：In a statement provided to both Ars Technica and The Verge, a company spokesperson named Tracy Clayton said that the claims are not based on facts and lack merit."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
+      "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
+      "publishedAt": "2026-07-14T20:05:53Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+      "title": "Meta accused of using biased AI targeting for mass layoffs",
+      "publishedAt": "2026-07-14T17:18:11Z"
+    }
+  ],
+  "story": {
+    "id": "meta-lawsuit-over-ai-driven-layoffs",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the lawsuit, how did Meta categorize its employees regarding their use of new technologies?",
+      "options": {
+        "A": "By measuring their total years of service at the company.",
+        "B": "By using specific labels such as 'AI Native,' 'AI First,' and 'AI Enabled.'",
+        "C": "By ranking them based on their personal relationships with human managers.",
+        "D": "By assigning them scores based on their performance during medical leave."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，Meta 使用內部儀表板將員工標記為「AI Native」、「AI First」與「AI Enabled」，以衡量他們使用新科技的程度。選項 A 文章未提及；選項 C 與文章中提到的「人工智慧評分」矛盾；選項 D 則是原告指控的後果，而非分類方式。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the employees who were on protected medical or family leave during the layoff period?",
+      "options": {
+        "A": "They were given special priority for retention by human managers.",
+        "B": "They were unable to generate the data points that the AI system used for ranking.",
+        "C": "They were intentionally targeted by managers because they were not using AI tools.",
+        "D": "They were the only employees who were not subject to the company's internal monitoring."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據第四段與第五段，這些員工因請假而未在公司工作，導致無法累積 AI 系統所需的績效數據（如 AI 代幣消耗或生產力指標）。這導致 AI 系統給予他們較低評分，進而增加了被裁員的風險。選項 A 與文章描述的裁員結果相反；選項 C 無法從文中證實是「蓄意」針對；選項 D 文中並未提及他們未受監控。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the word 'precedent' mean in the context of the legal battle?",
+      "options": {
+        "A": "A previous legal decision that serves as a guide for future cases.",
+        "B": "A formal apology issued by a company to its former employees.",
+        "C": "A type of software used to track employee performance.",
+        "D": "A financial settlement reached before a trial begins."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在法律語境中，「precedent」（判例）是指過去的判決結果，會成為未來處理類似案件的參考標準。文章第七段提到，若法院認定 Meta 的工具存在偏見，將會為其他大型企業未來如何使用人工智慧設下重要的法律先例。其他選項皆不符合法律術語的定義。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary focus of this article?",
+      "options": {
+        "A": "The history of how AI tools were first developed at Meta.",
+        "B": "The personal stories of the 26 employees who were laid off.",
+        "C": "The technical specifications of the 'Metamate' assistant software.",
+        "D": "The legal conflict regarding Meta's use of AI in making layoff decisions."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。整篇文章的核心在於報導 Meta 因使用 AI 進行裁員而面臨訴訟，並討論了此舉對員工權益的潛在影響以及法律界對此議題的關注。選項 A、B、C 皆為文章中的細節或背景資訊，並非整篇報導的主旨。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
