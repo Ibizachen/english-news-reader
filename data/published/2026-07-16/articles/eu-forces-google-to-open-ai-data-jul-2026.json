@@ -1,0 +1,165 @@
+{
+  "id": "2026-07-16-eu-forces-google-to-open-ai-data",
+  "slug": "eu-forces-google-to-open-ai-data-jul-2026",
+  "publishedAt": "2026-07-16T22:13:53.598961Z",
+  "category": "technology",
+  "title": "European Union Orders Google to Open Android to Rival AI",
+  "subtitle": "New regulations aim to increase competition, but critics worry about user privacy and security.",
+  "summary": {
+    "en": "The European Commission has officially ordered Google to allow rival AI assistants to access its Android operating system. This decision follows the Digital Markets Act, which aims to limit the power of large technology companies. Google must now provide competitors with the same data access currently enjoyed by its own AI, Gemini. While the company claims these changes could threaten user privacy, it has been granted a grace period until July 2027 to comply. This move highlights the ongoing struggle between global tech giants and European regulators.",
+    "zh": "歐盟執行委員會已正式下令 Google 允許競爭對手的 AI 助理存取其 Android 作業系統。此決策源於旨在限制大型科技公司權力的《數位市場法》。Google 現在必須提供競爭對手與其自家 AI Gemini 同等的數據存取權。儘管該公司聲稱這些變更可能威脅用戶隱私，但已獲准享有至 2027 年 7 月的寬限期以進行合規調整。此舉凸顯了全球科技巨頭與歐洲監管機構之間持續存在的角力。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The European Commission has announced a major decision that will change how artificial intelligence (AI) works on smartphones across Europe. Under the Digital Markets Act (DMA)—a set of rules designed to ensure fair competition in the digital economy—Google is now required to open its Android operating system to rival AI platforms. This means that Google must allow other companies to offer AI assistants that work as smoothly and effectively as its own tool, Gemini.",
+      "zh": "歐盟執行委員會（European Commission）宣布了一項重大決策，將改變人工智慧（AI）在歐洲各地智慧型手機上的運作方式。根據旨在確保數位經濟公平競爭的《數位市場法》（Digital Markets Act，簡稱 DMA），Google 現在必須開放其 Android 作業系統，以接納競爭對手的 AI 平台。這意味著 Google 必須允許其他公司提供與其自家工具 Gemini 一樣流暢且高效的 AI 助理。"
+    },
+    {
+      "id": "p2",
+      "en": "For years, Google’s Gemini has held a special position on Android devices. It is pre-installed on most Google-certified phones and has deep access to system features, such as screen content and app automation. According to the European Commission, this setup limits the ability of other AI developers to compete. The Commission noted that because third-party assistants cannot access the same system data, they are less attractive to the 60% of European users who own Android devices. By forcing Google to share this access, regulators hope to give users more choices when selecting an AI assistant.",
+      "zh": "多年來，Google 的 Gemini 在 Android 裝置上一直處於特殊地位。它預先安裝在大多數經 Google 認證的手機中，並能深度存取系統功能，例如螢幕內容與應用程式自動化。根據歐盟執行委員會的說法，這種架構限制了其他 AI 開發商的競爭能力。委員會指出，由於第三方助理無法存取相同的系統數據，對於擁有 Android 裝置的六成歐洲用戶來說，它們的吸引力較低。透過強制 Google 分享這些存取權限，監管機構希望在用戶選擇 AI 助理時，能提供更多元的選項。"
+    },
+    {
+      "id": "p3",
+      "en": "This development follows a period of intense pressure on major technology firms. As Ars Technica reports, the European Commission has been using the DMA to monitor and change the business practices of companies like Apple, Meta, and Google since 2024. These companies are classified as “gatekeepers,” meaning they are large, dominant platforms that control access to digital services. Because of this status, these companies are legally required to follow strict rules to prevent them from using their size to block smaller competitors.",
+      "zh": "此一發展是在大型科技公司面臨巨大壓力下所產生的。正如科技新聞網站 Ars Technica 報導，歐盟執行委員會自 2024 年起便利用《數位市場法》來監控並改變蘋果（Apple）、Meta 與 Google 等公司的商業行為。這些公司被歸類為「守門人」，意指它們是控制數位服務存取權的大型主導平台。由於具備此種地位，這些公司在法律上必須遵守嚴格規範，以防止其利用自身規模來阻礙規模較小的競爭對手。"
+    },
+    {
+      "id": "p4",
+      "en": "Google has expressed significant concerns regarding the new order. The company argues that opening up its systems to third-party AI could create serious risks for user privacy and device security. Google maintains that its current system is safer because it keeps control over how data is processed. However, as The Verge reports, the European Commission has stated that the new measures were designed specifically to protect user privacy while still allowing for competition. Despite these disagreements, Google is legally bound to follow the ruling.",
+      "zh": "Google 對這項新命令表達了重大疑慮。該公司主張，向第三方 AI 開放系統可能會對用戶隱私與裝置安全造成嚴重風險。Google 堅稱其現行系統較為安全，因為它能掌控數據處理的方式。然而，正如科技媒體 The Verge 報導，歐盟執行委員會表示，這些新措施旨在保護用戶隱私的同時，仍能允許市場競爭。儘管存在這些歧見，Google 在法律上仍有義務遵守這項裁決。"
+    },
+    {
+      "id": "p5",
+      "en": "Interestingly, the situation highlights a strategic difference between Google and its rival, Apple. While Apple recently decided to delay the launch of its own AI features in Europe due to the DMA’s requirements, Google has chosen a different path. According to The Verge, Google has secured a \"grace period\"—a set amount of extra time to meet new requirements—that lasts until July 2027. This gives Google roughly one year to continue developing Gemini and to negotiate the technical details of how its rivals will connect to Android. By shipping its product first and working with regulators later, Google has managed to keep its AI on the market while it prepares to follow the new rules.",
+      "zh": "有趣的是，此情況凸顯了 Google 與其競爭對手蘋果之間的策略差異。雖然蘋果近期因《數位市場法》的要求，決定延後在歐洲推出自家的 AI 功能，但 Google 選擇了不同的路徑。根據 The Verge 報導，Google 已爭取到一段「寬限期」，即在滿足新要求前的一段額外時間，期限至 2027 年 7 月。這讓 Google 有大約一年的時間繼續開發 Gemini，並協商競爭對手如何連接至 Android 的技術細節。透過先推出產品再與監管機構合作，Google 在準備遵守新規則的同時，成功讓其 AI 持續在市場上運作。"
+    },
+    {
+      "id": "p6",
+      "en": "This decision comes at a time when governments around the world are becoming more active in regulating AI. For example, recent reports indicate that Australia has launched a new Office of AI to manage technology growth and protect the rights of creators. Meanwhile, legal battles continue to shape the industry, such as the recent lawsuit filed by Apple against OpenAI regarding the alleged theft of trade secrets. These events show that the technology sector is facing a wave of new oversight as regulators try to balance innovation with public safety.",
+      "zh": "這項決策發布之際，正值全球各國政府對監管 AI 變得更加積極之時。例如，近期報導指出，澳洲已成立新的 AI 辦公室，以管理技術發展並保護創作者權益。與此同時，法律訴訟持續影響著產業發展，例如蘋果近期針對 OpenAI 涉嫌竊取商業機密所提起的訴訟。這些事件顯示，隨著監管機構試圖在創新與公共安全之間取得平衡，科技產業正面臨一波新的監管浪潮。"
+    },
+    {
+      "id": "p7",
+      "en": "For now, the focus remains on how Google will implement these changes. The company has not publicly stated whether it will challenge the decision in court. If it does not, it must work closely with the European Commission to ensure that third-party AI assistants can function on Android without compromising the experience for the average user. Whether this will lead to a more open market for AI or simply create new technical challenges remains to be seen. For the millions of Android users in the European Union, the change means that they may soon have the freedom to choose an AI assistant that best fits their needs, rather than relying solely on the one provided by the phone manufacturer.",
+      "zh": "目前，焦點仍放在 Google 將如何執行這些變更。該公司尚未公開說明是否會向法院挑戰這項決策。若不挑戰，它必須與歐盟執行委員會密切合作，確保第三方 AI 助理能在不影響一般用戶體驗的情況下於 Android 上運作。這是否會帶來一個更開放的 AI 市場，還是僅會創造新的技術挑戰，仍有待觀察。對於歐盟境內數以百萬計的 Android 用戶而言，這項改變意味著他們很快就能自由選擇最符合自身需求的 AI 助理，而不必僅能依賴手機製造商所提供的工具。"
+    }
+  ],
+  "wordCount": 712,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "block",
+      "definitionEn": "To stop someone or something from moving forward or making progress.",
+      "definitionZh": "阻礙、阻止。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（街區、積木），這裡作動詞用。文中：Because of this status, these companies are legally required to follow strict rules to prevent them from using their size to block smaller competitors."
+    },
+    {
+      "term": "shipping",
+      "definitionEn": "Releasing or sending a product to the market for customers to use.",
+      "definitionZh": "（產品）上市、出貨。",
+      "partOfSpeech": "verb (gerund)",
+      "noteZh": "常見作名詞（航運），這裡指科技產品發布上市。文中：By shipping its product first and working with regulators later, Google has managed to keep its AI on the market while it prepares to follow the new rules."
+    },
+    {
+      "term": "bound",
+      "definitionEn": "Required by law or duty to do something.",
+      "definitionZh": "受約束的、有義務的。",
+      "partOfSpeech": "adjective",
+      "noteZh": "常見作動詞 bind 的過去分詞，這裡作形容詞表示「必須遵守」。文中：Despite these disagreements, Google is legally bound to follow the ruling."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+      "title": "It's official: EU will force Google to share search data and open up AI on Android",
+      "publishedAt": "2026-07-16T20:41:45Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai",
+      "title": "Google is better than Apple at playing the AI regulations game",
+      "publishedAt": "2026-07-16T16:55:54Z"
+    }
+  ],
+  "story": {
+    "id": "openai-faces-legal-and-security-scrutiny",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "apple-sues-openai-over-alleged-trade-secret-theft-jul-2026",
+        "title": "Apple Takes Legal Action Against OpenAI Over Stolen Secrets",
+        "publishedAt": "2026-07-13T22:14:10.134807Z",
+        "category": "technology",
+        "summaryEn": "Apple has filed a lawsuit against OpenAI regarding the theft of sensitive trade secrets. The company claims a former engineer used a software bug to access private files after leaving his job. This legal action follows earlier accusations that OpenAI hired former Apple staff to gain an unfair advantage in hardware development. Apple is now seeking court orders to stop OpenAI from using this stolen information. The case highlights the growing competition between tech giants as they race to build new AI-powered devices."
+      },
+      {
+        "slug": "australia-establishes-new-ai-office-and-copyright-jul-2026",
+        "title": "Australia Launches New AI Office to Protect Creators and Manage Tech Growth",
+        "publishedAt": "2026-07-15T23:11:28.307974Z",
+        "category": "technology",
+        "summaryEn": "Prime Minister Anthony Albanese has announced the creation of a new Office of AI to regulate the fast-growing technology sector. The government is taking a firm stance against AI companies using Australian creative work without permission or payment. New rules will also be introduced to manage the construction and power usage of large data centers. These centers must not compete with housing needs or raise electricity prices for local families. While tech companies have expressed a willingness to work with these new standards, experts note the difficulty of regulating powerful global firms."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the specific reason the European Commission believes third-party AI assistants are currently at a disadvantage on Android devices?",
+      "options": {
+        "A": "They are not pre-installed on Google-certified smartphones.",
+        "B": "They lack the same level of access to system data that Gemini possesses.",
+        "C": "They are technically inferior to Google's Gemini in terms of processing speed.",
+        "D": "They are blocked by the Digital Markets Act from operating in the European market."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，歐盟委員會指出，由於第三方 AI 助手無法存取與 Gemini 相同的系統數據（system data），導致它們無法提供同等功能，進而對用戶缺乏吸引力。選項 A 雖然提到預裝，但並非競爭力弱的核心原因；選項 C 文章未提及技術優劣，僅提到數據存取權；選項 D 錯誤，DMA 的目的是促進競爭而非禁止第三方 AI。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, what can be inferred about Google's approach to the DMA regulations compared to Apple's?",
+      "options": {
+        "A": "Google is attempting to bypass the regulations entirely by moving its operations outside of Europe.",
+        "B": "Google is more willing to compromise its security standards than Apple is.",
+        "C": "Google is prioritizing immediate market presence by negotiating a transition timeline.",
+        "D": "Google and Apple are both planning to launch their AI features in Europe at the exact same time."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第五段提到，Apple 選擇延遲在歐洲推出 AI 功能，而 Google 則爭取到「寬限期」（grace period），這顯示 Google 選擇先推出產品並在後續與監管機構協商技術細節，以維持市場份額。選項 A 無根據；選項 B 雖然提到 Google 對安全性有疑慮，但無法推論其願意犧牲安全性；選項 D 明顯與文意矛盾，因為兩者策略截然不同。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fourth paragraph, what is the best meaning of 'bound' as used in the sentence: 'Google is legally bound to follow the ruling'?",
+      "options": {
+        "A": "Forced or required by law to do something.",
+        "B": "Limited in movement or physical capacity.",
+        "C": "Moving in a specific direction toward a destination.",
+        "D": "Connected or tied together with another entity."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在該語境中，「legally bound」意指「受法律約束」，即必須遵守裁決。選項 B 雖然有「受限制」之意，但在此處指法律義務而非物理限制；選項 C 指的是前往某處（如 homeward bound）；選項 D 雖有連結之意，但不符合此處強調義務性的語境。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article regarding the European Commission's actions?",
+      "options": {
+        "A": "The DMA is primarily designed to help Google improve its Gemini AI technology.",
+        "B": "Governments are struggling to keep up with the rapid pace of global AI innovation.",
+        "C": "The European Commission is forcing tech giants to open their platforms to ensure fair competition.",
+        "D": "Google and Apple are currently working together to challenge the European Commission's authority."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。全文的核心在於探討歐盟如何透過 DMA 法案，要求像 Google 這樣的「守門人」（gatekeepers）開放系統，以打破壟斷並促進 AI 市場的公平競爭。選項 A 與文意相反，DMA 是為了限制而非幫助 Google；選項 B 雖在最後一段提到全球監管趨勢，但非全文核心；選項 D 錯誤，文中並未提到 Google 與 Apple 聯手對抗歐盟。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
