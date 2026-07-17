@@ -1,0 +1,151 @@
+{
+  "id": "2026-07-17-san-francisco-targets-ai-generated-nudity-apps",
+  "slug": "san-francisco-targets-ai-generated-nudity-apps-jul-2026",
+  "publishedAt": "2026-07-17T22:13:33.760358Z",
+  "category": "technology",
+  "title": "San Francisco Takes Action Against AI Nudity Apps",
+  "subtitle": "City officials demand that Apple and Google remove tools used to create non-consensual sexual images.",
+  "summary": {
+    "en": "San Francisco’s attorney general has ordered Apple and Google to remove 13 apps that use artificial intelligence to create fake nude images. These tools allow users to change photos of real people into sexual content without their permission. Officials argue that these apps cause serious harm to victims, including women and children. Both tech companies have policies against such content, but critics say they have profited from these apps for too long. Google has confirmed that the flagged apps were removed from their store.",
+    "zh": "舊金山市檢察長已下令蘋果與谷歌移除 13 款利用人工智慧製作虛假裸露影像的應用程式。這些工具允許使用者在未經許可的情況下，將真實人物的照片轉變為色情內容。官員主張，這些應用程式對受害者（包括女性與兒童）造成了嚴重傷害。兩家科技公司雖皆有禁止此類內容的政策，但批評者認為他們從這些應用程式中獲利已久。谷歌已證實，被點名的應用程式皆已從其商店中移除。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "San Francisco is taking a strong stand against technology that creates fake, sexualized images. This week, the city’s attorney general, David Chiu, sent official letters to Apple and Google. These letters, known as cease-and-desist orders—which are formal demands to stop a specific activity—require both companies to remove 13 different apps from their digital stores. These apps use artificial intelligence (AI) to transform normal photos of people into explicit images without their consent.",
+      "zh": "舊金山正採取強硬立場，抵制製作虛假色情影像的科技。本週，舊金山市檢察長邱信福（David Chiu）向蘋果（Apple）與谷歌（Google）發出正式信函。這些被稱為「停止侵權通知」的信函，是要求對方停止特定行為的正式指令，要求兩家公司將 13 款應用程式從其數位商店中下架。這些應用程式利用人工智慧（AI）在未經當事人同意的情況下，將普通照片轉變為露骨的色情影像。"
+    },
+    {
+      "id": "p2",
+      "en": "According to a report by Wired, these tools are becoming very easy to find and use. They allow people to remove clothing from photos, change a person’s features, or place someone’s face onto a different body. The impact of this technology is severe. David Chiu explained that these images are frequently used to bully, humiliate, and threaten women and girls. In his comments to Wired, Chiu said his office was “absolutely horrified” by how common these tools have become. He noted that the technology causes deep harm to a person’s mental health and their reputation, and in some cases, it has even led victims to feel suicidal.",
+      "zh": "根據《連線》（Wired）雜誌的報導，這些工具變得非常容易取得與使用。它們允許使用者移除照片中的衣物、改變一個人的外貌，或是將某人的臉部移花接木到不同的身體上。這項科技帶來的影響極為嚴重。邱信福解釋，這些影像經常被用於霸凌、羞辱及威脅女性與女孩。他在對《連線》發表的評論中表示，他的辦公室對於這些工具變得如此普遍感到「極度震驚」。他指出，這項科技對個人的心理健康與名譽造成了深遠的傷害，在某些案例中，甚至導致受害者產生輕生念頭。"
+    },
+    {
+      "id": "p3",
+      "en": "One of the main concerns raised by the city is that Apple and Google have been making money from these apps. The attorney general’s office estimated that the two tech giants have likely made millions of dollars in fees by allowing these programs to stay in their stores. Chiu argued that instead of taking strong action, the companies have allowed these apps to remain, which he called completely unacceptable. He believes that the companies have a responsibility to do more to stop the spread of such harmful content.",
+      "zh": "舊金山市提出的主要疑慮之一，是蘋果與谷歌一直從這些應用程式中獲利。檢察長辦公室估計，這兩家科技巨頭允許這些程式留在商店中，可能已賺取了數百萬美元的費用。邱信福主張，這些公司非但沒有採取強硬行動，反而任由這些應用程式存在，他稱此舉完全無法接受。他認為，這些公司有責任採取更多作為，以阻止此類有害內容的傳播。"
+    },
+    {
+      "id": "p4",
+      "en": "While the specific names of the 13 apps were not made public to prevent more people from searching for them, Wired reported that some of these tools were very popular. One app had already been downloaded more than a million times. It reportedly advertised features that allowed users to create sexualized images of women or make videos that were described as \"free and uncensored.\" This type of content is a violation of California laws, which prohibit services that help create deepfake pornography—a term used for AI-generated images or videos that look real but are fake and intended to deceive or harm.",
+      "zh": "雖然這 13 款應用程式的具體名稱並未公開，以防更多人搜尋，但《連線》報導指出，其中一些工具非常熱門。有一款應用程式的下載次數已超過百萬。據報導，該程式宣傳的功能允許使用者製作女性的色情影像，或是製作被描述為「免費且未經審查」的影片。這類內容違反了加州法律，該法禁止提供協助製作「深偽色情」（deepfake pornography）的服務，這是一個用於描述由人工智慧生成、看起來真實卻是虛假，且意圖欺騙或傷害他人的影像或影片的術語。"
+    },
+    {
+      "id": "p5",
+      "en": "In response to the situation, Google provided a statement to Ars Technica. A spokesperson for the company, Dan Jackson, said that the five apps identified by the attorney general had already been suspended from the Google Play store. Jackson explained that Google does not allow apps with sexual content and that they are working to improve how they find and remove such programs. He added that the company has already suspended hundreds of apps that break their rules and has also restricted search terms like “nudify” to make it harder for users to find these tools.",
+      "zh": "針對此情況，谷歌向《Ars Technica》網站提供了聲明。該公司發言人丹·傑克森（Dan Jackson）表示，檢察長所指出的五款應用程式已從谷歌應用商店（Google Play）中停權。傑克森解釋，谷歌不允許含有色情內容的應用程式，且他們正致力於改進發現並移除此類程式的方式。他補充說，該公司已經將數百款違反規定的應用程式停權，並限制了如「裸體化」（nudify）等搜尋詞彙，以增加使用者找到這些工具的難度。"
+    },
+    {
+      "id": "p6",
+      "en": "This situation highlights a growing problem in the tech world. As AI technology becomes more powerful, it is also becoming easier for bad actors to use it for harmful purposes. Many experts agree that the responsibility lies with the platforms that host these apps. By allowing these tools to exist, app stores have become part of a public nuisance—a situation that causes harm to the community. The actions taken by San Francisco show that local governments are no longer willing to wait for tech companies to solve these problems on their own.",
+      "zh": "此情況凸顯了科技界日益嚴重的問題。隨著人工智慧技術變得愈發強大，惡意人士利用其進行有害目的也變得更加容易。許多專家一致認為，責任在於託管這些應用程式的平台。透過允許這些工具存在，應用商店已成為「公眾滋擾」的一部分，即造成社區傷害的情況。舊金山所採取的行動顯示，地方政府已不再願意等待科技公司自行解決這些問題。"
+    },
+    {
+      "id": "p7",
+      "en": "Looking ahead, it remains to be seen how Apple and Google will change their policies to prevent similar apps from appearing in the future. While Google has taken steps to remove the specific apps mentioned by the attorney general, the challenge of monitoring millions of apps is significant. For now, the move by San Francisco serves as a warning that the era of ignoring these harmful AI tools is coming to an end. The goal is to protect the privacy and safety of individuals, especially those who are most vulnerable to online harassment and abuse.",
+      "zh": "展望未來，蘋果與谷歌將如何調整政策以防止類似應用程式在未來出現，仍有待觀察。雖然谷歌已採取行動移除檢察長所提及的特定應用程式，但監控數百萬款應用程式的挑戰相當巨大。目前，舊金山的舉措發出了一個警告，即忽視這些有害人工智慧工具的時代即將結束。其目標是保護個人的隱私與安全，特別是那些最容易受到網路騷擾與虐待的群體。"
+    }
+  ],
+  "wordCount": 712,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "stand",
+      "definitionEn": "A firm position or opinion taken on a particular issue.",
+      "definitionZh": "立場、態度。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（站立），這裡作名詞，指對某事採取的立場。文中：San Francisco is taking a strong stand against technology that creates fake, sexualized images."
+    },
+    {
+      "term": "stay",
+      "definitionEn": "To continue to be in a particular place or state.",
+      "definitionZh": "保持、維持（在某處）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作「停留」，這裡指讓應用程式「留在」商店中。文中：The attorney general’s office estimated that the two tech giants have likely made millions of dollars in fees by allowing these programs to stay in their stores."
+    },
+    {
+      "term": "break",
+      "definitionEn": "To fail to follow a rule or law.",
+      "definitionZh": "違反（規則、法律）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作「打破」，這裡指違反規定。文中：He added that the company has already suspended hundreds of apps that break their rules and has also restricted search terms like “nudify” to make it harder for users to find these tools."
+    },
+    {
+      "term": "lies",
+      "definitionEn": "To exist or be found in a particular place or situation.",
+      "definitionZh": "在於、存在於。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（謊言），這裡作動詞，表示責任「在於」某處。文中：Many experts agree that the responsibility lies with the platforms that host these apps."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
+      "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
+      "publishedAt": "2026-07-17T16:10:05Z"
+    }
+  ],
+  "story": {
+    "id": "san-francisco-targets-ai-generated-nudity-apps",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the primary reason San Francisco's attorney general sent cease-and-desist orders to Apple and Google?",
+      "options": {
+        "A": "To force the companies to pay fines for past illegal activities.",
+        "B": "To demand the removal of 13 specific AI apps that create non-consensual explicit images.",
+        "C": "To prevent the companies from releasing new AI technology in the city.",
+        "D": "To request that the companies change their search engine algorithms for better privacy."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第一段，舊金山檢察長 David Chiu 發出停止令（cease-and-desist orders）的目的是要求 Apple 和 Google 從其數位商店中移除 13 款利用 AI 製作未經同意之露骨影像的應用程式。選項 A 錯誤，文中並未提及要公司支付罰款。選項 C 錯誤，文中並未要求禁止所有 AI 技術。選項 D 錯誤，檢察長針對的是具體的應用程式，而非搜尋引擎演算法的全面調整。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the relationship between tech platforms and the rise of harmful AI tools?",
+      "options": {
+        "A": "Tech platforms are unaware that these apps exist in their stores.",
+        "B": "Tech platforms are actively creating these tools to compete with each other.",
+        "C": "Tech platforms have gained financial benefits from hosting apps that violate their own policies.",
+        "D": "Tech platforms have successfully stopped all harmful AI content through strict monitoring."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第三段，檢察長指出 Apple 和 Google 從這些應用程式中獲利數百萬美元，且儘管這些應用程式違反了規範，公司卻允許其留在商店中，這顯示平台在獲利與管理責任之間存在矛盾。選項 A 錯誤，文中提到公司已開始採取行動，表示其知情。選項 B 錯誤，文中並未指控平台開發這些工具。選項 D 錯誤，文章提到監控數百萬個應用程式是一項艱鉅的挑戰，且目前仍有問題存在。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the sixth paragraph, what does the phrase 'public nuisance' refer to in the context of the article?",
+      "options": {
+        "A": "An annoying but harmless trend among social media users.",
+        "B": "A situation that causes harm or offense to the community.",
+        "C": "A legal term for a product that is not selling well in stores.",
+        "D": "A type of software that slows down computer systems."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第六段，作者提到「public nuisance」是用來形容這些 AI 工具對社會造成的危害，即這些工具的存在不僅僅是個人問題，而是對社區造成了負面影響。選項 A 錯誤，這些工具造成的傷害是嚴重的，而非單純的「惱人」。選項 C 與 D 皆與文中法律及社會層面的定義無關，屬於對該術語的錯誤解讀。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article regarding the use of AI tools?",
+      "options": {
+        "A": "Apple and Google are the only companies responsible for the development of AI.",
+        "B": "Local governments are taking action to hold platforms accountable for the harms caused by AI-generated explicit content.",
+        "C": "AI technology is becoming too advanced for any government to regulate or control.",
+        "D": "The 13 apps mentioned are the only harmful tools currently available on the internet."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。本文的主旨在於探討舊金山政府如何透過法律手段，要求科技巨頭對其平台上架的有害 AI 應用程式負起責任，保護大眾免受網路霸凌與傷害。選項 A 錯誤，文中並未稱其為「唯一」責任方。選項 C 錯誤，文章強調政府不再坐視不管，顯示出監管的意圖。選項 D 錯誤，文中僅提到這 13 款是此次行動的目標，並未宣稱它們是網路上唯一的有害工具。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
