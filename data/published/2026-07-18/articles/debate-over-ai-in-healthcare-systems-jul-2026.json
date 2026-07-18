@@ -1,0 +1,159 @@
+{
+  "id": "2026-07-18-debate-over-ai-in-healthcare-systems",
+  "slug": "debate-over-ai-in-healthcare-systems-jul-2026",
+  "publishedAt": "2026-07-18T23:09:09.279949Z",
+  "category": "technology",
+  "title": "Can AI Fix the Medical Approval Process?",
+  "subtitle": "New government programs test if artificial intelligence can speed up insurance decisions or if it will lead to more unfair treatment denials.",
+  "summary": {
+    "en": "Patients often face long delays when waiting for insurance companies to approve medical treatments. The government is now testing AI tools to manage these requests more quickly. While some hope this will reduce paperwork, many doctors fear the technology will cause more unfair denials. Experts argue that AI should be used to help patients rather than to save money at their expense. The debate highlights the tension between using new technology and protecting patient health.",
+    "zh": "病患在等待保險公司核准醫療治療時，常面臨漫長的延宕。政府目前正測試人工智慧工具，以更快速地管理這些申請。雖然有人希望這能減少文書作業，但許多醫師擔心該技術會導致更多不公平的拒絕給付。專家主張，人工智慧應被用於協助病患，而非以犧牲病患權益為代價來節省成本。這場辯論凸顯了運用新科技與保障病患健康之間的緊張關係。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "For many patients, getting a doctor’s recommendation is only the first step in a long and difficult journey. Before a medical procedure or a prescription medication can be covered, insurance companies often require a process called prior authorization. This is a check that ensures the treatment is medically necessary and that there are no cheaper alternatives. However, this system is frequently criticized for causing long delays, which can lead patients to give up on their health needs while waiting for an answer.",
+      "zh": "對許多病患而言，取得醫師的建議只是漫長且艱辛療程的第一步。在醫療程序或處方藥物獲得保險給付之前，保險公司通常要求進行一項稱為「事前審核」的程序。這是一道確保治療具有醫療必要性且無更廉價替代方案的檢核機制。然而，此制度常因導致漫長延宕而飽受批評，這可能使病患在等待回覆的過程中，被迫放棄所需的醫療照護。"
+    },
+    {
+      "id": "p2",
+      "en": "Following recent discussions about the role of technology in our lives, a new development has emerged in the healthcare sector. According to Ars Technica, the administration of President Donald Trump is currently testing a program in six states that uses artificial intelligence (AI) to manage these insurance requests. The goal of this pilot program is to reduce unnecessary medical spending. By using AI to quickly sort through large amounts of information, the government hopes to make the approval process faster and more efficient for everyone involved.",
+      "zh": "繼近期關於科技在生活中所扮演角色的討論後，醫療保健領域出現了新的發展。根據科技新聞網站 Ars Technica 報導，川普 (Donald Trump) 政府目前正在六個州測試一項計畫，利用人工智慧來管理這些保險申請。這項試辦計畫的目標是減少不必要的醫療支出。政府希望透過人工智慧快速篩選大量資訊，讓審核流程對所有相關方而言都能更快速且有效率。"
+    },
+    {
+      "id": "p3",
+      "en": "Despite the potential for speed, the use of AI in this area is controversial. Many doctors are worried about how these computer programs make decisions. A 2025 survey by the American Medical Association (AMA) found that 61 percent of physicians are concerned that AI will make it harder for patients to get the care they need. These doctors fear that the technology will lead to more wrongful denials of coverage, forcing patients to go through a long and tiring appeal process just to get the treatment their doctors already recommended.",
+      "zh": "儘管人工智慧具備提升速度的潛力，但在該領域的應用仍具爭議。許多醫師對於這些電腦程式如何做出決策感到擔憂。美國醫學會 (American Medical Association, AMA) 2025 年的一項調查發現，61% 的醫師擔心人工智慧將使病患更難獲得所需的照護。這些醫師憂心該技術會導致更多不當的給付拒絕，迫使病患必須經歷漫長且疲憊的申訴程序，才能獲得醫師早已建議的治療。"
+    },
+    {
+      "id": "p4",
+      "en": "There is a strong disagreement regarding how these tools should be used. Health policy analyst Camm Epstein, writing in an email to Undark, argued that the focus of AI should be clear. Epstein noted that “AI should be used to make appropriate care easier to approve, not necessary care easier to deny.” This view is shared by many in the medical community who believe that technology should support the relationship between doctors and patients, rather than acting as a barrier to health.",
+      "zh": "關於這些工具應如何使用，各界存在強烈分歧。醫療政策分析師艾普斯坦 (Camm Epstein) 在給 Undark 的電子郵件中主張，人工智慧的焦點應當明確。艾普斯坦指出：「人工智慧應被用於讓合適的照護更容易通過審核，而非讓必要的照護更容易被拒絕。」許多醫界人士抱持相同觀點，認為科技應輔助醫師與病患之間的關係，而非成為醫療健康的阻礙。"
+    },
+    {
+      "id": "p5",
+      "en": "To address these concerns, the AMA is calling for more openness from insurance companies. They are advocating for a requirement that insurers provide detailed clinical reasoning whenever they deny a request. This means the companies would have to explain exactly why a treatment was rejected. The AMA also wants more transparency regarding AI algorithms—the sets of rules or instructions that computers use to solve problems—so that doctors can understand how these systems reach their conclusions.",
+      "zh": "為了解決這些疑慮，美國醫學會呼籲保險公司提高透明度。他們主張應要求保險業者在拒絕申請時，必須提供詳細的臨床理由。這意味著保險公司必須確切解釋為何拒絕某項治療。美國醫學會同時要求人工智慧演算法（即電腦用來解決問題的規則或指令集）應具備更高的透明度，以便醫師能理解這些系統是如何得出結論的。"
+    },
+    {
+      "id": "p6",
+      "en": "This debate is part of a larger conversation about how we balance new technology with human needs. As noted in previous reports, AI has the potential to change many parts of our lives, from education to medicine. While the promise of faster approvals is attractive, the risk of losing the human touch in medical decisions remains a significant worry for many professionals. If an AI system denies coverage, it may be difficult for a patient to challenge a decision made by a machine that does not fully understand their specific medical history.",
+      "zh": "這場辯論是關於我們如何平衡新科技與人類需求之更大對話的一部分。如先前報導所述，人工智慧有潛力改變我們生活的許多層面，從教育到醫學皆然。雖然審核加速的前景頗具吸引力，但醫療決策中失去人性關懷的風險，仍是許多專業人士的一大隱憂。若人工智慧系統拒絕給付，病患可能難以挑戰由一台無法完全理解其特定病史的機器所做出的決定。"
+    },
+    {
+      "id": "p7",
+      "en": "As the six-state pilot program continues, the results will be watched closely by both patients and healthcare providers. If the program succeeds, it could set a new standard for how insurance companies handle medical requests across the country. However, if the concerns of doctors prove to be correct, it may lead to a push for stricter regulations on how AI is used in the insurance industry. For now, the future of AI in healthcare remains a mix of hope for better efficiency and fear of losing access to vital medical services.",
+      "zh": "隨著六州試辦計畫持續進行，病患與醫療提供者都將密切關注結果。若計畫成功，可能為全國保險公司處理醫療申請的方式樹立新標準。然而，若醫師的擔憂被證實，可能會促使各界推動更嚴格的法規，規範人工智慧在保險業的使用方式。目前，人工智慧在醫療保健的未來，仍處於對提升效率的期盼與對失去重要醫療服務管道的恐懼之間。"
+    }
+  ],
+  "wordCount": 662,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "covered",
+      "definitionEn": "Paid for by an insurance policy.",
+      "definitionZh": "（保險）承保的、給付的。",
+      "partOfSpeech": "adjective (past participle)",
+      "noteZh": "常見作動詞（覆蓋），這裡指保險公司承擔費用。文中：Before a medical procedure or a prescription medication can be covered, insurance companies often require a process called prior authorization."
+    },
+    {
+      "term": "give up on",
+      "definitionEn": "To stop trying to do something or stop hoping for something.",
+      "definitionZh": "放棄、對……不再抱持希望。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "此片語在此處指患者因等待時間過長而放棄尋求醫療協助。文中：However, this system is frequently criticized for causing long delays, which can lead patients to give up on their health needs while waiting for an answer."
+    },
+    {
+      "term": "barrier",
+      "definitionEn": "Something that prevents progress or makes it difficult for two people or groups to understand each other.",
+      "definitionZh": "障礙、阻礙。",
+      "partOfSpeech": "noun",
+      "noteZh": "原意為實體障礙物，此處引申為阻礙醫病關係的抽象事物。文中：This view is shared by many in the medical community who believe that technology should support the relationship between doctors and patients, rather than acting as a barrier to health."
+    },
+    {
+      "term": "handle",
+      "definitionEn": "To deal with, manage, or take responsibility for a situation or task.",
+      "definitionZh": "處理、應付。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（把手），這裡作動詞指處理業務。文中：If the program succeeds, it could set a new standard for how insurance companies handle medical requests across the country."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+      "title": "Will AI fix prior authorization—or make it worse?",
+      "publishedAt": "2026-07-18T11:18:25Z"
+    }
+  ],
+  "story": {
+    "id": "debate-over-ai-in-healthcare-and-education",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "debate-over-ai-in-healthcare-and-education-jul-2026",
+        "title": "The AI Dilemma: Balancing Technology in Healthcare and Education",
+        "publishedAt": "2026-07-18T22:14:17.769158Z",
+        "category": "technology",
+        "summaryEn": "Artificial intelligence is changing how we access medical care and how students complete their studies. In healthcare, AI could speed up insurance approvals, but many doctors fear it will lead to unfair denials of treatment. Meanwhile, universities are rushing to update their testing methods to prevent cheating. Experts warn that these changes must be handled carefully to protect both patient health and academic quality. Balancing innovation with fairness remains a significant challenge for leaders in both fields."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is the primary reason the American Medical Association (AMA) is advocating for more transparency from insurance companies?",
+      "options": {
+        "A": "To ensure that AI programs can be replaced by human reviewers.",
+        "B": "To help doctors understand the logic behind AI-generated denial decisions.",
+        "C": "To reduce the amount of time patients spend waiting for a response.",
+        "D": "To lower the cost of medical procedures for patients in the six-state pilot program."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第五段，AMA 要求保險公司提供詳細的臨床理由，並提高 AI 演算法的透明度，目的是讓醫生能理解這些系統是如何得出拒絕核保的結論。選項 A 並未在文中提到要取代 AI；選項 C 雖然是 AI 的目標之一，但不是 AMA 要求透明度的主要原因；選項 D 是政府試驗計畫的目標，而非 AMA 呼籲透明度的動機。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the concerns expressed in the article, what is a likely consequence if AI systems are given full authority to approve or deny medical coverage?",
+      "options": {
+        "A": "Doctors will spend less time interacting with their patients.",
+        "B": "Insurance companies will likely increase the number of covered procedures.",
+        "C": "Patients may face significant obstacles when trying to appeal a machine-made decision.",
+        "D": "The cost of healthcare will automatically decrease for all patients."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第六段，作者提到若 AI 拒絕核保，患者將難以挑戰由機器所做出的決定，因為機器無法完全理解患者特定的病史。這呼應了第三段提到醫生擔心 AI 會導致更多不當拒絕，迫使患者進行繁瑣的上訴過程。選項 A 與文章討論的核保流程無直接因果關係；選項 B 與文中擔憂的「拒絕核保」矛盾；選項 D 僅是政府的希望，並非必然發生的結果。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fourth paragraph, what does the word 'barrier' most closely mean in the context of the relationship between doctors and patients?",
+      "options": {
+        "A": "A physical wall or fence.",
+        "B": "An obstacle that prevents progress or connection.",
+        "C": "A legal agreement between two parties.",
+        "D": "A tool used to measure medical efficiency."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文中提到醫生們希望科技應支持醫病關係，而非成為「barrier」（障礙），意指科技不應阻礙醫療服務的取得或醫病間的溝通。選項 A 是該詞的字面意思，但在文中是隱喻用法；選項 C 與 D 皆與文中語境不符，無法體現科技介入醫療時可能造成的負面阻隔效果。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central theme of the article regarding the use of AI in insurance prior authorization?",
+      "options": {
+        "A": "AI is the perfect solution to eliminate all delays in the medical insurance industry.",
+        "B": "The government has already proven that AI is more accurate than human insurance reviewers.",
+        "C": "While AI offers potential efficiency, its implementation raises significant ethical and practical concerns.",
+        "D": "Doctors are universally opposed to using any form of technology in their medical practices."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。整篇文章平衡地探討了 AI 在醫療核保中的潛力（如提高效率、減少支出），以及醫療專業人員對其帶來的風險（如錯誤拒絕、缺乏透明度、失去人性關懷）的擔憂。選項 A 過於絕對，文中並未證實其成效；選項 B 文中僅提到正在試驗，並未證實比人類更準確；選項 D 過度誇大，醫生擔心的是 AI 的決策機制，而非反對所有科技。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
