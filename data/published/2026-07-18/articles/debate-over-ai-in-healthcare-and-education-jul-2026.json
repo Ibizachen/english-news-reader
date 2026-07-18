@@ -1,0 +1,150 @@
+{
+  "id": "2026-07-18-debate-over-ai-in-healthcare-and-education",
+  "slug": "debate-over-ai-in-healthcare-and-education-jul-2026",
+  "publishedAt": "2026-07-18T22:14:17.769158Z",
+  "category": "technology",
+  "title": "The AI Dilemma: Balancing Technology in Healthcare and Education",
+  "subtitle": "As artificial intelligence grows, schools and hospitals struggle to find the right way to use these powerful tools.",
+  "summary": {
+    "en": "Artificial intelligence is changing how we access medical care and how students complete their studies. In healthcare, AI could speed up insurance approvals, but many doctors fear it will lead to unfair denials of treatment. Meanwhile, universities are rushing to update their testing methods to prevent cheating. Experts warn that these changes must be handled carefully to protect both patient health and academic quality. Balancing innovation with fairness remains a significant challenge for leaders in both fields.",
+    "zh": "人工智慧正在改變我們取得醫療照護的方式，以及學生完成學業的過程。在醫療領域，人工智慧或許能加速保險核准流程，但許多醫師擔心這會導致不公平的治療拒絕。同時，大學正急於更新考試方法以防止作弊。專家警告，這些變革必須謹慎處理，以維護病患健康與學術品質。在創新與公平之間取得平衡，仍是這兩個領域領導者面臨的一大挑戰。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Artificial intelligence (AI) is changing the way we live, but its rapid growth is creating new challenges in two very important areas: healthcare and education. From the way patients get approval for medicine to how students complete their university assignments, the use of AI is causing both excitement and deep concern. As these technologies become more common, professionals in both sectors are trying to decide how to use them safely and fairly.",
+      "zh": "人工智慧正在改變我們的生活方式，但其快速成長在醫療與教育這兩個極為重要的領域中，產生了新的挑戰。從病患取得藥物核准的方式，到學生完成大學作業的過程，人工智慧的應用既令人興奮，也引發了深切的擔憂。隨著這些技術變得日益普及，這兩個領域的專業人士正試圖決定該如何安全且公平地運用它們。"
+    },
+    {
+      "id": "p2",
+      "en": "In the world of healthcare, patients often face a difficult process called \"prior authorization.\" This is a system where an insurance company must approve a medical treatment or medicine before they agree to pay for it. While this process is meant to stop unnecessary spending, it often causes long delays. According to Ars Technica, many doctors are worried that these delays cause patients to give up on treatments they actually need. Some experts believe AI could help by quickly checking information and speeding up the approval process for simple cases.",
+      "zh": "在醫療領域，病患常面臨一種稱為「事前審核」的困難程序。這是一套保險公司必須先核准醫療處置或藥物，才願意支付費用的系統。雖然此程序的本意是為了遏止不必要的支出，但往往導致漫長的延誤。根據科技新聞網站 Ars Technica 的報導，許多醫師擔心這些延誤會導致病患放棄他們真正需要的治療。部分專家認為，人工智慧或許能透過快速核對資訊，並加速簡單案例的核准流程來提供協助。"
+    },
+    {
+      "id": "p3",
+      "en": "However, there is significant fear that AI might do more harm than good. A 2025 survey by the American Medical Association found that 61 percent of doctors are worried that AI will make it easier for insurance companies to deny necessary medical care. Camm Epstein, a health policy analyst, noted that AI should be used to make it easier to approve appropriate care, not to make it easier to deny it. Currently, the administration of President Donald Trump is testing a program in six states that uses AI to reduce unnecessary spending, but it is still unclear if this will truly fix the system or just make it more difficult for patients.",
+      "zh": "然而，大眾對於人工智慧可能弊大於利的擔憂相當顯著。美國醫學會 (American Medical Association) 在二零二五年的一項調查發現，百分之六十一的醫師擔心人工智慧會讓保險公司更容易拒絕必要的醫療照護。健康政策分析師卡姆·艾普斯坦 (Camm Epstein) 指出，人工智慧應該被用來簡化適當醫療的核准流程，而非用來讓拒絕給付變得更容易。目前，川普總統的政府正在六個州測試一項計畫，利用人工智慧來減少不必要的支出，但這是否能真正改善系統，還是只會讓病患處境更加艱難，目前仍不明朗。"
+    },
+    {
+      "id": "p4",
+      "en": "At the same time, universities are facing their own AI crisis. As generative AI tools become easier to use, many students are using them to complete their schoolwork. The 2025 Australian Digital Inclusion Index reported that nearly 79 percent of students are now using these tools. This has led many institutions, such as the Australian National University (ANU), to scramble to protect the value of their degrees. The main concern is that if students use AI to cheat, they are not actually learning the material they are being taught.",
+      "zh": "與此同時，大學也面臨著自身的人工智慧危機。隨著生成式人工智慧工具變得越來越容易使用，許多學生正利用它們來完成課業。二零二五年的澳洲數位包容指數 (Australian Digital Inclusion Index) 報告指出，目前有近百分之七十九的學生正在使用這些工具。這導致許多機構，例如澳洲國立大學 (Australian National University)，紛紛急於維護其學位的價值。主要擔憂在於，如果學生利用人工智慧作弊，他們實際上並未學會課程所教授的內容。"
+    },
+    {
+      "id": "p5",
+      "en": "Some staff members at ANU have criticized the university’s response, calling it \"panicked\" and \"hysterical.\" One academic argued that the university is making changes too quickly without enough training or support for teachers. There is also a fear that these new rules might make it harder for students with disabilities or those with extra responsibilities at home to succeed. Despite these complaints, some professors believe that action is necessary. Will Bateman, a law professor at ANU, warned that if universities do not protect the quality of their education, they risk losing their intellectual strength to companies in other countries.",
+      "zh": "澳洲國立大學的部分教職員批評校方的回應，稱其為「恐慌」且「歇斯底里」。一位學者主張，校方在沒有為教師提供足夠培訓或支援的情況下，變革速度過快。此外，也有人擔心這些新規定可能會讓身心障礙學生，或是在家中有額外負擔的學生更難以取得成功。儘管有這些抱怨，部分教授仍認為採取行動是有必要的。澳洲國立大學的法律系教授威爾·貝特曼 (Will Bateman) 警告，如果大學不維護教育品質，他們將面臨失去相較於其他國家企業之智識優勢的風險。"
+    },
+    {
+      "id": "p6",
+      "en": "To solve this, some universities are moving toward \"secure\" assessments. This means using methods that prevent AI cheating, such as returning to traditional exams held in person. However, this approach has also faced criticism. For example, the University of Queensland was criticized for scheduling oral exams at night and on weekends to ensure they were secure. Kris Ryan, the deputy vice-chancellor of education at the university, explained that while they began planning for these changes in 2023, implementing them across a large institution takes time.",
+      "zh": "為了克服此問題，一些大學正轉向採取「安全」評量方式。這意味著使用能防止人工智慧作弊的方法，例如回歸到親自到場的傳統考試。然而，這種做法也面臨批評。例如，昆士蘭大學 (University of Queensland) 就因安排在夜間與週末進行口試以確保考試安全而遭到批評。該校負責教育的副校長克里斯·萊恩 (Kris Ryan) 解釋，雖然他們在二零二三年就開始規劃這些變革，但在大型機構中全面實施仍需時間。"
+    },
+    {
+      "id": "p7",
+      "en": "Ultimately, the debate in both healthcare and education comes down to trust and transparency. In medicine, the American Medical Association is calling for insurance companies to be more open about how their AI algorithms—the sets of rules or instructions used by computers to solve problems—make decisions. In education, the goal is to find a way to use technology that supports learning rather than replacing it. Whether it is a patient waiting for medicine or a student writing an essay, the goal is to ensure that AI serves the people, rather than creating new barriers to success. As these systems continue to evolve, the challenge for leaders will be to find a balance that respects both human needs and technological progress.",
+      "zh": "歸根究柢，醫療與教育領域的爭論核心在於信任與透明度。在醫學方面，美國醫學會呼籲保險公司應更公開其人工智慧演算法（即電腦用來解決問題的一系列規則或指令）是如何做出決策的。在教育方面，目標則是找到一種能輔助學習而非取代學習的技術應用方式。無論是等待藥物的病患，還是撰寫論文的學生，目標都是確保人工智慧能服務大眾，而非為成功創造新的障礙。隨著這些系統持續演進，領導者面臨的挑戰將是在尊重人類需求與技術進步之間找到平衡點。"
+    }
+  ],
+  "wordCount": 724,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "scramble",
+      "definitionEn": "To move or act quickly and in a disorganized way because of an urgent situation.",
+      "definitionZh": "倉促行動、爭先恐後地做某事。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（炒蛋）或指攀爬，這裡指大學為了應對危機而匆忙採取行動。文中：This has led many institutions, such as the Australian National University (ANU), to scramble to protect the value of their degrees."
+    },
+    {
+      "term": "comes down to",
+      "definitionEn": "To be the most important factor or the main point of a situation.",
+      "definitionZh": "歸結為、重點在於。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這是慣用語，字面意思無法解釋其含義，用於總結核心問題。文中：Ultimately, the debate in both healthcare and education comes down to trust and transparency."
+    },
+    {
+      "term": "serve",
+      "definitionEn": "To be useful or helpful to someone or something.",
+      "definitionZh": "服務、對...有用。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作「服務（顧客）」或「端上（食物）」，這裡指 AI 應發揮輔助人類的功能。文中：the goal is to ensure that AI serves the people, rather than creating new barriers to success."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+      "title": "Will AI fix prior authorization—or make it worse?",
+      "publishedAt": "2026-07-18T11:18:25Z"
+    },
+    {
+      "name": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/18/anu-accused-of-hysterical-response-to-students-using-ai-to-as-unis-scramble-to-secure-assessments",
+      "title": "ANU accused of ‘hysterical’ response to students using AI to cheat as unis scramble to ‘secure’ assessments",
+      "publishedAt": "2026-07-18T20:00:09Z"
+    }
+  ],
+  "story": {
+    "id": "debate-over-ai-in-healthcare-and-education",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the 2025 survey by the American Medical Association, what is the primary concern doctors have regarding the use of AI in healthcare?",
+      "options": {
+        "A": "It will make the prior authorization process too slow for insurance companies.",
+        "B": "It will increase the likelihood of insurance companies rejecting necessary medical treatments.",
+        "C": "It will lead to a decrease in the quality of medicine provided by hospitals.",
+        "D": "It will force doctors to spend more time training on new computer systems."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，美國醫學會（AMA）的調查顯示，61% 的醫生擔心 AI 會讓保險公司更容易拒絕必要的醫療照護。選項 A 錯誤，因為 AI 的目標通常是加速而非減慢流程。選項 C 文章並未提及 AI 會直接降低醫療品質。選項 D 雖然提到醫生有擔憂，但文章中並未將「訓練時間」列為主要擔憂點。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the University of Queensland's decision to schedule oral exams at night and on weekends?",
+      "options": {
+        "A": "The university is trying to increase the number of students who fail their exams.",
+        "B": "The university prioritizes academic integrity over the convenience of students and staff.",
+        "C": "The university has decided that written assignments are no longer useful for grading.",
+        "D": "The university is following a national mandate to standardize all exam times."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第六段提到該校為了確保考試的「安全性」（即防止 AI 作弊），選擇在非傳統時間安排口試，這顯示校方寧可犧牲學生與教職員的時間安排，也要維護考試的公平性與誠信。選項 A 過度推論，校方目的是防弊而非讓學生不及格。選項 C 文章未提及廢除書面作業。選項 D 文章並未提到這是全國性強制規定。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fifth paragraph, what does the word 'scramble' mean in the context of universities responding to AI?",
+      "options": {
+        "A": "To act in a hurried and disorganized way to achieve something.",
+        "B": "To mix different types of educational programs together.",
+        "C": "To cook or prepare food using a specific heat-based method.",
+        "D": "To change the physical layout of university classrooms."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在文章第五段中，提到大學為了保護學位價值而「scramble」，意指在面臨 AI 帶來的危機時，匆忙且混亂地採取應對措施。選項 B、C、D 皆為該詞彙的錯誤解釋或字面誤用，與文中描述大學對 AI 威脅的急迫反應不符。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central argument regarding the integration of AI in healthcare and education?",
+      "options": {
+        "A": "AI should be banned in both sectors until it is proven to be 100 percent accurate.",
+        "B": "The rapid growth of AI has made human professionals completely unnecessary in these fields.",
+        "C": "AI is a neutral tool that will automatically solve all administrative problems in both sectors.",
+        "D": "The implementation of AI requires a careful balance between technological efficiency and human needs, transparency, and trust."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。文章最後一段總結了核心論點，即無論在醫療還是教育領域，AI 的應用都必須建立在透明度與信任之上，並確保技術服務於人類而非製造障礙。選項 A 過於極端，文章並未主張全面禁止。選項 B 與文章主旨背道而馳，文章強調的是如何使用而非取代。選項 C 錯誤，因為文章明確指出 AI 帶來了「深切的擔憂」而非自動解決所有問題。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
