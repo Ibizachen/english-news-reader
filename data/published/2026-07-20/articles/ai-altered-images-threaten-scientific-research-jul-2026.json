@@ -1,79 +1,69 @@
 {
   "id": "2026-07-20-ai-altered-images-threaten-scientific-research",
   "slug": "ai-altered-images-threaten-scientific-research-jul-2026",
-  "publishedAt": "2026-07-20T22:14:19.720504Z",
+  "publishedAt": "2026-07-20T23:13:14.555256Z",
   "category": "technology",
-  "title": "AI-Altered Images Threaten Scientific Research",
-  "subtitle": "Scientists warn that fake wildlife photos are damaging important databases used to track animal populations.",
+  "title": "The Growing Problem of AI-Edited Wildlife Photos",
+  "subtitle": "Scientists warn that fake images are damaging important research databases used to track animal habitats.",
   "summary": {
-    "en": "Scientific research is facing a new challenge from AI-generated and edited wildlife images. Experts warn that these fake photos can ruin data used to track where animals live. While many users do not intend to cause harm, their edits can create false records of species in new areas. Researchers are now calling for better awareness and stricter rules on citizen science platforms. Protecting the accuracy of these databases is essential for understanding how nature is changing.",
-    "zh": "科學研究正面臨人工智慧生成與編輯野生動物影像所帶來的全新挑戰。專家警告，這些偽造照片可能破壞用於追蹤動物棲息地的數據。雖然許多使用者並無惡意，但他們的編輯行為可能創造出物種出現在新區域的錯誤紀錄。研究人員目前呼籲提升大眾意識，並在公民科學平台上實施更嚴格的規範。保護這些資料庫的準確性，對於理解自然環境的變遷至關重要。"
+    "en": "Scientific research is facing a new challenge from AI-generated and edited wildlife images. Experts warn that these fake photos can ruin data used to track where animals live. While many users do not intend to cause harm, their edits can create false records. Researchers are now calling for better standards on citizen science platforms. The scale of the problem remains difficult to measure as more images are uploaded every day.",
+    "zh": "科學研究正因人工智慧生成與編輯的野生動物影像而面臨新挑戰。專家警告，這些偽造照片可能破壞用於追蹤動物棲息地的數據。雖然許多使用者並無惡意，但他們的編輯行為可能產生錯誤紀錄。研究人員目前呼籲公民科學平台應建立更好的標準。由於每天都有大量影像上傳，此問題的規模仍難以衡量。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "Following our recent series on the dangers of deepfakes in politics and the struggle to regulate synthetic media, a new problem has emerged in the world of science. Researchers are now warning that the rise of AI-generated images is putting important scientific data at risk. While previous reports focused on how fake videos can influence elections, this new issue threatens the accuracy of 'citizen science'—a method where members of the public help scientists collect data by recording sightings of plants and animals.",
-      "zh": "繼我們近期針對政治領域深偽技術的危險性，以及監管合成媒體所面臨的困境進行一系列報導後，科學界也出現了新的問題。研究人員警告，人工智慧生成的影像日益普及，正使重要的科學數據面臨風險。儘管先前的報導多聚焦於偽造影片如何影響選舉，但這項新議題威脅到了「公民科學」的準確性；這是一種由大眾協助科學家，透過記錄動植物觀察結果來收集數據的方法。"
+      "en": "The world of nature photography is facing a difficult challenge as artificial intelligence (AI) tools become more common. While many people enjoy using technology to improve their photos, experts warn that these tools are now threatening the quality of scientific research. This issue is particularly dangerous for \"citizen science\"—a practice where regular people collect data about the natural world to help professional scientists understand how animals move and survive in a changing climate.",
+      "zh": "隨著人工智慧工具日益普及，自然攝影界正面臨一項艱鉅的挑戰。儘管許多人樂於利用科技來美化照片，但專家警告，這些工具目前正威脅著科學研究的品質。這項議題對於「公民科學」尤其危險，這是一種由一般民眾收集自然界數據，協助專業科學家了解動物如何在氣候變遷下遷徙與生存的實踐方式。"
     },
     {
       "id": "p2",
-      "en": "According to The Guardian, scientists are asking birdwatchers and nature photographers to stop using AI to edit their photos. The problem is not just about fake images; it is about how AI changes the facts. When a user asks an AI tool to 'improve' a photo—for example, by removing a leaf or a branch—the software may accidentally add parts of a different bird species. This creates a false image that looks real, which can lead to incorrect records in databases like iNaturalist and the Macaulay Library.",
-      "zh": "根據《衛報》報導，科學家正呼籲賞鳥人士與自然攝影師停止使用人工智慧來編輯照片。問題不僅在於偽造影像，更在於人工智慧如何改變了事實。當使用者要求人工智慧工具「優化」照片時，例如移除一片葉子或樹枝，軟體可能會意外地加入其他鳥類的特徵。這會創造出看起來真實的虛假影像，進而導致如 iNaturalist 與麥考利圖書館等資料庫出現錯誤紀錄。"
+      "en": "According to The Guardian, researchers recently published a warning in the science journal Nature. They explained that hundreds of fake or altered images have already been found on popular databases. These websites are used by scientists to monitor where different species live. When a user uploads a photo that has been changed by AI, it can trick researchers into believing an animal is in a place where it does not actually live. This makes it very hard for experts to track the real movement of wildlife across the globe.",
+      "zh": "根據《衛報》報導，研究人員近期在科學期刊《自然》發表了一項警告。他們解釋，在熱門的資料庫中已經發現數百張偽造或經過竄改的影像。這些網站是科學家監測不同物種棲息地的工具。當使用者上傳一張經由人工智慧修改的照片時，可能會誤導研究人員，使其誤以為某種動物出現在牠們實際上並未棲息的地方。這使得專家難以追蹤全球野生動物的真實遷徙狀況。"
     },
     {
       "id": "p3",
-      "en": "These platforms are vital for modern research. Scientists use them to monitor where species live and how they move in response to climate change. Dr. Alexander Lees, an ecologist at Manchester Metropolitan University, told The Guardian that a large number of wildlife photos on social media are now AI-generated. He explained that it is becoming very difficult for researchers to use these photos to understand the natural world. If a database contains fake records, the entire study could be based on wrong information.",
-      "zh": "這些平台對於現代研究至關重要。科學家利用這些平台監測物種的棲息地，以及牠們如何因應氣候變遷而遷徙。曼徹斯特都會大學的生態學家亞歷山大·李斯博士（Dr. Alexander Lees）向《衛報》表示，社群媒體上已有大量野生動物照片是由人工智慧生成的。他解釋，研究人員要利用這些照片來理解自然界變得非常困難。如果資料庫中包含偽造紀錄，整個研究可能會建立在錯誤的資訊之上。"
+      "en": "Dr. Alexander Lees, an ecologist at Manchester Metropolitan University, noted that the problem is not just about people trying to trick others. While some fake photos are obvious, many users simply want to make their pictures look better. For example, a photographer might ask an AI tool to remove a leaf that is blocking a bird. However, the AI may accidentally add parts from a different bird species to the image. Dr. Lees described a case in Brazil where an AI-edited photo of a common bird was turned into a fake sighting of a rare species. This mistake created a false record that could confuse future studies.",
+      "zh": "曼徹斯特都會大學的生態學家亞歷山大·里斯博士指出，問題不僅在於有人試圖欺騙他人。雖然有些偽造照片顯而易見，但許多使用者只是單純想讓照片看起來更美觀。例如，攝影師可能會要求人工智慧工具移除遮擋鳥類的樹葉，然而，人工智慧可能會不小心將其他鳥類的部位加入影像中。里斯博士描述了巴西的一個案例，一張普通鳥類的照片經人工智慧編輯後，竟變成了稀有物種的虛假目擊紀錄。這種錯誤產生了可能誤導未來研究的錯誤數據。"
     },
     {
       "id": "p4",
-      "en": "One clear example of this danger involved a bird sighting in Brazil. A photographer captured a picture of a bird and used AI to make it look better. The AI added features from a red-winged blackbird, a species not usually found in that area. This resulted in a false report that confused researchers. Dr. Lees noted that while some hoaxes are easy to spot, these 'improved' images are much more dangerous because they look like real, high-quality photographs.",
-      "zh": "這項危險的一個明顯例子發生在巴西的鳥類觀察紀錄中。一名攝影師拍下一張鳥類照片，並使用人工智慧進行美化。人工智慧加入了紅翅黑鸝的特徵，而該物種通常不會出現在該地區。這導致了一份誤導研究人員的錯誤報告。李斯博士指出，雖然有些惡作劇很容易被發現，但這些經過「優化」的影像更具危險性，因為它們看起來就像真實的高畫質照片。"
+      "en": "Citizen science platforms like iNaturalist are currently working to understand how big this problem really is. Tony Iwane, the director of community support at iNaturalist, said that most people are not trying to cause harm. However, he also emphasized that users need to be more careful. Even though only a small number of the millions of images on the platform have been flagged for AI use, the potential for damage is high. Because these databases act like a massive sensor for the planet, any false data can have a negative impact on scientific conclusions.",
+      "zh": "像 iNaturalist 這類公民科學平台目前正致力於了解問題的嚴重性。iNaturalist 的社群支援總監東尼·伊瓦內表示，大多數人並非蓄意造成傷害，但他同時強調使用者需要更加謹慎。儘管在平台上數百萬張影像中，僅有少數被標記為使用人工智慧，但其潛在危害極大。由於這些資料庫如同地球的巨大感測器，任何錯誤數據都可能對科學結論產生負面影響。"
     },
     {
       "id": "p5",
-      "en": "Despite these concerns, the scale of the problem is still being measured. Tony Iwane, the director of community support at iNaturalist, explained that most people are not trying to be dishonest. They simply want to share beautiful photos. However, even without bad intentions, these edits can cause serious problems for scientists who rely on these records as if they were scientific sensors. On iNaturalist, only a small number of the millions of images have been flagged for AI use so far, but experts worry that many more fake images are going undetected.",
-      "zh": "儘管存在這些擔憂，問題的規模仍有待評估。iNaturalist 的社群支援總監東尼·伊瓦內（Tony Iwane）解釋，大多數人並非有意欺騙，他們只是想分享美麗的照片。然而，即便沒有惡意，這些編輯行為仍會對將這些紀錄視為科學感測器的科學家造成嚴重問題。在 iNaturalist 上，目前數百萬張影像中僅有少數被標記為使用人工智慧，但專家擔心還有更多偽造影像未被察覺。"
+      "en": "For many birdwatchers, finding a rare bird is a special experience. In the UK, for instance, the arrival of a bird from a different continent often makes national news. However, the rise of tools like ChatGPT and Google Gemini has made it very easy to create high-quality fake images in just a few seconds. Dr. Lees warned that the volume of AI-generated imagery on social media is now very high. This makes it increasingly difficult for scientists to trust the information they find online.",
+      "zh": "對於許多賞鳥人士而言，發現稀有鳥類是一種特別的體驗。以英國為例，來自其他洲的鳥類現蹤往往會成為全國新聞。然而，隨著 ChatGPT 與 Google Gemini 等工具的興起，在短短幾秒內製作高品質的偽造影像變得非常容易。里斯博士警告，社群媒體上人工智慧生成的影像數量目前非常龐大，這使得科學家越來越難以信任在網路上找到的資訊。"
     },
     {
       "id": "p6",
-      "en": "This situation highlights a wider challenge for the scientific community. As AI tools become easier to use, the line between reality and computer-generated content is disappearing. Researchers who wrote a commentary in the journal Nature warned that hundreds of fake images have already been found in popular databases. They believe the true number is likely much higher, as many fake photos are very difficult to identify.",
-      "zh": "這種情況凸顯了科學界所面臨的更廣泛挑戰。隨著人工智慧工具變得更易於使用，現實與電腦生成內容之間的界線正逐漸消失。在《自然》期刊發表評論的研究人員警告，熱門資料庫中已經發現數百張偽造影像。他們認為實際數量可能遠高於此，因為許多偽造照片極難辨識。"
-    },
-    {
-      "id": "p7",
-      "en": "What comes next for citizen science? Organizations are currently working to understand how to protect their data. They are encouraging users to be more careful and to avoid using AI tools on photos intended for scientific records. Some experts suggest that we may need better technology to detect AI-altered files before they are uploaded to these databases. Until then, the burden falls on the community to maintain the truth.",
-      "zh": "公民科學的下一步該怎麼走？各組織目前正致力於研究如何保護數據。他們鼓勵使用者更加謹慎，並避免在用於科學紀錄的照片上使用人工智慧工具。一些專家建議，我們可能需要更先進的技術，在檔案上傳至資料庫前先行偵測是否經過人工智慧修改。在此之前，維護真實性的重擔仍落在社群身上。"
-    },
-    {
-      "id": "p8",
-      "en": "Ultimately, the goal of citizen science is to provide reliable data that helps us understand our planet. When AI-generated images enter these systems, they threaten the credibility of years of hard work. As we continue to navigate the age of synthetic media, it is clear that the scientific community must find new ways to verify the information shared by the public. Without these safeguards, the records we use to protect nature may no longer be trustworthy.",
-      "zh": "歸根究柢，公民科學的目標是提供可靠的數據，以協助我們了解地球。當人工智慧生成的影像進入這些系統，將威脅到多年心血累積的公信力。在我們持續探索合成媒體時代的同時，顯而易見的是，科學界必須找到新的方法來驗證大眾分享的資訊。若缺乏這些防護措施，我們用來保護自然的紀錄可能將不再值得信賴。"
+      "en": "Looking ahead, the scientific community is searching for ways to protect their data. The researchers who wrote the commentary in Nature are calling for better awareness among photographers. They hope that by explaining the risks, they can encourage people to stop using AI to change their wildlife photos. If the public continues to use these tools without caution, the databases that scientists rely on could become unreliable. Protecting the truth in these records is essential for understanding how nature is changing, and experts believe that the responsibility lies with both the technology companies and the people who share their photos online.",
+      "zh": "展望未來，科學界正在尋求保護數據的方法。在《自然》期刊撰寫評論的研究人員呼籲攝影師提高警覺。他們希望透過說明這些風險，鼓勵民眾停止使用人工智慧修改野生動物照片。如果大眾繼續在毫無戒心的情況下使用這些工具，科學家所依賴的資料庫可能會變得不可靠。保護這些紀錄的真實性對於了解自然界的變遷至關重要，專家認為，這份責任在於科技公司以及在網路上分享照片的每一個人。"
     }
   ],
-  "wordCount": 685,
+  "wordCount": 612,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
-      "term": "flagged",
-      "definitionEn": "To mark or identify something as needing attention or as being problematic.",
-      "definitionZh": "標記；標示（通常指標出有問題或需要注意的事項）。",
-      "partOfSpeech": "verb (past participle)",
-      "noteZh": "常見作名詞（旗幟），這裡作動詞，指系統標記出可疑內容。文中：On iNaturalist, only a small number of the millions of images have been flagged for AI use so far, but experts worry that many more fake images are going undetected."
-    },
-    {
-      "term": "burden",
-      "definitionEn": "A heavy responsibility or duty that is difficult to deal with.",
-      "definitionZh": "負擔；重責大任。",
-      "partOfSpeech": "noun",
-      "noteZh": "這裡指維護資料真實性的責任落在了社群身上。文中：Until then, the burden falls on the community to maintain the truth."
-    },
-    {
-      "term": "navigate",
-      "definitionEn": "To deal with or manage a complicated situation.",
-      "definitionZh": "應對；處理（複雜的情況）。",
+      "term": "trick",
+      "definitionEn": "To deceive someone into believing something that is not true.",
+      "definitionZh": "欺騙、誤導。",
       "partOfSpeech": "verb",
-      "noteZh": "常見作航行或導航，這裡引申為應對AI時代的挑戰。文中：As we continue to navigate the age of synthetic media, it is clear that the scientific community must find new ways to verify the information shared by the public."
+      "noteZh": "常見作名詞（把戲），這裡作動詞用。文中：When a user uploads a photo that has been changed by AI, it can trick researchers into believing an animal is in a place where it does not actually live."
+    },
+    {
+      "term": "flagged",
+      "definitionEn": "To mark or identify something as needing attention or being problematic.",
+      "definitionZh": "標記（通常指標記出問題或需要注意的事項）。",
+      "partOfSpeech": "verb (past participle)",
+      "noteZh": "常見作名詞（旗幟），這裡作動詞的過去分詞，指被標記出來。文中：Even though only a small number of the millions of images on the platform have been flagged for AI use, the potential for damage is high."
+    },
+    {
+      "term": "lies with",
+      "definitionEn": "To be the responsibility of someone.",
+      "definitionZh": "責任在於……。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這是慣用語，字面意思容易誤解，這裡表示責任歸屬。文中：Protecting the truth in these records is essential for understanding how nature is changing, and experts believe that the responsibility lies with both the technology companies and the people who share their photos online."
     }
   ],
   "sources": [
@@ -89,25 +79,11 @@
     "type": "update",
     "previousArticles": [
       {
-        "slug": "deepfake-misinformation-series-part-5",
-        "title": "The Future of Truth: Detection and Regulation",
-        "publishedAt": "2026-07-20T04:35:30.551325Z",
+        "slug": "ai-altered-images-threaten-scientific-research-jul-2026",
+        "title": "AI-Altered Images Threaten Scientific Research",
+        "publishedAt": "2026-07-20T22:14:19.720504Z",
         "category": "technology",
-        "summaryEn": "This article examines the ongoing battle between AI-generated deepfakes and detection technology. It also discusses the challenges of implementing international regulations like the EU AI Act. Finally, it explores the limitations of watermarking as a solution for verifying authentic content."
-      },
-      {
-        "slug": "deepfake-misinformation-series-part-3",
-        "title": "The Turning Point: Deepfakes in the Political Arena",
-        "publishedAt": "2026-07-20T04:35:04.292675Z",
-        "category": "technology",
-        "summaryEn": "This article examines how deepfake technology is changing political campaigns and elections. It explores the concept of the 'liar's dividend' and how candidates deal with fake content. Readers will learn about the challenges synthetic media poses to democratic integrity."
-      },
-      {
-        "slug": "deepfake-misinformation-series-part-1",
-        "title": "The Genesis of Synthetic Media: Understanding Deepfakes",
-        "publishedAt": "2026-07-20T04:34:36.863641Z",
-        "category": "technology",
-        "summaryEn": "This article examines the origins of deepfake technology, focusing on the mechanics of Generative Adversarial Networks. It traces how open-source software transformed academic research into a mainstream tool. Readers will learn why distinguishing synthetic media from real content is becoming increasingly difficult."
+        "summaryEn": "Scientific research is facing a new challenge from AI-generated and edited wildlife images. Experts warn that these fake photos can ruin data used to track where animals live. While many users do not intend to cause harm, their edits can create false records of species in new areas. Researchers are now calling for better awareness and stricter rules on citizen science platforms. Protecting the accuracy of these databases is essential for understanding how nature is changing."
       }
     ]
   },
@@ -115,54 +91,54 @@
     {
       "id": "q1",
       "type": "detail",
-      "question": "What specific consequence occurs when a user uses AI to 'improve' a nature photograph, according to the second paragraph?",
+      "question": "According to the article, what is the primary reason that AI-edited photos are problematic for scientific databases?",
       "options": {
-        "A": "The photo is automatically deleted from the database by the software.",
-        "B": "The software may inadvertently insert characteristics of an incorrect bird species.",
-        "C": "The photo is immediately flagged as a hoax by the AI tool.",
-        "D": "The photographer is banned from uploading future images to iNaturalist."
+        "A": "They make it difficult for ordinary people to identify bird species.",
+        "B": "They can mislead researchers about the geographical distribution of wildlife.",
+        "C": "They are being used by malicious actors to intentionally deceive the public.",
+        "D": "They slow down the websites that scientists use to store their data."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。根據第二段，當使用者要求 AI 「改善」照片（例如移除樹枝）時，軟體可能會意外加入其他鳥類的特徵，導致錯誤的物種紀錄。選項 A 文中未提及刪除機制。選項 C 錯誤，因為文中提到這些照片往往難以辨識。選項 D 雖然提到科學家呼籲停止使用 AI，但並未提及禁止使用者上傳的懲罰。"
+      "explanationZh": "正確答案為 B。根據第二段，當使用者上傳經 AI 修改的照片時，會誤導研究人員，讓他們以為某種動物出現在其實際未棲息的地方，進而影響野生動物遷徙的研究。選項 A 錯誤，文章未提及一般大眾識別困難；選項 C 錯誤，第三段提到多數人並非惡意；選項 D 錯誤，文章未提及網站速度問題。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "Based on the article, why are 'improved' AI images considered more dangerous than obvious hoaxes?",
+      "question": "What can be inferred about the impact of AI tools on 'citizen science' projects?",
       "options": {
-        "A": "Because they are created by professional photographers who know how to trick scientists.",
-        "B": "Because they are easier to upload to databases than non-edited photos.",
-        "C": "Because their high-quality appearance makes them difficult for researchers to distinguish from reality.",
-        "D": "Because they are specifically designed to change the results of climate change studies."
+        "A": "Citizen science projects are currently unable to function due to the high volume of fake photos.",
+        "B": "The majority of photos uploaded to platforms like iNaturalist are AI-generated.",
+        "C": "The integrity of scientific data is threatened even if only a small percentage of photos are fake.",
+        "D": "Technology companies are actively working to remove all AI-edited photos from databases."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。根據第四段，Dr. Lees 指出雖然有些惡作劇很容易被發現，但這些經過「改善」的照片因看起來像真實的高品質照片，反而更具危險性，因為研究人員難以區分真偽。選項 A 與文中提到的「多數人並非出於惡意」相違背。選項 B 文中未提及上傳難易度。選項 D 錯誤，因為這些照片通常是為了美化而非為了操弄氣候研究數據。"
+      "explanationZh": "正確答案為 C。根據第四段，儘管被標記為 AI 生成的照片數量不多，但專家強調其潛在破壞力極高，因為這些資料庫如同地球的感測器，任何錯誤資料都會影響科學結論。選項 A 錯誤，平台仍在運作；選項 B 與文中「small number」矛盾；選項 D 錯誤，文中僅提到專家呼籲大眾提高警覺，未提及科技公司的具體行動。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the final paragraph, what does the word 'safeguards' mean in the context of the scientific community's response to AI?",
+      "question": "In the fourth paragraph, the author describes databases as a 'massive sensor for the planet.' What does the word 'sensor' imply in this context?",
       "options": {
-        "A": "Protective measures or systems designed to prevent harm or error.",
-        "B": "The physical cameras used by birdwatchers to capture images.",
-        "C": "The legal documents required to sue AI software companies.",
-        "D": "The financial rewards given to people who report fake images."
+        "A": "A device that detects and records information about the environment.",
+        "B": "A security system designed to prevent unauthorized access.",
+        "C": "A filter that removes low-quality images from the internet.",
+        "D": "A tool used to edit photographs for better visual quality."
       },
       "correct": "A",
-      "explanationZh": "正確答案為 A。在此上下文中，safeguards 指的是科學界為了確保數據可靠性而必須採取的「防護措施」或「安全機制」。選項 B、C、D 皆與文中提到的數據驗證與保護機制無關，屬於無中生有的選項。"
+      "explanationZh": "正確答案為 A。在此語境下，「sensor」（感測器）比喻這些資料庫的功能是收集並監控自然界的動態（如動物分布），如同科學儀器般記錄資訊。選項 B、C、D 皆非文中將資料庫比喻為感測器的原意，且與該詞彙在科技與科學領域的定義不符。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "What is the central message of the article regarding AI and citizen science?",
+      "question": "What is the central message of the article regarding AI and nature photography?",
       "options": {
-        "A": "AI tools have completely destroyed the credibility of all scientific databases.",
-        "B": "Birdwatchers should stop taking photos of nature to avoid being accused of fraud.",
-        "C": "The integration of AI into nature photography presents a growing threat to the accuracy of scientific research.",
-        "D": "Scientists are now using AI to create better databases for tracking climate change."
+        "A": "AI tools are helpful for photographers who want to capture rare wildlife moments.",
+        "B": "The use of AI in nature photography poses a significant risk to the accuracy of scientific research.",
+        "C": "Social media platforms should be held legally responsible for the fake images shared by users.",
+        "D": "Scientists are developing new technology to automatically delete all AI-generated images."
       },
-      "correct": "C",
-      "explanationZh": "正確答案為 C。本文主旨探討 AI 生成圖像如何滲透到「公民科學」數據中，並對科學研究的準確性構成威脅。選項 A 過於誇大，文中僅提到這是一個嚴重的挑戰。選項 B 錯誤，文中是呼籲停止使用 AI 編輯，而非停止拍照。選項 D 與文意相反，文章討論的是 AI 如何阻礙而非幫助科學研究。"
+      "correct": "B",
+      "explanationZh": "正確答案為 B。全文主旨圍繞在 AI 工具如何透過假照片干擾科學研究數據，導致專家難以追蹤野生動物真實動態，並呼籲大眾謹慎使用。選項 A 與文章警告的立場相反；選項 C 雖提到責任，但非文章核心；選項 D 錯誤，文中提到的是尋求保護數據的方法，而非開發刪除軟體。"
     }
   ],
   "aiGenerated": true,
