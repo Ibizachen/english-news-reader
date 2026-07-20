@@ -1,0 +1,37 @@
+{
+  "id": "deepfake-misinformation-series",
+  "title": "The Synthetic Reality: Navigating the Rise of Deepfakes",
+  "subtitle": "An examination of how AI-generated media is reshaping the global information landscape.",
+  "description": "This series explores the technological evolution of deepfakes and their impact on democratic processes, public trust, and individual security. Readers will gain a comprehensive understanding of how synthetic media challenges our perception of truth in the digital age.",
+  "category": "technology",
+  "status": "active",
+  "updatedAt": "2026-07-20T04:35:30.553503Z",
+  "cadence": "5-part reading path. Complete series available.",
+  "articles": [
+    {
+      "slug": "deepfake-misinformation-series-part-1",
+      "label": "Part 1",
+      "note": "Defining deepfakes and tracing their transition from academic research to mainstream accessibility."
+    },
+    {
+      "slug": "deepfake-misinformation-series-part-2",
+      "label": "Part 2",
+      "note": "Identifying the key stakeholders, including malicious actors, developers, and the platforms hosting synthetic content."
+    },
+    {
+      "slug": "deepfake-misinformation-series-part-3",
+      "label": "Part 3",
+      "note": "Analyzing recent high-profile incidents where deepfakes influenced political discourse or elections."
+    },
+    {
+      "slug": "deepfake-misinformation-series-part-4",
+      "label": "Part 4",
+      "note": "Focusing on non-political impacts: financial fraud, non-consensual intimate imagery, and corporate reputation damage."
+    },
+    {
+      "slug": "deepfake-misinformation-series-part-5",
+      "label": "Part 5",
+      "note": "Exploring the arms race between deepfake detection tools and generative AI, and the role of global regulation."
+    }
+  ]
+}
