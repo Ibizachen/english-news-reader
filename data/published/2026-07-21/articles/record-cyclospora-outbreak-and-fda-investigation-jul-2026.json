@@ -1,81 +1,74 @@
 {
   "id": "2026-07-21-record-cyclospora-outbreak-and-fda-investigation",
   "slug": "record-cyclospora-outbreak-and-fda-investigation-jul-2026",
-  "publishedAt": "2026-07-21T22:14:14.858187Z",
+  "publishedAt": "2026-07-21T23:10:11.899067Z",
   "category": "public-health",
-  "title": "Record-Breaking Parasite Outbreak Continues as Health Officials Search for Answers",
-  "subtitle": "As cases of cyclosporiasis climb, the FDA faces challenges in identifying the exact source of the illness.",
+  "title": "Record-Breaking Parasite Outbreak Continues as Officials Search for Answers",
+  "subtitle": "Health experts struggle to track the source of a widespread illness as case numbers climb across the United States.",
   "summary": {
-    "en": "A record-breaking outbreak of a parasite called cyclospora is spreading across the United States. Health officials report that cases have now passed 6,100 in Michigan alone. The FDA is investigating a link to lettuce from Taylor Farms despite recent testing errors. Experts say that tracing such outbreaks is difficult because the parasite can also come from water. Consumers are advised to wash food and surfaces carefully to stay safe.",
-    "zh": "一種稱為環孢子蟲的寄生蟲正在美國各地引發破紀錄的疫情。衛生官員報告指出，僅在密西根州的病例數就已突破六千一百例。儘管近期出現檢測錯誤，美國食品藥物管理局仍在調查其與泰勒農場萵苣的關聯。專家表示，追蹤此類疫情相當困難，因為寄生蟲也可能來自水源。建議消費者仔細清洗食物與廚房表面，以確保安全。"
+    "en": "A record-breaking outbreak of a parasite called cyclospora is spreading across the United States. Health officials report that cases have now passed 6,100 in Michigan alone. The FDA is investigating a link to lettuce from Taylor Farms despite recent testing errors. Experts note that tracing such diseases is difficult because they are hard to identify in small samples. For now, officials recommend that consumers wash their hands and food surfaces carefully to prevent infection.",
+    "zh": "一種名為圓孢子蟲的寄生蟲疫情正在美國各地蔓延，創下歷史紀錄。衛生官員報告指出，僅在密西根州，病例數就已超過 6,100 例。儘管近期發生檢測失誤，美國食品藥物管理局（FDA）仍在調查此疫情與泰勒農場（Taylor Farms）萵苣之間的關聯。專家指出，追蹤此類疾病相當困難，因為很難從少量樣本中進行辨識。目前，官員建議消費者應謹慎洗手並清潔食物處理檯面，以預防感染。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "A serious health crisis is growing across the United States as a record-breaking outbreak of cyclosporiasis continues to spread. According to MedPage Today, the number of cases in Michigan has now passed 6,100. This illness is caused by cyclospora, a tiny parasite that enters the body through contaminated food or water. It is known to cause intense diarrhea and other severe stomach problems.",
-      "zh": "美國各地正爆發嚴重的健康危機，環孢子蟲病（cyclosporiasis）的疫情持續擴散，並創下歷史新高。根據醫療新聞網站 MedPage Today 的報導，密西根州的病例數現已突破六千一百例。這種疾病是由環孢子蟲（cyclospora）所引起，這是一種微小的寄生蟲，會透過受污染的食物或水進入人體，已知會導致劇烈腹瀉及其他嚴重的腸胃問題。"
+      "en": "A serious health crisis is growing across the United States as a record-breaking outbreak of cyclospora continues to spread. According to MedPage Today, the number of cases in Michigan alone has now passed 6,100. This parasite, which typically causes intense diarrhea and other stomach illnesses, has created a difficult situation for health officials who are working to find the source of the infection.",
+      "zh": "一場嚴重的健康危機正在美國各地蔓延，一種名為圓孢子蟲（cyclospora）的寄生蟲疫情正創下紀錄。根據醫學新聞網站 MedPage Today 報導，僅在密西根州，病例數就已突破 6,100 例。這種寄生蟲通常會引發劇烈腹瀉及其他腸胃疾病，讓正致力於追查感染源的衛生官員陷入困境。"
     },
     {
       "id": "p2",
-      "en": "This year’s outbreak is set to break all previous records for the number of people affected. Health officials have been working hard to find the source of the sickness, but the process has been difficult and confusing. Earlier this month, the Food and Drug Administration (FDA) announced that it had found the parasite on a sample of iceberg lettuce from Taylor Farms in Mexico. However, the agency later retracted that result, admitting that the test was a false positive. A false positive is a test result that incorrectly shows that a person or a sample has a disease or a harmful substance when they actually do not.",
-      "zh": "今年的疫情預計將打破以往所有受影響人數的紀錄。衛生官員一直努力追查病源，但過程困難且令人困惑。本月初，美國食品藥物管理局（FDA）曾宣布在墨西哥泰勒農場（Taylor Farms）的一份結球萵苣樣本中發現了該寄生蟲。然而，該機構隨後撤回了這項結果，承認該檢測結果為偽陽性。所謂偽陽性，是指檢測結果錯誤地顯示某人或某樣本帶有疾病或有害物質，但實際上並未帶有。"
+      "en": "The Food and Drug Administration (FDA) is currently leading the investigation. The agency recently faced a confusing situation regarding its search for the cause of the illness. On a Friday, the FDA announced it had identified the parasite on a sample of iceberg lettuce from Taylor Farms in Mexico. However, by Sunday, the agency had to retract those results. According to NPR, a review showed that the initial finding was a false positive, meaning the test result was incorrect.",
+      "zh": "美國食品藥物管理局（FDA）目前正主導這項調查。該機構近期在尋找病源的過程中面臨了一場混亂。FDA 原先在週五宣布，已在墨西哥泰勒農場（Taylor Farms）的一份結球萵苣樣本中檢測出該寄生蟲。然而，到了週日，該機構卻不得不撤回這些結果。根據美國國家公共廣播電台（NPR）報導，複查顯示最初的檢測結果為偽陽性，意即該檢測結果並不準確。"
     },
     {
       "id": "p3",
-      "en": "Despite removing that specific test result, the FDA still believes that the multistate outbreak is linked to iceberg lettuce from Taylor Farms. The company, which supplied lettuce to popular brands like Taco Bell and sold products to Walmart, issued a recall of its lettuce last week. A recall is a request for a company to take products off the shelves because they might be unsafe. While the FDA remains focused on this company, the lack of clear genetic evidence has made the investigation much harder.",
-      "zh": "儘管撤銷了該項檢測結果，美國食品藥物管理局仍認為這場跨州疫情與泰勒農場的結球萵苣有關。該公司曾供應萵苣給塔可鐘（Taco Bell）等知名品牌，並向沃爾瑪（Walmart）銷售產品，已於上週發布萵苣回收公告。所謂回收，是指要求公司將產品下架，因為這些產品可能存在安全疑慮。雖然美國食品藥物管理局仍將焦點鎖定在該公司，但缺乏明確的基因證據，使得調查工作變得更加艱鉅。"
+      "en": "Despite this error, the FDA stated that it still believes the multistate outbreak is linked to iceberg lettuce from Taylor Farms. The company, which has supplied products to major businesses like Taco Bell and Walmart, issued a recall for its lettuce last week. A recall is a request for companies or customers to return or stop using a product because it might be unsafe. While the FDA continues to focus on this lettuce, the lack of clear genetic evidence makes the investigation very challenging.",
+      "zh": "儘管出現了這項失誤，FDA 表示仍認為這場跨州疫情與泰勒農場的結球萵苣有關。該公司曾為塔可鐘（Taco Bell）與沃爾瑪（Walmart）等大型企業供應產品，並已於上週發布萵苣回收通知。所謂回收，是指要求企業或消費者退回或停止使用某項產品，因為該產品可能存在安全疑慮。雖然 FDA 持續將焦點鎖定在這些萵苣上，但缺乏明確的基因證據，使得調查工作極具挑戰性。"
     },
     {
       "id": "p4",
-      "en": "Tracing a parasitic disease is a complex task. Donald Schaffner, a microbiologist at Rutgers University, explained to NPR that it is often difficult to identify the parasite from small food samples. These samples might not represent the entire crop of lettuce. Because of this, health officials often have to rely on the memories of sick patients. They ask people what they ate in the weeks before they became ill. Officials then look for patterns, such as many sick people in Michigan and Ohio reporting that they ate lettuce from the same supplier.",
-      "zh": "追蹤寄生蟲疾病是一項複雜的任務。羅格斯大學（Rutgers University）的微生物學家沙夫納（Donald Schaffner）向美國國家公共廣播電台（NPR）解釋，從少量的食物樣本中鑑定出寄生蟲通常很困難。這些樣本可能無法代表整批萵苣作物。因此，衛生官員往往必須依賴病患的記憶，詢問他們在發病前幾週吃了什麼。官員隨後會尋找模式，例如在密西根州與俄亥俄州有許多病患表示，他們食用了來自同一供應商的萵苣。"
+      "en": "Donald Schaffner, a microbiologist at Rutgers University, explained to NPR that tracing parasitic diseases is often tricky. He noted that it is difficult to identify the parasite from small samples of food, as those samples may not represent the entire crop. Because of this, health officials often have to rely on the memories of sick patients regarding what they ate in recent weeks. Schaffner pointed out that health officials currently have little else to go on, as there are no genetic tests yet that confirm the presence of cyclospora on the lettuce or any other specific source.",
+      "zh": "羅格斯大學（Rutgers University）的微生物學家唐納德·沙夫納（Donald Schaffner）向 NPR 解釋，追蹤寄生蟲疾病通常相當棘手。他指出，要從少量的食物樣本中辨識出寄生蟲非常困難，因為這些樣本未必能代表整批農作物。正因如此，衛生官員往往必須仰賴病患對近期飲食內容的記憶。沙夫納強調，由於目前尚無基因檢測能證實萵苣或其他特定來源確實存在圓孢子蟲，衛生官員目前幾乎沒有其他線索可循。"
     },
     {
       "id": "p5",
-      "en": "However, experts warn that this method is not perfect. According to NPR, Schaffner noted that just because a person is sick with cyclospora, it does not automatically mean they are part of this specific group of cases. Cyclospora outbreaks have happened every summer since the 1990s, and they are not always connected to food. A person can also get sick from drinking or swimming in water that contains the parasite. Because of these different ways to get sick, it can be very hard to prove that one specific food item is the cause.",
-      "zh": "然而，專家警告這種方法並不完美。根據美國國家公共廣播電台的報導，沙夫納指出，僅僅因為一個人感染了環孢子蟲，並不代表他們一定屬於這波特定的病例群。自一九九○年代以來，環孢子蟲疫情每年夏天都會發生，且並不總是與食物有關。人們也可能因為飲用或在含有該寄生蟲的水中游泳而染病。由於感染途徑多元，要證明某種特定食物是病源非常困難。"
+      "en": "This is not the first time the country has faced such an issue. Schaffner noted that cyclospora outbreaks have occurred every summer since the 1990s, though this year is set to break previous records. He also warned that not all cases of the illness are necessarily connected to the same source. A person can catch the parasite from drinking or swimming in contaminated water, for example. Therefore, just because someone is sick with the parasite right now does not automatically mean they are part of the specific group of cases centered in Michigan and Ohio.",
+      "zh": "這並非美國首次面臨此類問題。沙夫納提到，自 1990 年代以來，每年夏天都會發生圓孢子蟲疫情，但今年預計將打破過往紀錄。他也警告，並非所有病例都必然與同一個感染源有關。例如，民眾可能因飲用或在受污染的水中游泳而感染。因此，即便某人目前感染了這種寄生蟲，並不代表他們一定屬於以密西根州和俄亥俄州為中心的這波特定疫情群體。"
     },
     {
       "id": "p6",
-      "en": "For now, the situation remains uncertain. The FDA has not found a new way to confirm the source of the parasite, leaving many questions unanswered for the public. With the number of suspected cases reaching into the thousands across the country, the pressure on health officials to provide clear answers is high. The uncertainty about the source and when the outbreak might end puts the responsibility on consumers to protect themselves.",
-      "zh": "目前情況仍不明朗。美國食品藥物管理局尚未找到確認寄生蟲來源的新方法，導致大眾心中仍有許多疑問未解。隨著全國疑似病例數達到數千例，衛生官員面臨提供明確答案的巨大壓力。對於病源及疫情何時結束的不確定性，使得保護自身的責任落在了消費者身上。"
+      "en": "As the investigation continues, the uncertainty puts the responsibility on consumers to protect themselves. According to NPR, the official recommendation remains that people should avoid eating any of the recalled products. Furthermore, health experts advise everyone to wash their hands frequently and keep food preparation surfaces clean to reduce the risk of getting sick.",
+      "zh": "隨著調查持續進行，這種不確定性使得保護自身的責任落到了消費者身上。根據 NPR 報導，官方建議民眾應避免食用任何被召回的產品。此外，健康專家建議大眾勤洗手並保持食物處理檯面清潔，以降低感染風險。"
     },
     {
       "id": "p7",
-      "en": "As the investigation continues, health officials are repeating their standard safety advice. They recommend that people avoid eating any lettuce that has been recalled. Additionally, everyone should follow basic hygiene practices, such as washing hands frequently and cleaning all food surfaces in the kitchen. By keeping surfaces clean and washing fresh produce, people can reduce their risk of infection while waiting for more information from the government. For now, the public is encouraged to stay informed and follow updates from local health departments as they work to contain this widespread illness.",
-      "zh": "隨著調查持續進行，衛生官員重申了標準的安全建議。他們建議民眾避免食用任何已被回收的萵苣。此外，每個人都應遵循基本的衛生習慣，例如勤洗手以及清潔廚房內所有處理食物的表面。透過保持表面清潔並清洗新鮮農產品，民眾可以在等待政府提供更多資訊的同時，降低感染風險。目前，官方鼓勵大眾隨時掌握資訊，並關注當地衛生部門在努力控制這場廣泛疫情時所發布的最新消息。"
+      "en": "The situation remains fluid as health officials work to confirm the source of the contamination. With thousands of suspected cases in addition to the confirmed ones, the public is being urged to stay informed through official health channels. For now, the focus remains on preventing further spread while the FDA continues its search for definitive answers in a complex and evolving public health emergency.",
+      "zh": "隨著衛生官員努力確認污染源，局勢仍處於變動之中。除了已確診的病例，還有數千起疑似病例，官方呼籲大眾透過正式的衛生管道獲取最新資訊。目前，在 FDA 於這場複雜且不斷演變的公共衛生緊急事件中尋求確切答案的同時，防疫重點仍放在防止疫情進一步擴散。"
     }
   ],
-  "wordCount": 673,
+  "wordCount": 612,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
-      "term": "set to",
-      "definitionEn": "Likely or ready to happen in the near future.",
-      "definitionZh": "即將發生、準備好要發生。",
-      "partOfSpeech": "idiom",
-      "noteZh": "這裡的 set 不是「放置」，而是表示「預期會發生」。文中：This year’s outbreak is set to break all previous records for the number of people affected."
-    },
-    {
-      "term": "recall",
-      "definitionEn": "An official request to return a product to the maker because it might be unsafe.",
-      "definitionZh": "（產品）召回。",
-      "partOfSpeech": "noun",
-      "noteZh": "常見作動詞（回想），這裡作名詞用，指廠商收回問題產品。文中：The company, which supplied lettuce to popular brands like Taco Bell and sold products to Walmart, issued a recall of its lettuce last week."
-    },
-    {
-      "term": "represent",
-      "definitionEn": "To be a typical example of something or to show the whole group.",
-      "definitionZh": "代表、作為……的樣本。",
+      "term": "retract",
+      "definitionEn": "To take back a statement or result because it is found to be incorrect.",
+      "definitionZh": "撤回、收回（聲明或結果）。",
       "partOfSpeech": "verb",
-      "noteZh": "這裡指小樣本是否能反映出整批作物的真實情況。文中：These samples might not represent the entire crop of lettuce."
+      "noteZh": "此字在新聞語境中常見，但學生常誤以為是「縮回」身體部位。文中：However, by Sunday, the agency had to retract those results."
     },
     {
-      "term": "contain",
-      "definitionEn": "To keep something harmful under control and prevent it from spreading.",
-      "definitionZh": "控制（疫情、火勢等），防止擴散。",
-      "partOfSpeech": "verb",
-      "noteZh": "常見作「包含」，這裡指防止疾病進一步擴散。文中：For now, the public is encouraged to stay informed and follow updates from local health departments as they work to contain this widespread illness."
+      "term": "go on",
+      "definitionEn": "To have information or evidence to base a decision or conclusion on.",
+      "definitionZh": "（作為判斷的）根據、線索。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見作「繼續」或「發生」，這裡指「可用的資訊」。文中：Schaffner pointed out that health officials currently have little else to go on, as there are no genetic tests yet that confirm the presence of cyclospora on the lettuce or any other specific source."
+    },
+    {
+      "term": "fluid",
+      "definitionEn": "Subject to change; not settled or fixed.",
+      "definitionZh": "不穩定的、變動中的。",
+      "partOfSpeech": "adjective",
+      "noteZh": "常見作名詞（液體），這裡形容局勢不穩定。文中：The situation remains fluid as health officials work to confirm the source of the contamination."
     }
   ],
   "sources": [
@@ -103,11 +96,11 @@
     "type": "update",
     "previousArticles": [
       {
-        "slug": "us-parasite-outbreak-linked-to-lettuce-jul-2026",
-        "title": "US Parasite Outbreak Linked to Lettuce Grows as Health Officials Face Funding Challenges",
-        "publishedAt": "2026-07-18T23:09:09.279949Z",
+        "slug": "record-cyclospora-outbreak-and-fda-investigation-jul-2026",
+        "title": "Record-Breaking Parasite Outbreak Continues as Health Officials Search for Answers",
+        "publishedAt": "2026-07-21T22:14:14.858187Z",
         "category": "public-health",
-        "summaryEn": "A record-breaking outbreak of cyclosporiasis is spreading across the United States. The illness, caused by a parasite, leads to severe stomach issues like diarrhea and vomiting. Taylor Farms has recalled shredded iceberg lettuce in 27 states due to potential contamination. Health experts warn that the response is being slowed by significant cuts to public health funding. Officials expect the number of cases to rise further as investigations continue."
+        "summaryEn": "A record-breaking outbreak of a parasite called cyclospora is spreading across the United States. Health officials report that cases have now passed 6,100 in Michigan alone. The FDA is investigating a link to lettuce from Taylor Farms despite recent testing errors. Experts say that tracing such outbreaks is difficult because the parasite can also come from water. Consumers are advised to wash food and surfaces carefully to stay safe."
       },
       {
         "slug": "record-ebola-outbreak-in-congo-jul-2026",
@@ -122,54 +115,54 @@
     {
       "id": "q1",
       "type": "detail",
-      "question": "What did the FDA eventually admit regarding the iceberg lettuce samples from Taylor Farms?",
+      "question": "What happened regarding the FDA's initial identification of the parasite?",
       "options": {
-        "A": "They confirmed the lettuce was the definite source of the outbreak.",
-        "B": "They acknowledged that their initial test result was inaccurate.",
-        "C": "They discovered that the parasite was present in all samples tested.",
-        "D": "They decided to stop the investigation due to lack of evidence."
+        "A": "They confirmed the parasite was present in all Taylor Farms products.",
+        "B": "They announced a finding on Friday but retracted it by Sunday due to an error.",
+        "C": "They discovered the parasite in water samples instead of lettuce samples.",
+        "D": "They decided to stop the investigation after failing to find genetic evidence."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。根據文章第二段，FDA 承認先前對 Taylor Farms 生菜樣本的檢測結果為「偽陽性」（false positive），意即該檢測錯誤地顯示樣本含有病原體。選項 A 錯誤，因為 FDA 承認檢測結果有誤而非確認來源。選項 C 與事實相反，因為檢測結果被撤回。選項 D 不正確，因為文章第三段提到 FDA 儘管撤回了該測試，仍持續關注該公司並進行調查。"
+      "explanationZh": "正確答案為 B。根據文章第二段，FDA 在週五宣布在 Taylor Farms 的萵苣樣本中發現寄生蟲，但到了週日卻撤回了該結果，因為後續審查顯示那是一個偽陽性（false positive）。選項 A 錯誤，因為 FDA 撤回了發現；選項 C 錯誤，因為文章提到的是萵苣而非水樣本；選項 D 錯誤，FDA 雖然承認調查困難，但並未停止調查。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "Why is it difficult for health officials to definitively link the current outbreak to a specific food source?",
+      "question": "Based on the information provided, why might the number of reported cyclospora cases be potentially misleading?",
       "options": {
-        "A": "Because the parasite only affects people who live in Michigan and Ohio.",
-        "B": "Because the parasite can be contracted through multiple, non-food-related channels.",
-        "C": "Because Taylor Farms has refused to cooperate with the FDA's investigation.",
-        "D": "Because the parasite is too large to be detected in small food samples."
+        "A": "Because many people are recovering without visiting a doctor.",
+        "B": "Because the FDA has already confirmed that the outbreak is over.",
+        "C": "Because individuals can contract the parasite from sources other than the recalled lettuce.",
+        "D": "Because the genetic tests are too sensitive and produce many false positives."
       },
-      "correct": "B",
-      "explanationZh": "正確答案為 B。根據文章第五段，專家指出 cyclospora 感染不一定與食物有關，人們也可能透過飲用或在受污染的水中游泳而感染。因此，即使患者生病，也無法自動斷定是食物造成的。選項 A 錯誤，因為文章提到病例遍布全國。選項 C 文章未提及。選項 D 錯誤，文章提到的是「小樣本」難以代表整批作物，而非寄生蟲本身太大。"
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第五段，專家 Schaffner 指出並非所有病例都與同一來源有關，人們也可能透過受污染的水源感染，因此目前生病的人不一定都屬於與密西根州相關的特定群體。選項 A 文章未提及；選項 B 與事實相反，疫情仍在持續；選項 D 錯誤，文章提到的是缺乏基因檢測工具，而非檢測過於敏感。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the third paragraph, what does the word 'recall' mean in the context of the food industry?",
+      "question": "In the final paragraph, what does the word 'fluid' mean as used in the sentence: 'The situation remains fluid as health officials work to confirm the source'?",
       "options": {
-        "A": "A public apology issued by a company for poor quality products.",
-        "B": "A legal order to destroy all crops grown in a specific country.",
-        "C": "A process of withdrawing potentially unsafe products from the market.",
-        "D": "A memory-based survey conducted by health officials on sick patients."
+        "A": "Liquid and easy to pour.",
+        "B": "Changing and uncertain.",
+        "C": "Moving at a high speed.",
+        "D": "Clear and easy to understand."
       },
-      "correct": "C",
-      "explanationZh": "正確答案為 C。根據文章第三段，recall 被定義為公司將產品從貨架上撤下，因為它們可能不安全。這在食品安全語境中即為「召回」。選項 A 錯誤，召回是為了安全而非道歉。選項 B 錯誤，召回僅針對特定產品而非摧毀所有作物。選項 D 錯誤，這是文章第四段提到的調查方法，與召回無關。"
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在文中，形容情況為 'fluid' 是指情況處於變動中、不穩定且尚未定案。選項 A 是該詞的字面義，但在這裡不適用；選項 C 雖有移動之意，但並非指速度快；選項 D 與語境相反，因為文章強調的是調查的困難與不確定性，而非清晰易懂。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "What is the primary message of this article regarding the cyclospora outbreak?",
+      "question": "What is the primary message of this article?",
       "options": {
-        "A": "The FDA has successfully identified the source and ended the outbreak.",
-        "B": "Consumers should stop eating all types of produce until further notice.",
-        "C": "The outbreak is caused by a new, highly dangerous strain of bacteria.",
-        "D": "The investigation is complex and uncertain, requiring consumers to practice caution."
+        "A": "Taylor Farms is solely responsible for the current health crisis in the U.S.",
+        "B": "The FDA is failing to protect the public due to its inability to use genetic testing.",
+        "C": "Cyclospora is a new, deadly parasite that has never been seen in the U.S. before.",
+        "D": "An ongoing cyclospora outbreak is proving difficult to track, requiring public caution."
       },
       "correct": "D",
-      "explanationZh": "正確答案為 D。全文重點在於描述 cyclospora 疫情擴散的嚴重性、調查過程面臨的困難（如偽陽性與多重感染途徑），以及在缺乏明確答案的情況下，民眾應採取衛生措施自我保護。選項 A 與事實不符，調查仍在進行。選項 B 過於誇大，文章僅建議避免食用被召回的生菜。選項 C 錯誤，該病原體是寄生蟲（parasite）而非細菌（bacteria）。"
+      "explanationZh": "正確答案為 D。文章整體主旨是在討論 cyclospora 疫情的爆發，並強調由於缺乏明確的基因證據，調查過程充滿挑戰，因此建議大眾保持警惕並採取預防措施。選項 A 過於武斷，FDA 仍在調查中；選項 B 雖然提到 FDA 的困難，但並非文章主旨；選項 C 錯誤，文章第五段明確提到自 1990 年代以來每年夏天都有相關疫情。"
     }
   ],
   "aiGenerated": true,
