@@ -1,86 +1,69 @@
 {
   "id": "2026-07-22-anthropic-copyright-settlement-approved-by-judge",
   "slug": "anthropic-copyright-settlement-approved-by-judge-jul-2026",
-  "publishedAt": "2026-07-22T22:14:14.529740Z",
+  "publishedAt": "2026-07-22T23:14:43.185717Z",
   "category": "economics",
-  "title": "Major AI Copyright Settlement Approved by US Judge",
-  "subtitle": "A landmark legal deal provides millions in compensation to authors and publishers whose work helped train AI models.",
+  "title": "Major AI Copyright Settlement Approved for Publishers and Authors",
+  "subtitle": "A US judge has finalized a massive agreement involving the AI company Anthropic and thousands of writers.",
   "summary": {
-    "en": "A US judge has approved a $1.5 billion settlement between the AI company Anthropic and thousands of authors. The case focused on the use of copyrighted books and articles to train AI chatbots without permission. Bloomsbury, the publisher of Harry Potter, is among the companies receiving a large payment. This is the largest copyright recovery in history and marks a significant moment for the AI industry. The settlement highlights the ongoing tension between technology companies and creative professionals over intellectual property.",
-    "zh": "美國法官已批准人工智慧公司 Anthropic 與數千名作家之間 15 億美元的和解協議。此案聚焦於在未經許可的情況下，使用受著作權保護的書籍與文章來訓練人工智慧聊天機器人。出版《哈利波特》的布魯姆斯伯里出版社是獲得大額賠償的公司之一。這是史上金額最高的著作權賠償，對人工智慧產業而言是一個重要的時刻。此和解案凸顯了科技公司與創意專業人士之間，關於智慧財產權的持續緊張關係。"
+    "en": "A US judge recently approved a $1.5 billion copyright settlement between Anthropic and thousands of authors. This agreement follows a legal battle over the use of books to train AI chatbots. Bloomsbury, the publisher of Harry Potter, is among those receiving a significant payment. This case is considered the largest copyright recovery in history. It marks a turning point in how AI companies handle the work of creative professionals.",
+    "zh": "美國法官近期批准了 Anthropic 與數千名作者之間十五億美元的著作權和解協議。這項協議結束了關於使用書籍訓練人工智慧聊天機器人的法律爭議。出版《哈利波特》的布魯姆斯伯里出版公司是獲得大額賠償的對象之一。此案被視為史上金額最高的著作權賠償，標誌著人工智慧公司處理專業創作者作品方式的轉捩點。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "A US district judge has officially approved a massive $1.5 billion settlement between the artificial intelligence startup Anthropic and thousands of authors. This legal decision marks a turning point in the growing conflict over how AI companies use creative work to build their products. The case began in 2024 when novelist Andrea Bartz and two other writers sued the company, arguing that their books were used to train AI systems without their consent.",
-      "zh": "美國地方法院法官已正式批准人工智慧新創公司 Anthropic 與數千名作家之間高達 15 億美元的和解協議。這項法律裁決標誌著人工智慧公司如何利用創意作品來開發產品，這場日益激烈的衝突出現了轉折點。此案始於 2024 年，當時小說家安德烈亞·巴茨 (Andrea Bartz) 與另外兩名作家對該公司提起訴訟，主張他們的作品在未經同意的情況下被用於訓練人工智慧系統。"
+      "en": "A significant legal chapter in the world of artificial intelligence has come to a close. According to The Guardian Technology, a US district judge has officially approved a $1.5 billion settlement between the AI company Anthropic and thousands of authors. This decision follows a long-running legal dispute regarding how AI systems, such as the Claude chatbot, are built. The core of the issue was that these systems were trained on vast amounts of data from the internet, which included books and articles protected by copyright—the legal right that gives creators control over how their work is used.",
+      "zh": "人工智慧領域的一項重大法律篇章已告一段落。根據《衛報》科技版報導，一位美國地方法官已正式批准人工智慧公司 Anthropic 與數千名作者之間達成的十五億美元和解協議。這項裁決源於一場關於 Claude 聊天機器人等人工智慧系統如何建構的長期法律糾紛。問題的核心在於，這些系統是利用網路上海量的資料進行訓練，其中包含了受著作權保護的書籍與文章，而著作權即是賦予創作者對其作品使用方式擁有控制權的法律權利。"
     },
     {
       "id": "p2",
-      "en": "According to The Guardian Technology, the settlement is the largest copyright recovery in history. The lawsuit centered on the use of protected materials, such as novels and news articles, to power AI tools like the Claude chatbot. Because these AI models are trained on vast amounts of data from the open internet, they often process copyrighted works without the owners' permission. This has become a major battleground in the technology industry, as creators demand that companies either ask for permission first or pay for the right to use their work.",
-      "zh": "根據《衛報科技版》(The Guardian Technology) 報導，這項和解案是史上金額最高的著作權賠償。訴訟核心在於人工智慧公司使用受保護的素材（如小說與新聞報導）來驅動 Claude 聊天機器人等工具。由於這些人工智慧模型是透過網際網路上大量的數據進行訓練，它們經常在未經擁有者許可的情況下處理受著作權保護的作品。這已成為科技產業的主要戰場，創作者要求公司必須先取得許可，或支付使用其作品的費用。"
+      "en": "Bloomsbury, the famous publisher of the Harry Potter series, is one of the major groups set to benefit from this decision. The company reported that over 14,000 of its titles were included in the settlement. According to The Guardian Technology, Bloomsbury expects to receive a total of about $19 million after paying for legal fees. The company plans to share this money with the authors whose work was used. This payout is part of a larger plan where authors receive compensation for their intellectual property.",
+      "zh": "出版《哈利波特》系列的知名出版商布魯姆斯伯里（Bloomsbury）是此次裁決的主要受益集團之一。該公司表示，旗下超過一萬四千部作品被納入此次和解範圍。根據《衛報》科技版報導，布魯姆斯伯里預計在支付法律費用後，將獲得總計約一千九百萬美元的賠償。該公司計畫將這筆款項與作品被使用過的作者分享。這筆賠償金是作者因其智慧財產權獲得補償的大型計畫之一。"
     },
     {
       "id": "p3",
-      "en": "For many years, US-based AI companies have argued that their actions are protected by the legal doctrine of 'fair use.' This is a rule that allows people to use copyrighted material without permission in certain specific situations. However, creative professionals have strongly disagreed, arguing that their work should not be used for profit without compensation. US district judge Araceli Martínez-Olguín noted that the settlement provides 'meaningful relief' to the authors and publishers who were affected by these practices.",
-      "zh": "多年來，美國的人工智慧公司一直主張其行為受到「合理使用」法律原則的保護。這是一項允許人們在特定情況下，無需許可即可使用受著作權保護素材的規則。然而，創意專業人士強烈反對，認為他們的作品不應在未獲補償的情況下被用於營利。美國地方法院法官阿拉塞利·馬丁內斯-奧爾金 (Araceli Martínez-Olguín) 指出，這項和解協議為受此類行為影響的作家與出版商提供了「實質性的救濟」。"
+      "en": "This case began in 2024 when novelist Andrea Bartz and two other writers filed a lawsuit. They argued that AI companies should ask for permission before using creative work to train their programs. In contrast, many US-based AI companies have defended their actions by using the legal idea of 'fair use.' This rule allows people to use copyrighted material without permission in certain specific situations. However, many artists and writers around the world have disagreed, arguing that they should be paid for their contributions to AI development.",
+      "zh": "此案始於二零二四年，當時小說家安德莉亞·巴茨（Andrea Bartz）與另外兩名作家提起訴訟。他們主張人工智慧公司在利用創意作品訓練程式前，應先取得許可。相對地，許多美國的人工智慧公司則以「合理使用」的法律概念為其行為辯護。這項規則允許人們在特定情況下，無需許可即可使用受著作權保護的素材。然而，全球許多藝術家與作家對此表示反對，認為他們對人工智慧發展的貢獻應獲得報酬。"
     },
     {
       "id": "p4",
-      "en": "One of the major beneficiaries of this deal is Bloomsbury, the London-based publisher famous for the Harry Potter series. The company revealed that it had over 14,000 titles included in the settlement. Bloomsbury expects to receive a significant payout, which it plans to share with the authors of those books. After paying for legal fees and other expenses, the company and its authors are expected to receive approximately $19 million. The Guardian Technology reports that the compensation is calculated at about $3,000 per title, with payments expected to arrive in the second half of the current fiscal year.",
-      "zh": "此協議的主要受益者之一是總部位於倫敦、以《哈利波特》系列聞名的布魯姆斯伯里出版社 (Bloomsbury)。該公司透露，其旗下有超過 14,000 部作品被納入和解範圍。布魯姆斯伯里預計將獲得一筆可觀的賠償金，並計畫與這些書籍的作者分享。在支付法律費用與其他支出後，預計該公司及其作者將獲得約 1,900 萬美元。據《衛報科技版》報導，賠償金計算方式約為每部作品 3,000 美元，預計款項將於本會計年度下半年發放。"
+      "en": "Judge Araceli Martínez-Olguín, who oversaw the case, stated that the settlement provides 'meaningful relief' to the authors and publishers involved. Justin Nelson, the lead lawyer for the authors, called the result 'the largest known copyright recovery in history.' With about 91% of the 482,000 works covered in the lawsuit already claimed, it is clear that many creators are ready to move forward. Aparna Sridhar, a deputy general counsel at Anthropic, expressed satisfaction that the matter is coming to a close.",
+      "zh": "負責審理此案的法官阿拉塞利·馬丁內斯-奧爾金（Araceli Martínez-Olguín）表示，這項和解協議為相關作者與出版商提供了「實質性的救濟」。代表作者方的首席律師賈斯汀·尼爾森（Justin Nelson）稱此結果為「史上已知金額最高的著作權賠償」。在訴訟涵蓋的四十八萬兩千部作品中，已有約百分之九十一的作品完成索賠，顯見許多創作者已準備好向前邁進。Anthropic 的副總法律顧問阿帕娜·斯里達爾（Aparna Sridhar）則對此事件即將落幕表示滿意。"
     },
     {
       "id": "p5",
-      "en": "Anthropic has expressed satisfaction with the outcome. Aparna Sridhar, the company’s deputy general counsel, stated that they are pleased that over 91% of the authors and publishers involved have already claimed their share of the payment. The company is now looking forward to closing this chapter of the legal dispute. With about 91% of the 482,000 works covered in the lawsuit now accounted for, the scale of the agreement is clear.",
-      "zh": "Anthropic 對此結果表示滿意。該公司副總法律顧問阿帕娜·斯里達爾 (Aparna Sridhar) 表示，很高興看到超過 91% 的相關作家與出版商已經領取了他們的賠償份額。公司目前期待結束這場法律糾紛的篇章。隨著訴訟涵蓋的 48 萬 2,000 部作品中，已有約 91% 完成結算，該協議的規模顯而易見。"
+      "en": "This settlement is the first major outcome among dozens of similar lawsuits currently moving through the US court system. It highlights the growing tension between the rapid growth of technology and the rights of those who create content. As AI continues to change how we work and learn, the question of how to fairly pay creators remains a central topic of debate.",
+      "zh": "這項和解是目前美國法院系統中數十起類似訴訟案裡，首個取得重大進展的案例。它凸顯了科技的快速成長與內容創作者權益之間日益緊張的關係。隨著人工智慧持續改變我們工作與學習的方式，如何公平地支付創作者報酬，仍是辯論的核心議題。"
     },
     {
       "id": "p6",
-      "en": "This case is just one of many similar lawsuits currently moving through the US court system. Many other authors and news organizations are still waiting for their own cases to be heard. Because this is the first major settlement of its kind, industry experts are watching closely to see how it might influence future legal battles between AI developers and content creators.",
-      "zh": "此案僅是目前在美國法院系統中進行的眾多類似訴訟之一。許多其他作家與新聞機構仍在等待其案件開庭。由於這是同類案件中首個重大和解案，產業專家正密切關注它將如何影響未來人工智慧開發者與內容創作者之間的法律戰。"
-    },
-    {
-      "id": "p7",
-      "en": "As the industry moves forward, some publishers are already changing how they handle AI. Bloomsbury, for example, announced an AI licensing deal last year. This agreement allows the company to sell academic works to be used for training AI programs in a legal and controlled way. The company is now considering adding more subject areas to this program. Under this system, authors are given the choice to 'opt in'—meaning they can voluntarily agree to let their work be used in exchange for royalties, which are regular payments made to creators for the use of their work.",
-      "zh": "隨著產業向前發展，一些出版商已經開始改變處理人工智慧的方式。例如，布魯姆斯伯里去年宣布了一項人工智慧授權協議。該協議允許公司以合法且受控的方式，將學術作品出售用於訓練人工智慧程式。該公司目前正考慮將更多學科領域納入此計畫。在此制度下，作者可以選擇「加入」，意即他們可以自願同意讓作品被使用，以換取版稅，也就是創作者因使用其作品而獲得的定期報酬。"
-    },
-    {
-      "id": "p8",
-      "en": "This settlement highlights a new reality for the tech world. While AI companies continue to develop powerful new tools, they are increasingly being held responsible for the data they use. For authors and publishers, the ruling offers a path toward being paid for their contributions to the digital age. As more companies look for ways to train their systems, the model of licensing and royalties may become the standard way to balance technological progress with the rights of those who create the content that powers it.",
-      "zh": "這項和解凸顯了科技界的新現實。儘管人工智慧公司持續開發強大的新工具，但他們正越來越多地為所使用的數據承擔責任。對於作家與出版商而言，這項裁決為他們因對數位時代的貢獻而獲得報酬開闢了一條途徑。隨著更多公司尋求訓練系統的方法，授權與版稅模式可能會成為平衡技術進步與內容創作者權益的標準方式。"
+      "en": "Looking ahead, the industry is already changing how it handles these relationships. Bloomsbury has already started an AI licensing deal. This allows the publisher to sell academic works to be used for training AI programs in a legal way. Under this system, authors can choose to 'opt in'—meaning they give their permission—and will receive royalties, which are regular payments made to creators for the use of their work. As more companies consider similar schemes, the relationship between AI developers and the creative community may become more structured and balanced. While this settlement marks a major milestone, it is likely just the beginning of a much longer conversation about fairness in the age of artificial intelligence.",
+      "zh": "展望未來，產業已開始改變處理這些關係的方式。布魯姆斯伯里已啟動一項人工智慧授權協議，允許該出版商以合法方式販售學術著作，供人工智慧程式訓練使用。在此制度下，作者可以選擇「加入」，意即給予許可，並獲得版稅，也就是創作者因作品被使用而定期收到的報酬。隨著更多公司考慮類似方案，人工智慧開發者與創意社群之間的關係可能會變得更有條理且更平衡。雖然這項和解標誌著一個重要的里程碑，但這很可能只是人工智慧時代關於公平性議題，一場更漫長對話的開端。"
     }
   ],
-  "wordCount": 712,
+  "wordCount": 612,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
-      "term": "centered on",
-      "definitionEn": "To have something as the main subject or focus.",
-      "definitionZh": "以……為中心；聚焦於……",
-      "partOfSpeech": "phrasal verb",
-      "noteZh": "此片語在文中表示訴訟案的核心爭議點。文中：The lawsuit centered on the use of protected materials, such as novels and news articles, to power AI tools like the Claude chatbot."
+      "term": "chapter",
+      "definitionEn": "A distinct period or phase in a series of events.",
+      "definitionZh": "（事件的）一個階段、篇章。",
+      "partOfSpeech": "noun (metaphorical)",
+      "noteZh": "常見指書的「章節」，這裡比喻法律訴訟的一個階段。文中：A significant legal chapter in the world of artificial intelligence has come to a close."
     },
     {
-      "term": "relief",
-      "definitionEn": "Financial or legal assistance provided to someone in a difficult situation.",
-      "definitionZh": "（法律或財務上的）救濟、補償。",
+      "term": "settlement",
+      "definitionEn": "An official agreement intended to resolve a dispute or conflict.",
+      "definitionZh": "和解協議。",
       "partOfSpeech": "noun",
-      "noteZh": "常見意思為「放鬆、減輕痛苦」，但在法律語境下指補償或救濟措施。文中：US district judge Araceli Martínez-Olguín noted that the settlement provides 'meaningful relief' to the authors and publishers who were affected by these practices."
+      "noteZh": "常見指「定居」或「殖民」，在法律語境下指雙方達成和解。文中：According to The Guardian Technology, a US district judge has officially approved a $1.5 billion settlement between the AI company Anthropic and thousands of authors."
     },
     {
       "term": "opt in",
-      "definitionEn": "To choose to participate in something or be included in a program.",
-      "definitionZh": "選擇加入；選擇參與。",
+      "definitionEn": "To choose to participate in something or give permission for something.",
+      "definitionZh": "選擇加入；同意參與。",
       "partOfSpeech": "phrasal verb",
-      "noteZh": "常見於商業或數位服務，指主動選擇參與某項計畫。文中：Under this system, authors are given the choice to 'opt in'—meaning they can voluntarily agree to let their work be used in exchange for royalties, which are regular payments made to creators for the use of their work."
-    },
-    {
-      "term": "powers",
-      "definitionEn": "To provide the energy or technology that makes something work.",
-      "definitionZh": "為……提供動力；驅動。",
-      "partOfSpeech": "verb",
-      "noteZh": "常見作名詞（力量、權力），這裡作動詞用，指驅動科技產品運作。文中：As more companies look for ways to train their systems, the model of licensing and royalties may become the standard way to balance technological progress with the rights of those who create the content that powers it."
+      "noteZh": "由動詞 opt 和介詞 in 組成，意思並非字面上的「選擇進入」，而是指主動同意參與某項計畫。文中：Under this system, authors can choose to 'opt in'—meaning they give their permission—and will receive royalties, which are regular payments made to creators for the use of their work."
     }
   ],
   "sources": [
@@ -93,61 +76,69 @@
   ],
   "story": {
     "id": "anthropic-copyright-settlement-approved-by-judge",
-    "type": "standalone",
-    "previousArticles": []
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "anthropic-copyright-settlement-approved-by-judge-jul-2026",
+        "title": "Major AI Copyright Settlement Approved by US Judge",
+        "publishedAt": "2026-07-22T22:14:14.529740Z",
+        "category": "economics",
+        "summaryEn": "A US judge has approved a $1.5 billion settlement between the AI company Anthropic and thousands of authors. The case focused on the use of copyrighted books and articles to train AI chatbots without permission. Bloomsbury, the publisher of Harry Potter, is among the companies receiving a large payment. This is the largest copyright recovery in history and marks a significant moment for the AI industry. The settlement highlights the ongoing tension between technology companies and creative professionals over intellectual property."
+      }
+    ]
   },
   "quiz": [
     {
       "id": "q1",
       "type": "detail",
-      "question": "What is the specific financial outcome for Bloomsbury and its authors according to the article?",
+      "question": "What is the specific financial outcome for Bloomsbury following the settlement?",
       "options": {
-        "A": "They will receive a total of $1.5 billion from the settlement.",
-        "B": "They are expected to receive approximately $19 million after legal and other costs.",
-        "C": "They will be paid $3,000 for each of the 14,000 titles they own.",
-        "D": "They will receive 91% of the total settlement funds."
+        "A": "They will receive $1.5 billion in total compensation.",
+        "B": "They expect to keep approximately $19 million after legal costs.",
+        "C": "They will pay $19 million to the authors of the Harry Potter series.",
+        "D": "They will receive a share of the settlement based on 482,000 works."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。根據文章第四段，Bloomsbury 預計在支付法律費用和其他支出後，公司及其作者將獲得約 1900 萬美元。選項 A 錯誤，因為 15 億美元是整個和解案的總金額，而非單一出版商的份額。選項 C 雖提到 3000 美元，但這是計算補償的基準，而非 Bloomsbury 的最終淨收益。選項 D 的 91% 是指已領取賠償的作者比例，與 Bloomsbury 的獲利金額無關。"
+      "explanationZh": "正確答案為 B。根據文章第二段，Bloomsbury 預計在支付法律費用後，將獲得約 1900 萬美元的賠償，並計劃與作者分享這筆錢。選項 A 的 15 億美元是總和解金額，而非 Bloomsbury 個別獲得的金額。選項 C 錯誤，因為 1900 萬是他們收到的錢，而非支付給作者的賠償總額。選項 D 雖然提到了 482,000 部作品，但那是整個訴訟涵蓋的範圍，而非 Bloomsbury 的賠償計算基準。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "Based on the article, what is the most likely reason Bloomsbury started an AI licensing program?",
+      "question": "What can be inferred about the future of AI training in the publishing industry?",
       "options": {
-        "A": "To force all their authors to allow their work to be used by AI companies.",
-        "B": "To avoid paying legal fees in future lawsuits against Anthropic.",
-        "C": "To create a controlled, profitable system that balances AI development with creator compensation.",
-        "D": "To ensure that their Harry Potter series is the only content used for training AI."
+        "A": "Publishers will likely stop allowing AI companies to use their books entirely.",
+        "B": "Authors will no longer have control over how their work is used by AI.",
+        "C": "The industry is shifting toward a model where authors are compensated through licensing agreements.",
+        "D": "AI companies will stop using copyrighted material to avoid future lawsuits."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。根據第七段與第八段，Bloomsbury 建立了授權機制，讓作者選擇「加入」(opt in) 以換取版稅。這顯示該公司試圖建立一個合法且受控的模式，讓科技進步與創作者權益取得平衡，而非強迫所有作者參與。選項 A 錯誤，因為是「自願加入」。選項 B 與法律費用無關。選項 D 錯誤，文章未提到僅限哈利波特系列，且該計畫正考慮擴展至其他學科領域。"
+      "explanationZh": "正確答案為 C。根據文章最後一段，Bloomsbury 已開始實施 AI 授權交易，讓作者可以選擇加入（opt in）並獲得版稅。這顯示出版業正從法律訴訟轉向結構化的授權模式。選項 A 與文章提到的「授權協議」相矛盾。選項 B 錯誤，因為文章明確提到作者可以選擇是否參與（opt in）。選項 D 過於武斷，文章僅提到產業正在尋求更平衡的合作關係，並未表示 AI 公司會完全停止使用受版權保護的材料。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the final paragraph, what does the word 'powers' mean as used in the phrase 'content that powers it'?",
+      "question": "In the final paragraph, what does the word 'royalties' refer to?",
       "options": {
-        "A": "To provide the energy or fuel needed for something to operate.",
-        "B": "To have the legal authority to control a specific industry.",
-        "C": "To force someone to do something against their will.",
-        "D": "To improve the quality of a product significantly."
+        "A": "A one-time payment made to purchase the copyright of a book.",
+        "B": "Regular payments made to creators for the ongoing use of their work.",
+        "C": "Legal fees paid to lawyers during a copyright settlement.",
+        "D": "A tax imposed on AI companies for using internet data."
       },
-      "correct": "A",
-      "explanationZh": "正確答案為 A。在此語境中，powers 指的是「提供運作所需的能量或基礎」。AI 系統就像機器，而創作者的內容則是讓這些系統能夠運作並產出結果的「燃料」。選項 B 與法律權力無關。選項 C 的「強迫」在此句意中不適用。選項 D 雖然內容確實能提升 AI 品質，但 powers 在此更強調的是作為系統運作的基礎動力來源，而非單純的品質提升。"
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章最後一段明確定義 royalties 為「regular payments made to creators for the use of their work」（為使用創作者作品而支付的定期報酬）。選項 A 錯誤，因為版稅通常是基於使用量而非一次性買斷版權。選項 C 的法律費用在第二段已由「legal fees」一詞表達，並非版稅。選項 D 與稅務無關，這是商業授權行為。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "What is the primary message of this article regarding the relationship between AI companies and content creators?",
+      "question": "What is the primary message of this article?",
       "options": {
-        "A": "AI companies have successfully proven that using copyrighted material is protected under fair use.",
-        "B": "The legal battle between authors and AI companies has ended, and no further lawsuits are expected.",
-        "C": "Bloomsbury is the only publisher that has successfully negotiated with AI developers.",
-        "D": "The industry is shifting toward a model of accountability, where AI companies must compensate creators for the data they use."
+        "A": "The legal battle between Andrea Bartz and Anthropic has resulted in the bankruptcy of AI companies.",
+        "B": "Bloomsbury is the only publisher successfully challenging AI companies in court.",
+        "C": "The $1.5 billion settlement is the final and only solution to AI copyright issues.",
+        "D": "A major settlement marks a turning point in the ongoing debate over fair compensation for creators in the AI era."
       },
       "correct": "D",
-      "explanationZh": "正確答案為 D。文章透過 Anthropic 的和解案以及 Bloomsbury 的授權模式，探討了科技界的新現實：AI 公司正逐漸被要求對使用的數據負責，並走向版稅與授權的模式。選項 A 錯誤，因為這正是爭議點，且法院並未全面支持 fair use。選項 B 錯誤，文章明確提到還有許多類似訴訟正在進行中。選項 C 錯誤，文中僅以 Bloomsbury 為例，並未暗示它是唯一一家。"
+      "explanationZh": "正確答案為 D。本文主旨探討 AI 發展與創作者權利之間的緊張關係，並以這項和解案作為一個里程碑，說明產業正朝向更結構化的授權模式發展。選項 A 的破產說法文章未提及。選項 B 錯誤，因為文章提到這是「數十起」訴訟中的其中一起。選項 C 錯誤，因為文章最後一段提到這只是「更長對話的開始」，而非終局。"
     }
   ],
   "aiGenerated": true,
