@@ -1,0 +1,163 @@
+{
+  "id": "2026-07-24-anthropic-releases-opus-5-ai-model",
+  "slug": "anthropic-releases-opus-5-ai-model-jul-2026",
+  "publishedAt": "2026-07-24T23:14:54.010568Z",
+  "category": "technology",
+  "title": "Anthropic Launches Opus 5 AI Model with Focus on Cost and Efficiency",
+  "subtitle": "The new model offers performance similar to top-tier systems at a lower price, while addressing government cybersecurity concerns.",
+  "summary": {
+    "en": "Anthropic has officially released Opus 5, its latest artificial intelligence model designed for business and coding tasks. While not a major leap in power, the model provides performance close to the company's high-end Fable 5 at roughly half the cost. The release follows recent negotiations between Anthropic and the government regarding AI safety and security. To address these concerns, Opus 5 includes stronger cybersecurity safeguards than its predecessor. Customers can also choose new speed options, though the model remains focused on efficiency rather than groundbreaking capabilities.",
+    "zh": "Anthropic 已正式發布 Opus 5，這是其最新的人工智慧模型，專為商業與編碼任務而設計。雖然在效能上並非大幅躍進，但該模型以約一半的成本，提供了接近該公司高階 Fable 5 的表現。此次發布是在 Anthropic 與政府就人工智慧安全與防護進行近期協商後所進行的。為了回應這些擔憂，Opus 5 納入了比前代產品更強大的網路安全防護措施。客戶也可以選擇新的速度選項，不過該模型仍將重點放在效率而非開創性的能力上。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Anthropic has officially released its newest artificial intelligence model, Opus 5. This update arrives as the company looks to balance high-level performance with better value for its business users. While the release is a significant step for the company, experts suggest it is not a massive jump in capability compared to previous versions. Instead, the model focuses on being a more efficient tool for coding and daily professional tasks.",
+      "zh": "Anthropic 公司已正式發布其最新的人工智慧模型 Opus 5。此次更新正值該公司試圖在高效能表現與商業用戶的成本效益之間取得平衡之際。儘管這次發布對公司而言是重要的一步，但專家認為，與先前版本相比，其能力並未出現大幅度的躍進。相反地，該模型更專注於成為編碼與日常專業任務中更有效率的工具。"
+    },
+    {
+      "id": "p2",
+      "en": "According to Ars Technica, Opus 5 performs at a level similar to, or slightly better than, the company’s powerful Fable model in many areas. However, the main goal of this release is not to break new ground in technology, but to offer a product that provides nearly the same quality as the top-tier Fable 5 at about half the cost. This makes it an attractive choice for companies that need strong AI tools without the highest price tag.",
+      "zh": "根據科技新聞網站 Ars Technica 報導，Opus 5 在許多領域的表現與該公司強大的 Fable 模型相當，甚至略勝一籌。然而，此次發布的主要目標並非在技術上開創新局，而是提供一款品質幾乎與頂級的 Fable 5 看齊，但成本卻僅約一半的產品。這對於需要強大人工智慧工具卻不想負擔最高昂費用的企業來說，是一個極具吸引力的選擇。"
+    },
+    {
+      "id": "p3",
+      "en": "The release comes at a sensitive time for the AI industry. The Verge reports that Anthropic has been in discussions with the government regarding cybersecurity—the protection of computer systems from digital attacks. These talks followed concerns about the company’s previous models. As a result, Anthropic has included stronger safety features in Opus 5. A company spokesperson, Danielle Ghiglieri, stated that Anthropic continues to work with government partners to test their models independently, including this new version.",
+      "zh": "此次發布正值人工智慧產業的敏感時期。科技媒體 The Verge 報導指出，Anthropic 一直在與政府討論網路安全議題，即保護電腦系統免受數位攻擊。這些對話源於外界對該公司先前模型的擔憂。因此，Anthropic 在 Opus 5 中加入了更嚴謹的安全功能。公司發言人吉格里 (Danielle Ghiglieri) 表示，Anthropic 持續與政府合作夥伴共同測試其模型，包括這款新版本在內，以確保其安全性。"
+    },
+    {
+      "id": "p4",
+      "en": "Despite these improvements, there are differences in how Opus 5 handles security compared to other models. Ars Technica noted that Anthropic chose not to give Opus 5 the most advanced training for cybersecurity tasks. While the model is capable of finding digital vulnerabilities—weak points in software that hackers might use—it is not as advanced as the Mythos 5 model in exploiting those same weaknesses. Furthermore, Opus 5 does not include some of the stricter data-handling rules that were previously applied to the Fable model.",
+      "zh": "儘管有所改進，Opus 5 在處理安全性的方式上與其他模型仍有差異。Ars Technica 指出，Anthropic 選擇不讓 Opus 5 接受最先進的網路安全任務訓練。雖然該模型有能力找出數位漏洞（即駭客可能利用的軟體弱點），但其在利用這些弱點的能力上，並不如 Mythos 5 模型先進。此外，Opus 5 並未包含先前應用於 Fable 模型中的某些較嚴格的資料處理規則。"
+    },
+    {
+      "id": "p5",
+      "en": "For business customers, the pricing structure remains a key part of the announcement. Anthropic confirmed that the cost per million tokens—the units of text that AI models process—is the same as the previous Opus 4.8 model. By keeping these costs down, the company is positioning Opus 5 as a practical, everyday tool. The Verge highlighted that this is significantly cheaper than the competing GPT-5.6 model from OpenAI. Additionally, Anthropic is introducing a “Fast mode” for users who need quicker results, though this feature costs double the standard price.",
+      "zh": "對於商業客戶而言，定價結構仍是此次公告的重點。Anthropic 確認，每百萬代幣（人工智慧模型處理文字的單位）的成本與先前的 Opus 4.8 模型相同。透過壓低這些成本，該公司將 Opus 5 定位為實用的日常工具。The Verge 強調，這比競爭對手 OpenAI 的 GPT-5.6 模型便宜許多。此外，Anthropic 還為需要快速取得結果的用戶推出了「快速模式」，儘管此功能的價格是標準價格的兩倍。"
+    },
+    {
+      "id": "p6",
+      "en": "This release also seems to respond to recent industry debates about the high costs of AI. Some users have expressed concerns that AI companies are passing their expensive development costs onto customers through hidden fees. By offering a more affordable model that still performs well, Anthropic is attempting to address these concerns. The company also added an option for users to automatically switch to a smaller, cheaper model if Opus 5 is unable to complete a specific request due to safety rules.",
+      "zh": "此次發布似乎也回應了近期產業界關於人工智慧高昂成本的爭論。部分用戶表示擔憂，認為人工智慧公司正透過隱藏費用，將昂貴的開發成本轉嫁給客戶。透過提供一款價格更親民且效能依然優異的模型，Anthropic 正試圖解決這些疑慮。該公司還增加了一項選項，若 Opus 5 因安全規則而無法完成特定請求時，系統會自動切換至較小且較便宜的模型。"
+    },
+    {
+      "id": "p7",
+      "en": "Looking ahead, Anthropic suggests that while Opus 5 is ideal for general knowledge work and biology, the more powerful Fable 5 remains the best choice for highly complex projects. The company describes Opus 5 as its “most aligned” model, meaning it is designed to follow user instructions safely and is less likely to be tricked into misuse. As the government continues to develop new regulations for AI, the success of this model may depend on how well it balances these safety requirements with the needs of its professional users.",
+      "zh": "展望未來，Anthropic 表示，雖然 Opus 5 非常適合一般知識工作與生物學領域，但功能更強大的 Fable 5 仍是處理高度複雜專案的最佳選擇。該公司將 Opus 5 描述為其「最對齊」的模型，意即它被設計為能安全地遵循用戶指令，且較不容易被誘騙而遭到濫用。隨著政府持續制定人工智慧的新法規，此模型的成功與否，可能取決於它在滿足專業用戶需求與符合安全規範之間，能取得多好的平衡。"
+    },
+    {
+      "id": "p8",
+      "en": "Ultimately, the launch of Opus 5 shows a shift in the AI market. Companies are moving away from only chasing the most powerful technology and are now focusing on making their tools more practical and affordable. Whether this strategy will satisfy both government regulators and business customers remains to be seen, but it marks a clear direction for Anthropic’s future development.",
+      "zh": "總結來說，Opus 5 的推出顯示了人工智慧市場的轉變。企業正逐漸從單純追求最強大的技術，轉向致力於讓工具變得更實用且更具經濟效益。這項策略是否能同時滿足政府監管機構與商業客戶，仍有待觀察，但這已為 Anthropic 未來的發展指明了明確的方向。"
+    }
+  ],
+  "wordCount": 712,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "break new ground",
+      "definitionEn": "To do something that has not been done before; to innovate.",
+      "definitionZh": "開創新局面、有突破性進展。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這是一個慣用語，字面上是「開墾新土地」，這裡指技術上的突破。文中：However, the main goal of this release is not to break new ground in technology, but to offer a product that provides nearly the same quality as the top-tier Fable 5 at about half the cost."
+    },
+    {
+      "term": "passing",
+      "definitionEn": "To give or transfer something (like costs) to someone else.",
+      "definitionZh": "轉嫁（費用或責任）。",
+      "partOfSpeech": "verb (present participle)",
+      "noteZh": "常見作「經過」或「傳遞」，這裡指將成本轉嫁給客戶。文中：Some users have expressed concerns that AI companies are passing their expensive development costs onto customers through hidden fees."
+    },
+    {
+      "term": "aligned",
+      "definitionEn": "In the context of AI, designed to follow human instructions and safety guidelines.",
+      "definitionZh": "（AI術語）對齊的；指AI的行為符合人類指令與安全規範。",
+      "partOfSpeech": "adjective",
+      "noteZh": "常見作「排列整齊」，在AI領域指模型與人類價值觀或指令一致。文中：The company describes Opus 5 as its “most aligned” model, meaning it is designed to follow user instructions safely and is less likely to be tricked into misuse."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
+      "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
+      "publishedAt": "2026-07-24T21:05:51Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+      "publishedAt": "2026-07-24T17:00:00Z"
+    }
+  ],
+  "story": {
+    "id": "anthropic-and-ai-copyright-legal-developments",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "anthropic-and-ai-copyright-legal-developments-jul-2026",
+        "title": "Anthropic Launches Opus 5: A Balance of Cost and Performance",
+        "publishedAt": "2026-07-24T22:14:25.124942Z",
+        "category": "technology",
+        "summaryEn": "Anthropic has officially released its latest AI model, Opus 5, designed to be more cost-effective for business users. The model offers performance levels close to the company's more powerful Fable 5, but at a significantly lower price point. This release follows a period of intense negotiation between Anthropic and the US government regarding cybersecurity risks. The company has included new safety features to ensure the model is less likely to be used for harmful purposes. Anthropic continues to work with government partners to test the model's capabilities and security."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the primary financial advantage of using Opus 5 compared to the Fable 5 model?",
+      "options": {
+        "A": "It is completely free for all business users.",
+        "B": "It provides similar quality at roughly half the price.",
+        "C": "It charges a lower cost per million tokens than Opus 4.8.",
+        "D": "It includes a 'Fast mode' at no additional cost."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，Opus 5 的主要目標是提供與頂級 Fable 5 模型幾乎相同的品質，但價格僅為其一半。選項 A 錯誤，文中未提及免費；選項 C 錯誤，文中提到每百萬代幣的費用與 Opus 4.8 相同，並未降低；選項 D 錯誤，文中明確指出「快速模式」需支付雙倍費用。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the text, why might a company choose to use the Mythos 5 model instead of Opus 5?",
+      "options": {
+        "A": "Mythos 5 is more affordable for daily professional tasks.",
+        "B": "Mythos 5 is better at following user instructions safely.",
+        "C": "Mythos 5 has superior capabilities for exploiting software vulnerabilities.",
+        "D": "Mythos 5 is the most recent model released by Anthropic."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第四段，文章指出 Opus 5 雖然能發現漏洞，但在「利用」(exploiting) 這些弱點的能力上不如 Mythos 5 先進。選項 A 與文章主旨矛盾，Opus 5 的定位才是經濟實惠；選項 B 錯誤，文中稱 Opus 5 為「最對齊」(most aligned) 的模型；選項 D 錯誤，文中並未指明 Mythos 5 是最新的模型。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the word 'shift' mean in the context of the AI market?",
+      "options": {
+        "A": "A physical movement of equipment.",
+        "B": "A change in strategy or focus.",
+        "C": "A decrease in the total number of users.",
+        "D": "A temporary pause in product development."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在此語境下，「shift」指的是市場趨勢或策略的「轉變」，即從單純追求最強技術轉向追求實用性與經濟效益。選項 A 是指物理移動，在此不適用；選項 C 與 D 均與文章描述的市場動態不符，文章並未提到用戶減少或開發暫停，反而強調了新產品的發布與定位。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article regarding the release of Opus 5?",
+      "options": {
+        "A": "Anthropic is prioritizing high-end cybersecurity research over business needs.",
+        "B": "Opus 5 is a revolutionary leap in AI technology that replaces all previous models.",
+        "C": "The AI industry is moving toward more practical, cost-effective, and safe models.",
+        "D": "Government regulations are forcing companies to stop releasing new AI models."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。全文核心在於描述 AI 市場的轉向，強調 Anthropic 透過 Opus 5 展現出對實用性、價格優勢及安全性（與政府合作）的重視。選項 A 與事實相反，公司正平衡商業需求；選項 B 錯誤，文中提到這並非技術上的巨大飛躍；選項 D 錯誤，政府是在進行監管討論，而非全面禁止發布新模型。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
