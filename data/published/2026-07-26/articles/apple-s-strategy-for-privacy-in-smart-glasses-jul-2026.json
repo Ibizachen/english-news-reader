@@ -1,0 +1,149 @@
+{
+  "id": "2026-07-26-apple-s-strategy-for-privacy-in-smart-glasses",
+  "slug": "apple-s-strategy-for-privacy-in-smart-glasses-jul-2026",
+  "publishedAt": "2026-07-26T23:10:19.368668Z",
+  "category": "technology",
+  "title": "Apple Plans to Make Privacy the Focus of New Smart Glasses",
+  "subtitle": "As the company prepares to enter the wearables market, it hopes to win over customers by avoiding the privacy concerns that have affected its competitors.",
+  "summary": {
+    "en": "Apple is reportedly preparing to introduce its first pair of smart glasses by the end of 2027. The company plans to focus heavily on user privacy to distinguish its product from existing devices. According to reports, Apple will likely avoid controversial features like facial recognition. Instead, the company will focus on processing data directly on the device. This strategy aims to protect Apple's long-standing reputation as a brand that guards personal information.",
+    "zh": "據報導，蘋果正準備在二〇二七年底前推出其首款智慧眼鏡。該公司計畫將重點放在使用者隱私上，以將其產品與現有裝置區隔開來。根據報導，蘋果很可能會避開臉部辨識等具爭議的功能，轉而專注於直接在裝置上處理數據。此策略旨在保護蘋果作為守護個人資訊品牌的長期聲譽。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The technology world is watching closely as Apple prepares to enter the market for smart glasses. According to Mark Gurman, writing for The Verge, the company is expected to show its first pair of smart glasses at the WWDC event next June. While the official launch is not expected until the end of 2027, the long wait suggests that Apple is spending significant time perfecting its approach to privacy.",
+      "zh": "科技界正密切關注蘋果（Apple）準備進軍智慧眼鏡市場的動向。根據為科技媒體「邊緣」（The Verge）撰稿的葛曼（Mark Gurman）指出，該公司預計將於明年六月的全球開發者大會（WWDC）上展示其首款智慧眼鏡。儘管正式發布預計要等到二〇二七年底，但這段漫長的等待期顯示蘋果正投入大量時間，以完善其在隱私保護方面的策略。"
+    },
+    {
+      "id": "p2",
+      "en": "Privacy has been a central part of Apple’s brand for more than ten years. As the company prepares to enter a new product category, it faces a difficult challenge. Other companies, such as Meta, have already released smart glasses that have caused public concern. These devices often include cameras that can record photos or videos without people nearby knowing. This has led to debates about whether such technology is safe or if it invades the personal space of others.",
+      "zh": "十多年來，隱私保護一直是蘋果品牌的核心價值。隨著公司準備進入新的產品類別，它面臨著一項艱鉅的挑戰。其他公司，例如臉書母公司（Meta），已經推出了引發大眾疑慮的智慧眼鏡。這些裝置通常配備攝影機，能在周遭民眾不知情的情況下錄影或拍照。這引發了關於此類技術是否安全，或是會侵犯他人個人空間的爭論。"
+    },
+    {
+      "id": "p3",
+      "en": "According to The Verge, Apple is worried that entering this market could hurt its reputation if it follows the same path as its competitors. To avoid this, the company is planning a different strategy. Instead of copying the features that have caused controversy, Apple is expected to focus on what it calls on-device processing. This means that the data collected by the glasses will stay on the device itself rather than being sent to a large computer server. By keeping data local, the company hopes to ensure that personal information remains private and secure.",
+      "zh": "根據「邊緣」報導，蘋果擔心若採取與競爭對手相同的路徑，進入該市場可能會損害其聲譽。為了避免這種情況，該公司正計畫採取不同的策略。蘋果預計將重點放在所謂的「裝置端處理」，而非複製那些引發爭議的功能。這意味著眼鏡所收集的數據將保留在裝置本身，而不會傳送到大型電腦伺服器。透過將數據留在本地，該公司希望確保個人資訊保持隱私與安全。"
+    },
+    {
+      "id": "p4",
+      "en": "Furthermore, Apple reportedly plans to avoid certain features that have made other smart glasses unpopular. For example, the company is unlikely to include facial recognition technology. This technology, which can identify people by their faces, is often seen as a major threat to privacy. Additionally, Apple is expected to avoid a feature similar to Meta’s “super sensing,” which involves recording the world around the user at all times. By choosing not to include these tools, Apple hopes to show that its glasses are designed with the user’s safety in mind.",
+      "zh": "此外，據報導蘋果計畫避開某些導致其他智慧眼鏡不受歡迎的功能。例如，該公司不太可能加入臉部辨識技術。這項能透過臉部特徵辨識身分的技術，常被視為對隱私的重大威脅。此外，蘋果預計將避免採用類似臉書母公司「超級感測」的功能，該功能涉及隨時記錄使用者周遭的世界。透過選擇不包含這些工具，蘋果希望展現其眼鏡的設計是以使用者的安全為優先考量。"
+    },
+    {
+      "id": "p5",
+      "en": "Another important part of Apple’s strategy involves how it handles artificial intelligence. The Verge reports that Apple will likely not use recordings from its users to train its AI models. Many people are concerned that their personal conversations or videos are being used to teach computers how to think or speak. By promising not to use customer data for this purpose, Apple is trying to build trust with potential buyers who are worried about how their information is used by big technology companies.",
+      "zh": "蘋果策略的另一個重要部分涉及其處理人工智慧的方式。「邊緣」報導指出，蘋果很可能不會使用使用者的錄音來訓練其人工智慧模型。許多人擔心自己的私人對話或影片被用來教導電腦如何思考或說話。透過承諾不將客戶數據用於此目的，蘋果正試圖與那些擔心大型科技公司如何使用其資訊的潛在買家建立信任。"
+    },
+    {
+      "id": "p6",
+      "en": "There is also talk that Apple might offer different versions of its glasses to suit different needs. One possibility is a version of the glasses that does not include a camera at all. Another option could be a camera that is only used for sensing the environment, rather than taking pictures or videos of people. This approach is similar to rumors about Apple’s future AI-enabled AirPods, which may also use sensors to understand the world without recording personal images.",
+      "zh": "外界也有傳言稱，蘋果可能會提供不同版本的眼鏡以滿足各種需求。其中一種可能性是推出完全不含攝影機的版本。另一種選擇可能是僅用於感測環境，而非拍攝人物照片或影片的攝影機。這種做法與關於蘋果未來具備人工智慧功能的無線耳機（AirPods）傳聞相似，這些耳機也可能利用感測器來理解周遭環境，而不會記錄個人影像。"
+    },
+    {
+      "id": "p7",
+      "en": "Ultimately, Apple’s success in this new market will depend on whether it can convince customers that its glasses are different. While other companies have faced backlash—a strong negative reaction from the public—for their approach to surveillance, Apple is betting that a focus on privacy will be its biggest advantage. By moving slowly and carefully, the company hopes to avoid the mistakes of others and set a new standard for how wearable technology should be built.",
+      "zh": "最終，蘋果在這個新市場的成功，將取決於它能否說服客戶其眼鏡與眾不同。雖然其他公司因其監控方式而面臨強烈的公眾負面反應，但蘋果押注於對隱私的重視將成為其最大的優勢。透過謹慎緩慢的步調，該公司希望避免重蹈他人的覆轍，並為穿戴式技術的建構方式樹立新標準。"
+    },
+    {
+      "id": "p8",
+      "en": "As the date for the WWDC event approaches, more details about these glasses will likely emerge. For now, the focus remains on how the company will balance the need for advanced technology with the need to protect the privacy of its users. If Apple can prove that its glasses are safe and respectful of personal boundaries, it may find a large and loyal audience waiting for its latest invention.",
+      "zh": "隨著全球開發者大會的日期臨近，關於這些眼鏡的更多細節可能會陸續浮現。目前，焦點仍集中在該公司將如何平衡先進技術需求與保護使用者隱私需求之間的關係。如果蘋果能證明其眼鏡是安全的且尊重個人界線，它可能會發現有一群龐大且忠誠的受眾正等待著這項最新發明。"
+    }
+  ],
+  "wordCount": 712,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "watch",
+      "definitionEn": "To observe or follow the development of a situation closely.",
+      "definitionZh": "密切關注、觀察（某事物的發展）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（手錶），這裡作動詞用。文中：The technology world is watching closely as Apple prepares to enter the market for smart glasses."
+    },
+    {
+      "term": "betting",
+      "definitionEn": "To be confident that something will happen or that a particular action will be successful.",
+      "definitionZh": "押注、認定（某事會成功）。",
+      "partOfSpeech": "verb (present participle)",
+      "noteZh": "常見作賭博，這裡指對某種策略充滿信心。文中：Apple is betting that a focus on privacy will be its biggest advantage."
+    },
+    {
+      "term": "talk",
+      "definitionEn": "Rumors, discussions, or general conversation about a possible future event.",
+      "definitionZh": "傳聞、議論。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（說話），這裡作名詞用，指傳言。文中：There is also talk that Apple might offer different versions of its glasses to suit different needs."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
+      "title": "Apple is banking on privacy to set its smart glasses apart",
+      "publishedAt": "2026-07-26T19:36:38Z"
+    }
+  ],
+  "story": {
+    "id": "apple-s-strategy-for-privacy-in-smart-glasses",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What specific approach is Apple planning to use to ensure that personal information collected by its smart glasses remains secure?",
+      "options": {
+        "A": "It will send all collected data to a highly secure, encrypted central server.",
+        "B": "It will process all data directly on the device instead of sending it to a remote server.",
+        "C": "It will allow users to delete their data manually after every session.",
+        "D": "It will use facial recognition to verify the identity of the user before recording."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，Apple 計劃採用「on-device processing」（裝置端處理）的策略，確保數據保留在裝置本身，而非傳送至大型電腦伺服器。選項 A 與文章描述的「不傳送至伺服器」相反。選項 C 文章未提及手動刪除功能。選項 D 在第四段中明確指出 Apple 不會包含臉部辨識技術，因此錯誤。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, why might Apple consider releasing a version of its smart glasses that has no camera at all?",
+      "options": {
+        "A": "To reduce the manufacturing costs and make the device more affordable for the average consumer.",
+        "B": "To comply with new government regulations regarding wearable recording devices.",
+        "C": "To appeal to privacy-conscious consumers who are wary of being recorded by others.",
+        "D": "To focus exclusively on audio-based AI features rather than visual processing."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第六段提到 Apple 可能提供無相機版本，並結合全文對於隱私（privacy）的高度重視以及對競爭對手（如 Meta）因錄影功能引發爭議的描述，可以推論 Apple 此舉是為了爭取那些擔心隱私被侵犯、不希望被錄影的消費者。選項 A 與 B 文章皆未提及。選項 D 雖然提到了 AI，但並未說明無相機版本是為了專注於音訊，而是為了環境感知或隱私考量。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the word 'backlash' mean in the context of the article?",
+      "options": {
+        "A": "A strong negative reaction from the public.",
+        "B": "The technical failure of a new product.",
+        "C": "A legal lawsuit filed by a competitor.",
+        "D": "The process of updating software to fix bugs."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。文章第七段明確定義了 backlash 為「a strong negative reaction from the public」（公眾強烈的負面反應）。這用來描述其他公司因監控問題而遭受的批評。選項 B、C、D 皆與文章中對該詞的定義與語境不符，屬於無關的錯誤選項。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary focus of Apple's strategy for its upcoming smart glasses?",
+      "options": {
+        "A": "To compete with Meta by offering more advanced recording features than currently available.",
+        "B": "To prioritize user privacy and build trust to differentiate itself from competitors.",
+        "C": "To launch the product as quickly as possible to capture the early market share.",
+        "D": "To use customer data to train its AI models more effectively than other companies."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。整篇文章的核心主旨皆圍繞在 Apple 如何透過強調隱私保護（如裝置端處理、不使用用戶數據訓練 AI、避免臉部辨識）來與競爭對手做出區隔，進而建立消費者信任。選項 A 與文章提到的「避免爭議」相反；選項 C 與文章提到的「緩慢且謹慎」不符；選項 D 則與文章第五段提到的 Apple 不會使用用戶數據訓練 AI 的承諾完全衝突。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
