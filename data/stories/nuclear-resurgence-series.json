@@ -1,0 +1,37 @@
+{
+  "id": "nuclear-resurgence-series",
+  "title": "The Nuclear Renaissance: Powering the Net-Zero Future",
+  "subtitle": "An examination of why nuclear energy is returning to the center of global climate policy.",
+  "description": "This series explores the complex shift in global energy policy as nations reconsider nuclear power to meet decarbonization goals. Readers will analyze the technical, economic, and political factors driving this resurgence.",
+  "category": "energy",
+  "status": "active",
+  "updatedAt": "2026-07-27T04:36:19.257738Z",
+  "cadence": "5-part reading path. Complete series available.",
+  "articles": [
+    {
+      "slug": "nuclear-resurgence-series-part-1",
+      "label": "Part 1",
+      "note": "The historical context of nuclear energy's decline and its recent re-evaluation as a reliable baseload power source for net-zero goals."
+    },
+    {
+      "slug": "nuclear-resurgence-series-part-2",
+      "label": "Part 2",
+      "note": "The roles of governments, state-owned enterprises, and private tech companies in funding and developing new nuclear projects."
+    },
+    {
+      "slug": "nuclear-resurgence-series-part-3",
+      "label": "Part 3",
+      "note": "The technical shift toward Small Modular Reactors (SMRs) and how they differ from traditional large-scale plants."
+    },
+    {
+      "slug": "nuclear-resurgence-series-part-4",
+      "label": "Part 4",
+      "note": "The social and environmental implications of nuclear expansion, including waste management and public perception."
+    },
+    {
+      "slug": "nuclear-resurgence-series-part-5",
+      "label": "Part 5",
+      "note": "The unresolved questions regarding global nuclear proliferation, supply chain bottlenecks, and the long-term feasibility of a nuclear-heavy energy mix."
+    }
+  ]
+}
