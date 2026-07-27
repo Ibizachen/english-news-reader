@@ -1,0 +1,154 @@
+{
+  "id": "2026-07-27-ai-risks-in-biological-science",
+  "slug": "ai-risks-in-biological-science-jul-2026",
+  "publishedAt": "2026-07-27T23:18:58.162891Z",
+  "category": "technology",
+  "title": "The Dual Future of AI in Biological Science",
+  "subtitle": "How artificial intelligence is changing the race between disease prevention and biological threats",
+  "summary": {
+    "en": "Artificial intelligence is rapidly changing the field of biology in two opposing ways. While it offers powerful tools to detect and stop disease outbreaks early, it also lowers the barrier for creating dangerous biological materials. Experts are now in a race to ensure defensive technologies advance faster than offensive ones. The speed of AI allows for quicker detection of health threats compared to traditional reporting methods. Ultimately, the future of global health depends on how effectively we can use these systems for protection.",
+    "zh": "人工智慧正以兩種對立的方式迅速改變生物學領域。雖然它提供了強大的工具來及早偵測並阻斷疾病爆發，但也降低了製造危險生物材料的門檻。專家們目前正展開競賽，確保防禦技術的進步速度能超越攻擊技術。相較於傳統的通報方式，人工智慧的速度能更快速地偵測健康威脅。最終，全球健康的未來取決於我們能多有效地運用這些系統進行防護。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Artificial intelligence is changing the world of biology in two very different ways. As the field evolves, it is creating a high-stakes race between offense and defense. On one side, AI offers the potential to stop deadly diseases before they spread. On the other side, the same technology could make it easier for people with bad intentions to create dangerous biological weapons. According to The Guardian Technology, we are currently witnessing a struggle between the growth of \"dark biology,\" where harmful pathogens are engineered in secret, and a new era of global health protection.",
+      "zh": "人工智慧正以兩種截然不同的方式改變生物學領域。隨著該領域的演進，一場關於攻防的高風險競賽也隨之展開。一方面，人工智慧提供了在致命疾病擴散前將其阻斷的潛力；另一方面，同樣的技術也可能讓心懷不軌者更容易製造出危險的生物武器。根據《衛報科技》（The Guardian Technology）報導，我們目前正見證一場「黑暗生物學」——即秘密研發有害病原體——與全球健康防護新時代之間的角力。"
+    },
+    {
+      "id": "p2",
+      "en": "In the past, tracking disease outbreaks relied on official reports from hospitals and laboratories. However, this process often took days or even weeks to update. The Guardian Technology reports that modern AI systems are changing this by compressing the timeline between the start of an outbreak and its detection. By using advanced computing to scan social media, local news, and other unofficial reports, these systems can find information in real time. This speed is critical, as it can mean the difference between containing a small number of cases and facing a global pandemic.",
+      "zh": "過去，追蹤疾病爆發依賴醫院與實驗室的官方報告，但這個過程往往需要數天甚至數週才能更新。據《衛報科技》報導，現代人工智慧系統正透過縮短疫情爆發與偵測之間的時間差來改變現狀。藉由運用先進運算技術掃描社群媒體、地方新聞及其他非官方報告，這些系統能即時發現資訊。這種速度至關重要，因為它可能決定了是將病例控制在小範圍內，還是面臨全球性大流行。"
+    },
+    {
+      "id": "p3",
+      "en": "One major development in this area is the use of computer-based systems that act as giant filters for health information. These tools scan millions of websites and platforms across many languages to identify potential health threats as they happen. The goal is to pull clear signals from the noise of daily information. By doing this, public health officials can learn about an outbreak before hospitals become overwhelmed and the situation spirals out of control.",
+      "zh": "此領域的一項重大進展是使用電腦系統作為健康資訊的巨大過濾器。這些工具會掃描跨越多種語言的數百萬個網站與平台，以在健康威脅發生時立即識別。其目標是從日常資訊的雜訊中提取出清晰的訊號。透過這種方式，公共衛生官員能在醫院不堪負荷且局勢失控前，掌握疫情爆發的狀況。"
+    },
+    {
+      "id": "p4",
+      "en": "Despite these benefits, the risks remain very real. The Guardian Technology notes that AI systems can now help users navigate massive amounts of biological knowledge that once required years of specialized training. These tools can explain complex laboratory techniques, help solve technical problems, and even suggest experimental designs. While these capabilities are not dangerous on their own, they lower the barrier to entry for a field that was once highly specialized. This means that individuals without deep scientific expertise might be able to access information that was previously difficult to find.",
+      "zh": "儘管有這些益處，風險依然非常真實。《衛報科技》指出，人工智慧系統現在能協助使用者瀏覽海量的生物學知識，而這些知識過去需要多年的專業訓練才能掌握。這些工具能解釋複雜的實驗室技術、協助解決技術難題，甚至建議實驗設計。雖然這些能力本身並不危險，但它們降低了進入這個曾經高度專業化領域的門檻。這意味著缺乏深厚科學專業的人員，或許也能取得以往難以尋獲的資訊。"
+    },
+    {
+      "id": "p5",
+      "en": "Perhaps the greatest concern is the ability of AI to help humans create entirely new forms of biology. Scientists are already exploring possibilities like organisms with capabilities that do not exist in nature. Until recently, these ideas were largely theoretical. Now, however, AI can assist in the creation of these novel life forms, which raises significant safety questions. The ability to generate recipes for biological weapons with just a few prompts is a serious concern that experts are working to address.",
+      "zh": "或許最大的隱憂在於人工智慧協助人類創造全新生物形式的能力。科學家們已經在探索諸如具備自然界不存在之能力的生物體等可能性。直到最近，這些想法大多還停留在理論階段。然而現在，人工智慧能協助創造這些新型生命形式，這引發了重大的安全疑慮。僅需幾個指令就能生成生物武器配方，這是專家們正致力解決的嚴重問題。"
+    },
+    {
+      "id": "p6",
+      "en": "Ultimately, the real question is not whether AI can cause harm, but whether public health officials can deploy defensive tools faster than malicious actors can use the technology for offensive purposes. AI is a \"force multiplier,\" meaning it makes every action more effective. If used for good, it can save millions of lives by providing critical information in real time. If used for harm, it could lead to catastrophic results. As the technology continues to advance, the focus must remain on building strong defenses and ensuring that the power of AI is used to protect global health rather than threaten it.",
+      "zh": "歸根究底，真正的問題不在於人工智慧是否會造成傷害，而在於公共衛生官員部署防禦工具的速度，能否快過惡意人士將該技術用於攻擊目的的速度。人工智慧是一種「戰力倍增器」，意味著它能讓每一項行動都更有效率。若用於善途，它能透過即時提供關鍵資訊來拯救數百萬人的生命；若用於惡途，則可能導致災難性的後果。隨著技術持續進步，重點必須放在建立強大的防禦措施，並確保人工智慧的力量是用於保護而非威脅全球健康。"
+    }
+  ],
+  "wordCount": 612,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "high-stakes",
+      "definitionEn": "Involving a great deal of risk or potential loss, but also the possibility of a significant reward.",
+      "definitionZh": "高風險的；賭注很大的。",
+      "partOfSpeech": "adjective",
+      "noteZh": "此詞常形容賭博或競爭，這裡形容AI發展帶來的影響力。文中：As the field evolves, it is creating a high-stakes race between offense and defense."
+    },
+    {
+      "term": "pull",
+      "definitionEn": "To extract or select specific information from a larger, messy collection of data.",
+      "definitionZh": "提取；從大量資訊中篩選出重點。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作「拉、拖」，這裡指從雜亂資訊中找出關鍵訊號。文中：The goal is to pull clear signals from the noise of daily information."
+    },
+    {
+      "term": "spirals",
+      "definitionEn": "To quickly get out of control or worsen in a continuous, rapid manner.",
+      "definitionZh": "（情況）急劇惡化；失控。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（螺旋），這裡作動詞形容情況惡化。文中：By doing this, public health officials can learn about an outbreak before hospitals become overwhelmed and the situation spirals out of control."
+    },
+    {
+      "term": "force multiplier",
+      "definitionEn": "A factor that significantly increases the effectiveness of a group or action.",
+      "definitionZh": "戰力倍增器；能讓行動效果加倍的因素。",
+      "partOfSpeech": "noun (idiom)",
+      "noteZh": "這是軍事術語，這裡用來比喻AI能放大任何行動的影響力。文中：AI is a \"force multiplier,\" meaning it makes every action more effective."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/27/ai-biological-weapons-defense",
+      "title": "AI can fuel biological weapons. We must harness its power for defense | Annie Jacobsen",
+      "publishedAt": "2026-07-27T10:00:38Z"
+    }
+  ],
+  "story": {
+    "id": "the-risks-of-ai-driven-biological-weapons",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "the-risks-of-ai-driven-biological-weapons-jul-2026",
+        "title": "The Double-Edged Sword: How AI is Changing Biological Science",
+        "publishedAt": "2026-07-27T22:13:48.692181Z",
+        "category": "technology",
+        "summaryEn": "Artificial intelligence is rapidly changing the field of biology in two very different ways. It can help experts track and stop disease outbreaks before they become global crises. However, the same technology makes it easier for bad actors to create dangerous biological weapons. Experts now face a race to use AI for defense before it is used for harm. The future of global health depends on whether defensive tools can move faster than offensive ones."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "How do modern AI systems improve the speed of detecting disease outbreaks compared to traditional methods?",
+      "options": {
+        "A": "They rely on faster reporting from hospitals and laboratories.",
+        "B": "They monitor unofficial sources like social media and news in real time.",
+        "C": "They automatically contact doctors as soon as a patient shows symptoms.",
+        "D": "They use specialized training to predict where a virus will travel next."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據第二段，傳統方法依賴醫院與實驗室的官方報告，耗時較長；現代 AI 系統則透過掃描社群媒體、地方新聞等非官方來源來即時偵測疫情。選項 A 錯誤，因為文章指出 AI 改變了傳統依賴醫院報告的緩慢模式。選項 C 與 D 並未在文中提及，屬於無中生有的干擾選項。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the impact of AI on the field of biology?",
+      "options": {
+        "A": "AI has made scientific experimentation completely unnecessary.",
+        "B": "The danger of biological weapons is now greater than the benefits of disease prevention.",
+        "C": "AI has democratized access to complex biological knowledge previously reserved for experts.",
+        "D": "Public health officials have already successfully eliminated the risk of 'dark biology'."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第四段，AI 讓使用者能處理大量過去需要多年專業訓練才能理解的生物知識，降低了進入該領域的門檻。選項 A 過度推論，文章並未說實驗不再需要。選項 B 無法從文中得知，文章強調的是兩者之間的競賽而非孰輕孰重。選項 D 錯誤，文章結尾提到這仍是目前亟需解決的挑戰，並未宣稱已消除風險。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the author mean by calling AI a 'force multiplier'?",
+      "options": {
+        "A": "It is a tool that significantly increases the impact of any action taken.",
+        "B": "It is a mathematical formula used to calculate the spread of a virus.",
+        "C": "It is a device that forces people to change their behavior.",
+        "D": "It is a method of dividing complex problems into smaller, manageable tasks."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。文中提到「force multiplier」意指 AI 讓每一項行動都變得更有效率（makes every action more effective），無論是用於防疫或製造武器，其影響力都會被放大。選項 B、C、D 皆曲解了此詞彙的軍事與科技隱喻，並非文中定義的「放大效能」之意。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "Which of the following best summarizes the central message of the article?",
+      "options": {
+        "A": "AI is primarily a dangerous tool that should be banned from biological research.",
+        "B": "The development of AI in biology is a race between protective measures and potential misuse.",
+        "C": "Public health officials are currently losing the fight against 'dark biology'.",
+        "D": "AI will eventually replace human scientists in all aspects of biological discovery."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。全文核心在於探討 AI 在生物學領域的雙面性：既能用於防疫，也可能被惡意利用，因此這是一場關於防禦與進攻的競賽。選項 A 偏頗，文章並未主張禁止。選項 C 過於悲觀，文中僅提到這是一場挑戰。選項 D 屬於過度誇大，文章並未提到 AI 將取代人類科學家。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}

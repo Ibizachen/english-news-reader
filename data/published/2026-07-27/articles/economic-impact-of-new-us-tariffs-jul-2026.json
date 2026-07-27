@@ -1,74 +1,76 @@
 {
   "id": "2026-07-27-economic-impact-of-new-us-tariffs",
   "slug": "economic-impact-of-new-us-tariffs-jul-2026",
-  "publishedAt": "2026-07-27T22:13:48.692181Z",
+  "publishedAt": "2026-07-27T23:18:58.162891Z",
   "category": "economics",
-  "title": "New US Tariffs Create Uncertainty for Global Businesses",
-  "subtitle": "As the government introduces another round of taxes on imports, business leaders and experts warn of ongoing economic instability.",
+  "title": "New US Tariffs Create Fresh Challenges for Global Businesses",
+  "subtitle": "As trade rules change quickly, companies struggle to plan for the future while experts question the effectiveness of these policies.",
   "summary": {
-    "en": "The United States has introduced a new series of tariffs ranging from 10% to 12.5% on products from over 80 countries. Government officials state these taxes are necessary to fight against forced labor in international supply chains. However, business owners argue that these constant changes make it difficult to plan for the future. Experts also note that these policies have failed to bring manufacturing jobs back to the United States. Many companies are now struggling with lost sales and unpredictable costs.",
-    "zh": "美國已針對超過八十個國家的產品實施百分之十至百分之十二點五的新一輪關稅。政府官員表示，這些稅收對於打擊國際供應鏈中的強迫勞動是必要的。然而，企業主認為這些持續的變動使未來規劃變得困難。專家也指出，這些政策未能將製造業工作帶回美國。許多公司目前正因銷售損失與不可預測的成本而陷入困境。"
+    "en": "The United States has introduced a new series of tariffs on goods from over 80 countries. These taxes, ranging from 10% to 12.5%, are intended to address concerns about forced labor in global supply chains. Business leaders argue that such frequent policy changes make it difficult to set prices and manage operations. Experts note that these measures have not yet succeeded in bringing manufacturing jobs back to the United States. Companies are now dealing with the financial and logistical consequences of this unpredictable trade environment.",
+    "zh": "美國已針對超過八十個國家的商品實施新一輪關稅。這些稅率介於百分之十至百分之十二點五之間的稅款，旨在解決全球供應鏈中關於強迫勞動的疑慮。企業領袖認為，如此頻繁的政策變動使得定價與營運管理變得困難。專家指出，這些措施尚未成功將製造業工作帶回美國。企業目前正致力於應對這種不可預測的貿易環境所帶來的財務與物流後果。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "The United States government has launched another round of tariffs — taxes on imported goods — affecting products from more than 80 countries. These new taxes, which range from 10% to 12.5%, replace a previous set that expired late last week. According to NPR Business, this move marks the latest chapter in a long period of trade instability that has left many business owners feeling frustrated and uncertain about the future.",
-      "zh": "美國政府已啟動新一輪關稅——即針對進口商品徵收的稅款——影響範圍涵蓋超過八十個國家的產品。這些稅率介於百分之十至百分之十二點五之間，用以取代上週剛到期的前一批關稅。根據美國公共廣播電台（NPR）商業報導，此舉標誌著長期貿易不穩定局勢的最新篇章，許多企業主對此感到沮喪，並對未來充滿不確定感。"
+      "en": "The United States government has launched a new series of tariffs—taxes on imported goods—affecting products from more than 80 countries. These new measures, which range from 10% to 12.5%, follow the expiration of a previous set of import taxes. According to NPR Business, the administration claims these new rules are necessary to punish countries that fail to stop the use of forced labor within their supply chains. However, for many business owners, this latest development represents another layer of instability in an already difficult global market.",
+      "zh": "美國政府已啟動新一輪關稅（即針對進口商品徵收的稅款），影響範圍涵蓋超過八十個國家的產品。這些新措施的稅率介於百分之十至百分之十二點五之間，是在前一批進口稅到期後所實施的。根據美國公共廣播電台（NPR）商業新聞報導，政府聲稱這些新規定是為了懲罰那些未能阻止供應鏈中使用強迫勞動的國家。然而，對許多企業主而言，這項最新發展在原本就已艱困的全球市場中，又增添了一層不穩定因素。"
     },
     {
       "id": "p2",
-      "en": "For many companies, these changes feel like a repeating cycle of stress. Jay Foreman, the CEO of the toy company Basic Fun!, described the situation as a \"Groundhog Day\" scenario. He noted that this is the third major trade conflict his company has faced in the last 18 months. When trade rules change suddenly, businesses cannot plan their prices or policies effectively. Foreman explained that while a company might eventually get money back if a tariff is later found to be illegal, it is impossible to recover lost sales, lost momentum, or the profits that disappeared during the period of uncertainty.",
-      "zh": "對許多公司而言，這些變動就像是一場不斷重複的壓力循環。玩具公司 Basic Fun! 的執行長佛曼（Jay Foreman）將這種情況形容為「今天暫時停止」（Groundhog Day）般的場景。他指出，這是他公司在過去十八個月內面臨的第三次重大貿易衝突。當貿易規則突然改變時，企業無法有效地規劃價格或政策。佛曼解釋說，雖然如果關稅後來被認定違法，公司或許最終能拿回款項，但卻無法挽回流失的銷售額、失去的成長動能，或是那些在不確定時期中消失的利潤。"
+      "en": "For companies that rely on international trade, the constant changes in policy are creating a \"dangerous game of pressure\" that makes long-term planning nearly impossible. Jay Foreman, CEO of the toy company Basic Fun!, described the situation as a repetitive cycle of uncertainty. In an interview with NPR Business, Foreman explained that businesses cannot set clear pricing or policies when the rules change so frequently. He noted that previous trade conflicts have already caused significant disruptions, including lost sales and inventory issues that are difficult to recover from, even if the government eventually returns some of the money paid in tariffs.",
+      "zh": "對於仰賴國際貿易的公司來說，政策的不斷變動創造了一場「危險的壓力遊戲」，使得長期規劃幾乎變得不可能。玩具公司 Basic Fun! 的執行長佛曼（Jay Foreman）將這種情況描述為一個反覆出現的不確定性循環。佛曼在接受 NPR 商業新聞採訪時解釋說，當規則變動如此頻繁時，企業根本無法制定明確的定價或政策。他指出，先前的貿易衝突已經造成了嚴重的干擾，包括銷售損失和庫存問題，即便政府最終退還部分已繳納的關稅，這些損失也難以彌補。"
     },
     {
       "id": "p3",
-      "en": "The Trump administration claims that these new tariffs are necessary to punish countries that fail to stop the use of forced labor in their industries. However, this explanation is not accepted by everyone. Some business leaders believe the government's reasoning is \"off base\" and that the real impact is simply a disruption of global trade. The constant \"starts and stops\" in trade policy make it very difficult for companies to manage their supply chains, which are the networks of people and companies involved in moving a product from the factory to the customer.",
-      "zh": "川普政府聲稱，這些新關稅對於懲罰未能阻止產業中使用強迫勞動的國家是必要的。然而，並非所有人都接受這種解釋。一些企業領袖認為政府的理由「站不住腳」，其實際影響僅是擾亂全球貿易。貿易政策不斷地「反覆停擺」，使得企業極難管理其供應鏈，也就是從工廠到消費者手中運送產品過程中，所有涉及的人員與公司網絡。"
+      "en": "This is not the first time the current administration has used tariffs as a primary tool in international relations. Over the past 18 months, businesses have faced multiple rounds of trade restrictions. While the administration frames these actions as a way to protect labor standards, many in the business community remain skeptical. Foreman argued that the explanation provided by the government does not fully justify the broad impact these taxes have on so many different nations and industries. He emphasized that the real-world cost of these policies is often felt by companies trying to grow their businesses and support their employees.",
+      "zh": "這並非現任政府首次將關稅作為國際關係的主要工具。在過去十八個月裡，企業已經面臨多輪貿易限制。儘管政府將這些行動包裝為維護勞動標準的手段，但商界許多人仍持懷疑態度。佛曼主張，政府提供的解釋並不足以完全合理化這些稅收對眾多國家與產業所造成的廣泛影響。他強調，這些政策在現實世界中的代價，往往是由那些試圖擴展業務並支持員工的公司所承擔。"
     },
     {
       "id": "p4",
-      "en": "Beyond the immediate impact on individual businesses, there is a broader question about whether these policies are achieving their main goal. Many supporters of tariffs have argued that they would encourage companies to move their factories back to the United States, thereby creating more manufacturing jobs for Americans. However, according to The Verge, there is little evidence that this is actually happening. Evan Smith, the CEO of Altana, a company that uses software to track global trade data, stated clearly that the expected return of manufacturing jobs has not occurred. Instead, the global economy has become more complex and chaotic, with trade rules changing almost daily.",
-      "zh": "除了對個別企業造成的直接影響外，更廣泛的問題在於這些政策是否達成了主要目標。許多關稅支持者主張，這將鼓勵企業將工廠遷回美國，進而為美國人創造更多製造業工作機會。然而，根據科技媒體 The Verge 報導，幾乎沒有證據顯示這種情況正在發生。利用軟體追蹤全球貿易數據的 Altana 公司執行長史密斯（Evan Smith）明確表示，預期中的製造業工作回流並未出現。相反地，全球經濟變得更加複雜與混亂，貿易規則幾乎每日都在變動。"
+      "en": "Beyond the immediate financial impact on companies, there is a broader question about whether these trade policies are achieving their stated goals. One of the main arguments for using tariffs has been the hope that they would encourage companies to move their manufacturing operations back to the United States. However, data suggests this has not happened. Evan Smith, CEO of Altana, a company that uses software to track global supply chains, told The Verge that the expected return of manufacturing jobs to the US has not materialized. According to Smith, the global economy remains deeply connected, and these policies have only made the existing networks more complex and difficult to manage.",
+      "zh": "除了對公司造成的直接財務影響外，更廣泛的問題在於這些貿易政策是否達成了其宣稱的目標。使用關稅的主要論點之一，是希望藉此鼓勵企業將製造業務遷回美國。然而，數據顯示這種情況並未發生。利用軟體追蹤全球供應鏈的 Altana 公司執行長史密斯（Evan Smith）告訴科技媒體 The Verge，預期中的製造業工作回流美國並未實現。根據史密斯的說法，全球經濟依然緊密相連，而這些政策只讓現有的網絡變得更加複雜且難以管理。"
     },
     {
       "id": "p5",
-      "en": "This complexity is made worse by other global events. The Verge reports that the combination of unpredictable trade policies and conflicts in other parts of the world makes it very hard for companies to keep up with the current rules. Even with advanced technology like artificial intelligence, which helps companies manage their supply chains, the environment remains difficult. The pressure on important economic areas, such as the Strait of Hormuz, is expected to increase, which could lead to even more problems for international shipping.",
-      "zh": "這種複雜性因其他全球事件而加劇。The Verge 報導指出，不可預測的貿易政策與世界其他地區的衝突相結合，使得企業極難跟上當前的規則。即便擁有能協助管理供應鏈的人工智慧等先進技術，環境依然艱困。荷莫茲海峽等重要經濟區域面臨的壓力預計將會增加，這可能導致國際航運出現更多問題。"
+      "en": "As trade rules change rapidly, companies are finding it harder to keep up with the current requirements. Smith noted that the combination of unpredictable tariff policies and geopolitical conflicts, such as the war in Iran, has created a chaotic environment for international trade. Because the rules can change almost daily, businesses are forced to rely on advanced tools and data to understand what is happening across their supply chains. This \"new normal\" of global trade means that companies must be more flexible than ever before, as they can no longer rely on the stable systems that defined international business in the past.",
+      "zh": "隨著貿易規則迅速變動，企業發現越來越難以跟上當前的要求。史密斯指出，不可預測的關稅政策與地緣政治衝突（例如伊朗的戰爭）相結合，為國際貿易創造了一個混亂的環境。由於規則幾乎每天都可能改變，企業被迫仰賴先進的工具與數據，以了解供應鏈中發生的狀況。這種全球貿易的「新常態」意味著公司必須比以往更加靈活，因為他們已無法再依賴過去定義國際商業的那種穩定體系。"
     },
     {
       "id": "p6",
-      "en": "Despite these challenges, some companies are trying to recover from previous trade battles. Foreman mentioned that his company has received back a large portion of the money it paid in earlier tariffs that were later ruled illegal by the Supreme Court. He noted that this money is being reinvested into his business, including hiring more employees and creating new products. He also expressed hope that other companies, which previously raised their prices to cover the cost of these tariffs, will now find ways to return that money to consumers through lower prices or special offers.",
-      "zh": "儘管面臨這些挑戰，一些公司正試圖從先前的貿易戰中恢復。佛曼提到，他的公司已收回先前支付的大部分關稅款項，這些關稅後來被最高法院裁定為違法。他指出，這筆資金正被重新投入業務中，包括聘僱更多員工與開發新產品。他也表達了希望，期盼先前為了轉嫁關稅成本而調漲價格的其他公司，現在能透過降價或特別優惠等方式，將這些錢回饋給消費者。"
-    },
-    {
-      "id": "p7",
-      "en": "As the situation continues to develop, the long-term effects of these trade policies remain unclear. While the government continues to use tariffs as a tool to influence international behavior, the business community is calling for more stability. Without a clear and consistent direction, companies say they will continue to struggle with the \"lost sales and lost profits\" that come with a trade war. For now, the global economy remains in a state of high tension, with businesses waiting to see what the next round of policy changes will bring.",
-      "zh": "隨著局勢持續發展，這些貿易政策的長期影響仍不明朗。雖然政府持續將關稅作為影響國際行為的工具，但商界正呼籲追求更穩定的環境。企業表示，若缺乏明確且一致的方向，他們將持續在貿易戰帶來的「銷售與利潤損失」中掙扎。目前，全球經濟仍處於高度緊張狀態，企業正等待著下一波政策變動將帶來什麼影響。"
+      "en": "Looking ahead, the outlook for global trade remains uncertain. While some companies have successfully applied for refunds on tariffs that were later found to be illegal, the time and momentum lost during these trade disputes cannot be replaced. As the administration continues to use tariffs to exert pressure on other nations, businesses are left to navigate the consequences. For now, the focus for many remains on survival and adaptation, as they wait to see if the current trade environment will stabilize or if further changes are on the horizon. The debate over whether these measures are an effective way to address labor issues or simply a burden on the economy is likely to continue as long as the tariffs remain in place.",
+      "zh": "展望未來，全球貿易的前景依然不明朗。雖然有些公司已成功申請退回後來被認定為非法的關稅，但在這些貿易爭端中失去的時間與發展動能卻無法挽回。隨著政府持續利用關稅對其他國家施壓，企業只能自行應對後果。目前，許多企業的焦點仍放在生存與適應上，等待觀察當前的貿易環境是否會趨於穩定，或是未來還會有更多變動。只要這些關稅持續存在，關於這些措施究竟是解決勞動問題的有效途徑，還是僅僅加重經濟負擔的爭論，預計將會持續下去。"
     }
   ],
-  "wordCount": 712,
+  "wordCount": 684,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
-      "term": "off base",
-      "definitionEn": "Incorrect, mistaken, or not based on reality.",
-      "definitionZh": "錯誤的、不切實際的。",
-      "partOfSpeech": "idiom",
-      "noteZh": "此片語源自棒球術語，但在這裡指觀點錯誤。文中：Some business leaders believe the government's reasoning is \"off base\" and that the real impact is simply a disruption of global trade."
+      "term": "frames",
+      "definitionEn": "To present or describe something in a particular way to influence how others perceive it.",
+      "definitionZh": "將某事描述或呈現為某種樣子，藉此影響他人的觀點。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（框架、畫框），這裡作動詞用。文中：While the administration frames these actions as a way to protect labor standards, many in the business community remain skeptical."
+    },
+    {
+      "term": "materialized",
+      "definitionEn": "To become actual or real; to happen as expected.",
+      "definitionZh": "實現、成為現實；指預期的事情發生。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見於科幻作品（物體顯現），這裡指預期的結果沒有發生。文中：Evan Smith, CEO of Altana, a company that uses software to track global supply chains, told The Verge that the expected return of manufacturing jobs to the US has not materialized."
     },
     {
       "term": "keep up with",
-      "definitionEn": "To manage to stay informed about or deal with something that is changing or moving fast.",
-      "definitionZh": "跟上（變化或進度）。",
+      "definitionEn": "To move or progress at the same speed as something else; to stay informed about something.",
+      "definitionZh": "跟上（進度或變化）；及時了解最新情況。",
       "partOfSpeech": "phrasal verb",
-      "noteZh": "這裡指企業難以應對快速變動的貿易規則。文中：The Verge reports that the combination of unpredictable trade policies and conflicts in other parts of the world makes it very hard for companies to keep up with the current rules."
+      "noteZh": "由動詞與介系詞組成，意思非字面直譯。文中：As trade rules change rapidly, companies are finding it harder to keep up with the current requirements."
     },
     {
-      "term": "round",
-      "definitionEn": "A stage or a series of actions in a process or competition.",
-      "definitionZh": "一輪、一回合。",
-      "partOfSpeech": "noun",
-      "noteZh": "常見作形容詞（圓的），這裡作名詞指貿易政策的階段。文中：The United States government has launched another round of tariffs — taxes on imported goods — affecting products from more than 80 countries."
+      "term": "on the horizon",
+      "definitionEn": "Likely to happen or appear soon.",
+      "definitionZh": "即將發生；在不久的將來。",
+      "partOfSpeech": "idiom",
+      "noteZh": "字面意為「在地平線上」，引申為即將到來的事件。文中：For now, the focus for many remains on survival and adaptation, as they wait to see if the current trade environment will stabilize or if further changes are on the horizon."
     }
   ],
   "sources": [
@@ -90,18 +92,18 @@
     "type": "update",
     "previousArticles": [
       {
+        "slug": "economic-impact-of-new-us-tariffs-jul-2026",
+        "title": "New US Tariffs Create Uncertainty for Global Businesses",
+        "publishedAt": "2026-07-27T22:13:48.692181Z",
+        "category": "economics",
+        "summaryEn": "The United States has introduced a new series of tariffs ranging from 10% to 12.5% on products from over 80 countries. Government officials state these taxes are necessary to fight against forced labor in international supply chains. However, business owners argue that these constant changes make it difficult to plan for the future. Experts also note that these policies have failed to bring manufacturing jobs back to the United States. Many companies are now struggling with lost sales and unpredictable costs."
+      },
+      {
         "slug": "new-us-tariffs-on-global-trading-partners-jul-2026",
         "title": "Global Trade Tensions Rise as New U.S. Tariffs Take Effect",
         "publishedAt": "2026-07-24T23:14:54.010568Z",
         "category": "economics",
         "summaryEn": "The United States has started a new round of tariffs on over 60 countries. The U.S. government says these taxes are needed to stop forced labor in global supply chains. Many international allies have strongly criticized the decision. Leaders from Australia, New Zealand, and the European Union say the claims are not supported by evidence. The move has created significant uncertainty for businesses around the world."
-      },
-      {
-        "slug": "global-trade-tensions-over-new-us-tariffs-jul-2026",
-        "title": "Global Trade Tensions Rise as New US Tariffs Take Effect",
-        "publishedAt": "2026-07-24T22:14:25.124942Z",
-        "category": "economics",
-        "summaryEn": "The United States has introduced new tariffs ranging from 10% to 12.5% on goods from 60 countries. The US government claims these taxes are necessary to address the use of forced labor in global supply chains. Many nations, including Australia, Japan, and members of the European Union, have rejected these claims as unjustified. Experts warn that these measures will likely increase costs for businesses and consumers worldwide. Meanwhile, some countries are considering new trade strategies to reduce their dependence on the American market."
       }
     ]
   },
@@ -109,54 +111,54 @@
     {
       "id": "q1",
       "type": "detail",
-      "question": "According to the article, what is the primary reason the Trump administration gives for implementing these new tariffs?",
+      "question": "What is the specific reason the U.S. administration provides for implementing the current series of tariffs?",
       "options": {
-        "A": "To increase the number of manufacturing jobs within the United States.",
-        "B": "To penalize nations that do not prevent the utilization of forced labor.",
-        "C": "To replace a previous set of trade taxes that were ruled illegal by the Supreme Court.",
-        "D": "To help companies recover lost momentum and profits from previous trade conflicts."
+        "A": "To encourage companies to move their manufacturing operations back to the United States.",
+        "B": "To penalize nations that do not effectively address forced labor in their supply chains.",
+        "C": "To generate government revenue to offset losses from previous trade conflicts.",
+        "D": "To respond to geopolitical conflicts such as the ongoing war in Iran."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。根據文章第三段第一句，川普政府聲稱這些關稅是為了懲罰那些未能阻止在其產業中使用強迫勞動的國家。選項 A 是支持者希望達成的目標，但非政府提出的理由；選項 C 雖提到關稅被裁定違法，但並非實施新關稅的理由；選項 D 是企業主的困境，而非政府的動機。"
+      "explanationZh": "正確答案為 B。根據文章第一段，政府明確指出這些新措施是為了懲罰那些未能阻止供應鏈中使用強迫勞動的國家。選項 A 是文章第四段提到的「目標」之一，但並非政府針對此次特定關稅所提出的官方理由。選項 C 是錯誤推論，文章未提到關稅是為了增加稅收以彌補損失。選項 D 雖在第五段提到伊朗戰爭，但那是導致貿易環境混亂的因素之一，而非實施關稅的官方理由。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "What can be inferred about the effectiveness of tariffs in achieving the goal of bringing manufacturing jobs back to the U.S.?",
+      "question": "Based on the information provided, what is a likely consequence for a company that frequently deals with international trade under these new policies?",
       "options": {
-        "A": "They have been highly successful, leading to a significant increase in domestic employment.",
-        "B": "They have failed because companies are using AI to avoid hiring new staff.",
-        "C": "There is little evidence to support the idea that they are successfully creating more American manufacturing jobs.",
-        "D": "They have caused a temporary increase in jobs, but this growth is expected to decline soon."
+        "A": "They will likely see an increase in profit margins due to government tariff refunds.",
+        "B": "They will be able to simplify their supply chains by moving operations to the U.S.",
+        "C": "They will face increased operational costs and difficulty in long-term financial forecasting.",
+        "D": "They will be forced to cease all international business activities to avoid legal penalties."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。根據文章第四段，儘管支持者認為關稅能促使工廠回流美國，但 Evan Smith 明確指出預期的製造業職位回流並未發生，且文章提到幾乎沒有證據顯示這正在發生。選項 A 與事實相反；選項 B 提到 AI 是為了管理供應鏈，而非為了避免僱人；選項 D 則過度推論，文章並未提到曾有短暫的職位增長。"
+      "explanationZh": "正確答案為 C。根據第二段與第五段，頻繁變動的貿易政策導致企業無法設定明確的價格或政策，且必須依賴昂貴的數據工具來應對複雜的供應鏈，這直接導致了長期規劃的困難與營運成本增加。選項 A 錯誤，因為文章提到即便能獲得退款，也無法彌補失去的時間與業務動能。選項 B 與文章第四段提到的數據矛盾，製造業並未如預期回流。選項 D 過於極端，文章強調的是「生存與適應」，而非停止所有業務。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the third paragraph, what does the phrase 'off base' most likely mean?",
+      "question": "In the fourth paragraph, the phrase 'the expected return of manufacturing jobs to the US has not materialized' suggests that the return of these jobs:",
       "options": {
-        "A": "Inaccurate or incorrect.",
-        "B": "Located far from the main office.",
-        "C": "A strategic and clever move.",
-        "D": "Based on solid, reliable information."
+        "A": "Did not actually happen as predicted.",
+        "B": "Was physically impossible to achieve.",
+        "C": "Was a secret plan kept by the administration.",
+        "D": "Was successfully completed ahead of schedule."
       },
       "correct": "A",
-      "explanationZh": "正確答案為 A。在第三段中，企業領袖認為政府對關稅的解釋是「off base」，意指該解釋不正確或偏離事實。選項 B 是字面上的誤解；選項 C 與 D 的意思與上下文提到的「disruption（混亂）」及對政府說法的不信任感完全相反。"
+      "explanationZh": "正確答案為 A。在此語境下，「materialize」意指「實現」或「成為現實」。作者使用此詞是為了表達政府所期望的製造業回流並沒有真的發生。選項 B 錯誤，因為文章並未討論其物理可行性。選項 C 無中生有，文章並未暗示這是一個秘密計畫。選項 D 與文章內容直接相反，文章明確指出數據顯示製造業並未回流。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "What is the central message of this article regarding recent trade policies?",
+      "question": "What is the primary message of the article regarding the recent U.S. tariff policies?",
       "options": {
-        "A": "Tariffs are a necessary tool for the government to ensure global economic stability.",
-        "B": "The Supreme Court has effectively stopped all illegal trade practices by businesses.",
-        "C": "Artificial intelligence is the only solution for companies to survive modern trade wars.",
-        "D": "Unpredictable trade policies are causing significant uncertainty and disruption for businesses without achieving clear long-term goals."
+        "A": "The policies have successfully forced other nations to improve their labor standards.",
+        "B": "The policies are a temporary measure that will soon be replaced by a more stable trade agreement.",
+        "C": "The policies are widely supported by business owners as a necessary evil for global trade.",
+        "D": "The policies have created significant uncertainty and challenges for businesses without achieving their intended economic goals."
       },
       "correct": "D",
-      "explanationZh": "正確答案為 D。文章整體討論了關稅政策帶來的負面影響，包括企業面臨的不確定性、供應鏈管理困難，以及政策目標（如製造業回流）未達成的現狀。選項 A 與文章強調的「不穩定」衝突；選項 B 僅是文中提到的一個補償案例，非主旨；選項 C 誇大了 AI 的作用，文中僅提到 AI 協助管理，並未說它是唯一解法。"
+      "explanationZh": "正確答案為 D。本文主旨探討了關稅政策對企業造成的負面衝擊，包括不確定性、營運困難，以及數據顯示這些政策並未達到鼓勵製造業回流等預期目標。選項 A 與文章第四段矛盾，成效未顯現。選項 B 錯誤，文章結尾提到未來仍充滿不確定性，並未暗示即將有穩定的協議。選項 C 完全錯誤，文中明確提到企業主對這些政策持懷疑態度，並認為其對經濟造成沉重負擔。"
     }
   ],
   "aiGenerated": true,
