@@ -1,0 +1,151 @@
+{
+  "id": "2026-07-27-the-risks-of-ai-driven-biological-weapons",
+  "slug": "the-risks-of-ai-driven-biological-weapons-jul-2026",
+  "publishedAt": "2026-07-27T22:13:48.692181Z",
+  "category": "technology",
+  "title": "The Double-Edged Sword: How AI is Changing Biological Science",
+  "subtitle": "Artificial intelligence offers both a way to stop deadly diseases and a new risk for creating dangerous biological weapons.",
+  "summary": {
+    "en": "Artificial intelligence is rapidly changing the field of biology in two very different ways. It can help experts track and stop disease outbreaks before they become global crises. However, the same technology makes it easier for bad actors to create dangerous biological weapons. Experts now face a race to use AI for defense before it is used for harm. The future of global health depends on whether defensive tools can move faster than offensive ones.",
+    "zh": "人工智慧正以兩種截然不同的方式迅速改變生物學領域。它能協助專家追蹤並在疾病爆發演變成全球危機前將其阻斷；然而，同樣的技術也讓心懷不軌者更容易製造危險的生物武器。專家們目前面臨一場競賽，必須在人工智慧被用於危害之前，先將其應用於防禦。全球健康的未來，取決於防禦工具的發展速度能否超越攻擊工具。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Artificial intelligence (AI) is changing the world of science at a very high speed. As this technology grows, it is pushing biology in two opposite directions. On one hand, AI can help bad actors create recipes for biological weapons with just a few simple computer commands. On the other hand, AI can help experts track disease outbreaks and share important health information with millions of people. This could potentially stop a deadly sickness before it spreads. We are currently in a race between offense and defense, between the creation of dangerous germs and the promise of a new age of global health.",
+      "zh": "人工智慧正以極快的速度改變科學界。隨著這項技術的發展，它正將生物學推向兩個截然相反的方向。一方面，人工智慧能協助心懷不軌者僅透過幾個簡單的電腦指令，就製作出生物武器的配方；另一方面，人工智慧也能協助專家追蹤疾病爆發，並與數百萬人分享重要的健康資訊，這或許能在致命疾病擴散前將其阻斷。我們目前正處於一場攻防競賽中，在製造危險病菌與開創全球健康新紀元之間拉鋸。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Guardian Technology, every infectious disease outbreak starts with a small number of cases. Public health experts win when they learn about an outbreak early, before hospitals become full and the situation goes out of control. As the speed of disease transmission increases, the number of options to stop it decreases. One of the greatest values of AI is its ability to shorten the time between the start of an outbreak and its detection. Speed can be the difference between stopping a local problem and facing a global pandemic, which is a disease that spreads across the whole world.",
+      "zh": "根據《衛報科技》（The Guardian Technology）報導，每場傳染病爆發初期都只有少數病例。公共衛生專家若能在醫院人滿為患、情勢失控前及早得知疫情，便能掌握先機。隨著疾病傳播速度加快，能採取應對措施的選擇也隨之減少。人工智慧最大的價值之一，在於它能縮短從疫情爆發到被偵測到的時間。速度往往是將問題控制在局部，還是演變成全球大流行（即擴散至全世界的疾病）的關鍵差異。"
+    },
+    {
+      "id": "p3",
+      "en": "To manage these risks, new computer systems are being developed to monitor global health. The Guardian Technology reports that modern computational systems use AI to track and monitor infectious disease outbreaks around the world. A key part of this effort is a system called Eios, which stands for Epidemic Intelligence from Open Sources. This system acts like a giant filter for the world’s health information, which arrives every minute. For many years, traditional ways of tracking diseases relied on official reports from hospitals and labs. However, these reports often take days or weeks to enter into official databases. Eios uses the power of modern computing and social media to get a much faster picture of an outbreak.",
+      "zh": "為了控管這些風險，新的電腦系統正被開發用於監控全球健康。據《衛報科技》報導，現代運算系統利用人工智慧來追蹤並監控全球各地的傳染病疫情。這項工作的核心是一套名為「開放來源流行病情報」（Eios）的系統。該系統就像是一個巨大的過濾器，處理每分每秒湧入的全球健康資訊。多年來，傳統的疾病追蹤方式依賴醫院與實驗室的官方報告，然而這些報告進入官方資料庫往往需要數天甚至數週的時間。Eios 則利用現代運算能力與社群媒體，能更快速地掌握疫情概況。"
+    },
+    {
+      "id": "p4",
+      "en": "Eios looks at unofficial reports, local news, and social media posts to find information. Because it is good at understanding many different languages, it can scan millions of websites and platforms to search for outbreaks as they happen. The goal of this system is to find the important information, or the \"signal,\" hidden within a large amount of unimportant data, or \"noise.\" By doing this, public health officials hope to stay ahead of potential threats.",
+      "zh": "Eios 透過檢視非官方報告、地方新聞與社群媒體貼文來搜尋資訊。由於它擅長理解多種語言，因此能掃描數百萬個網站與平台，即時搜尋疫情動態。該系統的目標是從海量的無用數據（即「雜訊」）中，找出重要的資訊（即「訊號」）。透過這種方式，公共衛生官員希望能領先於潛在威脅。"
+    },
+    {
+      "id": "p5",
+      "en": "However, the potential for harm is no longer just a theory. The Guardian Technology notes that AI systems can now help people navigate huge amounts of biological knowledge that once required years of special training. These systems can explain complex laboratory techniques, find difficult scientific papers, and suggest new ways to design experiments. While none of these tasks are dangerous on their own, they lower the barrier to entering a field that was once only for highly trained experts. This makes it easier for people to work in what is sometimes called \"dark biology,\" where deadly germs are created in secret.",
+      "zh": "然而，造成傷害的可能性已不再只是理論。據《衛報科技》指出，人工智慧系統現在能協助人們駕馭龐大的生物學知識，這些知識過去需要多年的專業訓練才能掌握。這些系統能解釋複雜的實驗室技術、搜尋艱澀的科學論文，並建議設計實驗的新方法。雖然這些任務本身並不危險，但它們降低了進入該領域的門檻，而該領域過去僅限於受過高度訓練的專家。這使得人們更容易從事所謂的「暗黑生物學」，即在秘密中製造致命病菌。"
+    },
+    {
+      "id": "p6",
+      "en": "The biggest concern is that AI can help humans create new, or novel, forms of biology. Scientists are already looking into these possibilities, such as creating organisms with capabilities that do not exist in nature. Until recently, these kinds of projects were very difficult to do. Now, AI acts as a \"force multiplier,\" which means it makes existing efforts much more powerful and effective. This change is happening every single day in the biological sciences.",
+      "zh": "最大的隱憂在於人工智慧能協助人類創造新型態的生物。科學家們已經在研究這些可能性，例如創造出自然界中不存在的生物能力。直到最近，這類計畫仍極難執行，但現在人工智慧扮演了「戰力倍增器」的角色，意即它讓現有的研究變得更加強大且有效。這種轉變在生物科學領域中每天都在發生。"
+    },
+    {
+      "id": "p7",
+      "en": "The real question for the future is not whether AI can cause serious harm in the field of biology—it most certainly can. The real challenge is whether public health officials can learn how to use AI as a defensive tool faster than malicious actors can use it as an offensive one. The race is on, and the outcome will have a major impact on the safety of people around the world. As technology continues to evolve, the ability to protect public health will depend on our ability to stay one step ahead of those who might use these powerful tools for destruction.",
+      "zh": "未來的真正問題不在於人工智慧是否會在生物學領域造成嚴重危害——它絕對做得到。真正的挑戰在於，公共衛生官員能否學會將人工智慧作為防禦工具，其速度是否能快過惡意人士將其作為攻擊工具。競賽已經開始，結果將對全球人類的安全產生重大影響。隨著技術持續演進，保護公共健康的能力，將取決於我們能否比那些可能利用這些強大工具進行破壞的人，搶先一步。"
+    }
+  ],
+  "wordCount": 715,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "bad actors",
+      "definitionEn": "Individuals or groups who intentionally cause harm or engage in illegal activities.",
+      "definitionZh": "惡意行為者、壞份子。",
+      "partOfSpeech": "idiom",
+      "noteZh": "此處並非指戲劇中的「壞演員」，而是指進行惡意活動的人。文中：On one hand, AI can help bad actors create recipes for biological weapons with just a few simple computer commands."
+    },
+    {
+      "term": "filter",
+      "definitionEn": "To remove unwanted information or items from a large group to find what is important.",
+      "definitionZh": "篩選、過濾。",
+      "partOfSpeech": "verb (here)",
+      "noteZh": "常見作名詞（濾網），這裡作動詞，形容系統處理資訊的動作。文中：This system acts like a giant filter for the world’s health information, which arrives every minute."
+    },
+    {
+      "term": "stay ahead of",
+      "definitionEn": "To maintain an advantage over someone or something by acting or progressing faster.",
+      "definitionZh": "領先、保持優勢。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "字面意思是「待在前面」，引申為在競爭中保持領先。文中：By doing this, public health officials hope to stay ahead of potential threats."
+    },
+    {
+      "term": "lower the barrier",
+      "definitionEn": "To make it easier for people to enter or participate in an activity or field.",
+      "definitionZh": "降低門檻。",
+      "partOfSpeech": "idiom",
+      "noteZh": "「Barrier」原意為障礙物，此處指進入專業領域的困難度。文中：While none of these tasks are dangerous on their own, they lower the barrier to entering a field that was once only for highly trained experts."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/27/ai-biological-weapons-defense",
+      "title": "AI can fuel biological weapons. We must harness its power for defense | Annie Jacobsen",
+      "publishedAt": "2026-07-27T10:00:38Z"
+    }
+  ],
+  "story": {
+    "id": "the-risks-of-ai-driven-biological-weapons",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the text, how does the Eios system differ from traditional methods of tracking disease outbreaks?",
+      "options": {
+        "A": "It relies exclusively on official reports submitted by hospitals and government laboratories.",
+        "B": "It processes information from unofficial sources like social media and local news in multiple languages.",
+        "C": "It is designed to create biological weapons by filtering through massive amounts of scientific data.",
+        "D": "It requires years of special training for users to interpret the data it collects."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案是 B。文章第三段與第四段指出，傳統方法依賴醫院與實驗室的官方報告，而 Eios 系統則透過掃描非官方報告、地方新聞與社群媒體，並利用其多語言處理能力來獲取資訊。選項 A 描述的是傳統方法而非 Eios。選項 C 錯誤，Eios 的目的是防疫而非製造武器。選項 D 提到的是 AI 降低了生物學門檻，而非使用 Eios 的門檻。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the impact of AI on the barrier to entry in the field of biological science?",
+      "options": {
+        "A": "It makes it impossible for non-experts to conduct any form of biological research.",
+        "B": "It ensures that only highly trained experts have access to advanced laboratory techniques.",
+        "C": "It simplifies complex processes, allowing individuals without extensive training to perform sophisticated tasks.",
+        "D": "It forces scientists to spend more years in training to keep up with the rapid pace of technological change."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案是 C。文章第五段提到 AI 能解釋複雜的實驗技術並協助設計實驗，這降低了進入該領域的門檻，使得原本需要多年訓練才能掌握的知識變得更容易取得。選項 A 與事實相反，AI 反而降低了門檻。選項 B 錯誤，因為 AI 讓非專家也能接觸這些技術。選項 D 文章中並未提及需要更長的訓練時間，反而是強調 AI 縮短了獲取知識的難度。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the sixth paragraph, the author describes AI as a 'force multiplier.' What does this term mean in this context?",
+      "options": {
+        "A": "A tool that increases the effectiveness and power of existing efforts.",
+        "B": "A device used to calculate the physical strength of biological organisms.",
+        "C": "A mathematical formula used to predict the spread of a pandemic.",
+        "D": "A security measure designed to stop malicious actors from accessing data."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案是 A。文中將 AI 稱為「force multiplier」，隨後解釋這意味著它讓現有的工作變得更強大、更有效率。這是一個軍事與戰略術語，指能倍增戰力之事物。選項 B 與數學計算無關。選項 C 雖然 AI 可用於預測，但這不是該詞彙的定義。選項 D 錯誤，因為「force multiplier」在文中是用來描述 AI 提升了人類（包含惡意使用者）的能力，而非單指安全防禦。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article regarding the role of AI in biology?",
+      "options": {
+        "A": "AI is primarily a dangerous tool that should be banned to prevent the creation of biological weapons.",
+        "B": "AI will inevitably lead to a global pandemic because it makes biological knowledge too accessible.",
+        "C": "AI is a neutral technology, and its impact depends entirely on whether it is used for public health or malicious purposes.",
+        "D": "The rapid development of AI creates a race between its potential to improve global health and its potential to cause catastrophic harm."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案是 D。文章開頭與結尾皆強調，AI 正在推動生物學朝向「防禦（公衛）」與「進攻（惡意用途）」兩個對立方向發展，這是一場速度的競賽，結果將影響全球安全。選項 A 過於偏激，文章並未提倡禁止。選項 B 錯誤，文章並未說一定會導致大流行。選項 C 雖有部分正確，但沒有完整涵蓋文章強調的「競賽」與「速度」這一核心主旨。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
