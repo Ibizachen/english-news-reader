@@ -1,0 +1,164 @@
+{
+  "id": "2026-07-28-investor-concerns-over-rising-ai-spending",
+  "slug": "investor-concerns-over-rising-ai-spending-jul-2026",
+  "publishedAt": "2026-07-28T23:14:17.690149Z",
+  "category": "economics",
+  "title": "Investors Pull Back as AI Spending Concerns Grow",
+  "subtitle": "Tech markets face a difficult period as companies spend record amounts on artificial intelligence infrastructure.",
+  "summary": {
+    "en": "Global stock markets are experiencing a sharp decline as investors worry about the massive costs of building artificial intelligence systems. Major tech companies are spending billions on new data centers, leading to concerns about debt and future profits. While some firms like Apple are avoiding this spending race, others are facing intense pressure from shareholders. Meanwhile, competition from cheaper Chinese technology is adding to the uncertainty in the market. Investors are now questioning whether the current level of investment in AI is sustainable.",
+    "zh": "全球股市正經歷劇烈下跌，投資人擔憂建置人工智慧系統的成本過於龐大。大型科技公司正投入數十億美元興建新的資料中心，引發了對債務與未來獲利的疑慮。雖然蘋果等部分公司避開了這場支出競賽，但其他企業正面臨來自股東的巨大壓力。同時，來自中國低成本技術的競爭也加劇了市場的不確定性。投資人目前正質疑當前的人工智慧投資水準是否具有永續性。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Global stock markets are facing a difficult period as investors grow increasingly worried about the massive amounts of money tech companies are spending on artificial intelligence (AI). This concern has led to a sharp drop in the value of many leading tech stocks, as shareholders begin to question whether these huge investments will ever lead to real profits. According to The Guardian Business, the Nasdaq 100 index recently fell by more than 10 percent from its June record high, which experts call a market correction—a significant decline in stock prices after a period of growth.",
+      "zh": "全球股市正面臨艱難時期，投資人對於科技公司在人工智慧（AI）上投入巨額資金感到日益擔憂。這種憂慮導致許多龍頭科技股價值急劇下跌，因為股東開始質疑這些龐大的投資是否真能帶來實質獲利。根據《衛報商業版》（The Guardian Business）報導，那斯達克 100 指數（Nasdaq 100 index）近期從六月的歷史高點下跌超過百分之十，專家稱此為市場修正，即股市在一段成長期後出現的顯著回檔。"
+    },
+    {
+      "id": "p2",
+      "en": "At the center of this tension is the rising cost of building data centers. These are large buildings filled with powerful computers that store and process the data needed for AI. Google recently announced it would increase its spending to as much as $205 billion this year. The Verge reports that this news surprised investors, especially since the company also reported negative free cash flow—meaning it spent more money than it actually made—for the first time in its history. This has created a sense of nervousness across the entire industry, as other giants like Meta, Amazon, and Microsoft are expected to report similar high spending levels.",
+      "zh": "這波緊張情緒的核心在於建置資料中心的成本不斷攀升。這些大型建築內裝有強大的電腦，用於儲存與處理人工智慧所需的數據。Google 近期宣布今年將增加支出至高達兩千零五十億美元。科技媒體《The Verge》報導指出，此消息令投資人感到震驚，特別是該公司歷史上首次出現負的自由現金流，意味著其支出超過了實際營收。這在整個產業引發了不安，因為預計 Meta、亞馬遜（Amazon）與微軟（Microsoft）等其他巨頭也將公布類似的高額支出水準。"
+    },
+    {
+      "id": "p3",
+      "en": "Some analysts are also worried about what they call \"circular funding.\" This is a situation where AI companies use their own money to finance each other, rather than relying on traditional sales or profits. For example, reports suggest that Nvidia is in talks to provide $250 billion for a massive data center project with OpenAI. While this might help the project move forward, experts like Billy Leung from Global X Management told The Verge that it is a sign of \"funding strain\" in the industry. It suggests that companies are struggling to find enough cash to keep their AI projects running.",
+      "zh": "部分分析師也對所謂的「循環融資」感到擔憂。這是一種人工智慧公司利用自身資金相互挹注，而非依賴傳統銷售或獲利的情況。例如，有報導指出輝達（Nvidia）正與 OpenAI 商談，計畫為一項大型資料中心專案提供兩千五百億美元的資金。儘管這可能有助於專案推進，但來自 Global X Management 的分析師梁比利（Billy Leung）向《The Verge》表示，這是產業出現「資金緊縮」的跡象，顯示企業正苦於尋找足夠的現金來維持人工智慧專案運作。"
+    },
+    {
+      "id": "p4",
+      "en": "While many tech companies are struggling, Apple has taken a different path. The company has largely avoided the expensive AI spending race, focusing instead on user experience. According to The Guardian Business, Apple recently became the second company in history to reach a $5 trillion market value. Because Apple does not have to pay the massive infrastructure costs that other companies face, investors have started to see it as a safer place for their money. To keep customers interested, Apple has also launched a new leasing program, which allows users to pay for devices in smaller, predictable monthly amounts.",
+      "zh": "儘管許多科技公司陷入困境，蘋果（Apple）卻選擇了不同的路徑。該公司大致避開了昂貴的人工智慧支出競賽，轉而專注於使用者體驗。根據《衛報商業版》報導，蘋果近期成為史上第二家市值達到五兆美元的公司。由於蘋果無需支付其他公司所面臨的龐大基礎設施成本，投資人已開始將其視為資金的避風港。為了維持客戶興趣，蘋果也推出了新的租賃方案，允許使用者以較小且可預測的月費支付裝置費用。"
+    },
+    {
+      "id": "p5",
+      "en": "International competition is also making investors nervous. A report by The Information noted that China has begun mass production of its own chip-making tools. This is significant because, for a long time, US companies believed they had a lead in technology that China could not easily match. If Chinese companies can produce cheaper, effective AI tools, it could threaten the dominance of US firms. Jing Jie Yu, an analyst at Morningstar, told The Guardian Business that the market was \"spooked\" by this progress, fearing it would hurt the competitive position of global leaders.",
+      "zh": "國際競爭也讓投資人感到緊張。《The Information》的一份報告指出，中國已開始大規模生產自有的晶片製造工具。這點至關重要，因為長期以來，美國企業一直認為自己在技術上擁有中國難以輕易追趕的領先優勢。若中國企業能生產出更便宜且有效的人工智慧工具，可能會威脅到美國公司的市場主導地位。晨星公司（Morningstar）分析師余景傑（Jing Jie Yu）向《衛報商業版》表示，市場被這項進展「嚇壞了」，擔心這會損害全球龍頭企業的競爭地位。"
+    },
+    {
+      "id": "p6",
+      "en": "Furthermore, the South Korean stock market has been hit hard by these concerns. Major semiconductor companies like SK Hynix and Samsung Electronics saw their shares fall by more than 10 percent. These companies are vital to the global AI supply chain, and their decline shows how widespread the worries have become. Danni Hewson, head of financial analysis at the stockbroker AJ Bell, noted that investors are now waiting for more companies to share their financial outlooks, which could lead to even more uncertainty in the coming weeks.",
+      "zh": "此外，南韓股市也受到這些擔憂的嚴重衝擊。SK 海力士（SK Hynix）與三星電子（Samsung Electronics）等主要半導體公司的股價下跌超過百分之十。這些公司對於全球人工智慧供應鏈至關重要，它們的跌勢顯示出憂慮已有多麼廣泛。證券經紀商 AJ Bell 的金融分析主管丹妮·休森（Danni Hewson）指出，投資人目前正等待更多公司分享其財務展望，這可能會在未來幾週內導致更多的不確定性。"
+    },
+    {
+      "id": "p7",
+      "en": "Looking ahead, the future of the AI boom remains unclear. Many experts believe that companies are currently building too many data centers, a period of \"exuberance\" that may eventually lead to a collapse for smaller AI firms. As The Verge reports, while some people remain optimistic, others have been asking for years how these companies plan to make money, and they have yet to receive a clear answer. For now, the market is in a wait-and-see mode, hoping that the massive spending will eventually pay off. Until then, investors are likely to remain cautious, moving their money away from companies that spend too much and toward those that show more stable financial health.",
+      "zh": "展望未來，人工智慧熱潮的前景仍不明朗。許多專家認為，企業目前興建了過多的資料中心，這種「過度熱情」的時期最終可能導致小型人工智慧公司崩盤。正如《The Verge》報導，雖然有些人仍保持樂觀，但其他人多年來一直在詢問這些公司打算如何獲利，至今仍未得到明確答案。目前市場處於觀望模式，寄望這些巨額支出最終能獲得回報。在此之前，投資人可能會保持謹慎，將資金從支出過高的公司轉移至財務狀況更穩健的企業。"
+    }
+  ],
+  "wordCount": 768,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "spooked",
+      "definitionEn": "To make someone feel suddenly nervous, frightened, or worried.",
+      "definitionZh": "使受驚、使感到恐慌。",
+      "partOfSpeech": "verb (past participle)",
+      "noteZh": "常見作名詞（鬼魂），這裡作動詞的過去分詞，形容投資人因消息而感到恐慌。文中：Jing Jie Yu, an analyst at Morningstar, told The Guardian Business that the market was \"spooked\" by this progress, fearing it would hurt the competitive position of global leaders."
+    },
+    {
+      "term": "pay off",
+      "definitionEn": "To result in success or a positive outcome after an investment or effort.",
+      "definitionZh": "（投資或努力）得到回報、成功。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "此片語在此處指投資獲得回報，而非字面上的「付清」。文中：For now, the market is in a wait-and-see mode, hoping that the massive spending will eventually pay off."
+    },
+    {
+      "term": "wait-and-see",
+      "definitionEn": "A strategy of delaying a decision until more information is available.",
+      "definitionZh": "觀望的、等待情勢明朗的。",
+      "partOfSpeech": "idiom / adjective",
+      "noteZh": "這是一個常用的複合形容詞，形容市場在不確定時採取保守的觀望態度。文中：For now, the market is in a wait-and-see mode, hoping that the massive spending will eventually pay off."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Business",
+      "url": "https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks",
+      "title": "Apple becomes second $5tn company as investors flee AI stocks",
+      "publishedAt": "2026-07-28T20:33:14Z"
+    },
+    {
+      "name": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/2026/jul/28/ai-sell-off-chip-stocks-sk-hynix-samsung",
+      "title": "South Korean stock market at three-month low as AI sell-off intensifies",
+      "publishedAt": "2026-07-28T17:43:46Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+      "title": "AI’s finally expensive enough to make Wall Street nervous",
+      "publishedAt": "2026-07-28T19:33:03Z"
+    }
+  ],
+  "story": {
+    "id": "ai-market-volatility-and-investor-concerns",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "ai-market-volatility-and-investor-concerns-jul-2026",
+        "title": "Investors Grow Nervous as AI Spending Rises",
+        "publishedAt": "2026-07-28T22:13:52.604437Z",
+        "category": "economics",
+        "summaryEn": "Stock markets in the US and Asia have seen a sharp drop in value recently. Investors are worried about the massive amounts of money tech companies are spending on artificial intelligence. While some firms are pouring cash into data centers, others are choosing to avoid this expensive race. Apple has recently become the world's most valuable company by focusing on its own products instead of AI infrastructure. Experts suggest that the market is currently experiencing a correction as people rethink the future of AI profits."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is unique about Google's financial situation this year compared to its past?",
+      "options": {
+        "A": "It has reached a record market value of $5 trillion.",
+        "B": "It reported negative free cash flow for the first time.",
+        "C": "It has stopped all funding for AI data centers.",
+        "D": "It is receiving funding directly from Nvidia."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，Google 宣布今年將投入高達 2050 億美元的資金，並提到該公司史上首次出現「負自由現金流」（negative free cash flow），即支出大於收入。選項 A 是指蘋果公司而非 Google；選項 C 與文章敘述相反，Google 反而增加了支出；選項 D 則是提到 Nvidia 與 OpenAI 的合作，並非 Google。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the text, why might investors currently view Apple as a 'safer' investment than companies like Meta or Microsoft?",
+      "options": {
+        "A": "Apple is the only company that produces its own AI chips.",
+        "B": "Apple has successfully dominated the Chinese market.",
+        "C": "Apple is not burdened by the massive infrastructure costs associated with the current AI spending race.",
+        "D": "Apple has pledged to stop all AI development to focus on leasing programs."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第四段指出，蘋果採取了不同的路徑，避開了昂貴的 AI 基礎設施軍備競賽，轉而專注於使用者體驗。因為蘋果不需要支付其他公司面臨的龐大基礎設施成本，投資者將其視為更穩定的選擇。選項 A 文中未提及；選項 B 與文中提到的中國競爭壓力無關；選項 D 錯誤，蘋果只是避開了高額的 AI 基礎設施支出，並非停止 AI 開發。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fifth paragraph, what does the word 'spooked' mean in the context of the market's reaction to China's progress?",
+      "options": {
+        "A": "Frightened or made anxious.",
+        "B": "Excited by new opportunities.",
+        "C": "Confused by complex technology.",
+        "D": "Indifferent to external competition."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在第五段中，分析師提到市場被中國在晶片製造工具上的進展給「spooked」，隨後提到投資者擔心這會損害全球領先企業的競爭地位，這顯示出市場感到恐懼或不安。選項 B 與文章提到的擔憂情緒矛盾；選項 C 雖然市場可能對技術感到困惑，但此處強調的是對競爭力的威脅感；選項 D 則完全相反，市場明顯對此有強烈反應。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article regarding the current state of the AI industry?",
+      "options": {
+        "A": "The AI industry is experiencing a period of unprecedented profit and growth.",
+        "B": "Investors are shifting their focus exclusively to the South Korean semiconductor market.",
+        "C": "The AI boom is likely to end because China has already surpassed the US in technology.",
+        "D": "There is growing investor skepticism and caution due to the massive, potentially unsustainable spending on AI infrastructure."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。全文的核心在於探討科技公司在 AI 基礎設施上投入巨資，卻引發了投資者對於獲利能力、資金來源（如循環注資）以及市場泡沫化的擔憂，導致股市波動與觀望態度。選項 A 與文章描述的困難時期相反；選項 B 將焦點縮小到韓國市場，這只是文章一部分；選項 C 過度解讀，文章僅提到中國進展帶來的競爭壓力，並未斷言中國已超越美國。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
