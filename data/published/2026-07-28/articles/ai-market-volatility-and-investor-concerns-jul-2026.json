@@ -1,0 +1,156 @@
+{
+  "id": "2026-07-28-ai-market-volatility-and-investor-concerns",
+  "slug": "ai-market-volatility-and-investor-concerns-jul-2026",
+  "publishedAt": "2026-07-28T22:13:52.604437Z",
+  "category": "economics",
+  "title": "Investors Grow Nervous as AI Spending Rises",
+  "subtitle": "Global stock markets face a period of uncertainty as tech companies spend billions on artificial intelligence.",
+  "summary": {
+    "en": "Stock markets in the US and Asia have seen a sharp drop in value recently. Investors are worried about the massive amounts of money tech companies are spending on artificial intelligence. While some firms are pouring cash into data centers, others are choosing to avoid this expensive race. Apple has recently become the world's most valuable company by focusing on its own products instead of AI infrastructure. Experts suggest that the market is currently experiencing a correction as people rethink the future of AI profits.",
+    "zh": "美國與亞洲股市近期價值大幅滑落。投資人對於科技公司在人工智慧領域投入的鉅額資金感到擔憂。雖然部分企業正將資金大量投入資料中心，但其他公司則選擇避開這場昂貴的競賽。蘋果近期透過專注於自有產品而非人工智慧基礎設施，成為全球市值最高的公司。專家認為，隨著人們重新思考人工智慧獲利的未來，市場目前正經歷一波修正。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Global stock markets have experienced a difficult period recently as investors grow increasingly worried about the high costs of artificial intelligence (AI). Shares in major technology and chip-making firms have fallen sharply in the United States and across Asia. This decline has caused concern among experts who wonder if the massive spending on AI will ever result in real profits for these companies.",
+      "zh": "全球股市近期經歷了一段艱難時期，投資人對於人工智慧（AI）的高昂成本日益感到擔憂。美國及亞洲各大科技與晶片製造公司的股價大幅下跌。這波跌勢引起了專家的疑慮，他們質疑這些公司在人工智慧上投入的鉅額資金，是否真能轉化為實質獲利。"
+    },
+    {
+      "id": "p2",
+      "en": "In South Korea, the stock market faced significant pressure, with the Kospi index falling by more than 10% in a single day. Trading was even paused temporarily using a mechanism called a \"circuit breaker,\" which is a safety rule designed to stop panic selling when prices drop too quickly. Major technology companies like Samsung Electronics and SK Hynix saw their share prices fall by more than 13%. According to BBC Business, the situation in South Korea was made worse because many local investors use borrowed money to buy stocks, which can make price drops feel much more extreme.",
+      "zh": "在南韓，股市面臨巨大壓力，綜合股價指數（Kospi）單日跌幅超過百分之十。交易甚至一度因觸發「熔斷機制」而暫停，這是一種旨在防止價格過快下跌時出現恐慌性拋售的安全規則。三星電子（Samsung Electronics）與 SK 海力士（SK Hynix）等大型科技公司的股價跌幅均超過百分之十三。根據 BBC 商業新聞報導，南韓的情況之所以更為嚴重，是因為許多當地投資人習慣透過借貸進行股票交易，這會讓價格下跌時的衝擊感顯得更加劇烈。"
+    },
+    {
+      "id": "p3",
+      "en": "At the center of these concerns is the massive amount of money being spent on data centers—the large buildings filled with computers that power AI services. Companies like Google have reported that they are increasing their capital spending to hundreds of billions of dollars to support their AI plans. However, as The Verge reports, this high level of spending is making Wall Street nervous. Investors are starting to ask a difficult question: will these investments actually earn a proper return in the future? Some experts worry that companies are spending more money than they are making, which is not a sustainable business practice.",
+      "zh": "這些擔憂的核心在於對資料中心投入的龐大資金，這些大型建築內裝滿了驅動人工智慧服務的電腦設備。Google 等公司已表示，為了支持其人工智慧計畫，正將資本支出提高至數千億美元。然而，正如科技媒體 The Verge 所報導，這種高水準的支出正讓華爾街感到不安。投資人開始提出一個棘手的問題：這些投資未來真的能獲得適當的回報嗎？部分專家擔心，企業目前的支出已超過其獲利，這並非永續的商業模式。"
+    },
+    {
+      "id": "p4",
+      "en": "This nervousness is also linked to the way AI companies fund each other, a process sometimes called \"circular funding.\" For example, there are reports that the chip giant Nvidia is in talks to provide significant financial support for projects involving OpenAI. Analysts suggest that this kind of deal might show that the actual demand for AI technology is weaker than many people previously thought. Furthermore, there is growing competition from China, where companies are developing their own advanced chips and AI models. According to The Guardian, news that China has begun mass production of its own chip-making tools has added to the anxiety felt by international investors.",
+      "zh": "這種不安情緒也與人工智慧公司之間相互資助的過程有關，這有時被稱為「循環融資」。例如，有報導指出晶片巨頭輝達（Nvidia）正洽談為涉及 OpenAI 的專案提供大量財務支持。分析師認為，這類交易可能顯示人工智慧技術的實際需求比許多人先前預期的還要疲軟。此外，來自中國的競爭日益激烈，當地企業正致力於開發自有的先進晶片與人工智慧模型。根據衛報（The Guardian）報導，中國已開始大規模生產自有晶片製造工具的消息，進一步加劇了國際投資人的焦慮。"
+    },
+    {
+      "id": "p5",
+      "en": "While many tech giants are caught in this expensive race, Apple has taken a different path. Apple has recently overtaken Nvidia to become the world’s most valuable company. Analysts note that Apple has largely avoided the massive infrastructure spending that is currently hurting its rivals. By focusing on its own products, such as the iPhone, and relying on existing technology for services like Siri, Apple has been shielded from the high costs that are worrying investors elsewhere. As Dipanjan Chatterjee from the research firm Forrester explained to The Guardian, Apple is betting that the customer experience, rather than building massive data centers, will be the key to success.",
+      "zh": "儘管許多科技巨頭都捲入了這場昂貴的競賽，蘋果（Apple）卻採取了不同的路徑。蘋果近期已超越輝達，成為全球市值最高的公司。分析師指出，蘋果在很大程度上避免了目前正拖累其競爭對手的龐大基礎設施支出。透過專注於 iPhone 等自有產品，並依賴現有技術來提供 Siri 等服務，蘋果得以避開讓其他投資人感到擔憂的高昂成本。正如研究機構 Forrester 的分析師查特吉（Dipanjan Chatterjee）向衛報解釋，蘋果押注的是客戶體驗，而非興建大型資料中心，這才是成功的關鍵。"
+    },
+    {
+      "id": "p6",
+      "en": "Despite the current market slump, some experts believe this is a normal part of the economic cycle. Jun Bei Liu, the founder of the investment firm Ten Cap, told the BBC that investors are currently \"taking some profit off the table.\" This means they are selling some of their shares to secure their gains after a period of very high growth. Many investors may choose to buy these stocks again once the market settles down after the holiday season.",
+      "zh": "儘管目前市場低迷，部分專家認為這是經濟週期中正常的一部分。投資公司 Ten Cap 的創辦人劉俊貝（Jun Bei Liu）向 BBC 表示，投資人目前正在「獲利了結」。這意味著在經歷了一段極高成長期後，他們正在賣出部分持股以確保獲利。許多投資人可能會在假期過後、市場趨於穩定時，選擇重新買進這些股票。"
+    },
+    {
+      "id": "p7",
+      "en": "Looking ahead, the industry faces a period of adjustment. Many analysts believe that the current excitement over AI has led to an over-building of data centers. There is a general feeling that some smaller AI companies may struggle or even fail as the market moves past this period of high spending. For now, investors remain cautious, watching closely to see if the billions of dollars being spent today will lead to the revolutionary products that companies have promised. The market is currently in a state of correction—a technical term for when stock prices fall by at least 10% after a period of rising—as everyone waits to see which companies will truly succeed in the long run.",
+      "zh": "展望未來，產業正面臨一段調整期。許多分析師認為，目前對人工智慧的狂熱已導致資料中心過度建設。市場普遍有一種感覺，隨著市場度過這段高支出時期，一些規模較小的人工智慧公司可能會陷入困境甚至倒閉。目前，投資人仍保持謹慎，密切觀察今日投入的數十億美元，是否真能帶來企業所承諾的革命性產品。市場目前處於「修正」狀態——這是指股價在經歷一段上漲後下跌至少百分之十的技術性術語——每個人都在等待，看哪些公司能真正長久地存活並取得成功。"
+    }
+  ],
+  "wordCount": 728,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "taken a different path",
+      "definitionEn": "To choose a different strategy or method compared to others.",
+      "definitionZh": "採取不同的策略或途徑。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這是一個比喻用法，並非指物理上的道路。文中：While many tech giants are caught in this expensive race, Apple has taken a different path."
+    },
+    {
+      "term": "taking some profit off the table",
+      "definitionEn": "To sell investments that have increased in value to secure the money made.",
+      "definitionZh": "獲利了結；將帳面上的獲利變現。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這是金融領域的慣用語，字面上與餐桌無關。文中：Jun Bei Liu, the founder of the investment firm Ten Cap, told the BBC that investors are currently \"taking some profit off the table.\""
+    },
+    {
+      "term": "shielded",
+      "definitionEn": "Protected from something dangerous or harmful.",
+      "definitionZh": "保護、免受（負面影響）。",
+      "partOfSpeech": "verb (passive)",
+      "noteZh": "常見作名詞（盾牌），這裡作動詞表示保護。文中：By focusing on its own products, such as the iPhone, and relying on existing technology for services like Siri, Apple has been shielded from the high costs that are worrying investors elsewhere."
+    }
+  ],
+  "sources": [
+    {
+      "name": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cly8zng43npo?at_medium=RSS&at_campaign=rss",
+      "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+      "publishedAt": "2026-07-28T10:15:47Z"
+    },
+    {
+      "name": "The Guardian Business",
+      "url": "https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks",
+      "title": "Apple becomes second $5tn company as investors flee AI stocks",
+      "publishedAt": "2026-07-28T20:33:14Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+      "title": "AI’s finally expensive enough to make Wall Street nervous",
+      "publishedAt": "2026-07-28T19:33:03Z"
+    }
+  ],
+  "story": {
+    "id": "ai-market-volatility-and-investor-concerns",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What contributed to the severity of the stock market drop in South Korea?",
+      "options": {
+        "A": "The temporary failure of the circuit breaker mechanism.",
+        "B": "The widespread use of borrowed capital by local investors.",
+        "C": "The sudden bankruptcy of major firms like Samsung and SK Hynix.",
+        "D": "The immediate cessation of all AI-related chip production."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，BBC Business 指出南韓股市的情況之所以惡化，是因為許多當地投資者使用借貸資金（borrowed money）來購買股票，這導致價格下跌時的衝擊感更為劇烈。選項 A 錯誤，因為 circuit breaker 是用來防止恐慌性拋售的機制，並非失敗；選項 C 錯誤，文中僅提到股價下跌，並未提到公司破產；選項 D 則完全未在文中提及。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, why might the 'circular funding' between companies like Nvidia and OpenAI be viewed negatively by market analysts?",
+      "options": {
+        "A": "It suggests that these companies are trying to avoid paying corporate taxes.",
+        "B": "It indicates that AI companies are prioritizing government contracts over private ones.",
+        "C": "It implies that the genuine market demand for AI products may be lower than reported.",
+        "D": "It proves that these companies are planning to merge into a single monopoly."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第四段提到，這種「循環資助」可能顯示出 AI 技術的實際需求比人們預期的還要弱。這是一種推論，因為如果市場需求強勁，企業應能透過銷售獲利，而非互相注資來維持項目運作。選項 A 與 D 文中未提及；選項 B 則與文中提到的產業內競爭與資金流動無關。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the phrase 'taking some profit off the table' mean?",
+      "options": {
+        "A": "Selling assets to lock in financial gains after a period of growth.",
+        "B": "Removing funding from AI research to invest in traditional industries.",
+        "C": "Canceling meetings between investors and company executives.",
+        "D": "Refusing to accept new investors into a private firm."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。根據第六段，Jun Bei Liu 解釋這句話是指投資者在經歷一段高成長期後，選擇賣出部分股票以確保獲利（secure their gains）。這是一個金融慣用語，指將獲利變現。選項 B 錯誤，這並非單指轉移產業；選項 C 與 D 則是對該詞組字面意思的誤解，與原文語境中的投資行為不符。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article regarding the current state of the AI industry?",
+      "options": {
+        "A": "AI technology has failed to produce any useful products for consumers.",
+        "B": "Apple is the only company that will survive the current economic downturn.",
+        "C": "The market is adjusting to concerns over the sustainability of high AI infrastructure spending.",
+        "D": "Global stock markets are crashing permanently due to the rise of Chinese chip production."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。整篇文章的核心在於探討投資者對 AI 高額基礎設施支出的擔憂，以及市場如何經歷修正期（market correction）來評估這些投資是否具備長期獲利能力。選項 A 過於極端，文中僅提到對獲利的質疑；選項 B 錯誤，文中僅提到 Apple 的策略不同，並未斷言其他公司無法存活；選項 D 誇大了中國產能的影響力，那僅是導致焦慮的因素之一，而非市場崩盤的主因。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
