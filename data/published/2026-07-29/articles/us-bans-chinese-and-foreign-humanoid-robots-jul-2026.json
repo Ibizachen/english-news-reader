@@ -1,0 +1,161 @@
+{
+  "id": "2026-07-29-us-bans-chinese-and-foreign-humanoid-robots",
+  "slug": "us-bans-chinese-and-foreign-humanoid-robots-jul-2026",
+  "publishedAt": "2026-07-29T23:12:44.511162Z",
+  "category": "technology",
+  "title": "US Imposes New Ban on Foreign-Made Humanoid Robots",
+  "subtitle": "The FCC cites national security risks as the latest move in a growing technology standoff.",
+  "summary": {
+    "en": "The US Federal Communications Commission has announced a new ban on foreign-made humanoid and four-legged robots. Officials claim these devices pose significant cybersecurity risks to national security and critical infrastructure. The policy also includes restrictions on power inverters used in renewable energy systems. China has criticized the move, calling it an irrational attempt to protect US technological dominance. This decision could impact future trade relations ahead of a planned summit between US and Chinese leadership.",
+    "zh": "美國聯邦傳播委員會宣布一項針對外國製人形與四足機器人的新進口禁令。官員聲稱這些裝置對國家安全與關鍵基礎設施構成重大網路安全風險。該政策亦包含對再生能源系統所用電源變流器的限制。中國批評此舉，稱其為保護美國技術霸權的不理性嘗試。此項決策可能影響美中領導人預計舉行的峰會前的貿易關係。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The United States government has announced a new ban on the import of foreign-made humanoid and animal-like robots. The Federal Communications Commission (FCC) stated on Tuesday that these \"advanced robotic devices\" create unacceptable risks to the country’s national security and the safety of its residents. This decision is part of a broader effort by the Trump administration to limit the influence of foreign technology within the United States.",
+      "zh": "美國政府宣布一項針對外國製人形與仿生機器人的新進口禁令。聯邦傳播委員會（FCC）週二表示，這些「先進機器裝置」對美國國家安全及居民安全構成無法接受的風險。此項決策是川普政府為限制外國科技在美影響力，所採取的一系列廣泛行動之一。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Guardian World, the FCC defines these banned devices as mechanical mobile robots that can move on the ground and operate either on their own or through remote control. The ban specifically targets robots that use sensors to see their environment and have network connections, such as Bluetooth or satellite links. In addition to humanoid robots, the FCC has also restricted the import of connected power inverters. These are important tools that help connect renewable energy sources and batteries to the power grid.",
+      "zh": "根據《衛報》（The Guardian）報導，聯邦傳播委員會將這些遭禁裝置定義為能在地面移動，且能自主運作或透過遠端控制操作的機械移動機器人。該禁令明確鎖定那些利用感測器觀察環境並具備藍牙或衛星連結等網路功能的機器人。除了人形機器人外，聯邦傳播委員會也限制了連網型電源變流器的進口。這些變流器是將再生能源與電池連接至電網的重要工具。"
+    },
+    {
+      "id": "p3",
+      "en": "Ars Technica reports that the FCC justified this move by pointing to cybersecurity vulnerabilities previously found in robots made by Chinese companies. The agency added these foreign-produced devices to its \"Covered List,\" which identifies technologies that are considered a threat to US national security. While the ban currently applies to robot and inverter models that have not yet been released, the FCC has the authority to remove permission for the sale of models that are already available in the US.",
+      "zh": "根據《Ars Technica》報導，聯邦傳播委員會指出，先前在中國企業製造的機器人中發現網路安全漏洞，因此將此舉視為正當防衛。該機構將這些外國製裝置列入其「受管清單」，該清單旨在標示被視為對美國國家安全構成威脅的技術。儘管目前禁令適用於尚未上市的機器人與變流器型號，但聯邦傳播委員會仍有權撤銷已在美國市場銷售之型號的許可。"
+    },
+    {
+      "id": "p4",
+      "en": "This policy reflects a strong push by the US government to build independent supply chains for critical technologies. An administration official noted that economic security is national security, and the government is working to bring more manufacturing back to America. However, the move has caused tension with China. The Chinese embassy in Washington has urged the US to stop what it calls the \"smearing\" of Chinese companies and warned that China would take necessary steps to protect its own interests.",
+      "zh": "此政策反映出美國政府正強力推動建立關鍵技術的獨立供應鏈。一位政府官員指出，經濟安全即國家安全，政府正致力於將更多製造業帶回美國。然而，此舉已引發與中國的緊張關係。中國駐華盛頓大使館敦促美國停止所謂對中國企業的「抹黑」，並警告中國將採取必要措施以捍衛自身利益。"
+    },
+    {
+      "id": "p5",
+      "en": "Deutsche Welle (DW) Top notes that the market for humanoid and four-legged robots is growing rapidly. China currently holds a clear lead in this field. Analysts estimate that Chinese-made humanoid robots account for about 85% of the global market share. While US companies like Figure AI and Tesla are working to develop their own robots, they currently produce far fewer units than major Chinese firms like Unitree and AGIBOT. According to data from the research group Omdia, these two Chinese companies alone shipped more than 5,000 humanoid robots in 2025.",
+      "zh": "德國之聲（DW）指出，人形與四足機器人市場正快速成長。中國目前在此領域擁有明顯領先地位。分析師估計，中國製人形機器人約佔全球市場份額的百分之八十五。儘管如 Figure AI 與特斯拉（Tesla）等美國公司正致力於開發自家機器人，但目前的產量遠低於宇樹科技（Unitree）與智元機器人（AGIBOT）等中國大型企業。根據研究機構 Omdia 的數據，僅這兩家中國公司在二零二五年就出貨了超過五千台人形機器人。"
+    },
+    {
+      "id": "p6",
+      "en": "Experts suggest that the ban may not significantly slow down China’s overall development in robotics. Because China has a large domestic market and many other places to sell its products, it remains a strong competitor. Morningstar analyst Kangyuxiao Li told the media that the measures are unlikely to stop China’s progress. Meanwhile, some observers see this as a sign of anxiety in the US, as the country tries to maintain its position as a leading technological power despite the rapid growth of foreign competitors.",
+      "zh": "專家認為，此禁令可能不會顯著減緩中國在機器人領域的整體發展。由於中國擁有龐大的國內市場以及許多其他銷售管道，它依然是一個強勁的競爭對手。晨星（Morningstar）分析師李康玉曉（音譯，Kangyuxiao Li）向媒體表示，這些措施不太可能阻止中國的進步。與此同時，部分觀察家認為這顯示出美國的焦慮，因為儘管外國競爭對手成長迅速，美國仍試圖維持其作為領先科技強權的地位。"
+    },
+    {
+      "id": "p7",
+      "en": "This decision comes at a sensitive time for international relations. The US and China have already faced disagreements over drones and artificial intelligence models, with the US government expressing concerns about potential spying and data collection. The Pentagon has also placed several Chinese technology companies on a list of firms it claims have ties to the Chinese military, a claim that Beijing strongly denies.",
+      "zh": "此項決策正值國際關係敏感時期。美中兩國先前已在無人機與人工智慧模型議題上產生分歧，美國政府對潛在的間諜活動與資料蒐集表達擔憂。五角大廈也將多家中國科技公司列入其宣稱與中國軍方有關聯的企業名單，北京當局對此強烈否認。"
+    },
+    {
+      "id": "p8",
+      "en": "As the two nations prepare for a summit between President Donald Trump and Premier Xi Jinping in September, these technology restrictions are becoming a major point of conflict. Many analysts view the situation as part of a steady series of \"flashpoints\"—or moments of sudden tension—that could complicate diplomatic discussions. For now, the ban remains a clear signal that the US intends to prioritize its own technological security, even if it means changing how it trades with other countries in the years to come.",
+      "zh": "隨著兩國準備在九月舉行川普總統與習近平主席的峰會，這些技術限制正成為主要的衝突點。許多分析師將此局勢視為一系列持續的「引爆點」（即突發緊張時刻）的一部分，這可能會使外交談判變得更加複雜。目前而言，這項禁令清楚傳達了美國打算優先考慮自身技術安全的訊號，即便這意味著在未來幾年內必須改變與其他國家的貿易方式。"
+    }
+  ],
+  "wordCount": 685,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "move",
+      "definitionEn": "An action or step taken to achieve a specific goal or result.",
+      "definitionZh": "行動、舉措。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（移動），這裡作名詞，指政策或決策。文中：Ars Technica reports that the FCC justified this move by pointing to cybersecurity vulnerabilities previously found in robots made by Chinese companies."
+    },
+    {
+      "term": "ties",
+      "definitionEn": "Connections or relationships between people, groups, or countries.",
+      "definitionZh": "連結、關係。",
+      "partOfSpeech": "noun (plural)",
+      "noteZh": "常見作動詞（繫鞋帶），這裡作名詞，指政治或商業上的關聯。文中：The Pentagon has also placed several Chinese technology companies on a list of firms it claims have ties to the Chinese military, a claim that Beijing strongly denies."
+    },
+    {
+      "term": "point",
+      "definitionEn": "A specific detail, issue, or aspect of a situation.",
+      "definitionZh": "點、議題。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（指著），這裡作名詞，指爭論的焦點。文中：As the two nations prepare for a summit between President Donald Trump and Premier Xi Jinping in September, these technology restrictions are becoming a major point of conflict."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian World",
+      "url": "https://www.theguardian.com/us-news/2026/jul/28/fcc-ban-humanoid-robots-china",
+      "title": "US bans humanoid robots from China, citing ‘unacceptable risks’",
+      "publishedAt": "2026-07-28T23:24:15Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
+      "title": "Who wins and who loses after US bans foreign robots?",
+      "publishedAt": "2026-07-29T20:03:42Z"
+    },
+    {
+      "name": "Deutsche Welle (DW) Top",
+      "url": "https://www.dw.com/en/us-bans-chinese-and-foreign-made-humanoid-robots/a-78154426?maca=en-rss-en-top-1022-rdf",
+      "title": "US bans Chinese and foreign-made humanoid robots",
+      "publishedAt": "2026-07-29T09:15:00Z"
+    }
+  ],
+  "story": {
+    "id": "us-bans-chinese-and-foreign-humanoid-robots",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "Which of the following is explicitly mentioned as a requirement for a robot to be included in the FCC's import ban?",
+      "options": {
+        "A": "It must be capable of independent operation without any human remote control.",
+        "B": "It must be equipped with sensors to observe its surroundings and have network connectivity.",
+        "C": "It must be a humanoid robot specifically designed to mimic human physical movements.",
+        "D": "It must have been manufactured by a company currently listed on the Pentagon's military-linked list."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，FCC 定義的禁令對象是具備感測器（sensors）以觀察環境，且擁有藍牙或衛星連結等網路功能的機械移動機器人。選項 A 錯誤，因為文章提到機器人可以「自行操作或透過遠端控制」，並非僅限於獨立操作。選項 C 錯誤，因為禁令範圍包含「類人型與動物型機器人」，而非僅限於類人型。選項 D 錯誤，文章雖提到五角大廈有相關清單，但 FCC 的禁令定義並未將「名列五角大廈清單」作為定義該類機器人的必要條件。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the current state of the robotics industry in the United States compared to China?",
+      "options": {
+        "A": "The US has successfully replaced all Chinese robot imports with domestically manufactured alternatives.",
+        "B": "US companies are currently unable to produce any humanoid robots due to a lack of technology.",
+        "C": "The US is currently trailing behind China in terms of mass production and market share for these robots.",
+        "D": "The US government believes that Chinese robots are superior in quality to those produced by Tesla or Figure AI."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第五段，中國目前在機器人領域佔有明顯優勢，中國製類人機器人約佔全球 85% 的市佔率，且兩家中國公司在 2025 年的出口量就超過 5,000 台，顯示美國在產量與市佔上落後。選項 A 錯誤，因為美國目前才剛開始推動建立獨立供應鏈。選項 B 錯誤，文章提到 Tesla 和 Figure AI 正在研發機器人，並非無法生產。選項 D 錯誤，文章未提及中國機器人品質較優，而是強調其市場佔有率與生產規模。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the term 'flashpoints' mean in the context of US-China relations?",
+      "options": {
+        "A": "Sudden, intense moments of conflict or tension.",
+        "B": "Technological breakthroughs that happen very quickly.",
+        "C": "Diplomatic meetings held to solve urgent problems.",
+        "D": "Rapid changes in trade policies between two nations."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在文章脈絡中，「flashpoints」被描述為一系列可能使外交討論複雜化的緊張時刻，與前文提到的無人機、AI 爭議及禁令相關，意指突發的衝突點。選項 B 錯誤，此詞並非指技術突破。選項 C 錯誤，這不是指會議本身，而是指導致關係緊繃的事件。選項 D 雖然與貿易政策有關，但「flashpoints」更側重於衝突的「瞬間爆發性」與「緊張感」，而非僅僅是政策變動。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article regarding the new US robot import ban?",
+      "options": {
+        "A": "The ban is a technical measure intended to improve the safety of household appliances in the US.",
+        "B": "The ban is a strategic move by the US to prioritize national security and reduce reliance on foreign technology.",
+        "C": "The ban is a direct response to the failure of US companies to compete with Chinese innovation.",
+        "D": "The ban is a temporary measure that will be lifted after the upcoming summit between the US and China."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章核心在於美國政府透過限制外國機器人進口，試圖建立獨立的關鍵技術供應鏈，並將經濟安全視為國家安全的一部分。選項 A 錯誤，禁令不僅針對家用電器，更涉及國家安全。選項 C 錯誤，競爭力是背景因素，但非禁令的「主要目的」。選項 D 錯誤，文中並未提到禁令是暫時性的，也未表示會在峰會後解除，僅提到峰會是雙方關係緊張的背景。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
