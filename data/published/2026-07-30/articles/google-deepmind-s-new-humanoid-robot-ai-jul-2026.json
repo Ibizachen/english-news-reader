@@ -1,0 +1,152 @@
+{
+  "id": "2026-07-30-google-deepmind-s-new-humanoid-robot-ai",
+  "slug": "google-deepmind-s-new-humanoid-robot-ai-jul-2026",
+  "publishedAt": "2026-07-30T23:17:42.832078Z",
+  "category": "technology",
+  "title": "Google DeepMind Updates AI to Control Full Humanoid Robot Bodies",
+  "subtitle": "New software allows robots to move from feet to fingertips, marking a major step forward in complex task performance.",
+  "summary": {
+    "en": "Google DeepMind has released its latest AI model, Gemini Robotics 2, which can control an entire humanoid robot. This update allows robots to perform complex physical tasks like walking, crouching, and using their hands with high precision. The system also includes improved safety features to stop robots when people are nearby. Additionally, the new software can run locally on robots without needing an internet connection. This development represents a significant move toward robots that can handle real-world work in human environments.",
+    "zh": "Google DeepMind 發布了最新的 AI 模型 Gemini Robotics 2，能操控整個人形機器人。這次更新讓機器人能以高精確度執行行走、蹲下與運用手部等複雜的肢體任務。該系統也包含改進的安全功能，能在人類靠近時讓機器人停止運作。此外，新軟體可直接在機器人上執行，無需連接網路。這項發展代表機器人邁向能在人類環境中處理現實工作的重要一步。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Google DeepMind has announced a major update to its robotics technology that allows artificial intelligence to control the entire body of a humanoid robot. According to The Verge, the new model, called Gemini Robotics 2, marks a shift from previous versions that could only manage a robot’s upper body. Now, the AI can coordinate movements from a robot’s feet to its fingertips, enabling machines to walk, crouch, and stretch with much better control.",
+      "zh": "Google DeepMind 宣布其機器人技術有重大更新，讓人工智慧能操控人形機器人的全身。根據科技媒體 The Verge 報導，這款名為 Gemini Robotics 2 的新模型，標誌著技術從以往僅能管理機器人上半身的版本，邁向了新的階段。現在，人工智慧可以協調從機器人腳部到指尖的動作，使機器能以更優異的控制力進行行走、蹲下與伸展。"
+    },
+    {
+      "id": "p2",
+      "en": "This development is an important step forward for the robotics industry. As previously reported, the race to improve robot control and computing power has been a major focus for tech companies throughout 2026. While earlier models were limited in their physical reach, Gemini Robotics 2 allows robots to perform more complex, real-world tasks. Videos released by Google show the Apptronik Apollo 2 robot performing actions such as bending over to pick up a watering can and finding specific items on a shelf.",
+      "zh": "這項發展是機器人產業向前邁進的重要一步。正如先前報導，提升機器人控制能力與運算效能，一直是二〇二六年科技公司關注的重點。雖然早期的模型在肢體活動範圍上受限，但 Gemini Robotics 2 讓機器人能執行更複雜的現實任務。Google 發布的影片顯示，Apptronik Apollo 2 機器人能執行彎腰撿起澆水壺，以及在架上尋找特定物品等動作。"
+    },
+    {
+      "id": "p3",
+      "en": "Beyond basic movement, the update brings significant improvements to dexterity—the ability to use hands and fingers skillfully. The new model can control complex, five-fingered hands, allowing robots to perform delicate tasks. These include everyday chores like sealing a plastic bag, tying a trash bag, or even unscrewing a lightbulb. Google DeepMind noted that while there is still work to be done to increase movement speed, this update provides the necessary coordination for robots to function in more complicated environments.",
+      "zh": "除了基本動作外，這次更新也顯著提升了靈巧度，即運用手部與手指的熟練能力。新模型能控制複雜的五指手掌，讓機器人執行精細的任務。這些任務包括日常生活瑣事，例如密封塑膠袋、綁垃圾袋，甚至旋開燈泡。Google DeepMind 指出，雖然在提升動作速度方面仍有努力空間，但這次更新為機器人在更複雜的環境中運作，提供了必要的協調能力。"
+    },
+    {
+      "id": "p4",
+      "en": "Another key part of the announcement is the update to Gemini Robotics ER, or embodied reasoning. This is a vision-language model—a system that allows the robot to \"see\" and understand its surroundings while processing human instructions. The Verge reports that the new version, Gemini Robotics ER 2, is better at completing tasks over a long period. It now understands when a task begins and ends, which helps it stay focused on multi-step jobs. In one demonstration, the system showed how different types of robots can work together, with the Apollo 2 robot instructing a dual-arm machine to help clean a garage.",
+      "zh": "這項公告的另一個關鍵部分，是 Gemini Robotics ER（具身推理）的更新。這是一種視覺語言模型，能讓機器人在處理人類指令的同時「看見」並理解周遭環境。The Verge 報導稱，新版本 Gemini Robotics ER 2 在長時間執行任務的表現更佳。它現在能理解任務的起點與終點，有助於專注於多步驟的工作。在一項展示中，該系統呈現了不同類型的機器人如何協同合作，由 Apollo 2 機器人指揮雙臂機器人協助清理車庫。"
+    },
+    {
+      "id": "p5",
+      "en": "Safety remains a top priority as these machines become more capable. Google DeepMind claims that Gemini Robotics ER 2 is its safest model to date. The system is designed to detect when humans are nearby. If a person gets too close, the robot can trigger safety tools to bring itself to a complete stop. This feature is essential for robots that are intended to work in spaces shared with people.",
+      "zh": "隨著這些機器能力增強，安全性仍是首要考量。Google DeepMind 聲稱 Gemini Robotics ER 2 是其迄今最安全的模型。該系統設計用於偵測人類是否在附近，若有人太靠近，機器人便能觸發安全機制，讓自己完全停止運作。這項功能對於預計在與人類共用空間工作的機器人來說至關重要。"
+    },
+    {
+      "id": "p6",
+      "en": "Finally, the company has improved its Gemini Robotics On-Device Model. This version is designed to run locally on the robot itself, meaning it does not need a constant internet connection to function. According to The Verge, this model can now adapt to new robot bodies much faster than before, even if those robots have very different shapes, sensors, or movement capabilities. This flexibility is crucial for companies that want to use the same AI software across many different types of hardware.",
+      "zh": "最後，該公司改進了 Gemini Robotics 裝置端模型。此版本設計為在機器人本體上直接執行，意味著運作時不需要持續連接網路。根據 The Verge 報導，此模型現在能比以往更快適應新的機器人本體，即使這些機器人擁有截然不同的外型、感測器或運動能力。這種靈活性對於希望在多種硬體設備上使用相同人工智慧軟體的公司來說，至關重要。"
+    },
+    {
+      "id": "p7",
+      "en": "As the industry continues to evolve, these advancements suggest that humanoid robots are becoming more practical for daily use. By combining full-body control, better hand dexterity, and improved safety, Google DeepMind is moving closer to its goal of creating machines that can handle complex, real-world work alongside humans. While the technology still faces challenges regarding speed, the progress made in coordination and reasoning is a clear sign of how quickly the field of robotics is changing.",
+      "zh": "隨著產業持續演進，這些進展顯示人形機器人在日常使用上正變得更加實用。透過結合全身控制、更佳的手部靈巧度與提升的安全性，Google DeepMind 正朝著創造能與人類並肩處理複雜現實工作的機器人目標邁進。儘管該技術在速度上仍面臨挑戰，但在協調性與推理能力上的進步，清楚展現了機器人領域變化的速度之快。"
+    }
+  ],
+  "wordCount": 628,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "marks",
+      "definitionEn": "To indicate or represent a specific stage or turning point in a process.",
+      "definitionZh": "標誌著、象徵（某個階段或轉折點）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（分數、痕跡），這裡作動詞，表示一個重要的轉變。文中：According to The Verge, the new model, called Gemini Robotics 2, marks a shift from previous versions that could only manage a robot’s upper body."
+    },
+    {
+      "term": "run",
+      "definitionEn": "To operate or execute a computer program or software.",
+      "definitionZh": "執行、運作（電腦程式或軟體）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作動詞（跑步），這裡指軟體在機器上運作。文中：This version is designed to run locally on the robot itself, meaning it does not need a constant internet connection to function."
+    },
+    {
+      "term": "field",
+      "definitionEn": "A particular area of study or activity.",
+      "definitionZh": "領域、專業範圍。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作名詞（田野、球場），這裡指科技研究的領域。文中：While the technology still faces challenges regarding speed, the progress made in coordination and reasoning is a clear sign of how quickly the field of robotics is changing."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+      "publishedAt": "2026-07-30T17:18:45Z"
+    }
+  ],
+  "story": {
+    "id": "new-ai-models-and-robot-control",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "new-ai-models-and-robot-control-jul-2026",
+        "title": "The Future of Robotics and the Race for Computing Power",
+        "publishedAt": "2026-07-30T22:13:54.930143Z",
+        "category": "technology",
+        "summaryEn": "Google DeepMind has released a new AI model capable of controlling the entire body of humanoid robots. This update allows robots to perform complex tasks like picking up items and using their hands with better precision. Meanwhile, the European Union is launching a major plan to build seven AI gigafactories. This project aims to reduce Europe's dependence on foreign technology providers like the United States and China. The EU hopes these investments will help local businesses and researchers compete globally. Both developments highlight the rapid growth of artificial intelligence in physical and digital spaces."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the primary difference between the previous Google DeepMind robotics models and the new Gemini Robotics 2?",
+      "options": {
+        "A": "The new model is designed exclusively for industrial garage cleaning.",
+        "B": "The new model can control the entire body, whereas older versions were limited to the upper body.",
+        "C": "The new model no longer requires a vision-language system to operate.",
+        "D": "The new model can perform tasks at a much higher speed than previous versions."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第一段，Gemini Robotics 2 與舊版最大的不同在於它能控制機器人的全身，而不僅僅是上半身。選項 A 錯誤，因為車庫清潔只是演示範例而非唯一功能。選項 C 錯誤，文章第四段提到 ER 系統仍是關鍵。選項 D 錯誤，文章第三段明確指出目前在移動速度上仍有進步空間，並非其強項。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the information provided about the 'On-Device Model', what can be inferred about its benefit to businesses?",
+      "options": {
+        "A": "It allows robots to function entirely without the need for any sensors.",
+        "B": "It enables companies to use the same software across diverse hardware configurations.",
+        "C": "It forces companies to upgrade their internet infrastructure to support the AI.",
+        "D": "It ensures that robots can only be used by one specific manufacturer."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第六段，On-Device Model 的靈活性讓同一套 AI 軟體能快速適應不同形狀、感測器或移動能力的機器人，這對想在多種硬體上部署軟體的公司至關重要。選項 A 錯誤，文中提到它能適應不同的感測器，而非不需要感測器。選項 C 與原文相反，該模型不需要持續的網路連接。選項 D 錯誤，其設計目的正是為了跨硬體通用。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the third paragraph, what does the word 'dexterity' refer to?",
+      "options": {
+        "A": "The ability to move at very high speeds.",
+        "B": "The capacity to process human language instructions.",
+        "C": "The skill and ease in using hands and fingers.",
+        "D": "The safety protocols used to stop a robot near humans."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據上下文，作者在提到 dexterity 後緊接著解釋為「使用手和手指的技巧」，並舉例說明如密封塑膠袋或拆卸燈泡等動作。選項 A 錯誤，速度在文中是另一個討論點。選項 B 錯誤，這是「embodied reasoning」的功能。選項 D 錯誤，安全功能是在第五段討論的，與手部靈活度無關。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of this article?",
+      "options": {
+        "A": "Google DeepMind has successfully created robots that are faster than humans.",
+        "B": "The robotics industry is shifting away from humanoid designs toward simpler machines.",
+        "C": "Gemini Robotics 2 represents a significant advancement in making humanoid robots more practical for real-world tasks.",
+        "D": "Safety concerns are currently preventing the release of any new robotics technology."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章整體在介紹 Gemini Robotics 2 的各項更新（全身控制、靈活度、推理能力、離線運行），並在結尾總結這些進展使人形機器人更具實用性，能處理複雜的現實工作。選項 A 錯誤，文中提到速度仍是挑戰。選項 B 錯誤，文章強調的是人形機器人的進步。選項 D 錯誤，安全是優先考量，但並未阻止技術的發布與進步。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
