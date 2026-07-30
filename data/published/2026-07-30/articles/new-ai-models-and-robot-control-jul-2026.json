@@ -1,0 +1,155 @@
+{
+  "id": "2026-07-30-new-ai-models-and-robot-control",
+  "slug": "new-ai-models-and-robot-control-jul-2026",
+  "publishedAt": "2026-07-30T22:13:54.930143Z",
+  "category": "technology",
+  "title": "The Future of Robotics and the Race for Computing Power",
+  "subtitle": "New AI models improve robot movement while Europe invests billions to gain independence in technology.",
+  "summary": {
+    "en": "Google DeepMind has released a new AI model capable of controlling the entire body of humanoid robots. This update allows robots to perform complex tasks like picking up items and using their hands with better precision. Meanwhile, the European Union is launching a major plan to build seven AI gigafactories. This project aims to reduce Europe's dependence on foreign technology providers like the United States and China. The EU hopes these investments will help local businesses and researchers compete globally. Both developments highlight the rapid growth of artificial intelligence in physical and digital spaces.",
+    "zh": "Google DeepMind 發布了一款能操控人形機器人全身的新型人工智慧模型。此次更新讓機器人能以更高的精確度執行拾取物品與運用手部等複雜任務。與此同時，歐盟正啟動一項興建七座人工智慧超級工廠的重大計畫，旨在降低歐洲對美國與中國等外國技術供應商的依賴。歐盟希望這些投資能協助在地企業與研究人員在全球市場中競爭。這兩項發展皆凸顯了人工智慧在實體與數位空間中的快速成長。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The world of technology is changing quickly as artificial intelligence (AI) moves from computer screens into the physical world. Recently, Google DeepMind announced a major update to its Gemini Robotics model. This new version, Gemini Robotics 2, allows AI to control the entire body of a humanoid robot, from its feet to its fingertips. In the past, these models were mostly limited to controlling only the upper body. Now, robots can walk, crouch, and stretch, making them much more useful for real-world tasks.",
+      "zh": "隨著人工智慧（AI）從電腦螢幕走入實體世界，科技領域正經歷快速變革。近期，Google DeepMind 宣布其 Gemini 機器人模型進行了重大更新。這個名為 Gemini Robotics 2 的新版本，讓人工智慧能夠操控人形機器人的全身，從雙腳到指尖皆能靈活運用。過去，這類模型大多僅限於控制上半身。如今，機器人已能行走、蹲下並伸展，使其在處理現實任務時更具實用性。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Verge, this update improves how robots interact with their environment. Videos shared by the company show a robot named Apollo 2 picking up a watering can and taking items off a shelf. The model also supports better hand movement, allowing robots to perform delicate tasks like tying a trash bag or unscrewing a lightbulb. Additionally, the company updated its \"embodied reasoning\" model, which helps robots understand their surroundings and follow instructions. This new version is better at completing tasks over a long period and can even help different types of robots work together to clean a room.",
+      "zh": "根據科技媒體 The Verge 報導，此次更新改善了機器人與環境互動的方式。該公司分享的影片顯示，一台名為 Apollo 2 的機器人能拿起澆水壺，並從架子上取下物品。該模型亦支援更精細的手部動作，讓機器人能執行如綁垃圾袋或旋開燈泡等細緻任務。此外，該公司還更新了其「具身推理」模型，協助機器人理解周遭環境並執行指令。這個新版本在長時間執行任務的表現上更為出色，甚至能協助不同類型的機器人協同合作，共同完成清理房間的工作。"
+    },
+    {
+      "id": "p3",
+      "en": "Safety remains a top priority for developers. Google DeepMind noted that this is their safest robotics model yet. It can detect when humans are nearby and bring the robot to a safe stop if someone gets too close. Furthermore, the company improved its on-device model, which allows robots to work without an internet connection. This is important because it lets robots adapt quickly to different shapes and sensors without needing to send data to a central cloud server.",
+      "zh": "安全性仍是開發人員的首要考量。Google DeepMind 指出，這是他們迄今最安全的機器人模型。它能偵測周遭人類的動向，若有人靠得太近，便會讓機器人安全地停下。此外，該公司改進了裝置端模型，使機器人無需連接網路即可運作。這一點至關重要，因為它讓機器人能在不需將資料傳送至中央雲端伺服器的情況下，快速適應不同的外型與感測器。"
+    },
+    {
+      "id": "p4",
+      "en": "While companies like Google focus on physical robots, governments are looking at the massive computing power needed to run these advanced AI systems. On Thursday, the European Commission announced a plan to build seven \"AI gigafactories.\" These are large facilities designed to produce advanced AI processors, software, and energy-efficient data centers. The project aims to collect over €30 billion in funding, with €10 billion coming from the EU and its member states, and the remaining €20 billion from private investors.",
+      "zh": "當 Google 等企業專注於實體機器人時，各國政府正著眼於驅動這些先進人工智慧系統所需的龐大運算能力。週四，歐盟執委會宣布了一項興建七座「人工智慧超級工廠」的計畫。這些大型設施旨在生產先進的人工智慧處理器、軟體以及能源效率高的資料中心。該計畫目標籌集超過 300 億歐元的資金，其中 100 億歐元由歐盟及其成員國提供，其餘 200 億歐元則來自私人投資者。"
+    },
+    {
+      "id": "p5",
+      "en": "According to Deutsche Welle (DW), this move is a strategic necessity for Europe. Currently, the EU relies heavily on foreign technology from the United States and China. This dependence makes the bloc vulnerable to outside forces. For example, the report noted that US leaders have used their economic power to influence how the EU regulates technology, while China has limited the supply of important minerals needed for tech production. By building its own infrastructure, the EU hopes to gain \"computing independence\" and protect its businesses from risks.",
+      "zh": "根據德國之聲（DW）報導，此舉對歐洲而言是戰略上的必要之舉。目前，歐盟高度依賴來自美國與中國的國外技術。這種依賴使歐盟容易受到外部勢力的影響。例如，報導指出美國領導人曾利用經濟實力影響歐盟的技術監管方式，而中國則限制了科技生產所需的重要礦產供應。透過建立自己的基礎設施，歐盟希望獲得「運算自主權」，並保護其企業免受風險影響。"
+    },
+    {
+      "id": "p6",
+      "en": "The European High Performance Computing Joint Undertaking (EuroHPC JU) will manage these funds. Several major chipmakers, including AMD, Nvidia, and Qualcomm, have already signed letters of intent to provide the necessary hardware for these projects. Henna Virkkunen, the European Commission’s executive vice-president for Tech Sovereignty, Security and Democracy, called this plan a major milestone. She explained that having access to local computing power is essential as AI development continues to speed up across the globe.",
+      "zh": "歐洲高效能運算共同計畫（EuroHPC JU）將負責管理這些資金。包括超微（AMD）、輝達（Nvidia）與高通（Qualcomm）在內的多家大型晶片製造商，已簽署意向書，承諾為這些計畫提供必要的硬體。歐盟執委會負責技術主權、安全與民主的執行副主席薇庫寧（Henna Virkkunen）稱此計畫為一項重大里程碑。她解釋說，隨著人工智慧在全球的發展持續加速，取得在地運算能力至關重要。"
+    },
+    {
+      "id": "p7",
+      "en": "However, the path forward is not without challenges. The EU currently operates 19 data centers, but it hopes to triple this capacity within five to seven years. Competing with the US and China is difficult because energy costs in those regions are often much lower. A report presented to the EU Parliament warned that if the situation does not change, European businesses will continue to rely on foreign providers. This reliance could expose sensitive data to third-country access and threaten the stability of European services.",
+      "zh": "然而，前進的道路並非沒有挑戰。歐盟目前營運著 19 座資料中心，但希望在五到七年內將此產能增加至三倍。由於美國與中國的能源成本通常低得多，要在這些地區競爭相當困難。一份提交給歐洲議會的報告警告，若情況沒有改變，歐洲企業將持續依賴外國供應商。這種依賴可能會使敏感資料面臨被第三國存取的風險，並威脅到歐洲服務的穩定性。"
+    },
+    {
+      "id": "p8",
+      "en": "There is also a social side to this shift. While EU leaders are pushing for more technology, some citizens are worried about the social, economic, and environmental impact of these changes. In response, the European Commission has promised that all new technology will follow strict EU standards regarding data protection, safety, and security. As the world watches these developments, it is clear that the race for AI dominance is happening on two fronts: the physical movement of robots and the massive digital infrastructure required to power the future.",
+      "zh": "這項轉變也存在社會層面。儘管歐盟領導人正推動更多技術發展，但部分公民對這些變革帶來的社會、經濟與環境影響感到擔憂。對此，歐盟執委會承諾，所有新技術都將遵循歐盟在資料保護、安全與防護方面的嚴格標準。隨著全球關注這些發展，顯而易見的是，人工智慧主導權的競賽正從兩個面向同時展開：機器人的實體移動能力，以及驅動未來所需的龐大數位基礎設施。"
+    }
+  ],
+  "wordCount": 728,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "move",
+      "definitionEn": "An action or a step taken to achieve a specific goal or result.",
+      "definitionZh": "行動、舉措；為了達成目標所採取的步驟。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（移動），這裡作名詞，指一項策略性的行動。文中：According to Deutsche Welle (DW), this move is a strategic necessity for Europe."
+    },
+    {
+      "term": "fronts",
+      "definitionEn": "Different areas or aspects of an activity or a conflict.",
+      "definitionZh": "戰線、方面；指同時進行的不同領域或活動。",
+      "partOfSpeech": "noun (plural)",
+      "noteZh": "常見作名詞（前面），這裡指競爭或活動的不同領域。文中：As the world watches these developments, it is clear that the race for AI dominance is happening on two fronts: the physical movement of robots and the massive digital infrastructure required to power the future."
+    },
+    {
+      "term": "run",
+      "definitionEn": "To operate or manage a system, program, or machine.",
+      "definitionZh": "運作、管理；指執行程式或操作系統。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作動詞（跑步），這裡指操作或執行複雜的電腦系統。文中：While companies like Google focus on physical robots, governments are looking at the massive computing power needed to run these advanced AI systems."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+      "publishedAt": "2026-07-30T17:18:45Z"
+    },
+    {
+      "name": "Deutsche Welle (DW) Top",
+      "url": "https://www.dw.com/en/eu-aims-to-build-ai-gigafactories-of-its-own/a-78179533?maca=en-rss-en-top-1022-rdf",
+      "title": "EU aims to build AI gigafactories of its own",
+      "publishedAt": "2026-07-30T15:15:00Z"
+    }
+  ],
+  "story": {
+    "id": "new-ai-models-and-robot-control",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is a specific improvement in the Gemini Robotics 2 model compared to its predecessors?",
+      "options": {
+        "A": "It can now connect to the internet to perform more complex calculations.",
+        "B": "It has the ability to control a humanoid robot's entire body, including legs.",
+        "C": "It is designed specifically to work only with delicate items like lightbulbs.",
+        "D": "It can now be operated entirely by voice commands from a distance."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第一段，Gemini Robotics 2 的重大更新在於它能控制人形機器人的全身（從腳到指尖），而過去的型號主要限於上半身。選項 A 錯誤，因為文章第三段提到機器人現在能「不依賴網路」運作；選項 C 錯誤，因為雖然它能處理細緻任務，但這並非其唯一的改進；選項 D 在文中並未提及。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Why does the European Commission consider building its own 'AI gigafactories' a strategic necessity?",
+      "options": {
+        "A": "Because the EU currently lacks the necessary minerals to produce any technology.",
+        "B": "Because it wants to lower the energy costs for private investors in the region.",
+        "C": "Because relying on foreign tech makes the EU vulnerable to external political and economic pressure.",
+        "D": "Because the EU has more data centers than the United States and China combined."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第五段，歐盟依賴美中兩國的技術，這使得歐盟容易受到外部勢力影響（如美國的經濟影響力或中國對礦產的限制）。因此，建立自己的基礎設施是為了獲得「運算獨立」。選項 A 誇大了礦產問題；選項 B 文中提到能源成本高是挑戰，而非建立工廠的目的；選項 D 與文章第七段提到的歐盟目前僅有 19 個數據中心的事實不符。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fifth paragraph, what does the word 'vulnerable' mean as used in the context of the EU's reliance on foreign technology?",
+      "options": {
+        "A": "Easily harmed or influenced by outside forces.",
+        "B": "Physically weak and unable to perform tasks.",
+        "C": "Technologically advanced and modern.",
+        "D": "Secretive and difficult to understand."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在文章第五段中，作者提到對外國技術的依賴使歐盟變得「vulnerable」，意指容易受到外部勢力的干預或損害。這與後文提到美中兩國如何利用經濟或資源優勢來影響歐盟的決策相呼應。選項 B 指的是身體虛弱，不符合語境；選項 C 與原意相反；選項 D 與隱密性無關。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article regarding the current state of AI development?",
+      "options": {
+        "A": "AI development is primarily focused on making robots cheaper for household use.",
+        "B": "The EU is leading the global race in both robotics and AI hardware production.",
+        "C": "AI progress is advancing simultaneously through physical robotics and the development of large-scale digital infrastructure.",
+        "D": "The main obstacle to AI progress is the lack of interest from private investors."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章最後一段總結了全文的核心觀點，即 AI 的發展正同時在兩個戰線上進行：一是機器人的物理移動能力（如 Gemini Robotics 2），二是支撐未來的數位基礎設施（如歐盟的 AI gigafactories）。選項 A 只涵蓋了前半部分；選項 B 錯誤，因為歐盟目前仍在追趕美中；選項 D 與文章第四段提到的私人投資者願意投入 200 億歐元的事實相違背。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
