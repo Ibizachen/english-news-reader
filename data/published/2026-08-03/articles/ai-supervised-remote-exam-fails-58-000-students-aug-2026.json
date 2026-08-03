@@ -1,0 +1,146 @@
+{
+  "id": "2026-08-03-ai-supervised-remote-exam-fails-58-000-students",
+  "slug": "ai-supervised-remote-exam-fails-58-000-students-aug-2026",
+  "publishedAt": "2026-08-03T22:14:28.976560Z",
+  "category": "technology",
+  "title": "AI Exam System Failure Forces 58,000 Students to Retake Test",
+  "subtitle": "Mexico's largest university faces a major challenge after new remote testing software leads to unusual results.",
+  "summary": {
+    "en": "Nearly 160,000 students took a remote entrance exam for UNAM, Mexico's largest university, earlier this summer. The exam used new AI-powered software to watch students through their webcams. However, the results showed a strange and very large increase in high scores compared to previous years. Experts investigated the situation and concluded that the results were not reliable. Now, 58,000 students must take a new, in-person exam to ensure fairness for everyone. The university has apologized for the trouble this causes to honest students.",
+    "zh": "今年夏天稍早，近十六萬名學生參加了墨西哥規模最大的墨西哥國立自治大學的遠端入學考試。該考試使用新的人工智慧軟體透過網路攝影機監控學生。然而，結果顯示高分比例較往年出現了異常且巨大的增長。專家調查後得出結論，認為這些結果不可靠。目前，五萬八千名學生必須參加新的實體考試以確保公平。校方已為此對誠實學生造成的困擾致歉。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Earlier this summer, Mexico’s largest university, UNAM, faced a major problem with its entrance exam process. Nearly 160,000 students applied to the school, taking their tests from home for the first time. To prevent cheating, the university used a special browser that locks the computer and AI-powered software that watches students through their webcams. While the goal was to make the process easier and more secure, the outcome was described by many as a disaster.",
+      "zh": "今年夏天稍早，墨西哥規模最大的大學墨西哥國立自治大學（UNAM）在入學考試流程上遭遇了重大問題。近十六萬名學生報考該校，並首次在家中進行線上測驗。為了防止作弊，校方使用了一款能鎖定電腦的特殊瀏覽器，以及透過網路攝影機監控學生的人工智慧軟體。儘管校方的目標是讓考試過程更簡便且安全，但最終結果卻被許多人形容為一場災難。"
+    },
+    {
+      "id": "p2",
+      "en": "According to Ars Technica, the trouble began when the exam results were released. The scores were very different from what the university had seen in the past. Between 2021 and 2025, only about 3.5 percent of students scored 100 or more on the 120-question test. This year, that number jumped to 16.3 percent. The difference was even larger for the highest scores. In previous years, less than 1 percent of students scored 110 or higher, but this year, 5.5 percent reached that level. These unusual results led to widespread accusations of cheating.",
+      "zh": "根據科技新聞網站 Ars Technica 報導，問題在於考試結果公布後，成績與校方過去所見的情況大相逕庭。在二零二一年至二零二五年期間，一百二十題的測驗中，僅約百分之三點五的學生獲得一百分以上。然而今年，這個比例卻躍升至百分之十六點三。高分群的差距更為懸殊，往年僅不到百分之一的學生能拿到一百一十分以上，但今年卻有百分之五點五的學生達到此水準。這些異常的結果引發了各界對於作弊的廣泛指控。"
+    },
+    {
+      "id": "p3",
+      "en": "In response to the confusion, UNAM created a group of experts to investigate what went wrong. This group, which had a very long and formal name, spent time looking at the data and the testing process. After their review, they suggested that the university should hold a new, in-person test, which they called a “control exam.” A control exam is a test used to check the accuracy of previous results. The experts believe this is the only way to make sure the process is fair for all students.",
+      "zh": "針對這場混亂，墨西哥國立自治大學成立了一個專家小組來調查問題所在。這個擁有冗長且正式名稱的小組花費時間檢視了數據與考試流程。審查後，他們建議校方應舉辦一場新的實體測驗，並稱之為「對照考試」。對照考試是用來檢驗先前結果準確性的測驗。專家認為，這是確保所有學生考試過程公平的唯一途徑。"
+    },
+    {
+      "id": "p4",
+      "en": "This decision will affect a large number of people. According to Ars Technica, about 58,000 students will now have to take the test again in person. This includes everyone who earned a spot at the university based on the first test, as well as those who reached the minimum scores required for their specific programs since 2021. Because classes are scheduled to start on August 10, the university must move very quickly to organize these new tests. It is currently unclear if the school will choose to delay the start of the school year to give students enough time to prepare.",
+      "zh": "這項決定將影響眾多考生。根據 Ars Technica 報導，約有五萬八千名學生現在必須重新參加實體考試。這包括所有根據第一次考試成績獲得入學資格的學生，以及自二零二一年以來達到各系所最低錄取標準的考生。由於課程預計於八月十日開學，校方必須極為迅速地籌備這些新測驗。目前尚不清楚校方是否會選擇延後開學，以給予學生足夠的準備時間。"
+    },
+    {
+      "id": "p5",
+      "en": "The university’s leadership has acknowledged the difficulty of this situation. According to Gaceta UNAM, the university’s official news publication, the rector—the head of the university—offered an apology to the students who worked hard and played by the rules. He noted that it is very unfair that these honest students must now prepare for and take the exam a second time. However, the rector explained that the control exam is necessary to provide certainty and guarantee equity, which means making sure everyone has an equal and fair chance to succeed.",
+      "zh": "校方領導層已承認此情況的困難之處。根據墨西哥國立自治大學的官方新聞刊物《Gaceta UNAM》報導，校長向那些努力學習並遵守規則的學生表達了歉意。他指出，這些誠實的學生現在必須準備並參加第二次考試，這確實非常不公平。然而，校長解釋說，對照考試對於提供確定性並確保公平性是必要的，這意味著要確保每個人都有平等且公正的成功機會。"
+    },
+    {
+      "id": "p6",
+      "en": "This situation highlights the risks of moving traditional, high-stakes exams to remote, AI-supervised platforms. While technology can help monitor students from a distance, it can also create unexpected problems when the system does not work as planned. For the 58,000 students involved, the next few weeks will be a stressful time as they prepare to prove their knowledge once again. The university now faces the difficult task of managing this transition while trying to maintain its reputation for academic excellence. As the school works to fix the situation, many are watching to see how this will affect future entrance exams and the use of AI in education.",
+      "zh": "此事件凸顯了將傳統高風險考試轉移至遠端、由人工智慧監控平台的風險。雖然科技能協助遠端監控學生，但當系統運作不如預期時，也可能產生意想不到的問題。對於受影響的五萬八千名學生來說，接下來的幾週將是充滿壓力的時期，因為他們必須準備再次證明自己的實力。校方目前面臨艱鉅的任務，既要處理這次的轉變，又要設法維護其學術卓越的聲譽。隨著校方努力解決此問題，許多人都在關注這將如何影響未來的入學考試以及人工智慧在教育領域的應用。"
+    }
+  ],
+  "wordCount": 638,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "locks",
+      "definitionEn": "To prevent a computer from accessing other programs or functions.",
+      "definitionZh": "鎖定（電腦功能），限制使用者無法操作其他程式。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（鎖），這裡作動詞用。文中：To prevent cheating, the university used a special browser that locks the computer and AI-powered software that watches students through their webcams."
+    },
+    {
+      "term": "jumped",
+      "definitionEn": "To increase suddenly and by a large amount.",
+      "definitionZh": "（數值）突然大幅增加、暴增。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作動詞（跳躍），這裡指數據的急遽上升。文中：This year, that number jumped to 16.3 percent."
+    },
+    {
+      "term": "played by the rules",
+      "definitionEn": "To behave in an honest way and follow the established regulations.",
+      "definitionZh": "遵守規則、循規蹈矩。",
+      "partOfSpeech": "idiom",
+      "noteZh": "此片語由多個單字組成，字面意義與實際意義相符但用法固定。文中：the rector—the head of the university—offered an apology to the students who worked hard and played by the rules."
+    },
+    {
+      "term": "high-stakes",
+      "definitionEn": "Involving a high level of risk or having very important consequences.",
+      "definitionZh": "高風險的、攸關重大的。",
+      "partOfSpeech": "adjective",
+      "noteZh": "常用於描述賭博，這裡指考試結果對學生未來影響重大。文中：This situation highlights the risks of moving traditional, high-stakes exams to remote, AI-supervised platforms."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+      "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+      "publishedAt": "2026-08-03T19:00:50Z"
+    }
+  ],
+  "story": {
+    "id": "ai-supervised-remote-exam-fails-58-000-students",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is the primary reason that 58,000 students are required to retake the entrance exam?",
+      "options": {
+        "A": "They were caught cheating by the AI-powered software during the first exam.",
+        "B": "The university needs to verify the accuracy of the unexpectedly high scores from the remote test.",
+        "C": "The university's computer system crashed, causing many students to lose their original test data.",
+        "D": "The school year start date was delayed, allowing extra time for a second, more difficult exam."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，專家建議進行「控制考試」（control exam）是為了檢查先前考試結果的準確性，因為這次考試的高分人數比例異常偏高。選項 A 錯誤，文章並未指出這 58,000 名學生都被抓到作弊；選項 C 錯誤，文中提到的是分數異常，而非系統當機導致資料遺失；選項 D 錯誤，文中提到開學日期是否延後尚不明確，且重考是為了公平性而非為了增加難度。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the university's opinion on the remote testing process used this summer?",
+      "options": {
+        "A": "The university believes that AI-supervised testing is the most effective way to eliminate cheating.",
+        "B": "The university is confident that the remote test results were accurate despite the public backlash.",
+        "C": "The university views the transition to remote testing as a failed experiment that caused significant complications.",
+        "D": "The university plans to permanently replace all in-person exams with remote AI-supervised platforms."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。綜合文章第一段（稱結果為災難）與最後一段（提到移動到遠端平台帶來的風險與意外問題），可以推論校方認為這次嘗試並不成功。選項 A 錯誤，文中並未說這能完全消除作弊；選項 B 錯誤，校方正透過重考來質疑這些結果；選項 D 錯誤，文章最後一段提到此事件凸顯了風險，並未表示要全面取代傳統考試，反而顯示出對未來的擔憂。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fifth paragraph, what does the word 'equity' mean in the context of the rector's statement?",
+      "options": {
+        "A": "The quality of being fair and impartial.",
+        "B": "The total value of shares in a company.",
+        "C": "The possession of special knowledge or skill.",
+        "D": "The financial cost of organizing a new event."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在第五段中，校長提到重考是為了提供「certainty and guarantee equity」，並補充解釋為「making sure everyone has an equal and fair chance to succeed」，因此 equity 在此處是指公平與公正。選項 B 是財經術語（股權）；選項 C 與文中提到的公平機會無關；選項 D 雖然重考有成本，但 equity 本身並非指財務成本。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of this article?",
+      "options": {
+        "A": "The technical challenges of implementing AI software in large-scale university entrance exams.",
+        "B": "The controversy surrounding the cheating scandals at Mexico's largest university.",
+        "C": "The difficulties students face when preparing for high-stakes university entrance exams.",
+        "D": "The complications and risks of using remote, AI-supervised systems for high-stakes academic testing."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。文章透過 UNAM 的案例，探討了將高風險考試移至遠端 AI 監控平台所帶來的意外後果與挑戰，這涵蓋了從考試結果異常到必須重考的整個過程。選項 A 太窄，只聚焦在技術面；選項 B 只聚焦在作弊爭議，忽略了校方的處理與反思；選項 C 則偏離了重點，文章重點在於系統的失敗而非學生的備考困難。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
