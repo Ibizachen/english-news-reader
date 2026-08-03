@@ -1,0 +1,165 @@
+{
+  "id": "2026-08-03-danube-drought-threatens-nuclear-power-plants",
+  "slug": "danube-drought-threatens-nuclear-power-plants-aug-2026",
+  "publishedAt": "2026-08-03T23:18:27.321118Z",
+  "category": "energy",
+  "title": "Danube Drought Forces Emergency Measures at Nuclear Plants",
+  "subtitle": "Record-low water levels in Europe’s vital river lead to military operations and power shortages across the region.",
+  "summary": {
+    "en": "Record-low water levels in the Danube River have forced Romania and Hungary to reduce nuclear power production. Romania’s military used explosives to redirect water toward its Cernavodǎ plant. Hungary is managing its Paks facility at a fraction of its normal capacity to avoid a total shutdown. Both nations are asking industries and citizens to cut electricity use to prevent a wider energy crisis. Officials warn that the situation remains serious with no significant rain expected soon.",
+    "zh": "多瑙河水位降至歷史新低，迫使羅馬尼亞與匈牙利削減核能發電。羅馬尼亞軍方使用炸藥將河水引向切爾納沃德核電廠。匈牙利則讓帕克什核電廠以低於正常產能的狀態運作，以避免全面停機。兩國皆要求產業與民眾削減用電，以防止能源危機擴大。官員警告，由於短期內預計不會有顯著降雨，情勢依然嚴峻。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "A severe drought across Central and Eastern Europe has pushed the Danube River to record-low water levels, creating a dangerous energy crisis. As the river continues to dry up, Romania and Hungary are struggling to keep their nuclear power plants running. These facilities rely on the Danube for cooling—a process where water is used to keep the reactor from getting too hot. Without enough water, the plants cannot operate safely.",
+      "zh": "中歐與東歐地區遭遇嚴重乾旱，導致多瑙河水位降至歷史新低，引發了危險的能源危機。隨著河水持續枯竭，羅馬尼亞與匈牙利正竭力維持其核電廠的運作。這些設施仰賴多瑙河進行冷卻，即利用河水防止反應爐過熱。若缺乏足夠的水量，電廠將無法安全運作。"
+    },
+    {
+      "id": "p2",
+      "en": "In Romania, the government took an extreme step to protect the Cernavodǎ nuclear plant, which provides about one-fifth of the country's electricity. According to The Guardian, the Romanian navy used 180 kilograms of explosives to destroy a rocky area in the riverbed. This operation aimed to redirect water toward the channel that feeds the plant. Defense Minister Radu Miruțǎ stated that the mission was a success, noting that the cost of the explosion was much lower than the value of the electricity produced by the plant. However, officials warned that if this effort does not provide enough water, the facility might have to close completely by Thursday.",
+      "zh": "在羅馬尼亞，政府採取了極端手段以保護供應全國約五分之一電力的切爾納沃德（Cernavodǎ）核電廠。根據《衛報》（The Guardian）報導，羅馬尼亞海軍動用了 180 公斤的炸藥炸毀河床的一處岩石區。此行動旨在將水流引向供應電廠的河道。國防部長米魯察（Radu Miruțǎ）表示任務成功，並指出爆破成本遠低於電廠所產電力之價值。然而，官員警告若此舉仍無法提供足夠水量，該設施最快可能在週四被迫全面停工。"
+    },
+    {
+      "id": "p3",
+      "en": "Hungary is facing a similar struggle at its Paks nuclear power station. This plant is vital to the country, as it normally generates nearly half of Hungary's electricity. Deutsche Welle reports that the plant is currently running at only a small fraction of its total capacity. While Prime Minister Péter Magyar initially warned of a total shutdown, he later shared more hopeful news, stating that the plant could continue to operate at a reduced level for a few more days. This reprieve is crucial, as it helps the country avoid a complete loss of power during a time of high energy demand.",
+      "zh": "匈牙利的帕克什（Paks）核電廠也面臨類似困境。該電廠對國家至關重要，通常供應匈牙利近半數的電力。德國之聲（Deutsche Welle）報導指出，該電廠目前僅以極低產能運作。雖然總理馬札爾（Péter Magyar）起初警告可能全面停機，但他隨後分享了較樂觀的消息，表示電廠能以減產狀態再維持運作幾天。這段緩衝期至關重要，有助於國家在能源需求高漲之際，避免電力完全中斷。"
+    },
+    {
+      "id": "p4",
+      "en": "To keep the power grid stable, both governments have asked for help from the public and private sectors. In Hungary, the government requested that citizens use less electricity, and they even stopped electric freight trains to save energy. Major companies are also playing a role; for example, the pharmaceutical company Richter announced it would cut its electricity use by more than 50% over the next three weeks. In Romania, caretaker Prime Minister Ilie Bolojan confirmed that major car manufacturers like Dacia and Ford have agreed to stop production until August 19 to help save power.",
+      "zh": "為維持電網穩定，兩國政府皆向公私部門尋求協助。匈牙利政府要求民眾減少用電，甚至停駛電動貨運列車以節省能源。大型企業也參與其中，例如製藥公司里奇特（Richter）宣布將在未來三週內削減超過 50% 的用電量。在羅馬尼亞，看守總理博洛揚（Ilie Bolojan）證實，達契亞（Dacia）與福特（Ford）等大型汽車製造商已同意停產至 8 月 19 日，以協助節省電力。"
+    },
+    {
+      "id": "p5",
+      "en": "The situation is also affecting other energy sources. In Serbia, the Iron Gate hydroelectric plant—which uses the flow of water to create electricity—is operating at only 20% of its normal capacity. Prime Minister Djuro Macut held an emergency meeting on Monday to discuss the crisis. He urged residents to minimize the use of heavy energy consumers, such as air conditioners, to prevent the grid from failing.",
+      "zh": "此情況也影響了其他能源來源。在塞爾維亞，利用水流發電的鐵門（Iron Gate）水力發電廠目前僅以正常產能的 20% 運作。總理馬楚特（Djuro Macut）於週一召開緊急會議討論危機，並呼籲居民盡量減少使用冷氣等高耗能電器，以防止電網崩潰。"
+    },
+    {
+      "id": "p6",
+      "en": "Experts and officials are concerned because there is little sign of relief. According to Deutsche Welle, weather forecasts show no significant rainfall for the coming days or even weeks. Because the Danube flows through ten different countries, the low water levels are causing problems far beyond just power generation. The lack of water is also making it difficult for ships to transport goods, which could lead to further economic issues.",
+      "zh": "專家與官員對此感到憂心，因為目前幾乎沒有緩解跡象。根據德國之聲報導，天氣預報顯示未來數日甚至數週內都不會有顯著降雨。由於多瑙河流經十個國家，低水位造成的影響遠不止於發電問題。缺水也導致船隻運輸貨物困難，這可能引發進一步的經濟問題。"
+    },
+    {
+      "id": "p7",
+      "en": "As the region faces this challenging period, leaders are emphasizing the need for cooperation. The Hungarian Prime Minister noted that coordinated steps and self-restraint from the public are essential to avoid more severe consequences. While the immediate danger of a total blackout has been pushed back for now, the long-term outlook remains uncertain. Both Romania and Hungary are currently relying on expensive power imports to fill the gap left by their reduced nuclear production. For now, the focus remains on managing the limited water supply and hoping that the current energy-saving measures will be enough to keep the lights on until conditions improve.",
+      "zh": "隨著該地區面臨此艱難時期，領導人強調了合作的必要性。匈牙利總理指出，協調一致的行動與民眾的自我克制，對於避免更嚴重的後果至關重要。雖然全面大停電的立即威脅暫時解除，但長期前景仍不明朗。羅馬尼亞與匈牙利目前皆仰賴昂貴的電力進口，以填補核能減產後的缺口。現階段，重點仍放在管理有限的水資源，並期盼目前的節能措施足以維持供電，直到情況好轉。"
+    }
+  ],
+  "wordCount": 684,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "pushed",
+      "definitionEn": "To force a situation or a system into a specific, often difficult, state or condition.",
+      "definitionZh": "迫使（某種情況或系統）進入某種狀態。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作物理上的「推」，這裡指迫使河流進入極端狀態。文中：A severe drought across Central and Eastern Europe has pushed the Danube River to record-low water levels, creating a dangerous energy crisis."
+    },
+    {
+      "term": "feeds",
+      "definitionEn": "To supply something (like water or electricity) to a machine or system.",
+      "definitionZh": "供應、輸送（水或電力等）給機器或系統。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作「餵食」，這裡指輸送水源。文中：This operation aimed to redirect water toward the channel that feeds the plant."
+    },
+    {
+      "term": "reprieve",
+      "definitionEn": "A temporary escape from an unpleasant situation or a delay in an impending negative event.",
+      "definitionZh": "暫時的緩解、喘息機會。",
+      "partOfSpeech": "noun",
+      "noteZh": "原意指「緩刑」，這裡指暫時避免了停電的危機。文中：This reprieve is crucial, as it helps the country avoid a complete loss of power during a time of high energy demand."
+    },
+    {
+      "term": "fill the gap",
+      "definitionEn": "To provide something that is missing or to compensate for a shortage.",
+      "definitionZh": "填補空缺、彌補不足。",
+      "partOfSpeech": "idiom",
+      "noteZh": "字面上是填補縫隙，這裡指彌補電力生產減少的缺口。文中：Both Romania and Hungary are currently relying on expensive power imports to fill the gap left by their reduced nuclear production."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Environment",
+      "url": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary",
+      "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
+      "publishedAt": "2026-08-03T14:40:22Z"
+    },
+    {
+      "name": "Deutsche Welle (DW) Top",
+      "url": "https://www.dw.com/en/dry-danube-river-threatens-nuclear-power-in-romania-hungary/a-78223402?maca=en-rss-en-top-1022-rdf",
+      "title": "Dry Danube River threatens nuclear power in Romania, Hungary",
+      "publishedAt": "2026-08-03T17:59:00Z"
+    }
+  ],
+  "story": {
+    "id": "drought-stricken-danube-threatens-nuclear-power",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "drought-stricken-danube-threatens-nuclear-power-aug-2026",
+        "title": "Drought on the Danube: Nuclear Power Plants Face Energy Crisis",
+        "publishedAt": "2026-08-03T22:14:28.976560Z",
+        "category": "energy",
+        "summaryEn": "Record-low water levels in the Danube River are threatening the operation of nuclear power plants in Romania and Hungary. Both countries rely on the river to cool their reactors, but the lack of water has forced them to reduce production. Romania recently used explosives to redirect water toward its Cernavodǎ plant to prevent a total shutdown. Meanwhile, Hungary is asking citizens to use less electricity to avoid a wider energy crisis. Officials warn that without rain, the situation may remain difficult for several weeks."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What specific action did Romania take to ensure the Cernavodǎ nuclear power plant could continue operating?",
+      "options": {
+        "A": "They imported electricity from neighboring countries to supplement the plant's output.",
+        "B": "They used explosives to modify the riverbed to redirect water flow.",
+        "C": "They forced major car manufacturers to shut down production indefinitely.",
+        "D": "They requested that the public significantly reduce their electricity consumption."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，羅馬尼亞政府為了保護 Cernavodǎ 核電廠，動用了海軍並使用 180 公斤的炸藥炸毀河床上的岩石，目的是將水流引導至冷卻水道。選項 A 雖然文章最後一段提到有進口電力，但並非針對該電廠的直接操作；選項 C 是節能手段而非保護電廠冷卻系統的手段；選項 D 也是節能措施，與炸毀河床以維持冷卻運作的具體細節不同。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the information provided, why is the drought in the Danube region considered a potential threat to the broader economy beyond just energy?",
+      "options": {
+        "A": "The lack of water is causing the nuclear reactors to overheat and explode.",
+        "B": "Governments are spending all their national budgets on explosives for riverbed maintenance.",
+        "C": "Reduced water levels hinder the transportation of goods by ship.",
+        "D": "The region has completely stopped all industrial production, leading to mass unemployment."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第六段，多瑙河水位過低不僅影響發電，還導致船隻無法運輸貨物，這將引發進一步的經濟問題。選項 A 誇大了危險，文章提到的是電廠可能被迫關閉，而非爆炸；選項 B 錯誤，儘管有炸藥支出，但並未提到這會耗盡國家預算；選項 D 錯誤，文章僅提到部分車廠暫停生產至 8 月 19 日，並非所有工業都停止，也未提及失業問題。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the third paragraph, what does the word 'reprieve' mean as used in the context of the Paks nuclear power station?",
+      "options": {
+        "A": "A temporary relief or delay from an unpleasant situation.",
+        "B": "A permanent solution to a long-standing technical problem.",
+        "C": "A financial penalty imposed for failing to meet energy targets.",
+        "D": "A sudden increase in the production capacity of the plant."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在文章第三段中，'reprieve' 指的是匈牙利 Paks 核電廠得以在減量運作的情況下多維持幾天，暫時避免了全面關閉的命運。這是一種暫時的緩解或延遲。選項 B 不對，因為這只是暫時的，並非永久解決方案；選項 C 與罰款無關；選項 D 錯誤，因為電廠是在「減量」運作，而非產能突然增加。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article regarding the energy situation in Central and Eastern Europe?",
+      "options": {
+        "A": "The drought has permanently destroyed the region's ability to generate nuclear power.",
+        "B": "Governments have successfully solved the energy crisis through military intervention.",
+        "C": "The region is facing a critical energy shortage due to drought, requiring urgent cooperation and conservation.",
+        "D": "The Danube River is no longer a reliable source of energy and should be abandoned for other power sources."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章整體討論了多瑙河乾旱對核電與水力發電的嚴重衝擊，並強調各國政府透過節能措施、企業合作與公眾配合來應對危機，同時指出長期的不確定性。選項 A 錯誤，文章並未說「永久」毀壞；選項 B 錯誤，軍事行動只是其中一個手段，危機並未完全解決；選項 D 錯誤，文中並未建議放棄多瑙河作為能源來源。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
