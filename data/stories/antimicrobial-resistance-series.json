@@ -1,0 +1,37 @@
+{
+  "id": "antimicrobial-resistance-series",
+  "title": "The Silent Pandemic: Understanding Antimicrobial Resistance",
+  "subtitle": "An in-depth look at the global crisis of drug-resistant infections and the future of modern medicine.",
+  "description": "Antimicrobial resistance (AMR) threatens to undo a century of medical progress. This series examines the scientific, economic, and policy dimensions of this global health challenge.",
+  "category": "public-health",
+  "status": "active",
+  "updatedAt": "2026-08-03T04:28:59.700484Z",
+  "cadence": "5-part reading path. Complete series available.",
+  "articles": [
+    {
+      "slug": "antimicrobial-resistance-series-part-1",
+      "label": "Part 1",
+      "note": "Explaining the biological mechanism of resistance and the historical context of antibiotic discovery."
+    },
+    {
+      "slug": "antimicrobial-resistance-series-part-2",
+      "label": "Part 2",
+      "note": "Identifying the roles of pharmaceutical companies, agricultural sectors, and international health bodies."
+    },
+    {
+      "slug": "antimicrobial-resistance-series-part-3",
+      "label": "Part 3",
+      "note": "Examining recent international agreements and the 'One Health' approach."
+    },
+    {
+      "slug": "antimicrobial-resistance-series-part-4",
+      "label": "Part 4",
+      "note": "The impact of drug-resistant infections on healthcare systems and global productivity."
+    },
+    {
+      "slug": "antimicrobial-resistance-series-part-5",
+      "label": "Part 5",
+      "note": "Emerging technologies and the future of infection control."
+    }
+  ]
+}

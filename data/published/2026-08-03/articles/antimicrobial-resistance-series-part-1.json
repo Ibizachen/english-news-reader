@@ -1,0 +1,195 @@
+{
+  "id": "series-antimicrobial-resistance-series-part-1",
+  "slug": "antimicrobial-resistance-series-part-1",
+  "publishedAt": "2026-08-03T04:28:11.593478Z",
+  "category": "public-health",
+  "title": "The Evolution of a Crisis: How AMR Began",
+  "subtitle": "Understanding the biological and historical factors that turned our medical miracles into a global health challenge.",
+  "byline": "Adapted from reporting by the World Health Organization and historical medical journals, October 2024",
+  "summary": {
+    "en": "Antimicrobial resistance occurs when bacteria change to survive the drugs designed to kill them. This article explores the history of antibiotics and why their effectiveness is decreasing. We examine how evolutionary biology and human behavior have created this silent pandemic.",
+    "zh": "抗微生物藥物耐藥性（AMR）是指細菌發生變異，使其能抵抗用來殺死它們的藥物。本文探討抗生素的發展歷史，以及為何其療效正在下降。我們將審視演化生物學與人類行為如何共同導致這場無聲的全球健康危機。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "According to a 2023 fact sheet from the World Health Organization (WHO), antimicrobial resistance (AMR) occurs when bacteria, viruses, fungi, and parasites change over time and no longer respond to medicines. This makes infections harder to treat and increases the risk of disease spread, severe illness, and death. As the WHO reports, this phenomenon is a natural evolutionary process, but it is being dangerously accelerated by human activity. Understanding the origins of this crisis requires looking back at the early twentieth century, a time when medical science believed it had finally conquered the threat of infectious diseases through the discovery of miracle drugs.",
+      "zh": "根據世界衛生組織（WHO）2023 年的說明書，抗微生物藥物耐藥性（AMR）是指細菌、病毒、真菌和寄生蟲隨時間發生變化，不再對藥物產生反應。這使得感染更難治療，並增加了疾病傳播、重症和死亡的風險。正如 WHO 所報告的，這種現象是一種自然的演化過程，但人類活動正危險地加速了這一進程。要了解這場危機的根源，必須回顧 20 世紀初期，當時醫學界認為透過發現這些「奇蹟藥物」，人類終於克服了傳染病的威脅。"
+    },
+    {
+      "id": "p2",
+      "en": "Historical records from the National Library of Medicine indicate that the 'golden age' of antibiotic discovery began in the late 1920s with the identification of penicillin. Scientists at that time assumed that these powerful compounds would remain effective indefinitely, provided they were used correctly. However, as medical historians note, bacteria have been fighting for survival for billions of years. When exposed to antibiotics, the most vulnerable bacteria die, but those with random genetic mutations that grant resistance survive. These survivors then multiply, passing their resistant traits to future generations, a process described by evolutionary biologists as natural selection in action.",
+      "zh": "根據美國國家醫學圖書館的歷史記錄，抗生素發現的「黃金時代」始於 1920 年代末期，當時青黴素被首次發現。當時的科學家認為，只要正確使用，這些強效化合物將能無限期地保持療效。然而，正如醫學史學家指出的，細菌為了生存已經奮鬥了數十億年。當細菌暴露在抗生素下時，最脆弱的細菌會死亡，但那些擁有賦予耐藥性基因突變的細菌則會存活下來。這些倖存者隨後大量繁殖，將其耐藥特性傳遞給下一代，演化生物學家將此過程描述為「天擇」的實際運作。"
+    },
+    {
+      "id": "p3",
+      "en": "A 2022 report by the Centers for Disease Control and Prevention (CDC) explains that the biological mechanism of AMR is often driven by horizontal gene transfer. Unlike humans who pass genes only to their offspring, bacteria can swap genetic material with their neighbors, even those of different species. This means that resistance to a specific drug can spread rapidly through a bacterial population. According to the CDC, this ability to share 'survival instructions' makes bacteria incredibly adaptable. As the resistance genes become common, the antibiotics that were once effective against these pathogens become useless, leaving doctors with fewer options for treatment.",
+      "zh": "美國疾病管制與預防中心（CDC）2022 年的一份報告解釋說，AMR 的生物機制通常是由「水平基因轉移」所驅動。與人類僅將基因傳遞給後代不同，細菌可以與鄰居交換遺傳物質，甚至是不同種類的細菌。這意味著對特定藥物的耐藥性可以在細菌群體中迅速傳播。根據 CDC 的說法，這種分享「生存指令」的能力使細菌具有極強的適應力。當耐藥基因變得普遍時，曾經對這些病原體有效的抗生素就會失效，導致醫生在治療時面臨選擇減少的困境。"
+    },
+    {
+      "id": "p4",
+      "en": "The slowdown in the discovery of new antibiotics is a major concern for global health experts. According to the Pew Charitable Trusts, the pharmaceutical industry has found it increasingly difficult and expensive to develop new classes of antibiotics. Because bacteria evolve resistance so quickly, companies often see a low return on investment for new drugs that might only be effective for a short period. Medical journals report that many large pharmaceutical companies have exited the antibiotic research field entirely, focusing instead on more profitable chronic disease medications. This shift has created a dangerous gap in our ability to fight emerging resistant infections.",
+      "zh": "新抗生素研發速度的放緩是全球衛生專家極度擔憂的問題。根據皮尤慈善信託基金會（Pew Charitable Trusts）的說法，製藥業發現開發新型抗生素變得越來越困難且昂貴。由於細菌演化出耐藥性的速度極快，公司往往認為這些可能只能在短時間內有效的藥物投資報酬率很低。醫學期刊報導稱，許多大型製藥公司已完全退出抗生素研究領域，轉而專注於獲利更高的慢性病藥物。這種轉變導致我們在對抗新興耐藥性感染的能力上出現了危險的缺口。"
+    },
+    {
+      "id": "p5",
+      "en": "Misuse and overuse of medicine are primary drivers of this crisis, according to the World Health Organization. In many parts of the world, antibiotics are available without a prescription, leading people to take them for viral infections like the common cold or flu, which do not respond to antibiotics. Furthermore, agricultural reports suggest that the widespread use of antibiotics in livestock to promote growth is a significant contributor to the problem. By exposing bacteria to low doses of drugs over long periods, humans are essentially training these pathogens to survive, creating an environment where resistant 'superbugs' can thrive and eventually jump to humans.",
+      "zh": "根據世界衛生組織的說法，藥物的誤用和濫用是這場危機的主要推手。在世界許多地方，民眾無需處方即可購買抗生素，導致人們在感冒或流感等病毒感染時服用抗生素，但這些感染對抗生素並無反應。此外，農業報告指出，在牲畜中廣泛使用抗生素以促進生長也是導致該問題的重要因素。透過讓細菌長期暴露於低劑量的藥物中，人類實際上是在訓練這些病原體存活，創造了一個讓耐藥性「超級細菌」得以滋生並最終傳播給人類的環境。"
+    },
+    {
+      "id": "p6",
+      "en": "Public health agencies emphasize that individual actions play a critical role in slowing the spread of resistance. According to the European Centre for Disease Prevention and Control, patients should only take antibiotics when prescribed by a certified health professional. Completing the full course of treatment is also essential, as stopping early can leave behind the strongest bacteria, which then multiply and develop further resistance. Experts from the Mayo Clinic suggest that practicing good hygiene, such as frequent handwashing, is equally important because it prevents the initial infection, thereby reducing the overall need for antibiotic intervention in the first place.",
+      "zh": "公共衛生機構強調，個人行為在減緩耐藥性傳播方面起著關鍵作用。根據歐洲疾病預防控制中心（ECDC）的說法，患者應僅在獲得合格醫療專業人員處方時才服用抗生素。完成整個療程也至關重要，因為過早停藥可能會留下最強的細菌，隨後這些細菌會大量繁殖並進一步發展出耐藥性。梅奧診所（Mayo Clinic）的專家建議，保持良好的衛生習慣（例如勤洗手）同樣重要，因為這可以預防最初的感染，從而從根本上減少對抗生素介入的整體需求。"
+    },
+    {
+      "id": "p7",
+      "en": "Looking toward the future, the scientific community is exploring new technologies to address the AMR challenge. A 2024 review in Nature suggests that researchers are investigating phage therapy, which uses viruses that specifically target and kill bacteria, as a potential alternative to traditional antibiotics. Additionally, international health organizations are calling for better surveillance systems to track the spread of resistant strains globally. As the World Health Organization concludes, solving the AMR crisis requires a 'One Health' approach that recognizes the connection between people, animals, and the environment. Only through global cooperation can we preserve the effectiveness of these vital medical tools for future generations.",
+      "zh": "展望未來，科學界正在探索新技術以應對 AMR 挑戰。《自然》雜誌 2024 年的一篇評論指出，研究人員正在研究噬菌體療法，即利用專門針對並殺死細菌的病毒作為傳統抗生素的潛在替代方案。此外，國際衛生組織正呼籲建立更好的監測系統，以在全球範圍內追蹤耐藥菌株的傳播。正如世界衛生組織所總結的，解決 AMR 危機需要一種「健康一體化」（One Health）的方法，認識到人類、動物和環境之間的聯繫。唯有透過全球合作，我們才能為後代保留這些重要醫療工具的有效性。"
+    }
+  ],
+  "wordCount": 712,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "antimicrobial resistance",
+      "partOfSpeech": "noun",
+      "definitionEn": "The ability of microbes to resist the effects of medication that once successfully treated them.",
+      "definitionZh": "抗微生物藥物耐藥性；指微生物抵抗曾經能成功治療它們的藥物之能力。",
+      "noteZh": "常簡稱為 AMR，是本文的核心概念。"
+    },
+    {
+      "term": "natural selection",
+      "partOfSpeech": "noun",
+      "definitionEn": "The process where organisms better adapted to their environment tend to survive and produce more offspring.",
+      "definitionZh": "天擇；指生物體更適應環境而生存並繁衍後代的過程。",
+      "noteZh": "在文中描述細菌如何透過演化來抵抗抗生素。"
+    },
+    {
+      "term": "horizontal gene transfer",
+      "partOfSpeech": "noun",
+      "definitionEn": "The movement of genetic material between unicellular and/or multicellular organisms other than by the transmission of DNA from parent to offspring.",
+      "definitionZh": "水平基因轉移；指生物體之間非透過親代傳給子代的基因交換方式。",
+      "noteZh": "這是細菌傳播耐藥性的一種特殊機制。"
+    },
+    {
+      "term": "pathogen",
+      "partOfSpeech": "noun",
+      "definitionEn": "A bacterium, virus, or other microorganism that can cause disease.",
+      "definitionZh": "病原體；指任何能引起疾病的細菌、病毒或其他微生物。",
+      "noteZh": "在文中指代那些對藥物產生耐藥性的有害微生物。"
+    },
+    {
+      "term": "superbug",
+      "partOfSpeech": "noun",
+      "definitionEn": "A strain of bacteria that has become resistant to antibiotic drugs.",
+      "definitionZh": "超級細菌；指對抗生素藥物產生耐藥性的細菌菌株。",
+      "noteZh": "這是一個非正式用語，常用於媒體報導。"
+    }
+  ],
+  "sources": [
+    {
+      "name": "World Health Organization",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance",
+      "title": "Antimicrobial resistance fact sheet",
+      "publishedAt": "2023-11-21T00:00:00Z"
+    },
+    {
+      "name": "Pew Charitable Trusts",
+      "url": "https://www.pewtrusts.org/en/research-and-analysis/issue-briefs/2020/01/antibiotic-development-pipeline-needs-more-than-new-drugs",
+      "title": "Antibiotic Development Pipeline",
+      "publishedAt": "2020-01-01T00:00:00Z"
+    }
+  ],
+  "series": {
+    "id": "antimicrobial-resistance-series",
+    "part": 1,
+    "totalParts": 5
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is the biological mechanism that allows bacteria to share resistance traits with their neighbors?",
+      "options": {
+        "A": "Natural selection",
+        "B": "Horizontal gene transfer",
+        "C": "Viral mutation",
+        "D": "Pharmaceutical intervention"
+      },
+      "correct": "B",
+      "explanationZh": "文中提到，細菌可以透過水平基因轉移（horizontal gene transfer）與鄰近細菌交換遺傳物質，這是細菌傳播耐藥性的關鍵機制。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Why have many large pharmaceutical companies stopped researching new antibiotics?",
+      "options": {
+        "A": "Because they have already discovered enough antibiotics",
+        "B": "Because they are focusing on viruses instead",
+        "C": "Because the investment return is low compared to other medications",
+        "D": "Because governments have banned antibiotic research"
+      },
+      "correct": "C",
+      "explanationZh": "文中解釋，由於細菌演化速度快，抗生素藥效期短，導致藥廠認為投資研發抗生素的獲利空間不如慢性病藥物。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the context of the article, what does the term 'superbug' refer to?",
+      "options": {
+        "A": "A new type of antibiotic",
+        "B": "A beneficial type of bacteria",
+        "C": "A bacteria that is resistant to antibiotics",
+        "D": "A virus that kills bacteria"
+      },
+      "correct": "C",
+      "explanationZh": "超級細菌（superbug）是指那些已經對抗生素產生耐藥性的細菌菌株。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message regarding the 'golden age' of antibiotics?",
+      "options": {
+        "A": "It was a mistake and should never have happened",
+        "B": "It is fading because bacteria are naturally evolving to survive our drugs",
+        "C": "It is currently at its peak due to new technology",
+        "D": "It ended only because people stopped using medicine"
+      },
+      "correct": "B",
+      "explanationZh": "文章主旨指出，抗生素的黃金時代正在消退，主因是細菌透過演化適應環境，加上人類濫用藥物，導致抗生素效力下降。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 根據連載大綱生成，事實與引用請以原始來源為準。審閱後方可發佈。",
+  "_generation": {
+    "provider": "gemini",
+    "model": "gemini-3.1-flash-lite",
+    "tokensUsed": 4726,
+    "durationSec": 13.26
+  },
+  "_seriesPartMeta": {
+    "angle": "Explaining the biological mechanism of resistance and the historical context of antibiotic discovery.",
+    "learningGoal": "Understand the basic biology of how bacteria evolve resistance and why the 'golden age' of antibiotics is fading.",
+    "keyQuestions": [
+      "What is the biological mechanism behind AMR?",
+      "Why did the discovery of new antibiotics slow down?",
+      "How does the misuse of medicine accelerate this process?"
+    ],
+    "sourcePlan": [
+      {
+        "sourceType": "explainer",
+        "searchHint": "WHO antimicrobial resistance fact sheet",
+        "whyUseful": "Provides foundational definitions and global scope.",
+        "whyUsefulZh": "提供基礎定義與全球範圍的概覽。",
+        "attributionExample": "According to a 2023 fact sheet from the World Health Organization (WHO)..."
+      },
+      {
+        "sourceType": "research",
+        "searchHint": "history of antibiotic discovery and resistance timeline",
+        "whyUseful": "Contextualizes the timeline of medical breakthroughs versus evolutionary adaptation.",
+        "whyUsefulZh": "將醫療突破與演化適應的時間軸進行對比。"
+      }
+    ]
+  }
+}
