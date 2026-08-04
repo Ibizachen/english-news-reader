@@ -1,0 +1,139 @@
+{
+  "id": "2026-08-04-texas-limits-data-centers-due-to-power-grid-strain",
+  "slug": "texas-limits-data-centers-due-to-power-grid-strain-aug-2026",
+  "publishedAt": "2026-08-04T22:14:21.888029Z",
+  "category": "energy",
+  "title": "Texas Pauses New Data Center Power Connections",
+  "subtitle": "The state is slowing down growth to protect its electricity grid from record-breaking demand.",
+  "summary": {
+    "en": "Texas has officially paused new power grid connections for data centers. Governor Greg Abbott ordered a review of all current projects to ensure the state's electricity supply remains stable. The rapid growth of artificial intelligence has led to a massive increase in requests for power. Officials are worried that the current demand could overwhelm the grid. Experts predict that total electricity needs in Texas could double by 2032.",
+    "zh": "德州已正式暫停資料中心連接電網的新申請。州長艾波特下令審查所有現行計畫，以確保該州電力供應維持穩定。人工智慧的快速成長導致電力需求激增，官員擔心目前的用電需求可能使電網不堪負荷。專家預測，德州的總電力需求到了 2032 年可能會翻倍。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Texas has long been a top destination for technology companies looking to build large data centers. These facilities are the physical buildings that house the servers and computers needed to run the internet and modern artificial intelligence (AI). However, the state is now hitting the brakes. According to Ars Technica, Governor Greg Abbott recently announced a moratorium—a temporary stop—on all new connections to the state’s power grid for these projects. This pause will remain in place until developers can prove that their plans will not harm the local power supply or the communities where they are built.",
+      "zh": "德州長期以來一直是科技公司尋求興建大型資料中心的首選之地。這些設施是容納網際網路與現代人工智慧運作所需伺服器及電腦的實體建築。然而，該州目前正踩下煞車。根據科技新聞網站 Ars Technica 報導，州長艾波特（Greg Abbott）近期宣布，暫停所有新開發案連接至該州的電力網。這項暫停措施將持續實施，直到開發商能證明其計畫不會損害當地電力供應或興建地點的社區為止。"
+    },
+    {
+      "id": "p2",
+      "en": "This decision marks a major change in direction for the state. For years, Texas has worked hard to attract tech companies by offering cheap land, low taxes, and fewer regulations. These efforts were very successful, and Texas was recently named a leader in AI development. The state was on its way to becoming the largest market for data centers in the United States, even passing Virginia, which currently holds the top spot. However, the rapid growth of AI has created a new problem: these facilities require an enormous amount of electricity to stay cool and keep their computers running 24 hours a day.",
+      "zh": "這項決定標誌著德州政策方向的重大轉變。多年來，德州透過提供廉價土地、低稅率以及較少的法規，致力於吸引科技公司進駐。這些努力相當成功，德州近期更被譽為人工智慧發展的領頭羊。該州原本正邁向成為美國最大的資料中心市場，甚至有望超越目前位居榜首的維吉尼亞州。然而，人工智慧的快速成長帶來了新問題：這些設施需要消耗極為龐大的電力，以維持冷卻系統運作並確保電腦全天候運轉。"
+    },
+    {
+      "id": "p3",
+      "en": "According to Ars Technica, the Electric Reliability Council of Texas (ERCOT), which manages the state’s power grid, is currently facing a massive number of requests. There are more than 1,800 projects waiting to connect to the grid. Together, these projects ask for over 474 gigawatts of power. To put that number in perspective, it is more than five times the highest amount of electricity Texas has ever used at one time. About 90 percent of these requests come from data center developers. Governor Abbott’s office stated that this huge increase in energy demand could put the reliability and stability of the Texas electric grid at risk.",
+      "zh": "根據 Ars Technica 報導，負責管理該州電網的德州電力可靠度委員會（ERCOT）目前面臨海量的申請案件。共有超過 1,800 個開發案排隊等待連接電網，總計需求超過 474 吉瓦（GW）的電力。若以具體數據來衡量，這相當於德州有史以來最高單一時刻用電量的五倍以上。其中約 90% 的申請來自資料中心開發商。艾波特州長辦公室指出，能源需求的激增可能會危及德州電網的可靠性與穩定性。"
+    },
+    {
+      "id": "p4",
+      "en": "Because of this, the Governor has ordered the Public Utility Commission of Texas and ERCOT to perform a full audit. This means they will carefully check every single project currently in the waiting line to see if it is truly necessary and how it will affect the grid. While many of these 1,800 projects might never actually be built, the sheer volume of requests is a major concern for energy planners. Even without every project moving forward, experts are worried about the future. According to The Texas Tribune, ERCOT forecasts that the total demand for electricity across the state could double by the year 2032. This growth is driven by both the rise of data centers and other factors in the state’s economy.",
+      "zh": "有鑑於此，州長已下令德州公用事業委員會與德州電力可靠度委員會進行全面審查。這意味著他們將仔細檢視目前排隊中的每一個開發案，以確認其是否確實必要，以及將如何影響電網。雖然這 1,800 個開發案中，許多可能永遠不會真正動工，但龐大的申請數量已成為能源規劃者的一大隱憂。即便並非所有計畫都會推動，專家仍對未來感到擔憂。根據《德州論壇報》（The Texas Tribune）報導，德州電力可靠度委員會預測，全州的總電力需求到了 2032 年可能會翻倍。這種成長是由資料中心的興起以及該州經濟的其他因素所共同驅動。"
+    },
+    {
+      "id": "p5",
+      "en": "This situation highlights the difficult balance between economic growth and basic infrastructure. Texas has been very successful at adding new ways to create power, such as wind and solar farms, but the demand from the tech industry is growing much faster than the supply. The state’s power grid is unique because it operates mostly on its own, separate from the rest of the United States. This means Texas cannot easily \"borrow\" extra electricity from neighboring states during times of high demand. Because of this, the grid must be managed very carefully to avoid blackouts.",
+      "zh": "此一情況凸顯了經濟成長與基礎建設之間難以平衡的困境。德州在增加風力與太陽能發電場等新發電方式上表現卓越，但科技產業的需求成長速度遠快於供應速度。德州的電網相當獨特，因為它主要獨立運作，與美國其他地區的電網互不相連。這意味著德州無法在需求高峰期輕易地從鄰近州「借用」額外電力。因此，必須非常謹慎地管理電網，以避免發生停電。"
+    },
+    {
+      "id": "p6",
+      "en": "For now, developers must wait while the state reviews the situation. The goal is to make sure that the growth of the AI industry does not come at the expense of reliable power for homes and businesses. The outcome of this audit will likely shape how Texas handles large-scale technology projects for years to come. It serves as a reminder that even in a state known for its abundant energy resources, there are physical limits to how much power can be produced and delivered at any given time. As the state moves forward, officials will need to find a way to support the tech boom without putting the basic needs of Texas residents in danger.",
+      "zh": "目前，開發商必須在州政府審查期間耐心等待。其目標是確保人工智慧產業的成長，不會以犧牲住家與企業的穩定供電為代價。此次審查的結果，很可能會影響德州未來多年處理大型科技專案的方式。這也提醒了人們，即便是在以能源資源豐富著稱的州，電力生產與輸送在任何特定時間點仍存在物理極限。隨著該州持續發展，官員們必須找到一種方法，在支持科技熱潮的同時，不讓德州居民的基本需求陷入危險。"
+    }
+  ],
+  "wordCount": 685,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "hitting the brakes",
+      "definitionEn": "To slow down or stop an activity or process.",
+      "definitionZh": "踩煞車；減緩或停止某項活動。",
+      "partOfSpeech": "idiom",
+      "noteZh": "字面意思是開車踩煞車，這裡比喻政策上的暫停。文中：However, the state is now hitting the brakes."
+    },
+    {
+      "term": "house",
+      "definitionEn": "To provide space for something; to contain.",
+      "definitionZh": "容納；為……提供空間。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（房子），這裡作動詞用，指建築物容納設備。文中：These facilities are the physical buildings that house the servers and computers needed to run the internet and modern artificial intelligence (AI)."
+    },
+    {
+      "term": "at the expense of",
+      "definitionEn": "In a way that causes harm or loss to something else.",
+      "definitionZh": "以……為代價；犧牲……。",
+      "partOfSpeech": "idiom",
+      "noteZh": "容易誤以為與金錢支出有關，這裡指犧牲某事物來換取另一事物。文中：The goal is to make sure that the growth of the AI industry does not come at the expense of reliable power for homes and businesses."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+      "title": "Texas halts data center connections to power grid amid overwhelming demand",
+      "publishedAt": "2026-08-04T20:34:28Z"
+    }
+  ],
+  "story": {
+    "id": "texas-limits-data-centers-due-to-power-grid-strain",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is the primary reason for the moratorium on new data center power connections in Texas?",
+      "options": {
+        "A": "The state has run out of land to build new data centers.",
+        "B": "The massive energy demand from these projects threatens the stability of the power grid.",
+        "C": "Data center developers have failed to pay their required taxes to the state.",
+        "D": "The state government wants to prioritize wind and solar energy projects over AI."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第三段明確指出，Governor Abbott 的辦公室表示，能源需求的巨大增長可能使德州的電力網穩定性面臨風險。選項 A 錯誤，因為文章提到德州原本以低廉土地吸引企業；選項 C 在文中並未提及；選項 D 雖然提到風能與太陽能，但那是作為電力來源，而非政府優先排擠數據中心的理由。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the information provided, why is the Texas power grid particularly vulnerable compared to other states?",
+      "options": {
+        "A": "It relies exclusively on solar power, which is unreliable at night.",
+        "B": "It has the highest number of data centers in the United States.",
+        "C": "It operates independently and cannot easily import electricity from other states.",
+        "D": "It is currently undergoing a full audit that has shut down all existing power plants."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第五段，德州的電網是獨立運作的，與美國其他地區隔離，這意味著它無法在需求高峰時從鄰近州「借用」電力。選項 A 文中未提及；選項 B 錯誤，文章提到德州正試圖超越維吉尼亞州，而非已經是第一；選項 D 錯誤，審計是針對新申請案，而非關閉現有電廠。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the first paragraph, what does the phrase 'hitting the brakes' mean in the context of the state's actions?",
+      "options": {
+        "A": "Physically damaging the infrastructure of data centers.",
+        "B": "Slowing down or pausing the approval of new projects.",
+        "C": "Reducing the speed of internet connections for AI companies.",
+        "D": "Canceling all existing contracts with technology firms."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在此語境下，「hitting the brakes」是一個隱喻，用來形容德州政府採取行動來減緩或暫停新數據中心連接電網的進度。選項 A 過於字面解讀；選項 C 與文章內容無關；選項 D 錯誤，文章提到的是暫停（moratorium）新申請，而非取消所有現有合約。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article regarding the growth of the AI industry in Texas?",
+      "options": {
+        "A": "Texas has successfully solved all its energy problems through wind and solar power.",
+        "B": "The AI industry is no longer welcome in Texas due to strict new regulations.",
+        "C": "The state must carefully manage the conflict between industrial growth and the basic energy needs of its residents.",
+        "D": "Data centers are the only reason why Texas will face a power shortage by 2032."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。全文核心在於探討德州如何平衡經濟發展（AI 數據中心）與基礎設施（電力網穩定性）之間的矛盾。選項 A 與文意相反；選項 B 太過絕對，政府只是暫停審核而非禁止；選項 D 錯誤，文中提到 2032 年的需求成長是由數據中心及其他經濟因素共同驅動的，並非唯一原因。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
