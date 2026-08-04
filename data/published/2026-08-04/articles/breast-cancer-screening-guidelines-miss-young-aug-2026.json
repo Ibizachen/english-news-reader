@@ -1,79 +1,86 @@
 {
   "id": "2026-08-04-breast-cancer-screening-guidelines-miss-young",
   "slug": "breast-cancer-screening-guidelines-miss-young-aug-2026",
-  "publishedAt": "2026-08-04T22:14:21.888029Z",
+  "publishedAt": "2026-08-04T23:17:26.182398Z",
   "category": "health",
-  "title": "Breast Cancer Screening Guidelines May Miss Many Young Women",
-  "subtitle": "New research suggests current methods for identifying high-risk patients under 50 need a serious update.",
+  "title": "New Research Calls for Changes to Breast Cancer Screening for Young Women",
+  "subtitle": "Current guidelines in England may miss 95% of young women who will develop the disease, according to a new study.",
   "summary": {
-    "en": "New research shows that current medical guidelines in England fail to identify most young women at risk of breast cancer. The existing system relies heavily on family history, which misses many patients who later develop the disease. Experts from the University of Cambridge and the Institute of Cancer Research suggest that new, more detailed assessment tools are needed. While these tools could save lives through early detection, they also present challenges regarding costs and medical resources. Health officials are now facing calls to review and improve these screening criteria.",
-    "zh": "最新研究顯示，英國目前的醫療準則未能識別出大多數有乳癌風險的年輕女性。現行系統過度依賴家族病史，導致許多後來發病的患者被遺漏。來自劍橋大學與癌症研究所的專家建議，需要採用更詳細的新型評估工具。雖然這些工具能透過早期發現來挽救生命，但也帶來了成本與醫療資源方面的挑戰。衛生官員目前正面臨要求檢討並改善這些篩檢標準的呼聲。"
+    "en": "Recent research suggests that current medical guidelines for breast cancer screening in England are not effective for women under 50. The study shows that the existing system misses nearly all young women who will later develop the disease. Experts argue that the current focus on family history is too narrow. Researchers suggest that new, more detailed assessment tools could help find high-risk patients earlier. However, officials warn that implementing these changes will require balancing costs and medical resources.",
+    "zh": "近期研究指出，英國目前的乳癌篩檢醫療指導方針對五十歲以下女性並不有效。研究顯示，現行系統幾乎漏掉了所有未來會罹患此病的年輕女性。專家認為，目前過度聚焦於家族病史的作法過於狹隘。研究人員建議，採用更新且更詳盡的評估工具，有助於更早發現高風險病患。然而，官員警告，落實這些變革將需要權衡成本與醫療資源。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "A new study has raised serious concerns about how doctors identify young women who are at risk of developing breast cancer. According to research from the University of Cambridge and the Institute of Cancer Research (ICR), the current guidelines used by family doctors in England miss as many as 95% of women under 50 who will develop the disease within a decade. These findings, published in the British Journal of Cancer, have led to urgent calls for a review of how medical professionals assess cancer risk.",
-      "zh": "一項新研究對醫師如何識別年輕女性罹患乳癌風險的方式提出了嚴重疑慮。根據劍橋大學 (University of Cambridge) 與癌症研究所 (Institute of Cancer Research, ICR) 的研究，英國家庭醫師目前所使用的準則，遺漏了高達百分之九十五、將在十年內罹患此病的五十歲以下女性。這些發表於《英國癌症期刊》(British Journal of Cancer) 的研究結果，引發了各界緊急呼籲，要求重新檢視醫療專業人員評估癌症風險的方式。"
+      "en": "New research has highlighted a significant gap in how breast cancer risk is identified in young women. According to The Guardian Health, the current guidelines used by family doctors in England fail to spot 95% of women under 50 who will go on to develop the disease within a decade. This finding has led to urgent calls for a review of how medical professionals assess risk and decide who needs further testing or specialist care.",
+      "zh": "一項新研究凸顯出在辨識年輕女性罹患乳癌風險方面存在顯著落差。根據《衛報健康版》（The Guardian Health）報導，英國家庭醫師目前所採用的指導方針，無法篩檢出百分之九十五在十年內會罹患此病的五十歲以下女性。這項發現引發了緊急呼籲，要求重新檢視醫療專業人員評估風險的方式，以及判定哪些人需要進一步檢查或專科照護的標準。"
     },
     {
       "id": "p2",
-      "en": "Breast cancer is the most common form of cancer globally. It is also a leading cause of death for women under 50. In England, family doctors—often called GPs—use specific criteria set by the National Institute for Health and Care Excellence (Nice) to decide if a patient should be sent to a specialist for further testing. These guidelines are designed to help doctors find women who have a higher chance of getting the disease so that they can receive early treatment or preventive care.",
-      "zh": "乳癌是全球最常見的癌症類型，也是五十歲以下女性的主要死因。在英國，家庭醫師（通常稱為全科醫師）會使用由國家健康與照顧卓越研究院 (National Institute for Health and Care Excellence, Nice) 所制定的特定標準，來決定是否應將病患轉診給專科醫師進行進一步檢查。這些準則旨在協助醫師找出罹病機率較高的女性，以便她們能及早接受治療或預防性照護。"
+      "en": "Breast cancer is the most common form of cancer globally and remains a leading cause of death for women under 50. Currently, doctors in England follow criteria set by the National Institute for Health and Care Excellence (Nice) to decide which patients should receive extra screening. These guidelines rely heavily on a person’s family history of the disease. However, the study from the University of Cambridge and the Institute of Cancer Research (ICR) suggests that this approach is no longer enough to protect younger patients.",
+      "zh": "乳癌是全球最常見的癌症類型，也是五十歲以下女性的主要死因之一。目前，英國醫師遵循「國家健康與照護卓越研究院」（Nice）所制定的標準，來決定哪些病患應接受額外篩檢。這些指導方針過度依賴個人的家族病史。然而，來自劍橋大學（University of Cambridge）與癌症研究所（ICR）的研究指出，這種方式已不足以保護年輕病患。"
     },
     {
       "id": "p3",
-      "en": "However, the study suggests that the current system is not working as well as it should. The primary problem is that the Nice guidelines focus heavily on family history. If a woman does not have relatives who have had breast cancer, she is less likely to be referred for further checks. The research found that nearly three-quarters of women under 50 who develop breast cancer within 10 years have no family history of the disease at all. Because the current system relies so much on family background, it fails to spot the vast majority of women who are actually at risk.",
-      "zh": "然而，該研究指出目前的系統運作不如預期。主要問題在於 Nice 的準則過度依賴家族病史。如果一名女性沒有罹患乳癌的親屬，她被轉診進行進一步檢查的可能性就較低。研究發現，在十年內罹患乳癌的五十歲以下女性中，近四分之三完全沒有家族病史。由於目前的系統過於仰賴家族背景，導致它無法找出絕大多數真正處於風險中的女性。"
+      "en": "The research, published in the British Journal of Cancer, found that 73% of women under 50 who develop breast cancer have no family history of the disease at all. Because the current system focuses so much on family history, it ignores the majority of young women who are at risk. Dr. Juliet Usher-Smith from the University of Cambridge explained that the medical community needs to improve how it identifies these women. By finding those at high risk earlier, doctors have more options to treat the disease or even prevent it from starting.",
+      "zh": "這項發表於《英國癌症期刊》（British Journal of Cancer）的研究發現，百分之七十三罹患乳癌的五十歲以下女性，完全沒有家族病史。由於現行系統過於側重家族病史，導致大多數處於風險中的年輕女性被忽略。劍橋大學的厄舍-史密斯醫師（Dr. Juliet Usher-Smith）解釋，醫療界必須改善辨識這些女性的方式。透過更早找出高風險族群，醫師將有更多選擇來治療疾病，甚至預防疾病發生。"
     },
     {
       "id": "p4",
-      "en": "To test the effectiveness of the current rules, researchers compared them with a new risk assessment system called Boadicea. This system, which was funded by Cancer Research UK, looks at a much wider range of factors. Instead of just looking at family history, it considers a woman’s reproductive history, her lifestyle, and her genetics. When the researchers used this new tool, they were able to identify eight times as many women in the same age group who were at a higher-than-average risk of developing breast cancer.",
-      "zh": "為了測試現行規則的有效性，研究人員將其與一套名為 Boadicea 的新風險評估系統進行比較。這套由英國癌症研究協會 (Cancer Research UK) 資助的系統，考量的因素範圍廣泛得多。它不僅僅關注家族病史，還納入了女性的生育史、生活型態與基因遺傳。當研究人員使用這項新工具時，他們在同一年齡層中，成功識別出罹患乳癌風險高於平均水準的女性人數，是原本的八倍之多。"
+      "en": "To address this, researchers compared the current Nice guidelines with a new risk assessment system called Boadicea. This system, funded by Cancer Research UK, looks at a wider range of factors, including a woman’s lifestyle, reproductive history, and genetics. When using this new method, experts were able to identify eight times as many women in the younger age group who were likely to develop breast cancer. This suggests that a more detailed approach could significantly improve early detection rates.",
+      "zh": "為了改善此問題，研究人員將現行的 Nice 指導方針與一套名為 Boadicea 的新型風險評估系統進行比較。這套由「英國癌症研究協會」（Cancer Research UK）資助的系統，考量了更廣泛的因素，包括女性的生活型態、生育史及遺傳基因。使用這種新方法時，專家能辨識出的高風險年輕女性人數是過去的八倍。這顯示更詳盡的評估方式能顯著提升早期發現率。"
     },
     {
       "id": "p5",
-      "en": "Dr. Juliet Usher-Smith, from the University of Cambridge, explained why this matters. She noted that doctors need to be better at finding women at the highest risk. By identifying these women earlier, medical teams have more options to treat the disease or even prevent it from developing in the first place. She stated that because the current Nice criteria miss so many women, it is time to look at these rules again in light of the new evidence.",
-      "zh": "來自劍橋大學的尤瑟-史密斯博士 (Dr. Juliet Usher-Smith) 解釋了這項研究的重要性。她指出，醫師需要更有效地找出風險最高的女性。透過更早識別出這些女性，醫療團隊將有更多選擇來治療疾病，甚至從一開始就預防其發生。她表示，由於目前的 Nice 標準遺漏了太多女性，現在是根據這些新證據重新檢視規則的時候了。"
+      "en": "Despite these promising results, experts acknowledge that changing the system is not simple. Prof. Montserrat García-Closas of the ICR noted that there is a difficult balance to strike. While the current Nice criteria are easy for doctors to use in a busy office, they miss many women who are at an elevated risk—meaning a higher chance of developing the disease. On the other hand, using a full risk assessment that includes genetic testing would place a heavy burden on the healthcare system’s limited resources.",
+      "zh": "儘管研究結果令人振奮，專家也承認改變系統並非易事。癌症研究所的賈西亞-克洛薩斯教授（Prof. Montserrat García-Closas）指出，這其中存在難以拿捏的平衡。雖然現行的 Nice 標準讓醫師在繁忙的門診中容易操作，但卻漏掉了許多風險較高（意即罹病機率較大）的女性。另一方面，若採用包含基因檢測在內的全面風險評估，將會對醫療體系有限的資源造成沉重負擔。"
     },
     {
       "id": "p6",
-      "en": "While the findings are promising, experts warn that changing the system will not be simple. Prof. Montserrat García-Closas, from the ICR, pointed out that there is a difficult balance to strike. She explained that while the current Nice criteria are easy for doctors to use, they are not accurate enough. On the other hand, a more detailed system that includes genetic testing would require a lot of time, money, and medical resources. She described the situation as a trade-off between the practical costs of collecting data and the potential benefits of catching the disease earlier.",
-      "zh": "儘管研究結果令人期待，但專家警告改變系統並非易事。來自癌症研究所的加西亞-克洛薩斯教授 (Prof. Montserrat García-Closas) 指出，這兩者之間存在難以取得的平衡。她解釋說，雖然目前的 Nice 標準對醫師而言易於使用，但準確度不足。另一方面，一套包含基因檢測且更為詳盡的系統，則需要投入大量的時間、資金與醫療資源。她將此情況描述為在收集數據的實際成本，與及早發現疾病的潛在效益之間進行權衡。"
+      "en": "Ultimately, the decision to update these guidelines will involve a trade-off. Health officials must weigh the practical costs of collecting more data against the potential benefits of catching cancer earlier. Dr. Simon Vincent, chief scientific officer at Breast Cancer Now, stated that finding new ways to identify women at increased risk is vital. He believes that better detection could lead to more successful treatments and save lives.",
+      "zh": "歸根究柢，更新這些指導方針的決定將涉及取捨。衛生官員必須權衡收集更多數據的實際成本，與更早發現癌症的潛在效益。乳癌防治組織「Breast Cancer Now」的科學長文森特博士（Dr. Simon Vincent）表示，尋找辨識高風險女性的新方法至關重要。他相信更完善的檢測能帶來更成功的治療，並挽救生命。"
     },
     {
       "id": "p7",
-      "en": "Dr. Simon Vincent, the chief scientific officer at the charity Breast Cancer Now, which supported the study, agreed that the findings are important. He suggested that finding better ways to identify women at increased risk could help detect cancers at a stage when treatment is much more likely to be successful. He emphasized that early detection is a key part of improving survival rates for young women.",
-      "zh": "支持這項研究的慈善機構「乳癌現在」(Breast Cancer Now) 的科學長文森博士 (Dr. Simon Vincent) 同意這些發現至關重要。他建議，找到更好的方法來識別風險增加的女性，有助於在治療成功率較高的階段檢測出癌症。他強調，早期發現是提高年輕女性存活率的關鍵。"
+      "en": "This study follows recent reports about a rise in cancer cases among younger people. As previously covered, researchers at the Washington University School of Medicine have been studying why cancer is becoming more common in those under 50. Their work suggests that younger generations may be experiencing faster biological aging, which could be a factor in the rise of these diseases. Together, these findings point to a growing need for medical guidelines that better reflect the realities of health for younger adults.",
+      "zh": "這項研究延續了近期關於年輕族群癌症病例增加的報導。如先前所述，華盛頓大學醫學院（Washington University School of Medicine）的研究人員一直在探討為何癌症在五十歲以下族群中變得更為普遍。他們的研究顯示，年輕世代可能經歷了較快的生物性老化，這可能是導致疾病增加的因素之一。綜合這些發現，醫療界愈發需要能更真實反映年輕成人健康狀況的指導方針。"
     },
     {
       "id": "p8",
-      "en": "As the medical community discusses these findings, the focus remains on how to best protect patients. The debate highlights the tension between using simple, quick tools and investing in more complex, accurate assessments. For now, the research serves as a clear reminder that current screening methods may need to evolve to keep up with our growing understanding of cancer risks. Whether or not the guidelines will be updated remains to be seen, but the call for change is growing louder among health experts.",
-      "zh": "隨著醫學界討論這些研究結果，焦點仍放在如何妥善保護病患。這場辯論凸顯了在運用簡單、快速的工具，與投資更複雜、精確的評估方式之間所存在的拉鋸。目前，這項研究清楚提醒我們，現行的篩檢方法或許需要演進，才能跟上我們對癌症風險日益增長的認知。這些準則是否會更新仍有待觀察，但衛生專家要求改革的呼聲正日益高漲。"
+      "en": "As the debate continues, the focus remains on how to provide the best care without overwhelming the medical system. For now, the call for a review of the Nice criteria remains a top priority for researchers who hope to turn these findings into better patient outcomes. The goal is to ensure that young women are not left behind by outdated screening methods, giving them the best possible chance to fight the disease before it becomes a serious threat.",
+      "zh": "隨著辯論持續進行，焦點仍是如何在不拖垮醫療體系的前提下提供最佳照護。目前，要求重新檢視 Nice 標準的呼聲，仍是研究人員的首要任務，他們希望能將這些發現轉化為更好的病患預後。目標是確保年輕女性不會因過時的篩檢方法而被遺漏，讓她們在疾病演變成嚴重威脅前，擁有對抗疾病的最佳機會。"
     }
   ],
-  "wordCount": 756,
+  "wordCount": 724,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
-      "term": "miss",
-      "definitionEn": "To fail to notice, identify, or include someone or something.",
-      "definitionZh": "遺漏、未察覺。",
+      "term": "spot",
+      "definitionEn": "To notice or identify someone or something, especially when it is difficult to see.",
+      "definitionZh": "發現、辨識出（尤指難以察覺的事物）。",
       "partOfSpeech": "verb",
-      "noteZh": "常見作「錯過」（如錯過火車），這裡指醫生未能診斷出病患。文中：the current guidelines used by family doctors in England miss as many as 95% of women under 50 who will develop the disease within a decade."
+      "noteZh": "常見作名詞（斑點），這裡作動詞用。文中：the current guidelines used by family doctors in England fail to spot 95% of women under 50 who will go on to develop the disease within a decade."
     },
     {
       "term": "strike",
       "definitionEn": "To achieve or find a balance between two opposing things.",
       "definitionZh": "達成（平衡）。",
       "partOfSpeech": "verb",
-      "noteZh": "常見作「打擊」，這裡與 balance 連用，指在兩者間取得平衡。文中：Prof. Montserrat García-Closas, from the ICR, pointed out that there is a difficult balance to strike."
+      "noteZh": "常見作動詞（打擊），這裡與 balance 連用，指取得平衡。文中：Prof. Montserrat García-Closas of the ICR noted that there is a difficult balance to strike."
     },
     {
-      "term": "trade-off",
-      "definitionEn": "A situation where you must accept less of one thing in order to have more of another.",
-      "definitionZh": "權衡、取捨。",
-      "partOfSpeech": "noun",
-      "noteZh": "由動詞片語 trade off 演變而來的名詞，指為了得到某種好處而必須放棄另一種東西。文中：She described the situation as a trade-off between the practical costs of collecting data and the potential benefits of catching the disease earlier."
+      "term": "weigh",
+      "definitionEn": "To carefully consider the importance of different factors or choices before making a decision.",
+      "definitionZh": "權衡、衡量（利弊）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作動詞（測量重量），這裡指抽象的思考與評估。文中：Health officials must weigh the practical costs of collecting more data against the potential benefits of catching cancer earlier."
+    },
+    {
+      "term": "turn",
+      "definitionEn": "To change or develop something into a different state or form.",
+      "definitionZh": "使……轉變為……；將……轉化為……。",
+      "partOfSpeech": "phrasal verb (turn into)",
+      "noteZh": "常見作動詞（轉動），這裡與 into 連用表示轉化。文中：The goal is to ensure that young women are not left behind by outdated screening methods, giving them the best possible chance to fight the disease before it becomes a serious threat."
     }
   ],
   "sources": [
@@ -86,61 +93,76 @@
   ],
   "story": {
     "id": "breast-cancer-screening-guidelines-miss-young-women",
-    "type": "standalone",
-    "previousArticles": []
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "breast-cancer-screening-guidelines-miss-young-aug-2026",
+        "title": "Breast Cancer Screening Guidelines May Miss Many Young Women",
+        "publishedAt": "2026-08-04T22:14:21.888029Z",
+        "category": "health",
+        "summaryEn": "New research shows that current medical guidelines in England fail to identify most young women at risk of breast cancer. The existing system relies heavily on family history, which misses many patients who later develop the disease. Experts from the University of Cambridge and the Institute of Cancer Research suggest that new, more detailed assessment tools are needed. While these tools could save lives through early detection, they also present challenges regarding costs and medical resources. Health officials are now facing calls to review and improve these screening criteria."
+      },
+      {
+        "slug": "study-investigates-cancer-rise-in-younger-aug-2026",
+        "title": "Why More Young People Are Developing Cancer",
+        "publishedAt": "2026-08-03T23:18:27.321118Z",
+        "category": "health",
+        "summaryEn": "A new study from Washington University School of Medicine explores why cancer is becoming more common in people under 50. Researchers found that younger generations are experiencing a faster rate of biological aging compared to their chronological age. This gap between how old we are and how our cells function may be linked to a higher risk of early-onset cancer. While the study shows an important connection, experts warn that more research is needed to prove a direct cause. Understanding these biological changes could be key to addressing this growing health concern."
+      }
+    ]
   },
   "quiz": [
     {
       "id": "q1",
       "type": "detail",
-      "question": "What is the primary reason the current Nice guidelines are considered ineffective for women under 50?",
+      "question": "According to the research findings, what percentage of women under 50 who develop breast cancer lack a family history of the disease?",
       "options": {
-        "A": "They require genetic testing that is too expensive for most patients.",
-        "B": "They place too much emphasis on family history when assessing risk.",
-        "C": "They are too complicated for family doctors to understand and implement.",
-        "D": "They ignore lifestyle factors entirely in favor of reproductive history."
+        "A": "8%",
+        "B": "73%",
+        "C": "95%",
+        "D": "50%"
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。根據文章第三段，目前的 Nice 指引過度依賴家族病史（focus heavily on family history），而研究發現近四分之三的年輕乳癌患者並無家族病史。選項 A 錯誤，因為文章提到基因檢測是未來可能使用的工具，而非現行指引的內容。選項 C 錯誤，文章反而提到現行指引因為簡單才被使用，但準確度不足。選項 D 錯誤，文章並未說現行指引完全忽略生活方式，而是強調其對家族病史的過度依賴。"
+      "explanationZh": "正確答案為 B。文章第三段明確指出，研究發現 73% 的 50 歲以下乳癌患者並沒有家族病史。選項 A 是錯誤的數據；選項 C 的 95% 是指現行篩檢指南漏掉的風險比例，而非無家族病史的比例；選項 D 為文中提到的年齡分界，與題目要求的數據無關。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "Based on the text, what can be inferred about the Boadicea system compared to the current Nice criteria?",
+      "question": "Based on the article, why might the healthcare system be hesitant to immediately adopt the Boadicea assessment system?",
       "options": {
-        "A": "It is guaranteed to be adopted by all doctors in England immediately.",
-        "B": "It is less accurate than the Nice criteria because it considers too many factors.",
-        "C": "It requires a more comprehensive data collection process from patients.",
-        "D": "It was developed specifically to replace the need for early cancer treatment."
+        "A": "It has been proven less accurate than the current Nice guidelines.",
+        "B": "It focuses exclusively on genetic testing, which is not yet available.",
+        "C": "It requires more comprehensive data collection, which could strain limited medical resources.",
+        "D": "It is designed only for older women, making it unsuitable for the target demographic."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。根據第四段與第六段，Boadicea 系統考量了生殖史、生活方式及遺傳等廣泛因素，這暗示了它需要收集比現行指引更多的患者資訊。選項 A 錯誤，文章僅提到呼籲改變，並未保證會被採用。選項 B 錯誤，文章指出 Boadicea 能識別出多出八倍的高風險患者，顯示其更準確。選項 D 錯誤，該系統的目的是為了更早發現癌症以利治療，而非取代治療本身。"
+      "explanationZh": "正確答案為 C。根據第五段，專家指出雖然 Boadicea 能更精準評估風險，但若要進行包含基因檢測的完整評估，會對醫療系統有限的資源造成沉重負擔。選項 A 與文意相反，Boadicea 其實更精準；選項 B 錯誤，因為該系統包含生活方式等多種因素；選項 D 與文章強調的「年輕族群」目標不符。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the sixth paragraph, what does the word 'strike' mean in the phrase 'a difficult balance to strike'?",
+      "question": "In the fifth paragraph, what does the phrase 'difficult balance to strike' mean in the context of updating medical guidelines?",
       "options": {
-        "A": "To hit something with force.",
-        "B": "To achieve or establish a state of equilibrium.",
-        "C": "To refuse to work as a form of protest.",
-        "D": "To discover something valuable suddenly."
+        "A": "A challenging trade-off between competing priorities.",
+        "B": "A physical struggle to move medical equipment.",
+        "C": "An argument between two groups of researchers.",
+        "D": "A process of choosing the cheapest option regardless of quality."
       },
-      "correct": "B",
-      "explanationZh": "正確答案為 B。在此語境中，strike a balance 是一個固定用法，意指在兩個對立的事物（如準確度與成本）之間取得平衡。選項 A 是 strike 的字面意思（擊打），不符合文意。選項 C 指的是勞工罷工，與醫療政策討論無關。選項 D 雖然 strike 有發現的意思，但在此處並非指發現價值，而是指建立一種平衡的狀態。"
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在此語境中，strike a balance 指的是在兩種衝突的需求（如：篩檢的精準度 vs. 醫療系統的成本與執行難度）之間找到平衡點。選項 B 將詞組誤解為物理動作；選項 C 雖然提到專家意見，但並非該詞組的定義；選項 D 錯誤，因為文章強調的是效益與成本的權衡，而非單純追求便宜。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "What is the central message of the article regarding breast cancer screening?",
+      "question": "What is the primary message of the article regarding breast cancer screening for young women?",
       "options": {
-        "A": "Family doctors in England are failing to provide any care to women under 50.",
-        "B": "Genetic testing is the only way to prevent breast cancer in young women.",
-        "C": "The Boadicea system is the final solution to all cancer screening problems.",
-        "D": "Existing screening guidelines for young women need to be re-evaluated to improve early detection."
+        "A": "Family history is the only reliable indicator for breast cancer risk in young women.",
+        "B": "The rise in cancer cases among the young is solely due to faster biological aging.",
+        "C": "Current screening methods are highly effective and require no further changes.",
+        "D": "Existing guidelines are outdated and need to incorporate broader risk factors to better protect younger women."
       },
       "correct": "D",
-      "explanationZh": "正確答案為 D。全文的核心在於討論現行篩檢指引的不足，並強調在證據支持下，醫學界呼籲重新檢視篩檢標準，以提升早期發現率。選項 A 過於誇大，文章僅指出指引有缺失，而非醫生完全不提供照護。選項 B 錯誤，文章並未說基因檢測是唯一方法。選項 C 錯誤，文章提到改進系統涉及成本與資源的權衡，且 Boadicea 只是研究中提到的工具之一，並非被視為完美的最終解決方案。"
+      "explanationZh": "正確答案為 D。文章主旨旨在呼籲更新現行篩檢標準，因為現行過度依賴家族病史的系統已無法有效保護年輕女性，應納入如生活方式與基因等更多元指標。選項 A 與文意完全相反；選項 B 僅是文中提到的其中一個因素，非主旨；選項 C 與文章開頭提到的「95% 漏診率」衝突，顯然是不正確的。"
     }
   ],
   "aiGenerated": true,

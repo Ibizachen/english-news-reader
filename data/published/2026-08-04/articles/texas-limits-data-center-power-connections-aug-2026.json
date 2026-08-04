@@ -1,0 +1,152 @@
+{
+  "id": "2026-08-04-texas-limits-data-center-power-connections",
+  "slug": "texas-limits-data-center-power-connections-aug-2026",
+  "publishedAt": "2026-08-04T23:17:26.182398Z",
+  "category": "energy",
+  "title": "Texas Pauses New Data Center Power Connections Amid Growing Energy Demands",
+  "subtitle": "State officials order a review of power grid requests as the AI industry creates a massive need for electricity.",
+  "summary": {
+    "en": "Texas has officially paused new power grid connections for data centers to protect the state's electricity supply. Governor Greg Abbott ordered a full review of all current projects following a surge in demand. The state's power grid operator, ERCOT, is currently managing a massive number of connection requests. This decision follows a period of rapid growth in the artificial intelligence sector. Officials are now working to ensure that future energy needs do not threaten the stability of the grid.",
+    "zh": "德州已正式暫停資料中心與電網的新連接，以保護該州的電力供應。在電力需求激增後，州長艾波特下令對所有現有專案進行全面審查。該州的電網營運商德州電力可靠度委員會目前正處理數量龐大的連接申請。這項決定是在人工智慧產業經歷一段快速成長期後所做出的。官員們目前正致力於確保未來的能源需求不會威脅到電網的穩定性。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Texas has taken a major step to protect its electricity supply by pausing all new power grid connections for data centers. This decision, announced by Governor Greg Abbott on August 3, comes as the state deals with an overwhelming number of requests for power. The pause will remain in place until developers can provide more information about how their projects will affect local communities and the state's energy system.",
+      "zh": "德州採取了重大舉措來保護其電力供應，暫停了所有資料中心與電網的新連接。這項由州長艾波特 (Greg Abbott) 於 8 月 3 日宣布的決定，是在該州面臨海量電力需求申請的情況下所做出的。在開發商能提供更多關於其專案將如何影響當地社區及州內能源系統的資訊之前，這項暫停措施將持續有效。"
+    },
+    {
+      "id": "p2",
+      "en": "This move is a significant change for a state that has spent years trying to attract technology companies. According to Ars Technica, Texas has been very successful at bringing in data centers by offering cheap land, tax breaks, and fewer regulations. These efforts were designed to make Texas the center of artificial intelligence development in the United States. In fact, the state was recently on track to become the largest data center market in the country, passing Virginia.",
+      "zh": "此舉對於多年來致力於吸引科技公司的德州而言，是一項重大的政策轉變。根據科技媒體 Ars Technica 報導，德州過去透過提供廉價土地、稅收減免以及較少的法規限制，在引進資料中心方面取得了巨大成功。這些努力旨在使德州成為美國人工智慧發展的中心。事實上，該州近期正邁向成為全美最大的資料中心市場，並已超越維吉尼亞州。"
+    },
+    {
+      "id": "p3",
+      "en": "However, the rapid growth of the AI industry has created a new challenge. The Electric Reliability Council of Texas, known as ERCOT, is the organization that manages the power grid for most of the state. ERCOT operates a system that is separate from the rest of the country. According to Ars Technica, the current list of projects waiting to connect to the grid is massive. There are more than 1,800 projects in the queue, representing over 474 gigawatts of power. To put this in perspective, this amount is more than five times the highest amount of electricity Texas has ever used at one time. About 90 percent of these requests come from data centers.",
+      "zh": "然而，人工智慧產業的快速成長帶來了新的挑戰。德州電力可靠度委員會 (ERCOT) 是負責管理該州大部分地區電網的組織。ERCOT 運作著一個與美國其他地區隔離的獨立系統。根據 Ars Technica 報導，目前等待連接到電網的專案清單極為龐大。排隊中的專案超過 1,800 個，總電力需求超過 474 吉瓦。為了讓大家理解這個數字的規模，這相當於德州有史以來最高單一時刻用電量的五倍以上。其中約 90% 的申請來自資料中心。"
+    },
+    {
+      "id": "p4",
+      "en": "Governor Abbott’s office stated that this huge growth in energy demand could put the reliability and stability of the Texas electric grid at risk. Reliability refers to the ability of the grid to provide electricity consistently without failing. Because of these concerns, the governor has directed the Public Utility Commission of Texas and ERCOT to perform a full audit of all data centers currently in the process of connecting to the grid. An audit is a detailed and careful inspection of information to ensure everything is correct and safe.",
+      "zh": "州長艾波特的辦公室表示，能源需求的巨大成長可能會危及德州電網的可靠性與穩定性。可靠性是指電網在不發生故障的情況下持續提供電力的能力。基於這些擔憂，州長已指示德州公用事業委員會與德州電力可靠度委員會，對所有目前正在進行電網連接程序的資料中心進行全面審查。審查是指對資訊進行詳細且謹慎的檢查，以確保一切正確且安全。"
+    },
+    {
+      "id": "p5",
+      "en": "While many of the 1,800 projects in the queue may never actually be built, the pressure on the grid remains high. The Texas Tribune reports that ERCOT expects electricity demand across the state could double by 2032. This increase is driven by the growth of data centers and other factors. Even though Texas has been leading the country in adding new ways to create electricity, the speed of the current development is creating a difficult situation for grid operators.",
+      "zh": "雖然排隊中的 1,800 個專案中，許多可能永遠不會真正動工，但電網所承受的壓力依然巨大。《德州論壇報》(The Texas Tribune) 報導稱，德州電力可靠度委員會預計到 2032 年，全州的電力需求可能會翻倍。這種成長是由資料中心的擴張及其他因素所推動。儘管德州在增加新的發電方式方面一直領先全美，但目前的開發速度正為電網營運商帶來嚴峻的挑戰。"
+    },
+    {
+      "id": "p6",
+      "en": "This new policy is an update to the state's previous approach, which encouraged fast growth. The goal now is to balance the needs of the booming tech industry with the basic requirement of keeping the lights on for the people of Texas. By pausing new connections, officials hope to gain a better understanding of the total impact these projects will have on the energy supply.",
+      "zh": "這項新政策是對該州先前鼓勵快速成長方針的修正。現在的目標是在蓬勃發展的科技產業需求，與維持德州民眾基本用電需求之間取得平衡。透過暫停新的連接申請，官員們希望能夠更深入地了解這些專案對能源供應的整體影響。"
+    },
+    {
+      "id": "p7",
+      "en": "For now, developers must wait as the state reviews the potential impact of their projects. The future of Texas as a hub for artificial intelligence will depend on how the state manages this difficult balance between industrial growth and the need for a stable, reliable power grid. As the review process continues, the state will likely need to find new ways to manage the massive energy needs of the modern digital economy.",
+      "zh": "目前，開發商必須在州政府審查其專案潛在影響的同時進行等待。德州作為人工智慧中心的未來，將取決於該州如何處理工業成長與穩定可靠電網需求之間這種困難的平衡。隨著審查程序的持續，該州很可能需要找到新的方法，來管理現代數位經濟對能源的龐大需求。"
+    }
+  ],
+  "wordCount": 612,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "move",
+      "definitionEn": "An action or step taken to achieve a specific goal.",
+      "definitionZh": "行動、舉措。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（移動），這裡作名詞用。文中：This move is a significant change for a state that has spent years trying to attract technology companies."
+    },
+    {
+      "term": "queue",
+      "definitionEn": "A line or list of people or things waiting for something.",
+      "definitionZh": "隊伍、等待名單。",
+      "partOfSpeech": "noun",
+      "noteZh": "在台灣英語教學中，學生較熟悉 line，queue 較為正式且常見於英式用法。文中：There are more than 1,800 projects in the queue, representing over 474 gigawatts of power."
+    },
+    {
+      "term": "keeping the lights on",
+      "definitionEn": "Maintaining the basic, essential services or operations of a system.",
+      "definitionZh": "維持基本運作（原意為維持供電）。",
+      "partOfSpeech": "idiom",
+      "noteZh": "字面意思是「讓燈亮著」，這裡引申為維持電力供應等基本需求。文中：The goal now is to balance the needs of the booming tech industry with the basic requirement of keeping the lights on for the people of Texas."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+      "title": "Texas halts data center connections to power grid amid overwhelming demand",
+      "publishedAt": "2026-08-04T20:34:28Z"
+    }
+  ],
+  "story": {
+    "id": "texas-limits-data-centers-due-to-power-grid-strain",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "texas-limits-data-centers-due-to-power-grid-strain-aug-2026",
+        "title": "Texas Pauses New Data Center Power Connections",
+        "publishedAt": "2026-08-04T22:14:21.888029Z",
+        "category": "energy",
+        "summaryEn": "Texas has officially paused new power grid connections for data centers. Governor Greg Abbott ordered a review of all current projects to ensure the state's electricity supply remains stable. The rapid growth of artificial intelligence has led to a massive increase in requests for power. Officials are worried that the current demand could overwhelm the grid. Experts predict that total electricity needs in Texas could double by 2032."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is the primary reason for the current pause on new data center grid connections?",
+      "options": {
+        "A": "The state wants to stop the growth of the AI industry entirely.",
+        "B": "The state needs to assess the impact of massive energy requests on grid stability.",
+        "C": "Developers have failed to pay the required tax breaks for their projects.",
+        "D": "ERCOT has decided to shut down all existing data centers in Texas."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第一段與第四段，州長暫停連接是為了評估這些項目對電力系統的影響，以確保電網的可靠性（reliability）。選項 A 錯誤，因為文章提到目標是平衡需求而非停止發展；選項 C 文中未提及開發商未付稅；選項 D 錯誤，因為審核對象是「正在申請連接」的項目，而非關閉現有設施。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the relationship between Texas's previous policy and its current energy situation?",
+      "options": {
+        "A": "Texas previously discouraged tech companies from building data centers.",
+        "B": "The previous policy successfully anticipated the energy needs of AI growth.",
+        "C": "The previous policy was highly effective at attracting companies but created unforeseen infrastructure pressure.",
+        "D": "Texas is now abandoning its goal of becoming an AI hub to prioritize residential power."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第二段提到德州過去透過優惠政策成功吸引了大量數據中心，但第三段與第五段指出這些快速發展導致了電網負荷過重，顯示出過去的政策雖成功吸引投資，卻未預見到如此巨大的電力需求壓力。選項 A 與文意相反；選項 B 錯誤，因為目前的危機顯示未預見到需求；選項 D 過於誇大，文章僅提到尋求平衡，而非放棄目標。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fifth paragraph, what does the word 'driven' mean in the context of: 'This increase is driven by the growth of data centers and other factors'?",
+      "options": {
+        "A": "Operated by a machine or vehicle.",
+        "B": "Caused or motivated by a specific force.",
+        "C": "Carried to a destination by someone.",
+        "D": "Forced into a particular state of mind."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在此語境中，'driven by' 意指「由...所驅動」或「由...所導致」。選項 A 是指機械駕駛，不符合文意；選項 C 是指載運，與電力需求增長無關；選項 D 是指心理狀態，在此處不適用。此處使用 'driven' 是為了強調數據中心成長是電力需求增加背後的推動力。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of this article?",
+      "options": {
+        "A": "Texas is no longer a viable location for technology companies to invest.",
+        "B": "The AI industry is solely responsible for all power grid failures in the United States.",
+        "C": "Texas is pausing grid connections to audit and balance industrial growth with energy stability.",
+        "D": "ERCOT is planning to increase electricity prices to discourage new data centers."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章的核心在於描述德州政府如何應對數據中心激增帶來的電網壓力，透過暫停連接進行審核（audit），旨在平衡科技業發展與電力供應的穩定性。選項 A 過度推論，文章僅提到暫停審核；選項 B 錯誤，文中未提到電網「失敗」且未指責 AI 是唯一原因；選項 D 文中並未提及價格調整機制。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
