@@ -1,86 +1,74 @@
 {
   "id": "2026-08-07-meta-ordered-to-pay-567-million-for-youth-harm",
   "slug": "meta-ordered-to-pay-567-million-for-youth-harm-aug-2026",
-  "publishedAt": "2026-08-07T22:13:59.689034Z",
+  "publishedAt": "2026-08-07T22:54:04.313959Z",
   "category": "technology",
   "title": "Meta Ordered to Pay $567 Million for Youth Mental Health Impact",
-  "subtitle": "A New Mexico court rules that the social media giant must fund treatment services after finding its platforms caused a public nuisance.",
+  "subtitle": "A New Mexico judge rules that the social media giant must fund treatment services after a landmark court case.",
   "summary": {
-    "en": "A New Mexico judge has ordered Meta to pay $567 million to address the negative impact of its platforms on youth mental health. This ruling follows an earlier jury decision that found the company liable for child safety failures. The funds will support treatment, prevention, and awareness programs over the next five years. Meta is also required to implement new safety measures and improve age-verification technology. The state’s attorney general praised the decision as a major step in holding tech companies accountable for their practices.",
-    "zh": "新墨西哥州的一名法官下令 Meta 支付 5.67 億美元，以解決其平台對青少年心理健康的負面影響。此裁決延續了先前陪審團認定該公司需為兒童安全缺失負責的判決。這筆資金將在未來五年內用於支持治療、預防及宣導計畫。Meta 也被要求實施新的安全措施並改進年齡驗證技術。該州檢察長稱讚此決定是讓科技公司為其行為負責的重要一步。"
+    "en": "A New Mexico court has ordered Meta to pay $567 million to address the negative impact of its platforms on young people. This ruling follows a previous jury decision that found the company responsible for child safety failures. The money will support mental health treatment and prevention programs across the state. Judge Bryan Biedscheid concluded that Meta contributed to a public nuisance by designing addictive features. The company must also implement new safety measures and report its progress to the state regularly.",
+    "zh": "新墨西哥州法院已下令 Meta 支付 5.67 億美元，以解決其平台對年輕人造成的負面影響。此裁決延續了先前陪審團認定該公司在兒童安全方面失職的判決。這筆資金將用於支持全州的心理健康治療與預防計畫。法官畢德夏德總結認為，Meta 透過設計令人成癮的功能，助長了公眾滋擾。該公司還必須實施新的安全措施，並定期向州政府報告進度。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "A court in New Mexico has ordered Meta, the parent company of Facebook and Instagram, to pay $567 million to help young people suffering from mental health problems. This decision is part of a larger legal battle over how the company’s platforms affect children. The judge ruled that Meta helped create a “public nuisance”—a situation that causes harm to the community—by designing features that keep young users on their apps for too long.",
-      "zh": "美國新墨西哥州的一家法院下令臉書與 Instagram 的母公司 Meta 支付 5.67 億美元，以協助受心理健康問題困擾的年輕人。這項裁決是針對該公司平台如何影響兒童的一場更大規模法律訴訟的一部分。法官裁定，Meta 透過設計讓年輕用戶在應用程式上停留過久的機制，助長了「公眾滋擾」，即對社區造成損害的情況。"
+      "en": "A court in New Mexico has ordered Meta, the parent company of Facebook and Instagram, to pay $567 million to address the negative effects its platforms have had on the mental health of young people. This new ruling is part of a larger legal battle that began in 2023 when the New Mexico Attorney General, Raúl Torrez, sued the technology giant. The total amount Meta is now required to pay reaches $942 million, following an earlier $375 million fine decided by a jury in March.",
+      "zh": "美國新墨西哥州的一家法院已裁定，臉書與 Instagram 的母公司 Meta 須支付 5.67 億美元，以解決其平台對年輕人心理健康造成的負面影響。這項最新裁決是自 2023 年新墨西哥州檢察長托瑞茲 (Raúl Torrez) 起訴這家科技巨頭以來，一系列法律攻防的一部分。加上今年 3 月陪審團裁定的 3.75 億美元罰款，Meta 目前總計需支付的金額已達 9.42 億美元。"
     },
     {
       "id": "p2",
-      "en": "This new payment is in addition to a $375 million fine that a jury ordered Meta to pay in March 2026. At that time, the jury found that the company knowingly harmed children’s mental health and failed to protect them from child sexual exploitation. With this latest ruling, the total amount Meta must pay related to this case has reached $942 million. According to Ars Technica, the judge noted that New Mexico is currently facing a youth mental health crisis, with higher rates of suicide and eating disorders that are putting a heavy burden on public resources.",
-      "zh": "這筆新賠償金是在 2026 年 3 月陪審團裁定 Meta 需支付 3.75 億美元罰款之外的金額。當時，陪審團認定該公司明知故犯地損害了兒童的心理健康，且未能保護他們免受兒童性剝削。隨著這項最新裁決，Meta 在此案中必須支付的總金額已達 9.42 億美元。根據科技新聞網站 Ars Technica 報導，法官指出新墨西哥州目前正面臨青少年心理健康危機，自殺率與飲食失調比例偏高，這對公共資源造成了沉重負擔。"
+      "en": "According to The Guardian, the judge in the case, Bryan Biedscheid, stated that most of the $567 million will be used to provide treatment services for young people in New Mexico. The remaining funds will support awareness campaigns, prevention programs, and screening services over the next five years. Ars Technica reports that the judge described the situation as a “public nuisance,” noting that the state is currently facing a serious youth mental health crisis. This crisis includes higher rates of suicide and eating disorders, which have placed a heavy burden on public resources.",
+      "zh": "根據《衛報》(The Guardian) 報導，承審法官畢德夏德 (Bryan Biedscheid) 表示，這 5.67 億美元中的大部分將用於為新墨西哥州的年輕人提供治療服務。剩餘資金將在未來五年內用於支持宣導活動、預防計畫及篩檢服務。科技新聞網站 Ars Technica 指出，法官將此情況形容為「公眾滋擾」，並提到該州目前正面臨嚴重的青少年心理健康危機。這場危機包括自殺率與飲食失調比例攀升，已對公共資源造成沉重負擔。"
     },
     {
       "id": "p3",
-      "en": "Judge Bryan Biedscheid explained that most of the new money, about $420 million, will be used to provide treatment services for young people in the state. The remaining funds will support awareness campaigns, prevention programs, and screening services over the next five years. The court also ordered Meta to make significant changes to how its platforms operate. These changes include building screens that explain safety tools to users and working to improve how the company checks the age of its users.",
-      "zh": "法官布萊恩·比德沙伊德 (Bryan Biedscheid) 解釋說，這筆新資金中約有 4.2 億美元將用於為州內的年輕人提供治療服務。其餘資金將在未來五年內用於支持宣導活動、預防計畫及篩檢服務。法院還下令 Meta 對其平台的運作方式進行重大調整，包括建立向用戶說明安全工具的螢幕介面，並致力於改善公司驗證用戶年齡的方式。"
+      "en": "This legal action follows a 2023 investigation by The Guardian, which found that Facebook and Instagram had become places where child sex trafficking could occur. During the first phase of the trial, a jury found that Meta knowingly harmed children’s mental health and failed to protect them from exploitation. The second phase of the trial focused on \"abatement,\" which is a legal term for actions taken to reduce or stop a harmful situation. The judge concluded that Meta contributed to this problem by creating features designed to keep users, especially teenagers, on their platforms for as long as possible.",
+      "zh": "此項法律行動源於《衛報》在 2023 年的一項調查，該調查發現臉書與 Instagram 已成為兒童性販運可能發生的場所。在審判的第一階段，陪審團認定 Meta 明知故犯，損害了兒童的心理健康，且未能保護他們免受剝削。審判的第二階段聚焦於「減害」，這是一個法律術語，指為減少或停止有害情況所採取的行動。法官總結認為，Meta 透過設計旨在讓使用者（特別是青少年）盡可能長時間停留在平台上的功能，助長了此一問題。"
     },
     {
       "id": "p4",
-      "en": "The legal case began in 2023 when New Mexico’s attorney general, Raúl Torrez, sued the company. The Guardian reports that the lawsuit followed an investigation showing that Facebook and Instagram had become places where child sex trafficking could occur. Former workers at Meta told The Guardian that they had reported harmful content, such as child grooming, but that these reports were often ignored by the company. In the recent trial, prosecutors argued that Meta needed to change its addictive features and improve its privacy settings to better protect children.",
-      "zh": "這起法律案件始於 2023 年，當時新墨西哥州檢察長勞爾·托雷斯 (Raúl Torrez) 對該公司提起訴訟。《衛報》(The Guardian) 報導稱，這場訴訟源於一項調查，顯示臉書與 Instagram 已成為可能發生兒童性販運的場所。Meta 的前員工向《衛報》透露，他們曾舉報過有害內容（例如誘拐兒童），但這些報告往往被公司忽視。在近期的審判中，檢方主張 Meta 必須改變其令人成癮的功能，並改善隱私設定，以更好地保護兒童。"
+      "en": "Beyond the financial penalty, the court has ordered Meta to make significant changes to how its platforms operate in New Mexico. The company must now build \"banner\" screens—which are informational notices—to clearly explain its safety tools and how to report inappropriate comments. Furthermore, Meta is required to improve its \"age-assurance\" tools. Because federal privacy laws prevent the company from directly checking the ages of children under 13, the court ordered Meta to use artificial intelligence to estimate the ages of users based on their friends and the content they view. The company must also attempt to create a model that can predict if a user is under 13 within the next two years.",
+      "zh": "除了財務罰款外，法院還下令 Meta 必須對其平台在新墨西哥州的運作方式進行重大調整。該公司現在必須建立「橫幅」螢幕（即資訊通知），以清楚說明其安全工具以及如何舉報不當留言。此外，Meta 必須改進其「年齡確認」工具。由於聯邦隱私法禁止公司直接查核 13 歲以下兒童的年齡，法院下令 Meta 必須利用人工智慧，根據使用者的好友名單及瀏覽內容來估算其年齡。該公司還必須在未來兩年內嘗試建立一個能預測使用者是否未滿 13 歲的模型。"
     },
     {
       "id": "p5",
-      "en": "Regarding the issue of age verification, the court acknowledged that federal laws make it difficult for Meta to check the ages of children under 13. The judge also noted that it would be unfair to force only Meta to change its rules while other social media companies did not have to follow the same requirements. Instead, the court ordered Meta to use artificial intelligence to estimate a user’s age based on their online behavior, such as who they interact with and what content they view. The company must also try to build a system that can predict if a user is under 13 within the next two years.",
-      "zh": "關於年齡驗證問題，法院承認聯邦法律使得 Meta 很難查核 13 歲以下兒童的年齡。法官也指出，若僅強迫 Meta 改變規則，而其他社群媒體公司不必遵守相同要求，這並不公平。因此，法院下令 Meta 使用人工智慧，根據用戶的網路行為（例如互動對象與瀏覽內容）來估算用戶年齡。該公司必須在未來兩年內嘗試建立一套能預測用戶是否未滿 13 歲的系統。"
+      "en": "If Meta estimates that a user is under 13, the company must treat them as a child until they can prove their age. Additionally, the court ordered Meta to work with schools or child safety groups to create a system where school staff can report users who might be underage. Meta is also required to delete any personal information it has collected from users found to be under 13. The company must provide progress reports to the state twice a year to show that it is following these new rules.",
+      "zh": "若 Meta 估算使用者未滿 13 歲，在對方能證明年齡之前，公司必須將其視為兒童處理。此外，法院下令 Meta 必須與學校或兒童安全團體合作，建立一套系統，讓學校教職員能舉報疑似未達法定年齡的使用者。Meta 也必須刪除從被認定為未滿 13 歲的使用者身上所收集的任何個人資訊。該公司必須每年兩次向州政府提交進度報告，以證明其確實遵守這些新規定。"
     },
     {
       "id": "p6",
-      "en": "Furthermore, Meta is now required to partner with schools or safety organizations to create a way for teachers to report users who might be under the age of 13. The company must also delete any personal information it has collected on these young users. Meta will be expected to provide progress reports to the court twice a year to show that it is following these new rules.",
-      "zh": "此外，Meta 現在必須與學校或安全組織合作，建立一套機制，讓教師能舉報可能未滿 13 歲的用戶。該公司還必須刪除其收集到的這些年輕用戶的所有個人資訊。Meta 預計每年需向法院提交兩次進度報告，以證明其正在遵守這些新規則。"
+      "en": "New Mexico’s Attorney General, Raúl Torrez, praised the court’s decision. He stated that the case was always about protecting families and ensuring that large technology companies cannot profit from practices that put young people in danger without facing consequences. The judge noted that these changes are necessary because the current systems for addressing these harms have been overwhelmed.",
+      "zh": "新墨西哥州檢察長托瑞茲對法院的裁決表示讚賞。他指出，此案的核心始終在於保護家庭，並確保大型科技公司不能在不承擔後果的情況下，透過將年輕人置於險境的行為獲利。法官強調，這些變革是必要的，因為目前處理這些傷害的系統已不堪負荷。"
     },
     {
       "id": "p7",
-      "en": "Raúl Torrez, the attorney general of New Mexico, welcomed the court’s decision. He stated that the case has always been about protecting families and ensuring that one of the world’s largest technology companies cannot profit from practices that put young people in danger without facing consequences. As the company moves forward, it must balance these legal requirements with its massive business operations, as Meta reported over $60 billion in revenue in the second quarter of 2026 alone.",
-      "zh": "新墨西哥州檢察長勞爾·托雷斯對法院的決定表示歡迎。他表示，此案的核心始終在於保護家庭，並確保全球最大的科技公司之一不能在不承擔後果的情況下，透過將年輕人置於危險之中的做法來獲利。隨著公司業務持續發展，Meta 必須在這些法律要求與其龐大的商業營運之間取得平衡，畢竟僅在 2026 年第二季，Meta 就報告了超過 600 億美元的營收。"
-    },
-    {
-      "id": "p8",
-      "en": "This ruling marks a significant moment in the ongoing debate over the responsibility of social media companies. While Meta continues to operate its global services, the court’s decision serves as a clear message that states are willing to take legal action to protect the well-being of their citizens. Whether these changes will be enough to solve the mental health crisis in New Mexico remains a question for the future, but the court has made it clear that the company must now play a direct role in fixing the problems it helped create.",
-      "zh": "這項裁決標誌著關於社群媒體公司責任的持續辯論中的一個重要時刻。儘管 Meta 繼續營運其全球服務，但法院的決定傳達了一個明確的訊息：各州願意採取法律行動來保護其公民的福祉。這些改變是否足以解決新墨西哥州的心理健康危機仍是未來的問題，但法院已明確表示，該公司現在必須直接參與解決其所助長的問題。"
+      "en": "This ruling is significant because it is the first time a court has found Meta responsible for actions taken on its platform in this way. While Meta has reported billions of dollars in revenue, the court emphasized that the company must now take responsibility for the \"public nuisance\" it helped create. As the company moves forward, it will be under close supervision by the state of New Mexico to ensure that these safety measures are actually put into practice.",
+      "zh": "這項裁決意義重大，因為這是法院首次以這種方式認定 Meta 必須為其平台上的行為負責。儘管 Meta 報告稱其營收高達數十億美元，但法院強調，該公司現在必須為其協助造成的「公眾滋擾」承擔責任。隨著公司持續營運，它將受到新墨西哥州的密切監督，以確保這些安全措施能真正落實。"
     }
   ],
-  "wordCount": 724,
+  "wordCount": 678,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
-      "term": "battle",
-      "definitionEn": "A long and difficult struggle or argument between two groups.",
-      "definitionZh": "爭論、鬥爭、較量。",
-      "partOfSpeech": "noun",
-      "noteZh": "常見指軍事上的「戰鬥」，這裡指法律上的「爭議」。文中：This decision is part of a larger legal battle over how the company’s platforms affect children."
+      "term": "address",
+      "definitionEn": "To deal with or take action to solve a problem.",
+      "definitionZh": "處理、應對（問題或困難）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（地址），這裡作動詞用。文中：a court in New Mexico has ordered Meta, the parent company of Facebook and Instagram, to pay $567 million to address the negative effects its platforms have had on the mental health of young people."
     },
     {
       "term": "burden",
-      "definitionEn": "A heavy load or something that causes difficulty or worry.",
+      "definitionEn": "A heavy load or responsibility that causes difficulty or worry.",
       "definitionZh": "負擔、重擔。",
       "partOfSpeech": "noun",
-      "noteZh": "常見作動詞（加重負擔），這裡作名詞用。文中：...with higher rates of suicide and eating disorders that are putting a heavy burden on public resources."
+      "noteZh": "此處指對公共資源造成的壓力。文中：This crisis includes higher rates of suicide and eating disorders, which have placed a heavy burden on public resources."
     },
     {
-      "term": "operate",
-      "definitionEn": "To function or work in a particular way.",
-      "definitionZh": "運作、運營。",
-      "partOfSpeech": "verb",
-      "noteZh": "常見指「操作（機器）」或「動手術」，這裡指企業或平台的「運作方式」。文中：The court also ordered Meta to make significant changes to how its platforms operate."
-    },
-    {
-      "term": "balance",
-      "definitionEn": "To give equal attention or importance to two different things.",
-      "definitionZh": "平衡、權衡。",
-      "partOfSpeech": "verb",
-      "noteZh": "常見作名詞（天平、餘額），這裡作動詞用。文中：As the company moves forward, it must balance these legal requirements with its massive business operations..."
+      "term": "overwhelmed",
+      "definitionEn": "To be given too much of something to deal with effectively.",
+      "definitionZh": "難以負荷、應接不暇。",
+      "partOfSpeech": "verb (past participle as adjective)",
+      "noteZh": "這裡形容系統因負擔過重而無法運作。文中：The judge noted that these changes are necessary because the current systems for addressing these harms have been overwhelmed."
     }
   ],
   "sources": [
@@ -99,61 +87,69 @@
   ],
   "story": {
     "id": "meta-ordered-to-pay-567-million-for-youth-harm",
-    "type": "standalone",
-    "previousArticles": []
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "meta-ordered-to-pay-567-million-for-youth-harm-aug-2026",
+        "title": "Meta Ordered to Pay $567 Million for Youth Mental Health Impact",
+        "publishedAt": "2026-08-07T22:13:59.689034Z",
+        "category": "technology",
+        "summaryEn": "A New Mexico judge has ordered Meta to pay $567 million to address the negative impact of its platforms on youth mental health. This ruling follows an earlier jury decision that found the company liable for child safety failures. The funds will support treatment, prevention, and awareness programs over the next five years. Meta is also required to implement new safety measures and improve age-verification technology. The state’s attorney general praised the decision as a major step in holding tech companies accountable for their practices."
+      }
+    ]
   },
   "quiz": [
     {
       "id": "q1",
       "type": "detail",
-      "question": "How will the majority of the $567 million payment ordered by the court be utilized?",
+      "question": "How will the $567 million penalty be primarily utilized according to the court's ruling?",
       "options": {
-        "A": "It will be used to pay for the legal fees of the New Mexico attorney general.",
-        "B": "It will be primarily allocated to provide treatment services for young people.",
-        "C": "It will be used to fund awareness campaigns and prevention programs for the next decade.",
-        "D": "It will be distributed as direct financial compensation to families affected by social media."
+        "A": "To pay for legal fees incurred by the New Mexico Attorney General.",
+        "B": "To provide mental health treatment services for young people in New Mexico.",
+        "C": "To compensate families directly for the damages caused by child sex trafficking.",
+        "D": "To fund the development of new artificial intelligence models for Meta."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。根據文章第三段，法官 Bryan Biedscheid 明確指出這筆錢中約有 4.2 億美元（即大部分金額）將用於為州內的年輕人提供治療服務。選項 A 文中未提及；選項 C 錯誤在於時間長度，文中指明是五年而非十年；選項 D 雖然提到受影響的年輕人，但資金是投入治療與預防服務，而非直接發放現金給家庭。"
+      "explanationZh": "正確答案為 B。根據文章第二段，法官 Bryan Biedscheid 明確指出這 5.67 億美元中，絕大部分將用於為新墨西哥州的年輕人提供心理健康治療服務。選項 A 錯誤，文中未提及支付檢察長法律費用；選項 C 錯誤，雖然文章提到人口販運問題，但資金用途是針對治療與預防；選項 D 錯誤，AI 模型開發是 Meta 的義務，而非罰款的主要用途。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "Based on the article, why did the court decide to use AI for age estimation instead of requiring a standard government-issued ID check?",
+      "question": "What can be inferred about the challenges Meta faces regarding user age verification?",
       "options": {
-        "A": "The court believes AI is more accurate than official government documents.",
-        "B": "Meta refused to implement any form of age verification technology.",
-        "C": "The judge recognized legal and fairness limitations regarding age verification requirements.",
-        "D": "The court wants to ensure that Meta collects even more personal data from users."
+        "A": "Meta has successfully implemented perfect age-verification technology for all users.",
+        "B": "Federal laws make it difficult for Meta to directly verify the ages of children under 13.",
+        "C": "Meta is currently prohibited from using any form of artificial intelligence to track users.",
+        "D": "The court believes that Meta already has enough data to identify every underage user accurately."
       },
-      "correct": "C",
-      "explanationZh": "正確答案為 C。根據第五段，法官考量到聯邦法律限制了 Meta 查驗 13 歲以下兒童年齡的能力，且若僅要求 Meta 一家公司執行此規則而不要求其他社群媒體公司，會顯得不公平。因此，法院選擇要求 Meta 使用 AI 預測年齡作為替代方案。選項 A 文中未比較準確度；選項 B 與事實不符；選項 D 錯誤，因為法院反而要求 Meta 刪除收集到的年輕用戶個資。"
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第四段，文中提到聯邦隱私法（federal privacy laws）禁止 Meta 直接檢查 13 歲以下兒童的年齡，因此法院才要求 Meta 必須改用 AI 估算年齡。選項 A 與事實相反；選項 C 錯誤，法院反而要求 Meta 使用 AI；選項 D 錯誤，法院正是因為現有系統不足，才要求其在未來兩年內開發能預測 13 歲以下用戶的模型。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the first paragraph, what does the term 'public nuisance' mean in the context of the court's ruling?",
+      "question": "In the third paragraph, what does the word 'abatement' refer to in the context of the legal trial?",
       "options": {
-        "A": "A minor annoyance that is easily ignored by the general public.",
-        "B": "A legal term for activities that cause harm or discomfort to the community.",
-        "C": "A specific type of software bug that slows down application performance.",
-        "D": "A political protest organized by citizens against a large corporation."
+        "A": "The process of increasing the company's financial profits.",
+        "B": "The legal requirement to pay a fine for past mistakes.",
+        "C": "The actions taken to reduce or stop a harmful situation.",
+        "D": "The investigation of criminal activities by government agencies."
       },
-      "correct": "B",
-      "explanationZh": "正確答案為 B。文章第一段括號內明確解釋了 'public nuisance' 為「a situation that causes harm to the community」（對社區造成損害的情況）。在法律情境下，這是一個術語，指干擾公眾權益或安全的行為。選項 A 錯誤，因為它是法律訴訟的理由，而非簡單的困擾；選項 C 與 D 皆與文中定義的法律術語定義不符。"
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第三段明確定義了 'abatement' 為一個法律術語，指為了減少或阻止有害情況所採取的行動。選項 A 與文意完全相反；選項 B 雖然罰款是結果之一，但 'abatement' 本身強調的是「減少危害的行動」而非金錢賠償；選項 D 雖然文中提到了調查，但這並非該詞的定義。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "What is the primary message of this article regarding Meta’s legal situation in New Mexico?",
+      "question": "What is the central message of this article regarding the court's ruling against Meta?",
       "options": {
-        "A": "Meta has successfully proven that its platforms are not responsible for youth mental health.",
-        "B": "The New Mexico court is forcing Meta to shut down its operations permanently.",
-        "C": "New Mexico is the only state in the U.S. concerned about social media safety.",
-        "D": "The court is holding Meta accountable for its role in a youth mental health crisis through financial penalties and operational mandates."
+        "A": "Meta is being forced to shut down its platforms in New Mexico due to privacy violations.",
+        "B": "The court is holding Meta accountable for its role in the youth mental health crisis and mandating operational safety changes.",
+        "C": "New Mexico is the only state in the U.S. that has successfully sued a major technology company.",
+        "D": "Meta has voluntarily agreed to change its platform features to improve the lives of teenagers."
       },
-      "correct": "D",
-      "explanationZh": "正確答案為 D。全文的核心在於報導 Meta 因導致年輕人心理健康問題及安全疑慮，被法院判處高額罰款並要求進行營運改革。文章結尾提到這是一個重要的里程碑，顯示州政府願意採取法律行動來保護公民福祉。選項 A 與事實相反；選項 B 錯誤，Meta 仍繼續營運；選項 C 錯誤，文中並未指明只有新墨西哥州關注此議題，僅以該州為例。"
+      "correct": "B",
+      "explanationZh": "正確答案為 B。本文的主旨在於報導法院裁定 Meta 需為其平台對青少年心理健康造成的負面影響負責，不僅處以鉅額罰款，還強制要求其改變營運方式（如年齡估算與安全通知）。選項 A 過度誇大，並未要求關閉平台；選項 C 文中未提及其他州的情況；選項 D 錯誤，這並非 Meta 的自願行為，而是法院的強制命令。"
     }
   ],
   "aiGenerated": true,
