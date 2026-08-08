@@ -1,0 +1,151 @@
+{
+  "id": "2026-08-08-amazon-data-center-power-consumption-concerns",
+  "slug": "amazon-data-center-power-consumption-concerns-aug-2026",
+  "publishedAt": "2026-08-08T22:14:16.576332Z",
+  "category": "economics",
+  "title": "Amazon’s New Texas Power Project Raises Environmental Concerns",
+  "subtitle": "A massive data center project in Texas is linked to a new power plant that could release high levels of greenhouse gases.",
+  "summary": {
+    "en": "Amazon is building a large data center in West Texas that will be powered by a new natural-gas plant. This power station has received a permit to release a significant amount of carbon dioxide. Critics worry this project will make it harder for Amazon to reach its goal of being carbon neutral by 2040. The company says it remains committed to its climate goals despite the rising energy needs of artificial intelligence. Other technology companies are also building their own power plants as demand for computing power grows.",
+    "zh": "亞馬遜正在德州西部興建一座大型資料中心，將由一座新的天然氣發電廠供電。該電廠已獲准排放大量的二氧化碳。批評人士擔心，此計畫將使亞馬遜更難達成 2040 年碳中和的目標。亞馬遜表示，儘管人工智慧的能源需求不斷上升，公司仍致力於實現其氣候目標。隨著運算需求成長，其他科技公司也正在興建自有的發電廠。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Amazon is currently working on a major project in West Texas that highlights the growing tension between the rise of artificial intelligence and environmental goals. To provide electricity for a new data center, the company is investing in a nearby power plant that runs on natural gas. According to The Verge, this facility could become one of the largest producers of greenhouse gases in the United States. Greenhouse gases are gases in the atmosphere that trap heat and contribute to global warming.",
+      "zh": "亞馬遜 (Amazon) 目前正在德州西部進行一項大型計畫，凸顯了人工智慧的崛起與環境目標之間日益加劇的緊張關係。為了替一座新的資料中心供電，該公司正投資於一座鄰近的天然氣發電廠。根據科技媒體「邊緣」(The Verge) 報導，這座設施可能成為美國最大的溫室氣體排放源之一。溫室氣體是指大氣中會鎖住熱能並導致全球暖化的氣體。"
+    },
+    {
+      "id": "p2",
+      "en": "The project, known as GW Ranch, is located in Pecos County. Reports indicate that the plant will use 35 natural-gas turbines to deliver electricity directly to the data center. Unlike many other facilities, this plant will not be connected to the main Texas power grid. Instead, it is designed to provide power specifically for Amazon’s computing needs. The Verge noted that the site has received a permit from the state of Texas allowing it to release up to 33 million tons of carbon dioxide (CO2) each year. This amount is higher than the emissions permitted for the largest coal power plant currently operating in the country.",
+      "zh": "這項名為「GW Ranch」的計畫位於佩科斯郡 (Pecos County)。報導指出，該電廠將使用 35 台天然氣渦輪機，直接為資料中心提供電力。與許多其他設施不同，這座電廠不會連接到德州的主要電網，而是專門設計用來滿足亞馬遜的運算需求。邊緣雜誌指出，該場址已獲得德州政府核發的許可，每年可排放高達 3,300 萬噸的二氧化碳。此排放量高於目前美國境內運作中規模最大的燃煤電廠所獲准的排放額度。"
+    },
+    {
+      "id": "p3",
+      "en": "While experts point out that power plants rarely reach their maximum allowed pollution levels, the size of this permit has drawn attention from environmental observers. Cleanview, a group that monitors data centers and energy projects, highlighted that the rules regarding pollution for this site are very loose. Amazon has confirmed that it owns the site and plans to buy electricity from the plant once it is finished. This move comes as the demand for energy to run AI systems has increased rapidly across the technology industry.",
+      "zh": "儘管專家指出，發電廠極少達到其獲准的最高污染上限，但此許可規模已引起環境觀察人士的關注。專門監測資料中心與能源計畫的組織「Cleanview」強調，該場址的污染規範非常寬鬆。亞馬遜已證實擁有該場址，並計畫在電廠完工後向其購買電力。此舉正值科技產業對人工智慧系統的能源需求急劇增加之際。"
+    },
+    {
+      "id": "p4",
+      "en": "Amazon is not the only company facing this challenge. Other major technology firms, such as Meta and Google, have also started building their own power plants. To meet the massive energy needs of their data centers, some of these companies are turning to gas, coal, and other non-renewable energy sources. These are energy sources that cannot be replaced once they are used up, such as fossil fuels. Meanwhile, the current political climate in the United States has seen efforts to remove restrictions on these types of polluting power plants, which could make it easier for companies to build similar facilities in the future.",
+      "zh": "亞馬遜並非唯一面臨此挑戰的公司。其他大型科技企業，如 Meta 與 Google，也已開始興建自有的發電廠。為了滿足資料中心龐大的能源需求，其中一些公司正轉向天然氣、煤炭及其他非再生能源。這些能源一旦耗盡便無法再生，例如化石燃料。與此同時，美國當前的政治氛圍正試圖放寬對這類高污染發電廠的限制，這可能使企業未來更容易興建類似的設施。"
+    },
+    {
+      "id": "p5",
+      "en": "This development creates a difficult situation for Amazon’s long-term environmental promises. Jeff Bezos, the founder of Amazon, previously made a public commitment to make the company carbon neutral by 2040. Carbon neutral means that a company removes as much carbon dioxide from the atmosphere as it puts into it. However, Amazon’s total emissions have continued to rise for several years. This increase is largely driven by the massive amount of electricity required to support the growth of artificial intelligence technology.",
+      "zh": "此發展為亞馬遜的長期環境承諾帶來了棘手的局面。亞馬遜創辦人貝佐斯 (Jeff Bezos) 先前曾公開承諾，要在 2040 年前達成碳中和。碳中和是指企業從大氣中移除的二氧化碳量，與其排放量相等。然而，亞馬遜的總排放量已連續數年持續上升，這種成長主要歸因於支援人工智慧技術發展所需的龐大電力。"
+    },
+    {
+      "id": "p6",
+      "en": "In response to questions about these environmental goals, Amazon spokeswoman Margaret Callahan spoke to the New York Times. She explained that the world looks very different today than it did when the company first made its climate pledge. However, she emphasized that the company’s commitment to those goals has not changed. The situation remains a point of debate as the company tries to balance its expansion in the AI sector with its promise to protect the environment.",
+      "zh": "針對有關這些環境目標的質疑，亞馬遜發言人卡拉漢 (Margaret Callahan) 向《紐約時報》(New York Times) 表示，當今世界與該公司最初做出氣候承諾時已大不相同。不過，她強調公司對這些目標的承諾並未改變。隨著亞馬遜試圖在人工智慧領域的擴張與保護環境的承諾之間取得平衡，此情況仍是爭論的焦點。"
+    },
+    {
+      "id": "p7",
+      "en": "For now, the project in Texas serves as a clear example of the environmental costs associated with the modern digital age. As companies continue to build more data centers to support new technologies, the need for reliable and clean energy will likely continue to be a major issue. Whether Amazon can successfully manage the pollution from its new power plant while still reaching its 2040 climate goal remains to be seen. The outcome of this project may influence how other technology companies approach their own energy needs in the coming years.",
+      "zh": "目前，這項德州計畫清楚地呈現了現代數位時代所帶來的環境代價。隨著企業持續興建更多資料中心以支援新技術，對可靠且潔淨能源的需求，很可能持續成為重大議題。亞馬遜能否在成功管理新電廠污染的同時，仍達成 2040 年的氣候目標，尚待觀察。此計畫的結果可能會影響其他科技公司未來幾年處理自身能源需求的方式。"
+    }
+  ],
+  "wordCount": 685,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "runs on",
+      "definitionEn": "To use a particular type of fuel or energy source to operate.",
+      "definitionZh": "使用（某種燃料或能源）運作。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見作「跑步」，這裡指能源驅動。文中：To provide electricity for a new data center, the company is investing in a nearby power plant that runs on natural gas."
+    },
+    {
+      "term": "drawn attention",
+      "definitionEn": "To cause people to notice or become interested in something.",
+      "definitionZh": "引起注意。",
+      "partOfSpeech": "idiom",
+      "noteZh": "常見作「畫畫」，這裡指吸引目光。文中：While experts point out that power plants rarely reach their maximum allowed pollution levels, the size of this permit has drawn attention from environmental observers."
+    },
+    {
+      "term": "turning to",
+      "definitionEn": "To start using or doing something as a way to solve a problem or meet a need.",
+      "definitionZh": "轉向使用（某種方法或資源）以解決問題。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見作「轉身」，這裡指尋求某種資源。文中：To meet the massive energy needs of their data centers, some of these companies are turning to gas, coal, and other non-renewable energy sources."
+    },
+    {
+      "term": "driven by",
+      "definitionEn": "To be caused or influenced by something.",
+      "definitionZh": "由……所驅動、導致。",
+      "partOfSpeech": "verb (passive)",
+      "noteZh": "常見作「駕駛」，這裡指造成某種結果的背後原因。文中：This increase is largely driven by the massive amount of electricity required to support the growth of artificial intelligence technology."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "title": "An Amazon data center could have the worst polluting power plant in the country",
+      "publishedAt": "2026-08-08T17:53:34Z"
+    }
+  ],
+  "story": {
+    "id": "amazon-data-center-power-consumption-concerns",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "How does the GW Ranch project differ from typical power facilities in Texas?",
+      "options": {
+        "A": "It utilizes renewable energy sources instead of fossil fuels.",
+        "B": "It operates independently of the main Texas power grid.",
+        "C": "It is the first power plant in Texas to be fully owned by Amazon.",
+        "D": "It is required to meet stricter pollution limits than coal plants."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，文中明確指出該發電廠並未連接到德州的主要電力網（not connected to the main Texas power grid），而是專門為 Amazon 的運算需求供電。選項 A 錯誤，因為該廠使用天然氣；選項 C 雖然提到 Amazon 擁有該地，但並未說明它是「第一座」；選項 D 錯誤，文章提到其排放許可甚至高於燃煤電廠，而非更嚴格。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the relationship between AI development and Amazon's environmental goals?",
+      "options": {
+        "A": "Amazon has successfully transitioned to 100% clean energy for its AI systems.",
+        "B": "The energy demands of AI are making it harder for Amazon to fulfill its carbon-neutral pledge.",
+        "C": "Amazon plans to abandon its 2040 climate goal due to the rapid growth of AI.",
+        "D": "AI technology is currently being redesigned to require less electricity than before."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據第五段，Amazon 承諾在 2040 年達到碳中和，但文章指出其排放量持續上升，且這主要是由人工智慧技術所需的巨大電力需求所驅動。這顯示 AI 發展與環保目標之間存在衝突。選項 A 與事實相反；選項 C 錯誤，因為文章第六段提到公司強調其對目標的承諾並未改變；選項 D 在文中並未提及。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the third paragraph, what does the word 'loose' mean as used in the context of pollution rules?",
+      "options": {
+        "A": "Not strictly enforced or controlled.",
+        "B": "Physically disconnected from a structure.",
+        "C": "Large in physical size or volume.",
+        "D": "Easy to understand and follow."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在第三段中，Cleanview 組織提到該場地的污染規則非常「loose」，指的是這些規範不嚴格、限制寬鬆，使得污染許可量偏高。選項 B 是指物理上的鬆脫；選項 C 雖然文章提到該廠規模大，但 loose 在此處是用來形容規則（rules），而非尺寸；選項 D 指的是簡單易懂，與上下文談論的環保監管強度無關。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article?",
+      "options": {
+        "A": "The Texas government is incentivizing technology companies to build more data centers.",
+        "B": "Natural gas is the most efficient energy source for powering modern data centers.",
+        "C": "The rapid expansion of AI technology is creating a conflict between energy needs and environmental sustainability.",
+        "D": "Amazon is leading the industry in finding innovative ways to reduce carbon emissions by 2040."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。整篇文章從 Amazon 在德州的專案出發，討論了科技業對 AI 的需求如何導致對非再生能源的依賴，進而威脅到企業的環保承諾。這是一個關於科技發展與環境保護之間緊張關係的綜合性討論。選項 A 僅是背景的一部分；選項 B 並非文章主旨；選項 D 與文章強調的「排放量持續上升」的現實情況相矛盾。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
