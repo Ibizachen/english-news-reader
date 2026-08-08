@@ -1,0 +1,165 @@
+{
+  "id": "2026-08-08-amazon-data-center-sparks-environmental-power",
+  "slug": "amazon-data-center-sparks-environmental-power-aug-2026",
+  "publishedAt": "2026-08-08T22:44:53.796811Z",
+  "category": "economics",
+  "title": "The Growing Conflict Over AI Data Centers and Energy Use",
+  "subtitle": "As tech companies build massive server facilities, voters and environmentalists are pushing back against the impact on power grids and the climate.",
+  "summary": {
+    "en": "The rapid growth of artificial intelligence is leading to a surge in new data center construction across the United States. These massive facilities require immense amounts of electricity, often forcing companies to build their own power plants. This trend has sparked significant environmental concerns regarding carbon emissions. Meanwhile, politicians from both major parties are increasingly using opposition to these projects to win over voters. Communities are worried about rising energy costs, noise, and the environmental impact of these developments.",
+    "zh": "人工智慧的快速成長正導致美國各地資料中心建設激增。這些大型設施需要龐大的電力，常迫使企業自行興建發電廠。此趨勢引發了關於碳排放的重大環保疑慮。同時，兩大黨的政治人物正日益利用對這些計畫的反對立場來爭取選民支持。社區居民則擔憂能源成本上漲、噪音以及這些開發案帶來的環境衝擊。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The rapid expansion of artificial intelligence (AI) is changing how the world uses electricity, and it is creating a new, intense debate across the United States. As tech companies build giant, windowless buildings filled with computer servers—known as data centers—they are facing growing opposition from both environmental groups and local communities. This conflict is now reaching the highest levels of politics, as candidates in multiple states make the regulation of these facilities a central part of their campaigns.",
+      "zh": "人工智慧（AI）的快速擴張正在改變全球使用電力的方式，並在美國引發了一場激烈的新辯論。隨著科技公司建造充滿電腦伺服器、被稱為資料中心的巨大無窗建築，他們正面臨來自環保團體與當地社區日益高漲的反對聲浪。這場衝突目前已上升至最高政治層級，多個州的候選人已將這些設施的監管列為競選活動的核心議題。"
+    },
+    {
+      "id": "p2",
+      "en": "One of the most significant examples of this tension is currently unfolding in West Texas. According to The Verge, Amazon is building a large data center that will be powered by a new, dedicated natural-gas plant. This power station, known as GW Ranch, has received a permit allowing it to release up to 33 million tons of carbon dioxide (CO2). Cleanview, a group that monitors data center projects, noted that this limit is higher than that of the largest coal plant in the country. While companies rarely reach their maximum permitted pollution levels, the size of the project has raised alarms. This development creates a major challenge for Amazon’s goal to become carbon neutral—a state where a company removes as much carbon from the atmosphere as it adds—by 2040. Amazon spokesperson Margaret Callahan stated that while the company’s commitment to the climate remains, the world looks different today than when they first made that promise.",
+      "zh": "這種緊張局勢最顯著的例子之一，目前正在德州西部上演。根據科技新聞網站「邊緣」（The Verge）報導，亞馬遜（Amazon）正在興建一座大型資料中心，並將由一座全新的專用天然氣發電廠供電。這座被稱為「GW牧場」（GW Ranch）的電廠已獲得許可，允許其排放高達三千三百萬噸的二氧化碳。監測資料中心計畫的組織「潔淨視野」（Cleanview）指出，此排放上限高於美國境內最大的燃煤電廠。雖然企業極少達到其獲准的最高污染限額，但該計畫的規模已引發警訊。此發展對亞馬遜要在二〇四〇年達成「碳中和」——即企業從大氣中移除的碳量等於其排放量的狀態——的目標構成了重大挑戰。亞馬遜發言人瑪格麗特·卡拉漢（Margaret Callahan）表示，儘管公司對氣候的承諾不變，但今日的世界已與當初做出承諾時大不相同。"
+    },
+    {
+      "id": "p3",
+      "en": "This trend is not limited to Amazon. Other major tech companies, including Meta and Google, are also building their own power plants using gas and coal to meet the extreme energy demands of AI. However, this strategy is becoming a major political issue. According to NPR, a recent Gallup poll found that seven out of ten Americans oppose the construction of an AI data center in their local area. This widespread public concern has led politicians to take a stand.",
+      "zh": "這種趨勢並非亞馬遜所獨有。包括Meta與Google在內的其他大型科技公司，也正在建造自己的天然氣與燃煤發電廠，以滿足人工智慧對能源的極端需求。然而，此策略正演變成重大的政治議題。根據美國公共廣播電台（NPR）報導，近期一項蓋洛普（Gallup）民調顯示，每十位美國人中就有七位反對在當地興建人工智慧資料中心。這種廣泛的公眾擔憂已促使政治人物採取立場。"
+    },
+    {
+      "id": "p4",
+      "en": "In Michigan, Democratic candidate Abdul El-Sayed recently held a rally at the site of a new data center campus. He argued that the government must stop approving these projects until there are clear federal rules, or “guardrails,” to protect local communities. Similarly, in Ohio, Republican candidate for governor Vivek Ramaswamy has proposed an “Ohioans-first data center pledge.” He is calling for a moratorium—a temporary official stop—on new data center construction. Ramaswamy noted that he frequently hears concerns from voters about rising electric bills, noise, and pollution. He even suggested that these tech companies should be responsible for paying the power bills of people who live near their facilities.",
+      "zh": "在密西根州，民主黨候選人阿卜杜勒·埃爾-賽義德（Abdul El-Sayed）近期在一個新的資料中心園區預定地舉行了集會。他主張政府必須停止批准這些計畫，直到有明確的聯邦規範或「護欄」來保護當地社區為止。同樣地，在俄亥俄州，共和黨州長候選人維韋克·拉馬斯瓦米（Vivek Ramaswamy）提出了「俄亥俄州人優先資料中心承諾」。他呼籲對新建資料中心實施暫停令，即官方的臨時禁令。拉馬斯瓦米提到，他經常聽到選民對電費上漲、噪音與污染的擔憂。他甚至建議，這些科技公司應負責支付居住在其設施附近居民的電費。"
+    },
+    {
+      "id": "p5",
+      "en": "This political backlash is crossing party lines. In Wisconsin, Democratic candidate Francesca Hong has also called for a full moratorium on data center construction. She argues that the state needs new regulations to protect energy costs and the environment before allowing any more projects to move forward. For many candidates, like William Lawrence in Michigan, opposition to data centers was not part of their original plan. However, as voters continued to bring up the issue, it quickly became a key part of their campaign platforms.",
+      "zh": "這股政治反彈正跨越黨派界線。在威斯康辛州，民主黨候選人法蘭西絲卡·洪（Francesca Hong）也呼籲全面暫停資料中心的建設。她主張在允許更多計畫推進前，州政府需要新的法規來保障能源成本與環境。對於許多候選人，例如密西根州的威廉·勞倫斯（William Lawrence）而言，反對資料中心原本並不在他們的計畫之中。然而，隨著選民不斷提出此議題，它很快便成為他們競選平台的核心部分。"
+    },
+    {
+      "id": "p6",
+      "en": "The core of the problem lies in the massive amount of energy required to run AI systems. As these companies seek to secure reliable power, they are increasingly building their own energy sources, often outside of the existing power grid. This creates a situation where local communities feel they have little control over the industrial projects being built in their backyards. Critics argue that these projects are being pushed onto communities without enough consideration for the long-term economic or environmental costs.",
+      "zh": "問題的核心在於運作人工智慧系統所需的龐大能源。隨著這些公司尋求確保可靠的電力，他們越來越傾向於建造自己的能源來源，且通常位於現有的電力網之外。這造成了一種情況，即當地社區覺得自己對在自家後院興建的工業計畫幾乎沒有掌控權。批評者認為，這些計畫在推動時，並未充分考量長期的經濟或環境成本。"
+    },
+    {
+      "id": "p7",
+      "en": "As the demand for AI technology continues to grow, the pressure on the energy grid will likely increase. The debate over how to balance this technological progress with the needs of the environment and local citizens is far from over. With voters making their voices heard at the ballot box, it is clear that the future of data center construction will involve much stricter oversight and public debate. For now, tech companies face the difficult task of proving that their growth does not come at the expense of the communities and the climate they claim to serve.",
+      "zh": "隨著對人工智慧技術的需求持續成長，能源電網面臨的壓力很可能會增加。關於如何平衡此技術進步與環境及當地居民需求之間的辯論，遠未結束。隨著選民在投票箱前表達心聲，顯而易見的是，未來資料中心的建設將涉及更嚴格的監督與公眾辯論。目前，科技公司面臨著一項艱鉅的任務，即證明他們的成長並非以犧牲他們聲稱要服務的社區與氣候為代價。"
+    }
+  ],
+  "wordCount": 758,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "raised alarms",
+      "definitionEn": "To cause people to feel worried or concerned about a potential problem.",
+      "definitionZh": "引起警覺、讓人感到擔憂。",
+      "partOfSpeech": "idiom",
+      "noteZh": "此處並非指真的拉響警報器，而是指引起大眾的擔憂。文中：While companies rarely reach their maximum permitted pollution levels, the size of the project has raised alarms."
+    },
+    {
+      "term": "take a stand",
+      "definitionEn": "To publicly express a firm opinion about something, especially when there is opposition.",
+      "definitionZh": "採取立場、明確表態。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這是一個常見的片語，指在爭議中公開表達立場。文中：This widespread public concern has led politicians to take a stand."
+    },
+    {
+      "term": "crossing party lines",
+      "definitionEn": "Involving support or agreement from different political parties.",
+      "definitionZh": "跨越黨派界線、不分黨派。",
+      "partOfSpeech": "idiom",
+      "noteZh": "指某個議題不再侷限於單一政黨的立場，而是多黨共同關注。文中：This political backlash is crossing party lines."
+    },
+    {
+      "term": "at the expense of",
+      "definitionEn": "In a way that causes harm or damage to someone or something.",
+      "definitionZh": "以犧牲……為代價。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這是一個非常實用的片語，用於描述為了達成某事而損害了另一方。文中：For now, tech companies face the difficult task of proving that their growth does not come at the expense of the communities and the climate they claim to serve."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "title": "An Amazon data center could have the worst polluting power plant in the country",
+      "publishedAt": "2026-08-08T17:53:34Z"
+    },
+    {
+      "name": "NPR News",
+      "url": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms",
+      "title": "Data centers are a political issue crossing party lines, driving voters to candidates",
+      "publishedAt": "2026-08-08T09:00:00Z"
+    }
+  ],
+  "story": {
+    "id": "amazon-data-center-power-consumption-concerns",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "amazon-data-center-power-consumption-concerns-aug-2026",
+        "title": "Amazon’s New Texas Power Project Raises Environmental Concerns",
+        "publishedAt": "2026-08-08T22:14:16.576332Z",
+        "category": "economics",
+        "summaryEn": "Amazon is building a large data center in West Texas that will be powered by a new natural-gas plant. This power station has received a permit to release a significant amount of carbon dioxide. Critics worry this project will make it harder for Amazon to reach its goal of being carbon neutral by 2040. The company says it remains committed to its climate goals despite the rising energy needs of artificial intelligence. Other technology companies are also building their own power plants as demand for computing power grows."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the specific concern regarding the GW Ranch power station mentioned in the article?",
+      "options": {
+        "A": "It is currently the largest coal-powered plant in the United States.",
+        "B": "Its permitted CO2 emission limit exceeds that of the country's largest coal plant.",
+        "C": "It is being built by Google to support their new AI research facility.",
+        "D": "It is the first power plant in Texas to be fully powered by renewable energy."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，Cleanview 指出 GW Ranch 獲准排放的二氧化碳上限（3300萬噸）高於美國最大的燃煤電廠。選項 A 錯誤，因為文章僅是將其排放上限與燃煤電廠比較，並非說它是燃煤電廠。選項 C 錯誤，因為該項目是由 Amazon 負責。選項 D 錯誤，因為文章明確提到它是天然氣發電廠，而非再生能源。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the information provided, why are politicians increasingly making data centers a campaign issue?",
+      "options": {
+        "A": "They want to encourage tech companies to move their headquarters to their states.",
+        "B": "They believe data centers will solve the problem of rising electric bills for citizens.",
+        "C": "They are responding to public anxiety regarding environmental impact and local infrastructure.",
+        "D": "They want to force tech companies to switch entirely to solar and wind energy."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第三段提到七成美國人反對在當地建設數據中心，第四段與第五段更進一步說明候選人是因為選民對電費、噪音、污染等問題的擔憂，才將此議題納入政見。選項 A 與文章內容相反。選項 B 錯誤，因為候選人反而認為數據中心會影響電費。選項 D 過於武斷，文中並未提到候選人強制要求全面轉向太陽能或風能，僅要求制定聯邦規則或暫停建設。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fourth paragraph, what does the word 'moratorium' mean in the context of Vivek Ramaswamy's proposal?",
+      "options": {
+        "A": "A permanent ban on all future technology investments.",
+        "B": "A temporary official suspension of new construction projects.",
+        "C": "A government tax imposed on companies using excessive energy.",
+        "D": "A requirement for companies to share profits with local residents."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章在第四段括號中明確定義了 moratorium 為「a temporary official stop」（暫時的官方停止）。選項 A 錯誤，因為 moratorium 指的是暫時而非永久。選項 C 與 D 雖然是文中提到的其他建議（如付電費），但並非 moratorium 一詞的定義。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "Which of the following best summarizes the central theme of the article?",
+      "options": {
+        "A": "Amazon is the only company facing criticism for its energy-intensive AI growth.",
+        "B": "The construction of data centers is a purely economic issue with no environmental consequences.",
+        "C": "AI technology is becoming cheaper and more efficient due to new power grid regulations.",
+        "D": "The rapid growth of AI is causing a conflict between tech energy needs and community/environmental interests."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。全文的核心在於探討 AI 發展對能源的巨大需求，如何與地方社區的利益、環境保護產生衝突，並引發政治上的反彈。選項 A 錯誤，因為文中提到 Meta 和 Google 也面臨同樣問題。選項 B 完全錯誤，環境影響是核心爭議。選項 C 與文章事實不符，因為 AI 的能源需求目前是造成壓力而非變便宜。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}

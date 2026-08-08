@@ -1,0 +1,147 @@
+{
+  "id": "2026-08-08-rising-concerns-over-ai-deepfakes-targeting",
+  "slug": "rising-concerns-over-ai-deepfakes-targeting-aug-2026",
+  "publishedAt": "2026-08-08T22:44:53.796811Z",
+  "category": "technology",
+  "title": "A Growing Crisis: AI Deepfakes Targeting Children",
+  "subtitle": "New data reveals a sharp rise in manipulated images of children, sparking urgent calls for better safety protections.",
+  "summary": {
+    "en": "A new report from the Internet Watch Foundation shows a rapid increase in children reporting fake, explicit images of themselves. These images are often created using advanced AI tools that are easy for anyone to access. Experts warn that this trend is linked to serious crimes like sextortion. The government and safety organizations are calling for tech companies to build stronger protections into their software. Parents are being urged to be careful about sharing photos of children online.",
+    "zh": "網際網路觀察基金會的一份最新報告顯示，通報自己遭到偽造露骨影像侵害的兒童人數迅速增加。這些影像通常是利用任何人都能輕易取得的先進人工智慧工具所製作。專家警告，此趨勢與性勒索等嚴重犯罪有關。政府與安全組織正呼籲科技公司在軟體中建立更強大的保護機制。家長也被敦促在網路上分享兒童照片時應更加謹慎。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "A new report has highlighted a worrying trend in the United Kingdom: a sharp increase in the number of children reporting explicit deepfake images of themselves. A deepfake is a digital image or video that has been changed by artificial intelligence to make it look real, even though it is fake. According to The Guardian, the Report Remove service, which helps take down intimate images from the internet, has already received 420 reports from children in the first six months of this year. This number is already higher than the total for the entire year of 2025.",
+      "zh": "一份最新報告凸顯了英國一項令人擔憂的趨勢：通報自己遭到深度偽造（deepfake）露骨影像侵害的兒童人數急劇增加。深度偽造是指透過人工智慧技術修改的數位影像或影片，儘管內容虛假，卻看起來十分逼真。根據《衛報》（The Guardian）報導，協助從網路上移除私密影像的「報告移除」（Report Remove）服務，在今年上半年已接獲四百二十起來自兒童的通報。此數字已超過二零二五年全年的總通報數。"
+    },
+    {
+      "id": "p2",
+      "en": "This update follows previous warnings about the dangers of AI-generated content. Dan Sexton, a technology expert at the Internet Watch Foundation (IWF), explained that these tools have become very easy for people to use. He noted that the situation is difficult to control because anyone can take a normal photo of a child from the internet and turn it into something harmful. The IWF works with the charity NSPCC to help children remove these images. Because of the high number of reports, they have even added a special button on their website so children can quickly flag images as deepfakes.",
+      "zh": "這項更新是繼先前針對人工智慧生成內容所發出的警告之後提出的。網際網路觀察基金會（Internet Watch Foundation，簡稱 IWF）的技術專家塞克斯頓（Dan Sexton）解釋，這些工具現在變得非常容易使用。他指出，情況難以控制，因為任何人都可以從網路上取得兒童的普通照片，並將其轉變為有害內容。IWF 與慈善機構全國防止虐待兒童協會（NSPCC）合作，協助兒童移除這些影像。由於通報數量龐大，他們甚至在網站上新增了一個特殊按鈕，讓兒童能快速將影像標記為深度偽造。"
+    },
+    {
+      "id": "p3",
+      "en": "Experts are particularly concerned about how these images are being used. Some victims have been targeted for sextortion, which is a type of crime where a blackmailer threatens to share private or fake images unless the victim pays money or sends more photos. The IWF reported that most of the images flagged this year were so severe that they were classified as child sexual abuse material, or CSAM. In the UK, it is illegal to use AI to create this kind of material, and the government has introduced laws to stop people from sharing or creating these dangerous AI models.",
+      "zh": "專家們特別擔憂這些影像被濫用的方式。部分受害者成為性勒索的目標，這是一種犯罪行為，勒索者會威脅受害者，若不支付金錢或提供更多照片，就會散布其私密或偽造的影像。IWF 指出，今年標記的大多數影像情節嚴重，已被歸類為兒童性虐待素材（CSAM）。在英國，利用人工智慧製作此類素材屬於違法行為，政府也已引進相關法律，以阻止民眾分享或製作這些危險的人工智慧模型。"
+    },
+    {
+      "id": "p4",
+      "en": "There is a clear disagreement between how quickly AI technology is growing and how well companies are protecting users. Rani Govender, an online safety expert at the NSPCC, stated that tech companies are responsible for this problem. She argued that these companies cannot keep releasing new AI products without including strong safety features that prevent people from creating harmful content in the first place. She called the rise in these reports both alarming and predictable, given how easily accessible these tools have become.",
+      "zh": "人工智慧技術的發展速度與企業對使用者的保護力道之間，存在明顯的落差。NSPCC 的網路安全專家戈文德（Rani Govender）表示，科技公司應為此問題負責。她主張，這些公司不能在未納入強大安全機制的情況下，持續發布無法防止使用者製作有害內容的新人工智慧產品。鑑於這些工具變得如此容易取得，她稱通報數量的上升既令人震驚，也在預料之中。"
+    },
+    {
+      "id": "p5",
+      "en": "To fight this, services like Report Remove use a process called \"hashing.\" This turns an image into a unique digital fingerprint. Once this fingerprint is shared with major tech platforms, they can find the image and remove it, or stop it from being uploaded again. However, experts agree that removing images is only part of the solution. The National Crime Agency and the IWF have recently encouraged parents and guardians to be much more careful about the photos they share of their children on social media. They suggest that limiting the number of pictures posted online is one of the few ways to stop these images from being stolen and manipulated.",
+      "zh": "為了對抗此現象，像「報告移除」這類服務會使用一種稱為「雜湊」（hashing）的程序。這會將影像轉換為獨一無二的數位指紋。一旦此指紋與各大科技平台共享，平台便能搜尋並移除該影像，或阻止其再次被上傳。然而，專家一致認為移除影像只是解決方案的一部分。英國國家犯罪局（National Crime Agency）與 IWF 近期呼籲家長與監護人，在社群媒體上分享兒童照片時應更加謹慎。他們建議，限制發布到網路上的照片數量，是防止照片被竊取與操弄的少數方法之一。"
+    },
+    {
+      "id": "p6",
+      "en": "Looking ahead, the challenge remains significant. As AI tools become more powerful, the risk to children continues to grow. The IWF has warned that everyone is potentially at risk, and the ability to stop these images from being created is limited once a photo is public. The focus is now shifting toward demanding that tech companies take more responsibility for the safety of their products. Until then, parents, schools, and safety organizations are working together to educate children about the risks and to provide support for those who have already been targeted by these digital crimes.",
+      "zh": "展望未來，挑戰依然嚴峻。隨著人工智慧工具變得更加強大，兒童面臨的風險持續增加。IWF 警告，每個人都有潛在風險，且一旦照片公開，要阻止這些影像被製作出來的能力相當有限。目前的焦點正轉向要求科技公司對其產品的安全性負起更多責任。在此之前，家長、學校與安全組織正共同努力，教育兒童認識相關風險，並為已成為這些數位犯罪目標的受害者提供支援。"
+    }
+  ],
+  "wordCount": 632,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "flag",
+      "definitionEn": "To mark or identify something as important, problematic, or needing attention.",
+      "definitionZh": "標記；標示（以引起注意或處理）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（旗幟），這裡作動詞，指標記出有問題的內容。文中：Because of the high number of reports, they have even added a special button on their website so children can quickly flag images as deepfakes."
+    },
+    {
+      "term": "targeted",
+      "definitionEn": "To be selected as the object of an attack or a specific action.",
+      "definitionZh": "成為（攻擊或行動的）目標；鎖定。",
+      "partOfSpeech": "verb (past participle)",
+      "noteZh": "常見作名詞（目標），這裡作動詞的被動用法，強調受害者被鎖定。文中：Some victims have been targeted for sextortion, which is a type of crime where a blackmailer threatens to share private or fake images unless the victim pays money or sends more photos."
+    },
+    {
+      "term": "shifting",
+      "definitionEn": "To move the focus or attention from one thing to another.",
+      "definitionZh": "轉移（焦點或重心）。",
+      "partOfSpeech": "verb (present participle)",
+      "noteZh": "常見作名詞（輪班），這裡作動詞，指注意力的轉移。文中：The focus is now shifting toward demanding that tech companies take more responsibility for the safety of their products."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/2026/aug/08/uk-children-explicit-deepfake-images-ai",
+      "title": "Rising number of UK children report seeing explicit deepfakes of themselves",
+      "publishedAt": "2026-08-08T07:00:39Z"
+    }
+  ],
+  "story": {
+    "id": "rising-deepfake-abuse-against-uk-children",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "rising-deepfake-abuse-against-uk-children-aug-2026",
+        "title": "The Growing Danger of AI Deepfakes Targeting Children in the UK",
+        "publishedAt": "2026-08-08T22:14:16.576332Z",
+        "category": "technology",
+        "summaryEn": "A new report shows a sharp increase in children reporting fake, explicit images of themselves online. These images are often created using advanced AI tools that are easy for anyone to access. Experts warn that this trend is linked to serious crimes like blackmail and sexual abuse. The Internet Watch Foundation and the NSPCC are now urging technology companies to build stronger safety features into their products. Parents are also being advised to be more careful about the photos of children they share on the internet."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the report, what is the primary reason the Report Remove service has added a new button to their website?",
+      "options": {
+        "A": "To allow parents to report illegal AI companies to the government.",
+        "B": "To help children quickly flag images that have been manipulated by AI.",
+        "C": "To provide a direct link to the National Crime Agency for legal advice.",
+        "D": "To make it easier for children to delete their own social media accounts."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，由於舉報數量激增，IWF 與 NSPCC 合作在網站上新增了一個特殊按鈕，目的是讓兒童能快速標記（flag）被 AI 竄改的深偽影像。選項 A 錯誤，因為該按鈕是為了處理影像而非舉報公司；選項 C 錯誤，文中未提及該按鈕與法律諮詢有關；選項 D 錯誤，該功能是針對深偽影像，而非刪除個人帳號。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the relationship between social media usage and the risk of deepfake victimization?",
+      "options": {
+        "A": "Publicly sharing photos of children increases the likelihood of them becoming targets.",
+        "B": "Tech companies have successfully blocked all stolen photos from being uploaded.",
+        "C": "The government has banned all AI-generated content from being posted on the internet.",
+        "D": "Children are no longer at risk if they stop using social media entirely."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。根據第五段，專家建議家長減少在社交媒體上分享孩子的照片，因為這是防止照片被竊取與操縱的少數方法之一，這暗示了公開照片會增加被利用的風險。選項 B 錯誤，因為文章提到移除影像只是部分解決方案；選項 C 錯誤，政府是禁止非法製造與分享，而非禁止所有 AI 內容；選項 D 過於絕對，文中僅提到這是降低風險的方法，而非保證完全無風險。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fourth paragraph, what does the word 'predictable' mean in the context of the rise in deepfake reports?",
+      "options": {
+        "A": "Something that is confusing or hard to understand.",
+        "B": "Something that is expected to happen based on existing conditions.",
+        "C": "Something that is completely avoidable if people try harder.",
+        "D": "Something that happens by pure accident without a cause."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在文中，Rani Govender 將報告數量的增加稱為「predictable」（可預測的），是因為這些 AI 工具變得非常容易取得且缺乏安全防護，因此這種結果是預料之中的。選項 A 錯誤，因為它與 confusing 意思相反；選項 C 錯誤，文中強調的是趨勢的必然性而非可避免性；選項 D 錯誤，因為這並非意外，而是技術發展與監管不足下的必然結果。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article regarding the issue of AI deepfakes involving children?",
+      "options": {
+        "A": "The UK government has completely solved the problem of AI-generated child abuse.",
+        "B": "Children should be blamed for sharing too many photos on the internet.",
+        "C": "The rapid growth of AI and lack of safety features have created a serious, growing threat to children.",
+        "D": "The only way to stop deepfakes is to ban all AI technology worldwide."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。全文的核心在於討論 AI 技術發展迅速，但科技公司未能提供足夠的安全防護，導致兒童面臨嚴重的深偽影像威脅，並強調了各界需共同努力應對。選項 A 錯誤，問題尚未解決；選項 B 錯誤，文章並未指責兒童，而是呼籲家長與公司負起責任；選項 D 錯誤，文中並未主張全面禁止 AI 技術，而是強調監管與防護的必要性。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
