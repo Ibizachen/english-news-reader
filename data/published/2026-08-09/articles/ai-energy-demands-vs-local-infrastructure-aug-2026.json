@@ -1,0 +1,149 @@
+{
+  "id": "2026-08-09-ai-energy-demands-vs-local-infrastructure",
+  "slug": "ai-energy-demands-vs-local-infrastructure-aug-2026",
+  "publishedAt": "2026-08-09T22:14:18.855783Z",
+  "category": "energy",
+  "title": "The Hidden Costs of the AI Boom: Datacentres and Local Communities",
+  "subtitle": "As artificial intelligence grows, the massive energy and water needs of digital infrastructure are putting pressure on local towns.",
+  "summary": {
+    "en": "The rapid growth of artificial intelligence requires massive amounts of computing power housed in large buildings called datacentres. These facilities use significant electricity and water to keep their servers cool, especially during hot weather. Residents in areas like Slough, which has a high concentration of these buildings, report concerns about noise and rising local temperatures. While companies argue there is no clear proof they are causing heat issues, researchers suggest these buildings can create a 'heat island' effect. This situation highlights the growing tension between the needs of the digital economy and the quality of life for local communities.",
+    "zh": "人工智慧的快速成長需要龐大的運算能力，而這些能力由稱為資料中心的大型建築所支撐。這些設施在運作時會消耗大量電力與水資源來冷卻伺服器，尤其是在炎熱天氣下。在斯勞等資料中心高度集中的地區，居民對噪音與當地氣溫上升表示擔憂。儘管企業主張沒有明確證據顯示其營運導致了高溫問題，但研究人員指出，這些建築確實可能產生「熱島」效應。此情況凸顯了數位經濟需求與在地社區生活品質之間日益加劇的緊張關係。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "In recent years, the rapid development of artificial intelligence (AI) has changed how we work, communicate, and solve problems. However, behind every AI-powered app or digital service lies a physical reality: the datacentre. These are large, windowless buildings filled with thousands of computers that process and store the world’s digital information. As the demand for AI grows, the number of these facilities is increasing, leading to new challenges for the towns and cities where they are built.",
+      "zh": "近年來，人工智慧的快速發展改變了我們工作、溝通與解決問題的方式。然而，在每個由人工智慧驅動的應用程式或數位服務背後，都存在著一個物理現實：資料中心。這些大型、沒有窗戶的建築物內裝滿了數以千計的電腦，負責處理並儲存全球的數位資訊。隨著對人工智慧的需求日益增長，這類設施的數量也隨之增加，為其所在的城鎮帶來了新的挑戰。"
+    },
+    {
+      "id": "p2",
+      "en": "One example of this trend is Slough, a town located just west of London. According to The Guardian, Slough now hosts the densest cluster of datacentres in western Europe, with as many as 40 facilities currently in operation and more planned for the future. This growth is largely due to the town's proximity to London, which allows for faster digital financial transactions, and local planning rules that have encouraged business development.",
+      "zh": "這種趨勢的一個例子是位於倫敦西郊的斯勞（Slough）。根據《衛報》（The Guardian）報導，斯勞目前擁有西歐最密集的資料中心聚落，現有設施多達四十座，且未來還有更多建設計畫。這種成長主要歸因於該鎮鄰近倫敦，這有助於加速數位金融交易，加上當地的規劃規範也鼓勵了商業發展。"
+    },
+    {
+      "id": "p3",
+      "en": "However, the presence of these massive buildings has created tension with local residents. Datacentres require enormous amounts of electricity to run their servers, and they need vast quantities of water to keep the machinery from overheating. During the summer, when temperatures rise, these cooling systems must work even harder, which significantly increases the demand for both power and water. For people living nearby, this creates visible and audible changes in their environment. Residents have reported a constant, low-level industrial noise, often described as a buzzing or whirring sound that is particularly noticeable at night.",
+      "zh": "然而，這些龐大建築的存在與當地居民產生了緊張關係。資料中心運作伺服器需要消耗極大量的電力，並需要大量的水來防止機器過熱。夏季氣溫升高時，這些冷卻系統必須更賣力運作，這顯著增加了對電力與水的需求。對於住在附近的居民來說，這對環境造成了可見且可聽的改變。居民反映，環境中持續存在著低頻的工業噪音，通常被形容為一種嗡嗡聲或機械運轉聲，在夜間尤為明顯。"
+    },
+    {
+      "id": "p4",
+      "en": "Beyond the noise, there are concerns about the local climate. Some residents believe that the heat released by these cooling systems is making their neighborhoods warmer. This concern is supported by early research. The Guardian reports that a recent study by researchers at Cambridge University suggests that datacentres can create a “heat island” effect. This is a phenomenon where a specific area becomes significantly warmer than its surroundings, with temperatures potentially rising by an average of 2C, and in some cases, as much as 9C in the immediate vicinity.",
+      "zh": "除了噪音之外，當地氣候也令人擔憂。部分居民認為，這些冷卻系統排放的熱氣正在讓他們的社區變得更熱。這項擔憂得到了初步研究的支持。《衛報》報導指出，劍橋大學（Cambridge University）研究人員近期的一項研究顯示，資料中心可能會產生「熱島」效應。這是一種特定區域氣溫顯著高於周邊環境的現象，氣溫平均可能上升攝氏二度，在緊鄰設施的區域，氣溫甚至可能上升高達攝氏九度。"
+    },
+    {
+      "id": "p5",
+      "en": "In response to these claims, the corporate owners of the trading estate in Slough have stated that they have not seen conclusive evidence showing that their operations are directly responsible for increasing local temperatures. They maintain that their facilities are designed to meet modern standards, though they acknowledge the scale of their energy and water usage. This disagreement reflects a broader global debate: how should society balance the massive energy needs of modern technology with the needs of the communities that host them?",
+      "zh": "針對這些指控，斯勞工業園區的企業主表示，他們尚未看到確鑿證據顯示其營運直接導致當地氣溫上升。他們堅稱其設施設計符合現代標準，儘管他們承認自身能源與用水量的規模龐大。這種分歧反映了一個更廣泛的全球性辯論：社會該如何在現代科技的龐大能源需求，與收容這些設施的社區需求之間取得平衡？"
+    },
+    {
+      "id": "p6",
+      "en": "For many, the issue is about fairness and sustainability. As The Guardian noted, the constant operation of these servers is often linked to the use of fossil fuels, which contributes to the global climate emergency. When a heatwave hits, the machines essentially compete with local homes for resources. This creates a difficult choice for local governments: should they prioritize the infrastructure needed for the digital economy, or should they focus on protecting the environment and the comfort of their residents?",
+      "zh": "對許多人而言，這是一個關於公平與永續性的議題。正如《衛報》所指出的，這些伺服器的持續運作通常與化石燃料的使用掛鉤，這加劇了全球氣候危機。當熱浪來襲時，這些機器本質上是在與當地住戶爭奪資源。這為地方政府帶來了兩難的抉擇：他們應該優先考慮數位經濟所需的基礎設施，還是應該專注於保護環境與居民的生活舒適度？"
+    },
+    {
+      "id": "p7",
+      "en": "Looking ahead, the situation in Slough serves as a warning for other cities around the world. As AI continues to evolve, the demand for computing power will likely increase, not decrease. Experts suggest that the future of the tech industry will depend on its ability to become more efficient. This might involve finding new ways to cool servers without using so much water or moving toward cleaner, renewable energy sources to power these massive machines. For now, however, the residents of towns like Slough are left to deal with the immediate effects of a digital boom that is happening right in their own backyards.",
+      "zh": "展望未來，斯勞的情況為全球其他城市敲響了警鐘。隨著人工智慧持續演進，對運算能力的需求很可能會增加而非減少。專家建議，科技產業的未來將取決於其提升效率的能力。這可能包括尋找不需消耗大量水資源的新型伺服器冷卻方式，或是轉向使用更乾淨的再生能源來驅動這些大型機器。然而就目前而言，像斯勞這類城鎮的居民，只能獨自面對這場發生在自家後院的數位繁榮所帶來的直接影響。"
+    },
+    {
+      "id": "p8",
+      "en": "Ultimately, the rise of AI is not just a technological story; it is a story about resources and space. As we continue to build the digital future, the relationship between big tech companies and the local communities they rely on will become increasingly important. Finding a balance that respects both the need for innovation and the well-being of local people will be one of the defining challenges of the coming decade.",
+      "zh": "歸根究柢，人工智慧的興起不僅是一個科技故事，更是一個關於資源與空間的故事。隨著我們持續建構數位未來，大型科技公司與其所依賴的在地社區之間的關係將變得日益重要。找到一個既能尊重創新需求，又能兼顧在地居民福祉的平衡點，將是未來十年最具決定性的挑戰之一。"
+    }
+  ],
+  "wordCount": 752,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "run",
+      "definitionEn": "To operate or manage a machine or system.",
+      "definitionZh": "運作、操作（機器或系統）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作「跑」，這裡指機器運作。文中：Datacentres require enormous amounts of electricity to run their servers, and they need vast quantities of water to keep the machinery from overheating."
+    },
+    {
+      "term": "host",
+      "definitionEn": "To provide the space or infrastructure for something to exist or happen.",
+      "definitionZh": "主辦、容納、提供場地。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（主人），這裡作動詞。文中：Slough now hosts the densest cluster of datacentres in western Europe, with as many as 40 facilities currently in operation and more planned for the future."
+    },
+    {
+      "term": "backyards",
+      "definitionEn": "The immediate area surrounding someone's home or community.",
+      "definitionZh": "後院（引申為鄰近地區、切身相關的範圍）。",
+      "partOfSpeech": "noun (idiomatic)",
+      "noteZh": "這裡並非單指自家的後花園，而是指鄰近的社區環境。文中：For now, however, the residents of towns like Slough are left to deal with the immediate effects of a digital boom that is happening right in their own backyards."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Environment",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/09/slough-famous-the-office-datacentres-locals-hub-europe",
+      "title": "As AI guzzles water and energy, we are already facing a choice: datacentres or homes? | John Harris",
+      "publishedAt": "2026-08-09T11:03:18Z"
+    }
+  ],
+  "story": {
+    "id": "ai-energy-demands-vs-local-infrastructure",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the text, what is one reason why Slough has become a major hub for datacentres?",
+      "options": {
+        "A": "It has an unlimited supply of renewable energy.",
+        "B": "Local government regulations have been favorable to business growth.",
+        "C": "It is the only town in western Europe with enough space for large buildings.",
+        "D": "The town's residents requested the construction of these facilities."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，Slough 成為數據中心聚集地的原因之一是「local planning rules that have encouraged business development」（鼓勵商業發展的當地規劃規則）。選項 A 文章未提及；選項 C 雖然提到它是西歐密度最高的區域，但未說它是「唯一」有空間的地方；選項 D 文章提到居民與數據中心有衝突，並未表示居民歡迎這些設施。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the relationship between AI development and local resources?",
+      "options": {
+        "A": "AI development helps local residents save electricity during heatwaves.",
+        "B": "As AI technology improves, the need for water and power in local areas will likely decrease.",
+        "C": "The growth of AI can create competition between tech companies and local residents for essential resources.",
+        "D": "Tech companies are currently prioritizing the comfort of local residents over their own operational needs."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第六段，當熱浪來襲時，伺服器與當地家庭會競爭資源，顯示 AI 發展與居民需求之間存在資源分配的衝突。選項 A 與文意相反；選項 B 文章第七段提到未來需提升效率，但目前需求仍在增加；選項 D 文章提到企業否認責任，並未顯示他們優先考慮居民舒適度。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the word 'backyards' mean in the phrase 'happening right in their own backyards'?",
+      "options": {
+        "A": "The physical gardens behind the residents' houses.",
+        "B": "The immediate local area where people live and work.",
+        "C": "The hidden storage rooms inside the datacentres.",
+        "D": "The political offices responsible for urban planning."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在此語境下，「in their own backyards」是一個慣用語，意指發生在個人居住的鄰近區域或社區範圍內，而非字面上的後花園。選項 A 是字面意思，屬於錯誤干擾；選項 C 與 D 與文章提到的社會影響無關。此用法強調數位發展對當地生活造成的直接衝擊。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article?",
+      "options": {
+        "A": "Slough is the most important location for digital finance in the world.",
+        "B": "AI technology is primarily a problem for the environment rather than a benefit.",
+        "C": "The rapid growth of AI requires a careful balance between technological progress and the needs of local communities.",
+        "D": "Datacentres should be moved away from towns and cities to prevent noise pollution."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章從數據中心帶來的影響出發，探討了科技發展與當地居民生活品質、資源分配之間的衝突，並在結尾強調「平衡創新與居民福祉」是未來的關鍵挑戰。選項 A 僅是案例細節；選項 B 過度簡化文章觀點；選項 D 是可能的解決方向之一，但並非文章探討的核心主旨。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
