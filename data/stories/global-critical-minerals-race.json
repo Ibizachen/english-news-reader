@@ -1,0 +1,37 @@
+{
+  "id": "global-critical-minerals-race",
+  "title": "The Global Race for Critical Minerals",
+  "subtitle": "Understanding the geopolitical and economic stakes behind the materials powering our future.",
+  "description": "As the world transitions to green energy, the demand for lithium, cobalt, and rare earth elements has surged. This series explores the supply chain challenges, international tensions, and environmental impacts of securing these essential resources.",
+  "category": "energy",
+  "status": "active",
+  "updatedAt": "2026-08-10T03:11:09.467887Z",
+  "cadence": "5-part reading path. Complete series available.",
+  "articles": [
+    {
+      "slug": "global-critical-minerals-race-part-1",
+      "label": "Part 1",
+      "note": "Defining what critical minerals are and their necessity for the energy transition."
+    },
+    {
+      "slug": "global-critical-minerals-race-part-2",
+      "label": "Part 2",
+      "note": "Mapping the countries and corporations that control extraction and processing."
+    },
+    {
+      "slug": "global-critical-minerals-race-part-3",
+      "label": "Part 3",
+      "note": "How countries are restricting exports to gain leverage."
+    },
+    {
+      "slug": "global-critical-minerals-race-part-4",
+      "label": "Part 4",
+      "note": "The human and ecological cost of the mining boom."
+    },
+    {
+      "slug": "global-critical-minerals-race-part-5",
+      "label": "Part 5",
+      "note": "Future solutions including recycling, new battery chemistries, and diplomatic alliances."
+    }
+  ]
+}
