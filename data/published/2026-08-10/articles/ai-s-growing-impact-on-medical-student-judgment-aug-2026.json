@@ -1,0 +1,151 @@
+{
+  "id": "2026-08-10-ai-s-growing-impact-on-medical-student-judgment",
+  "slug": "ai-s-growing-impact-on-medical-student-judgment-aug-2026",
+  "publishedAt": "2026-08-10T22:14:07.339571Z",
+  "category": "technology",
+  "title": "The AI Dilemma: Are Medical Students Losing the Ability to Think for Themselves?",
+  "subtitle": "As artificial intelligence becomes a standard tool in hospitals, experts worry that the next generation of doctors may fail to develop essential clinical skills.",
+  "summary": {
+    "en": "Medical students are increasingly using AI tools to help with their studies and patient care. While these tools provide quick answers, experts fear that students are missing out on the difficult process of learning how to think like a doctor. This 'never-skilling' problem means students might rely on technology instead of building their own clinical judgment. Many trainees feel pressured to use AI to keep up with their peers, even when they know it could be a crutch. Experts argue that schools must change how they teach to ensure future doctors can still reason independently.",
+    "zh": "醫學生正日益頻繁地使用人工智慧工具來輔助學習與病患照護。雖然這些工具能提供快速答案，但專家擔心學生正錯失學習如何像醫師一樣思考的艱難過程。這種「技能缺失」的問題意味著學生可能會依賴科技，而非建立自己的臨床判斷力。許多實習生即便知道人工智慧可能成為一種依賴，仍感到必須使用它來跟上同儕的壓力。專家主張，醫學院必須改變教學方式，以確保未來的醫師仍能具備獨立推理的能力。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "In the fast-paced world of modern medicine, technology has always played a role in how doctors work. From advanced medical imaging to digital records, tools have helped physicians see more and organize information better. However, a new type of technology is changing the way medical students learn. Artificial Intelligence (AI) tools, such as the chatbot OpenEvidence, are now being used by trainees to answer complex medical questions, check drug interactions, and find clinical guidelines in seconds. While this technology offers speed and efficiency, it has sparked a serious debate about the future of medical education.",
+      "zh": "在步調快速的現代醫學領域中，科技始終在醫師的工作方式中扮演著重要角色。從先進的醫學影像到數位病歷，各種工具協助醫師看得更清楚，並更有效地整理資訊。然而，一種新興科技正在改變醫學生的學習方式。人工智慧（AI）工具，例如聊天機器人 OpenEvidence，現在正被實習醫師用來回答複雜的醫學問題、檢查藥物交互作用，並在幾秒鐘內找到臨床指引。儘管這項技術提供了速度與效率，卻也引發了關於醫學教育未來的嚴肅辯論。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Guardian Technology, there is a growing concern that medical students, residents, and fellows are becoming too dependent on AI. The core of the issue is what experts call 'never-skilling.' In the past, medical training was built on a process of trial and error. A student would struggle to create a list of possible diagnoses, sometimes making mistakes, but learning valuable lessons from those errors. This process of 'struggle' is a vital part of becoming a doctor. It helps students build the inner habits of clinical reasoning—the ability to look at symptoms and logically determine what is wrong with a patient.",
+      "zh": "根據《衛報科技》（The Guardian Technology）報導，人們越來越擔心醫學生、住院醫師與研究員變得過度依賴人工智慧。問題的核心在於專家所稱的「技能缺失」（never-skilling）。過去，醫學訓練建立在反覆試錯的過程中。學生會為了列出可能的診斷清單而苦惱，有時會犯錯，但能從這些錯誤中學到寶貴的教訓。這種「掙扎」的過程是成為醫師至關重要的一部分。它能幫助學生建立臨床推理的內在習慣，也就是觀察症狀並合乎邏輯地判斷病人病況的能力。"
+    },
+    {
+      "id": "p3",
+      "en": "Today, a student can simply ask an AI tool for a near-perfect answer. By repeating this information to their supervisors, students might appear well-prepared and knowledgeable. However, The Guardian Technology notes that this performance can hide a lack of real understanding. If a student never learns how to reason through a problem on their own, they may never develop the independent judgment required to handle difficult medical cases. The danger is that we are creating a generation of 'supervisors of reasoning' before we have actually created 'reasoners.'",
+      "zh": "如今，學生只需詢問人工智慧工具，就能得到近乎完美的答案。透過向指導醫師複述這些資訊，學生看起來可能準備充分且知識淵博。然而，《衛報科技》指出，這種表現可能會掩蓋對醫學缺乏真正理解的事實。如果學生從未學會如何獨自推敲問題，他們可能永遠無法培養出處理棘手病例所需的獨立判斷力。危險在於，在我們真正培養出具備「推理能力」的醫師之前，就已經先創造出了一代只會「監督推理」的人。"
+    },
+    {
+      "id": "p4",
+      "en": "This problem is made worse by the fact that AI tools are not always perfect. A recent study in Nature Medicine found that some AI tools, including those that pull from the latest medical research, can be less reliable than they seem. In some cases, these specialized medical tools were found to be less accurate than general-purpose AI chatbots. This creates a risk of 'misplaced trust,' where a student might accept an AI’s answer as truth without double-checking the facts. For an experienced doctor, this might not be a major issue because they have the intuition to spot a mistake. For a student whose understanding of medicine is still being formed, however, the relationship with AI is much more complicated.",
+      "zh": "人工智慧工具並非總是完美，這讓問題變得更加嚴重。《自然醫學》（Nature Medicine）近期的一項研究發現，某些人工智慧工具（包含那些引用最新醫學研究的工具）的可靠性可能不如預期。在某些案例中，這些專業醫學工具的準確度甚至不如通用型人工智慧聊天機器人。這產生了「錯置的信任」風險，學生可能會在未經查證的情況下，就將人工智慧的答案視為真理。對於經驗豐富的醫師來說，這或許不是大問題，因為他們具備察覺錯誤的直覺；但對於醫學知識尚在建構中的學生而言，與人工智慧的關係則複雜得多。"
+    },
+    {
+      "id": "p5",
+      "en": "Many medical trainees are aware of these risks. They know that relying on AI can become a 'crutch'—a tool that makes them feel supported but actually prevents them from walking on their own. Yet, many students feel stuck in what can be described as a dangerous game of pressure. If every other student is using AI to sound smarter and more prepared, choosing not to use it feels like a disadvantage. Because of this, many students feel they have no choice but to use these tools to keep up with their peers.",
+      "zh": "許多醫學實習生都意識到這些風險。他們知道依賴人工智慧可能會變成一種「拐杖」——這項工具讓他們感到有依靠，但實際上卻阻礙了他們獨立行走的能力。然而，許多學生感到被困在所謂的「壓力博弈」中。如果其他學生都在使用人工智慧來讓自己顯得更聰明、準備更充分，那麼選擇不使用似乎就成了劣勢。正因如此，許多學生覺得為了跟上同儕，他們別無選擇，只能使用這些工具。"
+    },
+    {
+      "id": "p6",
+      "en": "Experts suggest that the solution cannot simply be telling students to stop using AI. Instead, the answer must be structural, meaning that medical schools need to change their rules and teaching methods. If the goal of medical training is to produce doctors who can think critically, then the way students are tested and evaluated must change to reflect the presence of AI. Educators need to find ways to ensure that students are still practicing the difficult, necessary work of clinical reasoning, even in an age where answers are just a click away.",
+      "zh": "專家建議，解決之道不能只是單純要求學生停止使用人工智慧。相反地，答案必須是結構性的，這意味著醫學院需要改變其規範與教學方法。如果醫學訓練的目標是培養能進行批判性思考的醫師，那麼評量與考核學生的方式就必須隨之調整，以反映人工智慧的存在。教育工作者需要設法確保學生即便在答案唾手可得的時代，仍能持續進行臨床推理這項困難且必要的訓練。"
+    },
+    {
+      "id": "p7",
+      "en": "Ultimately, the role of the physician is evolving. As AI becomes more capable, the job of a doctor will increasingly involve supervising these machines. But to supervise a machine effectively, a doctor must first understand the medicine behind the machine’s output. The challenge for medical schools is to balance the benefits of new technology with the timeless need for human judgment. If they fail to do this, the medical community risks losing the very skills that make a doctor truly effective. The future of patient care depends on ensuring that the next generation of doctors can think for themselves, even when the technology is there to do it for them.",
+      "zh": "歸根究柢，醫師的角色正在演變。隨著人工智慧的能力日益增強，醫師的工作將越來越多地涉及監督這些機器。但若要有效監督機器，醫師必須先理解機器輸出結果背後的醫學原理。醫學院面臨的挑戰，在於如何平衡新科技帶來的益處與人類判斷力這項永恆的需求。如果無法做到這一點，醫學界將面臨失去讓醫師真正發揮效用的核心技能之風險。病患照護的未來，取決於能否確保下一代醫師即便在科技能代勞的情況下，依然具備獨立思考的能力。"
+    }
+  ],
+  "wordCount": 768,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "played a role",
+      "definitionEn": "To have an effect or influence on something.",
+      "definitionZh": "扮演某種角色、發揮作用。",
+      "partOfSpeech": "idiom",
+      "noteZh": "常見於描述影響力，這裡指科技對醫生工作方式的影響。文中：technology has always played a role in how doctors work."
+    },
+    {
+      "term": "reason through",
+      "definitionEn": "To think about a problem logically in order to find a solution.",
+      "definitionZh": "透過邏輯思考來解決問題。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這裡強調的是思考的過程，而非單純的「推理」。文中：If a student never learns how to reason through a problem on their own, they may never develop the independent judgment required to handle difficult medical cases."
+    },
+    {
+      "term": "crutch",
+      "definitionEn": "Something that a person relies on too much for support, often preventing them from developing their own skills.",
+      "definitionZh": "拐杖（喻指過度依賴的工具或依靠）。",
+      "partOfSpeech": "noun (metaphorical)",
+      "noteZh": "原意是醫療用的拐杖，這裡比喻學生對 AI 的過度依賴。文中：They know that relying on AI can become a 'crutch'—a tool that makes them feel supported but actually prevents them from walking on their own."
+    },
+    {
+      "term": "keep up with",
+      "definitionEn": "To maintain the same pace or level as others.",
+      "definitionZh": "跟上（他人或進度）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這裡指學生為了不落後於同儕而被迫使用 AI。文中：Because of this, many students feel they have no choice but to use these tools to keep up with their peers."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/10/ai-medical-students-judgment",
+      "title": "What happens when medical students rely on AI – and never develop their own judgment? | Simar Bajaj and Joseph Sakran",
+      "publishedAt": "2026-08-10T12:00:44Z"
+    }
+  ],
+  "story": {
+    "id": "ai-s-growing-impact-on-medical-student-judgment",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is the primary concern regarding the 'never-skilling' phenomenon in medical education?",
+      "options": {
+        "A": "Students are failing to learn how to use advanced medical imaging technology.",
+        "B": "Students bypass the essential process of trial and error needed to develop clinical reasoning.",
+        "C": "Medical schools are replacing human supervisors with AI chatbots to save costs.",
+        "D": "AI tools are providing incorrect information about drug interactions to students."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第二段明確指出「never-skilling」的核心問題在於學生跳過了過去透過「試誤（trial and error）」來學習的過程，而這個過程對於培養臨床推理能力至關重要。選項 A 文中未提及；選項 C 錯誤，文中並未提到學校用 AI 取代人類督導；選項 D 雖然提到 AI 有時不準確，但這並非「never-skilling」定義的核心問題。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the relationship between experienced doctors and medical students regarding AI usage?",
+      "options": {
+        "A": "Experienced doctors are more likely to be deceived by AI errors than students.",
+        "B": "Students are better at identifying AI mistakes because they are more tech-savvy.",
+        "C": "Experienced doctors have the intuition to detect AI errors, while students may lack the foundational knowledge to do so.",
+        "D": "Both groups are equally capable of identifying when an AI tool provides inaccurate medical advice."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第四段，文章提到經驗豐富的醫生具備直覺（intuition）來發現 AI 的錯誤，但對於基礎知識尚在建立中的醫學生來說，這種情況更複雜且危險。選項 A 與文意相反；選項 B 文中並未暗示學生比醫生更擅長辨識錯誤；選項 D 顯然與第四段結尾的論點矛盾。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fifth paragraph, the author describes AI as a 'crutch.' What does this metaphor imply?",
+      "options": {
+        "A": "It is a necessary support that makes medical training faster and more efficient.",
+        "B": "It is a temporary tool that helps students recover from academic failure.",
+        "C": "It is an external aid that provides comfort but hinders the development of independent abilities.",
+        "D": "It is a complex piece of technology that requires specialized training to operate."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文中將 AI 比喻為「拐杖（crutch）」，並解釋這是一個讓學生感到被支持，但實際上阻礙他們「獨立行走（walking on their own）」的工具。這強調了過度依賴會削弱自身能力。選項 A 雖然提到效率，但「crutch」在此處帶有負面意涵；選項 B 誤解了拐杖在此處隱喻的「長期依賴」而非「短期恢復」；選項 D 偏離了文章強調的教育意義。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central argument of the article regarding AI in medical education?",
+      "options": {
+        "A": "Medical schools should immediately ban all AI tools to protect the quality of future doctors.",
+        "B": "AI tools have made medical knowledge obsolete, so the curriculum needs to be completely redesigned.",
+        "C": "While AI is useful, medical education must evolve to ensure students still develop critical clinical reasoning skills.",
+        "D": "The primary goal of medical training should be teaching students how to effectively manage AI software."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章整體討論了 AI 帶來的便利與風險，並在第六、七段總結，認為解決方案不是禁止 AI，而是調整教學方法，確保學生在 AI 時代仍能培養出獨立思考與臨床推理的核心能力。選項 A 太過極端；選項 B 誇大了 AI 的影響；選項 D 雖然提到監督機器，但這只是手段而非教學的最終目標。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
