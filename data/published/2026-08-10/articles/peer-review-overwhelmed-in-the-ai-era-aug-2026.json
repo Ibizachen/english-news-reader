@@ -1,0 +1,144 @@
+{
+  "id": "2026-08-10-peer-review-overwhelmed-in-the-ai-era",
+  "slug": "peer-review-overwhelmed-in-the-ai-era-aug-2026",
+  "publishedAt": "2026-08-10T22:55:41.350685Z",
+  "category": "technology",
+  "title": "Can Peer Review Survive in the Age of AI?",
+  "subtitle": "As the number of scientific papers grows rapidly, the traditional system of checking research quality is under pressure.",
+  "summary": {
+    "en": "Scientific research is growing at a very fast rate, making it hard for the peer review system to keep up. Peer review is the process where experts check each other's work before it is published. Many researchers now struggle to find enough time to volunteer for this important task. Some scientists report that reviewers are making more mistakes because they are overworked. The future of this system remains uncertain as the volume of new studies continues to rise.",
+    "zh": "科學研究正以極快的速度成長，使得同儕審查系統難以跟上腳步。同儕審查是指專家在研究發表前相互檢查彼此工作的程序。許多研究人員現在難以抽出足夠的時間來擔任這項重要工作的志工。一些科學家指出，由於審查人員過勞，導致錯誤頻傳。隨著新研究數量持續增加，這套系統的未來仍充滿不確定性。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The world of scientific research is facing a difficult challenge. As more scientists publish their work, the system used to check that research—known as peer review—is starting to struggle. Peer review is a long-standing process where other experts in the same field read a new study to check if it is correct and well-written. These reviewers usually work as volunteers, giving their time for free to help maintain high standards in science.",
+      "zh": "科學研究領域正面臨一項艱鉅的挑戰。隨著越來越多科學家發表研究成果，用於審核這些研究的機制——即所謂的「同儕審查」——正開始陷入困境。同儕審查是一項行之有年的程序，由同一領域的其他專家閱讀新研究，以檢查其內容是否正確且撰寫得當。這些審查人員通常以志工身分參與，無償貢獻時間，協助維持科學界的高標準。"
+    },
+    {
+      "id": "p2",
+      "en": "According to Ars Technica, the number of research papers being published is growing very quickly. Databases that track scientific work show that the number of papers is increasing by about 5.6 percent every year. This means that reviewers have more work than ever before. Because this work is done for free, many researchers are finding it harder to donate the large amount of time required to do a good job.",
+      "zh": "根據科技媒體 Ars Technica 報導，研究論文的發表數量正快速成長。追蹤科學著作的資料庫顯示，論文數量每年約增加百分之五點六。這意味著審查人員的工作量比以往任何時候都多。由於這項工作是無償的，許多研究人員發現，要撥出完成審查工作所需的大量時間變得越來越困難。"
+    },
+    {
+      "id": "p3",
+      "en": "Jason Semprini, a health economist at Des Moines University, recently experienced the problems caused by this busy system. He wrote a study about policies for the HPV vaccine, which helps prevent cervical cancer. When he sent his work to a journal, it was sent to a reviewer for feedback. However, the reviewer misunderstood the main point of the study, thinking Semprini was questioning the vaccine itself rather than the policy meant to increase vaccination rates. Because there was only one reviewer instead of the usual two or three, the paper was rejected based on this mistake.",
+      "zh": "德梅因大學 (Des Moines University) 的健康經濟學家傑森·森普里尼 (Jason Semprini) 最近就經歷了這套繁忙系統所引發的問題。他撰寫了一份關於人類乳突病毒疫苗政策的研究，該疫苗有助於預防子宮頸癌。當他將研究提交給期刊時，該文被送交給一名審查人員進行回饋。然而，該名審查人員誤解了研究的核心重點，以為森普里尼是在質疑疫苗本身，而非探討旨在提高疫苗接種率的政策。由於該篇論文僅由一名而非通常的兩到三名審查人員進行審核，導致論文因這項誤解而遭到拒絕。"
+    },
+    {
+      "id": "p4",
+      "en": "This experience is becoming more common across many different fields of study. Ars Technica reports that researchers around the world spend a combined 15,000 years of work on peer review every year. If these experts were paid for their time, the cost in the United States alone would be about $1.5 billion. As the number of papers continues to rise, the system is beginning to show signs of breaking down.",
+      "zh": "這種經驗在許多不同研究領域中正變得越來越普遍。Ars Technica 報導指出，全球研究人員每年在同儕審查上總共花費了相當於一萬五千年的工作時間。如果這些專家能因其付出的時間獲得報酬，僅在美國一地的成本就將高達約十五億美元。隨著論文數量持續攀升，這套系統已開始出現崩潰的跡象。"
+    },
+    {
+      "id": "p5",
+      "en": "There are several reasons why this is a major concern for the scientific community. First, peer review is essential for making sure that only accurate and reliable information is shared with the public. If reviewers are too busy or tired to read papers carefully, mistakes can be missed. As seen in Semprini’s case, this can lead to good research being rejected for the wrong reasons. When the process fails, it slows down the progress of science and makes it harder for researchers to share their findings with the world.",
+      "zh": "這對科學界而言是一項重大隱憂，原因有幾點。首先，同儕審查對於確保只有準確且可靠的資訊能傳達給大眾至關重要。如果審查人員過於忙碌或疲憊，無法仔細閱讀論文，就可能遺漏錯誤。正如森普里尼的案例所示，這可能導致優秀的研究因錯誤的理由而被拒絕。當審查程序失靈時，會拖慢科學進展，並使研究人員更難以與世界分享他們的發現。"
+    },
+    {
+      "id": "p6",
+      "en": "Some experts worry that the rise of artificial intelligence might make things even more complicated. While AI tools could potentially help summarize papers or check for basic errors, they also make it easier for people to write and submit a large number of papers very quickly. This could lead to an even bigger wave of submissions, putting more pressure on the humans who are responsible for checking them. The balance between the speed of publishing and the need for careful, human review is becoming harder to maintain.",
+      "zh": "一些專家擔心，人工智慧的興起可能會讓情況變得更加複雜。雖然人工智慧工具或許能協助摘要論文或檢查基本錯誤，但它們也讓人類更容易快速撰寫並提交大量論文。這可能會引發更大規模的投稿浪潮，對負責審核的人類審查員造成更大壓力。在出版速度與嚴謹的人類審查需求之間，要維持平衡正變得越來越困難。"
+    },
+    {
+      "id": "p7",
+      "en": "Looking ahead, the scientific community must decide how to fix these problems. Some suggest that journals might need to find new ways to support reviewers, perhaps by offering better recognition or finding ways to make the process more efficient. Others wonder if the traditional model of peer review needs a complete update to handle the demands of the modern world. Without a change, the system that keeps science honest and reliable may continue to falter under the weight of its own success.",
+      "zh": "展望未來，科學界必須決定如何解決這些問題。有些人建議期刊或許需要尋找新方法來支持審查人員，例如提供更好的認可，或是設法提高審查程序的效率。另一些人則質疑，傳統的同儕審查模式是否需要徹底更新，以應對現代世界的各種需求。若不做出改變，這套維持科學誠信與可靠性的系統，可能會在自身成功的重壓下持續動搖。"
+    }
+  ],
+  "wordCount": 645,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "struggle",
+      "definitionEn": "To experience difficulty and make a great effort in order to do something.",
+      "definitionZh": "掙扎、費力、難以應付。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（掙扎），這裡作動詞，形容系統運作困難。文中：the system used to check that research—known as peer review—is starting to struggle."
+    },
+    {
+      "term": "breaking down",
+      "definitionEn": "To fail or stop working effectively.",
+      "definitionZh": "崩潰、故障、無法再運作。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這裡指系統因負擔過重而無法維持運作。文中：As the number of papers continues to rise, the system is beginning to show signs of breaking down."
+    },
+    {
+      "term": "falter",
+      "definitionEn": "To become weaker or less effective.",
+      "definitionZh": "動搖、衰退、變得不穩。",
+      "partOfSpeech": "verb",
+      "noteZh": "此詞較為書面，形容系統因壓力而逐漸失去效能。文中：Without a change, the system that keeps science honest and reliable may continue to falter under the weight of its own success."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+      "title": "Peer review is overwhelmed—can it survive in the AI era?",
+      "publishedAt": "2026-08-10T11:00:47Z"
+    }
+  ],
+  "story": {
+    "id": "peer-review-overwhelmed-in-the-ai-era",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What led to the rejection of Jason Semprini's study on the HPV vaccine?",
+      "options": {
+        "A": "The study was poorly written and lacked scientific evidence.",
+        "B": "A single reviewer misinterpreted the primary focus of his research.",
+        "C": "The journal had a policy against publishing research on public health.",
+        "D": "The reviewers were too busy to read his paper before the deadline."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，Semprini 的研究被拒絕是因為只有一名審稿人，且該審稿人錯誤地理解了研究的主旨，以為他在質疑疫苗本身而非疫苗政策。選項 A 與文意不符，文章未提及寫作品質問題。選項 C 無中生有，文章未提及期刊政策。選項 D 雖然提到審稿人很忙，但導致拒絕的直接原因是「誤解」而非「沒時間閱讀」。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the current state of the scientific peer review system?",
+      "options": {
+        "A": "It is becoming more accurate because of the increased number of researchers.",
+        "B": "It is likely to be replaced entirely by artificial intelligence very soon.",
+        "C": "It is struggling to maintain quality because the workload exceeds the available volunteer capacity.",
+        "D": "It is being financially supported by the U.S. government to ensure better results."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。綜合文章第二段與第四段，研究論文數量每年成長 5.6%，導致審稿人工作量過大，而審稿工作多為志願性質，難以負荷，導致系統出現崩潰跡象。選項 A 錯誤，文章指出系統反而因壓力而面臨挑戰。選項 B 過度推論，文章僅提到 AI 可能帶來更多壓力，並未說會完全取代。選項 D 錯誤，文章提到若要支付審稿人費用需高達 15 億美元，暗示目前並未獲得此類資金支持。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the word 'falter' most closely mean as used in the context of the peer review system?",
+      "options": {
+        "A": "To weaken or lose strength.",
+        "B": "To change direction suddenly.",
+        "C": "To improve in efficiency.",
+        "D": "To become more expensive."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在文末「the system... may continue to falter under the weight of its own success」中，falter 意指因無法承受過重負擔而變得不穩定、衰退或失去效力。選項 B 錯誤，此處並非指方向改變。選項 C 與文意相反，falter 指的是功能退化而非效率提升。選項 D 雖然提到成本，但 falter 本身並非指變貴，而是指系統運作出現動搖或崩潰。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article?",
+      "options": {
+        "A": "Artificial intelligence is the best solution to fix the problems in scientific publishing.",
+        "B": "Scientific journals should start paying reviewers to increase the number of submissions.",
+        "C": "The increasing volume of scientific research is placing unsustainable pressure on the traditional peer review process.",
+        "D": "Researchers should publish fewer papers to help maintain the quality of scientific journals."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。全文的核心主旨都在探討科學論文發表數量的激增如何對現行的志願審稿制度造成壓力，進而影響科學研究的品質與正確性。選項 A 錯誤，文章對 AI 持保留態度。選項 B 僅是文中提到的其中一個建議，並非全文主旨。選項 D 雖然是解決方向之一，但文章重點在於描述問題的嚴重性，而非給予研究人員具體的發表建議。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
