@@ -1,79 +1,86 @@
 {
   "id": "2026-08-11-ai-s-role-in-boosting-fossil-fuel-production",
   "slug": "ai-s-role-in-boosting-fossil-fuel-production-aug-2026",
-  "publishedAt": "2026-08-11T22:14:08.183318Z",
+  "publishedAt": "2026-08-11T23:00:39.365300Z",
   "category": "technology",
-  "title": "Is Artificial Intelligence Helping or Hurting the Climate?",
-  "subtitle": "New research suggests that AI technology is currently doing more to increase fossil fuel production than it is to help clean energy.",
+  "title": "The Hidden Climate Cost of Artificial Intelligence",
+  "subtitle": "New research suggests that AI technology is helping oil and gas companies produce more fuel, potentially harming the environment.",
   "summary": {
-    "en": "A new study reveals that AI is helping companies find and produce more oil, gas, and coal. While AI can help renewable energy, its current impact on fossil fuels is much larger. Experts warn that these productivity gains are leading to higher carbon emissions. Major energy companies are already using AI to discover new oil wells and save money. The research suggests that without major changes, AI will continue to make climate change worse.",
-    "zh": "一項最新研究揭露，人工智慧正在協助企業探勘並生產更多的石油、天然氣與煤炭。儘管人工智慧能協助再生能源發展，但其目前對化石燃料的影響力要大得多。專家警告，這些生產力的提升正導致碳排放量增加。大型能源公司已開始利用人工智慧來發現新油井並節省成本。研究指出，若無重大改變，人工智慧將持續惡化氣候變遷問題。"
+    "en": "A new study reveals that AI technology is doing more to increase fossil fuel production than to help clean energy. While AI can improve renewable energy grids, it is also making it easier and cheaper to find and drill for oil and gas. Experts warn that these productivity gains lead to higher carbon emissions. Major energy companies are already using AI to discover new oil wells and increase their efficiency. This trend suggests that the climate benefits of AI are being outweighed by its role in expanding fossil fuel use.",
+    "zh": "一項新研究揭示，人工智慧技術在增加化石燃料產量方面的作用，大於其對清潔能源的幫助。雖然人工智慧能改善再生能源電網，但它也讓尋找與鑽探石油及天然氣變得更簡單且廉價。專家警告，這些生產力的提升導致了更高的碳排放。大型能源公司已開始利用人工智慧發現新油井並提升效率。此趨勢顯示，人工智慧在擴張化石燃料使用方面的角色，已抵銷了其對氣候帶來的益處。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "Artificial intelligence (AI) is changing almost every part of our lives, from how we work to how we use energy. For a long time, many people hoped that AI would be a powerful tool to fight climate change. They believed it could help manage electricity grids better and make renewable energy, like wind and solar power, more efficient. However, a new study suggests that AI might actually be doing more harm than good for the environment.",
-      "zh": "人工智慧（AI）正在改變我們生活的幾乎每一個層面，從我們的工作方式到能源的使用皆然。長期以來，許多人寄望人工智慧能成為對抗氣候變遷的強大工具。他們相信人工智慧有助於更妥善地管理電力網，並提升風能與太陽能等再生能源的效率。然而，一項最新研究指出，人工智慧對環境造成的危害可能大於其帶來的益處。"
+      "en": "Artificial Intelligence (AI) is often praised for its ability to help the environment, but a new study shows a more complicated reality. While many people focus on how AI can make renewable energy more efficient, researchers have found that the technology is currently doing more to increase the production of coal, oil, and gas. This new report provides a clear look at how AI is changing the energy sector, suggesting that its impact on climate change may be worse than previously thought.",
+      "zh": "人工智慧（AI）常因其協助環境的能力而受到讚譽，但一項新研究揭示了更為複雜的現實。儘管許多人聚焦於人工智慧如何提升再生能源的效率，研究人員卻發現，該技術目前在增加煤炭、石油與天然氣產量方面的作用更大。這份新報告清楚呈現了人工智慧如何改變能源產業，並指出其對氣候變遷的影響可能比先前預想的更為嚴重。"
     },
     {
       "id": "p2",
-      "en": "According to The Guardian, researchers have found that AI is currently helping the fossil fuel industry more than it is helping clean energy. The study looked at 64 different scenarios to see how AI affects the energy sector. It found that, on average, AI-driven productivity—the ability to produce more goods or services in less time—leads to an increase in carbon pollution. This pollution comes from the extra oil, gas, and coal that companies are now able to find and extract using new technology.",
-      "zh": "根據《衛報》（The Guardian）報導，研究人員發現，人工智慧目前對化石燃料產業的助益，遠大於對潔淨能源的幫助。該研究檢視了 64 種不同情境，以觀察人工智慧如何影響能源部門。研究發現，平均而言，由人工智慧驅動的生產力提升——即在更短時間內生產更多商品或服務的能力——導致了碳污染的增加。這些污染源自於企業利用新技術所能額外探勘與開採出的石油、天然氣及煤炭。"
+      "en": "According to The Guardian, researchers looked at 64 different scenarios to understand how AI affects global energy. They discovered that AI-driven productivity gains—improvements in how much work can be done—are leading to more planet-heating pollution. The study estimates that these activities cause yearly carbon pollution to rise by between 0.47 and 1.8 gigatonnes. This amount is equal to about 1% to 5% of the total yearly emissions from the entire energy sector.",
+      "zh": "根據《衛報》（The Guardian）報導，研究人員檢視了 64 種不同情境，以了解人工智慧如何影響全球能源。他們發現，人工智慧帶來的生產力提升（即工作效率的改善）正導致更多導致地球暖化的污染。研究估計，這些活動每年導致碳污染增加 0.47 至 1.8 十億噸。此數值約佔整個能源產業每年總排放量的 1% 至 5%。"
     },
     {
       "id": "p3",
-      "en": "In the past, many studies only looked at how much energy AI datacentres use. They often ignored the fact that AI is also being used to make drilling for oil cheaper and faster. Lynn Kaack, an expert in computer science and public policy, noted that previous research often missed this bigger picture. She explained that many studies focused on the energy needed to run AI systems but ignored the extra emissions caused by using AI to increase fossil fuel production.",
-      "zh": "過去，許多研究僅關注人工智慧資料中心消耗了多少能源，卻往往忽略了人工智慧也被用於降低石油鑽探成本並提升其速度的事實。電腦科學與公共政策專家琳恩·卡克（Lynn Kaack）指出，先前的研究往往忽略了這個大局。她解釋說，許多研究聚焦於運行人工智慧系統所需的能源，卻忽視了利用人工智慧增加化石燃料生產所產生的額外排放。"
+      "en": "In the past, many studies only looked at the positive side of AI, such as how it helps manage electricity grids or reduces the downtime of wind and solar power. However, these studies often ignored the extra pollution caused by using AI to drill for oil or extract gas. Lynn Kaack, a professor at the Hertie School, noted that previous research completely left out the picture of AI causing these increases in emissions. She explained that most earlier work only compared the energy used by data centers to the savings AI provides, without looking at the full impact of increased fossil fuel production.",
+      "zh": "過去，許多研究僅關注人工智慧的正面影響，例如協助管理電網或減少風能與太陽能發電的停機時間。然而，這些研究往往忽略了利用人工智慧進行石油鑽探或天然氣開採所產生的額外污染。赫爾蒂學院（Hertie School）教授琳恩·卡克（Lynn Kaack）指出，先前的研究完全忽略了人工智慧導致排放量增加的整體情況。她解釋說，大多數早期研究僅比較資料中心消耗的能源與人工智慧帶來的節能效益，卻未審視化石燃料產量增加所帶來的全面影響。"
     },
     {
       "id": "p4",
-      "en": "Why is this happening? The answer lies in how quickly the industry is adopting this technology. Holly Alpine, a co-author of the study, explained that fossil fuel companies are already using AI at a large scale. They have real contracts and are using the technology in their daily work right now. In contrast, many AI applications for renewable energy are still in the early testing phase. These clean energy projects often face other problems, such as difficulty getting legal permission to build or connecting to the power grid.",
-      "zh": "為什麼會發生這種情況？答案在於產業採用這項技術的速度。該研究的共同作者荷莉·阿爾派恩（Holly Alpine）解釋道，化石燃料公司早已大規模使用人工智慧。他們擁有實際合約，且目前正將這項技術應用於日常工作中。相較之下，許多針對再生能源的人工智慧應用仍處於早期測試階段。這些潔淨能源專案往往面臨其他問題，例如難以取得建設的法律許可，或是難以併入電力網。"
+      "en": "For the climate to benefit from AI, the technology would need to help renewable energy much more than it helps fossil fuels. The researchers found that for emissions to stay the same, the productivity gains for clean energy would need to be at least four times greater than those for fossil fuels. Currently, this is not happening. Holly Alpine, a co-author of the study, explained that fossil fuel applications of AI are already happening at a large scale. In contrast, many renewable energy projects using AI are still in the early, experimental stages.",
+      "zh": "若要讓氣候從人工智慧中受益，該技術必須在協助再生能源方面的貢獻遠大於其對化石燃料的幫助。研究人員發現，若要維持排放量不變，再生能源的生產力提升幅度必須至少是化石燃料的四倍。目前情況並非如此。該研究的共同作者荷莉·阿爾派恩（Holly Alpine）解釋說，人工智慧在化石燃料領域的應用已達大規模運作階段。相較之下，許多使用人工智慧的再生能源專案仍處於早期的實驗階段。"
     },
     {
       "id": "p5",
-      "en": "Energy companies are very open about their success with AI. The International Energy Agency estimates that AI could increase the amount of oil and gas that companies can recover by 5%. It could also cut the cost of deepwater offshore projects by 10%. Some oil and gas executives are even calling this new wave of technology \"the next fracking boom,\" referring to a method of drilling that significantly increased oil and gas production in the past.",
-      "zh": "能源公司對於他們在人工智慧領域的成功毫不避諱。國際能源總署（International Energy Agency）估計，人工智慧可使企業能回收的石油與天然氣量增加 5%，並能將深海離岸專案的成本降低 10%。一些石油與天然氣公司的高層甚至將這波新技術浪潮稱為「下一個水力壓裂熱潮」，意指過去曾大幅提升石油與天然氣產量的一種鑽探方法。"
+      "en": "Major energy companies are already seeing the financial benefits of using these new tools. The International Energy Agency estimates that AI could increase the amount of oil and gas that companies can technically recover by 5%. It could also cut the costs of deepwater offshore projects by 10%. Some executives have even described this shift as the next “fracking boom,” referring to the process of using high-pressure liquid to release oil or gas from underground rock.",
+      "zh": "大型能源公司已開始從這些新工具中獲得財務收益。國際能源總署（International Energy Agency）估計，人工智慧可使企業在技術上可回收的石油與天然氣量增加 5%，並能將深海離岸專案的成本降低 10%。一些高階主管甚至將此轉變描述為下一波「水力壓裂熱潮」，意指利用高壓液體從地下岩層中釋放石油或天然氣的過程。"
     },
     {
       "id": "p6",
-      "en": "Specific examples show how this works in the real world. Saudi Aramco, a major energy company, stated last year that it has used AI in almost every part of its business to increase the number of wells it operates. Similarly, the company Equinor recently credited AI and new seismic technology for 27 new discoveries on the Norwegian continental shelf. One of these, the Lofn and Langermann oil wells, was described by the company as its largest discovery in 2025. Equinor said that AI was key to this success, helping them plan their wells and understand data more efficiently.",
-      "zh": "具體案例顯示了這項技術在現實世界中的運作方式。大型能源公司沙烏地阿拉伯國家石油公司（Saudi Aramco）去年表示，已將人工智慧應用於其業務的幾乎每一個環節，以增加其營運的油井數量。同樣地，挪威國家能源公司（Equinor）近期將其在挪威大陸棚的 27 項新發現，歸功於人工智慧與新的地震探勘技術。其中，Lofn 與 Langermann 油井被該公司形容為 2025 年最大的發現。Equinor 表示，人工智慧是達成此成就的關鍵，協助他們更有效率地規劃油井並解讀數據。"
+      "en": "Saudi Aramco, one of the world’s largest oil companies, stated that it has embedded AI into almost everything it does to increase the number of wells it operates. Similarly, the energy company Equinor recently attributed 27 new discoveries on the Norwegian continental shelf to new seismic technologies and AI. In a video presentation, the company highlighted how AI was key to their success, helping them with data interpretation and planning new wells. These findings include the Lofn and Langermann oil wells, which Equinor described as their largest discovery in 2025.",
+      "zh": "全球最大的石油公司之一沙烏地阿拉伯國家石油公司（Saudi Aramco）表示，已將人工智慧嵌入其幾乎所有的營運流程中，以增加其營運的油井數量。同樣地，能源公司挪威國家石油公司（Equinor）近期將挪威大陸棚的 27 項新發現歸功於新的地震探勘技術與人工智慧。在一段簡報影片中，該公司強調人工智慧是其成功的關鍵，協助他們進行資料判讀與規劃新油井。這些發現包括 Lofn 與 Langermann 油井，挪威國家石油公司將其描述為 2025 年最大的發現。"
     },
     {
       "id": "p7",
-      "en": "Financial experts are also seeing the impact of these changes. Rystad Energy, an independent research company, estimated that AI and digital tools would create nearly $500 billion in value for fossil fuel companies between 2026 and 2030. This value comes from faster production, more efficient operations, and shorter timelines for building new projects. Analysts at Rystad Energy noted that these returns are already visible, pointing to large savings reported by companies like Equinor and Abu Dhabi’s Adnoc.",
-      "zh": "金融專家也觀察到了這些變化的影響。獨立研究公司 Rystad Energy 估計，在 2026 年至 2030 年間，人工智慧與數位工具將為化石燃料公司創造近 5,000 億美元的價值。這些價值來自於更快的生產速度、更有效率的營運，以及縮短新專案的建設時程。Rystad Energy 的分析師指出，這些回報已經顯現，並舉出 Equinor 與阿布達比國家石油公司（Adnoc）等企業所報告的巨大節省金額為例。"
+      "en": "Financial experts are also tracking these changes. Rystad Energy, an independent research company, estimated that between 2026 and 2030, digital tools and AI will create nearly $500 billion in value for fossil fuel companies. This value comes from more efficient operations, increased production, and faster development timelines. Analysts at the firm noted that these returns are already visible, pointing to hundreds of millions of dollars in savings reported by companies like Equinor and Abu Dhabi’s Adnoc.",
+      "zh": "金融專家也在追蹤這些變化。獨立研究公司 Rystad Energy 估計，在 2026 年至 2030 年間，數位工具與人工智慧將為化石燃料公司創造近 5,000 億美元的價值。這些價值來自於更高效的營運、產量增加以及更快的開發時程。該公司的分析師指出，這些回報已顯而易見，並舉出挪威國家石油公司與阿布達比國家石油公司（Adnoc）等企業所報告的數億美元節省金額為例。"
     },
     {
       "id": "p8",
-      "en": "The study concludes that for AI to actually help the climate, the situation would need to change drastically. If both clean and dirty energy facilities continue to use AI at the same speed, the gains for renewable energy would need to be at least four times greater than the gains for fossil fuels just to keep emissions from rising. Right now, that is not happening. As AI continues to advance, the challenge for policymakers and climate scientists will be to ensure that this technology is used to protect the planet rather than to speed up the extraction of fuels that cause global warming.",
-      "zh": "該研究總結認為，若要讓人工智慧真正有助於氣候，現況必須發生劇烈改變。如果潔淨能源與高污染能源設施繼續以相同的速度使用人工智慧，那麼再生能源所獲得的效益必須至少是化石燃料效益的四倍，才能防止排放量持續上升。目前，這種情況並未發生。隨著人工智慧持續進步，決策者與氣候科學家將面臨挑戰，必須確保這項技術是用於保護地球，而非加速開採那些導致全球暖化的燃料。"
+      "en": "This update follows earlier reports that highlighted the tension between AI’s technological potential and its environmental footprint. As AI continues to grow, the debate over its role in the energy transition is likely to intensify. While the technology offers tools to optimize clean energy, its current use in the fossil fuel industry presents a significant challenge for global climate goals. For now, the evidence suggests that without significant changes, AI will continue to act as a powerful tool for the expansion of traditional energy sources, making it harder to reduce the world’s reliance on oil and gas.",
+      "zh": "這份更新報告延續了先前強調人工智慧的技術潛力與其環境足跡之間矛盾的報導。隨著人工智慧持續發展，關於其在能源轉型中角色的爭論可能會愈演愈烈。雖然該技術提供了優化清潔能源的工具，但其目前在化石燃料產業的應用對全球氣候目標構成了重大挑戰。目前證據顯示，若無重大改變，人工智慧將持續作為擴張傳統能源的強大工具，使全球更難以減少對石油與天然氣的依賴。"
     }
   ],
-  "wordCount": 768,
+  "wordCount": 782,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
-      "term": "run",
-      "definitionEn": "To operate or power a machine or system.",
-      "definitionZh": "運作、驅動（機器或系統）。",
-      "partOfSpeech": "verb",
-      "noteZh": "常見作「跑步」，這裡指運作電腦系統。文中：She explained that many studies focused on the energy needed to run AI systems but ignored the extra emissions caused by using AI to increase fossil fuel production."
+      "term": "left out",
+      "definitionEn": "To fail to include someone or something.",
+      "definitionZh": "遺漏、忽略。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見作「離開」，這裡指在研究中忽略了某個面向。文中：Lynn Kaack, a professor at the Hertie School, noted that previous research completely left out the picture of AI causing these increases in emissions."
     },
     {
-      "term": "recover",
-      "definitionEn": "To extract or obtain a natural resource from the ground.",
-      "definitionZh": "開採、提取（自然資源）。",
+      "term": "cut",
+      "definitionEn": "To reduce the size, amount, or cost of something.",
+      "definitionZh": "減少、削減。",
       "partOfSpeech": "verb",
-      "noteZh": "常見作「恢復健康」，這裡指從地底開採石油。文中：The International Energy Agency estimates that AI could increase the amount of oil and gas that companies can recover by 5%."
+      "noteZh": "常見作「切開」，這裡指降低成本。文中：It could also cut the costs of deepwater offshore projects by 10%."
     },
     {
-      "term": "returns",
-      "definitionEn": "The profit or financial gain made from an investment or business activity.",
-      "definitionZh": "收益、獲利。",
+      "term": "embedded",
+      "definitionEn": "To fix something firmly into a surrounding mass.",
+      "definitionZh": "嵌入、植入。",
+      "partOfSpeech": "verb (past participle used as verb)",
+      "noteZh": "原意指將物體嵌入，這裡指將AI技術深度整合進公司運作中。文中：Saudi Aramco, one of the world’s largest oil companies, stated that it has embedded AI into almost everything it does to increase the number of wells it operates."
+    },
+    {
+      "term": "footprint",
+      "definitionEn": "The impact that a person or organization has on the environment.",
+      "definitionZh": "環境足跡（指對環境造成的影響）。",
       "partOfSpeech": "noun",
-      "noteZh": "常見作動詞「返回」，這裡指商業上的投資報酬。文中：Analysts at Rystad Energy noted that these returns are already visible, pointing to large savings reported by companies like Equinor and Abu Dhabi’s Adnoc."
+      "noteZh": "常見作「腳印」，這裡指對環境造成的負面影響。文中：This update follows earlier reports that highlighted the tension between AI’s technological potential and its environmental footprint."
     }
   ],
   "sources": [
@@ -86,61 +93,69 @@
   ],
   "story": {
     "id": "ai-s-role-in-boosting-fossil-fuel-production",
-    "type": "standalone",
-    "previousArticles": []
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "ai-s-role-in-boosting-fossil-fuel-production-aug-2026",
+        "title": "Is Artificial Intelligence Helping or Hurting the Climate?",
+        "publishedAt": "2026-08-11T22:14:08.183318Z",
+        "category": "technology",
+        "summaryEn": "A new study reveals that AI is helping companies find and produce more oil, gas, and coal. While AI can help renewable energy, its current impact on fossil fuels is much larger. Experts warn that these productivity gains are leading to higher carbon emissions. Major energy companies are already using AI to discover new oil wells and save money. The research suggests that without major changes, AI will continue to make climate change worse."
+      }
+    ]
   },
   "quiz": [
     {
       "id": "q1",
       "type": "detail",
-      "question": "According to the study, why does AI-driven productivity currently lead to an increase in carbon pollution?",
+      "question": "According to the study, what is the specific requirement for AI to have a neutral impact on climate change emissions?",
       "options": {
-        "A": "Because AI datacentres require massive amounts of electricity to function.",
-        "B": "Because companies use AI to locate and extract more oil, gas, and coal.",
-        "C": "Because renewable energy projects are failing to connect to the power grid.",
-        "D": "Because the fossil fuel industry is investing $500 billion into new green technology."
+        "A": "AI must reduce the energy consumption of data centers by at least 50%.",
+        "B": "Productivity gains in clean energy must be at least four times higher than in fossil fuels.",
+        "C": "Global fossil fuel production must be capped at current 2025 levels.",
+        "D": "Renewable energy projects must move past the experimental stage within five years."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。根據文章第二段，AI 驅動的生產力提升導致碳排放增加，是因為企業利用這項技術更有效地尋找並開採石油、天然氣與煤炭。選項 A 雖然提到資料中心耗能，但文中提到這是過去研究的焦點，而非本研究強調的碳排放主因。選項 C 是再生能源面臨的挑戰，而非 AI 導致污染的原因。選項 D 數字錯誤，且該金額是預估化石燃料公司獲得的價值，而非綠能投資。"
+      "explanationZh": "根據文章第四段，研究人員指出，為了讓碳排放量保持不變（neutral impact），清潔能源的生產力提升必須達到化石燃料的四倍以上。選項 A 原文未提及此數據；選項 C 是文章提到的挑戰，而非達成平衡的特定條件；選項 D 雖然提到再生能源尚處於實驗階段，但並非達成平衡的量化要求。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "What can be inferred about the current adoption of AI in the energy sector?",
+      "question": "What can be inferred about the way previous research viewed the relationship between AI and the environment?",
       "options": {
-        "A": "Fossil fuel companies are struggling to implement AI due to legal restrictions.",
-        "B": "Renewable energy companies are intentionally avoiding AI to protect the environment.",
-        "C": "The fossil fuel industry has a competitive advantage in AI deployment over the renewable sector.",
-        "D": "AI technology is currently equally beneficial to both fossil fuel and renewable energy production."
+        "A": "Previous researchers believed AI had no measurable impact on energy consumption.",
+        "B": "Earlier studies focused primarily on the hardware costs of building AI data centers.",
+        "C": "Past studies were likely overly optimistic by ignoring the AI-driven expansion of fossil fuel extraction.",
+        "D": "Earlier work concluded that AI was the primary cause of global climate change."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。根據第四段，化石燃料公司已大規模應用 AI，且有實際合約，而再生能源的應用仍處於早期測試階段，且面臨法規與電網連接等困難。這顯示化石燃料業在 AI 部署上領先。選項 A 與文中敘述相反，化石燃料業正積極使用 AI。選項 B 錯誤，再生能源並非不想用，而是受限於測試階段與基礎設施問題。選項 D 錯誤，文中明確指出 AI 目前對化石燃料的助益遠大於對綠能的幫助。"
+      "explanationZh": "根據第三段，Lynn Kaack 教授指出過去的研究完全忽略了 AI 在化石燃料開採上的負面影響，僅比較數據中心耗能與 AI 帶來的節能效益。這暗示了過去的研究因為視角狹隘，導致對 AI 環保貢獻的評估過於樂觀。選項 A 不正確，因為過去研究有討論節能；選項 B 非文章重點；選項 D 過度誇大，文章並未稱 AI 為氣候變遷的主因。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the sixth paragraph, what does the word 'credited' mean in the context of the sentence: 'Equinor recently credited AI and new seismic technology for 27 new discoveries'?",
+      "question": "In the fifth paragraph, what does the word 'boom' mean as used in the phrase 'the next fracking boom'?",
       "options": {
-        "A": "Acknowledged as the source or cause of something.",
-        "B": "Added a financial amount to an account.",
-        "C": "Praised someone for their hard work.",
-        "D": "Believed something to be true despite a lack of evidence."
+        "A": "A sudden, rapid increase in economic activity or development.",
+        "B": "A loud, explosive sound caused by high-pressure technology.",
+        "C": "A failure in the energy sector leading to financial collapse.",
+        "D": "A physical tool used to lift heavy oil drilling equipment."
       },
       "correct": "A",
-      "explanationZh": "正確答案為 A。在此句中，Equinor 將 27 項新發現歸功於 AI 與地震技術，意指這些技術是達成該成果的主要原因或來源。選項 B 是金融術語，指存入款項，不符語境。選項 C 雖有「稱讚」之意，但此處重點在於因果關係的歸屬，而非單純的讚美。選項 D 錯誤，Equinor 是基於實際的探勘成功案例，而非單純的相信。"
+      "explanationZh": "在第五段中，作者引用高層主管將 AI 在能源業的應用比喻為「下一個水力壓裂熱潮（fracking boom）」。此處的 boom 指的是經濟或產業活動的快速成長與繁榮。選項 B 是 boom 的字面意義，在此處不適用；選項 C 與文意相反；選項 D 是將名詞誤解為工具，與上下文描述的產業趨勢不符。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "What is the central message of the article regarding AI and the environment?",
+      "question": "What is the primary message of the article regarding AI's impact on the energy sector?",
       "options": {
-        "A": "AI will eventually solve climate change if we increase funding for datacentres.",
-        "B": "Fossil fuel companies are the only ones capable of using AI effectively.",
-        "C": "AI is a neutral tool that has no significant impact on global carbon emissions.",
-        "D": "AI is currently accelerating fossil fuel extraction, undermining its potential to help the climate."
+        "A": "AI is successfully transitioning the global economy toward renewable energy sources.",
+        "B": "The financial benefits of AI in the energy sector are currently overestimated by experts.",
+        "C": "AI is a neutral tool whose environmental impact depends entirely on government regulation.",
+        "D": "While AI has the potential to help the environment, it is currently accelerating fossil fuel production."
       },
       "correct": "D",
-      "explanationZh": "正確答案為 D。文章總結了 AI 目前的發展趨勢：儘管人們曾寄望 AI 能對抗氣候變遷，但現況是它被大量用於加速化石燃料的開採，導致環境損害大於助益。選項 A 與文章結論相悖。選項 B 過於武斷，文中並未說其他產業無法使用。選項 C 錯誤，文中強調 AI 對碳排放有顯著的負面影響。因此 D 最能概括全文對於 AI 雙面刃性質的擔憂。"
+      "explanationZh": "本文的核心論點在於雖然 AI 被認為對環境有益，但研究顯示它目前在化石燃料產業的應用（如增加產量、降低開採成本）實際上加劇了環境問題，與其環保潛力形成強烈對比。選項 A 與文意相反；選項 B 並非文章主旨；選項 C 雖有提及挑戰，但文章重點在於 AI 現階段的實際影響，而非單純歸咎於法規。"
     }
   ],
   "aiGenerated": true,
