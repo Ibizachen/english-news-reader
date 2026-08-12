@@ -1,0 +1,160 @@
+{
+  "id": "2026-08-12-twitch-users-gain-control-over-ai-training",
+  "slug": "twitch-users-gain-control-over-ai-training-aug-2026",
+  "publishedAt": "2026-08-12T22:59:14.659152Z",
+  "category": "technology",
+  "title": "Twitch Users Gain New Control Over AI Data Training",
+  "subtitle": "Streamers can now choose to stop Amazon from using their videos and chats to build generative AI models.",
+  "summary": {
+    "en": "Twitch has introduced a new setting that allows users to opt out of having their content used for AI training. For years, Amazon has automatically used streams and chats to improve its artificial intelligence systems. Users can now find a simple toggle in their security settings to protect their data. This change follows a long period of automatic data collection that was confirmed by company officials in 2024. While some AI tools for safety and captions will remain active, this move gives creators more power over their digital work.",
+    "zh": "Twitch 推出了一項新設定，允許使用者選擇退出，不再讓自己的內容被用於人工智慧訓練。多年來，亞馬遜一直自動使用實況與聊天內容來改善其人工智慧系統。現在，使用者可以在安全設定中找到一個簡單的開關來保護自己的數據。這項變更是在公司高層於二零二四年證實長期自動蒐集數據後所做出的調整。雖然部分用於安全與字幕的人工智慧工具仍會保持運作，但此舉賦予了創作者對其數位作品更大的掌控權。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Twitch has officially introduced a new way for users to control how their content is used. Starting today, streamers can choose to stop Amazon from using their videos, clips, and chat messages to train its generative AI models. Generative AI is a type of technology that can create new text, images, audio, or video based on the data it has learned from. This update allows users to turn off this training process through their security and privacy settings.",
+      "zh": "Twitch 已正式推出一項新功能，讓使用者能掌控其內容的使用方式。從今天開始，實況主可以選擇禁止亞馬遜 (Amazon) 使用他們的影片、精華片段及聊天訊息來訓練其生成式人工智慧模型。生成式人工智慧是一種能根據所學數據創造出新文字、圖像、音訊或影片的技術。這項更新讓使用者能透過安全與隱私設定，關閉這項訓練程序。"
+    },
+    {
+      "id": "p2",
+      "en": "For many years, Twitch has automatically included user content in its data collection for AI development. According to Ars Technica, this practice has been happening for at least two years. In 2024, Mike Minton, who was the chief monetization officer at the time, confirmed that Amazon was using Twitch content to train its models. He noted that the company aimed to balance user trust with the need for data, while following privacy laws around the world.",
+      "zh": "多年來，Twitch 一直自動將使用者內容納入其人工智慧開發的數據蒐集中。根據科技媒體 Ars Technica 報導，這種做法至少已經持續了兩年。二零二四年，當時擔任營收長麥克·明頓 (Mike Minton) 證實，亞馬遜確實正在使用 Twitch 的內容來訓練其模型。他指出，公司旨在平衡使用者信任與數據需求，同時遵守全球各地的隱私法規。"
+    },
+    {
+      "id": "p3",
+      "en": "To stop their content from being used, users must visit the settings page on the Twitch website. Once there, they can find a toggle switch under the Security and Privacy tab. According to The Verge, this switch was turned on by default for many users. If a user decides to turn it off, their future streams, recorded videos, and chat messages will no longer be used to train Amazon’s generative AI systems. However, it is important to note that if a user participates in someone else's stream, the settings of the stream owner will decide whether that chat data is used for training.",
+      "zh": "若要停止自己的內容被使用，使用者必須前往 Twitch 網站的設定頁面。進入後，可以在「安全與隱私」標籤下找到一個開關。根據科技新聞網站 The Verge 報導，此開關對許多使用者而言預設為開啟狀態。如果使用者決定將其關閉，他們未來的實況、錄製影片及聊天訊息將不再被用於訓練亞馬遜的生成式人工智慧系統。不過，必須注意的是，如果使用者參與了其他人的實況，該聊天數據是否用於訓練，將取決於實況主本人的設定。"
+    },
+    {
+      "id": "p4",
+      "en": "It is important to understand that this change does not stop all AI use on the platform. Twitch stated that other “AI-supported” features will continue to work even if a user opts out of generative AI training. These features include tools that help keep communities safe, such as AutoMod, and tools that help streamers grow their audience, such as video recommendations. The company explained that these tools are designed to benefit the community by helping with monetization and viewer discovery. The new opt-out setting specifically targets the training of models meant to create new content, rather than these helpful community tools.",
+      "zh": "必須了解的是，這項變更並不會停止平台上所有的人工智慧應用。Twitch 表示，即使使用者選擇退出生成式人工智慧訓練，其他「人工智慧輔助」功能仍會繼續運作。這些功能包括協助維護社群安全的工具（如自動審核系統 AutoMod），以及協助實況主擴大觀眾群的工具（如影片推薦）。公司解釋，這些工具旨在透過協助營收與觀眾探索來造福社群。新的退出設定僅針對用於創造新內容的模型訓練，而非這些有助於社群的工具。"
+    },
+    {
+      "id": "p5",
+      "en": "This update is a significant shift for creators who have expressed concerns about how their work is used online. For a long time, the automatic collection of data was a hidden part of the platform experience. By providing a clear way to opt out, Twitch is responding to the growing demand for more transparency in how large technology companies use personal data. While the company continues to use data for safety and site improvements, the new toggle gives individual creators the ability to decide if they want to contribute to the development of future AI models.",
+      "zh": "這項更新對於一直以來擔心自身作品在網路上如何被使用的創作者而言，是一項重大轉變。長期以來，自動蒐集數據一直是平台體驗中隱而不顯的一部分。透過提供明確的退出途徑，Twitch 正回應大眾對於大型科技公司如何使用個人數據應具備更高透明度的訴求。雖然公司仍會為了安全與網站優化而使用數據，但新的開關賦予了個別創作者決定是否要貢獻於未來人工智慧模型開發的權利。"
+    },
+    {
+      "id": "p6",
+      "en": "As the technology industry continues to develop, the question of how AI learns remains a major topic of discussion. Many creators worry about their content being used without their permission to build systems that might one day replace them. By making this change, Amazon is providing a way for users to protect their creative work. Users who wish to check their status should visit their account settings as soon as possible to ensure their preferences are set correctly.",
+      "zh": "隨著科技產業持續發展，人工智慧如何學習的問題仍是討論的主要焦點。許多創作者擔心自己的內容在未經許可的情況下被用於建立系統，而這些系統未來某天可能會取代他們。透過做出這項改變，亞馬遜提供了一種讓使用者保護其創作成果的方式。希望確認自身狀態的使用者應儘速前往帳號設定，以確保偏好設定已正確調整。"
+    }
+  ],
+  "wordCount": 642,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "toggle",
+      "definitionEn": "A switch or setting that can be turned on or off.",
+      "definitionZh": "切換開關（通常指軟體介面上的開關）。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（切換），這裡作名詞指代介面上的開關。文中：Once there, they can find a toggle switch under the Security and Privacy tab."
+    },
+    {
+      "term": "opts out",
+      "definitionEn": "To choose not to participate in something.",
+      "definitionZh": "選擇退出、拒絕參與。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "由動詞 opt 和介系詞 out 組成，意思並非字面上的「選擇」與「外面」。文中：Twitch stated that other “AI-supported” features will continue to work even if a user opts out of generative AI training."
+    },
+    {
+      "term": "shift",
+      "definitionEn": "A change in position, direction, or tendency.",
+      "definitionZh": "轉變、改變。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（移動），這裡作名詞表示情況的改變。文中：This update is a significant shift for creators who have expressed concerns about how their work is used online."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+      "publishedAt": "2026-08-12T21:00:30Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+      "title": "Twitch streamers can now opt out from training Amazon’s AI",
+      "publishedAt": "2026-08-12T17:29:10Z"
+    }
+  ],
+  "story": {
+    "id": "meta-s-ai-smart-glasses-face-privacy-bans",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "the-ethics-of-ai-training-on-user-content-aug-2026",
+        "title": "Twitch Users Can Now Choose to Stop AI Training on Their Content",
+        "publishedAt": "2026-08-12T22:14:09.996851Z",
+        "category": "technology",
+        "summaryEn": "Twitch has introduced a new setting that lets users opt out of having their content used for training Amazon’s generative AI. This change follows years of automatic data collection for AI development. Users can now find a toggle in their security settings to prevent their streams and chats from being used to build new AI models. While this protects personal content, the choice of the streamer controls how chat messages are handled. Other AI features, such as safety tools and recommendations, will continue to work even if users choose to opt out."
+      },
+      {
+        "slug": "backlash-against-meta-smart-glasses-aug-2026",
+        "title": "The Growing Controversy Over Meta’s Smart Glasses",
+        "publishedAt": "2026-08-09T22:48:23.194601Z",
+        "category": "technology",
+        "summaryEn": "Meta’s smart glasses are facing a significant public backlash due to fears about secret recording. Many people worry that the devices are being used to film others without their consent. Influencers who promote the glasses have reported losing followers and receiving negative comments. Some users have apologized for their involvement in marketing campaigns for the product. The situation highlights a growing tension between new technology and the right to privacy."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the consequence of a user turning off the new AI training toggle if they appear in another person's stream?",
+      "options": {
+        "A": "Their personal chat messages will be excluded from training regardless of the stream owner's settings.",
+        "B": "Their chat messages will still be used for training if the stream owner has not opted out.",
+        "C": "The stream owner will be notified that the user has opted out of AI training.",
+        "D": "The user's previous streams will be deleted from Amazon's AI training database."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案是 B。根據文章第三段最後一句：「if a user participates in someone else's stream, the settings of the stream owner will decide whether that chat data is used for training.」這說明了聊天數據是否被使用，取決於直播主的設定，而非參與者的個人設定。選項 A 錯誤，因為個人設定無法覆蓋直播主的設定；選項 C 文章未提及；選項 D 雖然提到未來數據不再被使用，但並未提及刪除過去已訓練的數據。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about Twitch’s previous data collection practices regarding generative AI?",
+      "options": {
+        "A": "Twitch had always required explicit user permission before using content for AI training.",
+        "B": "The collection of user data for AI development was a transparent and well-advertised feature.",
+        "C": "Twitch users were generally unaware that their content was being used to train generative AI models.",
+        "D": "Amazon only began using Twitch content for AI training in 2024."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案是 C。根據第五段提到，長期以來數據收集是平台體驗中「隱藏的一部分」（a hidden part of the platform experience），且文章提到現在提供退出選項是為了回應對透明度的需求，暗示過去用戶對此並不清楚。選項 A 與文章提到的「automatic collection」矛盾；選項 B 與「hidden」矛盾；選項 D 錯誤，因為文章第二段指出該做法已持續至少兩年。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fifth paragraph, what does the word 'shift' mean in the context of Twitch's new policy?",
+      "options": {
+        "A": "A physical movement of data servers.",
+        "B": "A significant change in policy or approach.",
+        "C": "A decrease in the quality of streaming services.",
+        "D": "A temporary glitch in the platform's settings."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案是 B。在此處的語境中，'a significant shift' 指的是 Twitch 在處理用戶數據政策上的重大轉變。選項 A 將詞彙誤解為物理移動；選項 C 與文章內容無關，文章並未討論服務品質下降；選項 D 錯誤，因為這是一個官方推出的正式功能，並非技術錯誤或故障。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of this article?",
+      "options": {
+        "A": "Twitch is shutting down all AI-supported features to protect user privacy.",
+        "B": "Amazon is forcing all streamers to participate in generative AI training to improve platform safety.",
+        "C": "Twitch has introduced an opt-out feature to give creators more control over how their content is used for AI training.",
+        "D": "Generative AI is considered a threat to the future of all professional streamers on Twitch."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案是 C。全文的核心主旨都在介紹 Twitch 新推出的「退出機制」（opt-out setting），讓創作者能決定是否將其內容用於生成式 AI 的訓練，回應了創作者對數據使用權的擔憂。選項 A 錯誤，因為文章提到安全工具如 AutoMod 仍會運作；選項 B 錯誤，因為這是一個選擇性功能而非強制；選項 D 過度誇大，文章僅提到創作者的擔憂，並非將其定調為對所有人的威脅。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
