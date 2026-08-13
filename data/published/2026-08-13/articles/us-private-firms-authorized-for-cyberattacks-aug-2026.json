@@ -1,0 +1,150 @@
+{
+  "id": "2026-08-13-us-private-firms-authorized-for-cyberattacks",
+  "slug": "us-private-firms-authorized-for-cyberattacks-aug-2026",
+  "publishedAt": "2026-08-13T22:14:09.372917Z",
+  "category": "technology",
+  "title": "US Government to Allow Private Companies to Conduct Cyberattacks",
+  "subtitle": "New policy aims to fight foreign criminal groups using private sector expertise",
+  "summary": {
+    "en": "The Trump administration has announced a new program allowing private security firms to carry out cyberattacks against overseas criminal groups. These companies will work under the supervision of the Departments of Justice and Homeland Security. The initiative targets groups involved in ransomware, fraud, and other cybercrimes. However, experts warn that the plan carries significant legal and safety risks. Critics also worry that these operations could accidentally harm innocent people or create international tension.",
+    "zh": "川普政府宣布了一項新計畫，允許私人安全公司對海外犯罪集團發動網路攻擊。這些公司將在司法部與國土安全部的監督下運作。該計畫旨在針對涉及勒索軟體、詐騙及其他網路犯罪的團體。然而，專家警告此計畫伴隨著重大的法律與安全風險。批評者也擔心，這些行動可能會誤傷無辜民眾或引發國際緊張局勢。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The United States government is preparing to change how it fights international cybercrime. According to Ars Technica, the Trump administration has launched a new program that will allow private security firms to conduct cyberattacks against criminal groups based in other countries. This is a major shift in policy, as the government has previously kept these types of offensive operations under its own control.",
+      "zh": "美國政府正準備改變其打擊國際網路犯罪的方式。根據科技新聞網站 Ars Technica 報導，川普政府已啟動一項新計畫，允許私人安全公司對位於其他國家的犯罪集團發動網路攻擊。這是一項重大的政策轉變，因為政府過去一直將這類攻擊性行動控制在自己手中。"
+    },
+    {
+      "id": "p2",
+      "en": "Under the new rules, private companies will be authorized to perform \"Cyber Surveillance Operations\" and \"Cyber Effects Operations.\" These terms mean that firms can watch criminal networks and launch attacks to stop them. As reported by The Verge, these private companies will work under the strict control and oversight of the Department of Justice and the Department of Homeland Security. To participate, companies must prove they have high technical skills and must hold a bond of at least $1 million, which they will lose if they break their agreement with the government.",
+      "zh": "根據新規定，私人公司將獲准執行「網路監控行動」與「網路效應行動」。這些術語意味著企業可以監控犯罪網路並發動攻擊以阻止其運作。據科技媒體 The Verge 報導，這些私人公司將在司法部與國土安全部的嚴格控管與監督下運作。若要參與，公司必須證明其具備高超的技術能力，並須繳納至少一百萬美元的保證金；一旦違反與政府的協議，該保證金將被沒收。"
+    },
+    {
+      "id": "p3",
+      "en": "The goal of this program is to use the skills of the private sector to stop crimes like ransomware, phishing, and financial fraud. A fact sheet released with the presidential memo explains that these private businesses are currently \"underutilized\" forces in the fight against digital criminals. The government believes that by using the innovative capabilities of private firms, the United States can more effectively combat groups that target American citizens and organizations.",
+      "zh": "此計畫的目標是利用私部門的技術來遏止勒索軟體、網路釣魚與金融詐騙等犯罪。隨總統備忘錄一同發布的說明文件指出，這些私人企業目前在對抗數位犯罪方面屬於「未被充分利用」的力量。政府認為，透過運用私人公司創新的能力，美國能更有效地打擊那些針對美國公民與組織的犯罪集團。"
+    },
+    {
+      "id": "p4",
+      "en": "However, the plan has raised many concerns among experts. One of the biggest challenges is identifying who is actually behind a cyberattack. Ben Bernstein, a manager at the cybersecurity firm Huntress, noted that criminals rarely launch attacks from their own servers. Instead, they often route their traffic through innocent networks, such as those at hospitals or small businesses. Bernstein warned that it is nearly impossible to \"strike back\" at these criminals without accidentally causing damage to innocent people or their systems.",
+      "zh": "然而，這項計畫在專家之間引發了許多疑慮。其中最大的挑戰之一，在於確認網路攻擊的幕後黑手究竟是誰。網路安全公司 Huntress 的經理班恩·伯恩斯坦（Ben Bernstein）指出，罪犯很少直接從自己的伺服器發動攻擊。相反地，他們經常透過無辜的網路（例如醫院或小型企業的網路）來轉送流量。伯恩斯坦警告，若要在不誤傷無辜民眾或其系統的情況下對這些罪犯進行「反擊」，幾乎是不可能的任務。"
+    },
+    {
+      "id": "p5",
+      "en": "There are also significant legal and geopolitical risks for the companies involved. Jason Healey, a researcher at Columbia University, told Cybersecurity Dive that anyone taking part in these operations faces a high personal legal risk. Furthermore, Jake Williams from the company Hunter Strategy mentioned that Americans who participate in these operations could be seen as \"non-uniformed combatants\" if they travel to other countries. This could put their personal safety at risk if they are captured or identified while abroad.",
+      "zh": "參與這些行動的公司也面臨重大的法律與地緣政治風險。哥倫比亞大學的研究員傑森·希利（Jason Healey）向網路安全媒體 Cybersecurity Dive 表示，任何參與這些行動的人都面臨極高的個人法律風險。此外，Hunter Strategy 公司的傑克·威廉斯（Jake Williams）提到，若參與這些行動的美國人前往其他國家，可能會被視為「非武裝人員的戰鬥員」。這意味著他們若在國外被捕或身分曝光，個人安全將面臨威脅。"
+    },
+    {
+      "id": "p6",
+      "en": "Another difficulty is the complex nature of international relationships. As pointed out by Cybersecurity Dive, it is often very hard to tell if a criminal group is acting alone or if they have ties to a foreign government. If a private firm accidentally attacks a group that is actually supported by a foreign state, it could lead to serious diplomatic or legal conflicts. The government has stated that the program will only target groups that are not part of a foreign government, but critics argue that this distinction is often unclear in the real world.",
+      "zh": "另一個困難在於國際關係的複雜本質。正如 Cybersecurity Dive 所指出的，要分辨一個犯罪集團是單獨行動，還是與外國政府有掛鉤，往往非常困難。如果私人公司不慎攻擊了一個實際上由外國政府支持的團體，可能會引發嚴重的外交或法律衝突。政府聲稱該計畫只會針對非外國政府所屬的團體，但批評者認為，在現實世界中，這種區分往往模糊不清。"
+    },
+    {
+      "id": "p7",
+      "en": "Until now, the US government has prohibited private companies from taking offensive actions against hackers without specific approval from a court. This new program marks the first time the government has officially authorized private businesses to conduct these kinds of attacks as part of a national strategy. While the administration sees this as a necessary step to protect American interests, the practical details of how these operations will be managed remain unclear. As the program begins, both the government and the private sector will need to find ways to manage these risks while attempting to reduce the growing number of cyberattacks against the United States.",
+      "zh": "在此之前，美國政府禁止私人公司在未經法院明確批准的情況下，對駭客採取攻擊性行動。這項新計畫標誌著政府首次正式授權私人企業將此類攻擊作為國家戰略的一部分。儘管川普政府認為這是保護美國利益的必要步驟，但這些行動將如何管理的具體細節仍不明朗。隨著計畫啟動，政府與私部門都需要設法在管理這些風險的同時，嘗試減少針對美國日益增加的網路攻擊。"
+    }
+  ],
+  "wordCount": 642,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "bond",
+      "definitionEn": "A sum of money paid as a guarantee that someone will fulfill a legal obligation.",
+      "definitionZh": "保證金、擔保金。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作「連結、關係」，這裡指法律上的擔保金。文中：must hold a bond of at least $1 million, which they will lose if they break their agreement with the government."
+    },
+    {
+      "term": "strike back",
+      "definitionEn": "To attack someone in response to an attack they have made against you.",
+      "definitionZh": "反擊、回擊。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "由動詞 strike 與副詞 back 組成，字面意思容易理解，但在資安語境下特指對駭客進行報復性攻擊。文中：Bernstein warned that it is nearly impossible to \"strike back\" at these criminals without accidentally causing damage to innocent people or their systems."
+    },
+    {
+      "term": "ties",
+      "definitionEn": "Connections or relationships between people or groups.",
+      "definitionZh": "關係、聯繫。",
+      "partOfSpeech": "noun (plural)",
+      "noteZh": "常見作動詞（綁），這裡作名詞指涉與政府的關聯。文中：it is often very hard to tell if a criminal group is acting alone or if they have ties to a foreign government."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
+      "publishedAt": "2026-08-13T19:38:58Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms",
+      "title": "The Trump admin will start letting private firms launch international cyberattacks",
+      "publishedAt": "2026-08-13T18:56:13Z"
+    }
+  ],
+  "story": {
+    "id": "us-private-firms-authorized-for-cyberattacks",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What requirement must private companies meet to participate in the government's new cyber program?",
+      "options": {
+        "A": "They must have been operating for at least ten years.",
+        "B": "They must provide a financial guarantee of at least $1 million.",
+        "C": "They must be based in the same country as the criminal group.",
+        "D": "They must have previously worked for the Department of Justice."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，參與的公司必須持有至少 100 萬美元的保證金（bond），若違反與政府的協議則會損失該筆金額。選項 A 文章未提及年資要求；選項 C 為錯誤資訊，文章提到的是針對國外罪犯；選項 D 雖然提到與司法部合作，但並未要求過去必須有相關工作經驗。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Why might a private firm accidentally cause diplomatic tension under this new program?",
+      "options": {
+        "A": "Because they might accidentally attack a server located in a hospital.",
+        "B": "Because they are not allowed to use their own servers for operations.",
+        "C": "Because they might misidentify a state-sponsored group as an independent criminal group.",
+        "D": "Because they are required to travel to foreign countries to perform attacks."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第六段，雖然政府聲稱該計畫僅針對非政府組織，但專家指出很難區分犯罪集團是否與外國政府有關聯。若私人公司誤擊了有外國政府支持的組織，就可能引發嚴重的外交衝突。選項 A 是技術上的風險，非外交風險；選項 B 與題目無關；選項 D 並非計畫的必然要求。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the third paragraph, what does the word 'underutilized' mean in the context of the private sector's role?",
+      "options": {
+        "A": "Not being used to their full potential.",
+        "B": "Having too many employees for the work available.",
+        "C": "Lacking the necessary technical skills.",
+        "D": "Being too expensive for the government to hire."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在第三段中，政府認為私人企業在打擊數位犯罪方面是「underutilized」（未充分利用的）力量，意指這些企業擁有創新能力，但目前尚未被政府有效運用。選項 B 指人力過剩，與文意不符；選項 C 與文章提到的「high technical skills」矛盾；選項 D 雖然提到資金，但並未說他們太貴，而是說他們沒被充分發揮。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary focus of the article regarding the US government's new cyber policy?",
+      "options": {
+        "A": "It explains how private firms can profit from government contracts.",
+        "B": "It details the technical methods used by hackers to commit financial fraud.",
+        "C": "It argues that private firms are better at cyberwarfare than the government.",
+        "D": "It discusses the shift toward allowing private firms to conduct cyberattacks and the associated risks."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。本文主要探討美國政府政策的重大轉變，即授權私人企業進行網路攻擊，並同時分析了專家對此政策在法律、外交及安全層面提出的擔憂與挑戰。選項 A 過於狹隘，非文章重心；選項 B 僅為背景資訊；選項 C 過度解讀，文章並未比較誰更強，而是強調政府希望利用私人企業的創新能力。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
