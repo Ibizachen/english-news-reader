@@ -1,0 +1,166 @@
+{
+  "id": "2026-08-14-security-flaw-in-apple-mac-computers",
+  "slug": "security-flaw-in-apple-mac-computers-aug-2026",
+  "publishedAt": "2026-08-14T22:38:55.165382Z",
+  "category": "technology",
+  "title": "Serious Security Flaw Found in Apple Mac Computers",
+  "subtitle": "Security experts warn that hackers are actively using a screen sharing bug to take control of Apple devices.",
+  "summary": {
+    "en": "A high-severity security flaw has been discovered in Apple's macOS operating system. Hackers are actively using this bug to gain full control of computers. The issue is linked to the screen sharing feature on devices. Apple has released a software update to fix the problem for users. Experts advise everyone to update their systems immediately to stay safe.",
+    "zh": "蘋果的 macOS 作業系統發現一項高風險安全漏洞。駭客正積極利用此漏洞取得電腦的完全控制權。該問題與裝置的螢幕共享功能有關。蘋果已發布軟體更新以修復此問題。專家建議所有使用者立即更新系統以確保安全。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "A serious security problem in Apple’s macOS is causing concern for computer users around the world. Security officials in the Netherlands have warned that hackers are actively using this flaw to take control of Apple computers. This issue, which is officially tracked as CVE-2026-65400, allows attackers to run harmful programs on a user's machine without needing a password or permission.",
+      "zh": "蘋果公司（Apple）的 macOS 作業系統出現嚴重的安全漏洞，引起全球電腦使用者的擔憂。荷蘭的安全官員警告，駭客正積極利用此漏洞來取得蘋果電腦的控制權。這個被官方編號為 CVE-2026-65400 的問題，允許攻擊者在無需密碼或授權的情況下，於使用者的電腦上執行惡意程式。"
+    },
+    {
+      "id": "p2",
+      "en": "According to Ars Technica, the problem exists within the screen sharing feature of Apple devices. This feature is designed to let users view their screen and control their keyboard and mouse from a distance. However, a technical error in how the system manages user interactions allows an attacker to bypass security protections. Once inside, these attackers can gain 'root' access, which means they have total control over the entire computer system.",
+      "zh": "根據科技媒體 Ars Technica 報導，該問題存在於蘋果裝置的螢幕共享功能中。此功能旨在讓使用者能遠端檢視螢幕並操控鍵盤與滑鼠。然而，系統在處理使用者互動時的技術錯誤，導致攻擊者可以繞過安全防護。一旦入侵成功，這些攻擊者便能取得「最高權限」，這意味著他們能完全掌控整台電腦系統。"
+    },
+    {
+      "id": "p3",
+      "en": "The Netherlands National Cyber Security Centrum (NCSC) reported that they have seen this vulnerability being used on multiple systems. In these cases, the attackers were able to install software to mine for Monero, a type of digital money known as cryptocurrency. By using the victim's computer power to mine this currency, the hackers can make money at the expense of the computer owner. The NCSC noted that these attacks were observed on systems where port 5900—a digital connection point used for screen sharing—was left open to the internet.",
+      "zh": "荷蘭國家網路安全中心（NCSC）指出，他們已發現此漏洞被應用於多個系統中。在這些案例裡，攻擊者安裝了軟體來挖掘門羅幣（Monero），這是一種知名的加密貨幣。駭客透過消耗受害者的電腦運算能力來挖掘貨幣，藉此犧牲電腦所有者的利益來獲利。NCSC 特別提到，這些攻擊發生在螢幕共享所使用的數位連接埠 5900 對網際網路開放的系統上。"
+    },
+    {
+      "id": "p4",
+      "en": "This security flaw was first brought to public attention during the Black Hat security conference held last week. Following the discovery, Apple released a software patch—a small piece of code designed to fix a problem—for users of macOS Tahoe, Sequoia, and Sonoma. Apple stated that this flaw may allow an attacker without login details to gain access to a Mac. While the company used careful language in their announcement, experts agree that the risk is real and significant. The vulnerability has been given a severity rating of 7.1 out of 10, which indicates a high level of danger.",
+      "zh": "此安全漏洞是在上週舉辦的「黑帽」（Black Hat）安全會議中首次公開。在發現該問題後，蘋果針對 macOS Tahoe、Sequoia 與 Sonoma 的使用者發布了軟體修補程式，即一段專門用來修復問題的程式碼。蘋果表示，此漏洞可能讓沒有登入資訊的攻擊者存取 Mac 電腦。儘管蘋果在公告中措辭謹慎，但專家一致認為風險確實存在且相當嚴重。該漏洞的嚴重性評級為 10 分中的 7.1 分，顯示其危險程度頗高。"
+    },
+    {
+      "id": "p5",
+      "en": "For many users, the most important step is to check if their screen sharing settings are turned on. If this feature is active and accessible from the internet, the computer is at a much higher risk of being targeted. Security experts suggest that users should immediately update their macOS to the latest version provided by Apple. This update includes the necessary patch to close the hole that hackers are currently using.",
+      "zh": "對許多使用者而言，最重要的步驟是檢查螢幕共享設定是否開啟。如果此功能處於啟用狀態且可從網際網路存取，電腦遭受攻擊的風險將大幅增加。安全專家建議，使用者應立即將 macOS 更新至蘋果提供的最新版本。此更新包含了修補駭客目前所利用漏洞的必要程式碼。"
+    },
+    {
+      "id": "p6",
+      "en": "This situation is an update to previous reports regarding the same vulnerability. Earlier this month, it was confirmed that the flaw was being used in the real world to compromise user privacy and system security. The fact that attackers are still trying to find and use these weaknesses shows why it is so important for all computer users to keep their software up to date. When a company like Apple releases a security fix, it is usually because they have found a way for bad actors to break into systems.",
+      "zh": "此情況是對先前有關該漏洞報導的更新。本月稍早，已證實該漏洞正被用於現實世界中，以侵害使用者的隱私與系統安全。攻擊者仍持續嘗試尋找並利用這些弱點，這顯示出所有電腦使用者保持軟體更新的重要性。當像蘋果這樣的公司發布安全修復程式時，通常是因為他們發現了惡意人士入侵系統的途徑。"
+    },
+    {
+      "id": "p7",
+      "en": "Looking ahead, this event serves as a reminder of how interconnected our devices are. Features that make our lives easier, like being able to share a screen from anywhere, can also become a door for hackers if they are not properly protected. As technology continues to evolve, the battle between software developers and those who want to exploit security gaps will likely continue. For now, the best defense for any Mac user is to install the latest security updates as soon as they become available and to be careful about which features are left open to the public internet.",
+      "zh": "展望未來，此事件提醒了我們裝置之間的連結性有多高。那些讓生活更便利的功能，例如隨時隨地共享螢幕，若未受到妥善保護，也可能成為駭客的入口。隨著科技持續演進，軟體開發者與意圖利用安全漏洞者之間的攻防戰很可能會持續下去。目前，任何 Mac 使用者最好的防禦之道，就是在安全更新釋出後儘速安裝，並謹慎管理哪些功能是對公開的網際網路開放。"
+    }
+  ],
+  "wordCount": 645,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "mine",
+      "definitionEn": "To use computer power to solve complex mathematical problems in order to generate cryptocurrency.",
+      "definitionZh": "（加密貨幣）挖礦；利用電腦運算能力獲取數位貨幣。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（礦坑）或動詞（開採礦石），這裡指數位挖礦。文中：In these cases, the attackers were able to install software to mine for Monero, a type of digital money known as cryptocurrency."
+    },
+    {
+      "term": "at the expense of",
+      "definitionEn": "In a way that causes harm or loss to someone or something.",
+      "definitionZh": "以犧牲……為代價。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這是一個常見的慣用語，容易誤解為「花費」。文中：By using the victim's computer power to mine this currency, the hackers can make money at the expense of the computer owner."
+    },
+    {
+      "term": "hole",
+      "definitionEn": "A flaw or weakness in a computer system that allows unauthorized access.",
+      "definitionZh": "（系統）漏洞、缺陷。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作名詞（洞），這裡比喻軟體安全漏洞。文中：This update includes the necessary patch to close the hole that hackers are currently using."
+    },
+    {
+      "term": "door",
+      "definitionEn": "A point of entry or opportunity for something to happen, often used metaphorically.",
+      "definitionZh": "門戶、途徑（比喻入侵的機會）。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作名詞（實體的門），這裡比喻資安入侵的入口。文中：Features that make our lives easier, like being able to share a screen from anywhere, can also become a door for hackers if they are not properly protected."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+      "publishedAt": "2026-08-14T18:32:14Z"
+    }
+  ],
+  "story": {
+    "id": "meta-s-ai-smart-glasses-face-privacy-bans",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "vulnerability-giving-attackers-full-control-of-aug-2026",
+        "title": "Serious Security Flaw Found in Apple Mac Computers",
+        "publishedAt": "2026-08-14T22:14:08.570274Z",
+        "category": "technology",
+        "summaryEn": "A dangerous security flaw in macOS is currently being used by attackers to gain full control of computers. The problem exists within the screen sharing feature of Apple devices. Security officials in the Netherlands have reported that hackers are using this to install software that mines cryptocurrency. Apple has already released a software update to fix this issue for users. Everyone with a Mac is encouraged to update their systems immediately to stay safe."
+      },
+      {
+        "slug": "twitch-users-gain-control-over-ai-training-aug-2026",
+        "title": "Twitch Users Gain New Control Over AI Data Training",
+        "publishedAt": "2026-08-12T22:59:14.659152Z",
+        "category": "technology",
+        "summaryEn": "Twitch has introduced a new setting that allows users to opt out of having their content used for AI training. For years, Amazon has automatically used streams and chats to improve its artificial intelligence systems. Users can now find a simple toggle in their security settings to protect their data. This change follows a long period of automatic data collection that was confirmed by company officials in 2024. While some AI tools for safety and captions will remain active, this move gives creators more power over their digital work."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the NCSC, what specific condition makes a Mac computer particularly vulnerable to these attacks?",
+      "options": {
+        "A": "Having the 'root' access setting manually enabled by the user.",
+        "B": "Leaving port 5900 open and accessible via the internet.",
+        "C": "Using older versions of macOS like Tahoe, Sequoia, or Sonoma.",
+        "D": "Allowing unknown software to mine Monero cryptocurrency."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案是 B。文章第三段明確指出，NCSC 觀察到攻擊發生在「port 5900」這個用於螢幕共享的連接點對網際網路開放的情況下。選項 A 是錯誤的，因為 root 權限是駭客入侵後的結果，而非入侵的條件。選項 C 是錯誤的，因為這些版本是 Apple 發布修補程式的對象，而非漏洞本身的原因。選項 D 是攻擊的結果（挖礦），而非導致風險的條件。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the relationship between convenience features and security?",
+      "options": {
+        "A": "Convenience features are inherently dangerous and should never be used.",
+        "B": "Security flaws are only found in features that allow remote access.",
+        "C": "Features designed for ease of use can inadvertently create security vulnerabilities.",
+        "D": "Apple intentionally includes security gaps to encourage users to update their software."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案是 C。根據文章倒數第二段，作者提到「讓生活更便利的功能（如遠端螢幕共享）如果沒有受到妥善保護，可能會成為駭客的入口」。這暗示了便利性與安全性之間的權衡與潛在風險。選項 A 太過極端，文章並未建議完全停用。選項 B 錯誤，文章並未說只有遠端功能才有漏洞。選項 D 毫無根據，Apple 發布修補程式是為了修復問題，而非刻意製造。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fourth paragraph, what does the word 'patch' mean in the context of Apple's response?",
+      "options": {
+        "A": "A small piece of code used to repair a software defect.",
+        "B": "A temporary restriction on user login permissions.",
+        "C": "A digital warning label attached to the macOS interface.",
+        "D": "An additional feature added to improve screen sharing performance."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案是 A。文章第四段括號內明確解釋了 patch 是「a small piece of code designed to fix a problem」（用來修復問題的一小段程式碼）。這與軟體工程中「修補程式」的定義一致。選項 B 錯誤，patch 不是權限限制。選項 C 錯誤，它不是警告標籤。選項 D 錯誤，它的目的是修復漏洞而非增加新功能，因此 A 是最精確的定義。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message the author wants to convey to the reader?",
+      "options": {
+        "A": "Users should avoid using Apple products due to frequent security breaches.",
+        "B": "Cryptocurrency mining is the only reason hackers target Apple devices.",
+        "C": "The importance of staying updated and being cautious with security settings.",
+        "D": "The Black Hat conference is the most reliable source for information on malware."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案是 C。整篇文章從介紹漏洞、解釋成因、提供解決方案（更新系統），到最後總結應對之道，核心主旨都在強調使用者必須保持軟體更新並謹慎管理網路設定。選項 A 過於偏激，文章並未建議放棄 Apple。選項 B 錯誤，挖礦只是其中一種攻擊方式，而非唯一目的。選項 D 錯誤，會議只是發現漏洞的地點，並非文章的核心重點。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
