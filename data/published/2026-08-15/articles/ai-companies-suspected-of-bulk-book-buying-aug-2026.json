@@ -1,79 +1,81 @@
 {
   "id": "2026-08-15-ai-companies-suspected-of-bulk-book-buying",
   "slug": "ai-companies-suspected-of-bulk-book-buying-aug-2026",
-  "publishedAt": "2026-08-15T22:13:21.115891Z",
+  "publishedAt": "2026-08-15T22:35:46.600870Z",
   "category": "technology",
-  "title": "Mystery Bulk Book Orders Raise Questions About AI Data Needs",
-  "subtitle": "Secondhand booksellers around the world are seeing strange, large orders that they believe are linked to artificial intelligence companies.",
+  "title": "Why Are Mystery Buyers Purchasing Thousands of Random Books?",
+  "subtitle": "Secondhand booksellers around the world report strange, large-scale orders that may be linked to artificial intelligence development.",
   "summary": {
-    "en": "Secondhand booksellers in the UK, Ireland, and other countries are reporting a sudden increase in large, unusual book orders. These buyers often request random titles that do not follow normal shopping patterns. Many shop owners believe these orders are being placed by artificial intelligence companies. These companies may be buying the books to scan their text for training AI models. This trend is changing how the secondhand book market operates.",
-    "zh": "英國、愛爾蘭及其他國家的二手書商回報，大量且不尋常的書籍訂單突然增加。這些買家通常要求隨機的書目，不符合一般的購物模式。許多店主認為這些訂單是由人工智慧公司所下達。這些公司可能是為了掃描書中文字以訓練人工智慧模型。此趨勢正在改變二手書市場的運作方式。"
+    "en": "Secondhand bookshops in the UK, Ireland, and beyond are seeing a strange increase in large, random orders. These buyers often request books that have no clear connection to one another. Many shop owners believe these purchases are being made by artificial intelligence companies. These firms may be scanning the books to train their computer models before destroying the physical copies. Experts are now investigating whether this activity is changing the secondhand book market.",
+    "zh": "英國、愛爾蘭及其他地區的二手書店，近期出現大量隨機訂單的異常增長。這些買家要求的書籍通常毫無關聯。許多店主認為這些採購行為是由人工智慧公司所為。這些企業可能在掃描書籍以訓練其電腦模型後，便將實體書銷毀。專家目前正在調查此類活動是否正在改變二手書市場。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "Secondhand booksellers across the globe are facing a strange new trend. Shops in the UK, Ireland, Australia, and the United States have reported a sudden wave of large, bulk orders from mysterious buyers. Unlike typical customers who might look for books on a specific topic like history or cooking, these buyers are requesting a random mix of titles. This has led many shop owners to suspect that artificial intelligence (AI) companies are behind the purchases.",
-      "zh": "全球各地的二手書店正面臨一種奇特的新趨勢。英國、愛爾蘭、澳洲與美國的店家紛紛回報，出現了一波來自神秘買家的突發性大量採購潮。與一般會尋找歷史或烹飪等特定主題書籍的顧客不同，這些買家要求的是隨機組合的書目。這讓許多店主懷疑，人工智慧公司正是這些採購行為背後的推手。"
+      "en": "Secondhand booksellers across the UK, Ireland, and other countries are reporting a growing wave of mysterious bulk orders. These orders, which have been arriving for several months, are causing confusion among shop owners who are used to customers buying books based on specific topics like history, science, or sports. Instead, these new buyers are requesting a strange mix of titles that seem to have no connection to each other.",
+      "zh": "英國、愛爾蘭及其他國家的二手書店業者，近期紛紛回報收到一波波神秘的巨量訂單。這些訂單已持續數月，讓習慣了顧客依據歷史、科學或運動等特定主題購書的店主們感到困惑。相反地，這些新買家要求的書單內容五花八門，彼此之間似乎毫無關聯。"
     },
     {
       "id": "p2",
-      "en": "According to The Guardian, these orders began to appear in significant numbers earlier this year. Stuart Manley, the co-owner of Barter Books in the UK, noted that the requests are very unusual. He explained that a single order might include an Estonian translation of a novel, a specific old edition of a classic book, and a magazine from the 1980s. Manley said that these items do not follow any logical theme, which is very different from how people usually buy books.",
-      "zh": "根據《衛報 (The Guardian)》報導，這些訂單在今年稍早開始大量出現。英國「以物易物書店 (Barter Books)」的共同店主史都華·曼利 (Stuart Manley) 指出，這些需求非常不尋常。他解釋說，單筆訂單可能同時包含一本小說的愛沙尼亞語譯本、某本經典書籍的特定舊版，以及一本 1980 年代的雜誌。曼利表示，這些項目完全沒有邏輯主題可言，這與人們平時買書的方式大相逕庭。"
+      "en": "According to The Guardian, the books requested range from old magazines to specific translations of novels and biographies of racing drivers. Stuart Manley, the co-owner of Barter Books in Northumberland, described the orders as \"all over the place.\" He noted that he has sold hundreds of random books to these buyers for thousands of pounds. Other sellers, such as Jim Shaughnessy of MW Books in Ireland, have noticed that these orders appear to be machine-driven, as they lack the typical patterns seen in human shopping habits.",
+      "zh": "根據《衛報 (The Guardian)》報導，這些被指定的書籍範圍極廣，從舊雜誌到特定譯本的小說，甚至是賽車手的傳記應有盡有。位於諾森伯蘭郡 (Northumberland) 的「以物易物書店 (Barter Books)」共同店主史都華·曼利 (Stuart Manley) 形容這些訂單「毫無章法」。他指出，自己已經賣出數百本隨機挑選的書籍給這些買家，獲利達數千英鎊。其他賣家，例如愛爾蘭 MW 書店的吉姆·蕭內西 (Jim Shaughnessy) 也注意到，這些訂單看起來像是機器自動生成的，因為它們缺乏人類購物習慣中常見的模式。"
     },
     {
       "id": "p3",
-      "en": "Other booksellers have shared similar experiences. Jim Shaughnessy, who owns MW Books in Ireland, said his shop has been receiving large and varied orders since May. He described the orders as \"sporadic\" and likely driven by machines rather than humans. He noted that the requests cover a massive range of subjects, from farming tools in 18th-century Africa to the lives of 1950s race car drivers. While he does not feel it is his place to tell customers what to do with their money, he admitted that the situation is very curious.",
-      "zh": "其他書商也分享了類似的經歷。在愛爾蘭經營「MW 圖書 (MW Books)」的吉姆·蕭內西 (Jim Shaughnessy) 表示，他的店自五月以來就不斷收到龐大且雜亂的訂單。他形容這些訂單「零星且不連貫」，很可能是由機器而非人類所驅動。他注意到這些需求涵蓋了極廣的領域，從 18 世紀非洲的農具到 1950 年代賽車手的生平應有盡有。雖然他認為自己無權過問顧客如何花錢，但他坦言這種情況確實非常令人好奇。"
+      "en": "This trend is not limited to one region. Booksellers in the US, Australia, and across Europe have reported similar experiences. Some shop owners have noticed that different buyers often use the same delivery addresses, such as freight warehouses near major airports. One anonymous bookseller told The Guardian that they have received orders for 6,000 books since January. This seller noted that the buyers are willing to pay high prices and do not ask for the discounts usually expected when buying in large quantities.",
+      "zh": "這種趨勢並非侷限於單一地區。美國、澳洲及歐洲各地的書店業者都回報了類似的經歷。有些店主發現，不同的買家經常使用相同的收貨地址，例如靠近主要機場的貨運倉庫。一位不願具名的書商告訴《衛報》，自一月以來，他們已經接獲六千本書的訂單。該賣家指出，這些買家願意支付高價，且不會要求大量採購時通常會有的折扣。"
     },
     {
       "id": "p4",
-      "en": "There is growing speculation that these companies are buying the books to feed data into AI systems. Artificial intelligence models require vast amounts of text to learn how to communicate and process information. By purchasing physical books, these companies can scan the pages to turn them into digital data. Once the information is captured, the physical books are often destroyed or \"pulped.\" Stuart Manley shared his own theory, suggesting that large amounts of money from the AI industry are being spent to acquire this information.",
-      "zh": "外界越來越多猜測認為，這些公司買書是為了將內容輸入人工智慧系統。人工智慧模型需要海量的文字來學習如何溝通與處理資訊。透過購買實體書，這些公司可以掃描書頁並將其轉化為數位資料。一旦資訊被擷取，實體書往往會被銷毀或「打成紙漿」。史都華·曼利分享了他的個人觀點，認為人工智慧產業正投入大筆資金來獲取這些資訊。"
+      "en": "Many in the book trade believe that artificial intelligence companies are behind these purchases. The theory is that these companies are buying the books to scan their contents. By turning the printed text into digital data, these firms can use the information to train their AI models. Once the content is scanned, the physical books are often destroyed, a process known as pulping. Stuart Manley suggested that this is a case of \"masses and masses of AI money being squandered\" to feed the growing need for data.",
+      "zh": "許多書商認為，人工智慧公司是這些採購行為的幕後黑手。推測認為，這些公司購買書籍是為了掃描內容。透過將印刷文字轉化為數位資料，這些企業便能利用這些資訊來訓練其人工智慧模型。一旦內容被掃描完畢，實體書籍往往會被銷毀，這個過程被稱為紙漿化處理。史都華·曼利認為，這是一個「大量人工智慧資金被揮霍」的案例，目的是為了滿足對數據日益增長的需求。"
     },
     {
       "id": "p5",
-      "en": "This trend is causing real problems for the secondhand book trade. David Gower-Spence, the owner of BookLovers of Bath, said he received a rush of orders for about 200 books between May and July. He described the experience as \"overwhelming.\" Another bookseller, who asked to remain anonymous, reported receiving orders for 6,000 books since January. This seller noted that the buyers are willing to pay high prices and do not ask for discounts, even when buying in bulk. This behavior is not typical for the trade and is disrupting normal business operations.",
-      "zh": "這種趨勢正對二手書交易造成實質困擾。巴斯市「愛書人 (BookLovers of Bath)」的店主大衛·高爾-史賓斯 (David Gower-Spence) 表示，他在五月到七月間收到了一波約 200 本書的急單，他形容這種體驗「令人難以招架」。另一位要求匿名的書商則回報，自一月以來已收到總計 6,000 本書的訂單。這位賣家指出，買家願意支付高價且不要求折扣，即使是大量採購也是如此。這種行為在該行業並不常見，且已干擾了正常的商業運作。"
+      "en": "This situation is creating challenges for the secondhand book industry. While the high prices offered by these mystery buyers might seem like a benefit, many sellers are concerned about the impact on their business. The anonymous bookseller mentioned earlier stated that the activity is \"disrupting the secondhand bookselling business\" because it does not follow the normal trends of the market. For shop owners who take pride in connecting readers with specific interests, these bulk, random orders feel like an unnatural change to their trade.",
+      "zh": "這種情況正為二手書產業帶來挑戰。雖然這些神秘買家提供的高價看似有利可圖，但許多賣家擔心這會對其業務造成衝擊。前述那位不願具名的書商表示，這種活動正在「擾亂二手書銷售產業」，因為它不符合正常的市場趨勢。對於那些以能為讀者連結特定興趣而自豪的店主來說，這些大量且隨機的訂單，感覺像是對他們行業的一種不自然的扭曲。"
     },
     {
       "id": "p6",
-      "en": "Some of the details about these buyers are also quite mysterious. The anonymous bookseller mentioned that the names used for these orders are very difficult to identify. Furthermore, different buyers have been seen using the same delivery address, which points to freight warehouses near Heathrow airport in the UK. One company, Canada-based Zoom Books, has been identified in reports as being involved in these orders. Zoom Books describes itself as a \"book recycling company,\" but it has not provided further details about its clients.",
-      "zh": "關於這些買家的部分細節也相當神秘。該名匿名書商提到，這些訂單所使用的名稱非常難以辨識。此外，不同買家被發現使用相同的寄送地址，指向英國希斯洛機場 (Heathrow Airport) 附近的貨運倉庫。其中一家名為「Zoom Books」的加拿大公司，在報導中被指名與這些訂單有關。Zoom Books 將自己描述為一家「圖書回收公司」，但並未提供關於其客戶的進一步細節。"
+      "en": "Some of the companies involved have been identified in media reports, such as the Canada-based Zoom Books. This company describes itself as a book recycling business, though it has faced questions about its role in these bulk orders. The Guardian reported that they reached out to Zoom Books for comment on the matter. As the mystery continues, booksellers are left to wonder if their shelves are being emptied to fuel the next generation of technology.",
+      "zh": "部分涉案公司已在媒體報導中被點名，例如總部位於加拿大的 Zoom Books。該公司自稱為書籍回收企業，但其在這些巨量訂單中所扮演的角色已引發質疑。《衛報》報導稱，他們已聯繫 Zoom Books 請求置評。隨著謎團持續，書商們不禁懷疑，他們的書架是否正被清空，以作為推動下一代科技的燃料。"
     },
     {
       "id": "p7",
-      "en": "As the demand continues, booksellers are struggling to keep up. One Australian bookseller told The Guardian that the sudden scale of these requests is \"driving me nuts.\" Because the orders are so random and large, they do not fit into the usual market trends. This makes it hard for shop owners to manage their inventory and plan for their regular customers.",
-      "zh": "隨著需求持續增加，書商們正疲於應付。一位澳洲書商告訴《衛報》，這些需求突如其來的規模讓他「快要瘋了」。由於訂單如此隨機且龐大，它們完全不符合一般的市場趨勢。這使得店主難以管理庫存，也難以為常客規劃服務。"
-    },
-    {
-      "id": "p8",
-      "en": "What will happen next remains unclear. For now, the secondhand book market is dealing with a situation that feels more like a mystery than a normal business transaction. Whether these AI companies will continue to buy books in such large amounts depends on their ongoing need for new data. For the booksellers, the priority is simply managing the high volume of requests while trying to understand who is really behind these strange, machine-like orders. As the industry watches, the link between old books and new technology continues to grow, changing the way we think about the value of printed paper in the digital age.",
-      "zh": "接下來會發生什麼事仍不明朗。目前，二手書市場正處理著一種比起商業交易更像謎團的情況。這些人工智慧公司是否會繼續大量購買書籍，取決於它們對新資料的持續需求。對書商而言，當務之急只是應付龐大的訂單量，同時試圖釐清到底是誰在這些奇怪、機械式的訂單背後操盤。隨著業界持續關注，舊書與新科技之間的連結不斷加深，也正在改變我們在數位時代對紙本印刷品價值的看法。"
+      "en": "Looking ahead, the situation remains unclear. While there is no official confirmation that AI firms are the ones behind every order, the evidence is leading many to that conclusion. The scale of the demand is so high that some booksellers have described it as overwhelming. As the debate over how AI companies gather data continues to grow, these small, independent shops find themselves at the center of a global conversation about technology, copyright, and the future of the printed word. For now, shop owners continue to process these strange orders while waiting to see if the trend will eventually slow down or if it is simply the new reality of the secondhand book market.",
+      "zh": "展望未來，情況仍不明朗。雖然目前沒有官方證實人工智慧公司就是每一筆訂單的幕後主使，但種種跡象讓許多人得出此一結論。需求的規模之大，以至於一些書商形容這令人難以招架。隨著關於人工智慧公司如何蒐集數據的爭論日益激烈，這些小型獨立書店發現自己正處於一場關於科技、著作權以及印刷文字未來的全球對話中心。目前，店主們只能繼續處理這些奇怪的訂單，同時觀望這種趨勢最終會減緩，還是這已成為二手書市場的新常態。"
     }
   ],
-  "wordCount": 738,
+  "wordCount": 658,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
-      "term": "pulped",
-      "definitionEn": "To reduce paper or books to a soft, wet mass in order to recycle it.",
-      "definitionZh": "將紙張或書籍打成紙漿（以便回收）。",
-      "partOfSpeech": "verb (past participle)",
-      "noteZh": "此詞在日常生活中較少見，這裡指書籍被銷毀並回收。文中：Once the information is captured, the physical books are often destroyed or \"pulped.\""
-    },
-    {
-      "term": "driving me nuts",
-      "definitionEn": "Making someone feel very annoyed, frustrated, or crazy.",
-      "definitionZh": "讓我快瘋了、讓我非常煩躁。",
+      "term": "all over the place",
+      "definitionEn": "Disorganized, lacking a clear pattern or focus.",
+      "definitionZh": "雜亂無章、沒有頭緒。",
       "partOfSpeech": "idiom",
-      "noteZh": "這是口語化的慣用語，字面上與「駕駛」或「堅果」無關。文中：One Australian bookseller told The Guardian that the sudden scale of these requests is \"driving me nuts.\""
+      "noteZh": "這是一個口語慣用語，字面上容易誤解為「到處都是」，這裡指訂單內容毫無邏輯。文中：Stuart Manley, the co-owner of Barter Books in Northumberland, described the orders as \"all over the place.\""
     },
     {
       "term": "behind",
       "definitionEn": "Responsible for or the cause of something.",
-      "definitionZh": "是……的幕後主使、造成……的原因。",
-      "partOfSpeech": "preposition",
-      "noteZh": "常見作方位介詞（在……後面），這裡指「幕後黑手」或「背後推手」。文中：This has led many shop owners to suspect that artificial intelligence (AI) companies are behind the purchases."
+      "definitionZh": "是……的幕後推手、造成……的原因。",
+      "partOfSpeech": "preposition (here)",
+      "noteZh": "常見作方位介詞（在……後面），這裡指某人是某項行動的幕後主使。文中：Many in the book trade believe that artificial intelligence companies are behind these purchases."
+    },
+    {
+      "term": "trade",
+      "definitionEn": "A particular industry or business sector.",
+      "definitionZh": "行業、買賣交易。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（交換），這裡作名詞指特定的商業領域。文中：For shop owners who take pride in connecting readers with specific interests, these bulk, random orders feel like an unnatural change to their trade."
+    },
+    {
+      "term": "fuel",
+      "definitionEn": "To provide the power or resources needed for something to continue or grow.",
+      "definitionZh": "提供動力、助長、推動。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（燃料），這裡作動詞，形容提供資源讓科技發展。文中：As the mystery continues, booksellers are left to wonder if their shelves are being emptied to fuel the next generation of technology."
     }
   ],
   "sources": [
@@ -86,61 +88,69 @@
   ],
   "story": {
     "id": "ai-companies-suspected-of-bulk-book-buying",
-    "type": "standalone",
-    "previousArticles": []
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "ai-companies-suspected-of-bulk-book-buying-aug-2026",
+        "title": "Mystery Bulk Book Orders Raise Questions About AI Data Needs",
+        "publishedAt": "2026-08-15T22:13:21.115891Z",
+        "category": "technology",
+        "summaryEn": "Secondhand booksellers in the UK, Ireland, and other countries are reporting a sudden increase in large, unusual book orders. These buyers often request random titles that do not follow normal shopping patterns. Many shop owners believe these orders are being placed by artificial intelligence companies. These companies may be buying the books to scan their text for training AI models. This trend is changing how the secondhand book market operates."
+      }
+    ]
   },
   "quiz": [
     {
       "id": "q1",
       "type": "detail",
-      "question": "According to the article, what common characteristic do the mysterious bulk orders share?",
+      "question": "What is unique about the payment behavior of these mystery bulk buyers?",
       "options": {
-        "A": "They consist exclusively of rare 18th-century historical documents.",
-        "B": "They contain a random assortment of titles without a logical theme.",
-        "C": "They are placed only by individuals living near Heathrow airport.",
-        "D": "They are always requested by customers seeking to resell them at a profit."
+        "A": "They always pay using automated digital currency transfers.",
+        "B": "They pay high prices and do not request standard bulk discounts.",
+        "C": "They pay in installments after the books have been successfully scanned.",
+        "D": "They negotiate lower prices because they are buying such large quantities."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。根據文章第二段，Stuart Manley 指出這些訂單包含極為隨機的項目（如愛沙尼亞語小說、舊雜誌等），且沒有任何邏輯主題，這與一般顧客的購買行為大相徑庭。選項 A 錯誤，因為訂單範圍極廣，不限於歷史文件；選項 C 錯誤，文中僅提到送貨地址指向這些區域，並未說買家皆居住於此；選項 D 文中並未提及買家的轉售動機，僅提到他們願意支付高價。"
+      "explanationZh": "正確答案為 B。根據文章第三段，匿名賣家提到這些買家願意支付高價，且不會要求大量購買時通常會有的折扣。選項 A 文章未提及付款方式；選項 C 是對「掃描」過程的錯誤聯想；選項 D 與原文描述完全相反，原文強調他們不要求折扣。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "What can be inferred about the impact of these bulk orders on secondhand bookstore owners?",
+      "question": "Based on the article, why might these bulk orders be considered 'unnatural' by secondhand booksellers?",
       "options": {
-        "A": "They are happy because the high prices help them clear out unwanted inventory.",
-        "B": "They are worried that their shops will be forced to close due to legal action.",
-        "C": "They find it difficult to manage their regular business operations and inventory.",
-        "D": "They are actively collaborating with AI companies to digitize their collections."
+        "A": "Because the books are being shipped to locations that are not accessible by road.",
+        "B": "Because the buyers are exclusively interested in rare, high-value historical manuscripts.",
+        "C": "Because the orders lack the thematic coherence typically seen in human book-buying patterns.",
+        "D": "Because the buyers refuse to communicate with shop owners in any language other than code."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。根據文章第七段，書商提到這些隨機且大量的訂單讓他們難以管理庫存並規劃一般顧客的需求，甚至有人表示這讓他們感到「快瘋了」（driving me nuts）。選項 A 錯誤，雖然買家願意付高價，但書商感到的是負擔而非開心；選項 B 錯誤，文中未提及法律問題；選項 D 錯誤，書商與買家並非合作關係，書商對這些訂單感到困惑且不知情。"
+      "explanationZh": "正確答案為 C。文章第一段與第二段提到，傳統買家通常會根據歷史、運動等特定主題選書，但這些訂單內容雜亂無章（all over the place），且 Jim Shaughnessy 指出這些訂單缺乏人類購物習慣的模式，因此推論出這種非主題性的採購對書商而言是不自然的。選項 A 與 D 文中未提及；選項 B 與原文提到的「雜亂無章」矛盾。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the fourth paragraph, what does the word 'pulped' mean in the context of the physical books?",
+      "question": "In the fourth paragraph, what does the word 'squandered' mean in the context of AI money?",
       "options": {
-        "A": "To be recycled or destroyed after the information is scanned.",
-        "B": "To be carefully preserved in a digital library for future use.",
-        "C": "To be sold to other bookstores at a significant discount.",
-        "D": "To be cleaned and repaired to look like new editions."
+        "A": "Wasted or used in a foolish or extravagant way.",
+        "B": "Invested wisely to generate long-term profit.",
+        "C": "Collected slowly over a long period of time.",
+        "D": "Hidden from public view to avoid taxation."
       },
       "correct": "A",
-      "explanationZh": "正確答案為 A。在第四段中，提到 AI 公司購買書籍是為了掃描其中的資料，一旦資訊被擷取，這些實體書通常會被銷毀或「打成紙漿」（pulped）。這是一個非字面意義的用法，指將書籍作為廢紙處理。選項 B 與原文意思相反；選項 C 錯誤，文中並未提及轉賣；選項 D 錯誤，這與文章提到書籍被處理掉的脈絡不符。"
+      "explanationZh": "正確答案為 A。在第四段中，Stuart Manley 評論 AI 公司花費大量金錢購買書籍並將其銷毀（pulping）的行為，使用「squandered」來表達他認為這些錢被浪費在這種單純為了獲取數據的行為上。選項 B 與該詞原意相反；選項 C 與 D 均不符合該詞在文中的負面語氣。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "What is the central message of this article?",
+      "question": "What is the primary concern discussed regarding the recent trend of mysterious bulk book orders?",
       "options": {
-        "A": "Secondhand bookstores are becoming the primary source of income for AI developers.",
-        "B": "The rise of AI is creating a mysterious and disruptive trend in the secondhand book trade.",
-        "C": "Bookstores in the UK and Ireland are struggling because people no longer read physical books.",
-        "D": "AI companies are intentionally trying to destroy the global secondhand book market."
+        "A": "The physical decline of old bookstores due to lack of foot traffic.",
+        "B": "The legal battles between AI companies and international copyright holders.",
+        "C": "The difficulty of finding enough books to satisfy the growing demand of AI firms.",
+        "D": "The disruption of the secondhand book market by AI companies buying books for data training."
       },
-      "correct": "B",
-      "explanationZh": "正確答案為 B。本文主要探討全球二手書店面臨的一種新趨勢，即神秘買家（疑似為 AI 公司）大量收購隨機書籍以獲取數據，這對傳統二手書商的經營模式造成了困擾與混亂。選項 A 誇大了影響；選項 C 錯誤，問題在於「大量購買」而非「沒人買書」；選項 D 錯誤，文中並未指出 AI 公司有「意圖」摧毀市場，這只是其行為帶來的負面副作用。"
+      "correct": "D",
+      "explanationZh": "正確答案為 D。文章核心在於討論 AI 公司大量收購二手書以進行數據訓練，這種行為不僅讓書商感到困惑，也對傳統二手書市場的運作模式造成了干擾與衝擊。選項 A 僅是局部現象；選項 B 雖有提到版權，但非全文主旨；選項 C 則忽略了書商對這種「非自然」市場變化的擔憂與反感。"
     }
   ],
   "aiGenerated": true,
