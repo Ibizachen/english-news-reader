@@ -1,0 +1,163 @@
+{
+  "id": "2026-08-16-global-concerns-over-ai-powered-celebrity-scams",
+  "slug": "global-concerns-over-ai-powered-celebrity-scams-aug-2026",
+  "publishedAt": "2026-08-16T22:35:18.148887Z",
+  "category": "technology",
+  "title": "The New Danger: How AI is Powering Global Celebrity Scams",
+  "subtitle": "From fake holiday alerts to deepfake videos, criminals are using artificial intelligence to trick people out of millions.",
+  "summary": {
+    "en": "Criminals are increasingly using artificial intelligence to create convincing scams that target the public. By analyzing social media photos, scammers can identify a person's location to make fake bank alerts seem real. Furthermore, deepfake technology is being used to impersonate famous figures and politicians to steal money. These scams are becoming more sophisticated, making them harder for everyday people to detect. Experts advise the public to stay cautious and verify information through official channels before sharing money or personal details.",
+    "zh": "犯罪分子正日益利用人工智慧製作極具說服力的詐騙手段來針對大眾。透過分析社群媒體照片，詐騙者能識別個人的位置，使偽造的銀行警示看起來真實可信。此外，深偽技術也被用於冒充名人與政治人物以竊取金錢。這些詐騙手段正變得愈發複雜，使一般民眾更難以察覺。專家建議大眾保持警惕，並在分享金錢或個人資料前，務必透過官方管道查證資訊。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The world of online fraud is changing quickly as criminals find new ways to use artificial intelligence (AI) to trick people. Following recent reports on how AI can track your location through holiday photos, new data shows that scammers are now using advanced technology to impersonate famous people and politicians. These \"deepfakes\"—videos or audio recordings that use AI to make it look like someone said or did something they did not—are causing significant financial damage to people around the world.",
+      "zh": "隨著犯罪分子不斷尋找利用人工智慧（AI）來欺騙大眾的新方法，網路詐騙的世界正迅速改變。繼近期關於人工智慧如何透過度假照片追蹤個人位置的報導後，新數據顯示，詐騙者現在正利用先進技術來冒充名人與政治人物。這些「深偽技術（deepfakes）」——即利用人工智慧製作出某人似乎說過或做過某事，但實際上並未發生的影片或錄音——正對全球民眾造成嚴重的財務損失。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Guardian, Australia’s corporate watchdog, the Australian Securities and Investment Commission (Asic), has warned about a sharp rise in these fake investment scams. In one concerning example, criminals used a deepfake of the Australian Prime Minister, Anthony Albanese. In the video, the fake version of the leader promises that citizens can earn large amounts of money every month through an \"official\" government platform. This is completely false, yet the technology is so convincing that it has already cost Australians millions of dollars.",
+      "zh": "根據《衛報（The Guardian）》報導，澳洲的企業監管機構「澳洲證券與投資委員會（Asic）」已針對此類虛假投資詐騙的急劇增加發出警告。在一個令人擔憂的案例中，犯罪分子利用了澳洲總理艾班尼斯（Anthony Albanese）的深偽影片。在影片中，這位領導人的虛假版本承諾民眾可以透過一個「官方」政府平台每月賺取大筆金錢。這完全是謊言，但該技術極具說服力，已導致澳洲民眾損失數百萬美元。"
+    },
+    {
+      "id": "p3",
+      "en": "This trend is not limited to just one country. Asic reports that in the last financial year, they dealt with more than 19,400 scams, which is nearly three times the number from the year before. The criminals behind these schemes are building entire networks of fake websites, news articles, and reviews to make their offers look real. By using the faces and voices of trusted public figures, they create a sense of safety that encourages victims to hand over their money. The Guardian noted that these funds often end up in the hands of overseas criminal groups.",
+      "zh": "這種趨勢並非僅限於單一國家。澳洲證券與投資委員會指出，在上一財政年度，他們處理了超過 1 萬 9400 起詐騙案，幾乎是前一年的三倍。這些詐騙背後的犯罪分子建立了一整套虛假網站、新聞報導與評論網路，使他們的提議看起來真實可信。透過使用受信任公眾人物的臉孔與聲音，他們營造出一種安全感，誘使受害者交出錢財。《衛報》指出，這些資金往往最終流入海外犯罪集團的手中。"
+    },
+    {
+      "id": "p4",
+      "en": "Beyond deepfakes, AI is also being used to make smaller, personal scams much more dangerous. As previously reported by The Guardian, criminals can now analyze social media photos to find out exactly where you are on vacation. By looking at small details like street signs, building styles, or even the type of flowers in a garden, AI can identify your location with high accuracy. Scammers then send fake text messages claiming your bank card has been used in that specific city. Because the message mentions your actual location, it feels much more real, making people more likely to click on dangerous links.",
+      "zh": "除了深偽技術外，人工智慧也被用來讓規模較小、針對個人的詐騙變得更加危險。正如《衛報》先前報導，犯罪分子現在可以分析社群媒體照片，精確找出你度假時的地點。透過觀察街道標誌、建築風格，甚至是花園裡的花卉種類等細節，人工智慧能以極高的準確度識別你的位置。詐騙者隨後會發送偽造的簡訊，聲稱你的銀行卡在該特定城市被使用。由於訊息提到了你的實際位置，這感覺起來真實許多，導致人們更容易點擊危險連結。"
+    },
+    {
+      "id": "p5",
+      "en": "Experts at McAfee, a company that makes anti-virus software, tested this technology and found that AI could correctly identify the location of thousands of travel images. They warn that computers no longer need photos to be tagged with location data to know where they were taken. Once a scammer knows where you are, they can send a message that sounds like a legitimate bank warning, pressuring you to act immediately to \"verify\" your account. This sense of urgency is a common tactic used to stop people from thinking clearly before they act.",
+      "zh": "防毒軟體公司 McAfee 的專家測試了這項技術，發現人工智慧能正確識別數千張旅遊照片的地點。他們警告，電腦不再需要照片標記位置數據就能知道照片是在哪裡拍攝的。一旦詐騙者知道你的位置，他們就能發送聽起來像是合法銀行警告的訊息，施壓你立即採取行動來「驗證」帳戶。這種急迫感是詐騙者常用的手段，用來阻止人們在行動前冷靜思考。"
+    },
+    {
+      "id": "p6",
+      "en": "So, how can people protect themselves from these high-tech threats? The advice from experts is clear: be very careful about what you share and how you react to online messages. If you want to post photos of your travels, it is best to wait until you have returned home. You should also change your social media settings so that only your friends can see your posts.",
+      "zh": "那麼，人們該如何保護自己免受這些高科技威脅呢？專家的建議很明確：對於你在網路上分享的內容以及對訊息的反應，務必保持高度謹慎。如果你想發布旅遊照片，最好等到回家後再發布。你也應該更改社群媒體的隱私設定，僅限朋友查看你的貼文。"
+    },
+    {
+      "id": "p7",
+      "en": "When it comes to financial opportunities, Asic warns that the presence of professional-looking websites or famous faces does not mean an investment is real. Before you give any money or personal information to an online platform, you should check the details independently. This means searching for the company’s official website, checking professional registers, and contacting your bank directly using a phone number you know is correct. Never click on links provided in unexpected texts or emails, even if they seem to come from a trusted source.",
+      "zh": "談到財務機會時，澳洲證券與投資委員會警告，出現專業的網站或名人的臉孔並不代表投資是真實的。在將任何金錢或個人資訊交給網路平台之前，你應該獨立查證細節。這意味著要搜尋該公司的官方網站、查詢專業註冊資料，並使用你確認正確的電話號碼直接聯繫你的銀行。永遠不要點擊意外收到的簡訊或電子郵件中的連結，即使它們看起來來自受信任的來源。"
+    },
+    {
+      "id": "p8",
+      "en": "As AI continues to improve, these scams will likely become even harder to spot. Criminals are always watching the news cycle, ready to change which celebrities they impersonate to match current events. By staying informed and keeping a healthy level of doubt about \"too good to be true\" offers, you can better protect your money and your identity in this new digital age.",
+      "zh": "隨著人工智慧持續進步，這些詐騙手段可能會變得更難以察覺。犯罪分子時刻關注新聞動態，隨時準備更換冒充的名人以配合時事。透過保持資訊靈通，並對「好得不真實」的提議保持適度的懷疑，你才能在這個數位新時代中更好地保護自己的錢財與身分。"
+    }
+  ],
+  "wordCount": 732,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "hand over",
+      "definitionEn": "To give something to someone else, especially because you are forced to or because it is required.",
+      "definitionZh": "交出、移交（通常指被迫或被要求給予）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "此片語在文中指受害者將錢交給詐騙者。文中：By using the faces and voices of trusted public figures, they create a sense of safety that encourages victims to hand over their money."
+    },
+    {
+      "term": "deal with",
+      "definitionEn": "To take action in order to solve a problem or handle a situation.",
+      "definitionZh": "處理、應付。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這裡指監管機構處理詐騙案件的數量。文中：Asic reports that in the last financial year, they dealt with more than 19,400 scams, which is nearly three times the number from the year before."
+    },
+    {
+      "term": "watch",
+      "definitionEn": "To pay close attention to something or someone, often to be ready for changes.",
+      "definitionZh": "密切注意、盯著。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（手錶），這裡作動詞，指犯罪者密切關注新聞動態。文中：Criminals are always watching the news cycle, ready to change which celebrities they impersonate to match current events."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/money/2026/aug/16/scam-ai-holiday-photos-instagram-facebook",
+      "title": "‘We detected unusual activity’: the scam that uses AI to exploit your holiday photos",
+      "publishedAt": "2026-08-16T06:00:17Z"
+    },
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/17/deepfake-anthony-albanese-used-in-celebrity-scams-duping-australians-out-of-74m-asic-warns",
+      "title": "Deepfake Anthony Albanese used in celebrity scams duping Australians out of $7.4m, Asic warns",
+      "publishedAt": "2026-08-16T14:01:27Z"
+    }
+  ],
+  "story": {
+    "id": "ai-deepfakes-and-scams-targeting-the-public",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "ai-deepfakes-and-scams-targeting-the-public-aug-2026",
+        "title": "The New Age of Digital Scams: How AI is Changing Online Fraud",
+        "publishedAt": "2026-08-16T22:13:24.076906Z",
+        "category": "technology",
+        "summaryEn": "Criminals are increasingly using artificial intelligence to create convincing scams that target the public. By analyzing social media photos, scammers can identify a person's location to make fake bank alerts seem real. Additionally, deepfake technology is being used to impersonate celebrities and politicians to promote fake investment schemes. These scams have led to significant financial losses for many victims. Experts advise the public to be cautious, verify information independently, and avoid clicking on suspicious links."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what specific method do scammers use to make their location-based scams more effective?",
+      "options": {
+        "A": "They hack into the victim's bank account to view their transaction history.",
+        "B": "They analyze visual details in vacation photos to confirm a victim's current location.",
+        "C": "They use GPS data embedded in the metadata of social media posts.",
+        "D": "They call the victim and pretend to be a travel agency representative."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第四段明確指出，詐騙者會分析度假照片中的細節（如路標、建築風格或花朵），藉此精確定位受害者的位置。選項 A 文章未提及；選項 C 錯誤，因為文章第五段強調電腦已不需要照片內建的定位標籤（metadata）即可辨識位置；選項 D 則是文章未提及的手段。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the text, why is it dangerous to share photos of your travels in real-time?",
+      "options": {
+        "A": "Because it allows criminals to physically track you to your hotel.",
+        "B": "Because it provides scammers with the necessary information to create a convincing, personalized fraud attempt.",
+        "C": "Because social media platforms automatically sell your location data to overseas criminal groups.",
+        "D": "Because it makes it easier for hackers to guess your bank account password."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第四段與第五段連結指出，詐騙者利用照片中的位置資訊來發送看似真實的銀行警告簡訊，這種「客製化」的資訊會讓受害者降低戒心。選項 A 雖然聽起來危險，但文章重點在於數位詐騙而非實體跟蹤；選項 C 文章並未指控平台販售數據；選項 D 與文章內容無直接關聯。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the phrase 'healthy level of doubt' mean in the context of protecting yourself?",
+      "options": {
+        "A": "A feeling of extreme anxiety that prevents you from using the internet.",
+        "B": "A skeptical attitude that encourages you to verify information before trusting it.",
+        "C": "A medical condition caused by spending too much time looking at screens.",
+        "D": "A requirement to stop using all online investment platforms entirely."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在此語境下，「healthy level of doubt」意指保持適度的懷疑心，這與第七段提到的「獨立查證（check the details independently）」相呼應。選項 A 過於極端，並非建議；選項 C 為錯誤解釋，與文章語意無關；選項 D 雖然建議謹慎，但文章並未要求完全停止使用網路平台，而是建議要查證。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of this article?",
+      "options": {
+        "A": "AI technology is primarily used by governments to catch criminals.",
+        "B": "The Australian government is the only organization working to stop deepfake scams.",
+        "C": "AI makes online scams more sophisticated and dangerous, requiring users to be more vigilant and skeptical.",
+        "D": "People should stop posting photos on social media to avoid being targeted by criminals."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。本文整體論述了 AI 如何被用於深度偽造（deepfakes）與定位詐騙，並強調隨著技術進步，詐騙變得更難辨識，因此大眾必須保持警覺並查證資訊。選項 A 與文章主旨相反；選項 B 錯誤，因為文章提到這是一個全球性問題；選項 D 雖然是建議之一，但並非全文的核心主旨。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
