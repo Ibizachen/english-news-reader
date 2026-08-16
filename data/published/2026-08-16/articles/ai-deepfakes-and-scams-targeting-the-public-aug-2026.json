@@ -1,0 +1,157 @@
+{
+  "id": "2026-08-16-ai-deepfakes-and-scams-targeting-the-public",
+  "slug": "ai-deepfakes-and-scams-targeting-the-public-aug-2026",
+  "publishedAt": "2026-08-16T22:13:24.076906Z",
+  "category": "technology",
+  "title": "The New Age of Digital Scams: How AI is Changing Online Fraud",
+  "subtitle": "From holiday photos to fake videos of leaders, criminals are using artificial intelligence to trick people out of money.",
+  "summary": {
+    "en": "Criminals are increasingly using artificial intelligence to create convincing scams that target the public. By analyzing social media photos, scammers can identify a person's location to make fake bank alerts seem real. Additionally, deepfake technology is being used to impersonate celebrities and politicians to promote fake investment schemes. These scams have led to significant financial losses for many victims. Experts advise the public to be cautious, verify information independently, and avoid clicking on suspicious links.",
+    "zh": "犯罪分子正日益利用人工智慧製作具有說服力的騙局來針對大眾。透過分析社群媒體照片，詐騙者可以識別個人的位置，使偽造的銀行警示看起來真實可信。此外，深偽技術也被用於冒充名人與政治人物，以推廣虛假的投資計畫。這些騙局已導致許多受害者蒙受重大財務損失。專家建議大眾應保持謹慎，獨立驗證資訊，並避免點擊可疑連結。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "In recent years, the rise of artificial intelligence (AI) has changed how criminals operate online. While technology has brought many benefits, it has also provided fraudsters with new tools to make their scams more believable. From analyzing your holiday photos to creating fake videos of government leaders, these criminals are finding clever ways to steal money and personal information from unsuspecting people.",
+      "zh": "近年來，人工智慧的興起改變了犯罪分子在網路上的運作方式。雖然科技帶來了許多益處，但也為詐騙者提供了新的工具，使他們的騙局更具說服力。從分析你的度假照片到製作政府領導人的偽造影片，這些犯罪分子正透過各種巧妙的方法，從毫無戒心的民眾手中竊取金錢與個人資訊。"
+    },
+    {
+      "id": "p2",
+      "en": "One common method involves using social media to gather information. According to The Guardian, people often post photos from their travels, believing that the images do not reveal their exact location. However, new research from the software company McAfee shows that AI can analyze small details in these pictures—such as street signs, building styles, or even the type of flowers in a garden—to pinpoint exactly where a photo was taken. Once criminals know where you are, they can send fake text messages or emails claiming that your bank card was used in that specific city. Because the message mentions a location you actually visited, it feels much more real, leading many people to click on dangerous links that steal their financial details.",
+      "zh": "一種常見的手法是利用社群媒體蒐集資訊。根據《衛報》（The Guardian）報導，人們經常發布旅遊照片，認為這些影像不會洩露他們的確切位置。然而，軟體公司邁克菲（McAfee）的最新研究顯示，人工智慧可以分析照片中的細節，例如路標、建築風格，甚至是花園裡的花卉種類，進而精確定位照片拍攝的地點。一旦犯罪分子掌握了你的行蹤，他們就能發送偽造的簡訊或電子郵件，聲稱你的銀行卡曾在該城市被使用。由於訊息中提到了你實際去過的地點，這會讓訊息顯得非常真實，導致許多人點擊危險連結，進而遭竊取財務細節。"
+    },
+    {
+      "id": "p3",
+      "en": "Beyond personal data theft, AI is also being used to create deepfakes. A deepfake is a type of media, such as a video or audio recording, that has been changed by AI to make it look or sound like a real person said or did something they did not. The Australian Securities and Investment Commission (Asic) recently warned about a sharp increase in scams using deepfakes of famous people and politicians. In one example, a fake video of the Australian prime minister, Anthony Albanese, was used to promote a false investment platform. The video falsely promised that people could earn a large amount of money every month by investing a small sum.",
+      "zh": "除了竊取個人資料外，人工智慧也被用於製作深偽技術（Deepfake）。深偽是一種經由人工智慧修改的媒體內容，例如影片或錄音，目的是讓它看起來或聽起來像是某個真實人物說了或做了他們未曾做過的事。澳洲證券投資委員會（Asic）近期警告，利用名人與政治人物深偽影像的詐騙案正急劇增加。其中一個案例是，一段澳洲總理艾班尼斯（Anthony Albanese）的偽造影片被用來推廣一個虛假的投資平台。該影片虛假地承諾，民眾只要投入小額資金，每月就能賺取大筆金錢。"
+    },
+    {
+      "id": "p4",
+      "en": "Asic reports that these scams are becoming more dangerous because they often involve entire networks of fake websites, news articles, and reviews. These elements work together to make a fake investment look like a legitimate opportunity. According to Scamwatch, a government service that tracks fraud, Australians lost millions of dollars to these impersonation scams in the last year alone. The criminals often change the celebrities they copy based on current news, making sure their scams stay relevant to what people are talking about at the time.",
+      "zh": "澳洲證券投資委員會指出，這些騙局正變得越來越危險，因為它們通常涉及由偽造網站、新聞報導與評論組成的完整網絡。這些元素相互配合，使虛假投資看起來像是一個合法的機會。根據追蹤詐騙的政府服務機構「詐騙觀察」（Scamwatch）統計，僅在去年一年，澳洲民眾就因這些冒名詐騙損失了數百萬美元。犯罪分子經常根據當前新聞更換他們模仿的名人，確保騙局與當時大眾討論的話題保持相關性。"
+    },
+    {
+      "id": "p5",
+      "en": "Experts emphasize that the quality of these scams is improving, making them harder to spot. Sarah Court, the chair of Asic, noted that the presence of professional-looking websites or positive testimonials does not mean an investment is safe. She warned that AI is making these traps more convincing than ever before. Because scammers can now easily create high-quality content, a quick online search is often not enough to prove that a person or company is real.",
+      "zh": "專家強調，這些騙局的品質正在提升，使其更難以辨識。澳洲證券投資委員會主席莎拉·寇特（Sarah Court）指出，擁有專業外觀的網站或正面的推薦評價，並不代表該投資是安全的。她警告，人工智慧正讓這些陷阱變得比以往任何時候都更具說服力。由於詐騙者現在可以輕易製作高品質的內容，單靠快速的網路搜尋，往往不足以證明某個人或公司是真實存在的。"
+    },
+    {
+      "id": "p6",
+      "en": "So, how can you protect yourself? Experts suggest several important steps. First, be very careful about sharing photos on social media while you are still on vacation. It is safer to wait until you have returned home before posting your pictures. You should also change your privacy settings so that only people you know can see your content. If you receive a message that creates a sense of urgency—such as being told you must act immediately to stop a bank account from being closed—do not click any links. Instead, contact your bank or the company directly using a phone number or website you know is official.",
+      "zh": "那麼，你該如何保護自己呢？專家建議採取幾個重要步驟。首先，在度假期間分享社群媒體照片時要非常小心。等到回家後再發布照片會更安全。你也應該更改隱私設定，僅限認識的人查看你的內容。如果你收到一則營造急迫感的訊息，例如被告知必須立即採取行動以防止銀行帳戶被關閉，切勿點擊任何連結。相反地，請使用你確認為官方的電話號碼或網站，直接聯繫你的銀行或該公司。"
+    },
+    {
+      "id": "p7",
+      "en": "When it comes to investments, Asic recommends that consumers check for a certified financial services license. However, because scammers sometimes lie about having these licenses, you should always check the official government registers to verify the information. If an investment opportunity promises returns that seem too good to be true, it is likely a scam. By staying alert and taking the time to check facts independently, you can significantly reduce the risk of becoming a victim of these modern digital threats.",
+      "zh": "在投資方面，澳洲證券投資委員會建議消費者檢查對方是否持有合格的金融服務執照。然而，由於詐騙者有時會謊稱擁有這些執照，你應始終查閱官方政府登記資料以驗證資訊。如果一個投資機會承諾的報酬好得令人難以置信，那很可能就是詐騙。透過保持警覺並花時間獨立查證事實，你可以大幅降低成為這些現代數位威脅受害者的風險。"
+    }
+  ],
+  "wordCount": 752,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "pinpoint",
+      "definitionEn": "To discover or explain the exact location or details of something.",
+      "definitionZh": "精確定位；準確找出。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（針尖），這裡作動詞用。文中：new research from the software company McAfee shows that AI can analyze small details in these pictures—such as street signs, building styles, or even the type of flowers in a garden—to pinpoint exactly where a photo was taken."
+    },
+    {
+      "term": "work together",
+      "definitionEn": "To cooperate or combine efforts to achieve a specific result.",
+      "definitionZh": "共同運作；協同合作。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "此處指多個詐騙元素結合起來產生欺騙效果。文中：These elements work together to make a fake investment look like a legitimate opportunity."
+    },
+    {
+      "term": "spot",
+      "definitionEn": "To see, notice, or identify someone or something, especially when it is difficult to do so.",
+      "definitionZh": "辨識出；發現。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（斑點），這裡作動詞用。文中：Experts emphasize that the quality of these scams is improving, making them harder to spot."
+    },
+    {
+      "term": "when it comes to",
+      "definitionEn": "Regarding a particular subject or situation.",
+      "definitionZh": "關於；談到。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這是常見的慣用語，用來轉換話題。文中：When it comes to investments, Asic recommends that consumers check for a certified financial services license."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/money/2026/aug/16/scam-ai-holiday-photos-instagram-facebook",
+      "title": "‘We detected unusual activity’: the scam that uses AI to exploit your holiday photos",
+      "publishedAt": "2026-08-16T06:00:17Z"
+    },
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/17/deepfake-anthony-albanese-used-in-celebrity-scams-duping-australians-out-of-74m-asic-warns",
+      "title": "Deepfake Anthony Albanese used in celebrity scams duping Australians out of $7.4m, Asic warns",
+      "publishedAt": "2026-08-16T14:01:27Z"
+    }
+  ],
+  "story": {
+    "id": "ai-deepfakes-and-scams-targeting-the-public",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "How do criminals use AI to make their phishing messages more effective regarding your travel photos?",
+      "options": {
+        "A": "They use AI to automatically post your photos to fake social media accounts.",
+        "B": "They identify your specific location through visual details in your photos to make their fake bank alerts seem authentic.",
+        "C": "They use AI to edit your photos to include fake bank cards that they then threaten to cancel.",
+        "D": "They contact your bank directly using the metadata from your photos to request your financial records."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，犯罪分子利用 AI 分析照片中的細節（如路標、建築風格或花卉），精確定位受害者的位置，進而發送提及該地點的偽造簡訊，讓受害者誤以為銀行真的掌握其行蹤，進而點擊詐騙連結。選項 A 錯誤，因為文章未提及自動發布照片；選項 C 錯誤，文中提到的是分析照片而非修改照片內容；選項 D 錯誤，犯罪分子是針對受害者而非直接聯絡銀行。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, why is a quick online search no longer a reliable way to verify if an investment opportunity is legitimate?",
+      "options": {
+        "A": "Because government websites are often hacked and provide incorrect information.",
+        "B": "Because scammers now use AI to create entire networks of fake news, websites, and reviews to support their claims.",
+        "C": "Because most search engines have stopped tracking financial fraud reports.",
+        "D": "Because celebrities are now actively helping scammers create high-quality content."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據第四段與第五段，詐騙者現在會建立一系列相互關聯的偽造網站、新聞報導與評論，這些內容在網路上看起來非常專業且具說服力。因此，僅僅進行簡單的網路搜尋，往往會看到這些精心設計的假資訊，導致搜尋結果不再可靠。選項 A 文中未提及；選項 C 與事實相反；選項 D 錯誤，文章是指犯罪分子「冒用」名人形象，而非名人參與詐騙。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the phrase 'too good to be true' suggest about an investment opportunity?",
+      "options": {
+        "A": "It is an extremely rare and honest financial deal.",
+        "B": "It is a highly complex investment that requires professional help.",
+        "C": "It is likely a scam because the promised returns are unrealistically high.",
+        "D": "It is a very simple investment that anyone can understand."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。「Too good to be true」是一個常見的慣用語，意指某件事物看起來好到令人難以置信，通常暗示其中存在欺詐或不實之處。在文中，作者用此來提醒讀者，若投資回報率高得離譜，那很可能就是詐騙。選項 A 與原意完全相反；選項 B 與 D 則偏離了該詞彙在金融詐騙語境中的警告意味。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of this article regarding modern digital scams?",
+      "options": {
+        "A": "Social media is the only platform where people should worry about their personal information.",
+        "B": "AI has made scams more sophisticated, requiring people to be more cautious and verify information independently.",
+        "C": "The government is now successfully stopping all AI-driven fraud through new software.",
+        "D": "The best way to avoid being scammed is to stop using the internet for all financial transactions."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。本文旨在探討 AI 技術如何讓詐騙手段變得更加逼真且難以辨識，並強調消費者應提高警覺，採取如延後發布旅遊照片、查證官方資訊等預防措施。選項 A 過於狹隘，文中也討論了投資詐騙；選項 C 錯誤，政府雖有追蹤但並未完全杜絕；選項 D 過於極端，文章建議的是「謹慎」而非「完全停止使用」。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
