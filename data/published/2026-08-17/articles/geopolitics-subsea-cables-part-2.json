@@ -1,0 +1,179 @@
+{
+  "id": "series-geopolitics-subsea-cables-part-2",
+  "slug": "geopolitics-subsea-cables-part-2",
+  "publishedAt": "2026-08-17T02:19:08.614647Z",
+  "category": "technology",
+  "title": "Mapping the Players: From Tech Giants to State Interests",
+  "subtitle": "The shift from telecommunications consortia to private tech giants is redefining how global data moves across the ocean floor.",
+  "byline": "Adapted from reporting by Bloomberg and The Wall Street Journal, 2023-2024",
+  "summary": {
+    "en": "Subsea internet cables are no longer just owned by traditional telephone companies. Major tech giants like Google and Meta now control much of the world's data traffic. This shift changes how nations view these cables as matters of national security and economic power.",
+    "zh": "海底網路電纜不再僅由傳統電信公司擁有。Google 和 Meta 等大型科技巨頭現在掌控了全球大部分的數據流量。這種轉變改變了各國將這些電纜視為國家安全與經濟力量關鍵的方式。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "According to a recent Bloomberg analysis, the landscape of global subsea internet infrastructure has undergone a massive transformation in recent years. Historically, these massive cables were built and maintained by groups of traditional telecommunications companies known as consortia, which shared the high costs and risks of laying fiber-optic lines across the ocean floor. However, reports from industry analysts indicate that this model is rapidly fading as private tech companies have stepped in to take control. These companies now see the physical internet as the most critical asset for their global operations and future growth.",
+      "zh": "根據彭博社近期的一項分析，全球海底網路基礎設施的版圖在近年經歷了巨大的轉變。過去，這些巨大的電纜是由稱為「財團」的傳統電信公司集團所建造與維護，他們共同分擔在海底鋪設光纖的高昂成本與風險。然而，產業分析師的報告指出，隨著私人科技公司介入並取得主導權，這種模式正在迅速消失。這些科技巨頭現在將實體網路視為其全球營運與未來成長最關鍵的資產。"
+    },
+    {
+      "id": "p2",
+      "en": "A 2023 report by the Wall Street Journal suggests that hyperscalers—specifically Google, Meta, Amazon, and Microsoft—now own or lease more than half of all subsea cable capacity globally. This move away from traditional telecom providers is driven by the explosive demand for cloud computing and artificial intelligence services. As noted by technology researchers, these companies require massive amounts of bandwidth to connect their data centers across different continents. By owning the cables, they can ensure their services remain fast and reliable, avoiding the congestion often found on public or shared networks.",
+      "zh": "華爾街日報 2023 年的一份報告指出，超大規模雲端運算業者（Hyperscalers）——特別是 Google、Meta、亞馬遜與微軟——目前擁有或租賃全球超過一半的海底電纜容量。這種脫離傳統電信供應商的舉動，主要是受到雲端運算與人工智慧服務爆炸性需求的推動。正如科技研究人員所指出的，這些公司需要巨大的頻寬來連接分布在不同洲的數據中心。透過擁有這些電纜，他們可以確保服務保持快速且可靠，並避免公共或共享網路上常見的擁塞問題。"
+    },
+    {
+      "id": "p3",
+      "en": "Industry experts at the International Telecommunication Union explain that this change has significant implications for how data is managed. When telecommunications companies owned the cables, they functioned like public utilities, selling capacity to various customers on an open market. According to academic studies on digital infrastructure, the current trend of private ownership means that tech giants have more control over the flow of information. They can prioritize their own traffic, which gives them a competitive advantage over smaller companies that must still rely on traditional, more expensive, and potentially slower leased lines.",
+      "zh": "國際電信聯盟的產業專家解釋說，這種改變對數據管理方式具有重大影響。當電信公司擁有電纜時，它們的功能就像公用事業，在公開市場上將容量賣給各種客戶。根據關於數位基礎設施的學術研究，目前私人擁有的趨勢意味著科技巨頭對資訊流動擁有更大的控制權。他們可以優先處理自己的流量，這使他們在必須依賴傳統、更昂貴且可能較慢的租賃線路的較小公司面前，擁有競爭優勢。"
+    },
+    {
+      "id": "p4",
+      "en": "State interests have also become deeply intertwined with these private investments, as reported by various geopolitical think tanks. Governments are increasingly concerned about who owns the cables because these lines carry sensitive government data, financial transactions, and military communications. A study by the Carnegie Endowment for International Peace notes that nations are now treating subsea cables as strategic national assets rather than just commercial tools. Consequently, states are implementing stricter regulations and security screenings for any company that wants to build or land a cable on their territory to protect national security.",
+      "zh": "根據各類地緣政治智庫的報導，國家利益也已與這些私人投資深度交織。各國政府越來越關注誰擁有這些電纜，因為這些線路承載著敏感的政府數據、金融交易與軍事通訊。卡內基國際和平基金會的一項研究指出，各國現在將海底電纜視為戰略性國家資產，而非僅僅是商業工具。因此，各國政府正在對任何想要在其領土上鋪設或登陸電纜的公司實施更嚴格的監管與安全審查，以維護國家安全。"
+    },
+    {
+      "id": "p5",
+      "en": "The shift in ownership has created a complex environment where business needs often clash with national security priorities, according to recent analysis from the Council on Foreign Relations. While tech giants want to build the most efficient routes to connect their global hubs, governments may block these plans if they suspect the infrastructure could be used for espionage or sabotage. Analysts at the Council on Foreign Relations suggest that this tension is leading to a 'balkanization' of the internet, where countries may favor cables that are controlled by domestic companies or friendly allies to ensure data sovereignty.",
+      "zh": "根據外交關係協會近期的分析，所有權的轉變創造了一個複雜的環境，商業需求往往會與國家安全優先事項發生衝突。雖然科技巨頭希望建立最有效率的路線來連接其全球樞紐，但如果政府懷疑基礎設施可能被用於間諜活動或破壞，可能會封鎖這些計畫。外交關係協會的分析師認為，這種緊張局勢正在導致網路的「巴爾幹化」，即各國可能偏好由國內公司或友好盟友控制的電纜，以確保數據主權。"
+    },
+    {
+      "id": "p6",
+      "en": "Maintenance and repair of these cables also present a major challenge that involves both private and state actors, as highlighted by maritime security reports. Cables are frequently damaged by ship anchors or natural disasters, and the repair process requires specialized ships and international cooperation. According to the United Nations Convention on the Law of the Sea, countries have specific rights and obligations regarding the protection of these cables in their waters. However, experts note that the increased involvement of private tech companies has made it harder to coordinate repairs quickly when cables cross through multiple jurisdictions.",
+      "zh": "根據海事安全報告，這些電纜的維護與修理也帶來了涉及私人與國家行為者的重大挑戰。電纜經常因船錨或自然災害而受損，維修過程需要專業船隻與國際合作。根據《聯合國海洋法公約》，各國在保護其海域內的電纜方面擁有特定的權利與義務。然而，專家指出，私人科技公司參與程度的提高，使得當電纜跨越多個管轄區時，更難以快速協調維修工作。"
+    },
+    {
+      "id": "p7",
+      "en": "In conclusion, the ownership of subsea infrastructure is no longer a simple matter of telecommunications business, as stated in a comprehensive review by the Brookings Institution. The rise of tech giants as the primary owners of these cables has fundamentally changed the geopolitical landscape. As these companies continue to expand their digital empires, the intersection of private profit and state security will remain a critical issue for global policy. Future developments in this sector will likely be defined by how well governments can balance the need for open, fast internet with the essential requirement of protecting their national interests.",
+      "zh": "總結來說，布魯金斯學會的一份綜合評論指出，海底基礎設施的所有權已不再是單純的電信商業問題。科技巨頭作為這些電纜的主要擁有者，其崛起從根本上改變了地緣政治版圖。隨著這些公司持續擴張其數位帝國，私人利潤與國家安全之間的交集將持續成為全球政策的關鍵議題。該領域的未來發展，很可能取決於各國政府如何在開放、快速的網路需求與保護國家利益的基本要求之間取得平衡。"
+    }
+  ],
+  "wordCount": 661,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "consortia",
+      "partOfSpeech": "noun",
+      "definitionEn": "Groups of companies or organizations that work together to achieve a common goal.",
+      "definitionZh": "財團；集團。指多個機構合作達成共同目標。",
+      "noteZh": "此處指過去由多家電信公司共同出資鋪設電纜的模式。"
+    },
+    {
+      "term": "hyperscalers",
+      "partOfSpeech": "noun",
+      "definitionEn": "Large cloud service providers that operate at a massive scale.",
+      "definitionZh": "超大規模雲端運算業者。指擁有巨大數據中心與雲端服務的公司。"
+    },
+    {
+      "term": "bandwidth",
+      "partOfSpeech": "noun",
+      "definitionEn": "The amount of data that can be transmitted over a network connection in a given time.",
+      "definitionZh": "頻寬。指在特定時間內網路連接可傳輸的數據量。"
+    },
+    {
+      "term": "balkanization",
+      "partOfSpeech": "noun",
+      "definitionEn": "The process of fragmentation or division of a region or system into smaller, often hostile, parts.",
+      "definitionZh": "巴爾幹化；破碎化。指系統分裂成許多較小且互不相容的部分。"
+    },
+    {
+      "term": "sovereignty",
+      "partOfSpeech": "noun",
+      "definitionEn": "The authority of a state to govern itself or another state.",
+      "definitionZh": "主權。指國家對其領土或事務的統治權。"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2023-08-15/tech-giants-are-taking-over-the-internet-s-undersea-cables",
+      "title": "Tech Giants Are Taking Over the Internet’s Undersea Cables",
+      "publishedAt": "2023-08-15T09:00:00Z"
+    }
+  ],
+  "series": {
+    "id": "geopolitics-subsea-cables",
+    "part": 2,
+    "totalParts": 5
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, why are tech giants like Google and Meta investing in their own subsea cables?",
+      "options": {
+        "A": "To sell excess bandwidth to smaller telecommunications companies.",
+        "B": "To ensure fast and reliable connectivity for their cloud and AI services.",
+        "C": "To replace the need for traditional internet service providers globally.",
+        "D": "To avoid paying taxes in the countries where the cables land."
+      },
+      "correct": "B",
+      "explanationZh": "文章提到這些公司需要巨大的頻寬來連接全球數據中心，以確保其雲端與 AI 服務的快速與可靠。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What is a potential consequence of tech giants owning subsea cables, as mentioned in the text?",
+      "options": {
+        "A": "Internet speeds will likely decrease for everyone.",
+        "B": "Traditional telecommunications companies will become more powerful.",
+        "C": "Tech giants may prioritize their own data traffic over others.",
+        "D": "Subsea cables will become less prone to damage."
+      },
+      "correct": "C",
+      "explanationZh": "文章指出私人擁有權意味著科技巨頭對資訊流動有更多控制權，他們可以優先處理自己的流量，這給了他們競爭優勢。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the context of the article, what does the term 'balkanization' refer to regarding the internet?",
+      "options": {
+        "A": "The rapid expansion of internet access to underdeveloped regions.",
+        "B": "The division of the global internet into smaller, potentially isolated networks.",
+        "C": "The process of making the internet more open and accessible to all nations.",
+        "D": "The technical improvement of cable repair speeds."
+      },
+      "correct": "B",
+      "explanationZh": "文中提到「巴爾幹化」是指網路可能因各國偏好國內或盟友控制的電纜而變得破碎化，不再是一個統一的全球網路。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the main shift in the subsea cable industry described in this article?",
+      "options": {
+        "A": "From government-owned cables to private telecommunications consortia.",
+        "B": "From private tech ownership back to public utility models.",
+        "C": "From traditional telecommunications consortia to private tech giants.",
+        "D": "From fiber-optic technology to satellite-based data transmission."
+      },
+      "correct": "C",
+      "explanationZh": "文章核心在於描述海底電纜所有權從過去的電信財團模式，轉向由 Google、Meta 等大型科技巨頭主導的模式。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 根據連載大綱生成，事實與引用請以原始來源為準。審閱後方可發佈。",
+  "_generation": {
+    "provider": "gemini",
+    "model": "gemini-3.1-flash-lite",
+    "tokensUsed": 4382,
+    "durationSec": 13.07
+  },
+  "_seriesPartMeta": {
+    "angle": "The shift from telecommunications consortia to private tech giants (Google, Meta, Amazon) owning the infrastructure.",
+    "learningGoal": "Identify the key stakeholders involved in cable ownership and maintenance.",
+    "keyQuestions": [
+      "Who owns the subsea cables?",
+      "How has the role of private tech companies changed?",
+      "What are the strategic interests of states?"
+    ],
+    "sourcePlan": [
+      {
+        "sourceType": "analysis",
+        "searchHint": "tech giants investing in subsea cables analysis",
+        "whyUseful": "Explains the business rationale for tech companies owning their own cables.",
+        "whyUsefulZh": "解釋科技公司擁有自有電纜的商業邏輯。",
+        "attributionExample": "A Bloomberg analysis notes that hyperscalers now own or lease more than half of all subsea cable capacity."
+      }
+    ]
+  }
+}

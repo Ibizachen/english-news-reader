@@ -1,0 +1,37 @@
+{
+  "id": "geopolitics-subsea-cables",
+  "title": "The Invisible Web: The Geopolitics of Global Subsea Internet Cables",
+  "subtitle": "Understanding the physical infrastructure that powers the global digital economy and national security.",
+  "description": "Over 99% of international data traffic travels through subsea cables, yet this infrastructure remains largely invisible to the public. This series explores how these critical connections have become a focal point of geopolitical competition, national security concerns, and global economic strategy.",
+  "category": "technology",
+  "status": "active",
+  "updatedAt": "2026-08-17T02:20:08.523113Z",
+  "cadence": "5-part reading path. Complete series available.",
+  "articles": [
+    {
+      "slug": "geopolitics-subsea-cables-part-1",
+      "label": "Part 1",
+      "note": "Establishing the physical reality of the internet versus the myth of 'the cloud'."
+    },
+    {
+      "slug": "geopolitics-subsea-cables-part-2",
+      "label": "Part 2",
+      "note": "The shift from telecommunications consortia to private tech giants (Google, Meta, Amazon) owning the infrastructure."
+    },
+    {
+      "slug": "geopolitics-subsea-cables-part-3",
+      "label": "Part 3",
+      "note": "The vulnerability of cables to physical sabotage and state-level espionage."
+    },
+    {
+      "slug": "geopolitics-subsea-cables-part-4",
+      "label": "Part 4",
+      "note": "Taiwan as a critical hub in the Indo-Pacific cable network and the challenges of maintaining connectivity."
+    },
+    {
+      "slug": "geopolitics-subsea-cables-part-5",
+      "label": "Part 5",
+      "note": "How governments and companies are building redundancy and resilience into the global network."
+    }
+  ]
+}
