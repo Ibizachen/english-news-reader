@@ -1,89 +1,91 @@
 {
   "id": "2026-08-17-meta-faces-landmark-trial-over-child-safety",
   "slug": "meta-faces-landmark-trial-over-child-safety-aug-2026",
-  "publishedAt": "2026-08-17T22:13:29.091853Z",
+  "publishedAt": "2026-08-17T22:38:20.346448Z",
   "category": "economics",
   "title": "Meta Faces Landmark Trial Over Child Safety",
-  "subtitle": "A major court case could force Facebook and Instagram to change how they work for young users.",
+  "subtitle": "A major legal battle begins as states accuse the social media giant of harming young users.",
   "summary": {
-    "en": "Meta is heading to a federal court to face accusations that it designed its platforms to be addictive for children. State attorneys general claim the company prioritized profits over the health and safety of young users. The lawsuit argues that features like infinite scrolling and recommendation algorithms harm teenagers. If Meta loses, the company could be forced to pay massive fines and change how its apps function. This case is seen as a major test for the future of social media regulation in the United States.",
-    "zh": "Meta 即將前往聯邦法院，面對其平台設計導致兒童成癮的指控。各州檢察長聲稱該公司將利潤置於年輕使用者的健康與安全之上。訴訟主張，無限捲動與推薦演算法等功能對青少年造成了傷害。若 Meta 敗訴，該公司可能面臨鉅額罰款並被迫調整應用程式功能。此案被視為美國社群媒體監管未來的一項重大考驗。"
+    "en": "Meta is heading to federal court to defend itself against accusations that its platforms harm children. State attorneys general claim the company designed features to make apps addictive for young people. The lawsuit seeks significant financial penalties and major changes to how Instagram and Facebook operate. Meta denies these claims, stating that it has strong protections in place for teens. This case could force the company to change its business model if it loses.",
+    "zh": "Meta 即將前往聯邦法院，為其平台傷害兒童的指控進行辯護。各州檢察長聲稱該公司設計了使年輕人成癮的功能。此訴訟尋求鉅額罰款，並要求 Instagram 與 Facebook 進行重大營運變革。Meta 否認這些指控，表示已為青少年實施強有力的保護措施。若此案敗訴，該公司可能被迫改變其商業模式。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "Meta, the parent company of Facebook and Instagram, is heading to federal court this week to face a major legal challenge. A group of state attorneys general has accused the company of designing its social media platforms to be addictive for children. The lawsuit also claims that Meta lied to the public about the risks its apps pose to young people and collected data on children without permission, which violates federal law.",
-      "zh": "臉書 (Facebook) 與 Instagram 的母公司 Meta 本週將前往聯邦法院，面對一項重大的法律挑戰。一群州檢察長指控該公司刻意將其社群媒體平台設計成會讓兒童成癮。這起訴訟還聲稱，Meta 對大眾隱瞞了其應用程式對年輕人造成的風險，並在未經許可的情況下蒐集兒童數據，此舉已違反聯邦法律。"
+      "en": "Meta is heading into federal court this week to face a major trial regarding the safety of children on its social media platforms. A group of state attorneys general has accused the company of designing Facebook and Instagram to be addictive for young users. They also claim that Meta lied to the public about the risks of its products and collected data on children without permission, breaking the law.",
+      "zh": "Meta 本週將前往聯邦法院，面對一場關於其社群媒體平台對兒童安全性影響的重大審判。一群州檢察長指控該公司刻意將 Facebook 與 Instagram 設計成會讓年輕用戶成癮的產品。他們並聲稱 Meta 對大眾隱瞞了產品風險，且在未經許可的情況下蒐集兒童數據，此舉已違反法律。"
     },
     {
       "id": "p2",
-      "en": "This case is part of a larger wave of legal actions against social media companies. According to NPR, legal experts compare this trial to past lawsuits against tobacco and opioid manufacturers. Those earlier cases changed how those companies operated and how the public understood the dangers of their products. The current lawsuit, which involves 30 states, seeks up to $1.4 trillion in penalties and significant changes to how Meta’s platforms function.",
-      "zh": "此案是針對社群媒體公司的一波大規模法律行動之一。根據美國公共廣播電台 (NPR) 的報導，法律專家將此審判比作過去針對菸草與鴉片類藥物製造商的訴訟。那些早期的案件改變了這些公司的營運方式，也改變了大眾對其產品危害的認知。目前這起涉及 30 個州的訴訟，尋求高達 1.4 兆美元的罰款，並要求 Meta 的平台功能必須做出重大調整。"
+      "en": "According to NPR, this case is part of a larger wave of lawsuits aimed at holding social media companies responsible for how they build their products. Legal experts compare this situation to past cases against tobacco companies, which changed how those businesses operated and how the public viewed the dangers of smoking. Four states—California, Colorado, Kentucky, and New Jersey—are leading this effort, seeking up to $1.4 trillion in penalties and demanding significant changes to Meta’s technology.",
+      "zh": "根據美國公共廣播電台（NPR）報導，此案是針對社群媒體公司產品設計責任的一系列訴訟浪潮之一。法律專家將此情況比作過去針對菸草公司的訴訟，當時的案件改變了這些企業的營運方式，以及大眾對吸菸危害的認知。加州、科羅拉多州、肯塔基州與紐澤西州等四州正主導此項行動，尋求高達一兆四千億美元的罰款，並要求 Meta 對其技術進行重大變革。"
     },
     {
       "id": "p3",
-      "en": "At the heart of the case is the argument that Meta designed specific features to capture the attention of young users and keep them on the apps for as long as possible. These features include the \"like\" button, the infinite-scroll function, and recommendation algorithms—complex systems that suggest content to users to keep them interested. The lawsuit claims these tools encourage \"compulsive use,\" meaning users feel a strong, uncontrollable need to keep checking the apps. Because Meta makes money through advertising, the company benefits financially when children spend more time on its platforms.",
-      "zh": "本案的核心在於一項論點，即 Meta 設計了特定功能來捕捉年輕使用者的注意力，並讓他們盡可能長時間地停留在應用程式上。這些功能包括「讚」按鈕、無限捲動功能以及推薦演算法——這是一種會向使用者推薦內容以維持其興趣的複雜系統。訴訟聲稱這些工具助長了「強迫性使用」，意即使用者會產生一種強烈且無法控制的衝動，不斷查看應用程式。由於 Meta 透過廣告獲利，當兒童在平台上花費更多時間時，該公司便能從中獲益。"
+      "en": "At the heart of the lawsuit is the argument that Meta created features specifically to keep children on their phones for as long as possible. These features include the \"like\" button, the infinite-scroll function, and recommendation algorithms—systems that suggest content to users—which the states argue encourage compulsive use. The lawsuit claims that Meta makes more money from advertising the longer young people stay on the apps. Consequently, the states argue that Meta chose to put profits over the health and safety of a generation.",
+      "zh": "此訴訟的核心論點在於，Meta 創造了特定功能，旨在讓兒童盡可能長時間地停留在手機上。這些功能包括「讚」按鈕、無限捲動功能以及推薦演算法（即向用戶建議內容的系統），各州主張這些設計助長了強迫性使用。訴訟指控 Meta 透過年輕人停留在應用程式上的時間越長，就能從廣告中獲取更多利潤。因此，各州認為 Meta 選擇將利潤置於這一代人的健康與安全之上。"
     },
     {
       "id": "p4",
-      "en": "New Jersey Attorney General Jennifer Davenport told NPR that the state is prepared to prove that Meta has been deceiving consumers about the dangers of its platforms. She argued that the company has consistently put profits above the health of a generation of young people. The lawsuit further alleges that Meta’s products have disrupted children's sleep and education. It also claims that certain visual filters on the apps have contributed to eating disorders and body dysmorphia, a condition where a person worries excessively about their physical appearance.",
-      "zh": "紐澤西州檢察長珍妮佛·達文波特 (Jennifer Davenport) 向 NPR 表示，該州已準備好證明 Meta 一直在欺騙消費者，隱瞞其平台帶來的危害。她主張該公司始終將利潤置於年輕世代的健康之上。訴訟進一步指控，Meta 的產品擾亂了兒童的睡眠與學業。訴訟還聲稱，應用程式上的某些視覺濾鏡導致了飲食失調與身體畸形恐懼症，這是一種對自身外貌過度擔憂的心理狀況。"
+      "en": "Beyond the financial penalties, the states are demanding fundamental changes to how the platforms work. These requests include ending \"like\" counts, stopping the automatic playing of videos, and removing image filters that change how a person looks in photos. They also want Meta to implement stricter parental verification for teenage users. If the court rules against Meta, these changes could permanently alter the experience for millions of young people across the United States.",
+      "zh": "除了財務罰款外，各州還要求對平台運作方式進行根本性的改變。這些要求包括取消「讚」的計數、停止影片自動播放，以及移除會改變照片中人物外貌的濾鏡。他們也要求 Meta 對青少年用戶實施更嚴格的家長驗證。若法院判決 Meta 敗訴，這些變更可能會永久改變全美數百萬年輕人的使用體驗。"
     },
     {
       "id": "p5",
-      "en": "Beyond the financial penalties, the states are demanding fundamental changes to the user experience. According to the BBC, these demands include ending \"like\" counts, stopping the autoplay of videos, and requiring parental verification for teenage users. They also want Meta to remove image filters that change a person’s appearance and stop the use of \"ephemeral\" posts—content that disappears after a short time, such as Instagram Stories. These features are central to how the apps work today, and changing them could significantly alter the experience for millions of users.",
-      "zh": "除了財務罰款外，各州還要求對使用者體驗進行根本性的變革。根據英國廣播公司 (BBC) 的報導，這些要求包括取消「讚」的計數、停止影片自動播放，以及要求青少年使用者進行家長驗證。他們還希望 Meta 移除會改變個人外貌的影像濾鏡，並停止使用「限時」貼文，例如會在短時間後消失的 Instagram 限時動態。這些功能是目前應用程式運作的核心，改變它們可能會大幅影響數百萬使用者的體驗。"
+      "en": "Meta has strongly denied these allegations. In a statement to NPR, a company spokesperson called the states’ claims \"unsubstantiated\" and described the financial demands as \"vastly disproportionate.\" The company argues that it has a long record of creating strong protections for teens and that it is being unfairly blamed for industry-wide challenges, such as the difficulty of verifying a user's age online. A company representative noted that Meta has invested billions to fight harmful content and has introduced features like \"teen accounts\" to support young users.",
+      "zh": "Meta 強烈否認這些指控。該公司發言人在給 NPR 的聲明中稱各州的說法「缺乏根據」，並形容財務要求「極度不成比例」。該公司主張，其在為青少年建立強大保護措施方面有長期紀錄，且認為自己因整個產業面臨的挑戰（例如線上年齡驗證的困難）而受到不公平的指責。公司代表指出，Meta 已投入數十億美元來打擊有害內容，並推出了如「青少年帳號」等功能來支援年輕用戶。"
     },
     {
       "id": "p6",
-      "en": "Meta has strongly denied these claims. In a statement provided to NPR, a company spokesperson called the states' demands \"vastly disproportionate\" and described the claims as unsubstantiated. The company argues that it has a long record of creating strong protections for teens and that the challenges mentioned in the lawsuit are industry-wide issues, not just problems with Meta’s apps. A company spokeswoman told the BBC that Meta remains confident that the evidence will show its \"longstanding commitment to supporting young people.\"",
-      "zh": "Meta 強烈否認這些指控。在提供給 NPR 的聲明中，該公司發言人稱各州的要求「極度不成比例」，並形容這些指控缺乏根據。該公司主張，他們長期以來在為青少年建立強大保護措施方面有著良好紀錄，且訴訟中提到的挑戰是整個產業的問題，而非僅限於 Meta 的應用程式。一位公司發言人告訴 BBC，Meta 確信證據將顯示其「長期以來致力於支持年輕人的承諾」。"
+      "en": "This trial follows a recent legal defeat for Meta in New Mexico. As reported by The Guardian, a jury in that state found that Meta misled users about the safety of its platforms and enabled harm, including child sexual exploitation. A judge ordered the company to pay nearly $1 billion in total, with the money going toward youth mental health treatment and prevention services. The judge also ordered Meta to make specific changes in New Mexico, such as limiting push notifications during certain hours and requiring age verification. While Meta is appealing that decision, the victory has given other states more confidence as they bring their own cases to court.",
+      "zh": "此次審判是在 Meta 於新墨西哥州近期遭遇法律挫敗後進行的。據《衛報》（The Guardian）報導，該州陪審團認定 Meta 在平台安全性方面誤導用戶，並助長了包括兒童性剝削在內的傷害。法官下令該公司支付近十億美元的總賠償金，用於青少年心理健康治療與預防服務。法官亦命令 Meta 在新墨西哥州做出具體調整，例如限制特定時段的推播通知並要求進行年齡驗證。儘管 Meta 正對該判決提出上訴，但此勝訴已讓其他州在提起訴訟時更具信心。"
     },
     {
       "id": "p7",
-      "en": "This trial is being overseen by Judge Yvonne Gonzalez Rogers, a chief federal judge in California known for being direct and incisive. The case is a \"bellwether,\" which means it is a leading case that could set a standard for thousands of other similar lawsuits. If the states win, the impact could be nationwide. The states involved in this lawsuit represent nearly two-thirds of the total U.S. population, meaning any court-ordered changes would likely apply across the entire country.",
-      "zh": "此案由加州聯邦首席法官伊馮·岡薩雷斯·羅傑斯 (Yvonne Gonzalez Rogers) 審理，她以作風直接且犀利著稱。本案屬於「指標性案件」，意即它是一起領頭案件，可能為成千上萬起類似訴訟樹立標準。如果各州勝訴，影響將遍及全國。參與此訴訟的州代表了美國近三分之二的人口，這意味著任何法院下令的變更都可能適用於全美。"
+      "en": "New Mexico’s attorney general, Raúl Torrez, is now working to create broader laws that would apply to various technologies, including artificial intelligence and chatbots. He believes the recent court victory provides the momentum needed to strengthen consumer protections. \"The idea is to build on that momentum,\" Torrez told The Guardian. His office is also pursuing further lawsuits against the company, with another trial regarding data privacy expected to begin in September.",
+      "zh": "新墨西哥州檢察長托雷茲（Raúl Torrez）目前正致力於制定更廣泛的法律，以適用於包括人工智慧與聊天機器人在內的各種技術。他認為近期的勝訴提供了強化消費者保護所需的動力。托雷茲告訴《衛報》：「我們的想法是延續這股動力。」他的辦公室也正對該公司進行進一步訴訟，另一場關於數據隱私的審判預計將於九月開始。"
     },
     {
       "id": "p8",
-      "en": "This legal pressure is not entirely new. Recently, a judge in New Mexico fined Meta nearly $1 billion and ordered the company to make changes, such as removing \"like\" counts for users under 18 and limiting push notifications. The judge in that case even labeled Meta a \"public nuisance,\" comparing the company to a factory that pollutes the air. While Meta has said it will appeal that ruling, the growing number of legal losses suggests that the company is facing a difficult future.",
-      "zh": "這種法律壓力並非全然新鮮事。近期，新墨西哥州的一名法官對 Meta 處以近 10 億美元的罰款，並下令該公司進行調整，例如移除 18 歲以下使用者的「讚」計數，並限制推播通知。該案法官甚至將 Meta 標記為「公害」，將該公司比作污染空氣的工廠。儘管 Meta 表示將對該裁決提出上訴，但日益增加的法律敗訴顯示，該公司正面臨艱難的未來。"
-    },
-    {
-      "id": "p9",
-      "en": "As the trial begins, the outcome remains uncertain. However, the case highlights a growing national debate about the responsibility of tech giants. Whether the court forces Meta to change its business model or the company successfully defends its current practices, the result will likely shape how social media is regulated for years to come.",
-      "zh": "隨著審判開始，結果仍充滿不確定性。然而，此案凸顯了關於科技巨頭責任的日益激烈的全國性辯論。無論法院是強制 Meta 改變其商業模式，還是該公司成功捍衛其現行做法，結果都可能影響未來多年社群媒體的監管方式。"
+      "en": "As the current federal trial begins, all eyes are on Judge Yvonne Gonzalez Rogers, who is overseeing the case in California. Known for being direct and incisive, the judge will play a key role in deciding the future of these platforms. If the states win, the impact could go far beyond the courtroom. Because the states involved in this lawsuit represent nearly two-thirds of the U.S. population, any court-ordered changes would likely force Meta to update its platforms nationwide. For now, the company maintains that it is committed to supporting young people, while the states remain determined to prove that Meta’s business model has caused real, lasting harm to children.",
+      "zh": "隨著聯邦審判展開，所有目光都集中在負責加州案件的法官羅傑斯（Yvonne Gonzalez Rogers）身上。這位以直率且犀利著稱的法官，將在決定這些平台的未來中扮演關鍵角色。若各州勝訴，影響力可能遠超法庭之外。由於參與此訴訟的各州人口占全美近三分之二，任何法院命令的變更都可能迫使 Meta 在全國範圍內更新其平台。目前，該公司堅稱致力於支援年輕人，而各州則決心證明 Meta 的商業模式已對兒童造成了真實且持久的傷害。"
     }
   ],
-  "wordCount": 768,
+  "wordCount": 782,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
-      "term": "heading to",
-      "definitionEn": "Moving or traveling towards a specific destination or situation.",
-      "definitionZh": "前往；朝向（某個地方或情況）。",
+      "term": "heading into",
+      "definitionEn": "To be approaching or entering a specific situation or location.",
+      "definitionZh": "前往；進入（某種狀態或場所）。",
       "partOfSpeech": "phrasal verb",
-      "noteZh": "常見作名詞（頭部），這裡作動詞片語，表示前往某處。文中：Meta, the parent company of Facebook and Instagram, is heading to federal court this week to face a major legal challenge."
+      "noteZh": "常見於表示方向，這裡指進入法律程序。文中：Meta is heading into federal court this week to face a major trial regarding the safety of children on its social media platforms."
     },
     {
-      "term": "capture",
-      "definitionEn": "To succeed in getting someone's attention or interest.",
-      "definitionZh": "吸引（注意力或興趣）。",
-      "partOfSpeech": "verb",
-      "noteZh": "常見作名詞或動詞（捕捉、俘虜），這裡指吸引注意力。文中：At the heart of the case is the argument that Meta designed specific features to capture the attention of young users and keep them on the apps for as long as possible."
-    },
-    {
-      "term": "bellwether",
-      "definitionEn": "An indicator or predictor of something that will happen later.",
-      "definitionZh": "指標；前兆；領頭羊。",
+      "term": "wave",
+      "definitionEn": "A sudden increase or a series of similar events happening at the same time.",
+      "definitionZh": "（事件的）浪潮；一波。",
       "partOfSpeech": "noun",
-      "noteZh": "這是一個較難的詞彙，指代具有指標意義的案件。文中：The case is a \"bellwether,\" which means it is a leading case that could set a standard for thousands of other similar lawsuits."
+      "noteZh": "常見作名詞（海浪），這裡指一系列相似的法律訴訟。文中：According to NPR, this case is part of a larger wave of lawsuits aimed at holding social media companies responsible for how they build their products."
+    },
+    {
+      "term": "at the heart of",
+      "definitionEn": "The most important or central part of a problem or issue.",
+      "definitionZh": "……的核心；最關鍵的部分。",
+      "partOfSpeech": "idiom",
+      "noteZh": "字面意思是「在心臟」，這裡指問題的關鍵核心。文中：At the heart of the lawsuit is the argument that Meta created features specifically to keep children on their phones for as long as possible."
+    },
+    {
+      "term": "all eyes are on",
+      "definitionEn": "Everyone is watching or paying close attention to someone or something.",
+      "definitionZh": "眾所矚目；大家都在關注。",
+      "partOfSpeech": "idiom",
+      "noteZh": "形容眾人高度關注某事，而非字面上的眼睛。文中：As the current federal trial begins, all eyes are on Judge Yvonne Gonzalez Rogers, who is overseeing the case in California."
     }
   ],
   "sources": [
     {
-      "name": "NPR Business",
+      "name": "NPR News",
       "url": "https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction",
       "title": "Meta heads to court in a landmark trial about kids and social media addiction",
       "publishedAt": "2026-08-17T09:00:00Z"
@@ -93,65 +95,79 @@
       "url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
       "title": "Instagram and Facebook could change forever if Meta loses child privacy trial",
       "publishedAt": "2026-08-17T05:00:25Z"
+    },
+    {
+      "name": "The Guardian Business",
+      "url": "https://www.theguardian.com/technology/2026/aug/17/raul-torrez-new-mexico-meta-social-media-safety-laws",
+      "title": "New Mexico’s attorney general pushes new social media safety laws after $900m court victory over Meta",
+      "publishedAt": "2026-08-17T11:00:53Z"
     }
   ],
   "story": {
     "id": "meta-faces-landmark-trial-over-child-safety",
-    "type": "standalone",
-    "previousArticles": []
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "meta-faces-landmark-trial-over-child-safety-aug-2026",
+        "title": "Meta Faces Landmark Trial Over Child Safety",
+        "publishedAt": "2026-08-17T22:13:29.091853Z",
+        "category": "economics",
+        "summaryEn": "Meta is heading to a federal court to face accusations that it designed its platforms to be addictive for children. State attorneys general claim the company prioritized profits over the health and safety of young users. The lawsuit argues that features like infinite scrolling and recommendation algorithms harm teenagers. If Meta loses, the company could be forced to pay massive fines and change how its apps function. This case is seen as a major test for the future of social media regulation in the United States."
+      }
+    ]
   },
   "quiz": [
     {
       "id": "q1",
       "type": "detail",
-      "question": "According to the lawsuit, what is the primary financial motivation for Meta to design addictive features for children?",
+      "question": "According to the article, what is one specific change that the states are requesting Meta to implement regarding the appearance of photos?",
       "options": {
-        "A": "To charge parents for premium subscription services.",
-        "B": "To increase the amount of time children spend on the apps, which generates more advertising revenue.",
-        "C": "To collect data that can be sold directly to third-party pharmaceutical companies.",
-        "D": "To force users to pay for the visual filters that cause body dysmorphia."
+        "A": "They want Meta to ban all photos of minors on its platforms.",
+        "B": "They want Meta to remove image filters that alter a user's appearance.",
+        "C": "They want Meta to require users to upload only professional-grade photos.",
+        "D": "They want Meta to limit the number of photos teenagers can post per day."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。根據文章第三段，Meta 的獲利模式主要依賴廣告（advertising），因此當青少年在平台上花費的時間越長，Meta 就能賺取更多收益。選項 A 文章未提及付費訂閱；選項 C 雖提到數據收集，但未指明賣給藥廠；選項 D 雖然提到濾鏡，但濾鏡是為了黏著度而非直接收費。"
+      "explanationZh": "正確答案為 B。文章第四段明確提到，各州檢察長要求的變革之一是「removing image filters that change how a person looks in photos」（移除會改變照片中人物外觀的濾鏡）。選項 A 文中未提及禁止上傳照片；選項 C 關於「專業等級」的照片並非文中訴求；選項 D 關於「限制每日張貼數量」亦非文中提到的具體要求。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "What can be inferred about the potential impact of the current lawsuit on other social media companies?",
+      "question": "Why do legal experts compare the current lawsuits against Meta to past cases involving tobacco companies?",
       "options": {
-        "A": "It will likely lead to the immediate bankruptcy of all social media platforms.",
-        "B": "It will only affect Meta, as other companies have already settled similar cases.",
-        "C": "It may set a legal precedent that influences how other social media companies are regulated.",
-        "D": "It will force social media companies to stop using all forms of digital advertising."
+        "A": "Because both industries were accused of using similar advertising strategies to target children.",
+        "B": "Because both industries were found to have knowingly sold illegal substances to minors.",
+        "C": "Because the lawsuits aim to fundamentally change industry operations and public perception of danger.",
+        "D": "Because both Meta and tobacco companies are based in the same four states leading the lawsuit."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。文章第七段提到此案被稱為「bellwether」（指標性案件），這意味著它將為類似的訴訟設定標準。選項 A 過度推論，文中未提及破產；選項 B 與文中提到的「larger wave of legal actions」矛盾；選項 D 文中僅提到改變功能，並未提到禁止所有數位廣告。"
+      "explanationZh": "正確答案為 C。文章第二段提到法律專家將此案與菸草公司案類比，是因為這些訴訟改變了該行業的運作方式以及大眾對吸菸危害的看法。選項 A 雖然兩者都涉及對年輕人的影響，但文章未強調廣告策略的相似性；選項 B 錯誤，Meta 並非販售非法物質；選項 D 是對地理位置的誤解，這四個州僅是訴訟的領導者，而非兩類公司的共同總部。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the sixth paragraph, what does the word 'disproportionate' mean in the context of Meta’s response to the states' demands?",
+      "question": "In the fifth paragraph, what does the word 'unsubstantiated' mean as used by the Meta spokesperson?",
       "options": {
-        "A": "Excessive or unfair in size or scale.",
-        "B": "Technically impossible to implement.",
-        "C": "Highly beneficial to the company's growth.",
-        "D": "Legally required by federal law."
+        "A": "Lacking evidence or proof to support a claim.",
+        "B": "Highly offensive and insulting to the company.",
+        "C": "Complicated and difficult to understand.",
+        "D": "Legally binding and impossible to ignore."
       },
       "correct": "A",
-      "explanationZh": "正確答案為 A。Meta 使用「vastly disproportionate」來形容州政府的要求，意指這些要求過於嚴苛且與問題規模不對稱。選項 B 雖然 Meta 認為難以執行，但該字本身強調的是比例失衡；選項 C 與 Meta 的立場完全相反；選項 D 則與 Meta 否認指控的態度相左。"
+      "explanationZh": "正確答案為 A。在文中，Meta 發言人稱各州的指控為「unsubstantiated」，意指這些指控缺乏證據支持。選項 B 雖然 Meta 可能感到被冒犯，但該詞本身不代表侮辱；選項 C 指的是複雜性，而非證據不足；選項 D 與該詞原意相反，若指控是「unsubstantiated」，則代表它們在法律上尚未被證實有效。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "What is the primary focus of the article?",
+      "question": "What is the primary focus of the ongoing federal trial involving Meta?",
       "options": {
-        "A": "The history of how social media algorithms were first developed.",
-        "B": "A detailed guide on how parents can protect their children from social media.",
-        "C": "The legal battle between Meta and various U.S. states regarding the safety and impact of its platforms on young users.",
-        "D": "The financial success of Meta compared to tobacco and opioid manufacturers."
+        "A": "To determine the exact amount of money Meta must pay for data privacy breaches.",
+        "B": "To decide if Meta should be completely shut down for its past mistakes.",
+        "C": "To evaluate the company's efforts in fighting harmful content and age verification.",
+        "D": "To hold Meta accountable for designing addictive features that harm the well-being of young users."
       },
-      "correct": "C",
-      "explanationZh": "正確答案為 C。全文的核心都在討論 Meta 面臨的集體訴訟，包括訴訟原因（成癮性、健康影響）、州政府的要求以及 Meta 的辯護。選項 A 僅在文中作為背景提及；選項 B 文章並未提供家長指南；選項 D 僅是引用專家進行的類比，並非文章主旨。"
+      "correct": "D",
+      "explanationZh": "正確答案為 D。整篇文章的核心在於探討 Meta 是否因設計了如「按讚」和「無限滾動」等成癮性功能，而對青少年的身心健康造成危害，並試圖透過法律手段迫使公司改變。選項 A 只是訴訟的一部分，而非核心；選項 B 文中未提及要關閉公司；選項 C 是 Meta 的辯護立場，而非訴訟的主要目標。"
     }
   ],
   "aiGenerated": true,

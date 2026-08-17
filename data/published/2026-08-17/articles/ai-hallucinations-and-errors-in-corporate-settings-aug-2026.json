@@ -1,0 +1,176 @@
+{
+  "id": "2026-08-17-ai-hallucinations-and-errors-in-corporate-settings",
+  "slug": "ai-hallucinations-and-errors-in-corporate-settings-aug-2026",
+  "publishedAt": "2026-08-17T22:38:20.346448Z",
+  "category": "technology",
+  "title": "When Machines Make Mistakes: The Growing Problem of AI Errors",
+  "subtitle": "From false shoplifting accusations to fake research, companies are facing questions about their reliance on automated technology.",
+  "summary": {
+    "en": "Artificial intelligence is increasingly used in businesses and government, but recent errors are causing public concern. A major supermarket chain has paused its facial recognition technology after wrongly accusing a customer of shoplifting. Meanwhile, a report supporting a government social media ban was found to contain fake citations created by AI. These incidents highlight the dangers of trusting machines without human oversight. Experts and affected individuals are now calling for more caution and better control over these powerful tools.",
+    "zh": "人工智慧在企業與政府中的應用日益廣泛，但近期的錯誤引發了公眾擔憂。一家大型連鎖超市在錯誤指控顧客行竊後，暫停了臉部辨識技術的使用。同時，一份支持政府禁止青少年使用社群媒體的報告，被發現含有由人工智慧生成的虛假引用。這些事件凸顯了在沒有人類監督下盲目信任機器的危險。專家與受影響的個人正呼籲對這些強大的工具採取更謹慎的態度，並加強管控。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Artificial intelligence (AI) is becoming a common part of our daily lives, but recent events show that this technology can be unreliable and sometimes harmful. As companies and governments rush to use these tools, they are discovering that machines can make serious mistakes. From false accusations in supermarkets to fake information in official reports, the consequences of relying on AI are becoming impossible to ignore.",
+      "zh": "人工智慧（AI）正逐漸成為我們日常生活的一部分，但近期的事件顯示，這項技術可能並不可靠，有時甚至會造成傷害。隨著企業與政府爭相使用這些工具，他們發現機器可能會犯下嚴重錯誤。從超市裡的錯誤指控到官方報告中的虛假資訊，過度依賴人工智慧所帶來的後果已變得不容忽視。"
+    },
+    {
+      "id": "p2",
+      "en": "One of the most visible examples of this problem occurred recently at a Sainsbury’s supermarket in London. The store has paused its use of facial recognition technology after a customer was wrongly identified as a shoplifter. Matt Arnold, a 46-year-old comedy promoter, was buying supplies for an event when he was suddenly approached by managers. According to The Guardian and BBC News, he was told he could not be served because of an earlier incident and was asked to leave the store. Mr. Arnold described the experience as a “terrifying glimpse of the future,” noting that the staff seemed to follow the machine’s alert without thinking for themselves.",
+      "zh": "這類問題最顯著的案例之一，近期發生在倫敦的一家森寶利（Sainsbury’s）超市。在一名顧客被誤認為是商店扒手後，該店已暫停使用臉部辨識技術。四十六歲的喜劇推廣人馬特·阿諾德（Matt Arnold）當時正在採買活動用品，卻突然遭到經理攔下。根據《衛報》（The Guardian）與英國廣播公司新聞（BBC News）報導，他被告知由於先前發生過某起事件，店方無法為他服務，並要求他離開。阿諾德先生形容這次經歷是「對未來令人恐懼的一瞥」，並指出店員似乎盲目遵循機器的警示，而沒有進行獨立思考。"
+    },
+    {
+      "id": "p3",
+      "en": "Although Sainsbury’s apologized to Mr. Arnold and claimed the incident was caused by “human error” rather than a software failure, the event has sparked a wider debate. This is not the first time such a mistake has happened. Both The Guardian and BBC News reported that similar cases have occurred at other stores, including Home Bargains and B&M. Critics argue that even if the technology is mostly accurate, a small error rate still affects a large number of people when millions visit stores every week. Mr. Arnold suggested that staff are not being properly trained to use these tools, leading them to trust automated alerts over their own common sense.",
+      "zh": "儘管森寶利超市向阿諾德先生道歉，並聲稱該事件是由「人為疏失」而非軟體故障所引起，但此事已引發更廣泛的爭論。這並非此類錯誤首次發生。根據《衛報》與英國廣播公司新聞報導，其他商店如 Home Bargains 與 B&M 也發生過類似案例。批評者認為，即便該技術大多數時候準確，但當每週有數百萬人造訪商店時，極小的錯誤率仍會影響眾多民眾。阿諾德先生認為，員工並未接受正確使用這些工具的培訓，導致他們寧可相信自動化警示，也不願運用自己的常識判斷。"
+    },
+    {
+      "id": "p4",
+      "en": "While retailers struggle with surveillance, the problem of AI errors is also affecting government policy. In Australia, a report supporting a new law to ban teenagers from social media was found to contain significant mistakes. The report, which cost millions of dollars, included citations that did not exist or did not match the research they were supposed to support. According to The Guardian, these errors appear to be “AI hallucinations”—a term for when AI creates false information that sounds convincing.",
+      "zh": "在零售商與監控技術帶來的問題搏鬥之際，人工智慧錯誤的問題也影響了政府政策。在澳洲，一份支持禁止青少年使用社群媒體的新法案報告中，被發現含有重大錯誤。這份耗資數百萬美元的報告，引用了不存在或與研究內容不符的參考資料。根據《衛報》報導，這些錯誤似乎是「人工智慧幻覺」——這是指人工智慧創造出聽起來令人信服但卻是虛假資訊的術語。"
+    },
+    {
+      "id": "p5",
+      "en": "Initially, the organization behind the report, the Age Check Certification Scheme (ACCS), denied using AI to create the document. However, after further investigation by The Guardian, the group admitted that they had used ChatGPT to rewrite parts of the report. The analysis showed that several links in the document contained hidden data identifying ChatGPT as the source. The report’s authors later provided corrected information, but even those updates contained new errors, such as citing articles that had not yet been published at the time the report was written.",
+      "zh": "起初，該報告背後的組織「年齡驗證認證計畫」（Age Check Certification Scheme，簡稱 ACCS）否認使用人工智慧來撰寫文件。然而，在《衛報》進一步調查後，該組織承認曾使用 ChatGPT 來重寫報告的部分內容。分析顯示，文件中的多個連結含有隱藏數據，識別出 ChatGPT 為資料來源。報告作者隨後提供了更正資訊，但即使是更新後的版本仍包含新錯誤，例如引用了在報告撰寫時尚未發表的文章。"
+    },
+    {
+      "id": "p6",
+      "en": "These two situations—one in a supermarket and one in a government-backed study—share a common theme: a dangerous over-reliance on technology. In the case of the supermarket, staff were so focused on the machine’s alert that they ignored the fact that the customer was acting like a normal shopper. In the case of the research report, the authors apparently failed to properly check the work produced by the AI, leading to the inclusion of fake references in an important policy document.",
+      "zh": "這兩起事件——一起發生在超市，另一起則是在政府支持的研究中——有著共同的主題：對技術危險的過度依賴。在超市的案例中，員工過於專注於機器的警示，以至於忽略了該名顧客表現得就像一般購物者。而在研究報告的案例中，作者顯然未能妥善查核人工智慧產出的成果，導致在一份重要的政策文件中納入了虛假引用。"
+    },
+    {
+      "id": "p7",
+      "en": "Experts are now asking whether companies and governments are moving too fast. There is a growing concern that AI is being used to make decisions that should require human judgment. As Mr. Arnold noted, it is not just about the technology itself, but about the culture of allowing machines to make choices that humans then follow without question. He warned that if these systems continue to be used without better oversight, innocent people will continue to be humiliated or falsely accused.",
+      "zh": "專家們現在質疑企業與政府是否行動過於倉促。人們越來越擔心人工智慧被用於做出本應需要人類判斷的決策。正如阿諾德先生所言，問題不僅在於技術本身，更在於那種允許機器做出選擇，而人類卻盲目跟隨的文化。他警告，如果這些系統在沒有更好的監督下繼續使用，無辜民眾將持續受到羞辱或被錯誤指控。"
+    },
+    {
+      "id": "p8",
+      "en": "Looking ahead, the pressure on companies to prove their systems are safe is increasing. While some organizations argue that AI is necessary for security or efficiency, the public is becoming more skeptical. If businesses and governments cannot guarantee that their AI tools are accurate and reliable, they may face stricter rules or be forced to stop using them altogether. For now, these incidents serve as a clear reminder that while technology can be powerful, it is far from perfect and requires constant human supervision to prevent serious harm.",
+      "zh": "展望未來，企業證明其系統安全性的壓力正日益增加。雖然部分組織主張人工智慧對於安全或效率是必要的，但大眾正變得越來越懷疑。如果企業與政府無法保證其人工智慧工具準確且可靠，他們可能會面臨更嚴格的規範，甚至被迫完全停止使用。目前，這些事件清楚地提醒我們，儘管技術可能強大，但它遠非完美，且需要持續的人類監督以防止嚴重傷害。"
+    }
+  ],
+  "wordCount": 756,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "paused",
+      "definitionEn": "To stop an activity or process for a short period of time.",
+      "definitionZh": "暫停、中止（某項活動或流程）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（暫停鍵），這裡作動詞用，表示暫時停止使用某項技術。文中：The store has paused its use of facial recognition technology after a customer was wrongly identified as a shoplifter."
+    },
+    {
+      "term": "sparked",
+      "definitionEn": "To cause the start of something, especially an argument or a debate.",
+      "definitionZh": "引發、觸發（爭論或事件）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（火花），這裡作動詞用，形容引發了後續的討論。文中：Although Sainsbury’s apologized to Mr. Arnold and claimed the incident was caused by “human error” rather than a software failure, the event has sparked a wider debate."
+    },
+    {
+      "term": "oversight",
+      "definitionEn": "The process of watching and managing a process or person to ensure it is done correctly.",
+      "definitionZh": "監督、監管。",
+      "partOfSpeech": "noun",
+      "noteZh": "容易與「疏忽」（mistake/neglect）混淆，但在這裡是指對系統的監管。文中：He warned that if these systems continue to be used without better oversight, innocent people will continue to be humiliated or falsely accused."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/2026/aug/17/humiliated-sainsburys-store-pauses-ai-scanning-after-false-shoplifting-accusation",
+      "title": "Sainsbury’s store pauses AI scanning after false shoplifting accusation",
+      "publishedAt": "2026-08-17T13:21:25Z"
+    },
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb",
+      "title": "Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears",
+      "publishedAt": "2026-08-17T02:58:05Z"
+    },
+    {
+      "name": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cddjlmeqjgyo?at_medium=RSS&at_campaign=rss",
+      "title": "Sainsbury's branch halts AI use as shopper ejected",
+      "publishedAt": "2026-08-17T04:57:21Z"
+    }
+  ],
+  "story": {
+    "id": "the-new-frontline-sabotage-and-surveillance-risks",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "ai-hallucinations-and-risks-in-corporate-aug-2026",
+        "title": "The Hidden Dangers of AI: From False Accusations to Fake Research",
+        "publishedAt": "2026-08-17T22:13:29.091853Z",
+        "category": "technology",
+        "summaryEn": "Artificial intelligence is being used in more areas of our daily lives, from supermarkets to government policy. However, recent events show that this technology can be unreliable and sometimes harmful. A major supermarket chain recently paused its facial recognition system after wrongly accusing a customer of shoplifting. Meanwhile, a government report supporting a social media ban for teenagers was found to contain fake research created by AI. These incidents raise important questions about how much we should trust machines to make decisions. Experts now argue that we need better rules to manage these risks."
+      },
+      {
+        "slug": "geopolitics-subsea-cables-part-3",
+        "title": "The New Frontline: Sabotage and Surveillance Risks",
+        "publishedAt": "2026-08-17T02:19:21.984049Z",
+        "category": "technology",
+        "summaryEn": "This article explores the growing security threats to the world's underwater internet cables. It examines how physical sabotage and state-led espionage pose risks to global communication. Finally, it looks at how countries are working to protect their digital borders from these invisible dangers."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what was the specific reason the Age Check Certification Scheme (ACCS) report contained false information?",
+      "options": {
+        "A": "The researchers intentionally fabricated data to support their political agenda.",
+        "B": "The organization used ChatGPT to rewrite parts of the report without proper verification.",
+        "C": "The software used to write the report was outdated and incompatible with current research.",
+        "D": "The government forced the organization to use AI tools to speed up the drafting process."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第五段，ACCS 起初否認使用 AI，但調查顯示他們確實使用 ChatGPT 來重寫報告部分內容，且作者未經適當審核就包含了虛假引用。選項 A 文章未提及意圖造假；選項 C 錯誤，問題在於 AI 產生的幻覺而非軟體過時；選項 D 文章並未提到政府強迫他們使用 AI。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the relationship between staff behavior and AI technology in the examples provided?",
+      "options": {
+        "A": "Staff members are becoming more skilled at identifying AI errors through regular training.",
+        "B": "The technology is so advanced that human intervention is no longer considered necessary.",
+        "C": "There is a tendency for humans to prioritize machine-generated alerts over their own critical thinking.",
+        "D": "Retailers and government agencies have successfully integrated AI to replace human decision-making entirely."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第六段與第七段指出，無論是超市員工盲目聽從警報，還是報告作者未檢查 AI 產生的內容，都顯示出一種對科技過度依賴的文化。這顯示人類傾向於放棄判斷，直接採信機器結果。選項 A 與文章提到的「缺乏訓練」矛盾；選項 B 與 D 誇大了現狀，且文章強調人類監督仍是必要的。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fourth paragraph, what does the term 'AI hallucinations' refer to?",
+      "options": {
+        "A": "A situation where AI systems intentionally hide data from their users.",
+        "B": "A technical error where the AI system completely shuts down.",
+        "C": "The tendency of AI to generate false information that appears convincing.",
+        "D": "The process of AI learning from human behavior to improve its accuracy."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第四段明確定義「AI hallucinations」為 AI 創造出聽起來很有說服力但實際上是錯誤的資訊。這是一個專有名詞，用來描述 AI 產生虛假內容的現象。選項 A、B、D 皆不符合文中對此術語的定義，且與 AI 產生錯誤資訊的語境不符。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of this article regarding the use of AI?",
+      "options": {
+        "A": "AI technology should be banned immediately in all retail and government sectors.",
+        "B": "AI is perfectly safe as long as companies apologize for the errors they make.",
+        "C": "The rapid adoption of AI without sufficient human oversight poses significant risks to society.",
+        "D": "Facial recognition technology is the most dangerous form of AI currently in use."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。整篇文章透過超市與政府報告的案例，強調 AI 雖然強大但並不完美，若企業與政府過快採用而忽略人為監督，將導致嚴重後果。選項 A 過於極端，文章主張的是需要監督而非全面禁止；選項 B 與文章立場相反，道歉無法解決根本問題；選項 D 僅是文章提到的其中一個例子，並非全文核心主旨。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
