@@ -1,0 +1,144 @@
+{
+  "id": "2026-08-19-moderna-and-merck-announce-cancer-vaccine-success",
+  "slug": "moderna-and-merck-announce-cancer-vaccine-success-aug-2026",
+  "publishedAt": "2026-08-19T22:14:02.354337Z",
+  "category": "health",
+  "title": "New Cancer Vaccine Shows Promise in Major Medical Trial",
+  "subtitle": "Moderna and Merck report that their personalized mRNA treatment helps patients fight melanoma.",
+  "summary": {
+    "en": "Moderna and Merck have announced positive results from a large clinical trial for a new cancer vaccine. The vaccine is designed to treat melanoma, a serious form of skin cancer. It works by teaching the immune system to recognize specific mutations in a patient's cancer cells. Patients who received the vaccine alongside standard treatment saw better results than those who did not. The companies plan to share more detailed data at a future medical conference.",
+    "zh": "莫德納與默克宣布了一項新型癌症疫苗的大型臨床試驗正面結果。該疫苗旨在治療黑色素瘤，這是一種嚴重的皮膚癌。其運作原理是教導免疫系統辨識患者癌細胞中的特定突變。相較於未接受疫苗的患者，同時接受疫苗與標準療法的患者表現出更好的治療效果。兩家公司計畫在未來的醫學會議上分享更詳細的數據。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Medical companies Moderna and Merck recently announced a major step forward in the fight against cancer. On Wednesday, the partners shared that their new mRNA-based vaccine was successful in a late-stage clinical trial for patients with melanoma. Melanoma is known as one of the most dangerous types of skin cancer. This news is important because it represents a potential breakthrough for both mRNA technology and personalized medicine, which aims to create treatments tailored to each individual patient.",
+      "zh": "醫療公司莫德納 (Moderna) 與默克 (Merck) 近期宣布在對抗癌症方面取得重大進展。這兩家合作夥伴於週三表示，他們研發的新型信使核糖核酸 (mRNA) 疫苗在針對黑色素瘤患者的後期臨床試驗中取得成功。黑色素瘤被認為是最危險的皮膚癌類型之一。這項消息之所以重要，是因為它代表了信使核糖核酸技術與個人化醫療的潛在突破，而個人化醫療旨在為每位患者量身打造專屬的治療方案。"
+    },
+    {
+      "id": "p2",
+      "en": "According to Ars Technica, the Phase 3 trial included 1,137 patients who had already undergone surgery to remove their melanoma. In a Phase 3 trial, researchers test a new treatment on a large group of people to confirm its effectiveness and safety. The participants were divided into two groups. One group received the new mRNA vaccine combined with an existing drug called Keytruda, while the other group received only Keytruda. Keytruda is a monoclonal antibody, which is a type of medicine that helps the immune system find and attack cancer cells. The study was double-blind, meaning neither the doctors nor the patients knew which treatment each person was receiving. This method helps ensure that the results are fair and accurate.",
+      "zh": "根據科技媒體 Ars Technica 報導，這項第三期臨床試驗涵蓋了 1,137 名已接受手術切除黑色素瘤的患者。在第三期試驗中，研究人員會在大規模群體中測試新療法，以確認其有效性與安全性。參與者被分為兩組，一組接受新型信使核糖核酸疫苗與現有藥物「吉舒達 (Keytruda)」的合併治療，另一組則僅接受吉舒達。吉舒達是一種單株抗體，這類藥物能協助免疫系統辨識並攻擊癌細胞。該研究採用雙盲測試，意即醫師與患者皆不知道每個人接受的是哪種治療，這種方法有助於確保結果的公平與準確。"
+    },
+    {
+      "id": "p3",
+      "en": "Moderna and Merck reported that the combination therapy helped patients stay cancer-free for a longer period. Specifically, the treatment improved what doctors call “recurrence-free survival,” which is the time a patient lives without the cancer coming back. It also improved “distant metastasis-free survival,” which measures the time a patient lives without the cancer spreading to other parts of their body. The companies stated that these improvements were statistically significant, meaning the results were unlikely to have happened by chance.",
+      "zh": "莫德納與默克指出，這種合併療法能幫助患者維持更長時間的無癌狀態。具體而言，該療法改善了醫師所稱的「無復發存活期」，即患者在癌症未復發的情況下存活的時間。它同時也改善了「無遠端轉移存活期」，這項指標衡量的是患者在癌症未擴散至身體其他部位的情況下存活的時間。兩家公司表示，這些改善在統計學上具有顯著意義，代表這些結果不太可能是隨機發生的。"
+    },
+    {
+      "id": "p4",
+      "en": "While the companies have not yet released all the details, they noted that the data will be presented at an upcoming international medical conference. They also pointed to earlier evidence from a five-year Phase 2 trial. Data from that study, which was shared at a conference in June, showed that the vaccine reduced the risk of cancer returning or death by 49 percent. It also reduced the risk of the cancer spreading to other parts of the body or death by 59 percent. These earlier findings helped build confidence in the potential of the new treatment.",
+      "zh": "雖然這兩家公司尚未公布所有細節，但他們表示相關數據將在即將召開的國際醫學會議上發表。他們也提到了先前一項為期五年的第二期試驗證據。該研究數據於六月的會議中分享，顯示該疫苗將癌症復發或死亡的風險降低了 49%，並將癌症擴散至身體其他部位或死亡的風險降低了 59%。這些早期的研究發現，有助於建立外界對此新療法潛力的信心。"
+    },
+    {
+      "id": "p5",
+      "en": "The vaccine, known as intismeran or mRNA-4157, works in a very specific way. It uses synthetic mRNA, which is a type of genetic material, to carry instructions for the immune system. The process begins by comparing the genetic code of a patient’s cancer cells with their healthy cells. By doing this, scientists can identify up to 34 unique mutations in the cancer. The vaccine then teaches the patient's immune system to recognize these specific mutations. This helps the body distinguish between healthy cells and cancer cells, allowing the immune system to target the cancer more effectively.",
+      "zh": "這款名為 intismeran 或 mRNA-4157 的疫苗，其運作方式非常獨特。它利用合成的信使核糖核酸（一種遺傳物質）來傳遞指令給免疫系統。該過程始於比對患者癌細胞與健康細胞的基因密碼，透過這種方式，科學家能識別出癌細胞中多達 34 種獨特的突變。接著，疫苗會教導患者的免疫系統辨識這些特定的突變，這有助於身體區分健康細胞與癌細胞，讓免疫系統能更有效地鎖定癌症進行攻擊。"
+    },
+    {
+      "id": "p6",
+      "en": "This announcement is seen as a significant moment for cancer research. If the success of this trial continues to hold up under further review, it could change how doctors treat various forms of cancer. By using a patient's own genetic information to create a custom vaccine, researchers hope to provide more effective care with fewer side effects. While the current results are focused on melanoma, the technology behind mRNA vaccines has the potential to be adapted for other diseases in the future.",
+      "zh": "這項公告被視為癌症研究的重要時刻。若此試驗的成功在後續審查中持續獲得證實，將可能改變醫師治療多種癌症的方式。透過利用患者自身的基因資訊來製作客製化疫苗，研究人員希望能在減少副作用的同時，提供更有效的照護。雖然目前的結果聚焦於黑色素瘤，但信使核糖核酸疫苗背後的技術，未來也有潛力應用於其他疾病的治療。"
+    },
+    {
+      "id": "p7",
+      "en": "For now, the medical community is waiting for the full report from the Phase 3 trial. Experts will be looking closely at the data to understand how well the vaccine performs over a longer period and how it might be used in clinical practice. As Moderna and Merck prepare to share their findings with the world, patients and doctors alike are hopeful that this personalized approach will become a powerful tool in the ongoing effort to treat and eventually cure cancer.",
+      "zh": "目前，醫學界正等待第三期試驗的完整報告。專家將密切檢視數據，以了解該疫苗在更長期間內的表現，以及如何將其應用於臨床實務。隨著莫德納與默克準備向全球分享研究發現，患者與醫師皆抱持希望，期待這種個人化醫療途徑，能成為持續對抗並最終治癒癌症的強大工具。"
+    }
+  ],
+  "wordCount": 708,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "step forward",
+      "definitionEn": "An improvement or progress in a process or activity.",
+      "definitionZh": "進步；進展。",
+      "partOfSpeech": "noun phrase",
+      "noteZh": "此處並非字面上的「向前走一步」，而是指進展。文中：Medical companies Moderna and Merck recently announced a major step forward in the fight against cancer."
+    },
+    {
+      "term": "hold up",
+      "definitionEn": "To remain valid, effective, or successful after being tested or examined.",
+      "definitionZh": "經得起（考驗、檢驗）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見意為「舉起」或「耽擱」，這裡指經得起檢驗。文中：If the success of this trial continues to hold up under further review, it could change how doctors treat various forms of cancer."
+    },
+    {
+      "term": "point to",
+      "definitionEn": "To mention or draw attention to something as evidence or a reason for a belief.",
+      "definitionZh": "指出；引用（作為證據）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見意為「用手指指著」，這裡指引用證據。文中：They also pointed to earlier evidence from a five-year Phase 2 trial."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/08/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-merck-say/",
+      "title": "mRNA cancer vaccine succeeded in Phase 3 melanoma trial, Moderna and Merck say",
+      "publishedAt": "2026-08-19T16:53:56Z"
+    }
+  ],
+  "story": {
+    "id": "moderna-and-merck-announce-cancer-vaccine-success",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what specific role does the mRNA vaccine play in the treatment process?",
+      "options": {
+        "A": "It directly kills cancer cells by acting as a chemotherapy agent.",
+        "B": "It provides instructions to the immune system to identify unique mutations in cancer cells.",
+        "C": "It replaces the need for surgical removal of melanoma tumors.",
+        "D": "It acts as a substitute for Keytruda to boost the immune system."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第五段，疫苗利用合成 mRNA 攜帶指令，透過比較癌細胞與健康細胞的基因密碼，找出多達 34 種突變，進而教導免疫系統辨識這些突變。選項 A 錯誤，因為疫苗是教導免疫系統攻擊，而非直接殺死癌細胞。選項 C 錯誤，因為文章提到患者是先進行手術移除腫瘤後才使用疫苗。選項 D 錯誤，因為疫苗是與 Keytruda 結合使用，而非取代它。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the 'double-blind' method used in the Phase 3 trial?",
+      "options": {
+        "A": "It ensures that patients receive the most effective treatment available.",
+        "B": "It allows doctors to adjust the dosage based on the patient's progress.",
+        "C": "It prevents biases from influencing the reported effectiveness of the treatment.",
+        "D": "It guarantees that the vaccine will be approved for public use immediately."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第二段，雙盲測試（double-blind）意味著醫生與患者都不知道誰接受了哪種治療，其目的是為了確保結果「公平且準確」（fair and accurate）。這推論出該方法是為了排除人為偏見對實驗數據的影響。選項 A 錯誤，雙盲是為了實驗公正，而非保證治療效果。選項 B 錯誤，雙盲限制了對治療過程的干預。選項 D 錯誤，實驗結果公平與否與藥物核准程序是兩回事。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the word 'hold up' mean in the context of the trial results?",
+      "options": {
+        "A": "To be delayed or stopped by external authorities.",
+        "B": "To remain valid or accurate under further examination.",
+        "C": "To physically support the weight of the medical data.",
+        "D": "To increase in significance over a period of time."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在此語境中，「hold up」意指「經得起考驗」或「保持有效」。文章提到若試驗的成功在進一步審查後仍能「hold up」，代表結果具有持續性與可信度。選項 A 錯誤，這不是延遲的意思。選項 C 錯誤，這是字面上的誤解。選項 D 錯誤，雖然結果可能很重要，但 hold up 強調的是「經得起檢驗」的穩定性，而非指重要性增加。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary focus of this article?",
+      "options": {
+        "A": "A detailed history of how mRNA technology was first invented.",
+        "B": "A comparison between the side effects of Keytruda and the new vaccine.",
+        "C": "The potential of a new personalized mRNA vaccine to improve cancer treatment outcomes.",
+        "D": "The financial success of Moderna and Merck in the pharmaceutical market."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章的核心主題是報導 Moderna 與 Merck 在黑色素瘤治療上的重大進展，強調這種結合 mRNA 技術與個人化醫療的新療法，可能改變未來癌症治療的方向。選項 A 錯誤，文章未提及技術發明史。選項 B 錯誤，文章雖提到 Keytruda，但重點是疫苗的療效而非副作用比較。選項 D 錯誤，文章完全未討論兩家公司的財務表現。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
