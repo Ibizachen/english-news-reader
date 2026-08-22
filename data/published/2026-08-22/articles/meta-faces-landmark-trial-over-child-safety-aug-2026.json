@@ -1,79 +1,81 @@
 {
   "id": "2026-08-22-meta-faces-landmark-trial-over-child-safety",
   "slug": "meta-faces-landmark-trial-over-child-safety-aug-2026",
-  "publishedAt": "2026-08-22T22:14:08.333547Z",
+  "publishedAt": "2026-08-22T22:36:17.482706Z",
   "category": "technology",
-  "title": "Meta Faces Major Trial Over Child Safety Concerns",
-  "subtitle": "A group of US states is taking the tech giant to court, claiming its platforms are designed to be addictive for young users.",
+  "title": "Meta Faces Landmark Trial Over Child Safety",
+  "subtitle": "A coalition of US states argues that the social media giant intentionally designs addictive features that harm children.",
   "summary": {
-    "en": "Meta is currently facing a significant legal battle in California regarding its impact on children. A coalition of 29 US states argues that the company intentionally designs addictive social media features. The lawsuit claims Meta collects data from children under 13 without proper parental consent. If found liable, the company could face billions of dollars in damages and forced changes to its business model. Meta denies these accusations, stating it has already implemented tools to protect younger users.",
-    "zh": "Meta 目前在加州面臨一場關於其對兒童影響的重大法律戰。由美國 29 個州組成的聯盟指控該公司蓄意設計具成癮性的社群媒體功能。訴訟主張 Meta 在未取得適當家長同意的情況下，蒐集 13 歲以下兒童的數據。若被判定須負法律責任，該公司可能面臨數十億美元的賠償，並被迫改變其商業模式。Meta 否認這些指控，並表示已實施相關工具來保護年輕使用者。"
+    "en": "Meta is currently facing a major legal challenge in California regarding its impact on young users. A group of 29 US states claims the company designs addictive products that harm children and collect their data illegally. Lawyers for the states argue that Meta’s business model is built on keeping children on their platforms for as long as possible. Meta denies these claims, stating that they have already implemented tools to protect younger users. The outcome of this trial could lead to massive financial penalties and significant changes to how social media platforms operate.",
+    "zh": "Meta 目前在加州面臨一項關於其對年輕用戶影響的重大法律挑戰。美國 29 個州組成的團體指控該公司設計出會讓人上癮的產品，不僅傷害兒童，還非法蒐集他們的數據。各州律師主張，Meta 的商業模式建立在盡可能讓兒童長時間留在平台上的基礎上。Meta 否認這些指控，並表示他們已經實施了保護年輕用戶的工具。這場審判的結果可能導致鉅額財務罰款，並對社群媒體平台的運作方式產生重大改變。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "A major legal battle has begun in Oakland, California, that could change the future of social media. Meta, the company that owns Facebook and Instagram, is being sued by a group of 29 US states. The states claim that Meta designed its platforms to be addictive, which has led to harm for many children. This trial is considered a landmark case, meaning it is an important legal event that could set rules for how tech companies operate in the future.",
-      "zh": "一場重大的法律戰已在加州奧克蘭開打，這場官司可能會改變社群媒體的未來。擁有臉書（Facebook）與 Instagram 的母公司 Meta 正遭到美國 29 個州的聯合起訴。這些州政府指控 Meta 將旗下平台設計得容易讓人成癮，導致許多兒童受到傷害。這場審判被視為指標性案件，意味著這是一起重要的法律事件，可能會為科技公司未來的營運方式立下規範。"
+      "en": "A major legal battle is currently unfolding in Oakland, California, as Meta faces a landmark trial regarding the safety of children on its platforms. The company, which owns Facebook and Instagram, is being sued by a group of 29 US states. These states argue that Meta has intentionally designed its products to be addictive, leading to serious harm for younger users. This trial, which began recently, represents a significant challenge to the company’s business model.",
+      "zh": "一場重大的法律戰目前正在加州奧克蘭展開，臉書 (Facebook) 與 Instagram 的母公司 Meta 正面臨一場關於其平台兒童安全問題的指標性審判。由美國 29 個州組成的團體對該公司提起訴訟，主張 Meta 有意將其產品設計成會讓人上癮，導致年輕用戶受到嚴重傷害。這場近期才剛開始的審判，對該公司的商業模式構成了重大挑戰。"
     },
     {
       "id": "p2",
-      "en": "According to The Guardian, a lawyer representing the state of California, Megan O’Neill, described Meta’s business strategy using four words: hook, hold, harvest, and hide. She argued that the company works to \"hook\" users, \"hold\" them on the platform for as long as possible, \"harvest\" their personal information, and then \"hide\" the truth about these practices from the public. The lawsuit claims that this model is especially harmful to children. The states argue that Meta violated federal child privacy laws and state-level consumer protection laws by collecting data on children under 13 without getting permission from their parents.",
-      "zh": "根據《衛報》（The Guardian）報導，代表加州的律師梅根·歐尼爾（Megan O’Neill）用四個詞彙來描述 Meta 的商業策略：誘鉤、留存、收割與隱瞞。她主張該公司致力於「誘鉤」使用者，讓他們盡可能長時間地「留存」在平台上，「收割」其個人資訊，然後對大眾「隱瞞」這些做法背後的真相。訴訟指出，這種模式對兒童的危害尤其嚴重。各州主張，Meta 在未取得家長同意的情況下蒐集 13 歲以下兒童的數據，已違反聯邦兒童隱私法與州級消費者保護法。"
+      "en": "According to The Guardian, the case against Meta is built on what lawyers describe as a four-part strategy: to hook, hold, harvest, and hide. Megan O’Neill, a lawyer representing the state of California, argued that Meta’s business model is particularly effective at keeping children engaged on its apps for long periods. The lawsuit alleges that the company collects data on children under the age of 13 without getting the necessary permission from parents. This, the states claim, violates both federal child privacy laws and state-level consumer protection rules.",
+      "zh": "根據《衛報》(The Guardian) 報導，這起針對 Meta 的訴訟建立在律師所稱的「四部曲」策略之上：吸引、留住、收割與隱匿。代表加州的律師梅根·歐尼爾 (Megan O’Neill) 主張，Meta 的商業模式在讓兒童長時間沉迷於其應用程式方面特別有效。訴訟指控該公司在未取得家長必要許可的情況下，蒐集 13 歲以下兒童的數據。各州聲稱，此舉違反了聯邦兒童隱私法以及州級的消費者保護法規。"
     },
     {
       "id": "p3",
-      "en": "If the court finds Meta liable—meaning legally responsible for the harm—the financial consequences could be massive. The Guardian reports that damages could reach $200 billion, an amount equal to the company’s total revenue for 2025. Beyond money, the states want the court to force Meta to change its product designs to make them safer for younger users. Such a change would likely have a permanent effect on how the company makes money and how its platforms function.",
-      "zh": "如果法院判定 Meta 須負起法律責任，其財務後果可能相當驚人。《衛報》報導指出，賠償金額可能高達 2000 億美元，相當於該公司 2025 年的總營收。除了金錢賠償外，各州還要求法院強制 Meta 修改產品設計，使其對年輕使用者更安全。這樣的改變很可能會對該公司的獲利模式及其平台的運作方式產生永久性的影響。"
+      "en": "During the opening statements, the court heard from both sides. The states’ legal team presented their case, while Meta’s representatives strongly denied the allegations. Paul Schmidt, an attorney for Meta, acknowledged that some people find it difficult to manage their time on social media. However, he argued that the company has already created tools to address these concerns. Schmidt also emphasized that Meta does not allow children under 13 to register for accounts and noted that the company has disabled more than one million accounts belonging to young users who violated these rules.",
+      "zh": "在開庭陳述期間，法庭聽取了雙方的說法。各州的法律團隊提出了他們的論點，而 Meta 的代表則強烈否認這些指控。Meta 的律師保羅·施密特 (Paul Schmidt) 承認，有些人確實難以管理自己在社群媒體上的時間。然而，他主張該公司早已開發出相關工具來解決這些疑慮。施密特也強調，Meta 不允許 13 歲以下兒童註冊帳號，並指出公司已經停用了超過一百萬個違反這些規定的年輕用戶帳號。"
     },
     {
       "id": "p4",
-      "en": "Meta has strongly denied all the claims made against it. Liza Crenshaw, a spokesperson for the company, stated that the states are not focusing on the facts or the law, but are instead trying to get a large payment. Paul Schmidt, a lawyer for Meta, admitted during the opening statements that some people struggle with social media use. However, he argued that the company has already created tools to help address these issues. Furthermore, Meta maintains that it does not allow children under 13 to register for accounts and that it has already disabled over one million accounts belonging to users who were too young.",
-      "zh": "Meta 強烈否認所有針對該公司的指控。公司發言人麗莎·克倫肖（Liza Crenshaw）表示，各州並未聚焦於事實或法律，而是試圖索取鉅額賠償。Meta 的律師保羅·施密特（Paul Schmidt）在開庭陳述時承認，有些人確實難以控制社群媒體的使用，但他主張公司早已開發出相關工具來協助解決這些問題。此外，Meta 堅稱不允許 13 歲以下兒童註冊帳號，且已停用了超過一百萬個年齡過小的使用者帳號。"
+      "en": "This trial is expected to last between six and eight weeks. While a jury of eight people is hearing the evidence, their role is advisory. They will provide recommendations to Judge Yvonne Gonzalez Rogers, who will make the final decision regarding the verdict and any potential financial damages. The stakes are very high for Meta. If the company is found liable, it could face damages as high as $200 billion, an amount equal to its total revenue for 2025. Furthermore, the states are demanding that Meta change the design of its products to ensure they are safer for children, a move that could permanently alter how the company operates.",
+      "zh": "這場審判預計將持續六到八週。雖然由八名陪審員組成的團體正在聽取證據，但他們的角色僅具諮詢性質。他們將向法官伊馮·岡薩雷斯·羅傑斯 (Yvonne Gonzalez Rogers) 提供建議，由法官針對判決結果及任何潛在的財務賠償做出最終決定。對 Meta 而言，這場官司的賭注極高。若該公司被判有罪，可能面臨高達 2,000 億美元的賠償金，這相當於其 2025 年的總營收。此外，各州要求 Meta 必須改變產品設計以確保對兒童更安全，此舉可能永久改變該公司的營運方式。"
     },
     {
       "id": "p5",
-      "en": "The trial is expected to last between six and eight weeks. While a jury of eight people is listening to the evidence, their role is advisory. This means they will provide recommendations to Judge Yvonne Gonzalez Rogers, who will make the final decision on the verdict and the amount of money the company might have to pay. The proceedings are being led by attorneys from California, Colorado, Kentucky, and New Jersey. Throughout the trial, the jury is expected to hear from high-level executives, including Meta CEO Mark Zuckerberg and Instagram CEO Adam Mosseri.",
-      "zh": "這場審判預計將持續六到八週。雖然由八名陪審員組成的陪審團負責聆聽證據，但他們的角色僅具諮詢性質。這意味著他們將向法官伊馮·岡薩雷斯·羅傑斯（Yvonne Gonzalez Rogers）提出建議，由法官做出最終判決，並決定公司可能需要支付的賠償金額。訴訟程序由來自加州、科羅拉多州、肯塔基州與紐澤西州的檢察官主導。在審判過程中，預計陪審團將聽取包括 Meta 執行長馬克·祖克柏（Mark Zuckerberg）與 Instagram 執行長亞當·莫塞里（Adam Mosseri）在內的高層主管證詞。"
+      "en": "One of the most notable moments in the first week of the trial was the testimony of Arturo Béjar. A former safety engineer at Meta, Béjar has become a vocal critic of his former employer since leaving the company in 2021. He has previously testified before the US Senate and has served as an expert witness in other cases involving social media harm. His presence in the courtroom highlights the growing tension between tech companies and those who believe they must be held accountable for their impact on society.",
+      "zh": "審判第一週最受矚目的時刻之一，是阿圖羅·貝哈爾 (Arturo Béjar) 的證詞。身為 Meta 前安全工程師的貝哈爾，自 2021 年離職後，便成為前雇主的直言批評者。他先前曾出席美國參議院作證，並在其他涉及社群媒體傷害的案件中擔任專家證人。他出現在法庭上，凸顯了科技公司與那些認為公司必須為其社會影響負責的人士之間，日益緊張的關係。"
     },
     {
       "id": "p6",
-      "en": "This case is part of a larger wave of legal trouble for the company. Meta is currently facing thousands of similar lawsuits from families, school districts, and other government officials. The company has already lost two recent cases. In one, it was ordered to pay nearly $1 billion to the state of New Mexico for failing to stop child sexual exploitation on its platforms. In another, it was found liable for designing addictive products that harmed a young user, resulting in a $4 million payment.",
-      "zh": "此案是該公司面臨的一波更大規模法律糾紛的一部分。Meta 目前正遭遇數千起來自家庭、學區與其他政府官員的類似訴訟。該公司近期已輸掉兩場官司。其中一起案件中，Meta 因未能阻止平台上的兒童性剝削，被判決須向新墨西哥州支付近 10 億美元；另一起案件則因設計成癮性產品導致一名年輕使用者受害，被判賠 400 萬美元。"
+      "en": "Meta has responded to the lawsuit with firm opposition. Liza Crenshaw, a spokesperson for the company, stated that the states involved in the lawsuit are simply chasing an \"outlandish payout\" rather than focusing on the actual facts or the law. This trial is just one of thousands of similar lawsuits that Meta is currently facing from families, school districts, and other attorneys general across the United States. In March, the company lost two similar cases, resulting in significant financial penalties. In one instance, Meta was ordered to pay nearly $1 billion to the state of New Mexico for failing to prevent child sexual exploitation on its platforms.",
+      "zh": "Meta 對此訴訟採取了堅決反對的態度。該公司發言人麗莎·克倫肖 (Liza Crenshaw) 表示，參與訴訟的各州只是在追求「天價賠償」，而非聚焦於實際事實或法律。這場審判僅是 Meta 目前在全美面臨的數千起類似訴訟之一。今年三月，該公司輸掉了兩起類似案件，導致了鉅額的財務罰款。其中一起案件中，Meta 因未能防止其平台上的兒童性剝削，被判決須向新墨西哥州支付近 10 億美元。"
     },
     {
       "id": "p7",
-      "en": "One of the most important witnesses to appear in the first week of the trial was Arturo Béjar. He is a former safety engineer who worked at Meta for several years. Since leaving the company, Béjar has become a vocal critic of its safety practices. He has previously testified before a US Senate committee and has served as an expert witness in other cases involving social media harm. His testimony is a key part of the states' argument that the company knew about the risks its platforms posed to children but failed to take sufficient action.",
-      "zh": "在審判第一週出庭的最重要證人之一是阿圖羅·貝哈爾（Arturo Béjar）。他是一位曾在 Meta 工作多年的前安全工程師。自離開公司後，貝哈爾成為其安全措施的直言批評者。他曾向美國參議院委員會作證，並在其他涉及社群媒體傷害的案件中擔任專家證人。他的證詞是各州論點的核心，旨在證明該公司早已知曉其平台對兒童構成的風險，卻未能採取足夠的行動。"
-    },
-    {
-      "id": "p8",
-      "en": "As the trial continues, the outcome remains uncertain. If the states win, it could force the biggest social media company in the world to completely change its business model. If Meta wins, it may continue its current operations while facing continued pressure from regulators and families. For now, the world is watching to see how the court will balance the power of big technology companies with the need to protect children online.",
-      "zh": "隨著審判持續進行，結果仍充滿不確定性。如果各州勝訴，可能會迫使這家全球最大的社群媒體公司徹底改變其商業模式。如果 Meta 勝訴，它可能會在持續面臨監管機構與家庭壓力下，維持目前的營運方式。目前，全世界都在關注法院將如何平衡大型科技公司的權力與保護線上兒童的需求。"
+      "en": "As the trial continues, the court is expected to hear from high-level executives, including Meta CEO Mark Zuckerberg and Instagram CEO Adam Mosseri. Their testimony will likely be a critical part of the proceedings. For now, the world is watching closely to see if this case will force a change in how the largest social media companies in the world interact with their youngest users. The outcome will likely set a precedent for how technology platforms are regulated in the future, especially regarding the protection of children in the digital age.",
+      "zh": "隨著審判持續進行，預計法庭將聽取包括 Meta 執行長馬克·祖克柏 (Mark Zuckerberg) 與 Instagram 執行長亞當·莫塞里 (Adam Mosseri) 在內的高階主管證詞。他們的證詞很可能成為訴訟程序中的關鍵部分。目前，全世界都在密切關注這起案件是否會迫使全球最大的社群媒體公司改變其與最年輕用戶互動的方式。審判結果很可能會為未來如何監管科技平台立下先例，特別是在數位時代保護兒童的議題上。"
     }
   ],
-  "wordCount": 758,
+  "wordCount": 715,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
       "term": "hook",
-      "definitionEn": "To catch or trap someone so they become interested in or addicted to something.",
-      "definitionZh": "吸引、誘捕（使人上癮或無法離開）。",
+      "definitionEn": "To catch or trap someone, often by making them addicted or strongly interested.",
+      "definitionZh": "吸引、勾住（在此指讓人上癮或無法自拔）。",
       "partOfSpeech": "verb",
-      "noteZh": "常見作名詞（鉤子），這裡作動詞，形容吸引用戶上癮。文中：She argued that the company works to \"hook\" users, \"hold\" them on the platform for as long as possible, \"harvest\" their personal information, and then \"hide\" the truth about these practices from the public."
+      "noteZh": "常見作名詞（鉤子），這裡作動詞，形容吸引用戶的手段。文中：According to The Guardian, the case against Meta is built on what lawyers describe as a four-part strategy: to hook, hold, harvest, and hide."
+    },
+    {
+      "term": "stakes",
+      "definitionEn": "The risks or potential consequences involved in a situation.",
+      "definitionZh": "賭注、風險（指事情的利害關係）。",
+      "partOfSpeech": "noun (plural)",
+      "noteZh": "常見作名詞（木樁），這裡指事情的嚴重性與潛在影響。文中：The stakes are very high for Meta."
     },
     {
       "term": "liable",
-      "definitionEn": "Legally responsible for paying the cost of something or for a specific action.",
-      "definitionZh": "（法律上）有責任的、應負賠償責任的。",
+      "definitionEn": "Legally responsible for something, especially for paying for damage or loss.",
+      "definitionZh": "負有法律責任的。",
       "partOfSpeech": "adjective",
-      "noteZh": "此詞在法律語境中非常正式，容易與「可能的（likely）」混淆。文中：If the court finds Meta liable—meaning legally responsible for the harm—the financial consequences could be massive."
+      "noteZh": "容易誤以為是「傾向於...」，但在法律語境下專指法律責任。文中：If the company is found liable, it could face damages as high as $200 billion, an amount equal to its total revenue for 2025."
     },
     {
-      "term": "wave",
-      "definitionEn": "A sudden increase or occurrence of a particular phenomenon or trend.",
-      "definitionZh": "（某種現象的）浪潮、風潮。",
-      "partOfSpeech": "noun",
-      "noteZh": "常見作名詞（海浪），這裡比喻法律訴訟接二連三地發生。文中：This case is part of a larger wave of legal trouble for the company."
+      "term": "outlandish",
+      "definitionEn": "Looking or sounding bizarre, unfamiliar, or unreasonably excessive.",
+      "definitionZh": "古怪的、離譜的、過分的。",
+      "partOfSpeech": "adjective",
+      "noteZh": "此詞形容金額或要求過於誇張、不合理。文中：Liza Crenshaw, a spokesperson for the company, stated that the states involved in the lawsuit are simply chasing an \"outlandish payout\" rather than focusing on the actual facts or the law."
     }
   ],
   "sources": [
@@ -86,61 +88,69 @@
   ],
   "story": {
     "id": "meta-faces-landmark-trial-over-child-safety",
-    "type": "standalone",
-    "previousArticles": []
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "meta-faces-landmark-trial-over-child-safety-aug-2026",
+        "title": "Meta Faces Major Trial Over Child Safety Concerns",
+        "publishedAt": "2026-08-22T22:14:08.333547Z",
+        "category": "technology",
+        "summaryEn": "Meta is currently facing a significant legal battle in California regarding its impact on children. A coalition of 29 US states argues that the company intentionally designs addictive social media features. The lawsuit claims Meta collects data from children under 13 without proper parental consent. If found liable, the company could face billions of dollars in damages and forced changes to its business model. Meta denies these accusations, stating it has already implemented tools to protect younger users."
+      }
+    ]
   },
   "quiz": [
     {
       "id": "q1",
       "type": "detail",
-      "question": "According to the article, what is the role of the eight-person jury in the Meta trial?",
+      "question": "According to the article, what specific action has Meta taken regarding users under the age of 13?",
       "options": {
-        "A": "They have the final authority to decide the amount of money Meta must pay.",
-        "B": "They are responsible for delivering the final verdict on Meta's legal liability.",
-        "C": "They provide recommendations to the judge, who makes the ultimate decision.",
-        "D": "They act as the primary legal representatives for the state of California."
+        "A": "They have requested parental permission for all data collection.",
+        "B": "They have disabled over one million accounts belonging to underage users.",
+        "C": "They have implemented a new age-verification system for all new sign-ups.",
+        "D": "They have agreed to pay $1 billion in damages for past violations."
       },
-      "correct": "C",
-      "explanationZh": "正確答案為 C。根據文章第五段，陪審團的角色是「諮詢性質」（advisory），他們提供建議給 Yvonne Gonzalez Rogers 法官，由法官做出最終判決。選項 A 與 B 皆錯誤，因為法官才擁有最終裁決權。選項 D 錯誤，因為陪審團並非律師代表，律師代表是由各州指派的。"
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，Meta 的代表 Paul Schmidt 明確提到公司已經停用了超過一百萬個違反規定、未滿 13 歲用戶的帳號。選項 A 錯誤，因為文章指出 Meta 被控告未經家長同意就收集數據；選項 C 文章未提及；選項 D 提到的 10 億美元賠償是針對新墨西哥州的案件，而非本案的行動。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "What can be inferred about Meta’s defense strategy during the trial?",
+      "question": "What can be inferred about the potential impact of this trial on Meta's future?",
       "options": {
-        "A": "Meta plans to admit all allegations to reduce the potential financial penalty.",
-        "B": "Meta intends to shift the blame onto parents for not monitoring their children.",
-        "C": "Meta will argue that it has already implemented proactive measures to manage safety concerns.",
-        "D": "Meta claims that the lawsuits are primarily based on federal child privacy laws."
+        "A": "The trial will likely result in the immediate closure of Instagram.",
+        "B": "Meta will be forced to increase its revenue to cover the $200 billion fine.",
+        "C": "The company may be required to fundamentally redesign its product features.",
+        "D": "Meta will likely face no further legal challenges after this trial concludes."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。根據第四段，Meta 的律師 Paul Schmidt 強調公司已經創造了工具來解決社交媒體使用問題，且公司已停用了超過一百萬個未成年帳號，這顯示其防禦策略是強調公司已採取「預防性措施」。選項 A 與文章內容矛盾；選項 B 文中未提及；選項 D 僅是原告方的指控，而非 Meta 的防禦策略。"
+      "explanationZh": "正確答案為 C。根據第四段，州政府要求 Meta 修改產品設計以確保兒童安全，這可能會永久改變公司的運作方式。選項 A 過度推論，文章未提到會關閉平台；選項 B 錯誤，因為 200 億美元是潛在罰款金額，而非要求公司必須賺到的錢；選項 D 與第六段提到的「數以千計的類似訴訟」相矛盾。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the second paragraph, what does the word 'harvest' mean in the context of Meta’s business strategy?",
+      "question": "In the second paragraph, the word 'harvest' is used to describe Meta's strategy. What does it mean in this context?",
       "options": {
-        "A": "To plant new features on a platform.",
-        "B": "To collect or gather data from users.",
-        "C": "To protect information from being seen by others.",
-        "D": "To increase the number of active users."
+        "A": "To collect large amounts of data for later use.",
+        "B": "To farm agricultural products on company land.",
+        "C": "To protect children from harmful online content.",
+        "D": "To increase the speed of the application's interface."
       },
-      "correct": "B",
-      "explanationZh": "正確答案為 B。在第二段中，律師用「hook, hold, harvest, and hide」來描述 Meta 的策略，這裡的 harvest 指的是「收集或獲取」用戶的個人資訊，這與後文提到的「collecting data on children」呼應。選項 A 是農業意義上的誤用；選項 C 與原意相反；選項 D 則與「hold」的意涵較為接近。"
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在此語境下，「harvest」被用作隱喻，指 Meta 系統性地收集用戶（特別是兒童）的個人數據作為商業資產。選項 B 是該詞的字面農耕意義，不適用於科技公司；選項 C 與文章提到的「收集數據」行為相反；選項 D 與數據處理無關。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "What is the primary focus of the legal battle between the 29 US states and Meta?",
+      "question": "What is the primary focus of this article?",
       "options": {
-        "A": "To determine if Meta's CEO should be removed from his position.",
-        "B": "To debate the technical difficulties of building social media platforms.",
-        "C": "To address the potential harm caused by Meta's addictive designs on children.",
-        "D": "To force Meta to pay for the legal fees of the 29 participating states."
+        "A": "A profile of former Meta engineer Arturo Béjar and his career.",
+        "B": "The technical details of how social media addiction works.",
+        "C": "The history of US federal child privacy laws.",
+        "D": "A significant legal challenge against Meta regarding child safety and platform design."
       },
-      "correct": "C",
-      "explanationZh": "正確答案為 C。文章開頭與後續段落均強調，這場訴訟的核心在於 Meta 被控設計了「令人上癮的平台」（addictive platforms），導致兒童受到傷害，且違反了隱私保護法。選項 A 文中未提及；選項 B 僅是背景細節而非核心爭議；選項 D 雖然提到賠償金，但那只是手段之一，而非訴訟的核心目的。"
+      "correct": "D",
+      "explanationZh": "正確答案為 D。整篇文章的核心都在討論 Meta 目前面臨的重大訴訟，探討其對兒童安全的影響、法律爭議、潛在的財務後果以及對未來科技監管的啟示。選項 A 僅是文章中的一個小細節；選項 B 與 C 雖然有提到，但都只是為了支撐文章關於訴訟的主題而存在的背景資訊，並非全文主旨。"
     }
   ],
   "aiGenerated": true,
