@@ -1,0 +1,155 @@
+{
+  "id": "2026-08-23-iran-linked-cyber-attack-shuts-down-power-plant",
+  "slug": "iran-linked-cyber-attack-shuts-down-power-plant-aug-2026",
+  "publishedAt": "2026-08-23T22:14:10.751946Z",
+  "category": "technology",
+  "title": "Cyber Attack Shuts Down UK Power Plant",
+  "subtitle": "Government officials confirm a small-scale energy generator was targeted by hackers linked to Iran.",
+  "summary": {
+    "en": "A small power plant in the UK was forced to shut down for four days following a cyber attack. The UK government confirmed that the incident involved a small-scale generator and posed no risk to the national energy system. Reports suggest the hackers responsible are linked to the Iranian government. This event follows rising tensions between the UK and Iran regarding military operations. Authorities are now reviewing security measures to protect critical infrastructure from future threats.",
+    "zh": "英國一座小型發電廠因遭受網路攻擊被迫關閉四天。英國政府證實，該事件僅涉及小型發電機組，並未對國家能源系統構成風險。報導指出，負責攻擊的駭客與伊朗政府有關。此事件發生在英國與伊朗因軍事行動而緊張關係升溫之際。當局目前正在審查安全措施，以保護關鍵基礎設施免受未來威脅。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "A small power plant in the United Kingdom was forced to close for four days last month following a cyber attack. While the incident has raised concerns about national security, the UK government has moved quickly to reassure the public. According to the Department for Energy Security and Net Zero (DESNZ), the attack affected only a small-scale energy generator. Officials stated clearly that at no point was there any risk to the wider UK energy system.",
+      "zh": "上個月，英國一座小型發電廠因遭受網路攻擊被迫關閉四天。儘管此事件引發了對國家安全的擔憂，但英國政府迅速採取行動以安撫大眾。根據能源安全與淨零排放部（Department for Energy Security and Net Zero, DESNZ）的說法，此次攻擊僅影響了一座小型能源發電機組。官員明確表示，英國整體的能源系統在任何時刻都沒有面臨風險。"
+    },
+    {
+      "id": "p2",
+      "en": "The Telegraph first reported that the attack was carried out by hackers linked to the Iranian government. While the government and the National Cyber Security Centre (NCSC)—the group responsible for protecting important services from digital threats—have not provided specific details about the location of the plant, they confirmed it was not a large, essential power station. The UK’s power network relies on several smaller gas generators to provide extra electricity when it is needed, and this site was one of those smaller facilities.",
+      "zh": "《每日電訊報》（The Telegraph）率先報導稱，該攻擊是由與伊朗政府有關聯的駭客所為。雖然政府與國家網路安全中心（National Cyber Security Centre, NCSC，負責保護重要服務免受數位威脅的機構）並未提供該電廠位置的具體細節，但他們證實這並非大型且關鍵的發電站。英國的電力網路仰賴數座小型天然氣發電機組，在需要時提供額外電力，而該地點正是其中之一。"
+    },
+    {
+      "id": "p3",
+      "en": "This incident comes at a time of high international tension. The Guardian reports that the attack marks an apparent increase in threats from Iran. These tensions have grown since the UK allowed the United States to use British bases for defensive operations against Iran. In response, Iran’s Islamic Revolutionary Guard Corps (IRGC) warned that any base used for aggression against Iranian territory would be considered a legitimate target for their forces. The UK government has maintained that it is ready to defend itself against such threats.",
+      "zh": "此事件發生在國際局勢高度緊張之際。《衛報》（The Guardian）報導指出，這次攻擊標誌著來自伊朗的威脅明顯增加。自從英國允許美國使用英國基地進行針對伊朗的防禦行動後，這些緊張關係便日益加劇。作為回應，伊朗伊斯蘭革命衛隊（Islamic Revolutionary Guard Corps, IRGC）警告稱，任何被用於對伊朗領土進行侵略的基地，都將被視為其部隊的合法攻擊目標。英國政府則堅持表示，已準備好防禦此類威脅。"
+    },
+    {
+      "id": "p4",
+      "en": "The political response to the attack has focused on the need for better national security. Claire Coutinho, a spokesperson for the Conservative Party, described the event as a new kind of warfare. She argued that the incident shows why the UK must prioritize cheap and reliable energy. According to Coutinho, relying on imported gas and electricity makes the country more vulnerable to these types of attacks. She suggested that building more reliable gas or nuclear plants at home is essential for protecting the nation.",
+      "zh": "針對此次攻擊的政治回應聚焦於提升國家安全的必要性。保守黨發言人克萊兒·庫蒂尼奧（Claire Coutinho）將此事件描述為一種新型態的戰爭。她主張，該事件顯示英國為何必須優先考慮廉價且可靠的能源。庫蒂尼奧認為，依賴進口的天然氣與電力使國家更容易受到此類攻擊。她建議，在國內建立更多可靠的天然氣或核能發電廠，對於保護國家至關重要。"
+    },
+    {
+      "id": "p5",
+      "en": "Experts have been warning about these dangers for some time. Richard Horne, the chief executive of the NCSC, warned earlier this year that hostile states like Russia, China, and Iran are increasingly targeting the systems that support the UK’s key services. The US government has also issued warnings about cyber-attacks on critical infrastructure by hackers linked to the IRGC. In 2023, the US alleged that a group known as “CyberAv3ngers,” which is linked to Iran, carried out a campaign that affected at least 75 devices across various infrastructure sectors.",
+      "zh": "專家們早已針對這些危險發出警告。國家網路安全中心執行長理查·霍恩（Richard Horne）今年稍早曾警告，俄羅斯、中國與伊朗等敵對國家正日益鎖定支援英國關鍵服務的系統進行攻擊。美國政府也曾針對與伊斯蘭革命衛隊有關聯的駭客對關鍵基礎設施發動網路攻擊發出警告。二〇二三年，美國指控一個名為「CyberAv3ngers」、與伊朗有關的組織，發動了一場影響多個基礎設施領域至少七十五台設備的行動。"
+    },
+    {
+      "id": "p6",
+      "en": "Iran has been accused of similar activities in the past. Reports indicate that the country has been linked to a massive power outage in Turkey in 2015 and several breaches of Israeli government websites in 2022. While the Western cyber-security community has been preparing for potential attacks from state-linked hackers due to ongoing conflicts, there has been relatively little activity reported until now.",
+      "zh": "伊朗過去也曾被指控涉及類似活動。報告顯示，該國曾被指與二〇一五年土耳其的大規模停電，以及二〇二二年以色列政府網站多次遭入侵有關。儘管西方網路安全界因持續的衝突，一直為國家支持的駭客可能發動的攻擊做準備，但直到目前為止，相關活動的報導相對較少。"
+    },
+    {
+      "id": "p7",
+      "en": "In response to this latest event, the UK government is taking steps to strengthen its defenses. DESNZ has contacted power companies to provide advice on how to lower the risk of future cyber attacks. Protecting the country’s energy supplies remains a top challenge for officials. The government is currently updating its regulations for cyber security and is working on a new energy resilience strategy, which is a plan to ensure the power system can recover quickly from any future problems. This strategy is expected to be released later this year.",
+      "zh": "針對這起最新事件，英國政府正採取措施加強防禦。能源安全與淨零排放部已聯繫電力公司，提供如何降低未來網路攻擊風險的建議。保護國家的能源供應仍然是官員們面臨的首要挑戰。政府目前正在更新網路安全法規，並致力於制定一項新的能源韌性策略，這是一項旨在確保電力系統能在未來問題發生後迅速恢復的計畫。該策略預計於今年稍晚發布。"
+    },
+    {
+      "id": "p8",
+      "en": "For now, the NCSC has noted that it has not received any other reports of outages from regulated power station operators. The government continues to work closely with the energy sector to ensure that the highest security standards are met. As the situation remains tense, the focus for the UK will be on building a more secure and independent energy future to prevent similar disruptions from happening again.",
+      "zh": "目前，國家網路安全中心指出，尚未收到其他受監管發電站營運商回報停電狀況。政府持續與能源產業密切合作，以確保達到最高安全標準。由於局勢依然緊張，英國未來的重點將在於建立一個更安全、更獨立的能源未來，以防止類似的干擾再次發生。"
+    }
+  ],
+  "wordCount": 718,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "moved",
+      "definitionEn": "To take action or make a decision in response to a situation.",
+      "definitionZh": "採取行動；做出反應。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作移動，這裡指政府採取行動。文中：the UK government has moved quickly to reassure the public."
+    },
+    {
+      "term": "relies on",
+      "definitionEn": "To depend on something or someone to function or provide what is needed.",
+      "definitionZh": "依賴；依靠。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "由 rely 和 on 組成，表示對某事物的依賴。文中：The UK’s power network relies on several smaller gas generators to provide extra electricity when it is needed, and this site was one of those smaller facilities."
+    },
+    {
+      "term": "maintained",
+      "definitionEn": "To continue to state that something is true, even if others disagree or doubt it.",
+      "definitionZh": "堅持主張；堅稱。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作維持或保養，這裡指堅定地表達立場。文中：The UK government has maintained that it is ready to defend itself against such threats."
+    }
+  ],
+  "sources": [
+    {
+      "name": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
+      "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
+      "publishedAt": "2026-08-23T02:48:41Z"
+    },
+    {
+      "name": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
+      "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
+      "publishedAt": "2026-08-23T14:46:56Z"
+    }
+  ],
+  "story": {
+    "id": "iran-linked-cyber-attack-shuts-down-power-plant",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What was the specific impact of the cyber attack on the UK's power infrastructure?",
+      "options": {
+        "A": "It caused a nationwide blackout for four days.",
+        "B": "It forced a small-scale gas generator to close temporarily.",
+        "C": "It compromised the security of all major nuclear power stations.",
+        "D": "It caused a permanent failure of the UK's energy resilience strategy."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第一段與第二段，攻擊僅影響了一座小型能源發電機（small-scale energy generator），且該設施是為了提供額外電力而設，並非大型關鍵電廠。選項 A 錯誤，因為文章明確指出對全國電力系統沒有風險；選項 C 錯誤，因為官方確認受影響的並非大型重要電廠；選項 D 錯誤，因為這是一次暫時性的關閉，而非永久性失效。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the text, why might the UK government be concerned about its reliance on imported energy?",
+      "options": {
+        "A": "Imported energy is significantly more expensive than domestic energy.",
+        "B": "The government believes that international suppliers are intentionally causing cyber attacks.",
+        "C": "Dependency on foreign energy sources may increase the nation's vulnerability to geopolitical cyber threats.",
+        "D": "Domestic energy production has completely ceased due to the recent attacks."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第四段 Claire Coutinho 的觀點，她認為依賴進口的天然氣與電力會使國家更容易受到此類攻擊的威脅，因此主張建立國內更可靠的能源設施。選項 A 雖然提到價格，但並非文章強調的重點；選項 B 過度推論，文章並未指控能源供應商發動攻擊；選項 D 與事實不符，國內生產並未停止。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fourth paragraph, what does the word 'vulnerable' mean in the context of the UK's energy security?",
+      "options": {
+        "A": "Easily harmed or attacked.",
+        "B": "Highly advanced and modern.",
+        "C": "Completely independent and safe.",
+        "D": "Difficult to manage or regulate."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在第四段中，作者討論依賴進口能源會讓國家處於「vulnerable」的狀態，意指容易受到外部威脅與攻擊。選項 B 與文意相反；選項 C 是作者希望達成的長期目標，而非現狀；選項 D 雖然聽起來合理，但並非「vulnerable」一詞在此處表達的核心含義，該詞強調的是防禦能力不足、易受傷害的狀態。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of this article regarding the recent cyber attack?",
+      "options": {
+        "A": "The UK government is planning to cut all diplomatic ties with Iran.",
+        "B": "Cyber attacks are becoming the only way for countries to wage war.",
+        "C": "The UK is responding to a targeted cyber attack by strengthening its energy infrastructure and security.",
+        "D": "The recent power outage was caused by a technical failure rather than a cyber attack."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。本文整體論述了近期針對英國小型電廠的網路攻擊事件，並描述了政府如何透過更新法規、制定能源韌性策略以及提供業界諮詢來強化防禦。選項 A 超出文章範疇；選項 B 過於誇大，文章僅提到這是一種「新形態的戰爭」；選項 D 與文章開頭明確指出是「網路攻擊」的事實完全矛盾。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
