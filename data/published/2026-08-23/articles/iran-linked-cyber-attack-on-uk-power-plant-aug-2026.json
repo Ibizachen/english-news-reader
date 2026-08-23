@@ -1,0 +1,152 @@
+{
+  "id": "2026-08-23-iran-linked-cyber-attack-on-uk-power-plant",
+  "slug": "iran-linked-cyber-attack-on-uk-power-plant-aug-2026",
+  "publishedAt": "2026-08-23T22:36:14.425763Z",
+  "category": "technology",
+  "title": "Cyber Attack on UK Power Plant Linked to Iran",
+  "subtitle": "Government officials confirm a small-scale energy facility was forced to close for four days following a digital security breach.",
+  "summary": {
+    "en": "A small power plant in the UK was recently forced to shut down for four days due to a cyber attack. The UK government has linked the incident to hackers connected to Iran. Officials stated that the national energy system remained safe and was never at risk. This event follows rising tensions between the UK and Iran regarding military base usage. Experts warn that hostile states are increasingly targeting critical infrastructure.",
+    "zh": "英國一座小型電廠近期因網路攻擊被迫停機四天。英國政府已將此事件與伊朗相關的駭客連結。官員表示，國家能源系統保持安全，且從未面臨風險。此事件發生在英國與伊朗因軍事基地使用問題而緊張局勢升溫之際。專家警告，敵對國家正日益鎖定關鍵基礎設施進行攻擊。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "A small-scale energy generator in the United Kingdom was forced to shut down for four days last month following a cyber attack, according to recent reports. While the incident has only now come to public attention, it has sparked a serious debate about the safety of the country’s energy infrastructure. The UK government has officially linked the attack to hackers connected to Iran, marking a concerning development in the digital security landscape.",
+      "zh": "根據近期報導，英國一座小型能源發電廠上個月因遭受網路攻擊，被迫停機四天。儘管此事件直到現在才受到公眾關注，但已引發關於該國能源基礎設施安全性的嚴重辯論。英國政府已正式將此攻擊事件與伊朗相關的駭客連結起來，這標誌著數位安全領域出現了令人擔憂的發展。"
+    },
+    {
+      "id": "p2",
+      "en": "A spokesperson for the Department for Energy Security and Net Zero addressed the situation, stating that the incident was limited to a small generator. They emphasized that at no point was there a risk to the wider energy system, which they described as highly resilient. The National Cyber Security Centre (NCSC), the government body responsible for protecting critical infrastructure from digital threats, noted that they did not receive reports of outages from larger, regulated power stations. Despite this, the event highlights the growing vulnerability of essential services to foreign interference.",
+      "zh": "能源安全與淨零排放部（Department for Energy Security and Net Zero）的發言人針對此情況表示，該事件僅限於小型發電機組。他們強調，整體能源系統在任何時刻都沒有風險，並形容該系統具有高度韌性。負責保護關鍵基礎設施免受數位威脅的政府機構「國家網路安全中心（NCSC）」指出，他們並未收到來自大型受監管電廠的停電報告。儘管如此，此事件仍凸顯了必要服務對外國干預日益增加的脆弱性。"
+    },
+    {
+      "id": "p3",
+      "en": "This incident follows a period of rising international tension. The UK government recently confirmed that it is prepared to defend itself after the Islamic Revolutionary Guard Corps (IRGC) of Iran warned that any military base used for aggression against Iranian territory would be considered a legitimate target. The UK has allowed the United States to launch defensive operations from British bases, a policy that remains in place under the new prime minister, Andy Burnham. This geopolitical friction is seen by many as the backdrop for the recent cyber activity.",
+      "zh": "此事件發生在國際緊張局勢升溫的時期。英國政府近期證實，在伊朗的「伊斯蘭革命衛隊（IRGC）」警告任何被用於對伊朗領土進行侵略的軍事基地都將被視為合法目標後，英國已做好防衛準備。英國允許美國從英國基地發動防禦行動，這項政策在現任首相伯納姆（Andy Burnham）領導下依然維持。許多人認為，這種地緣政治摩擦是近期網路活動的背景因素。"
+    },
+    {
+      "id": "p4",
+      "en": "The Conservative Party has used the incident to call for a change in national energy strategy. Claire Coutinho, the Conservative spokesperson on energy, argued that the attack reflects a new kind of warfare. She warned that Britain must prioritize cheap and reliable energy sources to maintain security. According to Coutinho, relying on imports of gas and electricity, while failing to build enough backup power plants at home, leaves the country more vulnerable to these types of threats.",
+      "zh": "保守黨利用此事件呼籲改變國家能源策略。保守黨能源事務發言人庫廷霍（Claire Coutinho）主張，這次攻擊反映了一種新型態的戰爭。她警告，英國必須優先考慮廉價且可靠的能源來源以維持安全。庫廷霍認為，依賴進口天然氣與電力，卻未能在家園興建足夠的備用電廠，使國家更容易受到這類威脅的影響。"
+    },
+    {
+      "id": "p5",
+      "en": "Cyber security experts have been tracking such risks for some time. Richard Horne, the chief executive of the NCSC, warned earlier this year that hostile states, including Russia, China, and Iran, are increasingly targeting the systems that support the UK’s key services. This is not the first time Iran has been accused of such actions. For years, the country has been linked to various global cyber incidents, including a major power outage in Turkey in 2015 and attacks on government websites in Israel in 2022.",
+      "zh": "網路安全專家長期以來一直在追蹤此類風險。國家網路安全中心執行長霍恩（Richard Horne）今年稍早曾警告，包括俄羅斯、中國與伊朗在內的敵對國家，正日益鎖定支援英國關鍵服務的系統進行攻擊。這並非伊朗首次被指控採取此類行動。多年來，該國與全球多起網路事件有關，包括二〇一五年土耳其的大規模停電，以及二〇二二年針對以色列政府網站的攻擊。"
+    },
+    {
+      "id": "p6",
+      "en": "Furthermore, security agencies in the United States have issued warnings regarding cyber-attacks on critical infrastructure by groups linked to the IRGC. The US government has alleged that an Iran-affiliated group known as “CyberAv3ngers” carried out a campaign in 2023 that compromised at least 75 devices across multiple infrastructure sectors. These past incidents suggest that the recent attack on the British power plant is part of a broader, ongoing pattern of digital aggression.",
+      "zh": "此外，美國安全機構已針對與伊斯蘭革命衛隊有關的組織對關鍵基礎設施發動的網路攻擊發出警告。美國政府指控一個名為「CyberAv3ngers」的伊朗相關組織，在二〇二三年發動了一場行動，導致多個基礎設施領域中至少七十五台設備遭到入侵。這些過往事件顯示，近期針對英國電廠的攻擊，是更廣泛且持續進行的數位侵略模式的一部分。"
+    },
+    {
+      "id": "p7",
+      "en": "As the UK government continues to work with the energy sector to improve security standards, the incident serves as a reminder of the challenges posed by modern technology. While the immediate danger to the national grid was minimal, the four-day shutdown of a power facility demonstrates the real-world impact that cyber-attacks can have. Moving forward, the government faces the difficult task of balancing international military commitments with the need to protect the essential services that keep the country running.",
+      "zh": "隨著英國政府持續與能源產業合作以提升安全標準，此事件提醒了現代科技所帶來的挑戰。雖然對國家電網的直接危險微乎其微，但發電設施被迫停機四天，證明了網路攻擊確實能造成現實世界的影響。展望未來，政府面臨著艱鉅的任務，必須在國際軍事承諾與保護維持國家運作的必要服務之間取得平衡。"
+    }
+  ],
+  "wordCount": 628,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "linked",
+      "definitionEn": "To suggest a connection or association between two things.",
+      "definitionZh": "連結、關聯。",
+      "partOfSpeech": "verb (past participle)",
+      "noteZh": "常見作名詞（連結），這裡作動詞表示「將某事與某人/某事掛鉤」。文中：The UK government has officially linked the attack to hackers connected to Iran, marking a concerning development in the digital security landscape."
+    },
+    {
+      "term": "backdrop",
+      "definitionEn": "The general situation or background in which an event happens.",
+      "definitionZh": "背景、環境。",
+      "partOfSpeech": "noun",
+      "noteZh": "原意指舞台背景，這裡引申為事件發生的背景情勢。文中：This geopolitical friction is seen by many as the backdrop for the recent cyber activity."
+    },
+    {
+      "term": "running",
+      "definitionEn": "Operating or functioning properly.",
+      "definitionZh": "運作、運轉。",
+      "partOfSpeech": "verb (present participle)",
+      "noteZh": "常見作動詞（跑步），這裡指系統或國家正常運作。文中：Moving forward, the government faces the difficult task of balancing international military commitments with the need to protect the essential services that keep the country running."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
+      "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
+      "publishedAt": "2026-08-23T14:46:56Z"
+    }
+  ],
+  "story": {
+    "id": "iran-linked-cyber-attack-shuts-down-power-plant",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "iran-linked-cyber-attack-shuts-down-power-plant-aug-2026",
+        "title": "Cyber Attack Shuts Down UK Power Plant",
+        "publishedAt": "2026-08-23T22:14:10.751946Z",
+        "category": "technology",
+        "summaryEn": "A small power plant in the UK was forced to shut down for four days following a cyber attack. The UK government confirmed that the incident involved a small-scale generator and posed no risk to the national energy system. Reports suggest the hackers responsible are linked to the Iranian government. This event follows rising tensions between the UK and Iran regarding military operations. Authorities are now reviewing security measures to protect critical infrastructure from future threats."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What was the specific duration of the operational disruption caused by the cyber attack on the UK energy facility?",
+      "options": {
+        "A": "It lasted for exactly one week.",
+        "B": "The facility was offline for four days.",
+        "C": "The outage affected the national grid for over a month.",
+        "D": "The system was compromised for a period of 75 hours."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第一段第一句：「A small-scale energy generator in the United Kingdom was forced to shut down for four days last month...」，明確指出該設施停擺了四天。選項 A 錯誤，文中並未提到一週；選項 C 錯誤，文中提到的是「上個月」發生，而非持續一個月；選項 D 雖然數字 75 出現在第六段，但那是描述美國 2023 年受影響的裝置數量，與此處停機時間無關。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the information provided, what can be inferred about the relationship between the UK's foreign policy and the recent cyber attack?",
+      "options": {
+        "A": "The attack was a direct response to the UK's refusal to host American military bases.",
+        "B": "The UK's involvement in international military operations may have made it a target for retaliatory cyber activity.",
+        "C": "The new Prime Minister, Andy Burnham, has officially ended the military alliance with the United States to prevent further attacks.",
+        "D": "The UK government believes that cyber attacks are unrelated to geopolitical tensions."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，英國允許美國利用其基地進行防禦行動，而伊朗革命衛隊曾警告會將任何攻擊伊朗領土的基地視為目標，隨後文章提到這種地緣政治摩擦被視為近期網路攻擊的背景。選項 A 與文意相反，英國並未拒絕；選項 C 錯誤，文中提到該政策在現任首相任內依然有效；選項 D 錯誤，政府顯然認為兩者高度相關。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the second paragraph, the government describes the wider energy system as 'highly resilient.' What does 'resilient' mean in this context?",
+      "options": {
+        "A": "Fragile and easily broken by external pressure.",
+        "B": "Highly advanced and technologically superior.",
+        "C": "Able to recover quickly and withstand difficult conditions.",
+        "D": "Entirely immune to any form of digital interference."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。Resilient 在此處意指「有韌性的」或「具備恢復力的」，用來形容能源系統即便在遭遇攻擊時，仍能維持穩定而不崩潰。選項 A 是相反詞；選項 B 雖然科技先進可能是事實，但並非 resilient 的定義；選項 D 過於絕對，文中提到的是系統具備韌性，而非完全免疫（immune），因為該系統仍面臨被攻擊的風險。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article regarding the recent cyber attack on the UK energy generator?",
+      "options": {
+        "A": "The attack was a massive failure that caused a total collapse of the UK's national electricity supply.",
+        "B": "The UK government is planning to cut all diplomatic ties with Iran due to the security breach.",
+        "C": "The incident serves as a warning that essential infrastructure is increasingly vulnerable to foreign-led cyber threats.",
+        "D": "The Conservative Party is solely responsible for the lack of security in the UK's energy sector."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。全文旨在探討這起小型攻擊如何反映出英國關鍵基礎設施面臨外國干預的風險，並呼應了專家與政府對於數位安全威脅的擔憂。選項 A 誇大其詞，文中強調影響僅限於小型設施；選項 B 文中未提及要切斷外交關係；選項 D 錯誤，文中僅提到保守黨對此提出批評與建議，並未說他們是責任主體。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
