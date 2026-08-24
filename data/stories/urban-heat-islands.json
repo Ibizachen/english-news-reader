@@ -1,0 +1,37 @@
+{
+  "id": "urban-heat-islands",
+  "title": "The Urban Heat Island Effect: A Global Warming Crisis",
+  "subtitle": "Understanding how concrete jungles trap heat and threaten public health in a warming world.",
+  "description": "As global temperatures rise, cities are becoming significantly hotter than their rural surroundings. This series explores the causes, human impact, and potential urban design solutions to this growing environmental challenge.",
+  "category": "public-health",
+  "status": "active",
+  "updatedAt": "2026-08-24T02:22:11.471902Z",
+  "cadence": "5-part reading path. Complete series available.",
+  "articles": [
+    {
+      "slug": "urban-heat-islands-part-1",
+      "label": "Part 1",
+      "note": "Defining the Urban Heat Island (UHI) effect and the physical properties of cities that cause it."
+    },
+    {
+      "slug": "urban-heat-islands-part-2",
+      "label": "Part 2",
+      "note": "The human cost of heat, focusing on vulnerable populations and socio-economic disparities."
+    },
+    {
+      "slug": "urban-heat-islands-part-3",
+      "label": "Part 3",
+      "note": "How cities are changing their approach to planning to combat heat."
+    },
+    {
+      "slug": "urban-heat-islands-part-4",
+      "label": "Part 4",
+      "note": "The economic impact of heat, including energy costs and lost productivity."
+    },
+    {
+      "slug": "urban-heat-islands-part-5",
+      "label": "Part 5",
+      "note": "The future of urban living in a warming climate and the limits of adaptation."
+    }
+  ]
+}
