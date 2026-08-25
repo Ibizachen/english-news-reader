@@ -1,0 +1,156 @@
+{
+  "id": "2026-08-25-environmental-impact-of-rapid-datacenter-growth",
+  "slug": "environmental-impact-of-rapid-datacenter-growth-aug-2026",
+  "publishedAt": "2026-08-25T22:43:18.321143Z",
+  "category": "energy",
+  "title": "The Hidden Environmental Cost of Our Digital Lives",
+  "subtitle": "New research suggests that the rapid growth of AI datacentres could threaten national climate goals.",
+  "summary": {
+    "en": "New analysis shows that two planned datacentres in England could produce more carbon emissions than a major oil company. These facilities require massive amounts of electricity to power AI and cooling systems. While the government argues that these projects will not run at full capacity immediately, environmental groups remain concerned. Experts warn that this growth could make it harder for the country to reach its climate targets. The debate highlights the tension between technological advancement and environmental protection.",
+    "zh": "新的分析顯示，英國兩座計畫中的資料中心所產生的碳排放量，可能超過一家大型石油公司。這些設施需要大量電力來驅動人工智慧與冷卻系統。儘管政府辯稱這些計畫不會立即以全產能運作，環保團體仍感到擔憂。專家警告，這種成長可能使國家更難達成氣候目標。這場辯論凸顯了技術進步與環境保護之間的緊張關係。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "In our modern world, we rely on digital technology for almost everything, from sending emails to using artificial intelligence (AI). However, behind every digital action is a physical building called a datacentre. These facilities house the powerful computers that store our data and run the software we use every day. As the demand for AI grows, so does the need for more datacentres. Now, a new report is raising serious questions about the environmental impact of this rapid growth.",
+      "zh": "在現代世界中，我們幾乎在所有事情上都依賴數位科技，從發送電子郵件到使用人工智慧（AI）。然而，每一項數位行動的背後，都有著被稱為資料中心的實體建築。這些設施容納了強大的電腦，負責儲存我們的資料並執行我們每天使用的軟體。隨著對人工智慧的需求不斷增長，對更多資料中心的需求也隨之增加。現在，一份新的報告針對這種快速成長對環境造成的影響，提出了嚴肅的質疑。"
+    },
+    {
+      "id": "p2",
+      "en": "According to an analysis by the non-profit group Foxglove, two planned datacentres in England—Wapseys Wood in Buckinghamshire and Quest Park in Bedfordshire—could produce more carbon emissions than the entire UK operations of the oil company ExxonMobil. The analysis suggests that once these facilities are fully operational, they will release over 4.5 million tonnes of carbon emissions every year. For comparison, ExxonMobil emitted 3.9 million tonnes in 2023, according to the energy thinktank Ember.",
+      "zh": "根據非營利組織「狐狸手套」（Foxglove）的分析，英國有兩座計畫中的資料中心——位於白金漢郡（Buckinghamshire）的瓦普西伍德（Wapseys Wood）與位於貝德福郡（Bedfordshire）的奎斯特公園（Quest Park）——其產生的碳排放量可能超過石油公司埃克森美孚（ExxonMobil）在整個英國的營運總量。該分析指出，一旦這些設施全面運作，每年將釋放超過四百五十萬噸的碳排放。根據能源智庫「餘燼」（Ember）的數據，作為對比，埃克森美孚在二〇二三年排放了三百九十萬噸。"
+    },
+    {
+      "id": "p3",
+      "en": "Datacentres need a massive amount of electricity to keep their servers running and to power the cooling equipment that prevents them from overheating. Because the current electricity grid is already under pressure, these two projects are planning to build their own gas-fired power stations to generate the energy they need. This has sparked a debate about how these facilities fit into the country’s legally binding climate goals—the official, legal promises a government makes to reduce its carbon footprint.",
+      "zh": "資料中心需要大量的電力來維持伺服器運作，並為防止過熱的冷卻設備供電。由於目前的電力網已承受壓力，這兩個計畫正打算興建自己的天然氣發電廠，以產生所需的能源。這引發了一場辯論，討論這些設施如何符合國家具有法律約束力的氣候目標，也就是政府為減少碳足跡所做出的正式法律承諾。"
+    },
+    {
+      "id": "p4",
+      "en": "There is a disagreement regarding these numbers. A government spokesperson stated that the Foxglove analysis is \"misleading.\" They argued that the figures assume both projects will run at 100% capacity from the very first day, which the government says is not accurate. However, Tom Hegarty from Foxglove defended the calculation, noting that assuming full use is standard practice in the industry. Kierra Box, a campaigner at Friends of the Earth, agreed, stating that because the goal is for these centres to run at full power, it is reasonable to look at these high-level predictions.",
+      "zh": "對於這些數據存在分歧。政府發言人表示，「狐狸手套」的分析具有「誤導性」。他們主張，這些數字假設兩個計畫從第一天起就會以百分之百的產能運作，政府認為這並不準確。然而，來自「狐狸手套」的湯姆·赫加蒂（Tom Hegarty）為該計算辯護，指出假設全面使用是業界的標準做法。地球之友（Friends of the Earth）的倡議者琪拉·博克斯（Kierra Box）表示同意，並指出由於這些中心的目標就是以全功率運作，參考這些高水準的預測是合理的。"
+    },
+    {
+      "id": "p5",
+      "en": "The scale of the problem is significant. There are currently 315 datacentres waiting to connect to the UK’s electricity grid. Together, they would require 73 gigawatts of power, which is almost double the amount of energy the entire country needs during the coldest winter days. Sam Hunter-Jones, a lawyer at the group ClientEarth, warned that every unit of electricity used by a datacentre is energy that cannot be used to help the country move away from fossil fuels. He noted that unchecked growth in this sector makes the transition to clean energy much harder.",
+      "zh": "問題的規模相當巨大。目前有三百一十五座資料中心正等待連接英國的電力網。它們總共需要七十三吉瓦的電力，這幾乎是整個國家在最寒冷的冬日所需能源的兩倍。環境法律組織「客戶地球」（ClientEarth）的律師山姆·杭特-瓊斯（Sam Hunter-Jones）警告說，資料中心使用的每一度電，都是無法用於協助國家擺脫化石燃料的能源。他指出，該產業不受限制的成長，使得轉型至潔淨能源變得更加困難。"
+    },
+    {
+      "id": "p6",
+      "en": "These two specific projects are being fast-tracked through a government system for nationally significant infrastructure projects. This system allows developers to build important infrastructure more quickly by bypassing some local planning rules. This has drawn criticism from those who worry about the environmental consequences. Caroline Lucas, the former leader of the Green party, described the projected emissions as \"absolutely horrifying\" and suggested that the government should be very concerned.",
+      "zh": "這兩個特定的計畫正透過一套針對國家重大基礎建設的政府系統進行加速審核。該系統允許開發商透過繞過部分地方規劃規則，更快速地興建重要基礎設施。這引起了擔憂環境後果的人士之批評。綠黨（Green Party）前領袖卡洛琳·盧卡斯（Caroline Lucas）形容預測的排放量「絕對令人恐懼」，並建議政府應當感到非常擔憂。"
+    },
+    {
+      "id": "p7",
+      "en": "For its part, the government maintains that there are ways for this rapid growth to fit within its carbon budgets—the limits on the total amount of greenhouse gases that can be emitted over a period of time. However, many experts remain skeptical. Toby Perkins, a Labour MP who leads a committee investigating this issue, said the analysis serves as a \"potent reminder\" that without the right rules, datacentres could become a serious threat to the environment.",
+      "zh": "就政府而言，其堅稱這些快速成長仍有辦法納入其碳預算之中，也就是在一段時間內對溫室氣體排放總量所設下的限制。然而，許多專家仍持懷疑態度。負責調查此議題的委員會主席、工黨國會議員托比·柏金斯（Toby Perkins）表示，這項分析是一個「強而有力的提醒」，若沒有適當的規範，資料中心可能成為環境的嚴重威脅。"
+    },
+    {
+      "id": "p8",
+      "en": "As the world continues to embrace AI and digital services, the challenge of balancing this growth with environmental responsibility will only increase. Oliver Hayes, from the group Global Action Plan, argued that the only way to accommodate these datacentres is to force other parts of the economy to reduce their emissions even further. As the government continues its inquiry, the debate over how to manage this digital expansion without damaging the planet is likely to continue for some time.",
+      "zh": "隨著世界持續擁抱人工智慧與數位服務，在這種成長與環境責任之間取得平衡的挑戰只會與日俱增。來自「全球行動計畫」（Global Action Plan）組織的奧利佛·海耶斯（Oliver Hayes）主張，容納這些資料中心的唯一方法，就是強迫經濟的其他部門進一步減少排放。隨著政府持續進行調查，關於如何在不破壞地球的前提下管理這種數位擴張的辯論，可能會持續一段時間。"
+    }
+  ],
+  "wordCount": 728,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "house",
+      "definitionEn": "To provide a space or building for something to be kept or located.",
+      "definitionZh": "安置、為……提供空間。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（房子），這裡作動詞用。文中：These facilities house the powerful computers that store our data and run the software we use every day."
+    },
+    {
+      "term": "sparked",
+      "definitionEn": "To cause the start of something, especially an argument or debate.",
+      "definitionZh": "引發、觸發（爭論或事件）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（火花），這裡作動詞用。文中：This has sparked a debate about how these facilities fit into the country’s legally binding climate goals—the official, legal promises a government makes to reduce its carbon footprint."
+    },
+    {
+      "term": "fast-tracked",
+      "definitionEn": "To make a process happen or move more quickly than usual.",
+      "definitionZh": "加速處理、快速通道。",
+      "partOfSpeech": "verb",
+      "noteZh": "由名詞短語轉化為動詞，指加快進度。文中：These two specific projects are being fast-tracked through a government system for nationally significant infrastructure projects."
+    },
+    {
+      "term": "fit",
+      "definitionEn": "To be suitable for or compatible with a particular situation or plan.",
+      "definitionZh": "符合、適應。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作形容詞（健康的/合適的），這裡作動詞用。文中：For its part, the government maintains that there are ways for this rapid growth to fit within its carbon budgets—the limits on the total amount of greenhouse gases that can be emitted over a period of time."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/25/planned-datacentres-carbon-emissions-uk-exxonmobil",
+      "title": "Two planned datacentres will have higher UK carbon emissions than ExxonMobil, analysis finds",
+      "publishedAt": "2026-08-25T11:04:56Z"
+    }
+  ],
+  "story": {
+    "id": "environmental-impact-of-rapid-datacenter-growth",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "Why are the two proposed datacentres in England planning to construct their own gas-fired power stations?",
+      "options": {
+        "A": "To lower the operational costs of the facilities.",
+        "B": "Because the existing electricity grid is already struggling to meet current demands.",
+        "C": "To ensure they can operate at 100% capacity from the first day.",
+        "D": "Because government regulations require all new infrastructure to be self-sufficient."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，由於現有的電力網已經承受巨大壓力（under pressure），這兩個項目為了獲得所需的能源，計畫自行建造天然氣發電廠。選項 A 並未提及；選項 C 是關於排放量計算的爭議點，而非建發電廠的原因；選項 D 錯誤，文章並未提到有此類強制規定。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the information provided, what can be inferred about the UK's current energy situation regarding datacentres?",
+      "options": {
+        "A": "The UK has an excess of energy that it needs to utilize through digital growth.",
+        "B": "The government is prioritizing digital expansion over all environmental climate goals.",
+        "C": "The rapid expansion of datacentres could potentially hinder the country's transition to clean energy.",
+        "D": "The UK is currently the world leader in green energy technology for datacentres."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第五段，Sam Hunter-Jones 指出，數據中心消耗的每一單位電力，都意味著該電力無法用於幫助國家擺脫化石燃料，且未受控的成長會使轉向綠色能源變得更困難。選項 A 與文意相反；選項 B 過於武斷，政府仍在辯論中；選項 D 文章中並未提及。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the word 'accommodate' mean as it is used in the context of the sentence: 'the only way to accommodate these datacentres is to force other parts of the economy to reduce their emissions even further'?",
+      "options": {
+        "A": "To provide space or resources for something to exist or happen.",
+        "B": "To change one's opinion to match someone else's.",
+        "C": "To build a physical building for people to live in.",
+        "D": "To ignore a problem so that it does not cause trouble."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在該句中，accommodate 的意思是「容納」或「提供空間/資源給某事物」。為了讓數據中心能夠存在（成長），經濟的其他部分必須做出犧牲以減排。選項 B 是關於觀點的妥協；選項 C 與住宿有關，不符文意；選項 D 與原文意思完全相反。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article?",
+      "options": {
+        "A": "The UK government is successfully managing the growth of AI through strict environmental laws.",
+        "B": "Datacentres are the most efficient way to store data in the modern world.",
+        "C": "The rapid growth of datacentres poses a significant challenge to environmental sustainability and energy policy.",
+        "D": "Foxglove and other non-profit groups are trying to shut down all datacentres in England."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。本文的核心在於探討數據中心快速增長對環境、能源網以及國家氣候目標帶來的潛在威脅，以及政府與環保團體間的辯論。選項 A 與文意不符，因為政府正受到批評；選項 B 並非文章重點；選項 D 錯誤，文章僅提到環保團體對其環境影響提出質疑，並非要求關閉所有設施。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
