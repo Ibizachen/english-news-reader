@@ -1,99 +1,88 @@
 {
   "id": "2026-08-27-meta-settles-landmark-child-safety-lawsuit",
   "slug": "meta-settles-landmark-child-safety-lawsuit-aug-2026",
-  "publishedAt": "2026-08-27T03:17:24.884699Z",
+  "publishedAt": "2026-08-27T22:14:11.034927Z",
   "category": "technology",
-  "title": "Meta Agrees to Major Settlement Over Child Safety Concerns",
-  "subtitle": "The tech giant will pay billions and change app features to protect young users",
+  "title": "Meta Reaches Major Settlement Over Child Safety Concerns",
+  "subtitle": "The tech giant agrees to pay billions and change how young people use its platforms",
   "summary": {
-    "en": "Meta has reached a landmark settlement with dozens of US states regarding child safety on its platforms. The company agreed to pay up to $18 billion over the next decade to resolve claims that Facebook and Instagram harm young users. As part of the deal, Meta will introduce new safety features like night-time blocks and daily time limits. While the company denies any wrongdoing, it has promised to make its apps safer for minors. The agreement also calls for other social media companies to follow these new safety standards.",
-    "zh": "Meta 已與美國數十個州達成一項關於其平台兒童安全的里程碑式和解協議。該公司同意在未來十年內支付最高 180 億美元，以解決關於臉書與 Instagram 傷害年輕用戶的指控。作為協議的一部分，Meta 將引入如深夜封鎖與每日使用時限等新安全功能。儘管該公司否認有任何不當行為，但已承諾讓其應用程式對未成年人更安全。該協議亦呼籲其他社群媒體公司跟進這些新的安全標準。"
+    "en": "Meta has agreed to an $18 billion settlement with nearly every US state to resolve claims that its platforms harm children. The company will introduce new safety features, including time limits and better parental controls. While Meta does not admit to any wrongdoing, the deal marks a significant moment for the tech industry. Experts believe these changes could set a global standard for social media regulation. Other companies like TikTok and YouTube now face pressure to adopt similar safety measures.",
+    "zh": "Meta 已與幾乎所有美國各州達成一百八十億美元的和解協議，以解決其平台傷害兒童的指控。該公司將引入新的安全功能，包括時間限制與更完善的家長監護工具。雖然 Meta 並未承認任何不當行為，但這項協議對科技產業而言是一個重要的時刻。專家認為，這些變革可能為社群媒體監管設立全球標準。TikTok 與 YouTube 等其他公司現在也面臨採用類似安全措施的壓力。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "Meta, the company that owns Facebook and Instagram, has reached a massive legal settlement with 48 US states, the District of Columbia, and three US territories. The agreement, which could cost the company up to $18 billion, aims to resolve serious claims that its platforms have harmed children. This is the largest payment Meta has ever made regarding child safety, and it marks a significant turning point in how social media companies are held responsible for their products.",
-      "zh": "擁有臉書 (Facebook) 與 Instagram 的母公司 Meta，已與美國 48 個州、哥倫比亞特區以及三個美國領地達成大規模法律和解。這項協議金額最高可能達到 180 億美元，旨在解決關於其平台對兒童造成傷害的嚴重指控。這是 Meta 在兒童安全議題上支付過最高額的款項，也標誌著社群媒體公司如何為其產品負起責任的重大轉折點。"
+      "en": "Meta has reached a landmark settlement with nearly every US state, agreeing to pay up to $18 billion over the next decade. This deal resolves serious claims that the company’s platforms, Facebook and Instagram, have caused harm to young users. While the agreement involves a massive sum of money, it also forces Meta to change how children interact with its services. The company has agreed to introduce several important safety measures, such as strict time limits, warnings about screen time, and new tools for parents to manage their children's accounts.",
+      "zh": "Meta 已與幾乎所有美國各州達成一項指標性的和解協議，同意在未來十年內支付高達一百八十億美元。這項協議解決了關於該公司旗下平台臉書（Facebook）與 Instagram 對年輕用戶造成傷害的嚴重指控。雖然這項協議涉及鉅額款項，但也強制要求 Meta 改變兒童與其服務互動的方式。該公司已同意採取多項重要的安全措施，例如嚴格的時間限制、螢幕使用時間警告，以及供家長管理子女帳號的新工具。"
     },
     {
       "id": "p2",
-      "en": "According to BBC Business, the settlement was approved by a judge in California. The legal battle began in 2023 when a group of states sued the tech giant. They argued that Meta intentionally designed its apps to be addictive, which led to mental health problems for young people, including depression and anxiety. State lawyers also claimed that Meta collected data on children under the age of 13 without getting permission from their parents, which is against the law.",
-      "zh": "根據英國廣播公司商業新聞 (BBC Business) 報導，該和解案已獲加州法官批准。這場法律戰始於 2023 年，當時多個州聯合對這家科技巨頭提告。他們主張 Meta 有意將應用程式設計得令人成癮，導致年輕族群出現憂鬱與焦慮等心理健康問題。州政府律師亦指控 Meta 在未經家長許可的情況下，違法蒐集 13 歲以下兒童的資料。"
+      "en": "Despite the size of the settlement, Meta has not admitted to any wrongdoing. According to BBC Business, the company likely chose to settle to protect its core business model. Social media platforms rely on gathering data to sell advertisements, and the company wanted to avoid a much larger financial penalty. Some experts suggest that Meta saw the \"writing on the wall\" and decided that agreeing to these changes was better than facing a potentially endless and expensive legal battle in court.",
+      "zh": "儘管和解金額龐大，Meta 並未承認任何不當行為。根據 BBC 商業新聞報導，該公司選擇和解很可能是為了保護其核心商業模式。社群媒體平台依賴蒐集數據來銷售廣告，而該公司希望避免面臨更巨額的財務罰款。部分專家認為，Meta 已經預見了未來的趨勢，認為同意這些變革比在法庭上面臨可能無止境且昂貴的法律訴訟更為有利。"
     },
     {
       "id": "p3",
-      "en": "Throughout the legal process, Meta has consistently denied any wrongdoing. However, the company has now agreed to make major changes to its platforms to address the concerns raised by the states. As reported by The Guardian, these changes include setting a default daily time limit for users under 18 and blocking the apps during late-night hours. Other new features include stopping notifications during school hours, banning filters that encourage cosmetic surgery, and hiding the number of \"likes\" on posts made by minors. NPR noted that young users will also have the option to use a \"non-personalized feed,\" which means the content they see will not be chosen by an algorithm designed to keep them on the app for as long as possible.",
-      "zh": "在整個法律程序中，Meta 始終否認有任何不當行為。然而，該公司目前已同意對其平台進行重大調整，以回應各州提出的疑慮。據《衛報》(The Guardian) 報導，這些調整包括為 18 歲以下用戶設定預設的每日使用時限，並在深夜時段封鎖應用程式。其他新功能還包括在學校期間停止通知、禁止鼓勵整形的濾鏡，以及隱藏未成年人貼文的「讚」數。美國國家公共廣播電台 (NPR) 指出，年輕用戶未來將可選擇使用「非個人化動態牆」，這意味著他們看到的內容將不再由旨在讓用戶盡可能長時間停留在應用程式上的演算法所決定。"
+      "en": "This case was originally based on the Children's Online Privacy Protection Act, a US law that is nearly 30 years old. However, the trial quickly became a broader attack on the company's safety practices. During the short five-day trial, evidence was presented suggesting that Meta knew about harmful content on its platforms but failed to act. One former employee, Arturo Bejar, claimed that he had warned bosses about these issues in the past, but his concerns were ignored. Internal company documents also suggested that Meta sometimes preferred to pay fines rather than fix safety problems.",
+      "zh": "此案最初是基於已有近三十年歷史的美國法律《兒童線上隱私保護法》（Children's Online Privacy Protection Act）。然而，審判很快演變成對該公司安全實務的全面抨擊。在為期五天的短暫審判中，有證據顯示 Meta 明知其平台存在有害內容卻未採取行動。一位前員工貝哈爾（Arturo Bejar）聲稱，他過去曾向主管提出這些問題，但他的擔憂遭到忽視。公司內部文件也顯示，Meta 有時寧願支付罰款，也不願解決安全問題。"
     },
     {
       "id": "p4",
-      "en": "California Attorney General Rob Bonta described the agreement as a major step forward. He stated that the settlement will make social media less dangerous for children and their families. The agreement also requires Meta to hire an independent auditor. This person will have the power to look at the company’s internal information and ensure that Meta is actually following the new rules. The payments to the states will be made in yearly installments over the next 10 years.",
-      "zh": "加州檢察長羅伯·邦塔 (Rob Bonta) 將此協議形容為重大進展。他表示，這項和解將使社群媒體對兒童及其家庭而言不再那麼危險。協議亦要求 Meta 聘請獨立稽核員。此人將有權檢視公司內部資訊，確保 Meta 確實遵守新規定。支付給各州的款項將在未來 10 年內分期撥付。"
+      "en": "For now, these new safety features will only apply to children in the United States. However, many observers believe the impact will be felt globally. Because Meta has accepted these rules in America, other countries may now feel empowered to demand similar protections. Trevor Johnson, a former senior official at Meta and TikTok, noted that tech companies rarely make changes unless they are forced to do so. He believes the UK, which has already announced plans for a social media ban for children under 16 by 2027, will likely push for these new restrictions to be applied to its own citizens as well.",
+      "zh": "目前，這些新的安全功能僅適用於美國的兒童。然而，許多觀察家認為其影響將擴及全球。由於 Meta 已在美國接受這些規則，其他國家現在可能更有底氣要求類似的保護措施。曾在 Meta 與 TikTok 任職的高階主管強森（Trevor Johnson）指出，科技公司除非被迫，否則很少會做出改變。他認為，英國已宣布計畫在二〇二七年前禁止十六歲以下兒童使用社群媒體，很可能會推動將這些新限制措施也適用於其本國公民。"
     },
     {
       "id": "p5",
-      "en": "During the trial, which lasted only a few days before the settlement was reached, lawyers for the states presented internal documents. These included emails and research from Meta employees that suggested the company knew about the risks its platforms posed to young users. For example, one internal study mentioned that teenagers often felt addicted to Instagram. While Meta argued that it has always worked hard to keep its platforms safe, the evidence provided by the states made the situation difficult for the company.",
-      "zh": "在達成和解前僅持續數日的審判期間，各州律師出示了內部文件。其中包括 Meta 員工的電子郵件與研究報告，顯示該公司早已知曉其平台對年輕用戶構成的風險。例如，一份內部研究提到青少年常對 Instagram 感到成癮。儘管 Meta 主張其一直致力於維護平台安全，但各州提供的證據使該公司處境艱難。"
+      "en": "Meta is also trying to ensure that it does not face unfair competition. By calling on rivals like TikTok, YouTube, and Snapchat to adopt the same safety measures, the company is arguing for a \"level playing field.\" Meta’s leadership has stated that when teens are restricted on one app, they simply move to another. Therefore, they argue that all platforms should support parents and protect young users in the same way. So far, these other companies have maintained that they already have strong safety policies in place, but analysts expect them to face increasing pressure to change.",
+      "zh": "Meta 也試圖確保自己不會面臨不公平競爭。透過呼籲 TikTok、YouTube 與 Snapchat 等競爭對手採取相同的安全措施，該公司正主張建立一個「公平競爭環境」。Meta 的領導層表示，當青少年在一個應用程式上受到限制時，他們只會轉移到另一個平台。因此，他們主張所有平台都應以同樣的方式支持家長並保護年輕用戶。到目前為止，這些公司仍堅稱其已具備完善的安全政策，但分析師預期它們將面臨越來越大的變革壓力。"
     },
     {
       "id": "p6",
-      "en": "Meta’s chief legal officer, C.J. Mahoney, said in a statement that the company is proud of the work it has done to protect children. However, he also emphasized that the success of these new rules depends on the rest of the industry. He called on other platforms, such as TikTok, YouTube, and Snap, to follow Meta’s lead. According to The Guardian, Meta believes that because teenagers move between many different apps, an industry-wide solution is necessary to truly protect them.",
-      "zh": "Meta 首席法務長 C.J. 馬霍尼 (C.J. Mahoney) 在聲明中表示，公司對其在保護兒童方面所做的工作感到自豪。然而，他也強調這些新規則的成功取決於整個產業的配合。他呼籲 TikTok、YouTube 與 Snap 等其他平台跟進 Meta 的做法。據《衛報》報導，Meta 認為由於青少年會在多個不同應用程式間切換，因此必須採取全產業的解決方案，才能真正保護他們。"
+      "en": "This settlement could signal the beginning of a larger \"reckoning\" for the entire social media industry. As governments around the world look for ways to protect young people online, the days of unregulated \"doomscrolling\"—the act of spending a long time scrolling through negative content on social media—may be coming to an end. While the US approach focuses on safety tools and time limits rather than a complete ban, it represents a major shift in how the government regulates big technology firms.",
+      "zh": "這項和解可能象徵著整個社群媒體產業將面臨更大規模的「清算」。隨著世界各國政府尋求保護線上年輕人的方法，那種不受監管的「負面沉浸式滑動」（doomscrolling，指長時間在社群媒體上瀏覽負面內容的行為）時代可能即將結束。雖然美國的做法側重於安全工具與時間限制，而非全面禁止，但這代表政府在監管大型科技公司的方式上出現了重大轉變。"
     },
     {
       "id": "p7",
-      "en": "This settlement is part of a much larger wave of legal pressure facing tech companies. Families, school districts, and other government officials have filed thousands of lawsuits against social media platforms across the United States. While some companies have settled these cases privately, others have gone to trial. In February, for instance, a court ordered Meta and YouTube to pay $6 million to a young woman in a separate case.",
-      "zh": "這項和解案是科技公司面臨的一波更大規模法律壓力的一部分。全美各地的家庭、學區與其他政府官員已對社群媒體平台提起了數千起訴訟。雖然部分公司選擇私下和解，但其他公司則進入審判程序。例如在 2 月時，法院在另一案件中裁定 Meta 與 YouTube 必須賠償一名年輕女性 600 萬美元。"
-    },
-    {
-      "id": "p8",
-      "en": "Not every state was part of this specific agreement. New Mexico, for example, did not join the settlement. Last month, a federal judge in that state ruled that Meta’s platforms were a \"public nuisance\" and ordered the company to pay nearly $1 billion in fines. This shows that while the current settlement is a major victory for many states, the legal challenges for social media companies are likely to continue. For now, the focus remains on how quickly Meta can implement these changes and whether other tech giants will choose to adopt similar safety measures for their own young users.",
-      "zh": "並非所有州都參與了這項特定協議。例如，新墨西哥州並未加入和解。上個月，該州的聯邦法官裁定 Meta 的平台構成「公眾滋擾」，並下令該公司支付近 10 億美元的罰款。這顯示儘管目前的和解對許多州而言是一場重大勝利，但社群媒體公司面臨的法律挑戰很可能會持續下去。目前，焦點仍放在 Meta 能多快落實這些變更，以及其他科技巨頭是否會選擇為其年輕用戶採取類似的安全措施。"
+      "en": "Ultimately, the success of these measures depends on how effectively they are implemented. Parents have previously complained about being overwhelmed by the sheer number of safety tools available, which often require them to manually turn settings on. The new agreement aims to make these protections more standard. As the tech industry moves toward 2026, it is clear that the focus on child safety will remain a top priority for regulators, parents, and the companies themselves. Whether these changes will truly make the internet a safer place for children remains to be seen, but the industry has certainly been put on notice.",
+      "zh": "最終，這些措施的成功取決於其實施的有效性。家長過去曾抱怨，現有的安全工具數量過多且令人不知所措，且往往需要手動開啟設定。這項新協議旨在讓這些保護措施更加標準化。隨著科技產業邁向二〇二六年，顯而易見的是，兒童安全議題仍將是監管機構、家長與企業本身的首要任務。這些改變是否真能讓網路對兒童而言變得更安全仍有待觀察，但該產業無疑已收到嚴正警告。"
     }
   ],
-  "wordCount": 768,
+  "wordCount": 684,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
-      "term": "settlement",
-      "definitionEn": "An official agreement intended to resolve a dispute or conflict, often involving money.",
-      "definitionZh": "和解協議",
-      "partOfSpeech": "noun",
-      "noteZh": "常見於「定居」或「殖民」之意，但在法律新聞中指雙方達成協議以結束訴訟。文中：Meta, the company that owns Facebook and Instagram, has reached a massive legal settlement with 48 US states, the District of Columbia, and three US territories."
+      "term": "writing on the wall",
+      "definitionEn": "A sign or warning that something bad or unpleasant is going to happen.",
+      "definitionZh": "不祥之兆；即將發生災難的跡象。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這是一個常見的慣用語，字面意思與實際含義完全不同。文中：Some experts suggest that Meta saw the \"writing on the wall\" and decided that agreeing to these changes was better than facing a potentially endless and expensive legal battle in court."
     },
     {
-      "term": "installments",
-      "definitionEn": "One of several parts into which a large payment is divided and paid over a period of time.",
-      "definitionZh": "分期付款",
-      "partOfSpeech": "noun",
-      "noteZh": "常與購物分期聯想，這裡指大筆賠償金的分批支付方式。文中：The payments to the states will be made in yearly installments over the next 10 years."
+      "term": "level playing field",
+      "definitionEn": "A situation in which everyone has the same opportunities and follows the same rules.",
+      "definitionZh": "公平的競爭環境。",
+      "partOfSpeech": "idiom",
+      "noteZh": "此處用來形容商業競爭中的公平性。文中：By calling on rivals like TikTok, YouTube, and Snapchat to adopt the same safety measures, the company is arguing for a \"level playing field.\""
     },
     {
-      "term": "nuisance",
-      "definitionEn": "In a legal context, something that causes harm, annoyance, or interference with the public's rights.",
-      "definitionZh": "妨害（公眾利益）",
-      "partOfSpeech": "noun",
-      "noteZh": "日常生活中常指「討厭的人或事」，但在法律術語中指對公眾造成損害的行為。文中：Last month, a federal judge in that state ruled that Meta’s platforms were a \"public nuisance\" and ordered the company to pay nearly $1 billion in fines."
+      "term": "put on notice",
+      "definitionEn": "To officially warn someone that they must change their behavior or that something is about to happen.",
+      "definitionZh": "正式通知；給予警告。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這是一個法律或正式語境下的慣用語，表示被警告要有所警惕。文中：Whether these changes will truly make the internet a safer place for children remains to be seen, but the industry has certainly been put on notice."
     }
   ],
   "sources": [
     {
       "name": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
-      "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
-      "publishedAt": "2026-08-26T21:27:23Z"
+      "url": "https://www.bbc.co.uk/news/articles/cg49q4xydq0o?at_medium=RSS&at_campaign=rss",
+      "title": "What the Meta settlement means for the UK, and other questions after the deal",
+      "publishedAt": "2026-08-27T13:24:03Z"
     },
     {
-      "name": "The Guardian Business",
-      "url": "https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement",
-      "title": "Meta agrees to major changes to Facebook and Instagram as it settles US trial over teen addiction for up to $18bn",
-      "publishedAt": "2026-08-26T20:30:49Z"
-    },
-    {
-      "name": "NPR News",
-      "url": "https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit",
-      "title": "Meta, states agree to $17 billion settlement in child safety trial",
-      "publishedAt": "2026-08-26T13:33:39Z"
+      "name": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go?at_medium=RSS&at_campaign=rss",
+      "title": "Meta's $18bn settlement may hasten reckoning for social media on child safety",
+      "publishedAt": "2026-08-26T23:04:24Z"
     }
   ],
   "story": {
@@ -101,18 +90,18 @@
     "type": "update",
     "previousArticles": [
       {
+        "slug": "meta-settles-landmark-child-safety-lawsuit-aug-2026",
+        "title": "Meta Agrees to Major Settlement Over Child Safety Concerns",
+        "publishedAt": "2026-08-27T03:17:24.884699Z",
+        "category": "technology",
+        "summaryEn": "Meta has reached a landmark settlement with dozens of US states regarding child safety on its platforms. The company agreed to pay up to $18 billion over the next decade to resolve claims that Facebook and Instagram harm young users. As part of the deal, Meta will introduce new safety features like night-time blocks and daily time limits. While the company denies any wrongdoing, it has promised to make its apps safer for minors. The agreement also calls for other social media companies to follow these new safety standards."
+      },
+      {
         "slug": "meta-faces-landmark-trial-over-child-safety-aug-2026",
         "title": "Meta Faces Landmark Trial Over Child Safety",
         "publishedAt": "2026-08-25T22:43:18.321143Z",
         "category": "technology",
         "summaryEn": "Meta is currently facing a significant legal challenge in an Oakland courtroom. A group of 29 US states accuses the company of creating addictive features that harm children. Prosecutors argue that the company hides the truth about its business model from the public. Meta has denied all allegations, calling the lawsuit an attempt to get money. This trial is seen as a key moment for how the US regulates big technology companies."
-      },
-      {
-        "slug": "new-zealand-proposes-social-media-ban-for-minors-aug-2026",
-        "title": "New Zealand Proposes Strict Social Media Ban for Minors",
-        "publishedAt": "2026-08-24T22:42:14.047474Z",
-        "category": "technology",
-        "summaryEn": "New Zealand has introduced a new bill to ban children under 16 from using social media platforms. The government argues that these apps negatively affect children's mental health, sleep, and education. Under the proposal, companies like TikTok and Instagram would face large fines for failing to verify user ages. However, the bill faces strong opposition from coalition partners who doubt its effectiveness. Other countries, including Australia, have already implemented similar restrictions with mixed results."
       }
     ]
   },
@@ -120,54 +109,54 @@
     {
       "id": "q1",
       "type": "detail",
-      "question": "According to the article, which of the following is a specific change Meta has agreed to implement for users under 18?",
+      "question": "According to the article, what is one specific action Meta has agreed to take as part of the settlement?",
       "options": {
-        "A": "Completely banning all users under 13 from accessing the platforms.",
-        "B": "Disabling notifications during the hours when students are typically in school.",
-        "C": "Requiring parental consent for every post made by a teenager.",
-        "D": "Removing all algorithms from their platforms for all age groups."
+        "A": "Banning all users under the age of 16 from its platforms.",
+        "B": "Implementing new tools that allow parents to manage their children's accounts.",
+        "C": "Admitting that it intentionally caused harm to young users in the past.",
+        "D": "Shutting down Facebook and Instagram in countries outside the United States."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。根據文章第三段，Meta 同意在學校上課時間停止發送通知（stopping notifications during school hours）。選項 A 錯誤，文中提到的是未經父母許可收集 13 歲以下兒童資料違法，而非全面禁止使用。選項 C 文中未提及。選項 D 錯誤，文中僅提到提供『非個人化動態牆』選項，而非移除所有演算法。"
+      "explanationZh": "正確答案為 B。文章第一段明確指出，Meta 同意引入多項安全措施，其中包括「new tools for parents to manage their children's accounts」。選項 A 錯誤，因為文中提到的是時間限制而非全面禁止；選項 C 錯誤，因為第二段明確提到 Meta 並未承認任何不當行為；選項 D 錯誤，因為文中並未提到要關閉平台，僅提到安全措施目前適用於美國兒童。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "What can be inferred about Meta’s attitude toward the new safety rules they have agreed to?",
+      "question": "Why does Meta want other social media platforms like TikTok and YouTube to adopt the same safety measures?",
       "options": {
-        "A": "They believe these rules will solve the problem of teenage mental health entirely.",
-        "B": "They feel that these rules are unfair and plan to appeal the court's decision.",
-        "C": "They believe that the effectiveness of these rules is limited unless other tech companies adopt them.",
-        "D": "They admit that their previous designs were intentionally harmful to children."
+        "A": "Because Meta wants to help its competitors improve their user experience.",
+        "B": "Because Meta believes that sharing safety technology will increase its own profits.",
+        "C": "Because Meta wants to prevent users from simply switching to other apps to avoid restrictions.",
+        "D": "Because Meta is legally required by the US government to force its rivals to comply."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。根據第六段，Meta 的法律長強調這些規則的成功取決於整個產業，並呼籲 TikTok 等競爭對手跟進，因為青少年會在不同應用程式間切換。選項 A 過於誇大；選項 B 與文中提到的『同意做出重大改變』不符；選項 D 錯誤，因為 Meta 在整個過程中始終否認有任何不法行為。"
+      "explanationZh": "正確答案為 C。根據第五段，Meta 提到當青少年在一個應用程式上受到限制時，他們會轉移到另一個平台。因此，Meta 主張所有平台都應採取相同標準，以維持「公平競爭環境」（level playing field），避免用戶流失。選項 A 與 B 與文章內容無關；選項 D 錯誤，因為文中並未提到法律強制 Meta 去規範競爭對手，這只是 Meta 的商業策略考量。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the final paragraph, the term 'public nuisance' is used to describe Meta’s platforms. What does this term imply in this context?",
+      "question": "In the second paragraph, what does the phrase 'writing on the wall' most likely mean?",
       "options": {
-        "A": "The platforms are considered a source of annoyance or harm to the community.",
-        "B": "The platforms are physically blocking public roads and spaces.",
-        "C": "The platforms have become too expensive for the general public to use.",
-        "D": "The platforms are being shut down by the government for being too popular."
+        "A": "A clear sign that something negative or inevitable is going to happen.",
+        "B": "A literal message written by regulators on the walls of Meta's headquarters.",
+        "C": "The official legal documents filed by the US government against the company.",
+        "D": "A secret agreement between Meta and the media to control public opinion."
       },
       "correct": "A",
-      "explanationZh": "正確答案為 A。在法律語境中，'public nuisance' 指的是對公眾健康、安全或福祉造成干擾或損害的行為。文中新墨西哥州的法官以此形容 Meta，意指其平台對社會造成了危害。選項 B 是字面上的誤解；選項 C 與費用無關；選項 D 雖然提到法律挑戰，但並非該詞彙的定義。"
+      "explanationZh": "正確答案為 A。「Writing on the wall」是一個慣用語，意指「不祥之兆」或「即將發生災難的明顯跡象」。在文中，這指的是 Meta 意識到若不和解，將面臨漫長且昂貴的法律訴訟，因此選擇妥協。選項 B 是字面錯誤理解；選項 C 與 D 皆與該片語的隱喻含義不符，無法正確解釋 Meta 當時的決策心態。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "What is the primary focus of this article?",
+      "question": "What is the primary message of this article regarding the settlement?",
       "options": {
-        "A": "A detailed history of how Facebook and Instagram were first created.",
-        "B": "A report on how much money Meta has lost due to falling stock prices.",
-        "C": "The legal consequences Meta faces regarding its impact on young users and the resulting platform changes.",
-        "D": "A comparison between the safety features of TikTok, YouTube, and Meta's platforms."
+        "A": "The settlement proves that Meta is the only company responsible for online harm.",
+        "B": "The settlement marks a significant shift in how governments regulate tech firms to prioritize child safety.",
+        "C": "The settlement will immediately make the internet perfectly safe for children around the world.",
+        "D": "The settlement is a minor event that will have little impact on the future of social media."
       },
-      "correct": "C",
-      "explanationZh": "正確答案為 C。整篇文章的核心在於 Meta 與多州達成的法律和解，以及為了回應關於青少年心理健康與安全問題，Meta 被迫對平台進行的調整。選項 A 與文章主題無關；選項 B 文中未討論股價；選項 D 雖然提到其他平台，但僅作為呼籲產業跟進的背景，並非文章主旨。"
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第六段與第七段總結指出，這次和解象徵政府對大型科技公司監管方式的重大轉變，且將兒童安全視為監管機構與科技業的首要任務。選項 A 過於絕對，文中並未指責 Meta 為唯一責任者；選項 C 錯誤，因為文章最後提到這些措施的成效仍有待觀察；選項 D 錯誤，因為文章強調這可能引發整個產業的「清算」（reckoning），影響深遠。"
     }
   ],
   "aiGenerated": true,

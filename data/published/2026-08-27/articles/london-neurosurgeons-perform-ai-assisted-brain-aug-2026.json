@@ -1,0 +1,170 @@
+{
+  "id": "2026-08-27-london-neurosurgeons-perform-ai-assisted-brain",
+  "slug": "london-neurosurgeons-perform-ai-assisted-brain-aug-2026",
+  "publishedAt": "2026-08-27T22:14:11.034927Z",
+  "category": "technology",
+  "title": "Medical Milestone: London Surgeons Use AI to Save Patient's Sight",
+  "subtitle": "A breakthrough operation in London marks the first time artificial intelligence has guided a surgeon during a live brain procedure.",
+  "summary": {
+    "en": "Neurosurgeons in London have successfully completed the world's first AI-assisted brain tumour removal. The patient, Rhys Hibbert, faced potential blindness due to a growth on his pituitary gland. A new AI tool provided real-time guidance by identifying critical nerves and blood vessels during the surgery. This technology helps surgeons navigate complex anatomy that is often hidden from view. Experts believe this innovation could significantly improve patient safety in delicate operations.",
+    "zh": "倫敦的神經外科醫師成功完成了全球首例人工智慧輔助的腦部腫瘤切除手術。病患希伯特因腦下垂體腫瘤面臨失明風險。一套全新的人工智慧工具在手術中透過識別關鍵神經與血管，提供了即時導航。這項技術能協助醫師處理通常難以看清的複雜解剖結構。專家認為，此項創新有望在精細手術中顯著提升病患安全。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "In a significant medical breakthrough, neurosurgeons in London have successfully performed the world’s first operation using live artificial intelligence (AI) assistance to remove a brain tumour. The procedure, which took place at the National Hospital for Neurology and Neurosurgery, has been hailed as a major step forward in surgical technology. According to BBC Health and The Guardian, the patient, 48-year-old Rhys Hibbert, has made a full recovery and has already returned to his job as a customer service manager.",
+      "zh": "在醫學領域的一項重大突破中，倫敦的神經外科醫師成功執行了全球首例運用即時人工智慧（AI）輔助的腦部腫瘤切除手術。這項手術在國家神經學與神經外科醫院（National Hospital for Neurology and Neurosurgery）進行，被譽為外科技術向前邁進的一大步。根據英國廣播公司健康頻道（BBC Health）與衛報（The Guardian）報導，四十八歲的病患希伯特（Rhys Hibbert）已完全康復，並已重返工作崗位，擔任客戶服務經理。"
+    },
+    {
+      "id": "p2",
+      "en": "Mr. Hibbert, a father-of-two from Bedfordshire, was diagnosed with an 11mm non-cancerous tumour on his pituitary gland in 2024. The pituitary gland is a small organ at the base of the skull that controls vital hormones. Because this gland sits very close to the carotid arteries—the main blood vessels supplying the brain—and the optic nerves that control vision, the surgery was extremely delicate. Before the operation, doctors warned that even a one-millimetre mistake could lead to serious consequences, including blindness, stroke, or death.",
+      "zh": "來自貝德福郡（Bedfordshire）、育有兩名子女的希伯特先生，於二〇二四年被診斷出腦下垂體長有一顆十一毫米的良性腫瘤。腦下垂體是位於顱底的一個小型器官，負責控制人體重要的荷爾蒙。由於該腺體緊鄰供應大腦血液的主要血管——頸動脈，以及控制視覺的視神經，因此手術過程極為精細。術前醫師曾警告，即便只有一毫米的誤差，都可能導致嚴重的後果，包括失明、中風甚至死亡。"
+    },
+    {
+      "id": "p3",
+      "en": "As reported by BBC Health, Mr. Hibbert’s condition had caused him to feel severely tired and dizzy, and he had begun to trip over objects as his vision worsened. When surgeons offered him the chance to be the first patient to undergo this AI-assisted procedure, he agreed without hesitation. He explained that he wanted to contribute to medical progress, noting that if patients do not participate in research, medicine cannot move forward.",
+      "zh": "根據英國廣播公司健康頻道報導，希伯特的病情曾讓他感到極度疲憊與暈眩，且隨著視力惡化，他開始會被物體絆倒。當外科醫師詢問他是否願意成為首位接受此類人工智慧輔助手術的病患時，他毫不猶豫地答應了。他表示自己希望能為醫學進步做出貢獻，並指出如果病患不參與研究，醫學就無法向前發展。"
+    },
+    {
+      "id": "p4",
+      "en": "The surgery involved inserting an endoscope, which is a thin camera on a stick, through the nose to reach the base of the skull. During the procedure, the AI system acted as a digital guide. It analysed a live video feed from the endoscope and displayed information on a second screen. Similar to facial recognition software on a smartphone, the AI identified important anatomical structures, such as nerves and vessels, and colour-coded them to show the safest areas for the surgeons to work. This provided a level of clarity that is often difficult to achieve, as human anatomy can vary significantly from person to person.",
+      "zh": "手術過程涉及將內視鏡（一種頂端裝有微型攝影機的細長管狀儀器）經由鼻腔伸入，以抵達顱底。手術期間，人工智慧系統扮演了數位導航的角色。它分析來自內視鏡的即時影像，並將資訊顯示在第二個螢幕上。如同智慧型手機上的人臉辨識軟體，人工智慧能識別出重要的解剖結構，例如神經與血管，並以顏色標記，顯示出醫師操作時最安全的區域。這提供了通常難以達到的清晰度，因為人體的解剖構造在每個人身上都可能存在顯著差異。"
+    },
+    {
+      "id": "p5",
+      "en": "Dr. Sophia Bano, the technical lead for the AI system at University College London, explained that the tool was trained on hundreds of surgical videos. By watching these examples, the system learned to recognise critical structures and tissue interactions in real time. This exposure gives the AI a breadth of experience that would take a human surgeon many years to acquire. The technology is designed to support, not replace, the surgical team, who remained in full control throughout the entire process.",
+      "zh": "倫敦大學學院（University College London）該人工智慧系統的技術負責人巴諾博士（Dr. Sophia Bano）解釋，此工具是透過數百部手術影片進行訓練的。透過觀看這些範例，系統學會了即時辨識關鍵結構與組織間的互動。這種接觸讓人工智慧擁有了人類外科醫師需要多年才能累積的廣泛經驗。該技術旨在輔助而非取代手術團隊，整個過程中，醫療團隊始終保持完全的掌控權。"
+    },
+    {
+      "id": "p6",
+      "en": "This operation follows previous reporting on the development of this technology, which was funded by the National Institute for Health and Care Research as part of a clinical trial. Prof. Mike Lewis, the scientific director for innovation at the institute, stated that the procedure highlights the massive potential of advanced AI to support surgeons and improve overall patient care. For the average surgeon, who might perform only 10 to 20 of these specific operations per year, having this extra layer of digital support could prove invaluable.",
+      "zh": "這項手術延續了先前關於該技術研發的報導，該研發由國家健康與護理研究中心（National Institute for Health and Care Research）資助，作為臨床試驗的一部分。該中心創新科學主任路易斯教授（Prof. Mike Lewis）表示，這項手術凸顯了先進人工智慧在輔助外科醫師及提升整體病患照護方面的巨大潛力。對於平均每年僅執行十至二十例此類特定手術的一般外科醫師而言，擁有這層額外的數位支援將極具價值。"
+    },
+    {
+      "id": "p7",
+      "en": "For Mr. Hibbert, the results were life-changing. After the surgery, he reported that he could see clearly and was able to walk independently within just one week. He expressed his pride in being part of the history of the National Hospital for Neurology and Neurosurgery, which was founded in 1859 as the world’s first dedicated neurosurgical hospital. He noted that it felt fitting for the same institution to lead the way in this new era of AI-assisted medicine.",
+      "zh": "對希伯特先生而言，手術結果改變了他的人生。術後他表示自己能看得清楚，且僅在一週內就能獨立行走。他對於能參與國家神經學與神經外科醫院的歷史感到自豪，該院成立於一八五九年，是全球首間專門的神經外科醫院。他認為，由同一間機構引領人工智慧輔助醫學的新時代，顯得格外合適。"
+    },
+    {
+      "id": "p8",
+      "en": "While this is the first time the system has been used on a patient, the hospital had previously used the technology as a research tool. As medical teams continue to evaluate the success of this operation, the focus will likely shift toward how this AI can be applied to other complex surgeries. By helping surgeons navigate the hidden \"road signs\" inside the human head, this technology offers a promising future for safer, more precise medical care.",
+      "zh": "雖然這是該系統首次應用於病患身上，但醫院先前已將此技術作為研究工具使用。隨著醫療團隊持續評估手術的成功經驗，未來的重點可能會轉向如何將此人工智慧應用於其他複雜的手術。透過協助外科醫師辨識人體內部隱藏的「路標」，這項技術為更安全、更精準的醫療照護提供了充滿希望的未來。"
+    }
+  ],
+  "wordCount": 724,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "hailed",
+      "definitionEn": "To praise or describe someone or something as being very good or successful.",
+      "definitionZh": "稱讚、譽為、被推崇為。",
+      "partOfSpeech": "verb (past participle)",
+      "noteZh": "常見作名詞（冰雹），這裡作為動詞，表示公開讚揚。文中：The procedure, which took place at the National Hospital for Neurology and Neurosurgery, has been hailed as a major step forward in surgical technology."
+    },
+    {
+      "term": "trip over",
+      "definitionEn": "To hit your foot against something while you are walking and fall or nearly fall.",
+      "definitionZh": "絆倒。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這是常見的片語，但在這裡描述病患因視力惡化而導致的身體狀況。文中：As reported by BBC Health, Mr. Hibbert’s condition had caused him to feel severely tired and dizzy, and he had begun to trip over objects as his vision worsened."
+    },
+    {
+      "term": "lead the way",
+      "definitionEn": "To be the first to do something or to show others how to do something.",
+      "definitionZh": "帶頭、引領潮流、開創先河。",
+      "partOfSpeech": "idiom",
+      "noteZh": "字面意思是「帶路」，但在這裡指在某個領域中成為先驅。文中：He noted that it felt fitting for the same institution to lead the way in this new era of AI-assisted medicine."
+    },
+    {
+      "term": "shift",
+      "definitionEn": "To move or change from one position or direction to another.",
+      "definitionZh": "轉移、改變（焦點或方向）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（輪班、轉變），這裡作動詞，表示注意力的轉移。文中：As medical teams continue to evaluate the success of this operation, the focus will likely shift toward how this AI can be applied to other complex surgeries."
+    }
+  ],
+  "sources": [
+    {
+      "name": "BBC Health",
+      "url": "https://www.bbc.co.uk/news/articles/cjwg5n7y68xo?at_medium=RSS&at_campaign=rss",
+      "title": "World's first patient to undergo live AI-assisted brain surgery has tumour removed",
+      "publishedAt": "2026-08-26T23:07:22Z"
+    },
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/2026/aug/27/london-neurosurgeons-ai-assisted-operation-brain-tumour",
+      "title": "London neurosurgeons perform first successful AI-assisted operation to remove brain tumour",
+      "publishedAt": "2026-08-26T23:01:25Z"
+    }
+  ],
+  "story": {
+    "id": "ai-assisted-brain-surgery-breakthrough",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "ai-assisted-brain-surgery-breakthrough-aug-2026",
+        "title": "New AI Tool Helps Surgeons Perform Life-Saving Brain Surgery",
+        "publishedAt": "2026-08-27T03:17:24.884699Z",
+        "category": "technology",
+        "summaryEn": "Doctors in London have successfully used a new artificial intelligence tool during a brain surgery. The patient, 48-year-old Rhys Hibbert, had a tumour on his pituitary gland that threatened his vision. The AI system analyzed live video during the operation to help surgeons identify hidden nerves and blood vessels. This technology acts like a guide, showing doctors where it is safest to work inside the brain. Experts believe this breakthrough could improve patient safety and help surgeons perform delicate procedures more accurately."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What specific role did the AI system play during Rhys Hibbert's surgery?",
+      "options": {
+        "A": "It automatically removed the tumour using robotic arms.",
+        "B": "It provided a colour-coded visual guide of anatomical structures on a screen.",
+        "C": "It replaced the need for the surgical team to use an endoscope.",
+        "D": "It calculated the exact size of the tumour to determine if it was cancerous."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第四段明確指出，AI 系統透過分析內視鏡的即時影像，將神經與血管等重要結構以顏色標記在螢幕上，協助醫師辨識安全區域。選項 A 錯誤，因為 AI 是輔助而非自動執行手術；選項 C 錯誤，因為內視鏡仍由醫師操作；選項 D 錯誤，文章提到腫瘤是 11mm 非癌性，但 AI 的功能是導航而非診斷腫瘤性質。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, why might this AI technology be particularly beneficial for surgeons who perform this procedure infrequently?",
+      "options": {
+        "A": "It allows them to perform the surgery much faster than experienced specialists.",
+        "B": "It eliminates the need for surgeons to undergo years of medical training.",
+        "C": "It compensates for their lack of high-volume practice by providing a vast database of surgical experience.",
+        "D": "It ensures that the surgeon does not need to be physically present in the operating room."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。第六段提到，一般的醫師一年可能只進行 10 到 20 次此類手術，而第五段提到 AI 學習了數百段手術影片，具備人類醫師難以在短時間內累積的廣泛經驗。因此，AI 能彌補手術量較少的醫師在臨床經驗上的不足。選項 A、B 與 D 皆未提及或與文章強調的「輔助而非取代」原則相違背。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the author mean by the 'road signs' inside the human head?",
+      "options": {
+        "A": "Physical markers left by previous surgeons.",
+        "B": "Digital indicators for traffic control.",
+        "C": "Important anatomical structures like nerves and blood vessels.",
+        "D": "Warning signals that the patient is in danger."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。在文章脈絡中，「road signs」（路標）是一個隱喻，指代手術過程中需要避開或辨識的關鍵解剖結構（如神經與血管）。這呼應了第四段提到的 AI 顏色標記功能。選項 A 是錯誤的解讀；選項 B 將比喻過度字面化；選項 D 雖然在手術中有警示作用，但「road signs」在此處更精確地指代解剖構造的導航標記。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of this article?",
+      "options": {
+        "A": "The National Hospital for Neurology and Neurosurgery is the only hospital capable of performing AI-assisted surgery.",
+        "B": "AI technology is rapidly replacing human neurosurgeons in complex medical procedures.",
+        "C": "Rhys Hibbert’s personal recovery is the main reason for the development of new AI surgical tools.",
+        "D": "AI-assisted surgery represents a significant, safe, and promising advancement in medical technology."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。文章開頭即定調為「重大醫療突破」，隨後透過 Rhys Hibbert 的成功案例、AI 的運作原理以及專家的正面評價，強調了這項技術在提升手術精確度與安全性方面的潛力。選項 A 錯誤，文章未稱該院為唯一；選項 B 錯誤，文章強調 AI 是輔助而非取代；選項 C 錯誤，病人康復是結果而非開發技術的主因。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
