@@ -1,0 +1,156 @@
+{
+  "id": "2026-08-28-federal-court-rules-anthropic-blacklisting-illegal",
+  "slug": "federal-court-rules-anthropic-blacklisting-illegal-aug-2026",
+  "publishedAt": "2026-08-28T22:14:11.657858Z",
+  "category": "technology",
+  "title": "US Judge Rules Government Blacklisting of Anthropic Was Illegal",
+  "subtitle": "The court says the Trump administration used national security as an excuse to punish a company for its views.",
+  "summary": {
+    "en": "A federal judge has ruled that the Trump administration acted illegally by blacklisting the AI company Anthropic. The government labeled the firm a security risk after it refused to allow its technology to be used for lethal weapons or mass surveillance. Judge Rita Lin stated that the government cannot use national security as a reason to punish its critics. The ruling permanently stops the government from enforcing its ban against the company. Anthropic continues to face other legal challenges, but this decision is a major victory for the firm.",
+    "zh": "一位聯邦法官裁定，川普政府將人工智慧公司 Anthropic 列入黑名單的行為違法。該公司因拒絕讓其技術被用於致命武器或大規模監控，而被政府標記為安全風險。琳恩法官指出，政府不能以國家安全為由懲罰批評者。這項裁決永久禁止政府對該公司執行禁令。儘管 Anthropic 仍面臨其他法律挑戰，但這項判決對該公司而言是一場重大勝利。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "A federal judge in California has ruled that the Trump administration acted illegally when it blacklisted the artificial intelligence company Anthropic earlier this year. According to The Guardian, Judge Rita Lin decided that the government’s actions were an unlawful attempt to punish the company for refusing to follow defense department demands. The ruling permanently stops federal agencies from enforcing a ban that would have prevented them from doing business with the AI firm.",
+      "zh": "加州的一位聯邦法官裁定，川普政府今年稍早將人工智慧公司 Anthropic 列入黑名單的行為違法。根據《衛報》（The Guardian）報導，法官琳恩（Rita Lin）認定政府的行動是為了懲罰該公司拒絕配合國防部要求，此舉並不合法。這項裁決永久禁止聯邦機構執行該禁令，該禁令原先會阻止這些機構與這家人工智慧公司進行業務往來。"
+    },
+    {
+      "id": "p2",
+      "en": "The conflict began when the Department of Defense, often referred to by the administration as the Department of War, asked AI companies to change their contracts. The government wanted the freedom to use AI tools for any purpose. Most companies agreed, but Anthropic refused. According to The Verge, Anthropic set clear limits, stating that its AI should not be used for lethal autonomous weapons—systems that can kill without human control—or for the mass surveillance of American citizens. Anthropic CEO Dario Amodei argued that in these specific cases, the technology could hurt democratic values rather than protect them.",
+      "zh": "這場衝突始於國防部（行政部門常稱其為戰爭部）要求人工智慧公司修改合約。政府希望擁有自由使用人工智慧工具進行任何目的的權限。大多數公司表示同意，但 Anthropic 拒絕了。根據《The Verge》報導，Anthropic 設定了明確的界線，聲明其人工智慧不應被用於致命性自主武器（即無需人類控制即可殺人的系統），也不應用於對美國公民進行大規模監控。Anthropic 執行長阿莫代（Dario Amodei）主張，在這些特定情況下，這項技術可能會損害而非保護民主價值。"
+    },
+    {
+      "id": "p3",
+      "en": "Following this refusal, the Pentagon accused Anthropic of being difficult and uncooperative. The Trump administration then officially labeled Anthropic as a “supply chain risk.” This classification is typically used for foreign companies that might threaten national security, such as by allowing foreign governments to sabotage military systems. By using this label, the government effectively blocked Anthropic from working with any federal agencies or defense contractors. Ars Technica reports that the government also signed new deals with seven other AI companies, including Google, Microsoft, and OpenAI, to replace Anthropic’s services.",
+      "zh": "在遭到拒絕後，五角大廈指責 Anthropic 態度強硬且不願合作。川普政府隨後正式將 Anthropic 標記為「供應鏈風險」。這種分類通常用於可能威脅國家安全的外國公司，例如允許外國政府破壞軍事系統。透過使用這個標籤，政府有效地封鎖了 Anthropic 與任何聯邦機構或國防承包商的合作。根據《Ars Technica》報導，政府還與包括 Google、微軟（Microsoft）和 OpenAI 在內的其他七家人工智慧公司簽署了新合約，以取代 Anthropic 的服務。"
+    },
+    {
+      "id": "p4",
+      "en": "In her 59-page decision, Judge Lin was very critical of the government’s reasoning. She noted that the Trump administration provided only weak evidence to support its claims. The government had originally suggested that Anthropic’s software might contain “backdoor” access for hackers, but they later admitted this was not true. Judge Lin wrote that the government’s decision was “arbitrary and capricious,” meaning it was based on personal feelings rather than facts. She famously stated, “The empty invocation of national security is not a blank check to punish and retaliate against government critics.”",
+      "zh": "在長達 59 頁的判決書中，琳恩法官對政府的理由提出了嚴厲批評。她指出，川普政府僅提供了薄弱的證據來支持其主張。政府最初暗示 Anthropic 的軟體可能包含駭客的「後門」存取權，但隨後承認這並非事實。琳恩法官寫道，政府的決定是「武斷且反覆無常的」，意味著這是基於個人情緒而非事實。她有一句名言：「空洞地援引國家安全，並非懲罰與報復政府批評者的空白支票。」"
+    },
+    {
+      "id": "p5",
+      "en": "According to The Guardian, the judge found that the government’s actions violated the First Amendment of the US Constitution, which protects free speech. The court records showed that the Pentagon decided to label the company a risk partly because of Anthropic’s “hostile manner through the press.” Judge Lin concluded that punishing a company for its public views is a clear violation of the law. She emphasized that while the Department of War has the right to choose which companies it wants to work with, it cannot use its power to unfairly target a business for disagreeing with government policy.",
+      "zh": "根據《衛報》報導，法官發現政府的行為違反了美國憲法第一修正案，該修正案保障言論自由。法庭紀錄顯示，五角大廈決定將該公司標記為風險，部分原因是 Anthropic 「透過媒體表現出的敵對態度」。琳恩法官總結稱，因公司的公開觀點而進行懲罰，顯然違反了法律。她強調，雖然戰爭部有權選擇合作對象，但不能利用其權力，針對不認同政府政策的企業進行不公平的打壓。"
+    },
+    {
+      "id": "p6",
+      "en": "This legal victory is important for Anthropic as it prepares for an initial public offering (IPO)—the process of selling shares of a company to the public for the first time. The company had warned that the government’s blacklisting could have cost it billions of dollars and damaged its business model. An Anthropic spokesperson said in a statement that the company welcomes the ruling and remains focused on working with the government to use AI in ways that benefit all Americans.",
+      "zh": "這場法律勝利對於正準備進行首次公開募股（IPO）的 Anthropic 來說至關重要。該公司曾警告，政府的黑名單可能會使其損失數十億美元，並損害其商業模式。Anthropic 的發言人在聲明中表示，公司歡迎這項裁決，並將持續致力於與政府合作，以造福所有美國人的方式運用人工智慧。"
+    },
+    {
+      "id": "p7",
+      "en": "Despite this win, the company is not completely free of legal trouble. The Verge reports that a second lawsuit is still ongoing in Washington DC. This case will be heard by a panel of three judges, and some of them have previously shown doubt about Anthropic’s arguments. Because of this, the government may still decide to appeal Judge Lin’s current ruling. For now, however, the court has made it clear that the government cannot use national security as a weapon to silence companies that refuse to follow its rules on AI safety.",
+      "zh": "儘管贏得了這場勝利，該公司並未完全擺脫法律糾紛。《The Verge》報導稱，華盛頓特區仍有第二起訴訟正在進行中。該案件將由三名法官組成的合議庭審理，其中一些法官先前曾對 Anthropic 的論點表示懷疑。因此，政府仍可能決定對琳恩法官目前的裁決提出上訴。然而，目前法院已明確表示，政府不能將國家安全作為武器，來噤聲那些拒絕遵守其人工智慧安全規則的公司。"
+    }
+  ],
+  "wordCount": 682,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "blocked",
+      "definitionEn": "To prevent someone from doing something or from accessing something.",
+      "definitionZh": "阻擋、禁止。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（街區），這裡作動詞用。文中：By using this label, the government effectively blocked Anthropic from working with any federal agencies or defense contractors."
+    },
+    {
+      "term": "blank check",
+      "definitionEn": "Complete freedom to do whatever one wants.",
+      "definitionZh": "空白支票（比喻給予完全的自由或權力）。",
+      "partOfSpeech": "idiom",
+      "noteZh": "字面意思是銀行支票，這裡比喻不受限制的權力。文中：The empty invocation of national security is not a blank check to punish and retaliate against government critics."
+    },
+    {
+      "term": "target",
+      "definitionEn": "To choose someone or something as the object of an attack or criticism.",
+      "definitionZh": "鎖定、針對。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（目標），這裡作動詞用。文中：it cannot use its power to unfairly target a business for disagreeing with government policy."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/2026/aug/28/us-court-rules-pentagon-anthropic-ban-illegal-trump-claude-ai",
+      "title": "Pentagon’s blacklisting of Anthropic was unlawful, US judge rules",
+      "publishedAt": "2026-08-28T03:34:35Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+      "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+      "publishedAt": "2026-08-28T18:07:55Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+      "publishedAt": "2026-08-28T03:14:06Z"
+    }
+  ],
+  "story": {
+    "id": "federal-court-rules-anthropic-blacklisting-illegal",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What specific reason did the government initially provide to justify labeling Anthropic as a 'supply chain risk'?",
+      "options": {
+        "A": "They claimed Anthropic was secretly sharing data with foreign governments.",
+        "B": "They alleged that the company's software contained potential security vulnerabilities for hackers.",
+        "C": "They argued that Anthropic was failing to meet the technical standards required for military contracts.",
+        "D": "They stated that Anthropic’s public criticism of the administration made them unreliable."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第四段，政府最初指控 Anthropic 的軟體可能包含駭客可以利用的「後門」（backdoor access），雖然後來承認這並非事實。選項 A 錯誤，文中提到這種標籤通常用於外國公司，但並未指控 Anthropic 與外國政府勾結。選項 C 錯誤，雖然政府想更改合約，但並非因技術標準問題而貼標籤。選項 D 錯誤，這是法院後來發現的真實動機，而非政府最初對外宣稱的理由。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, what can be inferred about the relationship between the Pentagon and AI companies?",
+      "options": {
+        "A": "The Pentagon prefers working with smaller AI firms that have fewer ethical restrictions.",
+        "B": "The Pentagon is willing to overlook security risks if a company agrees to their contract terms.",
+        "C": "The Pentagon views AI companies as essential partners but expects them to prioritize military needs over their own ethical policies.",
+        "D": "The Pentagon has successfully replaced all of its previous AI contractors with more compliant alternatives."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。從第二段與第三段可推論，國防部要求 AI 公司更改合約以獲得使用 AI 的自由，且在 Anthropic 拒絕後，隨即轉向與其他七家公司簽約。這顯示國防部極度渴望 AI 技術，但要求公司必須配合其軍事需求。選項 A 無法由文中證實。選項 B 錯誤，文中並未提到國防部會忽視安全風險。選項 D 錯誤，文中僅提到他們簽了新合約，並未表示所有舊合約皆已完全替換或成功。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fourth paragraph, what does the phrase 'blank check' most likely mean?",
+      "options": {
+        "A": "An unlimited amount of money provided to a government agency.",
+        "B": "A legal document that grants someone total freedom to act without restriction.",
+        "C": "A formal apology issued by a court to a company.",
+        "D": "A specific set of rules that must be followed during a national emergency."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在文中，法官說「國家安全不是懲罰批評者的空白支票（blank check）」，意指政府不能僅以國家安全為藉口，就隨意行使權力而不受法律約束。選項 A 是字面上的金融解釋，但在這裡是非比喻用法。選項 C 與 D 皆與文中提到的法律權力概念無關。此處的 blank check 象徵著一種不受限制的授權，法官強調政府的權力是有邊界的。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of this article?",
+      "options": {
+        "A": "The US government is successfully updating its military technology through new AI partnerships.",
+        "B": "Anthropic is likely to win all of its ongoing legal battles regarding AI safety.",
+        "C": "A federal court ruled that the government cannot use national security claims to retaliate against companies for their political stances.",
+        "D": "The First Amendment of the US Constitution is the only law that protects AI companies from government overreach."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。本文的核心在於報導加州聯邦法官對 Anthropic 案的裁決，強調政府不得以國家安全為藉口，懲罰與政府意見相左的企業，這涉及憲法保障的言論自由。選項 A 只是背景資訊，非文章主旨。選項 B 過於樂觀，文中提到華盛頓特區還有另一場官司。選項 D 錯誤，文中提到該裁決是基於多項理由，且法律保護的範疇不限於第一修正案。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
