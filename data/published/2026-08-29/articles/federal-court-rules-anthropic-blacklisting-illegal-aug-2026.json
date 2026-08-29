@@ -1,0 +1,159 @@
+{
+  "id": "2026-08-29-federal-court-rules-anthropic-blacklisting-illegal",
+  "slug": "federal-court-rules-anthropic-blacklisting-illegal-aug-2026",
+  "publishedAt": "2026-08-29T03:42:32.642534Z",
+  "category": "technology",
+  "title": "Federal Judge Rules Trump Administration's Blacklisting of Anthropic Illegal",
+  "subtitle": "The court finds that the government used national security as an excuse to punish the AI company for its ethical policies.",
+  "summary": {
+    "en": "A federal judge has ruled that the Trump administration acted illegally by blacklisting the AI company Anthropic. The government had labeled the firm a security risk after it refused to allow its technology to be used for lethal weapons or mass surveillance. Judge Rita Lin stated that the government's actions were a form of unlawful retaliation. The court ordered the administration to cancel its directives against the company. This ruling highlights the legal limits of using national security to punish private businesses.",
+    "zh": "一位聯邦法官裁定，川普政府將人工智慧公司 Anthropic 列入黑名單的行為違法。該公司因拒絕讓其技術被用於致命性武器或大規模監控，而被政府標記為安全風險。法官麗塔·林指出，政府的行為屬於非法報復，並下令政府撤銷針對該公司的指令。這項裁決凸顯了以國家安全為由懲罰私人企業在法律上的界限。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "A federal judge has issued a significant ruling against the Trump administration regarding its treatment of the artificial intelligence company, Anthropic. In a decision released this week, Judge Rita Lin of the US District Court for the Northern District of California declared that the government’s decision to blacklist the company was illegal. This ruling serves as a major update to ongoing legal battles between the tech firm and federal officials.",
+      "zh": "一位聯邦法官針對川普政府對待人工智慧公司 Anthropic 的方式，做出了一項重大裁決。本週發布的判決中，美國加州北區聯邦地方法院的法官麗塔·林（Rita Lin）宣告，政府將該公司列入黑名單的決定屬於違法。這項裁決為該科技公司與聯邦官員之間持續進行的法律戰，帶來了重大的進展。"
+    },
+    {
+      "id": "p2",
+      "en": "According to Ars Technica, the conflict began when the Trump administration designated Anthropic as a supply-chain risk to national security. This label effectively banned the company from working with federal agencies and defense contractors. However, the court found that this designation was not based on genuine security threats. Instead, the ruling suggests that the government was retaliating against the company because Anthropic refused to change its policies. Specifically, the company would not allow its AI technology to be used for lethal autonomous weapons—machines that can choose and attack targets without human help—or for the mass surveillance of American citizens.",
+      "zh": "根據科技新聞網站 Ars Technica 報導，這場衝突始於川普政府將 Anthropic 指定為國家安全的供應鏈風險。此標籤實際上禁止了該公司與聯邦機構及國防承包商進行合作。然而，法院發現這項指定並非基於真正的安全威脅。相反地，裁決指出政府是因為 Anthropic 拒絕改變其政策而進行報復。具體而言，該公司不願讓其人工智慧技術被用於致命性自主武器（即無需人類協助即可選擇並攻擊目標的機器），也不願用於對美國公民進行大規模監控。"
+    },
+    {
+      "id": "p3",
+      "en": "Judge Lin was very clear in her written order. She noted that the Trump administration and Defense Secretary Pete Hegseth had ordered all federal agencies to stop using Anthropic’s products. Furthermore, they banned defense contractors from doing any business with the firm, even for projects that had nothing to do with the military. In her decision, Judge Lin granted key parts of Anthropic’s motion for summary judgment, which is a legal request to decide a case without a full trial because the facts are clear. She ordered the administration to cancel these illegal directives immediately.",
+      "zh": "林法官在書面命令中表達得非常明確。她指出，川普政府與國防部長赫格塞斯（Pete Hegseth）曾下令所有聯邦機構停止使用 Anthropic 的產品。此外，他們還禁止國防承包商與該公司進行任何業務往來，即便是在與軍事完全無關的專案上也是如此。在判決中，林法官批准了 Anthropic 簡易判決聲請中的關鍵部分，這是一種在事實明確的情況下，請求法院無需經過完整審判即做出裁決的法律程序。她下令政府必須立即撤銷這些違法指令。"
+    },
+    {
+      "id": "p4",
+      "en": "One of the most important parts of the ruling focuses on the government’s use of the term \"national security.\" Ars Technica reports that Judge Lin wrote that while the Department of War—the name the Trump administration uses for the Department of Defense—is allowed to choose which technology vendors it works with, it cannot use national security as a \"blank check.\" A blank check in this context means an unlimited power to do whatever one wants. The judge argued that the government cannot use national security as an excuse to punish companies that disagree with or criticize government policies.",
+      "zh": "該裁決最重要的一部分，聚焦於政府對「國家安全」一詞的使用。Ars Technica 報導稱，林法官寫道，雖然戰爭部（即川普政府對國防部的稱呼）有權選擇合作的技術供應商，但不能將國家安全當作一張「空白支票」。在此語境下，空白支票意指隨心所欲的無限權力。法官認為，政府不能以國家安全為藉口，來懲罰那些與政府政策意見不合或提出批評的公司。"
+    },
+    {
+      "id": "p5",
+      "en": "During the court proceedings, the Trump administration struggled to provide evidence for its claims. Judge Lin noted that the government provided only a \"slim\" or very weak justification for its actions. The administration had previously claimed that Anthropic’s technology posed a risk because the company might have \"backdoor access\" to its systems. A backdoor is a secret way to enter a computer system. However, the court found that Anthropic does not have such access. The government eventually admitted that Anthropic’s technology is no riskier than any other \"black box\" artificial intelligence model, which refers to complex AI systems where the internal decision-making process is difficult for humans to fully understand.",
+      "zh": "在法庭審理過程中，川普政府難以提出證據來支持其主張。林法官指出，政府對其行為僅提供了「薄弱」且缺乏說服力的理由。政府先前曾聲稱 Anthropic 的技術構成風險，因為該公司可能對其系統擁有「後門存取權」。後門是指進入電腦系統的秘密途徑。然而，法院發現 Anthropic 並無此類權限。政府最終承認，Anthropic 的技術並不比其他「黑箱」人工智慧模型更具風險，所謂黑箱是指複雜的人工智慧系統，其內部決策過程難以被人類完全理解。"
+    },
+    {
+      "id": "p6",
+      "en": "This ruling is a major victory for the company and raises important questions about the relationship between the government and private technology firms. By ruling that the government’s actions violated the First Amendment—the part of the US Constitution that protects free speech and the right to express opinions—the court has set a firm boundary. It suggests that federal agencies cannot force private companies to support specific military or surveillance goals by threatening their business operations.",
+      "zh": "這項裁決對該公司而言是一場重大勝利，並引發了關於政府與私人科技公司之間關係的重要議題。法院裁定政府的行為違反了美國憲法第一修正案（該條款保障言論自由與表達意見的權利），從而劃下了一道堅定的界線。這意味著聯邦機構不能透過威脅商業運作，來強迫私人公司支持特定的軍事或監控目標。"
+    },
+    {
+      "id": "p7",
+      "en": "As the administration is now required to rescind its previous orders, the future of Anthropic’s work with the federal government remains a topic of interest. For now, the court’s decision stands as a reminder that even in matters of national security, government actions must be based on facts rather than retaliation against those who hold different ethical views. The case highlights how legal systems in the United States act as a check on executive power, ensuring that government directives remain within the limits of the law.",
+      "zh": "由於政府現在必須撤銷先前的命令，Anthropic 與聯邦政府合作的未來仍備受關注。目前，法院的判決提醒了世人，即使在涉及國家安全的事務上，政府的行動也必須基於事實，而非針對持有不同道德觀點者進行報復。此案凸顯了美國法律體系如何制衡行政權，確保政府指令維持在法律允許的範圍之內。"
+    }
+  ],
+  "wordCount": 685,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "blacklist",
+      "definitionEn": "To put a person or company on a list of people or organizations that are not allowed to do something or are excluded from a group.",
+      "definitionZh": "將某人或某公司列入黑名單，禁止其參與特定活動或業務。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞，這裡作動詞使用，指政府禁止該公司與聯邦機構合作。文中：Judge Rita Lin of the US District Court for the Northern District of California declared that the government’s decision to blacklist the company was illegal."
+    },
+    {
+      "term": "summary judgment",
+      "definitionEn": "A court decision made without a full trial because the facts of the case are not in dispute.",
+      "definitionZh": "簡易判決；指法院在沒有經過完整審判程序的情況下，因事實明確而直接做出的裁決。",
+      "partOfSpeech": "noun (legal term)",
+      "noteZh": "這是法律專業術語，容易被誤解為「總結性的判斷」。文中：In her decision, Judge Lin granted key parts of Anthropic’s motion for summary judgment, which is a legal request to decide a case without a full trial because the facts are clear."
+    },
+    {
+      "term": "check",
+      "definitionEn": "A control or limit on someone's power to prevent them from acting unfairly or illegally.",
+      "definitionZh": "制衡；指對權力的限制，防止濫權。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（檢查）或名詞（支票），這裡指權力的制衡。文中：The case highlights how legal systems in the United States act as a check on executive power, ensuring that government directives remain within the limits of the law."
+    },
+    {
+      "term": "rescind",
+      "definitionEn": "To officially cancel or take back a law, order, or decision.",
+      "definitionZh": "撤銷、廢除（法律、命令或決定）。",
+      "partOfSpeech": "verb",
+      "noteZh": "這是較正式的法律與行政用語，容易與一般的 cancel 混淆。文中：As the administration is now required to rescind its previous orders, the future of Anthropic’s work with the federal government remains a topic of interest."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+      "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+      "publishedAt": "2026-08-28T18:07:55Z"
+    }
+  ],
+  "story": {
+    "id": "federal-court-rules-anthropic-blacklisting-illegal",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "federal-court-rules-anthropic-blacklisting-illegal-aug-2026",
+        "title": "US Judge Rules Government Blacklisting of Anthropic Was Illegal",
+        "publishedAt": "2026-08-28T22:14:11.657858Z",
+        "category": "technology",
+        "summaryEn": "A federal judge has ruled that the Trump administration acted illegally by blacklisting the AI company Anthropic. The government labeled the firm a security risk after it refused to allow its technology to be used for lethal weapons or mass surveillance. Judge Rita Lin stated that the government cannot use national security as a reason to punish its critics. The ruling permanently stops the government from enforcing its ban against the company. Anthropic continues to face other legal challenges, but this decision is a major victory for the firm."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the court's findings, why was the Trump administration's directive against Anthropic ruled illegal?",
+      "options": {
+        "A": "The company was found to have secret backdoor access to federal systems.",
+        "B": "The government used national security as a pretext to retaliate against the company's ethical stance.",
+        "C": "Anthropic failed to comply with military contracts regarding lethal autonomous weapons.",
+        "D": "The Department of Defense did not have the authority to choose its own technology vendors."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，法院發現政府並非基於真正的安全威脅，而是因為 Anthropic 拒絕將其 AI 用於致命性自主武器或大規模監控，政府才進行報復。選項 A 與事實相反，文章第五段提到政府無法證明有後門存取。選項 C 錯誤，Anthropic 是因為拒絕參與相關計畫才遭報復。選項 D 錯誤，文章第四段提到國防部其實有權選擇供應商，但不能濫用國家安全作為藉口。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the government's argument regarding Anthropic's 'black box' AI models?",
+      "options": {
+        "A": "The government believes black box models are inherently more secure than other AI types.",
+        "B": "The government successfully proved that Anthropic's models are uniquely dangerous.",
+        "C": "The government eventually conceded that Anthropic's technology is not specifically riskier than similar industry standards.",
+        "D": "The government plans to ban all black box AI models from federal agencies in the future."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第五段，政府最終承認 Anthropic 的 AI 模型並不比其他「黑箱」AI 模型更具風險。這暗示了政府最初將其列為威脅的說法缺乏科學依據。選項 A 與文章內容矛盾。選項 B 錯誤，因為政府未能提供證據支持其主張。選項 D 在文中並未提及，屬於過度推論。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fourth paragraph, what does the phrase 'blank check' imply regarding the government's use of 'national security'?",
+      "options": {
+        "A": "An unlimited authority to justify actions without needing factual proof.",
+        "B": "A financial payment made to private companies for military research.",
+        "C": "A legal document that allows the government to change its name.",
+        "D": "A specific security clearance level required for defense contractors."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。文中提到「blank check」意指政府不能將國家安全當作一張「空白支票」，意即不能無限制地運用此理由來規避法律責任或懲罰異議企業。選項 B 將其誤解為字面上的金錢支付。選項 C 與 D 皆與文中對該詞彙的定義無關，純屬錯誤選項。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of this article?",
+      "options": {
+        "A": "The Trump administration successfully improved national security by regulating AI companies.",
+        "B": "Anthropic is the only technology company currently challenging the US government in court.",
+        "C": "The legal system serves as a necessary check on executive power when the government uses national security to punish dissent.",
+        "D": "The First Amendment prevents the government from ever banning any technology from federal agencies."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章的核心在於探討法院如何透過判決，限制行政機關濫用「國家安全」之名來報復持有不同倫理觀點的私人企業，體現了法律體系對行政權的制衡。選項 A 與文章主旨背道而馳。選項 B 在文中未提及。選項 D 說法過於絕對，憲法保護的是免於因言論或立場而受報復，並非禁止政府對技術進行任何限制。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
