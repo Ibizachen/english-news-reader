@@ -1,0 +1,144 @@
+{
+  "id": "2026-08-29-anthropic-faces-new-copyright-lawsuit",
+  "slug": "anthropic-faces-new-copyright-lawsuit-aug-2026",
+  "publishedAt": "2026-08-29T22:14:08.582756Z",
+  "category": "technology",
+  "title": "Major Music Companies Sue AI Firm Anthropic Over Copyright",
+  "subtitle": "Sony Music and Warner Chappell allege the AI company used their songs without permission to train its models.",
+  "summary": {
+    "en": "Two of the world’s largest music publishers have filed a lawsuit against the AI company Anthropic. The companies claim that Anthropic used copyrighted song lyrics to train its Claude AI models without authorization. This legal action follows a series of similar lawsuits brought by other music and publishing groups against the firm. The plaintiffs are seeking significant financial damages, potentially reaching billions of dollars. Anthropic has not yet provided a public response to these new allegations.",
+    "zh": "全球兩大音樂出版商已對人工智慧公司 Anthropic 提起訴訟。這些公司聲稱 Anthropic 未經授權使用受版權保護的歌詞來訓練其 Claude 人工智慧模型。此法律行動繼其他音樂與出版集團對該公司提起的一系列類似訴訟之後發生。原告正尋求鉅額財務賠償，金額可能高達數十億美元。Anthropic 尚未針對這些新指控做出公開回應。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "A major legal battle is unfolding in the technology industry as two of the world’s biggest music publishers, Sony Music and Warner Chappell, have taken legal action against the artificial intelligence company Anthropic. The lawsuit, filed in the United States District Court for the Northern District of California, accuses the AI company of using copyrighted music to build its popular \"Claude\" series of AI models. This case highlights the growing tension between the creators of new technology and the owners of creative content.",
+      "zh": "科技產業正上演一場重大的法律戰，全球兩大音樂出版商索尼音樂 (Sony Music) 與華納查普爾 (Warner Chappell) 已對人工智慧公司 Anthropic 採取法律行動。這起訴訟向美國加州北區聯邦地區法院提起，指控該人工智慧公司利用受版權保護的音樂來建構其熱門的「克勞德」(Claude) 系列人工智慧模型。此案凸顯了新技術開發者與創意內容擁有者之間日益緊張的關係。"
+    },
+    {
+      "id": "p2",
+      "en": "The music publishers describe the situation as one of the largest and most obvious cases of intellectual property theft in history. Intellectual property refers to creations of the mind, such as music, books, and art, which are protected by law. According to the court filing, the publishers claim that Anthropic used their songs to train its AI to understand and generate human-like language. The list of songs mentioned in the lawsuit includes famous tracks such as Marvin Gaye and Tammi Terrell’s “Ain’t No Mountain High Enough,” Bon Jovi’s “Livin’ On a Prayer,” and Taylor Swift’s “Paper Rings.”",
+      "zh": "音樂出版商形容此情況為史上最大規模且最明顯的智慧財產權竊盜案之一。智慧財產權是指音樂、書籍與藝術等人類心智的創作，這些創作受到法律保護。根據法院文件，出版商聲稱 Anthropic 使用他們的歌曲來訓練其人工智慧，使其能夠理解並生成類人的語言。訴訟中列出的歌曲清單包含多首名曲，例如馬文蓋 (Marvin Gaye) 與塔米泰瑞爾 (Tammi Terrell) 的《高山難阻》(Ain’t No Mountain High Enough)、邦喬飛 (Bon Jovi) 的《為愛祈禱》(Livin’ On a Prayer)，以及泰勒絲 (Taylor Swift) 的《紙戒指》(Paper Rings)。"
+    },
+    {
+      "id": "p3",
+      "en": "According to The Verge, the lawsuit does not just target the company as a whole. It also names Anthropic’s co-founders, Dario Amodei and Benjamin Mann, as individual defendants. The legal documents allege that the founders and their employees used unauthorized methods to collect data. Specifically, the suit claims that millions of pirated books were downloaded using a file-sharing system called BitTorrent. Furthermore, the publishers argue that Anthropic took song lyrics from websites that had paid for the rights to display them, effectively bypassing the legal agreements those sites had with the music labels.",
+      "zh": "根據科技新聞網站 The Verge 報導，這場訴訟不僅針對該公司整體，也將 Anthropic 的共同創辦人達里歐阿莫代 (Dario Amodei) 與班傑明曼恩 (Benjamin Mann) 列為個人被告。法律文件指控這些創辦人及其員工使用未經授權的方式蒐集資料。具體而言，訴訟聲稱數百萬本盜版書籍是透過名為 BitTorrent 的檔案分享系統下載的。此外，出版商主張 Anthropic 從已付費取得授權的網站上擷取歌詞，實際上繞過了這些網站與音樂廠牌之間的法律協議。"
+    },
+    {
+      "id": "p4",
+      "en": "This is not the first time Anthropic has faced legal challenges regarding its training data. The company has previously dealt with multiple lawsuits from other major music groups, including Universal Music Group, Concord, and ABKCO. Additionally, the firm recently reached a settlement—an official agreement to end a legal dispute—in a separate case brought by the publishing industry, which cost the company 1.5 billion dollars. These repeated legal challenges show that the music industry is determined to protect its rights as AI technology continues to advance rapidly.",
+      "zh": "這並非 Anthropic 首次面臨關於其訓練資料的法律挑戰。該公司先前已處理過來自其他大型音樂集團的多起訴訟，包括環球音樂集團 (Universal Music Group)、Concord 以及 ABKCO。此外，該公司近期在出版業提起的另一起案件中達成和解（即結束法律糾紛的正式協議），該案讓公司付出了十五億美元的代價。這些接連不斷的法律挑戰顯示，隨著人工智慧技術持續快速發展，音樂產業已下定決心捍衛自身權益。"
+    },
+    {
+      "id": "p5",
+      "en": "The financial stakes in this new lawsuit are extremely high. The publishers are asking for up to 150,000 dollars for each copyrighted work that was used without permission. They are also seeking an additional 25,000 dollars for every instance where the company allegedly removed copyright information from the data. If the court decides in favor of the music companies and awards the maximum amount for all the works mentioned, the total damages could reach several billion dollars. This would represent a massive financial blow to the AI firm.",
+      "zh": "這起新訴訟涉及的財務金額極高。出版商要求針對每一首未經許可被使用的受版權保護作品，賠償最高十五萬美元。他們同時要求針對該公司涉嫌從資料中移除版權資訊的每一項行為，額外賠償兩萬五千美元。若法院判決音樂公司勝訴，並針對所有提及的作品判處最高賠償金額，總賠償金可能高達數十億美元。這將對該人工智慧公司造成巨大的財務打擊。"
+    },
+    {
+      "id": "p6",
+      "en": "As the case moves forward, it raises important questions about how AI companies should be allowed to collect information from the internet. Many AI models are trained on vast amounts of data scraped from websites, which often include protected creative works. While AI companies argue that this process is necessary for innovation, creators and publishers argue that their work should not be used for profit without their consent or proper payment. The outcome of this lawsuit could set a significant legal precedent—a rule or principle established in a previous case that is used to guide future decisions—for the entire artificial intelligence industry.",
+      "zh": "隨著案件推進，這引發了關於人工智慧公司應被允許如何從網際網路蒐集資訊的重要問題。許多人工智慧模型是透過從網站上抓取大量資料進行訓練，其中往往包含受保護的創意作品。儘管人工智慧公司主張此過程對創新而言是必要的，但創作者與出版商認為，在未經同意或未支付適當報酬的情況下，不應將他們的作品用於營利。此訴訟的結果可能會為整個人工智慧產業樹立重要的法律先例（即先前案件中確立的規則或原則，用於指導未來的決策）。"
+    },
+    {
+      "id": "p7",
+      "en": "For now, the industry is watching closely to see how the court will handle these claims. Anthropic has not yet provided a public response to the request for comment regarding the lawsuit. As the legal process continues, it is likely that more details will emerge about how AI companies gather the data that powers their systems. For creators and artists, this case is a vital step in ensuring that their hard work is respected and protected in the age of advanced technology.",
+      "zh": "目前，產業界正密切關注法院將如何處理這些指控。針對這起訴訟的置評請求，Anthropic 尚未做出公開回應。隨著法律程序持續進行，關於人工智慧公司如何蒐集驅動其系統之資料的細節，預計將會浮出水面。對於創作者與藝術家而言，此案是確保他們的心血在先進技術時代受到尊重與保護的關鍵一步。"
+    }
+  ],
+  "wordCount": 712,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "unfolding",
+      "definitionEn": "Happening or developing in a public or noticeable way.",
+      "definitionZh": "（事件）展開、發展中。",
+      "partOfSpeech": "verb (present participle)",
+      "noteZh": "常見作名詞（摺疊），這裡用來形容事件正在發生。文中：A major legal battle is unfolding in the technology industry as two of the world’s biggest music publishers, Sony Music and Warner Chappell, have taken legal action against the artificial intelligence company Anthropic."
+    },
+    {
+      "term": "blow",
+      "definitionEn": "A sudden event that causes damage, disappointment, or loss.",
+      "definitionZh": "打擊、挫折。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（吹氣），這裡作名詞指財務上的重大打擊。文中：This would represent a massive financial blow to the AI firm."
+    },
+    {
+      "term": "scraped",
+      "definitionEn": "To automatically collect large amounts of data from websites.",
+      "definitionZh": "（網路用語）抓取資料。",
+      "partOfSpeech": "verb (past participle)",
+      "noteZh": "常見作動詞（刮、擦），這裡指從網路上自動蒐集資料。文中：Many AI models are trained on vast amounts of data scraped from websites, which often include protected creative works."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "publishedAt": "2026-08-29T18:19:53Z"
+    }
+  ],
+  "story": {
+    "id": "anthropic-faces-new-copyright-lawsuit",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What specific method does the lawsuit allege Anthropic used to acquire pirated books?",
+      "options": {
+        "A": "They scraped data directly from the publishers' official websites.",
+        "B": "They utilized a file-sharing system known as BitTorrent.",
+        "C": "They purchased unauthorized databases from third-party hackers.",
+        "D": "They extracted text from music lyrics websites without permission."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，訴訟文件明確指控 Anthropic 的員工使用名為 BitTorrent 的檔案分享系統下載了數百萬本盜版書籍。選項 A 錯誤，因為文章提到的是從網站獲取歌詞，而非書籍；選項 C 文章中並未提及購買數據庫；選項 D 雖然提到了歌詞網站，但這是針對歌曲而非書籍的指控，因此不符合題意。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the information provided, what can be inferred about the financial impact of the current lawsuit on Anthropic?",
+      "options": {
+        "A": "The company will likely go bankrupt immediately if the lawsuit continues.",
+        "B": "The lawsuit is expected to be less expensive than previous settlements.",
+        "C": "The potential financial penalty could be severe enough to significantly damage the company's finances.",
+        "D": "The company has already set aside billions of dollars to cover potential legal losses."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第五段，出版商要求賠償的金額若以最高標準計算，總額可能高達數十億美元，文章明確指出這對該 AI 公司將是「沉重的財務打擊」（massive financial blow）。選項 A 過於誇大，文章並未說會立刻倒閉；選項 B 錯誤，因為 15 億美元的舊和解金與此案潛在的「數十億」賠償相比，此案可能更昂貴；選項 D 文章中並未提到公司已預留資金。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the sixth paragraph, what does the word 'precedent' mean as used in the context of the lawsuit?",
+      "options": {
+        "A": "A previous legal decision that serves as a guide for future cases.",
+        "B": "A financial penalty paid to settle a dispute out of court.",
+        "C": "A formal agreement between two parties to stop a lawsuit.",
+        "D": "A set of rules created by technology companies to regulate AI."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。文章第六段將「precedent」定義為「a rule or principle established in a previous case that is used to guide future decisions」，即法律上的「判例」。選項 B 和 C 描述的是 settlement（和解）的概念，而非 precedent；選項 D 則將其誤解為企業內部的規範，與法律語境不符。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary focus of the article?",
+      "options": {
+        "A": "To explain the technical process of how AI models like Claude are trained.",
+        "B": "To highlight the history of music copyright laws in the United States.",
+        "C": "To discuss the ongoing conflict between music publishers and AI companies over copyright infringement.",
+        "D": "To argue that AI technology should be banned to protect the rights of artists."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。整篇文章從 Sony 與 Warner Chappell 對 Anthropic 提起的訴訟出發，探討了科技公司與內容創作者之間關於版權使用的緊張關係，並分析了此案對產業的潛在影響，這正是文章的核心主旨。選項 A 僅為背景資訊；選項 B 範圍過大，文章並未深入探討法律歷史；選項 D 錯誤，文章並未主張禁止 AI，而是討論如何規範其數據獲取方式。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
