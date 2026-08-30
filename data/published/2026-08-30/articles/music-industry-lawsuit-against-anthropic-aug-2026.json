@@ -1,0 +1,159 @@
+{
+  "id": "2026-08-30-music-industry-lawsuit-against-anthropic",
+  "slug": "music-industry-lawsuit-against-anthropic-aug-2026",
+  "publishedAt": "2026-08-30T00:18:05.449105Z",
+  "category": "technology",
+  "title": "Major Music Publishers Take Legal Action Against AI Company Anthropic",
+  "subtitle": "Sony Music and Warner Chappell claim the AI firm used copyrighted lyrics without permission to train its models.",
+  "summary": {
+    "en": "Two of the world's largest music publishers have filed a lawsuit against the AI company Anthropic. The companies claim that Anthropic used copyrighted song lyrics to train its Claude AI models without authorization. This legal action follows a series of similar complaints from other music industry groups. The publishers are seeking significant financial damages for the alleged misuse of their intellectual property. Anthropic has not yet responded to the claims made in the court filing.",
+    "zh": "全球兩大音樂出版商已對人工智慧公司 Anthropic 提起訴訟。這些公司指控 Anthropic 未經授權，擅自使用受版權保護的歌詞來訓練其 Claude 人工智慧模型。此法律行動緊隨音樂產業其他團體的一系列類似投訴之後。出版商正針對其智慧財產權遭濫用的指控，尋求鉅額財務賠償。Anthropic 尚未對法院文件中的指控做出回應。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The music industry has launched a new legal challenge against the artificial intelligence company Anthropic. Sony Music and Warner Chappell, two of the world’s biggest music publishers, have filed a lawsuit in the US District Court for the Northern District of California. They claim that Anthropic used thousands of their copyrighted songs to train its “Claude” series of AI models without permission. This is a significant development in the ongoing debate over how AI companies use creative work to build their technology.",
+      "zh": "音樂產業對人工智慧公司 Anthropic 發起了新的法律挑戰。全球兩大音樂出版商索尼音樂 (Sony Music) 與華納查普爾 (Warner Chappell) 已向美國加州北區聯邦地區法院提起訴訟。他們指控 Anthropic 未經許可，擅自使用數千首受版權保護的歌曲來訓練其「克勞德」(Claude) 系列人工智慧模型。這是關於人工智慧公司如何利用創意作品來建構其技術這場持續爭論中的一項重大發展。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Verge, the music publishers describe the situation as one of the largest and most blatant thefts of intellectual property in history. Intellectual property refers to creations of the mind, such as music, books, and art, which are protected by law. The companies argue that Anthropic illegally gathered song lyrics from websites that had paid to license the content from the labels. By using this data, the publishers claim that Anthropic has been able to develop and profit from its AI models without giving credit or payment to the original creators.",
+      "zh": "根據科技新聞網站 The Verge 報導，這些音樂出版商將此情況描述為史上規模最大且最明目張膽的智慧財產權竊盜案之一。智慧財產權是指音樂、書籍與藝術等受法律保護的智力創作。這些公司主張，Anthropic 非法從那些已向唱片公司付費取得內容授權的網站中蒐集歌詞。出版商聲稱，Anthropic 透過使用這些資料，在未給予原創者任何肯定或報酬的情況下，開發出其人工智慧模型並從中獲利。"
+    },
+    {
+      "id": "p3",
+      "en": "The lawsuit names not only the company itself but also its co-founders, Dario Amodei and Benjamin Mann, as individual defendants. The court filing alleges that the company engaged in a large-scale effort to download copyrighted works. It claims that Mann used a file-sharing method known as BitTorrent to download over five million pirated books, and that other employees downloaded at least two million more from a site called Pirate Library Mirror. The Verge reports that the list of songs allegedly found in the training data includes famous tracks by artists such as Taylor Swift, Bon Jovi, and Marvin Gaye.",
+      "zh": "這起訴訟不僅將該公司列為被告，其共同創辦人達里歐·阿莫代 (Dario Amodei) 與班傑明·曼恩 (Benjamin Mann) 也被列為個人被告。法院文件指控該公司進行了大規模下載受版權保護作品的行為。文件中聲稱，曼恩曾使用一種稱為 BitTorrent 的檔案分享方式下載了超過五百萬本盜版書籍，其他員工也從一個名為「海盜圖書館鏡像」(Pirate Library Mirror) 的網站下載了至少兩百萬本。The Verge 報導指出，據稱出現在訓練資料中的歌曲清單，包含了泰勒絲 (Taylor Swift)、邦喬飛 (Bon Jovi) 與馬文蓋 (Marvin Gaye) 等知名藝人的作品。"
+    },
+    {
+      "id": "p4",
+      "en": "This legal action is part of a much larger trend of conflict between the music industry and AI developers. The Verge notes that Anthropic has already faced several other lawsuits from groups like Universal Music Group, Concord, and ABKCO, as well as BMG and Round Hill Music. In a separate case, the company recently settled a lawsuit brought by the publishing industry for $1.5 billion. These legal battles highlight the tension between the rapid growth of AI technology and the rights of those who create music and literature.",
+      "zh": "這項法律行動是音樂產業與人工智慧開發商之間更大規模衝突趨勢的一部分。The Verge 指出，Anthropic 此前已面臨來自環球音樂集團 (Universal Music Group)、Concord、ABKCO，以及 BMG 和 Round Hill Music 等團體的數起訴訟。在另一起案件中，該公司近期才剛與出版業達成一項十五億美元的和解。這些法律戰凸顯了人工智慧技術的快速發展與音樂及文學創作者權益之間的緊張關係。"
+    },
+    {
+      "id": "p5",
+      "en": "The financial stakes in this new lawsuit are very high. The music publishers are asking for damages of up to $150,000 for each copyrighted work that was misused. Additionally, they are seeking up to $25,000 for every instance where identifiable copyright information was removed from the data. If the court decides in favor of Sony and Warner Chappell and awards the maximum amount for the tens of thousands of works mentioned, the total cost to Anthropic could reach several billion dollars.",
+      "zh": "這起新訴訟涉及的財務金額極為龐大。音樂出版商要求針對每一件被濫用的受版權保護作品，賠償最高達十五萬美元。此外，針對資料中移除可識別版權資訊的每一項行為，他們也尋求最高兩萬五千美元的賠償。若法院判決索尼與華納查普爾勝訴，並針對訴狀中提到的數萬件作品判處最高賠償金額，Anthropic 總計可能面臨高達數十億美元的賠償成本。"
+    },
+    {
+      "id": "p6",
+      "en": "This lawsuit comes at a difficult time for Anthropic, which has been dealing with various legal and regulatory challenges. While the company has not yet provided a public response to these specific claims, the case is expected to draw significant attention from both the technology and entertainment sectors. As AI models become more powerful and capable of generating human-like text and creative content, the question of how they are trained remains a central issue. The outcome of this case could set a major precedent for how copyright laws are applied to AI development in the future.",
+      "zh": "這起訴訟對 Anthropic 而言時機艱難，該公司目前正處理各種法律與監管挑戰。雖然該公司尚未針對這些具體指控做出公開回應，但此案預計將引起科技界與娛樂界的高度關注。隨著人工智慧模型變得日益強大，且具備生成類人文字與創意內容的能力，它們如何進行訓練的問題仍是核心議題。此案的結果可能會為未來人工智慧開發如何適用版權法，立下重要的先例。"
+    },
+    {
+      "id": "p7",
+      "en": "For now, the legal process is just beginning. Both sides will likely spend months or even years presenting their arguments in court. The music publishers are clearly determined to hold the company accountable, while Anthropic will need to defend its methods for building its AI systems. As the industry watches closely, this case serves as a reminder that the rapid advancement of artificial intelligence is not happening in a vacuum, and it must exist within the boundaries of existing legal frameworks designed to protect creators.",
+      "zh": "目前法律程序才剛開始。雙方可能需要花費數月甚至數年時間在法庭上提出各自的論點。音樂出版商顯然決心要讓該公司負起責任，而 Anthropic 則必須為其建構人工智慧系統的方法進行辯護。隨著產業密切關注，此案提醒了世人，人工智慧的快速進步並非在真空狀態下發生，它必須存在於旨在保護創作者的現有法律框架範圍之內。"
+    }
+  ],
+  "wordCount": 682,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "launched",
+      "definitionEn": "To start or set in motion an activity or enterprise.",
+      "definitionZh": "發起、展開（活動或計畫）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（發射），這裡指發起法律行動。文中：The music industry has launched a new legal challenge against the artificial intelligence company Anthropic."
+    },
+    {
+      "term": "stakes",
+      "definitionEn": "The amount of money or something of value that is at risk in a situation.",
+      "definitionZh": "賭注、利害關係、風險金額。",
+      "partOfSpeech": "noun (plural)",
+      "noteZh": "常見作名詞（木樁），這裡指涉及的金額或風險。文中：The financial stakes in this new lawsuit are very high."
+    },
+    {
+      "term": "vacuum",
+      "definitionEn": "A state of being isolated from outside influences or the surrounding environment.",
+      "definitionZh": "真空狀態；與世隔絕的環境。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作名詞（吸塵器），這裡比喻事物並非孤立發生。文中：this case serves as a reminder that the rapid advancement of artificial intelligence is not happening in a vacuum, and it must exist within the boundaries of existing legal frameworks designed to protect creators."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "publishedAt": "2026-08-29T18:19:53Z"
+    }
+  ],
+  "story": {
+    "id": "anthropic-faces-new-copyright-lawsuit",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "anthropic-faces-new-copyright-lawsuit-aug-2026",
+        "title": "Major Music Companies Sue AI Firm Anthropic Over Copyright",
+        "publishedAt": "2026-08-29T22:14:08.582756Z",
+        "category": "technology",
+        "summaryEn": "Two of the world’s largest music publishers have filed a lawsuit against the AI company Anthropic. The companies claim that Anthropic used copyrighted song lyrics to train its Claude AI models without authorization. This legal action follows a series of similar lawsuits brought by other music and publishing groups against the firm. The plaintiffs are seeking significant financial damages, potentially reaching billions of dollars. Anthropic has not yet provided a public response to these new allegations."
+      },
+      {
+        "slug": "federal-court-rules-anthropic-blacklisting-illegal-aug-2026",
+        "title": "Federal Judge Rules Trump Administration's Blacklisting of Anthropic Illegal",
+        "publishedAt": "2026-08-29T03:42:32.642534Z",
+        "category": "technology",
+        "summaryEn": "A federal judge has ruled that the Trump administration acted illegally by blacklisting the AI company Anthropic. The government had labeled the firm a security risk after it refused to allow its technology to be used for lethal weapons or mass surveillance. Judge Rita Lin stated that the government's actions were a form of unlawful retaliation. The court ordered the administration to cancel its directives against the company. This ruling highlights the legal limits of using national security to punish private businesses."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What specific action does the lawsuit allege regarding the co-founders of Anthropic?",
+      "options": {
+        "A": "They personally sold copyrighted music lyrics to other AI companies.",
+        "B": "They were involved in a large-scale effort to download pirated materials.",
+        "C": "They intentionally deleted copyright information from the training data.",
+        "D": "They authorized the use of BitTorrent to distribute music to the public."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，訴訟不僅針對公司，也將共同創辦人列為被告，並指控該公司進行大規模下載受版權保護作品的行為，其中包括利用 BitTorrent 下載盜版書籍。選項 A 文中未提及；選項 C 雖然提到移除版權資訊，但文中未指控創辦人親自執行此操作；選項 D 錯誤，因為 BitTorrent 是用來下載而非向公眾散佈音樂。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, what can be inferred about the future of AI development regarding copyright?",
+      "options": {
+        "A": "AI companies will likely stop using training data to avoid further legal costs.",
+        "B": "The music industry will eventually replace AI models with human-created content.",
+        "C": "Legal frameworks will likely need to adapt to clarify how AI models use creative works.",
+        "D": "Anthropic will be forced to shut down its Claude series due to the $1.5 billion settlement."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章最後兩段提到，此案可能為版權法如何應用於 AI 開發設定先例，並強調 AI 發展必須在現有的法律框架內進行。這暗示了法律體系與 AI 技術發展之間需要達成新的平衡與規範。選項 A 過於絕對；選項 B 文中未提及；選項 D 錯誤，因為 15 億美元的和解案是與出版業的另一件訴訟，並非針對此案。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the phrase 'not happening in a vacuum' imply?",
+      "options": {
+        "A": "AI development is influenced by and must answer to external social and legal forces.",
+        "B": "The advancement of technology is occurring in a completely empty and isolated space.",
+        "C": "The music industry's legal actions are having no effect on AI research.",
+        "D": "AI models are being trained in environments that lack proper data security."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。片語 'not happening in a vacuum' 在此處意指 AI 的發展並非與世隔絕，而是與法律、社會規範及創作者權益息息相關。選項 B 與原文意思完全相反；選項 C 錯誤，因為文章強調法律戰對產業影響巨大；選項 D 雖然提到數據安全，但並非該片語在此處的隱喻意義。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of this article?",
+      "options": {
+        "A": "A detailed history of how BitTorrent was used to pirate music and books.",
+        "B": "An analysis of the financial losses faced by Taylor Swift and other famous artists.",
+        "C": "A report on the rising tension and legal conflicts between AI companies and the creative industry.",
+        "D": "A guide on how AI companies like Anthropic can legally license music for training models."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。整篇文章圍繞著音樂產業對 Anthropic 提出的訴訟，探討了 AI 技術快速發展與創作者版權保護之間的衝突，這是全文的核心主旨。選項 A 只是文章中的細節；選項 B 僅提到藝術家名字作為例子；選項 D 錯誤，因為文章重點在於非法使用而非授權指南。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
