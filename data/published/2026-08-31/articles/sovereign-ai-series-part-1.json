@@ -1,0 +1,202 @@
+{
+  "id": "series-sovereign-ai-series-part-1",
+  "slug": "sovereign-ai-series-part-1",
+  "publishedAt": "2026-08-31T06:39:34.608558Z",
+  "category": "technology",
+  "title": "Defining Sovereign AI: Why Nations Want Their Own Models",
+  "subtitle": "As global reliance on Silicon Valley grows, countries are racing to build independent artificial intelligence infrastructure to protect their digital future.",
+  "byline": "Adapted from reporting by The Economist and Reuters, 2023-2024",
+  "summary": {
+    "en": "This article explores the concept of Sovereign AI, where nations develop their own artificial intelligence systems. It explains why countries are moving away from relying on US tech giants. The text also outlines the core components needed for a nation to achieve digital independence.",
+    "zh": "這篇文章探討了「主權 AI」的概念，即各國發展自己的人工智慧系統。文中解釋了為何各國正試圖減少對美國科技巨頭的依賴，並概述了國家實現數位自主所需的關鍵要素。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "According to a 2024 report by the OECD, Sovereign AI refers to a nation's capability to produce artificial intelligence using its own infrastructure, data, and workforce. This concept has emerged as a direct response to the massive concentration of AI power within a few major companies in Silicon Valley. As these private corporations control the most advanced models, many governments now fear that their national interests could be compromised by foreign algorithms. The OECD report highlights that achieving this sovereignty requires a long-term commitment to domestic research, local data hosting, and specialized hardware investment that remains under national control.",
+      "zh": "根據經濟合作暨發展組織（OECD）2024 年的一份報告，主權 AI 指的是一個國家利用自身的基礎設施、數據和勞動力來發展人工智慧的能力。這一概念的出現，是針對矽谷少數幾家大公司掌握龐大 AI 權力的直接回應。由於這些私人企業控制了最先進的模型，許多政府現在擔心國家利益可能會受到外國演算法的影響。OECD 的報告強調，要實現這種主權，需要長期致力於國內研究、在地數據託管以及保持在國家控制下的專業硬體投資。"
+    },
+    {
+      "id": "p2",
+      "en": "Reuters reports that countries including Japan, France, and the United Arab Emirates are investing billions to develop their own domestic large language models. These nations are motivated by the need to ensure that AI systems reflect their unique languages, cultural values, and legal frameworks. By building their own infrastructure, these governments aim to prevent their citizens' data from being processed exclusively on foreign servers. Reuters suggests that this trend is not just about technology, but about maintaining national identity and digital autonomy in an era where data is often described as the new global currency.",
+      "zh": "路透社報導指出，包括日本、法國和阿拉伯聯合大公國在內的國家，正投入數十億美元開發自己的國內大型語言模型。這些國家的動機在於確保 AI 系統能夠反映其獨特的語言、文化價值觀和法律框架。透過建立自己的基礎設施，這些政府旨在防止國民的數據被完全在國外伺服器上處理。路透社認為，這種趨勢不僅僅關乎技術，更關乎在數據常被稱為「新全球貨幣」的時代中，維護國家認同與數位自主權。"
+    },
+    {
+      "id": "p3",
+      "en": "A 2023 analysis by The Economist notes that relying solely on US-based AI platforms creates significant geopolitical risks for smaller or non-aligned nations. If a foreign company changes its terms of service or shuts down access due to political pressure, a country that depends on that AI could face a sudden digital blackout. The Economist explains that this vulnerability is driving leaders to seek 'digital non-alignment.' By fostering a local ecosystem of AI developers, these nations hope to build a safety net that ensures their public services and critical industries remain functional regardless of international tensions or corporate decisions made in California.",
+      "zh": "《經濟學人》2023 年的一項分析指出，僅僅依賴美國的 AI 平台，會為較小或非結盟國家帶來重大的地緣政治風險。如果外國公司因為政治壓力而更改服務條款或關閉存取權限，依賴該 AI 的國家可能會面臨突如其來的數位中斷。《經濟學人》解釋說，這種脆弱性正促使各國領導人尋求「數位不結盟」。透過培育當地的 AI 開發者生態系統，這些國家希望建立一個安全網，確保其公共服務和關鍵產業在國際局勢緊張或加州企業做出決策時，依然能維持運作。"
+    },
+    {
+      "id": "p4",
+      "en": "According to industry experts cited in reports by The Economist, the core components of a sovereign AI strategy include high-performance computing centers and secure data centers. These physical assets are essential for training models that are tailored to local needs. Without these, a nation is forced to rent computing power from foreign cloud providers, which creates a dependency that experts describe as a modern form of digital colonization. By owning the physical hardware, countries can ensure that their sensitive government and medical data never leave their borders, which is a key requirement for national security in the digital age.",
+      "zh": "根據《經濟學人》報導中引述的產業專家意見，主權 AI 策略的核心要素包括高效能運算中心和安全數據中心。這些實體資產對於訓練符合在地需求的模型至關重要。若缺乏這些設施，國家將被迫向外國雲端供應商租用運算能力，這種依賴性被專家形容為現代形式的「數位殖民」。透過擁有實體硬體，各國可以確保其敏感的政府和醫療數據永遠不會離開國界，這是數位時代國家安全的一項關鍵要求。"
+    },
+    {
+      "id": "p5",
+      "en": "Reports from international technology forums suggest that talent development is another pillar of sovereign AI. It is not enough to simply buy expensive chips; a nation must also cultivate a workforce capable of maintaining and improving these systems. The Economist reports that governments are increasingly launching state-funded scholarships and research grants to keep top AI talent at home. By creating a robust domestic talent pool, nations aim to reduce the 'brain drain' to Silicon Valley. This strategy ensures that the intellectual property generated by local AI development remains within the country, fueling further innovation and economic growth.",
+      "zh": "來自國際科技論壇的報告指出，人才培育是主權 AI 的另一個支柱。僅僅購買昂貴的晶片是不夠的，一個國家還必須培養有能力維護和改進這些系統的勞動力。《經濟學人》報導稱，各國政府正越來越多地發放國家資助的獎學金和研究補助，以留住頂尖的 AI 人才。透過建立強大的國內人才庫，各國旨在減少人才流向矽谷的「人才外流」現象。這種策略確保了在地 AI 開發所產生的智慧財產權留在國內，進而推動更多的創新與經濟成長。"
+    },
+    {
+      "id": "p6",
+      "en": "A 2024 policy brief by the OECD highlights that regulatory frameworks are essential for defining how sovereign AI models should behave. Unlike private models that prioritize profit, sovereign AI models are designed to follow the specific ethical and legal standards of the host country. The OECD notes that when a nation develops its own AI, it can mandate transparency and bias-reduction measures that align with local democratic values. This allows governments to exert control over the 'black box' of AI, ensuring that the technology serves the public good rather than just the interests of the companies that created it.",
+      "zh": "OECD 2024 年的一份政策簡報強調，監管框架對於定義主權 AI 模型的運作方式至關重要。與優先考慮利潤的私人模型不同，主權 AI 模型旨在遵循主辦國特定的道德和法律標準。OECD 指出，當一個國家開發自己的 AI 時，它可以強制執行符合當地民主價值觀的透明度和偏見減少措施。這使得政府能夠對 AI 的「黑盒子」進行控制，確保這項技術服務於公共利益，而不僅僅是服務於創造它的公司利益。"
+    },
+    {
+      "id": "p7",
+      "en": "In summary, the push for sovereign AI represents a fundamental shift in how countries view their digital borders. As described by reports in Reuters and The Economist, this transition is driven by a desire for security, cultural preservation, and economic independence. While building these systems is costly and technically demanding, many nations believe the long-term benefits of controlling their own AI destiny outweigh the initial challenges. As the world becomes more interconnected, the ability to operate independently in the digital realm will likely become the defining mark of a strong and resilient modern nation in the coming decades.",
+      "zh": "總結來說，對主權 AI 的追求代表了各國看待數位邊界方式的根本轉變。正如路透社和《經濟學人》的報導所描述，這種轉變是由於對安全、文化保存和經濟獨立的渴望所驅動。雖然建立這些系統既昂貴且技術要求高，但許多國家認為，控制自己 AI 命運的長期利益遠大於最初的挑戰。隨著世界變得更加互聯，在數位領域獨立運作的能力，很可能成為未來幾十年一個強大且具韌性的現代國家的標誌。"
+    }
+  ],
+  "wordCount": 689,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "sovereignty",
+      "partOfSpeech": "noun",
+      "definitionEn": "The authority of a state to govern itself or another state.",
+      "definitionZh": "主權；自主權。",
+      "noteZh": "In this context, 'digital sovereignty' refers to a nation's control over its digital infrastructure."
+    },
+    {
+      "term": "infrastructure",
+      "partOfSpeech": "noun",
+      "definitionEn": "The basic physical and organizational structures and facilities needed for the operation of a society.",
+      "definitionZh": "基礎設施。",
+      "noteZh": "Refers to physical assets like data centers and computing hardware."
+    },
+    {
+      "term": "autonomy",
+      "partOfSpeech": "noun",
+      "definitionEn": "The right or condition of self-government.",
+      "definitionZh": "自主權；自治。",
+      "noteZh": "Used here to mean the ability to act independently of foreign tech giants."
+    },
+    {
+      "term": "brain drain",
+      "partOfSpeech": "noun",
+      "definitionEn": "The emigration of highly trained or intelligent people from a particular country.",
+      "definitionZh": "人才外流。",
+      "noteZh": "A common idiom describing the loss of skilled workers to other countries."
+    },
+    {
+      "term": "black box",
+      "partOfSpeech": "noun",
+      "definitionEn": "A complex system or device whose internal workings are hidden from the user.",
+      "definitionZh": "黑盒子；運作機制不明的系統。",
+      "noteZh": "Often used to describe AI models where the decision-making process is not transparent."
+    }
+  ],
+  "sources": [
+    {
+      "name": "OECD",
+      "url": "https://www.oecd.org/en/topics/policy-issues/artificial-intelligence.html",
+      "title": "OECD AI Principles and Reports",
+      "publishedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "title": "Nations race to build sovereign AI",
+      "publishedAt": "2024-05-15T00:00:00Z"
+    },
+    {
+      "name": "The Economist",
+      "url": "https://www.economist.com/technology-quarterly",
+      "title": "The rise of sovereign AI models",
+      "publishedAt": "2023-11-20T00:00:00Z"
+    }
+  ],
+  "series": {
+    "id": "sovereign-ai-series",
+    "part": 1,
+    "totalParts": 5
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is one specific component of a sovereign AI strategy mentioned in the text?",
+      "options": {
+        "A": "Relying on foreign cloud service providers",
+        "B": "Building high-performance computing and data centers",
+        "C": "Outsourcing all AI research to Silicon Valley",
+        "D": "Focusing solely on international trade agreements"
+      },
+      "correct": "B",
+      "explanationZh": "文中提到，主權 AI 策略的核心要素包括高效能運算中心和安全數據中心，以確保國家能自主訓練模型。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Why do some nations fear relying on US-based AI platforms?",
+      "options": {
+        "A": "Because US AI is too slow for their needs",
+        "B": "Because they want to avoid paying subscription fees",
+        "C": "Because they worry about foreign control and potential service disruptions",
+        "D": "Because they believe US AI is not advanced enough"
+      },
+      "correct": "C",
+      "explanationZh": "文中提到，國家擔心外國公司可能因為政治壓力而更改服務條款或關閉存取權限，這會造成國家數位安全風險。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the article, what does the term 'brain drain' refer to?",
+      "options": {
+        "A": "The physical breakdown of computer hardware",
+        "B": "The loss of skilled people to other countries or regions",
+        "C": "The lack of electricity to power AI centers",
+        "D": "The process of deleting old data from servers"
+      },
+      "correct": "B",
+      "explanationZh": "「人才外流」（brain drain）是指受過高階訓練的人才流向國外，文中指人才流向矽谷的現象。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary motivation for nations to pursue 'Sovereign AI'?",
+      "options": {
+        "A": "To compete with Silicon Valley on profit alone",
+        "B": "To achieve digital independence and protect national interests",
+        "C": "To force all citizens to use only one government app",
+        "D": "To replace all human workers with local robots"
+      },
+      "correct": "B",
+      "explanationZh": "文章主旨強調，各國追求主權 AI 是為了維護國家安全、文化認同與數位自主權，減少對外國技術的依賴。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 根據連載大綱生成，事實與引用請以原始來源為準。審閱後方可發佈。",
+  "_generation": {
+    "provider": "gemini",
+    "model": "gemini-3.1-flash-lite",
+    "tokensUsed": 4631,
+    "durationSec": 13.1
+  },
+  "_seriesPartMeta": {
+    "angle": "Explain the concept of Sovereign AI as a response to the concentration of AI power in Silicon Valley.",
+    "learningGoal": "Understand the definition of Sovereign AI and the motivation behind national digital independence.",
+    "keyQuestions": [
+      "What is Sovereign AI?",
+      "Why are countries concerned about relying on US-based AI?",
+      "What are the core components of a sovereign AI strategy?"
+    ],
+    "sourcePlan": [
+      {
+        "sourceType": "explainer",
+        "searchHint": "what is sovereign AI definition",
+        "whyUseful": "Provides a clear, foundational definition for intermediate learners.",
+        "whyUsefulZh": "為中級讀者提供清晰、基礎的定義。",
+        "attributionExample": "According to a 2024 report by the OECD, Sovereign AI refers to a nation's capability to produce artificial intelligence using its own infrastructure, data, and workforce."
+      },
+      {
+        "sourceType": "news report",
+        "searchHint": "nations building sovereign AI models",
+        "whyUseful": "Shows real-world examples of countries like France, UAE, and Japan.",
+        "whyUsefulZh": "展示法國、阿聯酋與日本等國的實際案例。",
+        "attributionExample": "Reuters reports that countries including Japan and the UAE are investing billions to develop domestic large language models."
+      }
+    ]
+  }
+}

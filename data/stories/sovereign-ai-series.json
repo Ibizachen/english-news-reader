@@ -1,0 +1,37 @@
+{
+  "id": "sovereign-ai-series",
+  "title": "The Rise of Sovereign AI: Nations Reclaim Their Digital Future",
+  "subtitle": "Understanding why countries are racing to build their own independent AI infrastructure.",
+  "description": "This series explores the global shift toward 'Sovereign AI,' where nations seek to reduce reliance on foreign tech giants. Readers will learn how geopolitical tensions and data privacy concerns are reshaping the global technology landscape.",
+  "category": "technology",
+  "status": "active",
+  "updatedAt": "2026-08-31T06:40:40.027653Z",
+  "cadence": "5-part reading path. Complete series available.",
+  "articles": [
+    {
+      "slug": "sovereign-ai-series-part-1",
+      "label": "Part 1",
+      "note": "Explain the concept of Sovereign AI as a response to the concentration of AI power in Silicon Valley."
+    },
+    {
+      "slug": "sovereign-ai-series-part-2",
+      "label": "Part 2",
+      "note": "Focus on the stakeholders involved in building national AI ecosystems."
+    },
+    {
+      "slug": "sovereign-ai-series-part-3",
+      "label": "Part 3",
+      "note": "Discuss how data security and export controls triggered the current push for sovereignty."
+    },
+    {
+      "slug": "sovereign-ai-series-part-4",
+      "label": "Part 4",
+      "note": "Examine the costs and risks of building sovereign AI, including talent shortages and infrastructure strain."
+    },
+    {
+      "slug": "sovereign-ai-series-part-5",
+      "label": "Part 5",
+      "note": "Look at unresolved questions regarding global AI standards and the potential for a 'splinternet' of AI."
+    }
+  ]
+}
