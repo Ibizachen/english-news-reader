@@ -1,89 +1,101 @@
 {
   "id": "2026-08-31-us-canada-trade-war-and-lake-naming-dispute",
   "slug": "us-canada-trade-war-and-lake-naming-dispute-aug-2026",
-  "publishedAt": "2026-08-31T00:35:58.673859Z",
+  "publishedAt": "2026-08-31T22:14:10.319162Z",
   "category": "economics",
-  "title": "Trade War and Naming Dispute: Tensions Rise Between US and Canada",
-  "subtitle": "As economic conflict deepens, a battle over the name of Lake Ontario highlights the growing divide between the two neighbors.",
+  "title": "US-Canada Trade War Deepens Amid New Tensions",
+  "subtitle": "As economic conflict grows, symbolic actions like the renaming of a Great Lake add to the diplomatic strain.",
   "summary": {
-    "en": "The United States and Canada are currently locked in a serious trade war that shows no signs of ending. President Donald Trump has placed heavy taxes on Canadian goods, leading Canada to respond with its own counter-taxes. Beyond the economic fight, the two nations are arguing over the name of Lake Ontario. President Trump ordered US agencies to call it 'Lake America,' a move Canada has strongly rejected. While trade talks have stalled, the conflict is now affecting businesses and manufacturing jobs in both countries.",
-    "zh": "美國與加拿大目前正陷入一場嚴重的貿易戰，且毫無平息跡象。川普總統對加拿大商品課徵重稅，導致加拿大採取報復性關稅作為回應。除了經濟戰之外，兩國還為了安大略湖的命名權爭執不休。川普總統下令美國機構將其改稱為「美國湖」，此舉遭到加拿大強烈反對。儘管貿易談判陷入僵局，這場衝突已開始影響兩國的企業與製造業職缺。"
+    "en": "The trade relationship between the United States and Canada has collapsed into a serious economic conflict. Both nations are now applying heavy tariffs, which are taxes on imported goods, to each other's products. The dispute has caused significant job losses in Canadian manufacturing sectors like steel and automobiles. Meanwhile, President Donald Trump has signed an order to rename Lake Ontario to \"Lake America.\" This move has been followed by tech companies like Google, further complicating the already tense situation.",
+    "zh": "美國與加拿大之間的貿易關係已崩潰，演變成嚴重的經濟衝突。兩國目前正對彼此的產品課徵重稅，即針對進口商品徵收的關稅。這場爭端已導致加拿大在鋼鐵與汽車等製造業領域出現大量失業。與此同時，美國總統川普簽署了一項命令，將安大略湖更名為「美國湖」。此舉隨後被 Google 等科技公司跟進，使原本就緊張的局勢變得更加複雜。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "The relationship between the United States and Canada is facing its most difficult period in years as a trade war continues to grow. Tensions between the two neighbors have been rising since President Donald Trump returned to the White House and began a global program of tariffs — taxes on imported goods. Canada was one of the first countries hit by these measures, and it has responded with its own set of counter-tariffs, which are taxes designed to match the impact of the US actions.",
-      "zh": "隨著貿易戰持續升溫，美國與加拿大的關係正面臨多年來最艱難的時期。自從川普 (Donald Trump) 重返白宮並啟動一項全球關稅計畫（即針對進口商品徵收的稅款）以來，這兩個鄰國之間的緊張局勢便不斷升高。加拿大是首批受到這些措施衝擊的國家之一，並已祭出相對應的報復性關稅，這些稅款旨在抵銷美國行動所造成的影響。"
+      "en": "The economic relationship between the United States and Canada is facing its most difficult period in years. After trade talks between the two neighbors broke down, both countries have entered a cycle of tariffs—taxes on goods brought into a country—and retaliatory measures. This trade war has created significant uncertainty for businesses and workers on both sides of the border.",
+      "zh": "美國與加拿大之間的經濟關係正面臨多年來最艱難的時期。在兩國的貿易談判破裂後，雙方陷入了關稅——即對進口商品徵收的稅款——與報復性措施的惡性循環。這場貿易戰為邊境兩側的企業與勞工帶來了極大的不確定性。"
     },
     {
       "id": "p2",
-      "en": "According to BBC Business, the US has placed a 50% tax on approximately C$28 billion worth of Canadian goods, including steel, aluminum, lumber, and automobiles. Canada has hit back with what it calls a 'dollar-for-dollar' and 'strategic' response. The economic impact is being felt deeply in both nations. In Canada, the province of Ontario has been hit particularly hard due to its large manufacturing sector. Several auto parts and assembly plants have announced job cuts, and the province is estimated to have lost tens of thousands of manufacturing jobs since early 2025. Meanwhile, in the US, the impact is more focused on specific states. Statistics Canada reports that the state of Ohio will be the most affected by Canada’s counter-tariffs, followed by Illinois and Pennsylvania.",
-      "zh": "根據 BBC 商業新聞報導，美國已對價值約 280 億加幣的加拿大商品徵收 50% 的關稅，其中包括鋼鐵、鋁材、木材與汽車。加拿大則以所謂「等值」且「具戰略性」的手段進行回擊。兩國皆深切感受到經濟衝擊。在加拿大，安大略省因擁有龐大的製造業而受創尤深。多家汽車零件與組裝廠已宣布裁員，據估計該省自 2025 年初以來已流失數萬個製造業職缺。與此同時，美國受到的影響則集中在特定州。根據加拿大統計局的報告，俄亥俄州將是受加拿大報復性關稅影響最嚴重的州，其次是伊利諾州與賓夕法尼亞州。"
+      "en": "According to BBC News, the United States has placed heavy taxes on key Canadian sectors, including steel, aluminum, lumber, and automobiles. Last week, the US administration added a 50% tax on approximately $20 billion worth of Canadian goods. Canada has responded with its own \"dollar-for-dollar\" counter-tariffs. These are strategic taxes designed to match the cost of the US measures, targeting American products such as furniture, cosmetics, and farm equipment.",
+      "zh": "根據英國廣播公司新聞（BBC News）報導，美國已對加拿大的關鍵產業課徵重稅，包括鋼鐵、鋁、木材與汽車。上週，美國政府又對價值約兩百億美元的加拿大商品加徵百分之五十的稅。加拿大則以「對等」的報復性關稅作為回應。這些策略性稅收旨在與美國措施的成本相當，針對的是家具、化妝品與農用設備等美國產品。"
     },
     {
       "id": "p3",
-      "en": "While the economic fight continues, a strange new conflict has emerged over the naming of Lake Ontario. President Trump recently issued an executive order — an official instruction from the president — directing US government agencies to refer to the lake as 'Lake America.' According to The Guardian, the president even posted a video of himself replacing a 'Lake Ontario' sign with one that says 'Lake America' while dancing. This move has been widely rejected by Canadian officials. Prime Minister Mark Carney stated that the lake’s name comes from an Indigenous Wendat word meaning 'the lake is beautiful, the lake is great,' a name that has existed for more than 400 years.",
-      "zh": "在經濟戰持續的同時，一場關於安大略湖命名權的奇特新衝突也隨之浮現。川普總統近期發布了一項行政命令（即總統的正式指示），要求美國政府機構將該湖泊改稱為「美國湖」。據《衛報》報導，總統甚至發布了一段影片，內容是他一邊跳舞，一邊將「安大略湖」的標誌更換為「美國湖」。此舉遭到加拿大官員的廣泛抵制。總理卡尼 (Mark Carney) 表示，該湖泊的名稱源自原住民溫達特語，意為「美麗的湖泊、偉大的湖泊」，這個名稱已存在超過 400 年。"
+      "en": "The impact of this conflict is being felt unevenly across both nations. BBC News reports that the Canadian province of Ontario has been hit the hardest due to its large manufacturing and auto parts industry. Thousands of jobs have been lost in the region since early 2025. In the United States, the economic pain is more focused on specific \"swing states\"—areas where voters are closely divided between political parties. Economists noted that Canada’s counter-tariffs seem deliberately aimed at states like Ohio, Illinois, and Pennsylvania, which could be important in upcoming elections.",
+      "zh": "這場衝突帶來的影響在兩國境內分布不均。BBC 新聞報導指出，加拿大的安大略省（Ontario）因擁有龐大的製造業與汽車零件產業，受創最為嚴重。自二零二五年初以來，該地區已有數千個工作機會流失。在美國，經濟痛苦則更集中於特定的「搖擺州」——即選民在各政黨間勢均力敵的地區。經濟學家指出，加拿大的報復性關稅似乎刻意針對俄亥俄州、伊利諾州與賓夕法尼亞州，這些州在即將到來的選舉中可能扮演關鍵角色。"
     },
     {
       "id": "p4",
-      "en": "Ontario Premier Doug Ford has taken a public stand against the name change. He recently unveiled a giant billboard near the US border that reads, 'Lake Ontario. Now and Always.' Ford told reporters that Canada is a strong nation that will not back down from what he described as a bully. He argued that the name of the lake will remain long after President Trump has left office. NPR News reports that the name change only applies to US federal agencies and how they label the lake on official maps. However, the impact is already visible in the digital world. Google has updated its maps to show 'Lake America' for users located in the United States, while those in Canada continue to see the traditional name.",
-      "zh": "安大略省省長福特 (Doug Ford) 公開反對這項更名。他最近在美加邊境附近揭幕了一塊巨大的看板，上面寫著：「安大略湖。現在與永遠。」福特告訴記者，加拿大是一個強大的國家，不會向他口中的霸凌者低頭。他主張，即便川普總統卸任後，這個湖名仍將長存。美國公共廣播電台 (NPR) 報導稱，這項更名僅適用於美國聯邦機構及其在官方地圖上的標示方式。然而，其影響已在數位世界中顯現。Google 已更新其地圖，將位於美國境內的使用者所看到的名稱改為「美國湖」，而加拿大境內的使用者則持續看到傳統名稱。"
+      "en": "Beyond the economic data, the tension has taken a strange and symbolic turn. President Donald Trump recently signed an executive order to change the name of Lake Ontario, which sits on the border between the two countries, to \"Lake America.\" While the US government is still in the process of updating its official maps, the change has already appeared on major digital platforms. Ars Technica reports that Google Maps began using the new name for US users shortly after the president’s announcement, noting that the company follows official US geographic databases.",
+      "zh": "除了經濟數據之外，緊張局勢還出現了詭異且具象徵意義的轉變。美國總統川普（Donald Trump）近期簽署了一項行政命令，將位於兩國邊境的安大略湖更名為「美國湖」。儘管美國政府仍在更新官方地圖的過程中，但這項變更已出現在各大數位平台上。科技媒體 Ars Technica 報導，在總統宣布後不久，Google 地圖便開始對美國使用者採用新名稱，並指出該公司是遵循美國官方的地理資料庫。"
     },
     {
       "id": "p5",
-      "en": "This naming dispute is not the first time President Trump has attempted to change the name of a body of water. During his second presidency, he also directed US agencies to refer to the Gulf of Mexico as the 'Gulf of America.' The president has linked his recent actions to his frustration with trade negotiations, telling reporters that Canada is the 'worst' country to deal with regarding trade. He claims that Canada feels entitled, a sentiment he used to justify the new taxes.",
-      "zh": "這場命名爭議並非川普總統首次試圖更改水域名稱。在他第二個總統任期內，他也曾指示美國機構將墨西哥灣改稱為「美國灣」。總統將其近期的行動與他對貿易談判的挫折感連結起來，並告訴記者，加拿大是處理貿易問題時「最糟糕」的國家。他聲稱加拿大自以為是，並以此作為實施新稅的理由。"
+      "en": "This naming dispute is only one part of a much larger disagreement. The Guardian Business reports that trade negotiations collapsed over several complex issues, including Canadian laws that require streaming companies to support local content and the French language. Canadian Prime Minister Mark Carney has described these US demands as an attack on Canadian culture. While Jamieson Greer, the US trade representative, initially dismissed these concerns, he later attempted to soften his language, stating that the US government respects the importance of the French language in Canada.",
+      "zh": "這場命名爭議只是更大規模分歧的一部分。《衛報》商業版（The Guardian Business）報導，貿易談判因多項複雜議題而破裂，其中包括加拿大要求串流媒體公司支持在地內容與法語的法律。加拿大總理卡尼（Mark Carney）將這些美國的要求形容為對加拿大文化的攻擊。雖然美國貿易代表葛瑞爾（Jamieson Greer）起初不以為意，但他隨後試圖放軟語氣，表示美國政府尊重法語在加拿大的重要性。"
     },
     {
       "id": "p6",
-      "en": "As the trade war and the naming dispute continue, there is no clear path to a resolution. Economists and officials are watching closely to see how these tensions will affect the upcoming midterm elections in the United States. Derek Holt, an economist with Scotiabank, noted that Canada’s counter-tariffs appear to be carefully chosen to target states that could decide the balance of power in the US government. For now, the two countries remain stuck in a dangerous game of pressure, with businesses and citizens on both sides of the border feeling the consequences of the ongoing standoff.",
-      "zh": "隨著貿易戰與命名爭議持續延燒，目前尚無明確的解決途徑。經濟學家與官員正密切關注這些緊張局勢將如何影響美國即將到來的期中選舉。加拿大豐業銀行 (Scotiabank) 的經濟學家霍爾特 (Derek Holt) 指出，加拿大的報復性關稅似乎經過精心挑選，旨在針對那些可能決定美國政府權力平衡的州。目前，兩國仍陷入一場危險的施壓博弈中，邊境兩側的企業與公民都正承受著這場僵局所帶來的後果。"
+      "en": "Despite these attempts to calm the situation, the atmosphere remains hostile. The Guardian Business noted that the president’s decision to rename the lake was seen by many as a sign of his aggressive approach to trade, leaving his own officials with little room to negotiate. The move has been widely criticized in Canada as an act of bullying, further hardening public opinion against the US administration.",
+      "zh": "儘管有這些試圖緩和局勢的舉動，氣氛依然充滿敵意。《衛報》商業版指出，總統更名湖泊的決定被許多人視為他採取強硬貿易手段的跡象，這讓其官員幾乎沒有談判空間。此舉在加拿大被廣泛批評為霸凌行為，進一步加深了公眾對美國政府的反感。"
+    },
+    {
+      "id": "p7",
+      "en": "As the situation continues to develop, the outlook remains uncertain. Both nations are currently locked in a cycle of pressure that shows no signs of ending. With no resolution in sight, the economic consequences are expected to grow, potentially affecting more industries and regions in the coming months. For now, the focus remains on whether either side will be willing to return to the negotiating table or if the trade war will continue to escalate.",
+      "zh": "隨著局勢持續發展，前景依然不明朗。兩國目前陷入了一場看不到盡頭的壓力循環。由於目前尚無解決方案，預計經濟後果將會擴大，未來幾個月內可能會影響更多產業與地區。目前，焦點仍放在雙方是否願意重回談判桌，或是貿易戰將持續升級。"
     }
   ],
-  "wordCount": 718,
+  "wordCount": 638,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
-      "term": "hit back",
-      "definitionEn": "To retaliate or respond to an attack or criticism.",
-      "definitionZh": "反擊、回擊。",
+      "term": "broke down",
+      "definitionEn": "To fail or stop working, often referring to negotiations or discussions.",
+      "definitionZh": "（談判、討論等）失敗、破裂。",
       "partOfSpeech": "phrasal verb",
-      "noteZh": "這裡指在貿易戰中採取報復性措施。文中：Canada has hit back with what it calls a 'dollar-for-dollar' and 'strategic' response."
+      "noteZh": "常見作機器故障，這裡指談判破裂。文中：After trade talks between the two neighbors broke down, both countries have entered a cycle of tariffs—taxes on goods brought into a country—and retaliatory measures."
     },
     {
-      "term": "back down",
-      "definitionEn": "To withdraw from a position or argument in a conflict.",
-      "definitionZh": "退縮、放棄立場。",
-      "partOfSpeech": "phrasal verb",
-      "noteZh": "常用於衝突中表示不願妥協。文中：Ford told reporters that Canada is a strong nation that will not back down from what he described as a bully."
+      "term": "hit",
+      "definitionEn": "To be negatively affected by something difficult or painful.",
+      "definitionZh": "受到（負面事物）的打擊或影響。",
+      "partOfSpeech": "verb (past participle)",
+      "noteZh": "常見作「打擊」的動作，這裡指受到經濟衝擊。文中：BBC News reports that the Canadian province of Ontario has been hit the hardest due to its large manufacturing and auto parts industry."
     },
     {
-      "term": "standoff",
-      "definitionEn": "A situation in which neither side in a conflict can make progress.",
-      "definitionZh": "僵局、對峙。",
-      "partOfSpeech": "noun",
-      "noteZh": "由動詞片語 stand off 演變而來的名詞。文中：with businesses and citizens on both sides of the border feeling the consequences of the ongoing standoff."
+      "term": "soften",
+      "definitionEn": "To make one's tone or position less harsh or aggressive.",
+      "definitionZh": "緩和（語氣或立場）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作「使變軟」，這裡指態度變得溫和。文中：While Jamieson Greer, the US trade representative, initially dismissed these concerns, he later attempted to soften his language, stating that the US government respects the importance of the French language in Canada."
+    },
+    {
+      "term": "locked in",
+      "definitionEn": "To be trapped in a situation that is difficult to escape from.",
+      "definitionZh": "陷入（某種難以脫身的狀態）。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這裡指陷入無法停止的惡性循環。文中：Both nations are currently locked in a cycle of pressure that shows no signs of ending."
     }
   ],
   "sources": [
     {
-      "name": "BBC Business",
+      "name": "The Guardian Business",
+      "url": "https://www.theguardian.com/us-news/2026/aug/31/trump-trade-officials-tariffs-canada",
+      "title": "As US-Canada tensions flare, who’s calling the shots in Trump’s trade team?",
+      "publishedAt": "2026-08-31T10:00:23Z"
+    },
+    {
+      "name": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
-      "title": "The US-Canada trade war in 5 charts",
+      "title": "How the US-Canada trade war is being felt on both sides of the border",
       "publishedAt": "2026-08-31T00:05:22Z"
     },
     {
-      "name": "The Guardian World",
-      "url": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
-      "title": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
-      "publishedAt": "2026-08-30T18:57:22Z"
-    },
-    {
-      "name": "NPR News",
-      "url": "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
-      "title": "Canada claps back at Trump's efforts to rename Lake Ontario as 'Lake America'",
-      "publishedAt": "2026-08-30T14:36:44Z"
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/",
+      "title": "Google Maps renames \"Lake Ontario\" to \"Lake America\" even faster than US government",
+      "publishedAt": "2026-08-31T15:33:32Z"
     }
   ],
   "story": {
@@ -98,18 +110,18 @@
         "summaryEn": "President Trump has ordered US government agencies to rename Lake Ontario as Lake America. This move is part of a larger trade war involving high taxes on Canadian goods. Canadian officials have strongly rejected the name change, calling it a sign of bullying. Google Maps has updated its labels to reflect the US government's new name for American users. The situation remains tense as both sides continue to exchange harsh words and economic actions."
       },
       {
+        "slug": "us-canada-trade-war-and-lake-naming-dispute-aug-2026",
+        "title": "Trade War and Naming Dispute: Tensions Rise Between US and Canada",
+        "publishedAt": "2026-08-31T00:35:58.673859Z",
+        "category": "economics",
+        "summaryEn": "The United States and Canada are currently locked in a serious trade war that shows no signs of ending. President Donald Trump has placed heavy taxes on Canadian goods, leading Canada to respond with its own counter-taxes. Beyond the economic fight, the two nations are arguing over the name of Lake Ontario. President Trump ordered US agencies to call it 'Lake America,' a move Canada has strongly rejected. While trade talks have stalled, the conflict is now affecting businesses and manufacturing jobs in both countries."
+      },
+      {
         "slug": "us-canada-trade-war-and-economic-fallout-aug-2026",
         "title": "Trade War Tensions Rise as Canada and the US Clash Over Borders and Names",
         "publishedAt": "2026-08-30T00:18:05.449105Z",
         "category": "economics",
         "summaryEn": "The trade relationship between the United States and Canada has collapsed, leading to a serious economic conflict. The US recently placed high taxes on $20 billion worth of Canadian products. In response, Canadian citizens are boycotting American goods and services across the country. Tensions grew further after the US president ordered that Lake Ontario be renamed 'Lake America'. Canadian leaders and citizens alike are pushing back against these actions with strong public protests."
-      },
-      {
-        "slug": "us-canada-trade-war-and-economic-fallout-aug-2026",
-        "title": "The Great Divide: Canadians Boycott American Goods Amid Trade War",
-        "publishedAt": "2026-08-29T22:14:08.582756Z",
-        "category": "economics",
-        "summaryEn": "A trade war between the United States and Canada has led to a widespread boycott of American products by Canadian citizens. The conflict escalated after the United States imposed high taxes on Canadian goods, leading to a collapse in trade negotiations. Canadian Prime Minister Mark Carney has promised to respond with equal measures. Many Canadians are now choosing to buy local products despite the higher costs. This movement reflects deep frustration with the current political situation between the two nations."
       }
     ]
   },
@@ -117,54 +129,54 @@
     {
       "id": "q1",
       "type": "detail",
-      "question": "According to the article, how has the trade war specifically impacted the province of Ontario?",
+      "question": "Which of the following products is specifically mentioned as a target of Canada's retaliatory tariffs?",
       "options": {
-        "A": "It has led to a complete shutdown of all manufacturing plants in the region.",
-        "B": "It has resulted in the loss of tens of thousands of jobs in the manufacturing sector.",
-        "C": "It has forced the province to rename its most famous lake to avoid US tariffs.",
-        "D": "It has caused the province to become the primary target of US retaliatory taxes."
+        "A": "Steel",
+        "B": "Furniture",
+        "C": "Automobiles",
+        "D": "Lumber"
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。根據文章第二段，安大略省因為其龐大的製造業，導致多間汽車零件與組裝廠宣佈裁員，預估自 2025 年初以來已流失數萬個製造業職位。選項 A 錯誤，因為文章僅提到「裁員」而非「完全關閉」。選項 C 是錯誤資訊，改名爭議與經濟制裁是兩回事。選項 D 錯誤，文章指出受美國關稅影響最重的是加拿大整體，而加拿大反制關稅影響最重的是美國的俄亥俄州，而非安大略省。"
+      "explanationZh": "正確答案為 B。根據文章第二段，加拿大採取「對等」關稅，針對美國的家具、化妝品和農機具（furniture, cosmetics, and farm equipment）。選項 A、C、D 皆為美國對加拿大課稅的項目，而非加拿大對美國課稅的項目，此題考驗讀者釐清貿易戰中雙方針對的具體產業。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "What can be inferred about Canada's strategy regarding its counter-tariffs?",
+      "question": "Based on the text, why might Canada's counter-tariffs be considered politically strategic?",
       "options": {
-        "A": "Canada is attempting to hurt the US economy as a whole by targeting major tech hubs.",
-        "B": "Canada is trying to influence US political outcomes by targeting specific swing states.",
-        "C": "Canada is avoiding any action that might negatively affect the upcoming US midterm elections.",
-        "D": "Canada is choosing to focus its tariffs on states that have historically supported the US president."
+        "A": "They are designed to help the Canadian economy grow faster than the US economy.",
+        "B": "They focus on industries that are currently failing in Canada.",
+        "C": "They target specific US regions that are crucial for upcoming political elections.",
+        "D": "They aim to force the US to change its official geographic databases."
       },
-      "correct": "B",
-      "explanationZh": "正確答案為 B。根據文章最後一段，經濟學家 Derek Holt 指出，加拿大的反制關稅經過謹慎選擇，旨在針對那些可能決定美國政府權力平衡的州份。這暗示加拿大試圖透過經濟手段影響美國的政治版圖。選項 A 錯誤，因為文章提到的是針對特定州而非全國。選項 C 錯誤，加拿大顯然正透過關稅介入美國選舉氛圍。選項 D 錯誤，文章並未提及針對支持總統的州，而是針對影響力大的州。"
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第三段指出，加拿大的反制關稅刻意針對俄亥俄州、伊利諾州和賓州等「搖擺州」，這些地區在即將到來的選舉中至關重要。選項 A 文中未提及；選項 B 與文中提到的經濟痛苦集中在特定區域不符；選項 D 則是關於改名事件，與關稅策略無直接關聯。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the final paragraph, what does the word 'standoff' most closely mean as used in the context of the US-Canada relationship?",
+      "question": "In the final paragraph, what does the phrase 'locked in a cycle of pressure' imply about the current US-Canada relationship?",
       "options": {
-        "A": "A friendly competition to see who can grow their economy faster.",
-        "B": "A temporary agreement to pause trade negotiations for a short time.",
-        "C": "A situation where two sides are in conflict and neither is willing to give in.",
-        "D": "A formal meeting held to discuss the legal boundaries of international borders."
+        "A": "The two countries are working together to release economic tension.",
+        "B": "Both nations are trapped in a repetitive pattern of escalating conflict.",
+        "C": "The trade war has reached a stable and peaceful conclusion.",
+        "D": "One country has successfully pressured the other into an agreement."
       },
-      "correct": "C",
-      "explanationZh": "正確答案為 C。在文中 'standoff' 指的是雙方僵持不下的對峙狀態。文章描述了貿易戰與命名爭議，且雙方都不願退讓，因此這是一個典型的「僵局」。選項 A 錯誤，這並非友好的競爭。選項 B 錯誤，這並非暫停協議，而是持續的衝突。選項 D 錯誤，這不是指邊界會議，而是指雙方關係緊張的狀態。"
+      "correct": "B",
+      "explanationZh": "正確答案為 B。這裡的 'locked in a cycle' 形容雙方陷入了一種無法脫身的僵局，不斷重複採取報復措施。選項 A 錯誤，因為雙方關係目前是敵對的；選項 C 與文中提到的「沒有結束跡象」矛盾；選項 D 錯誤，因為目前並未達成任何協議，雙方都在持續施壓。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "What is the primary message of this article?",
+      "question": "What is the primary focus of the article?",
       "options": {
-        "A": "The US and Canada are successfully resolving their trade disputes through new naming conventions.",
-        "B": "The conflict between the US and Canada is limited to a minor disagreement over a lake's name.",
-        "C": "The US and Canada are experiencing a significant, multi-faceted deterioration in their bilateral relationship.",
-        "D": "The US president is primarily concerned with environmental issues regarding the Great Lakes."
+        "A": "The history of trade agreements between the United States and Canada.",
+        "B": "The technical process of how digital maps update geographic names.",
+        "C": "The cultural differences that have always divided the two North American neighbors.",
+        "D": "The escalating economic conflict and deteriorating diplomatic relations between the US and Canada."
       },
-      "correct": "C",
-      "explanationZh": "正確答案為 C。文章全面探討了美加兩國在貿易戰與命名爭議上的緊張關係，顯示兩國關係正處於多年來最困難的時期。選項 A 錯誤，文章明確表示目前沒有明確的解決途徑。選項 B 錯誤，命名爭議只是衝突的一部分，貿易戰才是核心。選項 D 錯誤，總統的動機是貿易談判的挫折與政治報復，而非環境保護。"
+      "correct": "D",
+      "explanationZh": "正確答案為 D。整篇文章從貿易戰的開端、經濟影響、政治角力到象徵性的命名爭議，皆圍繞著美加兩國日益惡化的關係與貿易衝突展開。選項 A 範圍過於狹窄且非重點；選項 B 僅為文中一個小插曲；選項 C 雖有提及文化議題，但並非文章探討的主軸。"
     }
   ],
   "aiGenerated": true,

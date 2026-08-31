@@ -1,0 +1,160 @@
+{
+  "id": "2026-08-31-music-publishers-sue-anthropic-over-copyright",
+  "slug": "music-publishers-sue-anthropic-over-copyright-aug-2026",
+  "publishedAt": "2026-08-31T22:14:10.319162Z",
+  "category": "technology",
+  "title": "Music Giants Sue AI Company Anthropic Over Copyright Claims",
+  "subtitle": "Major publishers allege that the maker of Claude used thousands of copyrighted songs to train its artificial intelligence without permission.",
+  "summary": {
+    "en": "Leading music publishers have launched a major lawsuit against the AI company Anthropic. The companies claim that Anthropic used copyrighted song lyrics to train its Claude AI models without paying for them. This legal action follows a previous settlement where Anthropic paid authors for using pirated books. The publishers are seeking billions of dollars in damages for the alleged misuse of their intellectual property. Anthropic has stated that it disagrees with the claims and plans to defend itself in court.",
+    "zh": "領先的音樂出版商已對人工智慧公司 Anthropic 提起重大訴訟。這些公司指控 Anthropic 在未支付費用的情況下，使用受版權保護的歌詞來訓練其 Claude 人工智慧模型。此次法律行動發生在 Anthropic 因使用盜版書籍而向作家支付賠償金的和解案之後。出版商正針對其智慧財產權遭濫用的指控，尋求數十億美元的損害賠償。Anthropic 表示不同意這些指控，並計畫在法庭上為自己辯護。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "A group of the world’s largest music publishers has filed a major lawsuit against Anthropic, the company behind the popular Claude chatbot. According to The Guardian, companies including Sony Music Publishing and Warner Chappell are seeking damages for what they describe as a massive theft of intellectual property. The publishers claim that Anthropic used “tens of thousands” of copyrighted songs to train its artificial intelligence models without paying the necessary licensing fees—a payment made to owners for the right to use their creative work.",
+      "zh": "一群全球最大的音樂出版商已對熱門聊天機器人 Claude 的開發公司 Anthropic 提起重大訴訟。根據《衛報》（The Guardian）報導，包含索尼音樂出版（Sony Music Publishing）與華納查普爾音樂（Warner Chappell）在內的多家公司，正針對他們所稱的「大規模智慧財產權竊取」行為尋求損害賠償。這些出版商指控 Anthropic 在未支付必要授權費的情況下，使用了「數以萬計」的版權歌曲來訓練其人工智慧模型；授權費是指為了取得創作作品使用權而支付給所有者的費用。"
+    },
+    {
+      "id": "p2",
+      "en": "The lawsuit, filed in a California court, alleges that Anthropic used illegal methods to gather this data. These methods include “torrenting”—a way of sharing files over the internet—and “scraping,” which is the process of automatically copying information from websites. According to Ars Technica, the publishers believe that Anthropic’s leadership, including CEO Dario Amodei and co-founder Benjamin Mann, was directly involved in these activities. The complaint suggests that the company downloaded millions of pirated books and musical compositions to build its technology.",
+      "zh": "這起在加州法院提起的訴訟指控 Anthropic 採用非法手段蒐集資料。這些手段包括透過網路分享檔案的「種子下載」（torrenting），以及自動從網站複製資訊的「網路爬蟲」（scraping）。根據科技媒體《Ars Technica》報導，出版商認為 Anthropic 的領導層，包括執行長達里奧·阿莫代（Dario Amodei）與共同創辦人班傑明·曼恩（Benjamin Mann），皆直接參與了這些活動。訴狀指出，該公司為了建立其技術，下載了數百萬本盜版書籍與音樂作品。"
+    },
+    {
+      "id": "p3",
+      "en": "This legal action is not the first time Anthropic has faced such problems. The company recently settled a separate case with US authors for $1.5 billion after it was discovered that they had used millions of pirated books to train their AI. However, the music publishers argue that this previous settlement was not large enough to stop the company from continuing its practices. In the new lawsuit, the publishers state that Anthropic has used its AI to reproduce song lyrics exactly and to create new music that mimics the style of famous artists. They argue that this behavior hurts songwriters who are already struggling to compete with AI-generated content in the music charts.",
+      "zh": "這並非 Anthropic 首次面臨此類問題。該公司近期才因被發現使用數百萬本盜版書籍訓練人工智慧，而與美國作家達成一項金額達十五億美元的和解案。然而，音樂出版商主張，先前的和解金額不足以阻止該公司繼續此類行為。在新的訴訟中，出版商指出 Anthropic 利用其人工智慧精確重製歌曲歌詞，並創作出模仿知名藝人風格的新音樂。他們主張，這種行為傷害了在音樂排行榜上已難以與人工智慧生成內容競爭的詞曲創作者。"
+    },
+    {
+      "id": "p4",
+      "en": "The list of songs allegedly used without permission includes many famous hits, such as Mariah Carey’s “All I Want for Christmas is You” and Bon Jovi’s “Livin’ on a Prayer.” According to The Guardian, the publishers also claim that Anthropic removed identifying information from these songs during the training process. By doing this, the company allegedly prevented the original copyright owners from receiving proper credit for their work. The publishers are now seeking damages that could reach billions of dollars, based on claims of up to $150,000 for every piece of work that was used illegally.",
+      "zh": "據稱在未經許可下被使用的歌曲清單，包含了許多知名暢銷曲，例如瑪麗亞·凱莉（Mariah Carey）的《聖誕節我只要你》（All I Want for Christmas is You）以及邦喬飛（Bon Jovi）的《為愛祈禱》（Livin’ on a Prayer）。根據《衛報》報導，出版商亦指控 Anthropic 在訓練過程中移除了這些歌曲的識別資訊。透過此舉，該公司據稱阻礙了原始版權所有者獲得應有的作品歸屬權。出版商目前正尋求高達數十億美元的賠償，其依據為每件非法使用的作品最高可求償十五萬美元。"
+    },
+    {
+      "id": "p5",
+      "en": "Industry experts are watching the situation closely. Ed Newton-Rex, a composer who advocates for artist rights, told The Guardian that he was not surprised by the lawsuit. He noted that the company has a known history of using large libraries of protected material to train its models. This case is part of a growing wave of legal challenges against AI companies. For example, Ars Technica reported that the AI music generator Suno recently lost a copyright case in Germany after being accused of using songs without authorization.",
+      "zh": "產業專家正密切關注此局勢。致力於倡導藝人權益的作曲家艾德·紐頓-雷克斯（Ed Newton-Rex）向《衛報》表示，他對這起訴訟並不感到意外。他指出，該公司使用大量受保護的資料庫來訓練模型是有跡可循的。此案是針對人工智慧公司日益增多的法律挑戰浪潮之一。例如，《Ars Technica》報導指出，人工智慧音樂生成器 Suno 近期在德國因被控未經授權使用歌曲，而輸掉了一場版權官司。"
+    },
+    {
+      "id": "p6",
+      "en": "Anthropic has responded to these new allegations with a firm denial. A spokesperson for the company, which is currently preparing for a potential stock market listing that could value it at $2 trillion, stated that they disagree with the claims made by the publishers. The company has announced that it intends to defend itself robustly in court. As the legal battle begins, the outcome could have a significant impact on how AI companies are allowed to use creative works in the future. If the court decides in favor of the music publishers, it could force AI developers to change how they build their models and potentially lead to higher costs for using copyrighted material.",
+      "zh": "Anthropic 已針對這些新指控做出強硬否認。該公司目前正準備進行潛在的股票上市，估值可能達到兩兆美元；其發言人表示，他們不同意出版商提出的指控，並宣布打算在法庭上強力捍衛自身立場。隨著法律戰開打，其結果可能會對未來人工智慧公司使用創意作品的方式產生重大影響。若法院判決有利於音樂出版商，可能會迫使人工智慧開發者改變模型建構方式，並可能導致使用版權素材的成本增加。"
+    }
+  ],
+  "wordCount": 632,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "filed",
+      "definitionEn": "To officially submit a legal document or claim to a court.",
+      "definitionZh": "正式提出（訴訟、文件等）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（檔案），這裡作動詞用，指法律上的提告。文中：A group of the world’s largest music publishers has filed a major lawsuit against Anthropic, the company behind the popular Claude chatbot."
+    },
+    {
+      "term": "settled",
+      "definitionEn": "To reach an official agreement to end a legal dispute, usually by paying money.",
+      "definitionZh": "和解；達成協議。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作形容詞（穩定的）或動詞（定居），這裡指法律上的庭外和解。文中：The company recently settled a separate case with US authors for $1.5 billion after it was discovered that they had used millions of pirated books to train their AI."
+    },
+    {
+      "term": "defend",
+      "definitionEn": "To argue in support of oneself or one's actions in a court of law.",
+      "definitionZh": "辯護；為自己辯解。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作「防禦、保衛」，這裡指在法庭上為自己的行為進行法律辯護。文中：The company has announced that it intends to defend itself robustly in court."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/business/2026/aug/31/aanthropic-sued-alleged-theft-songs-ai-train-claude",
+      "title": "Anthropic sued over alleged theft of ‘tens of thousands’ of songs",
+      "publishedAt": "2026-08-31T12:42:05Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+      "publishedAt": "2026-08-31T18:10:45Z"
+    }
+  ],
+  "story": {
+    "id": "anthropic-faces-new-copyright-lawsuit",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "music-industry-lawsuit-against-anthropic-aug-2026",
+        "title": "Major Music Publishers Take Legal Action Against AI Company Anthropic",
+        "publishedAt": "2026-08-30T00:18:05.449105Z",
+        "category": "technology",
+        "summaryEn": "Two of the world's largest music publishers have filed a lawsuit against the AI company Anthropic. The companies claim that Anthropic used copyrighted song lyrics to train its Claude AI models without authorization. This legal action follows a series of similar complaints from other music industry groups. The publishers are seeking significant financial damages for the alleged misuse of their intellectual property. Anthropic has not yet responded to the claims made in the court filing."
+      },
+      {
+        "slug": "anthropic-faces-new-copyright-lawsuit-aug-2026",
+        "title": "Major Music Companies Sue AI Firm Anthropic Over Copyright",
+        "publishedAt": "2026-08-29T22:14:08.582756Z",
+        "category": "technology",
+        "summaryEn": "Two of the world’s largest music publishers have filed a lawsuit against the AI company Anthropic. The companies claim that Anthropic used copyrighted song lyrics to train its Claude AI models without authorization. This legal action follows a series of similar lawsuits brought by other music and publishing groups against the firm. The plaintiffs are seeking significant financial damages, potentially reaching billions of dollars. Anthropic has not yet provided a public response to these new allegations."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what specific action did the music publishers claim Anthropic took to avoid giving credit to original copyright owners?",
+      "options": {
+        "A": "They paid licensing fees to the wrong artists.",
+        "B": "They removed identifying information from songs during the training process.",
+        "C": "They hired composers to rewrite the lyrics of famous hits.",
+        "D": "They publicly denied using any copyrighted material in their models."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案是 B。根據文章第四段，出版商聲稱 Anthropic 在訓練過程中移除了歌曲的識別資訊（identifying information），這導致原著作權人無法獲得適當的署名。選項 A 錯誤，因為文章指出他們根本沒有支付許可費；選項 C 錯誤，因為文章提到的是模仿風格而非聘請作曲家改寫；選項 D 雖然是 Anthropic 的立場，但與題目詢問的「如何避免給予原作者信用」無關。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the impact of the previous lawsuit mentioned in the third paragraph?",
+      "options": {
+        "A": "It permanently stopped Anthropic from using copyrighted materials.",
+        "B": "It successfully forced Anthropic to change its data collection methods.",
+        "C": "It failed to act as a sufficient deterrent against Anthropic's data usage practices.",
+        "D": "It was considered a total victory for the AI industry."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案是 C。文章第三段提到，儘管 Anthropic 與作者達成了 15 億美元的和解，但音樂出版商認為該和解金額不足以阻止公司繼續其行為。這暗示了先前的法律行動並未達到預期的遏阻效果（deterrent），因此出版商才發起了新的訴訟。選項 A 與 B 錯誤，因為文章明確表示公司仍在進行這些行為；選項 D 與文意相反，這顯然不是 AI 產業的勝利。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the word 'robustly' mean in the context of Anthropic's plan to defend itself?",
+      "options": {
+        "A": "In a strong and determined manner.",
+        "B": "In a quiet and secretive way.",
+        "C": "In a way that is physically rough.",
+        "D": "In an uncertain and hesitant fashion."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案是 A。在法律語境中，「defend itself robustly」意指「強而有力地進行辯護」。Anthropic 作為一家市值可能達到 2 兆美元的公司，面對指控時採取的是堅決否認並準備在法庭上積極抗辯的態度。選項 B 與文意不符；選項 C 將形容詞誤解為物理上的粗魯，不適用於法律辯護；選項 D 與「firm denial（堅決否認）」的語氣完全相反。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of this article?",
+      "options": {
+        "A": "A detailed history of how Anthropic was founded by Dario Amodei.",
+        "B": "A guide for musicians on how to protect their work from AI scraping.",
+        "C": "A report on the growing legal conflict between music publishers and AI companies over copyright.",
+        "D": "A technical explanation of how torrenting and scraping work in AI training."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案是 C。全文主要圍繞著音樂出版商對 Anthropic 提起的訴訟展開，探討了 AI 訓練過程中的版權爭議，並提及這不僅是單一事件，而是 AI 產業面臨的廣泛法律挑戰。選項 A 僅是背景資訊；選項 B 並非文章主旨，文章並未提供建議；選項 D 僅在第二段簡短提及技術手段，並非文章的核心議題。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
