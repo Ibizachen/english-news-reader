@@ -1,0 +1,149 @@
+{
+  "id": "2026-09-02-environmental-impact-of-datacenters-and-ai",
+  "slug": "environmental-impact-of-datacenters-and-ai-sep-2026",
+  "publishedAt": "2026-09-02T22:14:14.285194Z",
+  "category": "energy",
+  "title": "The Hidden Cost of AI: Why Datacenters Face Growing Scrutiny",
+  "subtitle": "As the demand for artificial intelligence grows, concerns rise over the massive energy and water needs of the facilities that power it.",
+  "summary": {
+    "en": "The UK government is facing pressure to explain the environmental impact of the country's rapidly growing number of datacenters. These facilities require massive amounts of electricity and water to support AI technologies. Official data shows that the government does not fully track what these sites are used for or who benefits from them. Critics argue that these projects are being prioritized over essential public needs like water and housing. Environmental groups are now calling for stricter rules and a potential pause on new construction until better safeguards are in place.",
+    "zh": "英國政府正面臨壓力，要求其說明國內數量激增的資料中心對環境造成的影響。這些設施需要消耗大量電力與水資源來支援人工智慧技術。官方數據顯示，政府並未完全掌握這些設施的用途或受益對象。批評者認為，這些專案的優先順序高於水資源與住宅等基本公共需求。環保團體目前正呼籲制定更嚴格的規範，並在建立完善的防護措施前，暫停核准新的建設工程。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The rapid rise of artificial intelligence (AI) has brought a new challenge to countries around the world: how to manage the massive, energy-hungry buildings known as datacenters. These facilities hold the powerful computers that allow AI to function, but they also consume vast amounts of electricity and water. In the United Kingdom, this has led to a heated debate about whether the benefits of these sites are worth the environmental cost.",
+      "zh": "人工智慧的快速崛起為全球各國帶來了一項新挑戰：如何管理那些被稱為資料中心、規模龐大且極度耗能的建築。這些設施容納了讓人工智慧得以運作的高效能電腦，但同時也消耗了大量的電力與水資源。在英國，這引發了一場激烈的辯論，討論這些設施所帶來的效益是否值得其背後的環境代價。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Guardian, the UK government currently does not know exactly what the country’s datacenters are being used for. This lack of information is particularly concerning to critics because hundreds of new sites are waiting for permission to be built. Furthermore, there are 315 projects currently waiting to connect to the National Grid, the network that delivers electricity to homes and businesses across the country. Because the government cannot explain the specific purpose of these sites, many people are questioning why they are being given special treatment.",
+      "zh": "根據《衛報》（The Guardian）報導，英國政府目前並不清楚國內資料中心的具體用途。由於有數百個新設施正等待興建許可，這種資訊匱乏的情況令批評者感到格外擔憂。此外，目前有三百一十五個專案正排隊等待連接至「國家電網」（National Grid），即負責為全國住家與企業供電的網路系統。由於政府無法說明這些設施的具體目的，許多民眾質疑為何它們能享有特殊待遇。"
+    },
+    {
+      "id": "p3",
+      "en": "Earlier this year, the government introduced a plan to help these projects move forward more quickly. This plan allows certain datacenters to be classified as \"Nationally Significant Infrastructure Projects.\" This status is important because it allows developers to bypass local planning committees, which are groups of local people who usually decide if a building project is good for their area. By getting approval directly from the national government, these companies can avoid local opposition. Zack Polanski, a leader in the Green party, criticized this approach, saying the government is trying to force these projects through without explaining who actually benefits from them.",
+      "zh": "今年稍早，政府推出了一項計畫，旨在協助這些專案加速推動。該計畫允許將特定資料中心歸類為「國家重大基礎建設專案」。這項地位至關重要，因為它讓開發商得以繞過地方規劃委員會，即那些通常由當地居民組成、負責評估建築專案是否對該地區有利的組織。透過直接取得中央政府的核准，這些企業便能避開地方上的反對聲音。綠黨（Green Party）領袖波蘭斯基（Zack Polanski）批評此舉，稱政府試圖在未說明誰真正受益的情況下，強行推動這些專案。"
+    },
+    {
+      "id": "p4",
+      "en": "Beyond the issue of transparency, there are serious concerns about the environment. The Guardian reported that some planned datacenter sites will produce more carbon emissions than major oil companies operating in the UK. These emissions make it harder for the country to reach its goals for reducing pollution. Additionally, these sites are known to be \"water-hungry,\" meaning they use large amounts of water to keep their computer systems cool. Water UK, an organization representing water companies, has warned that the country simply does not have enough water to support such a large expansion of these facilities.",
+      "zh": "除了透明度問題外，環境方面也存在嚴重疑慮。《衛報》報導指出，部分規劃中的資料中心所產生的碳排放量，將超過在英國營運的大型石油公司。這些排放量使得英國更難達成減碳目標。此外，這些設施以「耗水」聞名，意即它們需要大量水資源來冷卻電腦系統。代表水務公司的組織「英國水務」（Water UK）警告，英國目前的供水能力根本不足以支撐這些設施如此大規模的擴張。"
+    },
+    {
+      "id": "p5",
+      "en": "This creates a difficult situation for the public. Anisah Khan, a campaigns manager at the environmental charity Global Action Plan, noted that while regular people are facing restrictions on their water use, such as bans on using hoses in their gardens, datacenters are using up resources that could be used for essential housing projects. There is a fear that if a drought occurs, these sites might be prioritized over the needs of households because they are considered critical infrastructure.",
+      "zh": "這讓大眾陷入了困境。環境慈善機構「全球行動計畫」（Global Action Plan）的專案經理汗（Anisah Khan）指出，當一般民眾面臨用水限制（例如禁止在花園使用水管澆水）時，資料中心卻消耗了本可用於必要住宅建設的資源。人們擔心，若發生乾旱，由於這些設施被視為關鍵基礎建設，其用水需求可能會被優先於一般家庭需求。"
+    },
+    {
+      "id": "p6",
+      "en": "Some experts worry that these resources are being used for purposes that are not truly necessary. Oliver Hayes of Global Action Plan suggested that many of these datacenters are likely powering simple chatbots or other digital services that do not provide a great benefit to society. He warned that without proper oversight, these powerful systems could even be used for harmful activities, such as creating inappropriate content without a person's consent.",
+      "zh": "部分專家擔心，這些資源正被用於並非真正必要的用途。「全球行動計畫」的海耶斯（Oliver Hayes）認為，許多資料中心很可能只是在為簡單的聊天機器人或其他對社會貢獻有限的數位服務提供運算能力。他警告，若缺乏適當監管，這些強大的系統甚至可能被用於有害活動，例如在未經當事人同意的情況下製作不當內容。"
+    },
+    {
+      "id": "p7",
+      "en": "In response to these growing concerns, there is increasing pressure on the government to change its approach. The Scottish government is reportedly considering a \"moratorium\" on new datacenters, which is a temporary official pause on building new sites. Environmental groups like Friends of the Earth are calling for the UK government to do the same. They want a complete ban on new construction until the government creates clear, strict environmental rules. These rules would include requirements for projects to use 100% renewable energy, which is energy from natural sources like wind or sun that does not run out.",
+      "zh": "針對這些日益高漲的擔憂，政府面臨的改革壓力也隨之增加。據報導，蘇格蘭政府正考慮對新資料中心實施「暫停令」，即暫時停止核准興建新設施。像「地球之友」（Friends of the Earth）這樣的環保團體正呼籲英國政府採取相同做法。他們要求在政府制定明確且嚴格的環境規範前，全面禁止新設工程。這些規範應包含要求專案必須使用百分之百的再生能源，即來自風力或太陽能等不會耗盡的自然資源。"
+    },
+    {
+      "id": "p8",
+      "en": "As the debate continues, the central question remains: how should a country balance the desire for new technology with the need to protect the environment? For now, the government has not provided a clear answer, and the tension between digital growth and environmental responsibility continues to grow. With hundreds of projects waiting in line, the decisions made in the coming months will likely have a long-term impact on the country's energy use, water supply, and climate goals.",
+      "zh": "隨著辯論持續進行，核心問題依然存在：一個國家該如何在追求新科技的渴望與保護環境的需求之間取得平衡？目前，政府尚未給出明確答案，數位成長與環境責任之間的緊張關係也持續升溫。隨著數百個專案排隊等待審核，未來幾個月所做的決定，很可能會對英國的能源使用、供水供應及氣候目標產生長期影響。"
+    }
+  ],
+  "wordCount": 768,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "bypass",
+      "definitionEn": "To ignore or go around a rule, person, or process that would normally be required.",
+      "definitionZh": "繞過、避開（規則或程序）。",
+      "partOfSpeech": "verb",
+      "noteZh": "此詞常指物理上的繞道，這裡指規避行政程序。文中：This status is important because it allows developers to bypass local planning committees, which are groups of local people who usually decide if a building project is good for their area."
+    },
+    {
+      "term": "force",
+      "definitionEn": "To make something happen quickly or against resistance, often by using power or authority.",
+      "definitionZh": "強行推動、硬闖。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（力量），這裡作動詞，帶有強迫推動某事的意味。文中：Zack Polanski, a leader in the Green party, criticized this approach, saying the government is trying to force these projects through without explaining who actually benefits from them."
+    },
+    {
+      "term": "line",
+      "definitionEn": "A queue or a waiting list.",
+      "definitionZh": "隊伍、排隊。",
+      "partOfSpeech": "noun (in phrase)",
+      "noteZh": "這裡指「排隊等待」的狀態，而非單純的線條。文中：With hundreds of projects waiting in line, the decisions made in the coming months will likely have a long-term impact on the country's energy use, water supply, and climate goals."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Environment",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/02/uk-datacentres-ai-boom-foi-environment",
+      "title": "UK government does not know what datacentres are being used for, FoI request shows",
+      "publishedAt": "2026-09-02T13:44:54Z"
+    }
+  ],
+  "story": {
+    "id": "environmental-impact-of-datacenters-and-ai",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is the specific function of the 'Nationally Significant Infrastructure Projects' status for datacenter developers?",
+      "options": {
+        "A": "It guarantees that the project will be powered by 100% renewable energy.",
+        "B": "It allows developers to bypass local planning committees to get approval.",
+        "C": "It requires the government to provide public funding for the construction.",
+        "D": "It forces local communities to accept the datacenters regardless of environmental impact."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，該地位的主要功能是讓開發商能繞過（bypass）地方規劃委員會，直接由國家政府核准，從而避免地方上的反對。選項 A 錯誤，文中提到這是環保團體希望的目標，而非現行政策的內容。選項 C 錯誤，文中未提及政府提供資金。選項 D 雖然提到避免反對，但說「強制」社區接受並不準確，重點在於程序上的繞過機制。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the public's concern regarding the potential for a drought?",
+      "options": {
+        "A": "The public believes that datacenters will be forced to shut down to save water for homes.",
+        "B": "People are worried that datacenters might be prioritized over households due to their 'critical' status.",
+        "C": "The government has already promised to restrict datacenter water use during dry seasons.",
+        "D": "The public is more concerned about the electricity usage of datacenters than their water consumption."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據第五段，Anisah Khan 指出民眾擔心若發生乾旱，由於數據中心被視為「關鍵基礎設施」，政府可能會優先保障其用水而非一般家庭需求。選項 A 與文意相反，民眾擔心的是相反的情況。選項 C 錯誤，文中並未提到政府有此承諾。選項 D 錯誤，文中明確指出水資源短缺是公眾擔憂的重點之一，且文中並未比較兩者誰更受關注。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the seventh paragraph, the term 'moratorium' is used to describe a proposed action by the Scottish government. What does this word mean in this context?",
+      "options": {
+        "A": "A permanent cancellation of all existing projects.",
+        "B": "A legal investigation into the financial records of companies.",
+        "C": "A temporary official pause on building new sites.",
+        "D": "A new set of strict environmental taxes on technology."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第七段，作者緊接著解釋了 moratorium 的定義，即「a temporary official pause on building new sites」（對新建項目進行暫時性的官方暫停）。選項 A 錯誤，因為它是暫時的（temporary）而非永久取消。選項 B 與 D 均與文中定義的暫停建設行為無關，屬於無中生有的選項。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "Which of the following best summarizes the central conflict presented in the article?",
+      "options": {
+        "A": "The UK government is failing to regulate the financial profits of AI companies.",
+        "B": "Local planning committees are too slow to approve necessary technological advancements.",
+        "C": "The rapid expansion of energy-intensive datacenters is creating tension between technological growth and environmental sustainability.",
+        "D": "The public is demanding that all AI technology be banned to prevent the creation of harmful content."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。本文的核心在於討論數據中心帶來的環境成本（能源與水資源消耗）與國家推動數位發展需求之間的矛盾。文章從政府政策、環境影響、公眾擔憂到可能的解決方案，皆圍繞此核心衝突展開。選項 A 偏離主題，文中未討論 AI 公司的獲利。選項 B 僅是衝突的一個環節，而非整體主旨。選項 D 錯誤，文中提到的是對「監管」的需求，而非全面禁止 AI 技術。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}

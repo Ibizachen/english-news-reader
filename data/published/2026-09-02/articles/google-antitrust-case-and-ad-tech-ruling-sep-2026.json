@@ -1,0 +1,171 @@
+{
+  "id": "2026-09-02-google-antitrust-case-and-ad-tech-ruling",
+  "slug": "google-antitrust-case-and-ad-tech-ruling-sep-2026",
+  "publishedAt": "2026-09-02T22:14:14.285194Z",
+  "category": "technology",
+  "title": "Google Wins Major Court Battle Over Ad Tech Business",
+  "subtitle": "A US judge rejects government plans to force the sale of Google's advertising exchange",
+  "summary": {
+    "en": "A US federal judge has ruled that Google does not have to sell its online advertising exchange. This decision follows a long legal battle where the government accused Google of acting as an illegal monopoly. While the court previously found that Google used unfair tactics, it chose to use smaller behavioral changes instead of a breakup. This is the third time in a row that US judges have rejected attempts to break up major technology companies. The government is now reviewing its next steps after the ruling.",
+    "zh": "美國聯邦法官裁定 Google 無需出售其線上廣告交易平台。此項決定結束了一場漫長的法律訴訟，政府先前指控 Google 採取非法壟斷行為。儘管法院先前認定 Google 使用了不公平的手段，但最終選擇採取較小規模的行為修正，而非強制拆分公司。這是美國法官連續第三次駁回拆分大型科技公司的嘗試。目前政府正在評估該裁決後的下一步行動。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "A US federal judge has decided that Google will not be forced to sell its online advertising exchange, known as AdX. This decision is a significant victory for the technology giant, which has been fighting a long legal battle against the US Department of Justice (DOJ) over its dominance in the digital advertising market.",
+      "zh": "美國聯邦法官裁定，Google 不必被迫出售其名為 AdX 的線上廣告交易平台。這項裁決對這家科技巨頭而言是一場重大勝利，該公司長期以來一直與美國司法部（Department of Justice, DOJ）就其在數位廣告市場的壟斷地位進行法律訴訟。"
+    },
+    {
+      "id": "p2",
+      "en": "In 2025, Judge Leonie Brinkema ruled that Google held an illegal monopoly in the markets for publisher ad servers and ad exchanges. An antitrust case — a legal action taken by the government to stop companies from having too much power and hurting competition — was brought against the company in 2023. The DOJ and a group of states argued that Google used its power to make it difficult for competitors to succeed. They claimed that Google “rigged” ad auctions to give itself an unfair advantage. However, while the judge agreed that Google acted in an anticompetitive way, she decided that forcing the company to sell its ad exchange was not the right solution.",
+      "zh": "2025 年，法官布林克馬（Leonie Brinkema）裁定 Google 在發布商廣告伺服器與廣告交易平台市場中擁有非法壟斷地位。這起反托拉斯案——即政府為防止企業權力過大並損害競爭而採取的法律行動——於 2023 年對該公司提起。司法部與多個州政府主張，Google 利用其影響力阻礙競爭對手發展，並指控 Google 「操縱」廣告競標，以獲取不公平的優勢。然而，儘管法官同意 Google 的行為具有反競爭性質，她仍認為強制該公司出售其廣告交易平台並非正確的解決方案。"
+    },
+    {
+      "id": "p3",
+      "en": "According to The Guardian, the judge accepted most of the behavioral changes proposed by the parties instead of a forced sale. These changes are designed to fix the market without breaking up the company. While the exact details of the final order are currently sealed for 14 days to allow for final reviews, they are expected to include rules that stop Google from using certain unfair auction tactics. The Verge reports that these rules might also allow other companies to access the same real-time information that Google uses, helping to create a more level playing field.",
+      "zh": "根據《衛報》（The Guardian）報導，法官接受了各方提出的大部分行為修正方案，而非強制拆分。這些變更旨在修復市場機制，同時無需拆解公司。雖然最終命令的確切細節目前保密 14 天以進行最後審查，但預計將包含禁止 Google 使用特定不公平競標策略的規則。科技媒體《The Verge》報導指出，這些規則可能允許其他公司取得與 Google 相同的即時資訊，有助於創造更公平的競爭環境。"
+    },
+    {
+      "id": "p4",
+      "en": "Google expressed satisfaction with the court’s decision. Lee-Anne Mulholland, a Vice President at Google, stated that the company is pleased the court rejected the proposal to break apart tools that help small businesses reach new customers. On the other side, the DOJ noted that it is pleased the court ordered \"substantial relief\" and is currently evaluating its next steps. Associate AG Stanley Woodward Jr. mentioned that the court’s order reflects a balance between wanting immediate results and the long process of legal action.",
+      "zh": "Google 對法院的決定表示滿意。Google 副總裁穆霍蘭（Lee-Anne Mulholland）表示，公司很高興法院駁回了拆分那些協助小型企業接觸新客戶之工具的提案。另一方面，司法部指出，很高興法院下令採取「實質救濟」措施，目前正評估後續行動。司法部副部長伍德華（Stanley Woodward Jr.）提到，法院的命令反映了在追求立即成效與漫長法律程序之間的平衡。"
+    },
+    {
+      "id": "p5",
+      "en": "This ruling is the third time in a row that a US judge has rejected an attempt by government officials to break up a major technology company. Previously, a judge in Washington refused to make Meta sell Instagram and WhatsApp, saying the government failed to prove Meta held a monopoly. In another case, a different judge decided that Google would not have to sell its Chrome browser, even after ruling that the company held an illegal monopoly in online search. These repeated outcomes have led to questions about whether the current court system is able to effectively limit the power of the largest technology firms in the US economy.",
+      "zh": "這項裁決是美國法官連續第三次駁回政府官員拆分大型科技公司的嘗試。此前，華盛頓的一位法官拒絕強制 Meta 出售 Instagram 與 WhatsApp，理由是政府未能證明 Meta 構成壟斷。在另一起案件中，另一位法官裁定 Google 無需出售其 Chrome 瀏覽器，儘管先前已裁定該公司在線上搜尋領域擁有非法壟斷地位。這些接連出現的結果引發了外界質疑，現行司法體系是否具備有效限制美國經濟中最大型科技公司權力的能力。"
+    },
+    {
+      "id": "p6",
+      "en": "Experts note that the ad exchange is only a small part of Google’s total revenue. However, the government had argued that selling it was the best way to restore competition. Ars Technica reports that while the government did not get the breakup it wanted, the case is not entirely over. The DOJ still asked for fines and other changes to how Google does business, and it is likely that the court will grant many of these requests. The final details will become public in two weeks once the judge finishes reviewing the documents.",
+      "zh": "專家指出，廣告交易平台僅佔 Google 總營收的一小部分。然而，政府曾主張出售該平台是恢復競爭的最佳途徑。科技網站《Ars Technica》報導稱，儘管政府未能達成拆分目標，但案件尚未完全結束。司法部仍要求罰款及其他針對 Google 商業模式的變更，法院極有可能批准其中許多請求。最終細節將在法官完成文件審查後的兩週內公開。"
+    },
+    {
+      "id": "p7",
+      "en": "Looking ahead, the legal pressure on big tech companies remains high. While the district court phase for this case is ending, Google still has the option to appeal the judge’s original decision that it is an illegal monopoly. Meanwhile, other major antitrust cases against companies like Amazon and Apple are expected to move forward in the coming years. As the industry changes with the rise of new technologies like artificial intelligence, the government continues to look for ways to ensure fair competition for all businesses.",
+      "zh": "展望未來，大型科技公司面臨的法律壓力依然沉重。雖然此案的地方法院階段即將結束，但 Google 仍可選擇針對法官認定其構成非法壟斷的原始裁決提出上訴。與此同時，針對亞馬遜（Amazon）與蘋果（Apple）等公司的其他重大反托拉斯案，預計將在未來幾年持續推進。隨著人工智慧等新技術興起帶動產業變革，政府將持續尋求確保所有企業能公平競爭的方法。"
+    }
+  ],
+  "wordCount": 685,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "rigged",
+      "definitionEn": "Dishonestly arranged or manipulated to produce a specific, unfair result.",
+      "definitionZh": "操縱、作弊（指透過不公平手段影響結果）。",
+      "partOfSpeech": "verb (past participle as adjective)",
+      "noteZh": "常見於描述比賽或選舉，這裡指操縱競標過程。文中：They claimed that Google “rigged” ad auctions to give itself an unfair advantage."
+    },
+    {
+      "term": "sealed",
+      "definitionEn": "Kept secret or hidden from the public by a court order.",
+      "definitionZh": "（法律文件）保密的、未公開的。",
+      "partOfSpeech": "adjective",
+      "noteZh": "常見作動詞（密封），這裡形容法律文件暫不公開。文中：While the exact details of the final order are currently sealed for 14 days to allow for final reviews, they are expected to include rules that stop Google from using certain unfair auction tactics."
+    },
+    {
+      "term": "level playing field",
+      "definitionEn": "A situation where everyone has the same opportunities and advantages.",
+      "definitionZh": "公平的競爭環境。",
+      "partOfSpeech": "idiom",
+      "noteZh": "字面上是「平坦的球場」，引申為公平競爭的環境。文中：The Verge reports that these rules might also allow other companies to access the same real-time information that Google uses, helping to create a more level playing field."
+    },
+    {
+      "term": "in a row",
+      "definitionEn": "Happening one after another without interruption.",
+      "definitionZh": "連續地。",
+      "partOfSpeech": "idiom",
+      "noteZh": "容易誤以為與「排隊」有關，這裡指連續發生的次數。文中：This ruling is the third time in a row that a US judge has rejected an attempt by government officials to break up a major technology company."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/2026/sep/02/google-defeats-justice-department-bid-ad-tech-sale",
+      "title": "Google defeats US justice department bid to force ad tech sale",
+      "publishedAt": "2026-09-02T18:37:20Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
+      "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
+      "publishedAt": "2026-09-02T16:30:11Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/policy/988316/google-ad-tech-antitrust-remedies-decision",
+      "title": "Google dodges another breakup attempt",
+      "publishedAt": "2026-09-02T15:42:17Z"
+    }
+  ],
+  "story": {
+    "id": "anthropic-faces-new-copyright-lawsuit",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "music-industry-lawsuit-against-ai-company-sep-2026",
+        "title": "Music Giants Take Legal Action Against AI Company Anthropic",
+        "publishedAt": "2026-09-01T01:16:54.818449Z",
+        "category": "technology",
+        "summaryEn": "Music publishers have filed a major lawsuit against the AI company Anthropic. The publishers claim the company used thousands of copyrighted song lyrics to train its Claude AI models. This legal action follows similar disputes between the creative industry and technology companies. Anthropic has stated that it disagrees with the claims and will defend itself in court. The case highlights the ongoing tension between AI development and intellectual property rights."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the current status of the final order regarding Google's ad exchange?",
+      "options": {
+        "A": "It has been fully implemented and is now being enforced by the DOJ.",
+        "B": "It is currently sealed for two weeks to allow for final reviews.",
+        "C": "It has been rejected by the court because it was deemed unfair to small businesses.",
+        "D": "It requires Google to sell its ad exchange within 14 days."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，法官的最終命令目前被封存（sealed）14 天以進行最後審查。選項 A 錯誤，因為命令尚未執行；選項 C 錯誤，因為法官接受了行為改變的提案，並未拒絕；選項 D 錯誤，因為法官明確裁定不需要強制出售 ad exchange。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the US court system's approach to antitrust cases against major tech companies?",
+      "options": {
+        "A": "The courts are actively seeking to dismantle large tech firms to ensure market fairness.",
+        "B": "The courts prefer to impose behavioral changes rather than forcing companies to sell assets.",
+        "C": "The courts believe that tech giants like Google and Meta do not actually hold monopolies.",
+        "D": "The courts have decided that government intervention in the tech sector is no longer necessary."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第五段，這是連續第三次有法官拒絕政府要求拆分大型科技公司的請求（Meta、Chrome 案及本次 AdX 案），且第三段提到法官偏好行為改變而非強制出售。選項 A 與現實相反；選項 C 錯誤，因為文中提到法官確實認定 Google 具有非法壟斷地位；選項 D 過度推論，文中並未表示政府干預不再必要。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the third paragraph, what does the phrase 'level playing field' mean in the context of the article?",
+      "options": {
+        "A": "A situation where all competitors have equal opportunities to succeed.",
+        "B": "A physical area where digital advertisements are displayed to users.",
+        "C": "A rule that forces companies to lower their advertising prices.",
+        "D": "An agreement to stop using artificial intelligence in auctions."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在商業與法律語境中，「level playing field」意指公平競爭的環境，讓所有參與者都在相同的規則下競爭。文中提到讓其他公司存取與 Google 相同的即時資訊，目的就是為了讓市場競爭更公平。選項 B 是字面誤解；選項 C 與 D 皆非該片語的定義。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary focus of this article?",
+      "options": {
+        "A": "The history of how Google became a dominant force in digital advertising.",
+        "B": "A detailed analysis of how digital ad auctions are rigged against competitors.",
+        "C": "The legal implications of the DOJ's failure to win a breakup case against Google.",
+        "D": "A recent court ruling that avoids breaking up Google but addresses its anticompetitive behavior."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。文章核心在於報導法官針對 Google AdX 的裁決，即雖然認定其有反競爭行為，但拒絕了拆分公司的請求，並轉而採取行為限制措施。選項 A 偏離主題；選項 B 僅是背景資訊；選項 C 雖然相關，但未涵蓋法院對行為改變的具體裁定，選項 D 最能精確概括全文主旨。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
