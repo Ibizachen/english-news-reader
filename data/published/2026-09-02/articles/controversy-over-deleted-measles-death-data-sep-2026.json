@@ -1,0 +1,172 @@
+{
+  "id": "2026-09-02-controversy-over-deleted-measles-death-data",
+  "slug": "controversy-over-deleted-measles-death-data-sep-2026",
+  "publishedAt": "2026-09-02T00:11:32.908241Z",
+  "category": "public-health",
+  "title": "CDC Faces Questions After Removing Measles Deaths from Official Data",
+  "subtitle": "A rare disagreement between federal health officials and state records sparks debate over public health reporting.",
+  "summary": {
+    "en": "The Centers for Disease Control and Prevention (CDC) has removed two measles deaths from its national records. These deaths were originally reported by health officials in Pennsylvania. The CDC's new director, Erica Schwartz, ordered the change, stating it is unclear if measles caused the deaths. This move has created a public disagreement between federal and state authorities. Experts are concerned that this conflict could affect public trust in health data.",
+    "zh": "美國疾病管制與預防中心 (CDC) 已從全國紀錄中移除兩起麻疹死亡案例。這些死亡案例最初由賓夕法尼亞州的衛生官員通報。疾病管制與預防中心新任主任史瓦茲下令進行此項變動，理由是無法明確確認死因是否為麻疹。此舉引發了聯邦與州政府之間的公開爭議。專家擔心，這場衝突可能會影響大眾對健康數據的信任。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The United States health system is currently dealing with a rare and public disagreement over how to count deaths related to measles. The Centers for Disease Control and Prevention (CDC), the nation’s top public health agency, has decided to remove two measles deaths from its national data. These deaths were previously reported by health officials in Pennsylvania. This decision is unusual because, in the past, state health departments have been the ones to decide how to count cases and deaths, not the federal government.",
+      "zh": "美國醫療體系目前正處理一場罕見且公開的爭議，內容關於如何計算與麻疹相關的死亡人數。美國最高公共衛生機構「疾病管制與預防中心 (CDC)」已決定從全國數據中移除兩起麻疹死亡案例。這些死亡案例先前是由賓夕法尼亞州的衛生官員所通報。這項決定相當不尋常，因為過去以來，決定如何計算病例與死亡人數的權責向來屬於州衛生部門，而非聯邦政府。"
+    },
+    {
+      "id": "p2",
+      "en": "According to Ars Technica, the change happened quickly over a single weekend in late August. On August 29, the CDC website showed zero measles deaths for 2026. By the next day, the number was updated to two. However, by that same afternoon, the agency removed the two deaths from the chart. In their place, the CDC added an asterisk, which leads to a note explaining that the agency is not including these deaths in its official count. The note states that the available information does not clearly show if measles caused the deaths or if the individuals died from other causes while they happened to be infected with the virus.",
+      "zh": "根據科技新聞網站「Ars Technica」報導，這項變動發生在八月下旬的一個週末，過程相當迅速。八月二十九日，疾病管制與預防中心的網站顯示二零二六年麻疹死亡人數為零。到了隔天，數字更新為二。然而，就在當天下午，該機構便將這兩起死亡案例從圖表中移除。取而代之的是，疾病管制與預防中心加上了一個星號，連結至一則註解，說明該機構並未將這些死亡案例納入官方統計。註解指出，現有資訊無法明確顯示死因是否為麻疹，亦或是這些人在感染病毒的同時，死於其他原因。"
+    },
+    {
+      "id": "p3",
+      "en": "This decision has brought significant attention to the CDC’s new director, Erica Schwartz. The New York Times reports that Dr. Schwartz, who has been in her position for less than a month, ordered the staff to make this change. By challenging the findings of state officials in Pennsylvania, the CDC has placed itself in the middle of a political debate. The issue has become more complex because the accuracy of these death reports was questioned by Robert F. Kennedy Jr., adding a layer of political pressure to the scientific process.",
+      "zh": "這項決定讓疾病管制與預防中心的新任主任史瓦茲 (Erica Schwartz) 備受關注。《紐約時報》報導，上任不到一個月的史瓦茲博士下令員工進行此項變動。透過挑戰賓夕法尼亞州官員的調查結果，疾病管制與預防中心將自己置於政治辯論的中心。由於小羅伯特·甘迺迪 (Robert F. Kennedy Jr.) 對這些死亡報告的準確性提出質疑，使得問題變得更加複雜，也為科學決策過程增添了政治壓力。"
+    },
+    {
+      "id": "p4",
+      "en": "MedPage Today notes that this situation highlights a growing tension regarding how health data is managed and reported. Traditionally, the CDC relies on state-level data to build its national reports. When the federal government decides to step in and challenge a state’s conclusion, it breaks from the usual way these agencies work together. This has led to questions about whether the CDC is making decisions based on medical evidence or if outside pressure is influencing their reports.",
+      "zh": "醫療新聞網站「MedPage Today」指出，此情況凸顯了在健康數據管理與通報方式上日益緊張的關係。傳統上，疾病管制與預防中心依賴州級數據來建立全國報告。當聯邦政府決定介入並挑戰州的結論時，這打破了這些機構之間慣有的合作模式。這引發了外界質疑：疾病管制與預防中心究竟是基於醫學證據做出決策，還是受到外部壓力影響而調整報告。"
+    },
+    {
+      "id": "p5",
+      "en": "For many, the core of the problem is the importance of clear and consistent health information. When the public sees conflicting reports from different levels of government, it can become difficult to know which information to trust. Experts worry that if people lose faith in the accuracy of official health data, it could make it harder for officials to manage future public health challenges. The disagreement is not just about two numbers on a chart; it is about the process of how the government defines and tracks health threats.",
+      "zh": "對許多人而言，問題的核心在於清晰且一致的健康資訊至關重要。當大眾看到不同層級政府發布相互矛盾的報告時，便難以判斷該信任哪一方的資訊。專家擔心，如果民眾對官方健康數據的準確性失去信心，將使官員更難以應對未來的公共衛生挑戰。這場爭議不僅僅是關於圖表上的兩個數字，而是關於政府如何定義與追蹤健康威脅的程序問題。"
+    },
+    {
+      "id": "p6",
+      "en": "As of this week, the note regarding the two deaths remains on the CDC website. The agency has not provided further updates on whether they will reconsider the inclusion of these cases in the future. Meanwhile, the incident continues to be a point of discussion among medical professionals and public health observers. Many are watching to see if this move will change how the CDC handles reports from states in the long term, or if it will lead to new rules for how death data is verified before it is published nationally.",
+      "zh": "截至本週，關於這兩起死亡案例的註解仍留在疾病管制與預防中心的網站上。該機構尚未進一步說明未來是否會重新考慮將這些案例納入統計。與此同時，此事件持續成為醫學專業人士與公共衛生觀察家討論的焦點。許多人都在關注此舉是否會長期改變疾病管制與預防中心處理州級報告的方式，或者是否會針對死亡數據在全國發布前的驗證程序制定新規則。"
+    },
+    {
+      "id": "p7",
+      "en": "This controversy comes at a time when the CDC is managing several other health initiatives, including new tools for tracking drug overdoses and responding to global health crises like the Ebola outbreak in Congo. With so many responsibilities, the agency faces the difficult task of maintaining its reputation as a reliable source of information. Whether this specific case will lead to a change in how the CDC and state health departments work together remains to be seen. For now, the public is left with a situation where the official national count and the state-reported data do not match, leaving many to wonder about the accuracy of the information being shared with the country.",
+      "zh": "這場爭議發生之際，疾病管制與預防中心正負責管理多項其他健康計畫，包括追蹤藥物過量的新工具，以及應對如剛果伊波拉疫情等全球衛生危機。身負眾多職責，該機構面臨著維持其作為可靠資訊來源聲譽的艱鉅任務。此特定案例是否會導致疾病管制與預防中心與州衛生部門的合作方式產生改變，仍有待觀察。目前，大眾面對的是官方全國統計數據與州政府通報數據不一致的情況，這讓許多人對分享給全國的資訊準確性感到懷疑。"
+    }
+  ],
+  "wordCount": 724,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "step in",
+      "definitionEn": "To become involved in a difficult situation or argument in order to help or change the outcome.",
+      "definitionZh": "介入、插手（某事）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見於日常對話，此處指聯邦政府介入州政府的決策。文中：When the federal government decides to step in and challenge a state’s conclusion, it breaks from the usual way these agencies work together."
+    },
+    {
+      "term": "remains to be seen",
+      "definitionEn": "It is not yet certain or known; it will become clear in the future.",
+      "definitionZh": "尚待觀察、還不確定。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這是一個固定慣用語，用於表示事情的結果尚未揭曉。文中：Whether this specific case will lead to a change in how the CDC and state health departments work together remains to be seen."
+    },
+    {
+      "term": "in their place",
+      "definitionEn": "Instead of the thing or person previously mentioned.",
+      "definitionZh": "取而代之的是。",
+      "partOfSpeech": "idiom",
+      "noteZh": "容易誤以為是「在他們的位置」，但在此處指替換掉先前的內容。文中：In their place, the CDC added an asterisk, which leads to a note explaining that the agency is not including these deaths in its official count."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/",
+      "title": "CDC reported then deleted two measles deaths that were questioned by RFK Jr.",
+      "publishedAt": "2026-09-01T18:21:16Z"
+    },
+    {
+      "name": "MedPage Today",
+      "url": "https://www.medpagetoday.com/hospitalbasedmedicine/generalhospitalpractice/122839",
+      "title": "Lionel Richie Hospitalized; CDC Challenges Measles Toll; Vitamin K Refusals Rise",
+      "publishedAt": "2026-09-01T13:38:09Z"
+    }
+  ],
+  "story": {
+    "id": "australia-confirms-h5n1-bird-flu-in-local-mammal",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "us-health-officials-dispute-measles-data-sep-2026",
+        "title": "US Health Officials Dispute Measles Death Data",
+        "publishedAt": "2026-09-01T22:14:12.924420Z",
+        "category": "public-health",
+        "summaryEn": "The Centers for Disease Control and Prevention (CDC) has removed two measles deaths from its national data. These deaths were originally reported by health officials in Pennsylvania. The decision follows questions raised by Robert F. Kennedy Jr. regarding the accuracy of the reports. Federal officials now state that it is unclear if measles was the true cause of these deaths. This move has created a public disagreement between federal and state authorities."
+      },
+      {
+        "slug": "measles-deaths-spark-vaccine-policy-debate-aug-2026",
+        "title": "US Health Officials Face Questions Over Missing Measles Data",
+        "publishedAt": "2026-08-31T22:14:10.319162Z",
+        "category": "public-health",
+        "summaryEn": "Recent measles deaths in Pennsylvania are not being included in official US government health reports. Federal officials have questioned the accuracy of these reports, leading to a public disagreement. Experts warn that this unusual move could harm the relationship between state and national health agencies. The debate highlights growing tensions over vaccine policy and public health communication. Meanwhile, families affected by the outbreak are sharing their tragic experiences."
+      },
+      {
+        "slug": "debate-over-missing-measles-death-data-sep-2026",
+        "title": "US Health Officials Face Growing Questions Over Missing Measles Data",
+        "publishedAt": "2026-09-01T01:16:54.818449Z",
+        "category": "public-health",
+        "summaryEn": "United States health officials are currently excluding two recent measles-related deaths in Pennsylvania from official national counts. This decision has caused a public disagreement between federal leadership and medical experts. Health Secretary Robert F. Kennedy Jr. has questioned the accuracy of these reports, calling them fabricated. Former CDC officials warn that this unusual move could damage the trust between state and federal agencies. The situation remains uncertain as the CDC reviews the circumstances of the deaths."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What sequence of events occurred on the CDC website regarding the measles death count in late August?",
+      "options": {
+        "A": "The CDC initially reported two deaths, then removed them, and finally added them back after reviewing Pennsylvania's data.",
+        "B": "The count showed zero deaths, then updated to two, and was subsequently changed to show an asterisk with a note.",
+        "C": "The CDC requested Pennsylvania to remove the deaths, leading to a zero count by the end of the weekend.",
+        "D": "The website showed two deaths, which were then verified by the CDC before being replaced by an asterisk."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，CDC 網站先顯示 2026 年為零死亡，隔天更新為兩例，但當天下午又將其移除並以星號（asterisk）取代，並附上說明。選項 A 錯誤，因為死亡人數並未被加回；選項 C 錯誤，因為文章未提及 CDC 要求賓州政府移除資料；選項 D 錯誤，因為 CDC 並未證實這些死亡案例，反而是對其歸因提出質疑。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the relationship between the CDC and state health departments based on this incident?",
+      "options": {
+        "A": "The CDC and state departments have established a new, formal protocol for verifying death statistics together.",
+        "B": "The CDC is now required to seek approval from state health departments before making any changes to national data.",
+        "C": "The traditional collaborative process where states lead in data reporting is currently being disrupted by federal intervention.",
+        "D": "State health departments are now refusing to share their health data with the CDC due to political pressure."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第一段與第四段，傳統上各州衛生部門負責決定如何計算病例與死亡數，CDC 則是依賴州級資料。此次 CDC 直接介入並挑戰賓州結論，打破了過往的合作模式。選項 A 錯誤，因為目前尚無新協議；選項 B 錯誤，因為 CDC 是單方面行動，而非尋求批准；選項 D 錯誤，文中並未提及各州拒絕提供資料。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fourth paragraph, what does the word 'tension' most likely mean in the context of health data management?",
+      "options": {
+        "A": "A state of physical stretching or strain.",
+        "B": "A feeling of nervousness or worry among the public.",
+        "C": "A situation of disagreement or conflict between different parties.",
+        "D": "A strong, sudden increase in the amount of data being processed."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。在此語境下，tension 指的是聯邦政府（CDC）與州政府之間對於數據處理方式的分歧與矛盾。選項 A 是該詞的物理定義，不適用於此處；選項 B 雖然文中提到大眾對資訊的信任危機，但該詞主要描述的是機構間的關係；選項 D 與數據處理量無關，文章重點在於報告方式的爭議。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary concern regarding the CDC's decision to remove the measles deaths from its data?",
+      "options": {
+        "A": "The CDC is failing to track the Ebola outbreak effectively due to its focus on measles.",
+        "B": "The removal of data makes it impossible for Pennsylvania to report any future measles cases.",
+        "C": "The political pressure from Robert F. Kennedy Jr. has caused the CDC to stop tracking all viral diseases.",
+        "D": "The inconsistency in reporting threatens public trust and the reliability of government health information."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。文章第五段明確指出，核心問題在於政府部門間資訊不一致，會導致大眾對官方數據失去信心，進而影響未來公共衛生挑戰的管理。選項 A 雖然提到 Ebola，但非本文主旨；選項 B 錯誤，文中未提及賓州無法再報告；選項 C 錯誤，CDC 並未停止追蹤病毒，僅是針對特定數據的認定產生爭議。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
