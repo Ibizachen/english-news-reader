@@ -1,0 +1,164 @@
+{
+  "id": "2026-09-03-environmental-impact-of-growing-ai-datacenters",
+  "slug": "environmental-impact-of-growing-ai-datacenters-sep-2026",
+  "publishedAt": "2026-09-03T22:14:14.601787Z",
+  "category": "energy",
+  "title": "The Growing Conflict Over AI Data Centers",
+  "subtitle": "As the demand for artificial intelligence grows, communities around the world are questioning the environmental cost of the massive facilities that power it.",
+  "summary": {
+    "en": "Communities in Scotland and Australia are protesting the rapid construction of large data centers. These facilities are essential for artificial intelligence but require massive amounts of electricity and water. Critics argue that these buildings harm the environment and disrupt local life. Meanwhile, governments see these centers as vital for economic growth and keeping up with global technology trends. The debate highlights the tension between the need for digital progress and the protection of local resources.",
+    "zh": "蘇格蘭與澳洲的社區正抗議大型資料中心的快速建設。這些設施對人工智慧至關重要，但需要消耗大量的電力與水資源。批評者認為這些建築會破壞環境並干擾當地生活。與此同時，政府將這些中心視為經濟成長與跟上全球科技趨勢的關鍵。這場辯論凸顯了數位發展需求與保護在地資源之間的緊張關係。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The global race to build artificial intelligence (AI) infrastructure is facing a new wave of public resistance. This week, hundreds of people gathered outside the Scottish parliament in Edinburgh to demand a pause on the construction of new data centers. These large, windowless buildings house the powerful servers needed to run AI, cloud storage, and streaming services. While governments view these centers as essential for economic growth, local residents are increasingly worried about the impact on their environment and daily lives.",
+      "zh": "全球競相建設人工智慧基礎設施的浪潮，正面臨新一波的公眾抵制。本週，數百人聚集在位於愛丁堡的蘇格蘭議會外，要求暫停新建資料中心。這些大型且沒有窗戶的建築物，容納了運行人工智慧、雲端儲存及串流服務所需的強大伺服器。儘管政府將這些中心視為經濟成長的必要條件，但當地居民越來越擔心這些設施對環境及日常生活造成的影響。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Guardian, protesters in Scotland are calling for a formal moratorium—a temporary stop to all new projects—until the government can provide clear analysis on the environmental costs. Campaigners argue that these massive structures, some covering many acres of land, are being built too close to small villages and residential areas. Kathleen White, a local campaigner, described one proposed project in the Scottish borders as a \"monstrosity\" that would ruin a quiet, natural area. The Scottish government has promised a more strategic approach to planning, but they have not yet agreed to stop the construction projects.",
+      "zh": "根據《衛報》（The Guardian）報導，蘇格蘭的抗議者正呼籲實施正式的暫停令，即在政府能針對環境成本提供明確分析前，暫時停止所有新計畫。倡議人士認為，這些佔地廣闊、部分甚至涵蓋數英畝土地的龐大建築，距離小型村莊與住宅區太近。當地倡議者凱瑟琳·懷特（Kathleen White）形容蘇格蘭邊境地區一項擬議中的計畫是個「怪物」，將會破壞寧靜的自然區域。蘇格蘭政府已承諾採取更具策略性的規劃方式，但尚未同意停止這些建設工程。"
+    },
+    {
+      "id": "p3",
+      "en": "This tension is not limited to Scotland. In Australia, residents are also expressing frustration over the noise and size of new data centers. BBC News reports that people living near these facilities often hear a constant, high-pitched humming sound, similar to a jet plane. Despite these complaints, Australia has become a major destination for tech investors. The country currently hosts 162 data centers, with plans for 90 more. Supporters, including industry leaders, argue that this infrastructure is necessary to prevent Australia from falling behind in the global digital economy. Belinda Dennett, CEO of Data Centres Australia, noted that without these facilities, the country would lose out on the value of the AI industry and simply become a user of technology built elsewhere.",
+      "zh": "這種緊張局勢不僅限於蘇格蘭。在澳洲，居民也對新資料中心的噪音與規模表達不滿。BBC 報導指出，居住在這些設施附近的民眾經常聽到持續不斷的高頻嗡嗡聲，聽起來就像噴射機一樣。儘管抱怨不斷，澳洲仍成為科技投資者的主要目的地。該國目前擁有 162 座資料中心，並計畫再增建 90 座。包括產業領袖在內的支持者認為，這些基礎設施對於防止澳洲在全球數位經濟中落後至關重要。澳洲資料中心協會執行長貝琳達·丹內特（Belinda Dennett）指出，若沒有這些設施，該國將失去人工智慧產業的價值，淪為僅能使用他人開發技術的用戶。"
+    },
+    {
+      "id": "p4",
+      "en": "Beyond the local noise and land use, the environmental toll of these centers is a major concern. Research from the United Nations University, as cited by Deutsche Welle, suggests that if data centers were a country, they would be the 11th largest consumer of electricity in the world. These facilities must run 24 hours a day, and their cooling systems require vast amounts of water to prevent the servers from overheating. In some regions, a single large facility can use as much water as a small town of up to 50,000 people. This high demand for resources is putting pressure on local power grids and water supplies, leading to concerns about the sustainability of the current AI boom.",
+      "zh": "除了當地的噪音與土地使用問題外，這些中心帶來的環境代價也是一大隱憂。根據德國之聲（Deutsche Welle）引述聯合國大學的研究指出，若將資料中心視為一個國家，它們將是全球第 11 大電力消耗國。這些設施必須 24 小時運作，且其冷卻系統需要消耗大量水資源以防止伺服器過熱。在某些地區，單一大型設施的用水量甚至相當於一座多達 5 萬人的小鎮。這種對資源的高需求正對當地電網與供水系統造成壓力，引發了人們對於當前人工智慧熱潮是否具備永續性的擔憂。"
+    },
+    {
+      "id": "p5",
+      "en": "Furthermore, the energy required to power these centers often relies on fossil fuels. Deutsche Welle reports that in the United States, many data centers are still powered by coal or gas, which contradicts the goal of reducing carbon emissions. While some companies are investing in renewable energy, critics point out that using green electricity for data centers means there is less available for other important needs, such as electric transportation. In places like Frankfurt and Dublin, electricity demand from data centers has already become so high that local grids are struggling to support new connections.",
+      "zh": "此外，為這些中心供電所需的能源往往依賴化石燃料。德國之聲報導稱，在美國，許多資料中心仍由煤炭或天然氣供電，這與減少碳排放的目標背道而馳。雖然部分企業正投資再生能源，但批評者指出，將綠色電力用於資料中心，意味著其他重要需求（如電動交通工具）可用的電力將會減少。在法蘭克福與都柏林等地，資料中心的電力需求已高到當地電網難以支援新連線的程度。"
+    },
+    {
+      "id": "p6",
+      "en": "Despite these challenges, the pressure to expand remains high. The UK government, for instance, has promoted \"AI growth zones\" to encourage development, hoping that these projects will create jobs and boost the economy. However, as The Guardian noted, these plans are meeting stiff resistance from communities that fear the long-term consequences. The debate has reached a point where local concerns are now clashing with national strategies for technological progress.",
+      "zh": "儘管面臨這些挑戰，擴張的壓力依然巨大。例如，英國政府推動了「人工智慧成長區」以鼓勵開發，希望這些計畫能創造就業機會並促進經濟。然而，正如《衛報》所指出的，這些計畫正遭遇社區的強烈抵制，居民擔心會產生長期的負面後果。這場辯論已演變成地方關切與國家科技發展策略之間的衝突。"
+    },
+    {
+      "id": "p7",
+      "en": "As the world continues to adopt AI, the question of how to build this infrastructure responsibly remains unanswered. For now, the conflict between digital ambition and environmental protection shows no signs of slowing down. Whether governments will choose to pause these projects to address public concerns or continue the rapid expansion remains a key issue for the coming years. For many residents living in the shadow of these massive buildings, the cost of the AI revolution is becoming too high to ignore.",
+      "zh": "隨著全球持續採用人工智慧，如何負責任地建設這些基礎設施的問題仍未得到解答。目前看來，數位雄心與環境保護之間的衝突絲毫沒有減緩的跡象。政府未來是會選擇暫停這些計畫以回應公眾疑慮，還是繼續快速擴張，將成為未來幾年的關鍵議題。對於許多生活在這些巨大建築陰影下的居民來說，人工智慧革命所付出的代價已變得令人無法忽視。"
+    }
+  ],
+  "wordCount": 752,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "run",
+      "definitionEn": "To operate or manage a machine, system, or business.",
+      "definitionZh": "運作、經營、管理。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作「跑」，這裡指機器或系統的運作。文中：These large, windowless buildings house the powerful servers needed to run AI, cloud storage, and streaming services."
+    },
+    {
+      "term": "lose out on",
+      "definitionEn": "To fail to gain the benefit or advantage of something.",
+      "definitionZh": "錯失、失去（某種利益或機會）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "此片語由多個詞組成，意思無法從字面直接推斷。文中：Belinda Dennett, CEO of Data Centres Australia, noted that without these facilities, the country would lose out on the value of the AI industry and simply become a user of technology built elsewhere."
+    },
+    {
+      "term": "stiff",
+      "definitionEn": "Strong, severe, or difficult to overcome (used here for resistance).",
+      "definitionZh": "強烈的、嚴厲的（用於形容反對或競爭）。",
+      "partOfSpeech": "adjective",
+      "noteZh": "常見作「僵硬的」，這裡形容反對聲浪很大。文中：However, as The Guardian noted, these plans are meeting stiff resistance from communities that fear the long-term consequences."
+    }
+  ],
+  "sources": [
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
+      "title": "AI data centres are booming in Australia - but at what cost?",
+      "publishedAt": "2026-09-03T18:32:03Z"
+    },
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/03/hundreds-holyrood-pause-scotland-datacentre-boom-ai",
+      "title": "Hundreds gather to urge Scottish government to pause datacentre boom",
+      "publishedAt": "2026-09-03T17:48:48Z"
+    },
+    {
+      "name": "Deutsche Welle (DW) Top",
+      "url": "https://www.dw.com/en/data-centers-are-everywhere-here-s-what-they-re-doing-to-the-planet/a-78789889?maca=en-rss-en-top-1022-rdf",
+      "title": "Data centers are everywhere. Here's what they're doing to the planet.",
+      "publishedAt": "2026-09-03T08:53:00Z"
+    }
+  ],
+  "story": {
+    "id": "environmental-impact-of-datacenters-and-ai",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "environmental-impact-of-datacenters-and-ai-sep-2026",
+        "title": "The Hidden Cost of AI: Why Datacenters Face Growing Scrutiny",
+        "publishedAt": "2026-09-02T22:14:14.285194Z",
+        "category": "energy",
+        "summaryEn": "The UK government is facing pressure to explain the environmental impact of the country's rapidly growing number of datacenters. These facilities require massive amounts of electricity and water to support AI technologies. Official data shows that the government does not fully track what these sites are used for or who benefits from them. Critics argue that these projects are being prioritized over essential public needs like water and housing. Environmental groups are now calling for stricter rules and a potential pause on new construction until better safeguards are in place."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is a primary reason residents in Australia are protesting against new data centers?",
+      "options": {
+        "A": "The centers are being built on protected historical land.",
+        "B": "The facilities generate a persistent, high-pitched noise similar to an aircraft.",
+        "C": "The government has failed to provide jobs for local people.",
+        "D": "The centers are causing a shortage of electricity for the entire country."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第三段明確指出，澳洲居民對數據中心感到挫折，原因在於其產生的噪音和巨大的體積，特別是提到這些設施會發出類似噴射機的持續高頻嗡嗡聲。選項 A 文章未提及歷史保護區；選項 C 與文章提到的經濟目標矛盾；選項 D 雖然提到電網壓力，但並非澳洲居民抗議的主要直接原因。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the relationship between AI development and environmental sustainability based on the text?",
+      "options": {
+        "A": "AI infrastructure is becoming more efficient and requires less water over time.",
+        "B": "Governments have successfully balanced AI growth with renewable energy mandates.",
+        "C": "The rapid expansion of AI infrastructure is currently creating a conflict with local resource management.",
+        "D": "Data centers are primarily using renewable energy to avoid harming local environments."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。綜合第四、五段內容可知，數據中心對電力與水資源的需求極高（如第四段提到用水量相當於五萬人的小鎮），且在法蘭克福等地已造成電網負擔。這顯示出 AI 的快速擴張與地方資源供應之間存在明顯衝突。選項 A 文章未提及效率提升；選項 B 與文中提到的「抗議」及「電力短缺」事實不符；選項 D 指出許多中心仍依賴煤炭或天然氣，故不正確。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the phrase 'living in the shadow of these massive buildings' imply?",
+      "options": {
+        "A": "Residents are physically located very close to the large data centers.",
+        "B": "People are afraid of the dark caused by the height of the buildings.",
+        "C": "Communities are being hidden from the view of government officials.",
+        "D": "The residents are metaphorically suffering from the negative consequences of the centers."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。此處的 'in the shadow of' 既有字面意義（建築物造成的陰影），也暗示了居民居住在這些龐大設施旁邊，受到其直接影響。選項 B 過於字面解釋；選項 C 與文章討論的抗議活動無關；選項 D 雖然隱含負面影響，但該片語在此處主要強調地理位置的鄰近性，導致居民直接承受設施帶來的環境與生活壓力。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central theme of the article?",
+      "options": {
+        "A": "The technical process of how AI servers and cloud storage function.",
+        "B": "The global competition between countries to lead in AI technology.",
+        "C": "The growing tension between the need for AI infrastructure and its local environmental and social impacts.",
+        "D": "The failure of government policies to attract tech investors to Scotland and Australia."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。全文從蘇格蘭與澳洲的抗議事件出發，探討了數據中心建設帶來的環境負擔（水電需求、污染）與居民生活品質的衝突，並總結了這種「數位野心」與「環境保護」之間的矛盾。選項 A 僅涉及技術細節；選項 B 僅為背景而非主旨；選項 D 錯誤，因為文章提到澳洲仍是科技投資的熱門目的地，並未失敗。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
