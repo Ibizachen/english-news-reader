@@ -1,100 +1,84 @@
 {
   "id": "2026-09-05-un-adopts-new-world-map",
   "slug": "un-adopts-new-world-map-sep-2026",
-  "publishedAt": "2026-09-05T00:02:19.472577Z",
+  "publishedAt": "2026-09-05T22:14:11.227971Z",
   "category": "society",
-  "title": "United Nations Votes to Adopt New World Map",
-  "subtitle": "A new global standard aims to show the true size of Africa and other regions",
+  "title": "A New View of the World: UN Votes for More Accurate Map",
+  "subtitle": "The United Nations has officially moved to adopt a new world map that better represents the true size of Africa.",
   "summary": {
-    "en": "The United Nations General Assembly has voted to move away from the traditional Mercator map. This decision follows a campaign led by Togo to use the more accurate 'Equal Earth' projection. Supporters argue the old map makes Africa look much smaller than it really is. The United States was the only country to vote against the resolution, calling it a distraction. While the new map is not mandatory, it is expected to change how schools and organizations view the world.",
-    "zh": "聯合國大會已投票決定捨棄傳統的麥卡托地圖。此決定源於多哥發起的一項運動，旨在改用更準確的「等積地球」投影法。支持者認為，舊地圖使非洲看起來比實際小得多。美國是唯一投票反對該決議的國家，稱其會分散對重要議題的注意力。雖然新地圖並非強制使用，但預計將改變學校與組織看待世界的方式。"
+    "en": "The United Nations General Assembly recently voted to replace the traditional Mercator map with the Equal Earth projection. This decision follows a long campaign led by Togo to show Africa's true size. While 164 nations supported the change, the United States voted against it. Supporters believe the new map promotes fairness and truth in how we see the world. Critics argue that the UN should focus on more urgent international issues instead of historical map designs.",
+    "zh": "聯合國大會近期投票決定，以「等積地球投影法」取代傳統的麥卡托地圖。此項決策源於多哥所領導的一項長期運動，旨在呈現非洲的真實大小。儘管有一百六十四個國家支持這項變革，美國仍投下反對票。支持者認為新地圖能促進我們看待世界時的公平與真實性。批評者則主張，聯合國應專注於更迫切的國際議題，而非歷史性的地圖設計。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "The United Nations has officially voted to change the way the world is represented on maps. In a recent session at the UN headquarters in New York, 164 countries supported a resolution to move away from the traditional Mercator projection. This 16th-century map has been the global standard for nearly 500 years, but it has faced growing criticism for how it displays the size of different continents.",
-      "zh": "聯合國已正式投票決定改變世界地圖的呈現方式。在紐約聯合國總部近期召開的會議中，有一百六十四個國家支持一項決議，主張捨棄傳統的麥卡托投影法（Mercator projection）。這款十六世紀的地圖已成為全球標準近五百年，但因其呈現各大陸面積的方式，正面臨越來越多的批評。"
+      "en": "The United Nations General Assembly has officially voted to move away from the traditional world map that has been used for hundreds of years. In a major decision, 164 nations supported a resolution to adopt the 'Equal Earth' projection. This new map is designed to show the true size of continents, specifically correcting the way Africa is represented. This vote is the latest step in a long campaign to change how the world is viewed, following earlier reports that the traditional map was misleading.",
+      "zh": "聯合國大會已正式投票決定，將捨棄沿用數百年的傳統世界地圖。在一項重大決策中，有一百六十四個國家支持採用「等積地球投影法」（Equal Earth projection）的決議。這款新地圖旨在呈現各大洲的真實大小，特別是修正了非洲在過往地圖中的呈現方式。此次投票是長期以來推動改變世界觀運動的最新進展，此前已有報導指出傳統地圖具有誤導性。"
     },
     {
       "id": "p2",
-      "en": "The Mercator projection was created in 1569 by a cartographer named Gerardus Mercator to help sailors navigate the seas. Because it was designed for navigation, it keeps the shapes of landmasses accurate, which is helpful for drawing straight lines on a map. However, it comes with a major trade-off: it distorts the size of land. Regions near the equator, such as Africa, appear much smaller than they are in reality. Meanwhile, areas near the poles, like Greenland, appear much larger. According to The Guardian, the Mercator map shows Africa as being similar in size to Greenland, even though Africa is actually 14 times larger.",
-      "zh": "麥卡托投影法是由地圖學家傑拉杜斯·麥卡托（Gerardus Mercator）於一五六九年所創，旨在協助水手航海。由於它是為導航而設計，因此能保持陸地形狀的準確性，這對於在地圖上繪製直線路徑很有幫助。然而，它有一個重大的缺點：會扭曲陸地面積。赤道附近的區域（例如非洲）看起來比實際小得多；與此同時，靠近極地的區域（例如格陵蘭）則顯得大得多。根據《衛報》（The Guardian）報導，麥卡托地圖將非洲顯示得與格陵蘭大小相近，儘管非洲的實際面積其實是格陵蘭的十四倍。"
+      "en": "For centuries, the world has relied on the Mercator map, created in 1569 by a cartographer named Gerardus Mercator. According to BBC News, this map was originally designed to help European explorers travel by sea. Because it is difficult to show a round globe on a flat piece of paper, the map had to make compromises. As a result, countries near the top and bottom of the Earth appear much larger than they really are, while countries near the equator appear smaller. This has led to a major misunderstanding of geography: on the Mercator map, Africa looks similar in size to Greenland, even though Africa is actually 14 times larger.",
+      "zh": "數百年來，世界一直依賴由製圖師傑拉杜斯·麥卡托（Gerardus Mercator）於一五六九年所創的麥卡托投影地圖。根據英國廣播公司新聞（BBC News）報導，這款地圖最初是為了協助歐洲探險家進行海上航行而設計。由於要在平面的紙張上呈現圓形的地球相當困難，該地圖不得不做出妥協。結果導致地球頂端與底部的國家看起來比實際大得多，而赤道附近的國家則顯得較小。這造成了嚴重的地理認知偏差：在麥卡托地圖上，非洲看起來與格陵蘭島大小相近，但實際上非洲的面積是格陵蘭島的十四倍。"
     },
     {
       "id": "p3",
-      "en": "The new resolution encourages the use of the 'Equal Earth' projection, which was developed in 2018 by Tom Patterson and his colleagues. This design provides a more accurate picture of the actual surface area of the world's landmasses. While the shapes of countries might look slightly different, the relative sizes are much closer to reality. NPR reports that the campaign to adopt this map was led by Togo on behalf of the African Union. The goal is to update classroom materials and everyday technology to give people a more honest view of the planet.",
-      "zh": "這項新決議鼓勵使用由湯姆·派特森（Tom Patterson）及其同事於二〇一八年開發的「等積地球」（Equal Earth）投影法。這種設計能更準確地呈現世界陸地的實際表面積。雖然各國的形狀看起來可能略有不同，但相對大小卻更接近現實。美國公共廣播電台（NPR）報導，這項採用新地圖的運動是由多哥（Togo）代表非洲聯盟（African Union）所發起。其目標是更新教材與日常科技，讓大眾對地球有更真實的認識。"
+      "en": "Supporters of the change argue that this is more than just a simple error. According to Deutsche Welle, Togolese Foreign Minister Robert Dussey told the UN that maps are never neutral. He explained that they shape our education, our imagination, and how we understand the place of different people in the world. By making Africa look smaller, the old map has, for a long time, downplayed the continent’s vast resources, population, and potential for investment. The online campaign group #CorrectTheMap noted that you could fit the United States, China, India, Japan, Mexico, and much of Europe into Africa and still have land left over.",
+      "zh": "支持這項變革的人士認為，這不僅僅是一個簡單的錯誤。根據德國之聲（Deutsche Welle）報導，多哥外交部長羅伯特·杜塞（Robert Dussey）向聯合國表示，地圖從來都不是中立的。他解釋說，地圖塑造了我們的教育、想像力，以及我們對不同族群在世界上所處位置的理解。透過將非洲縮小，舊地圖長期以來淡化了該大陸廣大的資源、人口以及投資潛力。網路運動組織「修正地圖」（#CorrectTheMap）指出，將美國、中國、印度、日本、墨西哥以及歐洲大部分地區放入非洲後，仍有剩餘空間。"
     },
     {
       "id": "p4",
-      "en": "For many, this is more than just a scientific update. Togo’s foreign minister, Robert Dussey, told the UN that maps are never neutral. He argued that they guide education and shape how people imagine the world. Supporters of the #CorrectTheMap campaign have stated that the old map has reinforced unfair biases for generations. By making northern nations look larger, the Mercator map has been described by some historians as a tool that subtly supports western stereotypes. As noted by Deutsche Welle, the campaign highlights that you could fit the United States, China, India, Japan, Mexico, and much of Europe into Africa and still have land left over.",
-      "zh": "對許多人來說，這不僅僅是一次科學上的更新。多哥外交部長羅伯特·杜塞（Robert Dussey）向聯合國表示，地圖從來都不是中立的。他主張地圖引導了教育，並形塑了人們對世界的想像。「修正地圖」（#CorrectTheMap）運動的支持者指出，舊地圖數代以來加深了不公平的偏見。由於麥卡托地圖讓北方國家看起來更大，一些歷史學家將其描述為一種隱晦地支持西方刻板印象的工具。正如德國之聲（Deutsche Welle）所指出的，該運動強調，若將美國、中國、印度、日本、墨西哥及大部分的歐洲國家放入非洲，非洲仍有剩餘空間。"
+      "en": "France, which helped lead the resolution, has already announced that it will stop using the Mercator map in its official work. French Foreign Minister Jean-Noël Barrot stated that while changing a map does not change the world itself, correcting a false image is an important act of truth. Togo has also shared plans to update the maps used in its schools by the end of this year. It is important to note that the UN vote is not legally binding. The UN clarified that the new map does not change how ships or planes navigate, as the Mercator projection remains useful for those specific purposes.",
+      "zh": "協助主導此項決議的法國已宣布，將停止在官方業務中使用麥卡托地圖。法國外交部長尚-諾埃爾·巴羅（Jean-Noël Barrot）表示，雖然更換地圖並不會改變世界本身，但修正錯誤的圖像是一種重要的求真行動。多哥也分享了計畫，將在今年年底前更新其學校使用的地圖。值得注意的是，聯合國的投票並不具備法律約束力。聯合國澄清，新地圖不會改變船隻或飛機的導航方式，因為麥卡托投影法在這些特定用途上仍然實用。"
     },
     {
       "id": "p5",
-      "en": "France has already announced it will support the change. French Foreign Minister Jean-Noël Barrot said in a speech that while changing a map does not change the world, correcting a false image is an important act of truth. France plans to use the Eckert IV projection, which is similar to the Equal Earth model, to provide a more faithful representation of the world’s geography.",
-      "zh": "法國已宣布將支持這項變革。法國外交部長尚-諾埃爾·巴羅（Jean-Noël Barrot）在演講中表示，雖然更換地圖並不能改變世界，但修正錯誤的圖像是一種重要的求真行為。法國計畫採用與「等積地球」模型相似的艾克特四號（Eckert IV）投影法，以提供更忠實於世界地理的呈現方式。"
+      "en": "However, the decision was not supported by everyone. The United States was the only country to vote against the resolution. Yaryna Ferencevych, a US representative at the UN, argued that the project was a distraction from more serious global problems. According to Deutsche Welle, she stated that the UN should be focusing on international peace, prosperity, and good relations rather than debating map designs from the 16th century. She suggested that the move was part of an 'ideological agenda' rather than a practical necessity. Six other countries, including Ukraine and Serbia, chose to abstain, meaning they did not vote for or against the change.",
+      "zh": "然而，這項決定並未獲得所有人支持。美國是唯一投票反對該決議的國家。美國駐聯合國代表雅琳娜·費倫塞維奇（Yaryna Ferencevych）主張，這項計畫分散了對更嚴重全球問題的注意力。根據德國之聲報導，她表示聯合國應該專注於國際和平、繁榮與良好關係，而非爭論十六世紀的地圖設計。她認為此舉更像是「意識形態議程」，而非實際需求。包括烏克蘭與塞爾維亞在內的其他六個國家則選擇棄權，意即他們未對此變革投下贊成或反對票。"
     },
     {
       "id": "p6",
-      "en": "However, the resolution faced opposition. The United States was the only country to vote against it. Yaryna Ferencevych, a deputy U.S. representative, argued that the UN should focus on more pressing international problems. She described the debate over 16th-century map designs as a distraction from issues like peace and prosperity. Six other countries, including Estonia and Ukraine, chose to abstain, meaning they did not vote for or against the proposal.",
-      "zh": "然而，該決議也面臨反對意見。美國是唯一投票反對的國家。美國副代表亞琳娜·費倫切維奇（Yaryna Ferencevych）主張，聯合國應專注於更迫切的國際問題。她形容關於十六世紀地圖設計的辯論，會讓人們從和平與繁榮等議題上分心。包括愛沙尼亞與烏克蘭在內的其他六個國家則選擇棄權，意即他們既未支持也未反對該提案。"
-    },
-    {
-      "id": "p7",
-      "en": "It is important to note that UN resolutions are not legally binding. This means that countries and organizations are not forced to stop using the Mercator map. The resolution itself states that the Mercator projection remains fully useful for maritime and aerial navigation, where its original purpose of plotting straight-line courses is still needed. Because of this, the world will likely see a mix of maps for some time to come.",
-      "zh": "值得注意的是，聯合國決議並不具備法律約束力。這意味著各國與組織並未被強制停止使用麥卡托地圖。決議本身也說明，麥卡托投影法對於海上與空中導航依然完全有用，因為其繪製直線航線的原始用途仍有需求。因此，世界在未來一段時間內，可能會同時並存多種地圖。"
-    },
-    {
-      "id": "p8",
-      "en": "Even without a legal requirement to switch, the impact of the vote is expected to be significant. Many schools and international institutions are likely to update their educational materials to reflect the new standard. As the world becomes more connected, the push for a more accurate visual representation of the global south is gaining momentum. By moving away from a map that has been used for centuries, the UN is hoping to encourage a more balanced and accurate understanding of our planet for future generations.",
-      "zh": "即便沒有法律強制轉換，這次投票的影響預計仍將十分顯著。許多學校與國際機構很可能會更新其教材以反映新標準。隨著世界連結日益緊密，推動對全球南方（Global South）更準確的視覺呈現正獲得動力。透過捨棄這款已使用數百年的地圖，聯合國希望為後代子孫促進對地球更平衡且準確的理解。"
+      "en": "Despite the criticism, those behind the campaign see this as a victory for fairness. Lerato Mogoatlhe from the group Africa No Filter told the BBC that the misrepresentation of Africa on maps is a 'narrative issue' that has contributed to misinformation about the continent for a long time. For many, the adoption of the Equal Earth map is a way to ensure that future generations grow up with a more accurate understanding of our planet. As the world continues to change, this decision reflects a growing desire to ensure that global institutions represent all regions with greater accuracy and respect.",
+      "zh": "儘管面臨批評，推動此項運動的人士仍將其視為公平的勝利。來自「非洲無濾鏡」（Africa No Filter）組織的勒拉托·莫戈阿特勒（Lerato Mogoatlhe）告訴英國廣播公司，地圖上對非洲的錯誤呈現是一個「敘事問題」，長期以來助長了關於該大陸的錯誤資訊。對許多人而言，採用等積地球地圖是確保未來世代在成長過程中，能對我們的星球有更準確理解的一種方式。隨著世界持續變遷，這項決定反映出人們日益強烈的願望，即確保全球機構能以更高的準確度與尊重來呈現所有地區。"
     }
   ],
-  "wordCount": 724,
+  "wordCount": 682,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
-      "term": "trade-off",
-      "definitionEn": "A situation where you must accept the loss of one quality in order to gain another.",
-      "definitionZh": "權衡、取捨（為了得到某種好處而必須放棄另一種好處的情況）。",
-      "partOfSpeech": "noun",
-      "noteZh": "此詞常指在兩者之間做取捨，而非單純的「交易」。文中：However, it comes with a major trade-off: it distorts the size of land."
+      "term": "move away from",
+      "definitionEn": "To stop using or doing something and start using or doing something else.",
+      "definitionZh": "不再使用或採取某種做法，轉而採用新方式。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這是一個片語，字面上是「移開」，這裡指「放棄舊習慣或舊政策」。文中：The United Nations General Assembly has officially voted to move away from the traditional world map that has been used for hundreds of years."
     },
     {
-      "term": "neutral",
-      "definitionEn": "Not supporting or helping either side in a conflict or disagreement; impartial.",
-      "definitionZh": "中立的、不偏不倚的。",
-      "partOfSpeech": "adjective",
-      "noteZh": "在日常生活中常指「中性的（顏色、語氣）」，這裡指地圖不帶有政治偏見。文中：Togo’s foreign minister, Robert Dussey, told the UN that maps are never neutral."
-    },
-    {
-      "term": "pressing",
-      "definitionEn": "Requiring quick or immediate action or attention.",
-      "definitionZh": "緊迫的、迫切的。",
-      "partOfSpeech": "adjective",
-      "noteZh": "常見作動詞（按壓），這裡作形容詞用，指需要立刻處理的問題。文中：Yaryna Ferencevych, a deputy U.S. representative, argued that the UN should focus on more pressing international problems."
+      "term": "downplayed",
+      "definitionEn": "To make something seem less important or valuable than it really is.",
+      "definitionZh": "輕描淡寫、貶低、使……顯得不重要。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見於新聞報導，指刻意縮小某事物的影響力。文中：By making Africa look smaller, the old map has, for a long time, downplayed the continent’s vast resources, population, and potential for investment."
     },
     {
       "term": "binding",
-      "definitionEn": "Having the legal authority to force people to obey a rule or agreement.",
+      "definitionEn": "Having the legal power to force someone to do what has been agreed.",
       "definitionZh": "具有法律約束力的。",
       "partOfSpeech": "adjective",
-      "noteZh": "常見作動詞 bind 的現在分詞，這裡作形容詞，指法律上的強制性。文中：It is important to note that UN resolutions are not legally binding."
+      "noteZh": "在法律語境中常用，容易被誤認為是 bind 的現在分詞（正在綁）。文中：It is important to note that the UN vote is not legally binding."
+    },
+    {
+      "term": "abstain",
+      "definitionEn": "To choose not to use your vote in an election or a formal decision.",
+      "definitionZh": "棄權、不投票。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見於政治與投票場合，指選擇不表態。文中：Six other countries, including Ukraine and Serbia, chose to abstain, meaning they did not vote for or against the change."
     }
   ],
   "sources": [
     {
-      "name": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
-      "title": "UN votes to adopt new world map that shows Africa’s true scale",
-      "publishedAt": "2026-09-04T16:49:29Z"
-    },
-    {
-      "name": "NPR News",
-      "url": "https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote",
-      "title": "The U.N. backs a new world map showing Africa in its true relative size",
-      "publishedAt": "2026-09-04T22:26:35Z"
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+      "title": "UN votes to adopt new world map to reflect Africa's true size",
+      "publishedAt": "2026-09-05T00:53:11Z"
     },
     {
       "name": "Deutsche Welle (DW) Top",
@@ -105,61 +89,69 @@
   ],
   "story": {
     "id": "un-adopts-new-world-map",
-    "type": "standalone",
-    "previousArticles": []
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "un-adopts-new-world-map-sep-2026",
+        "title": "United Nations Votes to Adopt New World Map",
+        "publishedAt": "2026-09-05T00:02:19.472577Z",
+        "category": "society",
+        "summaryEn": "The United Nations General Assembly has voted to move away from the traditional Mercator map. This decision follows a campaign led by Togo to use the more accurate 'Equal Earth' projection. Supporters argue the old map makes Africa look much smaller than it really is. The United States was the only country to vote against the resolution, calling it a distraction. While the new map is not mandatory, it is expected to change how schools and organizations view the world."
+      }
+    ]
   },
   "quiz": [
     {
       "id": "q1",
       "type": "detail",
-      "question": "What is the primary reason the Mercator projection is still considered useful according to the article?",
+      "question": "According to the article, why is the Mercator map considered problematic in terms of how it depicts Africa?",
       "options": {
-        "A": "It provides the most accurate representation of the world's landmasses.",
-        "B": "It is effective for plotting straight-line courses in maritime and aerial navigation.",
-        "C": "It is the only map projection that is legally binding for international travel.",
-        "D": "It helps students understand the historical perspective of 16th-century cartography."
+        "A": "It was designed by a cartographer who intentionally wanted to diminish the importance of African nations.",
+        "B": "It makes Africa appear significantly smaller than it is in reality compared to countries near the poles.",
+        "C": "It fails to show the accurate size of Greenland, which is actually 14 times larger than Africa.",
+        "D": "It creates a false impression that Africa is the same size as the United States, China, and India combined."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。根據文章第七段，文中明確指出 Mercator 投影法在海上與空中導航方面依然非常有用，因為其繪製直線航線的原始功能仍有需求。選項 A 錯誤，因為文章強調該投影法會扭曲陸地面積；選項 C 錯誤，因為文中提到 UN 的決議並無法律約束力；選項 D 雖然提到歷史背景，但並非其目前被認為「有用」的主要理由。"
+      "explanationZh": "正確答案為 B。文章第二段明確指出，由於麥卡托投影法為了將圓形地球展現在平面上，導致靠近赤道的國家（如非洲）看起來比實際小，而靠近兩極的國家看起來比實際大。選項 A 錯誤，因為文章未提及麥卡托有刻意貶低非洲的意圖，僅提到是為了航海用途。選項 C 顛倒了事實，文章提到的是非洲比格陵蘭大 14 倍，而非格陵蘭比非洲大。選項 D 雖然提到了這些國家，但文章是指這些國家『可以放進』非洲內，而非兩者大小相等。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "What can be inferred about the relationship between map projections and political perspectives?",
+      "question": "What can be inferred about the practical impact of the UN's recent vote?",
       "options": {
-        "A": "Countries that voted against the resolution believe that maps have no impact on public perception.",
-        "B": "The move to change maps is purely a scientific endeavor with no regard for social justice.",
-        "C": "The choice of a map projection can reflect or reinforce existing power imbalances between nations.",
-        "D": "Only African nations are concerned about how the size of their continent is represented on maps."
+        "A": "It will immediately force all international shipping and aviation companies to update their navigation systems.",
+        "B": "It serves primarily as a symbolic shift in representation rather than a change in functional navigation tools.",
+        "C": "It will legally require all member nations to stop using the Mercator map in their school textbooks.",
+        "D": "It is expected to resolve the primary political conflicts between the United States and other UN members."
       },
-      "correct": "C",
-      "explanationZh": "正確答案為 C。根據文章第四段，多哥外交部長指出地圖並非中立的，且支持者認為舊地圖強化了西方刻板印象，讓北方國家看起來更大。由此可推論地圖的呈現方式與政治觀點及權力平衡息息相關。選項 A 錯誤，美國反對是因為認為這是浪費資源，而非認為地圖無影響；選項 B 錯誤，文章強調這不僅是科學更新；選項 D 錯誤，文章提到法國也支持此變革，顯示這不僅是非洲國家的訴求。"
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據第四段，聯合國明確表示此投票並無法律約束力（not legally binding），且航海與航空導航仍會繼續使用麥卡托投影，這顯示該決議的意義在於象徵性的觀點轉變，而非技術層面的強制更換。選項 A 錯誤，因為文章說導航用途不受影響。選項 C 錯誤，因為投票無法律強制力。選項 D 錯誤，因為美國反對該決議是基於其認為這是「意識形態議程」，而非單純的航海導航問題，且該決議無法解決更廣泛的國際衝突。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the final paragraph, the phrase 'gaining momentum' is used to describe the push for a more accurate map. What does this mean in context?",
+      "question": "In the third paragraph, what does the word 'neutral' mean in the context of Minister Robert Dussey's statement that 'maps are never neutral'?",
       "options": {
-        "A": "The movement is becoming more popular and increasing in speed or influence.",
-        "B": "The movement is facing physical resistance from international organizations.",
-        "C": "The movement is losing its original focus due to lack of funding.",
-        "D": "The movement is moving toward a legal battle in the global courts."
+        "A": "Unbiased and objective",
+        "B": "Physically balanced on a flat surface",
+        "C": "Technically accurate in measurement",
+        "D": "Politically inactive or silent"
       },
       "correct": "A",
-      "explanationZh": "正確答案為 A。在文中，gaining momentum 指的是某個趨勢或運動正獲得更多支持、影響力或動力，變得越來越強勢。選項 B 與原意相反；選項 C 錯誤，因為文章提到影響力預期會很大，而非失去焦點；選項 D 錯誤，文中並未提及要進行法律訴訟，且 UN 決議本身不具法律強制力。"
+      "explanationZh": "正確答案為 A。在文中，Robert Dussey 指出地圖會塑造我們的教育與想像，暗示地圖帶有特定的觀點或偏見，因此「never neutral」意指地圖並非「不偏不倚、客觀中立」的。選項 B 是對該詞的字面誤解，與地圖的政治含義無關。選項 C 雖然地圖涉及測量，但原文重點在於地圖背後的隱含意義，而非測量精確度。選項 D 雖然接近中立的意思，但「不活躍」並不能精準描述地圖作為一種「傳達訊息的工具」所具備的性質。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "What is the central message of the article regarding the UN's recent vote?",
+      "question": "What is the primary message of the article regarding the adoption of the 'Equal Earth' projection?",
       "options": {
-        "A": "The UN has banned the use of the Mercator projection in all international schools.",
-        "B": "The UN is replacing all existing maps with the Equal Earth projection to ensure global peace.",
-        "C": "The UN seeks to modernize global mapping standards to provide a more accurate and balanced view of the world.",
-        "D": "The UN has failed to reach a consensus, leaving the world with no standard map projection."
+        "A": "The UN is replacing the Mercator map because it is no longer useful for modern sea navigation.",
+        "B": "The United States is the only nation that understands the scientific flaws of the new map projection.",
+        "C": "The shift represents a move toward correcting historical biases in how we visually represent the world's geography.",
+        "D": "The 'Equal Earth' map will solve all global misinformation issues regarding the size of various continents."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。本文主旨圍繞在聯合國投票支持從 Mercator 投影轉向更精確的地圖（如 Equal Earth），目的是為了提供更真實的地理呈現，並減少因地圖扭曲而產生的偏見。選項 A 錯誤，因為決議無強制力；選項 B 誇大了目的，地圖更新無法直接帶來和平；選項 D 錯誤，多數國家已支持該決議，並非沒有共識。"
+      "explanationZh": "正確答案為 C。全文的核心在於探討為何聯合國支持採用新地圖，強調這是為了糾正長期以來麥卡托地圖對非洲等地區的誤導性呈現，並反映出一種對公平與準確性的追求。選項 A 錯誤，因為文章提到麥卡托地圖對航海仍有用。選項 B 錯誤，美國反對是因為認為這是「意識形態議程」，而非基於科學缺陷。選項 D 過於誇大，文章僅提到這是一個「敘事問題」，並未宣稱能解決所有全球錯誤資訊。"
     }
   ],
   "aiGenerated": true,
