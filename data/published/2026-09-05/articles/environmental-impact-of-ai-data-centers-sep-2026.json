@@ -1,0 +1,179 @@
+{
+  "id": "2026-09-05-environmental-impact-of-ai-data-centers",
+  "slug": "environmental-impact-of-ai-data-centers-sep-2026",
+  "publishedAt": "2026-09-05T00:02:19.472577Z",
+  "category": "energy",
+  "title": "The Hidden Environmental Price of the AI Revolution",
+  "subtitle": "As artificial intelligence grows, the massive energy and water needs of data centers are creating new challenges for communities and the environment.",
+  "summary": {
+    "en": "The rapid rise of artificial intelligence is leading to a massive increase in the number of data centers worldwide. These facilities require huge amounts of electricity and water to function 24 hours a day. Recent reports show that this demand is putting significant pressure on local power grids and public water supplies. Regulators are now struggling to track this usage due to a lack of transparency from private companies. Experts warn that without better planning, this growth could slow down global efforts to fight climate change.",
+    "zh": "人工智慧的快速崛起導致全球資料中心數量大幅增加。這些設施需要消耗大量電力與水資源以維持 24 小時運作。近期報告顯示，此需求正對當地電網與公共供水系統造成顯著壓力。由於私人企業缺乏透明度，監管機構目前難以追蹤這些資源的使用情況。專家警告，若缺乏更好的規劃，這種成長可能會拖累全球對抗氣候變遷的努力。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "When you ask an AI model a question, you receive an instant answer. However, behind this technology is a massive physical network of cables and servers working in large warehouses known as data centers. According to Deutsche Welle, these buildings are essential for AI, cloud storage, and social media, but they have a very real impact on our environment. As the use of AI grows, so does the demand for the resources needed to keep these systems running.",
+      "zh": "當您向人工智慧模型提問時，會立即收到答案。然而，這項技術背後是一個龐大的實體網路，由位於大型倉庫（即資料中心）中的電纜與伺服器所組成。根據德國之聲（Deutsche Welle）報導，這些建築對於人工智慧、雲端儲存與社群媒體至關重要，但它們對我們的環境產生了非常真實的影響。隨著人工智慧的使用日益普及，維持這些系統運作所需的資源需求也隨之增加。"
+    },
+    {
+      "id": "p2",
+      "en": "Data centers are becoming some of the world's fastest-growing users of electricity. Because servers generate a lot of heat, they must be cooled constantly. Deutsche Welle reports that if all the world's data centers were a single country, they would be the 11th largest electricity consumer on the planet. By 2030, this energy use is expected to double, reaching a level similar to the total annual electricity consumption of Japan. This surge in demand is already causing problems; in cities like Frankfurt and Dublin, local power grids are becoming so full that they cannot easily support new connections.",
+      "zh": "資料中心正成為全球電力消耗成長最快的領域之一。由於伺服器會產生大量熱能，必須持續進行冷卻。德國之聲指出，若將全球所有資料中心視為單一國家，它們將是全球第 11 大電力消耗國。預計到 2030 年，此能源消耗量將翻倍，達到與日本全國年度總用電量相當的水平。這種需求的激增已經引發問題；在法蘭克福與都柏林等城市，當地的電網已趨於飽和，難以輕易支援新的電力連接需求。"
+    },
+    {
+      "id": "p3",
+      "en": "This high demand for energy is also affecting climate goals. Deutsche Welle notes that many data centers still rely on fossil fuels. In the United States, the need for more power has led some utility companies to delay the retirement of old coal-fired power plants. While some companies are using renewable energy, experts warn that this takes away green power that could otherwise be used to make transportation or other industries cleaner. This creates a difficult choice for governments trying to balance technological growth with environmental protection.",
+      "zh": "這種對能源的高需求也影響了氣候目標。德國之聲提到，許多資料中心仍依賴化石燃料。在美國，對電力的需求增加已導致部分公用事業公司延後淘汰老舊的燃煤電廠。儘管部分企業正使用再生能源，但專家警告，這會排擠掉本可用於提升交通或其他產業潔淨度的綠色能源。這為試圖在技術成長與環境保護之間取得平衡的政府帶來了艱難的抉擇。"
+    },
+    {
+      "id": "p4",
+      "en": "Water usage is another major concern, especially in areas facing dry conditions. According to The Guardian, large businesses in England are using billions of litres of public water, and tracking this usage is difficult because of \"commercial secrecy.\" While the biggest users include chemical plants and oil refineries, the growth of data centers is adding new pressure on water supplies. A single large data center can use up to 5 million gallons of water a day, which is similar to the daily needs of a town with tens of thousands of people. Most of this water evaporates during the cooling process, while the rest becomes wastewater that can overwhelm local systems.",
+      "zh": "用水量是另一個主要隱憂，特別是在面臨乾旱的地區。根據衛報（The Guardian）報導，英國的大型企業正消耗數十億公升的公共用水，且由於「商業機密」的緣故，追蹤這些用水量相當困難。雖然最大的用水戶包括化工廠與煉油廠，但資料中心的成長正對水資源供應增加新的壓力。一座大型資料中心每天可能消耗高達 500 萬加侖的水，相當於數萬人口城鎮的每日需求。這些水大部分在冷卻過程中蒸發，其餘則成為可能對當地系統造成負擔的廢水。"
+    },
+    {
+      "id": "p5",
+      "en": "Regulators are finding it hard to manage this situation. The Guardian reports that officials are frustrated by a lack of clear data, which makes it difficult to plan for future growth. Because many businesses do not have smart meters, their water use is often not measured accurately. The Environment Agency and Ofwat are now calling for mandatory reporting of water use across all industries to improve water security. They argue that without better information, it is impossible to know the true impact of these facilities on the environment or society.",
+      "zh": "監管機構發現很難管理這種情況。衛報報導指出，官員們對於缺乏明確數據感到挫折，這使得規劃未來成長變得困難。由於許多企業未安裝智慧水表，其用水量往往無法被精確測量。環境署（Environment Agency）與英國水務監管局（Ofwat）目前正呼籲各產業強制申報用水量，以改善水資源安全。他們主張，若沒有更完善的資訊，將無法得知這些設施對環境或社會的真實影響。"
+    },
+    {
+      "id": "p6",
+      "en": "Public concern is also rising. In Scotland, hundreds of people recently gathered to protest the rapid construction of new data centers, demanding a pause until the environmental costs are better understood. Critics argue that these facilities are being built without enough consideration for the local communities that rely on the same electricity and water supplies. The UK government is currently facing pressure to explain how it plans to manage the environmental footprint of these massive projects.",
+      "zh": "公眾的擔憂也在升高。在蘇格蘭，近期有數百人聚集抗議新資料中心的快速興建，要求在充分了解環境成本前暫停開發。批評者認為，這些設施的興建未充分考量依賴相同電力與水資源供應的當地社區。英國政府目前面臨壓力，必須說明其計畫如何管理這些大型專案所帶來的環境足跡。"
+    },
+    {
+      "id": "p7",
+      "en": "Looking ahead, the challenge for both governments and tech companies is to find a way to grow without harming the environment. Some experts suggest that pairing data centers with on-site renewable energy sources could help reduce the strain on local grids. However, as the demand for AI continues to rise, the debate over how to balance progress with sustainability will likely continue. For now, the lack of transparency remains a major hurdle for those trying to ensure that the digital future does not come at too high a cost to the planet.",
+      "zh": "展望未來，政府與科技公司面臨的挑戰在於如何找到一條既能成長又不傷害環境的道路。部分專家建議，將資料中心與現場的再生能源結合，可能有助於減輕當地電網的負擔。然而，隨著人工智慧的需求持續攀升，關於如何平衡進步與永續發展的爭論很可能會持續下去。目前，缺乏透明度仍是那些試圖確保數位未來不會讓地球付出過高代價的人們所面臨的主要障礙。"
+    }
+  ],
+  "wordCount": 712,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "cooled",
+      "definitionEn": "To lower the temperature of something to prevent it from overheating.",
+      "definitionZh": "冷卻；使降溫。",
+      "partOfSpeech": "verb (passive)",
+      "noteZh": "常見作形容詞（涼爽的），這裡作動詞用。文中：Because servers generate a lot of heat, they must be cooled constantly."
+    },
+    {
+      "term": "grid",
+      "definitionEn": "A network of wires or pipes for distributing power or water.",
+      "definitionZh": "電力網；輸電系統。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作名詞（格子），這裡指電力網絡。文中：in cities like Frankfurt and Dublin, local power grids are becoming so full that they cannot easily support new connections."
+    },
+    {
+      "term": "overwhelm",
+      "definitionEn": "To be too much for a system to handle or process.",
+      "definitionZh": "使無法負荷；壓垮。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作動詞（情感上的淹沒），這裡指系統無法負荷。文中：Most of this water evaporates during the cooling process, while the rest becomes wastewater that can overwhelm local systems."
+    },
+    {
+      "term": "hurdle",
+      "definitionEn": "A problem or difficulty that must be overcome.",
+      "definitionZh": "障礙；難題。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作名詞（跨欄運動），這裡比喻為困難。文中：For now, the lack of transparency remains a major hurdle for those trying to ensure that the digital future does not come at too high a cost to the planet."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Environment",
+      "url": "https://www.theguardian.com/environment/2026/sep/04/revealed-how-companies-secretly-use-billions-of-litres-of-public-water-in-drought-hit-england",
+      "title": "Revealed: how companies ‘secretly’ use billions of litres of public water in drought-hit England",
+      "publishedAt": "2026-09-04T06:00:00Z"
+    },
+    {
+      "name": "Deutsche Welle (DW) Top",
+      "url": "https://www.dw.com/en/the-hidden-environmental-cost-of-ai-data-centers/a-78789889?maca=en-rss-en-top-1022-rdf",
+      "title": "The hidden environmental cost of AI data centers",
+      "publishedAt": "2026-09-04T11:08:00Z"
+    }
+  ],
+  "story": {
+    "id": "environmental-impact-of-ai-data-centers",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "environmental-impact-of-ai-data-centers-sep-2026",
+        "title": "The Hidden Cost of Industry: Why Big Businesses Use So Much Public Water",
+        "publishedAt": "2026-09-04T22:19:14.294200Z",
+        "category": "technology",
+        "summaryEn": "Large businesses in England consume massive amounts of water from the public supply, even during periods of drought. New reports suggest that industrial water use is difficult to track due to a lack of data and commercial secrecy. Regulators are now pushing for mandatory reporting to help protect national water security. Some companies argue that their usage is confidential or necessary for their operations. Improving transparency is seen as a vital step for future environmental planning."
+      },
+      {
+        "slug": "environmental-impact-of-datacenters-and-ai-sep-2026",
+        "title": "The Hidden Cost of AI: Why Datacenters Face Growing Scrutiny",
+        "publishedAt": "2026-09-02T22:14:14.285194Z",
+        "category": "energy",
+        "summaryEn": "The UK government is facing pressure to explain the environmental impact of the country's rapidly growing number of datacenters. These facilities require massive amounts of electricity and water to support AI technologies. Official data shows that the government does not fully track what these sites are used for or who benefits from them. Critics argue that these projects are being prioritized over essential public needs like water and housing. Environmental groups are now calling for stricter rules and a potential pause on new construction until better safeguards are in place."
+      },
+      {
+        "slug": "protests-against-rapid-ai-data-center-expansion-sep-2026",
+        "title": "Communities Call for Pause on AI Data Center Expansion",
+        "publishedAt": "2026-09-04T00:04:29.488486Z",
+        "category": "energy",
+        "summaryEn": "Hundreds of protesters recently gathered in Edinburgh to demand a pause on the construction of new data centers in Scotland. These facilities are essential for artificial intelligence but require massive amounts of electricity and water to operate. Critics argue that the rapid expansion of these centers threatens local environments and rural communities. While the UK government views these centers as key to economic growth, public opposition is rising across the country. The debate highlights the tension between technological progress and environmental protection."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is one reason why the electricity demand of data centers is causing issues for cities like Frankfurt and Dublin?",
+      "options": {
+        "A": "The cities are trying to transition all their power to renewable energy sources.",
+        "B": "The local power grids have reached their capacity and cannot support new connections.",
+        "C": "Data centers are intentionally using more electricity than the cities can produce.",
+        "D": "The cities have decided to shut down coal-fired power plants to prioritize AI development."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第二段明確指出，在法蘭克福和都柏林等城市，當地的電力網（power grids）已達到飽和，無法輕易支援新的電力連接。選項 A 文章未提及這些城市正全面轉型綠能。選項 C 錯誤，因為電力需求增加是 AI 運作的結果，而非故意消耗。選項 D 錯誤，文章第三段提到的是為了電力需求而「延後」關閉煤電廠，而非主動關閉。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the relationship between data centers and environmental sustainability?",
+      "options": {
+        "A": "Data centers are currently the primary cause of global water shortages.",
+        "B": "The use of renewable energy by data centers completely eliminates their environmental impact.",
+        "C": "The rapid expansion of AI technology creates a conflict between economic progress and resource conservation.",
+        "D": "Governments have successfully implemented strict regulations to control data center energy use."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第三段與最後一段的論述，政府與科技公司在追求數位成長的同時，必須面對環境保護的壓力，且目前缺乏透明度與資源分配的矛盾（如電力與水資源的競爭）正加劇這種衝突。選項 A 過度推論，文章僅稱其為「壓力來源」。選項 B 錯誤，文章提到即便使用綠能，也會排擠其他產業的綠電需求。選項 D 錯誤，文章最後一段明確指出缺乏透明度是主要障礙，監管仍面臨困難。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the word 'hurdle' most closely mean in the context of the sentence: 'the lack of transparency remains a major hurdle for those trying to ensure that the digital future does not come at too high a cost'?",
+      "options": {
+        "A": "An obstacle or difficulty to be overcome.",
+        "B": "A rapid increase in speed or activity.",
+        "C": "A physical structure used for protection.",
+        "D": "A formal agreement between two parties."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在此語境中，hurdle 指的是阻礙或困難。文章提到資訊不透明（lack of transparency）使得確保數位未來不會對地球造成過高代價變得非常困難，因此這是一個必須克服的障礙。選項 B 描述的是成長（surge）。選項 C 混淆了詞彙的字面意義（跨欄比賽中的欄架）。選項 D 與文章提到的「缺乏透明度」作為問題點的語意不符。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article regarding the growth of AI and data centers?",
+      "options": {
+        "A": "AI technology is the most efficient way to solve global energy and water crises.",
+        "B": "The environmental impact of data centers is significant, and balancing this growth with sustainability is a major challenge.",
+        "C": "Data centers should be moved to rural areas to avoid putting pressure on city power grids.",
+        "D": "Public protests are the most effective way to force tech companies to adopt greener technologies."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。全文從 AI 的運作機制出發，詳細探討了資料中心對電力、水資源的消耗以及對環境的影響，並在結尾強調在數位進步與環境永續之間取得平衡是當前的核心挑戰。選項 A 與文意相反。選項 C 是專家建議的延伸，而非文章主旨。選項 D 僅是文中提到的現象之一，並非全文探討的中心思想。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
