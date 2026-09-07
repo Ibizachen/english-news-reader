@@ -1,0 +1,37 @@
+{
+  "id": "global-digital-identity-series",
+  "title": "The Digital Passport: Navigating the Future of Universal ID",
+  "subtitle": "An examination of how governments and tech firms are redefining personal identity in the digital age.",
+  "description": "This series explores the shift toward universal digital identity systems, balancing the promise of seamless public services against concerns over privacy and surveillance. Readers will gain insight into the complex intersection of technology, human rights, and governance.",
+  "category": "technology",
+  "status": "active",
+  "updatedAt": "2026-09-07T05:41:34.345936Z",
+  "cadence": "5-part reading path. Complete series available.",
+  "articles": [
+    {
+      "slug": "global-digital-identity-series-part-1",
+      "label": "Part 1",
+      "note": "Defining what digital identity is and why nations are racing to implement it."
+    },
+    {
+      "slug": "global-digital-identity-series-part-2",
+      "label": "Part 2",
+      "note": "The roles of government agencies, private tech firms, and international organizations."
+    },
+    {
+      "slug": "global-digital-identity-series-part-3",
+      "label": "Part 3",
+      "note": "The controversy surrounding biometric data collection and the pushback from civil society."
+    },
+    {
+      "slug": "global-digital-identity-series-part-4",
+      "label": "Part 4",
+      "note": "How digital ID affects marginalized communities and the risk of creating a 'digital divide'."
+    },
+    {
+      "slug": "global-digital-identity-series-part-5",
+      "label": "Part 5",
+      "note": "Looking at the future of decentralized identity and global standards."
+    }
+  ]
+}
