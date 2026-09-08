@@ -1,0 +1,159 @@
+{
+  "id": "2026-09-08-concerns-over-data-center-wastewater-pollution",
+  "slug": "concerns-over-data-center-wastewater-pollution-sep-2026",
+  "publishedAt": "2026-09-08T22:14:15.682186Z",
+  "category": "energy",
+  "title": "New Concerns Emerge Over Data Center Wastewater Pollution",
+  "subtitle": "As AI technology grows, communities across the United States are raising alarms about the environmental impact of massive cooling facilities.",
+  "summary": {
+    "en": "Data centers are essential for the growth of artificial intelligence, but they require massive amounts of water to keep their computers cool. Recent tests in Wyoming found dangerous bacteria in water discharged from a Meta construction site. This incident is part of a larger trend of environmental concerns regarding how these facilities handle wastewater. Activists and local groups are now taking legal action to protect their water supplies from potential pollution. The industry claims it is working to be a good neighbor, but tensions between companies and residents continue to rise.",
+    "zh": "資料中心對於人工智慧的發展至關重要，但它們需要消耗大量水資源來冷卻電腦。懷俄明州近期的檢測在 Meta 工地的排放水中發現了危險細菌。此事件反映了各界對於這些設施如何處理廢水的環境疑慮正日益加深。目前，運動人士與地方團體正採取法律行動，以保護供水免受潛在污染。雖然業界聲稱正努力成為好鄰居，但企業與居民之間的緊張關係仍在持續升溫。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The rapid growth of artificial intelligence is changing the way we live and work, but it is also creating new environmental challenges. As companies build more massive data centers to power AI, local communities are becoming increasingly worried about how these facilities use and release water. While previous reports have highlighted the risks of fires and the high energy needs of these sites, a new, serious concern has surfaced: the quality of the water that data centers send back into the environment.",
+      "zh": "人工智慧的快速成長正在改變我們的生活與工作方式，但也帶來了新的環境挑戰。隨著企業為了驅動人工智慧而興建更多大型資料中心，當地社區對於這些設施如何使用及排放水資源感到日益擔憂。儘管先前的報導多聚焦於火災風險以及這些站點的高耗能需求，一項新的嚴重疑慮已浮上檯面：資料中心排放回環境中的水質問題。"
+    },
+    {
+      "id": "p2",
+      "en": "In a recent development in Cheyenne, Wyoming, local officials were shocked to find a rare and potentially dangerous bacterium in water coming from a construction site for a new Meta data center. According to The Guardian, the water contained a type of bacteria called Cupriavidus gilardii. While this water was not meant for drinking, the discovery was still very worrying for city officials. Frank Strong, a water resources manager in Cheyenne, explained that the city decided to stop accepting wastewater from the site out of caution. He noted that they needed to find out more information before allowing the discharge to continue.",
+      "zh": "在懷俄明州夏延市 (Cheyenne) 的近期發展中，當地官員震驚地發現，一處新的 Meta 資料中心工地所排放的水中，含有罕見且具潛在危險的細菌。根據《衛報》(The Guardian) 報導，該水體中含有名為「吉拉迪杯狀桿菌」(Cupriavidus gilardii) 的細菌。雖然這些水並非用於飲用，但此發現仍讓市府官員深感憂慮。夏延市的水資源經理法蘭克·史壯 (Frank Strong) 解釋，基於謹慎考量，市府決定停止接收來自該工地的廢水。他指出，在允許繼續排放之前，他們需要釐清更多資訊。"
+    },
+    {
+      "id": "p3",
+      "en": "Meta has responded by questioning the results of the city's tests. A company spokesman stated that their own independent testing found no evidence of the bacteria. The company also emphasized its commitment to being a good neighbor in Cheyenne and protecting local water resources. Despite this, the situation in Wyoming is not an isolated event. It is part of a growing wave of alarms across the United States regarding how data centers manage their water. These facilities use large amounts of water to cool the power-hungry computers that run AI services, and the question of what happens to that water after it is used has become a major issue.",
+      "zh": "Meta 對此回應並質疑市府的檢測結果。該公司發言人表示，他們自行進行的獨立檢測並未發現任何細菌存在的證據。公司也強調其致力於成為夏延市的好鄰居，並保護當地水資源。儘管如此，懷俄明州的狀況並非單一事件。這反映了全美各地對於資料中心如何管理水資源的警訊正日益增加。這些設施使用大量的水來冷卻運行人工智慧服務的高耗能電腦，而這些水在使用後的去向已成為重大議題。"
+    },
+    {
+      "id": "p4",
+      "en": "Other states are also seeing conflict. In Virginia, authorities have taken legal action against several data centers for failing to follow rules regarding wastewater and wetlands. In West Virginia, water runoff from an incomplete data center has caused flooding in nearby homes twice. Meanwhile, in New York, local activists are campaigning against plans to release heated water from a new data center into Lake Seneca. These incidents show that the environmental footprint of these buildings is becoming a significant problem for many neighborhoods.",
+      "zh": "其他州也出現了衝突。在維吉尼亞州，當局已對數家未遵守廢水與濕地相關規定的資料中心採取法律行動。在西維吉尼亞州，一座尚未完工的資料中心所產生的逕流水，已兩度導致附近民宅淹水。同時，在紐約州，當地運動人士正發起活動，反對將新資料中心的加熱廢水排放至塞內卡湖 (Lake Seneca) 的計畫。這些事件顯示，這些建築物對環境造成的影響，正成為許多社區面臨的重大問題。"
+    },
+    {
+      "id": "p5",
+      "en": "The Waterkeeper Alliance, a group that works to protect water quality, says that 55 of its members across the country are currently working on issues related to data centers. According to the organization, about 80 percent of their campaigns focus on the fear that pollutants might be leaking into the environment through discharged water. A spokeswoman for the group explained that data centers have been linked to a wide range of harmful substances, including heavy metals and bacteria that are resistant to medicine. These groups are concerned that as more data centers are built, the risk to local water supplies will only grow.",
+      "zh": "致力於保護水質的組織「水資源守護者聯盟」(Waterkeeper Alliance) 表示，其全國 55 個成員目前正處理與資料中心相關的議題。根據該組織說法，約 80% 的行動聚焦於擔憂污染物可能透過排放水洩漏至環境中。該組織發言人解釋，資料中心已被證實與多種有害物質有關，包括重金屬以及具有抗藥性的細菌。這些團體擔心，隨著更多資料中心落成，對當地供水的風險只會不斷增加。"
+    },
+    {
+      "id": "p6",
+      "en": "Some of these disagreements are now moving into the courtroom. In Georgia, the group Flint Riverkeeper has announced plans to sue the QTS data center in Fayetteville. The group claims that the facility has released large amounts of dirt and high concentrations of metals into the Flint River over the past two years. This legal action highlights the growing frustration among environmental groups who feel that the industry is not being transparent enough about its impact on nature.",
+      "zh": "部分爭議目前已進入司法程序。在喬治亞州，團體「弗林特河守護者」(Flint Riverkeeper) 已宣布計畫控告位於費耶特維爾 (Fayetteville) 的 QTS 資料中心。該團體聲稱，該設施在過去兩年內向弗林特河 (Flint River) 排放了大量泥沙與高濃度的金屬物質。此法律行動凸顯了環保團體日益增長的不滿，他們認為該產業對於其對自然環境造成的衝擊缺乏足夠的透明度。"
+    },
+    {
+      "id": "p7",
+      "en": "Industry representatives argue that their water use is actually quite small when compared to other sectors, such as agriculture. A mid-sized data center can use about 300,000 gallons of water every day for cooling and cleaning pipes. While the industry says this is a fraction of what other industries use, the nature of the waste is what worries the public. As the demand for AI continues to rise, the pressure on companies to prove that their facilities are safe will likely increase. For now, the debate over how to balance technological progress with environmental safety remains a critical issue for many communities across the country.",
+      "zh": "產業代表則主張，與農業等其他產業相比，他們的用水量其實相當少。一座中型資料中心每天約需使用 30 萬加侖的水來進行冷卻與清潔管線。雖然業界表示這僅是其他產業用水量的一小部分，但廢水的性質才是大眾擔憂的重點。隨著對人工智慧的需求持續攀升，企業證明其設施安全性的壓力可能會隨之增加。目前，如何在技術進步與環境安全之間取得平衡，對全美許多社區而言，仍是一個關鍵議題。"
+    }
+  ],
+  "wordCount": 718,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "surfaced",
+      "definitionEn": "To become known or apparent after being hidden or unknown.",
+      "definitionZh": "浮現、顯露（指問題或消息公開）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（表面），這裡作動詞，形容問題浮出水面。文中：a new, serious concern has surfaced: the quality of the water that data centers send back into the environment."
+    },
+    {
+      "term": "power-hungry",
+      "definitionEn": "Requiring a large amount of electricity to operate.",
+      "definitionZh": "耗電量極大的。",
+      "partOfSpeech": "adjective",
+      "noteZh": "此處形容電腦設備，容易被誤解為「渴望權力的」。文中：These facilities use large amounts of water to cool the power-hungry computers that run AI services, and the question of what happens to that water after it is used has become a major issue."
+    },
+    {
+      "term": "footprint",
+      "definitionEn": "The impact or effect that a person, company, or activity has on the environment.",
+      "definitionZh": "（環境）足跡、影響力。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作名詞（腳印），這裡指對環境造成的影響。文中：These incidents show that the environmental footprint of these buildings is becoming a significant problem for many neighborhoods."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Environment",
+      "url": "https://www.theguardian.com/us-news/2026/sep/08/us-datacenters-wastewater-pollution",
+      "title": "US datacenters face further backlash over wastewater pollution",
+      "publishedAt": "2026-09-08T11:47:13Z"
+    }
+  ],
+  "story": {
+    "id": "environmental-impact-of-ai-data-centers",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "ai-data-center-environmental-impact-sep-2026",
+        "title": "The Hidden Risks of the AI Data Center Boom",
+        "publishedAt": "2026-09-07T22:14:12.484377Z",
+        "category": "energy",
+        "summaryEn": "The rapid growth of artificial intelligence is driving a massive increase in the construction of large data centers. These facilities require significant amounts of electricity and water to operate around the clock. A recent fire at a New York site has highlighted serious safety and accountability issues. While these projects create jobs for many workers, they also face opposition from local communities. Balancing the need for technology with public safety remains a major challenge for the industry."
+      },
+      {
+        "slug": "ai-data-center-boom-and-environmental-sep-2026",
+        "title": "The Hidden Costs of the AI Data Center Boom",
+        "publishedAt": "2026-09-08T00:24:10.947314Z",
+        "category": "energy",
+        "summaryEn": "The rapid expansion of AI data centers is creating significant new challenges for local communities. While these projects bring jobs, they also raise serious concerns about safety and transparency. A recent fire at a New York facility highlighted major gaps in emergency planning. Local firefighters reported being unprepared for the risks inside these complex buildings. Companies are now under pressure to improve safety standards and work more closely with local residents."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, why did Cheyenne officials decide to stop accepting wastewater from the Meta construction site?",
+      "options": {
+        "A": "The site was using too much water during a drought.",
+        "B": "They found a potentially dangerous type of bacteria in the water.",
+        "C": "Meta refused to pay the required fees for water disposal.",
+        "D": "The city's water treatment facility had reached its maximum capacity."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，Cheyenne 的官員在 Meta 的工地廢水中發現了一種罕見且具潛在危險的細菌（Cupriavidus gilardii），因此出於謹慎考量決定停止接收該工地的廢水。選項 A 文章未提及乾旱問題；選項 C 文章中 Meta 與官員的爭執點在於檢測結果而非費用；選項 D 雖然提到廢水處理，但並非是因為處理量過載，而是因為水質安全疑慮。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the relationship between data center companies and local environmental groups?",
+      "options": {
+        "A": "They are working together to develop new water-saving technologies.",
+        "B": "Companies are proactively sharing all their environmental data with the public.",
+        "C": "There is a significant lack of trust due to perceived secrecy and environmental damage.",
+        "D": "Environmental groups believe data centers are less harmful than the agricultural industry."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第六段提到環保團體（如 Flint Riverkeeper）對產業缺乏透明度感到沮喪，並準備採取法律行動。這顯示雙方存在嚴重的信任危機。選項 A 文章未提及合作；選項 B 與文章提到的產業缺乏透明度相反；選項 D 雖然提到產業代表拿農業做比較，但這不代表環保團體認同這種說法，環保團體關注的是廢水的性質與污染風險。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the word 'fraction' mean in the context of the industry's water use?",
+      "options": {
+        "A": "A very small part or portion of a whole.",
+        "B": "A broken or damaged piece of equipment.",
+        "C": "A mathematical calculation used to measure waste.",
+        "D": "A legal disagreement between two parties."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在文中，產業代表辯稱數據中心使用的水量相較於農業等其他產業來說只是「a fraction」，意指「極小的一部分」。選項 B 是對該詞字面意義的誤解，並非指設備損壞；選項 C 雖然在數學上有分數之意，但在此處是指總量中的比例；選項 D 與法律爭議無關。透過上下文對比數據中心與農業的用水量，可以推論出該詞是指相對較小的數量。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article?",
+      "options": {
+        "A": "AI technology is failing because it consumes too much energy.",
+        "B": "Data centers are being unfairly targeted by local governments across the U.S.",
+        "C": "The rapid expansion of AI infrastructure is creating serious environmental concerns regarding water quality.",
+        "D": "Meta is the only company currently facing legal challenges over its environmental impact."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。本文的核心主旨是探討隨著 AI 的快速發展，數據中心對環境（特別是水資源品質）造成的負面影響，以及社區與環保團體對此的擔憂。選項 A 雖然提到能源，但非文章重點；選項 B 過度簡化了問題，忽略了真實存在的環境風險；選項 D 錯誤，文章明確指出這是一個全國性的普遍現象，不限於 Meta 一家公司。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
