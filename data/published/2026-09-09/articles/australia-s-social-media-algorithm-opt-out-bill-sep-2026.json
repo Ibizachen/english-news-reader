@@ -1,0 +1,176 @@
+{
+  "id": "2026-09-09-australia-s-social-media-algorithm-opt-out-bill",
+  "slug": "australia-s-social-media-algorithm-opt-out-bill-sep-2026",
+  "publishedAt": "2026-09-09T00:11:53.418972Z",
+  "category": "technology",
+  "title": "Australia Moves to Give Users Control Over Social Media Algorithms",
+  "subtitle": "New proposed laws aim to let people choose how they see content online, but experts warn that tech companies may try to avoid real change.",
+  "summary": {
+    "en": "The Australian government has announced new legislation to give social media users more control over their feeds. Under the proposed 'Digital Duty of Care' bill, users over 16 could opt out of algorithmic recommendations. This move follows Australia's previous decision to ban children under 16 from major social media platforms. Prime Minister Anthony Albanese states the goal is to empower users rather than increase government control. However, critics worry that tech giants might make these new options difficult for users to find or use.",
+    "zh": "澳洲政府宣布了一項新法案，旨在讓社群媒體用戶對瀏覽內容擁有更多主導權。根據擬議的「數位照護責任」法案，16 歲以上的用戶將可選擇關閉演算法推薦。此舉繼澳洲先前禁止 16 歲以下兒童使用大型社群媒體平台的決定之後提出。總理艾班尼斯表示，目標是賦予用戶權力，而非增加政府控制。然而，批評者擔心科技巨頭可能會讓這些新選項變得難以尋找或使用。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The Australian government has announced a major new plan to change how social media works for millions of people. On Tuesday, Prime Minister Anthony Albanese introduced proposed laws that would allow users over the age of 16 to choose how they see content on their feeds. This initiative, often called the “Digital Duty of Care,” aims to give people more control by letting them opt out of the algorithms that currently decide what they see.",
+      "zh": "澳洲政府宣布了一項重大新計畫，旨在改變數百萬人使用社群媒體的方式。週二，總理艾班尼斯 (Anthony Albanese) 提出了相關法案，允許 16 歲以上的用戶自行選擇如何瀏覽動態牆上的內容。這項通常被稱為「數位照護責任」的倡議，旨在讓民眾能選擇關閉目前決定他們所見內容的演算法，進而賦予用戶更多主導權。"
+    },
+    {
+      "id": "p2",
+      "en": "An algorithm is a set of rules used by computer programs to decide which posts or videos appear on a user's screen. Currently, these systems track user behavior to show content that keeps people scrolling, which often includes “outrage bait”—posts designed to make people angry or upset to increase engagement. According to The Guardian, these systems can sometimes lead users toward extreme or harmful content. By allowing users to opt out, the government hopes to return to a simpler model where people only see updates from the friends and groups they have chosen to follow.",
+      "zh": "演算法是一套由電腦程式使用的規則，用來決定哪些貼文或影片會出現在用戶的螢幕上。目前，這些系統會追蹤用戶行為，以顯示能讓用戶持續滑動螢幕的內容，這通常包含「憤怒誘餌」——即刻意設計來引發民眾憤怒或不滿，藉此增加互動率的貼文。根據《衛報》報導，這些系統有時會將用戶引導至極端或有害的內容。透過允許用戶選擇關閉演算法，政府希望回歸到一種更單純的模式，讓民眾只看到他們選擇追蹤的朋友與群組所發布的更新。"
+    },
+    {
+      "id": "p3",
+      "en": "This new proposal is part of a larger effort by the Australian government to regulate big technology companies. Last year, Australia became the first country to ban children younger than 16 from using major social media platforms like Instagram, Facebook, and TikTok. According to NPR, the new bill also includes protections for children against harmful online features that promote eating disorders, crime, or dangerous stunts. If companies fail to follow these new rules, they could face significant penalties, with fines reaching as high as 109.2 million Australian dollars.",
+      "zh": "這項新提案是澳洲政府監管大型科技公司整體努力的一部分。去年，澳洲成為全球第一個禁止 16 歲以下兒童使用 Instagram、Facebook 和 TikTok 等大型社群媒體平台的國家。根據美國國家公共廣播電台 (NPR) 報導，這項新法案也包含保護兒童免受線上有害功能的影響，例如那些助長飲食失調、犯罪或危險特技的內容。若企業未能遵守這些新規定，將面臨嚴重懲處，罰款最高可達 1.092 億澳幣。"
+    },
+    {
+      "id": "p4",
+      "en": "Prime Minister Albanese emphasized that this is not about the government taking control of the internet. Instead, he told reporters in Canberra that the goal is to provide “user empowerment tools” that allow people to make genuine choices about their digital experience. The government plans to require platforms to send a clear notification to both new and existing users, offering them the choice between an algorithm-driven feed or a chronological feed based only on the accounts they follow.",
+      "zh": "總理艾班尼斯強調，這並非政府要接管網路。相反地，他在坎培拉告訴記者，目標是提供「用戶賦權工具」，讓民眾能針對自己的數位體驗做出真正的選擇。政府計畫要求平台向新舊用戶發送明確通知，提供他們在「演算法驅動的動態牆」與「僅基於追蹤帳號的時間軸動態牆」之間進行選擇。"
+    },
+    {
+      "id": "p5",
+      "en": "However, there is skepticism about whether these changes will be effective. The Guardian noted that tech companies have a history of making safety features hard to find or difficult to use. In some cases, companies bury these options deep within settings menus, hoping that users will not bother to change them. There are also concerns about how the law will be enforced. For example, in Europe, a court recently found that Meta—the company that owns Facebook and Instagram—was automatically turning algorithms back on for users even after they had chosen to turn them off.",
+      "zh": "然而，對於這些變革是否有效，外界仍抱持懷疑態度。《衛報》指出，科技公司過去曾有將安全功能隱藏或設計得難以使用的前科。在某些情況下，公司會將這些選項深埋在設定選單中，希望用戶懶得去更改。此外，法律將如何執行也令人擔憂。例如，歐洲法院近期發現，擁有 Facebook 和 Instagram 的 Meta 公司，即便在用戶選擇關閉演算法後，系統仍會自動將其重新開啟。"
+    },
+    {
+      "id": "p6",
+      "en": "Some experts also point to the experience of Apple’s ad-tracking changes in 2021. When Apple gave users a simple way to stop apps from tracking their activity, many people chose to opt out, which caused a massive drop in advertising revenue for companies like Meta. Because of this, some worry that social media platforms will try to make the “opt-out” process as clunky or frustrating as possible to keep users on the more profitable, algorithm-based model. As Deutsche Welle reports, some tech companies have already opposed these new regulations, arguing that such strict rules might push young users toward less regulated and potentially more dangerous online spaces.",
+      "zh": "一些專家也指出蘋果公司 (Apple) 在 2021 年調整廣告追蹤政策的經驗。當蘋果提供用戶簡單的方式來阻止應用程式追蹤其活動時，許多人選擇拒絕，這導致 Meta 等公司的廣告營收大幅下滑。正因如此，有人擔心社群媒體平台會試圖讓「關閉」的過程變得盡可能繁瑣或令人挫折，以維持用戶停留在獲利更高的演算法模式中。正如德國之聲 (Deutsche Welle) 報導，部分科技公司已反對這些新法規，主張如此嚴格的規定可能會將年輕用戶推向監管較少、且潛在危險性更高的網路空間。"
+    },
+    {
+      "id": "p7",
+      "en": "Despite these challenges, the Australian government appears determined to move forward. The legislation is expected to be approved by the Australian Parliament and introduced later this year. Other countries, including Germany, Spain, France, Denmark, and New Zealand, are watching these developments closely, as many are considering their own versions of similar age restrictions and digital safety laws.",
+      "zh": "儘管面臨這些挑戰，澳洲政府似乎決心推動此案。預計該法案將獲得澳洲國會通過，並於今年稍晚正式實施。包括德國、西班牙、法國、丹麥和紐西蘭在內的其他國家正密切關注這些發展，因為許多國家也在考慮制定各自版本的類似年齡限制與數位安全法規。"
+    },
+    {
+      "id": "p8",
+      "en": "Ultimately, the success of this bill will depend on how the law is written and how strictly it is enforced. If the government can ensure that the choice is simple and direct, it could change the way people interact with social media. If not, it may just be another feature that most people never use. For now, the focus remains on whether the tech giants will comply with the new rules or find ways to maintain their current business models while appearing to follow the law.",
+      "zh": "最終，這項法案的成敗將取決於法律條文的撰寫方式以及執行的嚴格程度。如果政府能確保選擇過程簡單直接，這可能會改變民眾與社群媒體互動的方式。若不然，它可能只會成為大多數人從未使用的另一項功能。目前，焦點仍放在科技巨頭是否會遵守新規定，或是會在表面上配合法律的同時，設法維持其現有的商業模式。"
+    }
+  ],
+  "wordCount": 738,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "opt out",
+      "definitionEn": "To choose not to participate in or be part of something.",
+      "definitionZh": "選擇退出；不參與。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見動詞片語，這裡指選擇不使用系統預設的演算法功能。文中：This initiative, often called the “Digital Duty of Care,” aims to give people more control by letting them opt out of the algorithms that currently decide what they see."
+    },
+    {
+      "term": "bury",
+      "definitionEn": "To hide something so that it is difficult to find.",
+      "definitionZh": "隱藏；使難以發現。",
+      "partOfSpeech": "verb",
+      "noteZh": "原意為「埋葬」，這裡指將選項藏在深層選單中，讓人難以找到。文中：In some cases, companies bury these options deep within settings menus, hoping that users will not bother to change them."
+    },
+    {
+      "term": "clunky",
+      "definitionEn": "Awkward, slow, or difficult to use.",
+      "definitionZh": "笨拙的；難用的；不順手的。",
+      "partOfSpeech": "adjective",
+      "noteZh": "形容操作介面或流程設計得很難用。文中：Because of this, some worry that social media platforms will try to make the “opt-out” process as clunky or frustrating as possible to keep users on the more profitable, algorithm-based model."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/2026/sep/08/social-media-algorithm-opt-out-australia",
+      "title": "Social media users could opt out of the algorithm if Australian government has its way – but that’s a big if",
+      "publishedAt": "2026-09-08T06:23:42Z"
+    },
+    {
+      "name": "NPR News",
+      "url": "https://www.npr.org/2026/09/08/g-s1-142311/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms",
+      "title": "Australian social media users to be offered choice to opt out of algorithms",
+      "publishedAt": "2026-09-08T13:24:00Z"
+    },
+    {
+      "name": "Deutsche Welle (DW) Top",
+      "url": "https://www.dw.com/en/australia-targets-big-tech-with-algorithm-opt-out-bill/a-79154108?maca=en-rss-en-top-1022-rdf",
+      "title": "Australia targets big tech with algorithm opt-out bill",
+      "publishedAt": "2026-09-08T09:07:00Z"
+    }
+  ],
+  "story": {
+    "id": "the-road-ahead-unresolved-questions-and-future-paths",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "australia-s-social-media-algorithm-opt-out-bill-sep-2026",
+        "title": "Australia Moves to Give Users Control Over Social Media Algorithms",
+        "publishedAt": "2026-09-08T22:14:15.682186Z",
+        "category": "technology",
+        "summaryEn": "The Australian government has announced new legislation to give social media users more control over their feeds. Under the proposed 'Digital Duty of Care' bill, users over 16 could opt out of algorithmic recommendations. This move follows previous efforts to ban children under 16 from major social media platforms. Prime Minister Anthony Albanese states the goal is to empower users rather than increase government control. Tech companies could face massive fines if they fail to comply with these new safety and transparency requirements."
+      },
+      {
+        "slug": "global-digital-identity-series-part-5",
+        "title": "The Road Ahead: Unresolved Questions and Future Paths",
+        "publishedAt": "2026-09-07T05:41:34.342917Z",
+        "category": "technology",
+        "summaryEn": "This final part of our series explores the future of digital identity. We look at how decentralized technology can give users control over their data. We also discuss the challenges of creating global standards and the role of citizens in demanding privacy."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the primary purpose of the 'Digital Duty of Care' initiative according to the article?",
+      "options": {
+        "A": "To ban all users under the age of 16 from social media platforms.",
+        "B": "To grant users the ability to opt out of algorithm-driven content feeds.",
+        "C": "To force tech companies to remove all advertisements from social media.",
+        "D": "To allow the government to directly control what content appears on the internet."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第一段，該計畫旨在讓使用者能夠選擇退出（opt out）目前決定內容呈現的演算法，從而獲得更多控制權。選項 A 是去年已實施的政策，非本次計畫重點；選項 C 文章未提及；選項 D 則與總理強調的「非政府控制網路」立場相反。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Why might tech companies make the 'opt-out' process difficult for users?",
+      "options": {
+        "A": "Because they are legally required to keep users on algorithm-based feeds.",
+        "B": "Because they want to protect users from seeing dangerous or extreme content.",
+        "C": "Because algorithm-based feeds are more profitable for their business models.",
+        "D": "Because they believe that chronological feeds are technically impossible to implement."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第五段，Apple 的經驗顯示當使用者停止追蹤後，廣告收入大幅下降。文中提到科技公司可能將退出過程設計得繁瑣，是為了留住使用者在更具獲利能力的演算法模式中。選項 A 與事實不符；選項 B 是政府的目標而非公司的動機；選項 D 文中未提及技術限制。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the phrase 'companies bury these options deep within settings menus', what does the word 'bury' imply?",
+      "options": {
+        "A": "To hide or make something difficult to find.",
+        "B": "To place something physically underground.",
+        "C": "To delete or remove a feature permanently.",
+        "D": "To store information in a secure database."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在此語境中，bury 並非字面上的「埋葬」，而是指科技公司刻意將選項隱藏在深層選單中，讓使用者難以發現或使用。選項 B 是字面意義，不符合語境；選項 C 錯誤，因為功能仍在，只是難找；選項 D 與語境無關。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central theme of the article regarding the Australian government's new proposal?",
+      "options": {
+        "A": "A detailed technical guide on how to disable social media algorithms.",
+        "B": "A report on the success of social media regulations in European countries.",
+        "C": "A discussion on the balance between government regulation and the effectiveness of user-empowerment tools.",
+        "D": "A criticism of the Australian Prime Minister's personal views on internet freedom."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章全面探討了澳洲政府試圖透過新法規賦予使用者權力，同時也分析了科技公司可能採取的抵制手段與法規執行的挑戰，呈現了政策制定與現實執行間的拉鋸。選項 A 太過細節；選項 B 僅是文中提到的背景資訊；選項 D 並非文章核心，文章重點在於政策本身而非對總理個人的批評。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
