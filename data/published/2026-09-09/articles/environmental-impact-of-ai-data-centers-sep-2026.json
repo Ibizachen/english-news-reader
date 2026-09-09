@@ -1,0 +1,173 @@
+{
+  "id": "2026-09-09-environmental-impact-of-ai-data-centers",
+  "slug": "environmental-impact-of-ai-data-centers-sep-2026",
+  "publishedAt": "2026-09-09T22:13:36.621886Z",
+  "category": "energy",
+  "title": "New Research Questions Economic Benefits of AI Data Centers",
+  "subtitle": "As the UK pushes for more digital infrastructure, experts warn that job creation may be lower than expected while energy demands remain high.",
+  "summary": {
+    "en": "A new report from the environmental group Verdant suggests that AI data centers will create far fewer permanent jobs than the tech industry claims. While the government views these facilities as essential national infrastructure, critics argue the economic benefits are overstated. The findings come amid ongoing concerns regarding the environmental impact of these massive buildings. Data centers require significant electricity and water to operate, leading to public debate about their true value. Government officials have defended the projects, citing the importance of national security and digital independence.",
+    "zh": "環保組織「翠綠」的一份新報告指出，人工智慧資料中心所創造的永久職位遠低於科技產業的宣稱。儘管政府將這些設施視為必要的國家基礎設施，批評者仍認為其經濟效益被誇大。這些發現是在大眾持續擔憂這些大型建築對環境影響的背景下提出的。資料中心運作需要消耗大量電力與水，引發了公眾對其真實價值的辯論。政府官員則以國家安全與數位獨立的重要性為由，為這些專案進行辯護。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The rapid expansion of artificial intelligence (AI) continues to reshape the British landscape, but a new report has sparked a fresh debate over the true value of this growth. According to The Guardian, research from the environmental group Verdant suggests that planned data centers—large buildings filled with powerful computers that store and process digital information—will create only about 25 percent of the jobs previously promised by the tech industry.",
+      "zh": "人工智慧的快速擴張持續重塑英國的樣貌，但一份新報告引發了關於這種成長真實價值的全新辯論。根據《衛報》（The Guardian）報導，環保組織「翠綠」（Verdant）的研究指出，規劃中的資料中心——即裝滿強大電腦以儲存及處理數位資訊的大型建築——所創造的就業機會，僅約為科技產業先前承諾的百分之二十五。"
+    },
+    {
+      "id": "p2",
+      "en": "This new analysis challenges the narrative pushed by industry groups like TechUK, which have long argued that the data center boom would be a major engine for employment. Verdant estimates that all currently planned projects will directly employ approximately 10,400 workers. This is significantly lower than the 40,000 jobs predicted by industry lobbyists. The report notes that existing data centers have created fewer than 4,400 permanent positions, a figure that highlights a growing gap between industry promises and reality.",
+      "zh": "這項新分析挑戰了由「英國科技協會」（TechUK）等產業團體所推動的論述，這些團體長期以來主張資料中心的興起將成為就業的主要引擎。「翠綠」估計，目前所有規劃中的專案將直接聘僱約一萬零四百名員工，這遠低於產業遊說人士所預測的四萬個職缺。該報告指出，現有的資料中心創造的永久職位不到四千四百個，這個數字凸顯了產業承諾與現實之間日益擴大的落差。"
+    },
+    {
+      "id": "p3",
+      "en": "At the heart of the issue is the high resource demand of these facilities. Data centers require massive amounts of electricity and water to keep their servers cool and running around the clock. Verdant’s analysis shows that for every megawatt of electricity used, data centers create only about 8.6 permanent jobs. In comparison, the group points out that other industries are much more efficient at creating employment; for instance, a car factory creates roughly 400 jobs per megawatt, while hospitals and health facilities create more than 3,600. James Meadway, co-director of Verdant, argued that the country is being rushed into a frantic building phase based on weak economic evidence.",
+      "zh": "問題的核心在於這些設施對資源的高需求。資料中心需要大量的電力與水來維持伺服器冷卻並全天候運作。「翠綠」的分析顯示，資料中心每消耗一百萬瓦的電力，僅能創造約八點六個永久職位。相較之下，該組織指出其他產業在創造就業方面效率高得多；例如，汽車工廠每百萬瓦約可創造四百個職位，而醫院與醫療設施則可創造超過三千六百個。身為「翠綠」共同主任的米德威（James Meadway）主張，國家正基於薄弱的經濟證據，被倉促推入狂熱的建設階段。"
+    },
+    {
+      "id": "p4",
+      "en": "This report follows a series of recent concerns regarding the environmental footprint of the AI boom. Earlier this month, reports emerged about wastewater pollution linked to data center construction sites, including incidents where dangerous bacteria were found in water released from a Meta site in Wyoming. Additionally, a recent fire at a data center in New York has raised questions about the safety and stability of these massive facilities. These events have contributed to growing public skepticism about the rapid construction of such energy-hungry buildings.",
+      "zh": "這份報告是在一系列近期對於人工智慧熱潮所造成的環境足跡感到擔憂之後發布的。本月稍早，有報導指出資料中心工地與廢水污染有關，包括在懷俄明州一處臉書母公司（Meta）的據點，其排放的水中發現了危險細菌。此外，紐約一處資料中心近期發生的火災，也引發了對這些大型設施安全與穩定性的質疑。這些事件加劇了公眾對於快速興建此類耗能建築的懷疑。"
+    },
+    {
+      "id": "p5",
+      "en": "Despite these concerns, the UK government remains committed to the expansion of AI infrastructure. Labour has officially classified AI data centers as critical national infrastructure—a status that allows the government to speed up the planning and building process. Government officials argue that these facilities are vital for national security and sovereignty, ensuring that Britain maintains control over its own digital future. AI minister Kanishka Narayan has been a vocal supporter of this approach, suggesting that it is impossible to maintain a strong defense without building the necessary digital foundations.",
+      "zh": "儘管存在這些疑慮，英國政府仍致力於擴展人工智慧基礎設施。工黨政府已正式將人工智慧資料中心列為國家關鍵基礎設施，此地位允許政府加速規劃與興建流程。政府官員主張，這些設施對於國家安全與主權至關重要，能確保英國維持對自身數位未來的掌控。人工智慧部長納拉揚（Kanishka Narayan）一直是此方針的堅定支持者，他認為若不建立必要的數位基礎，就不可能維持強大的國防。"
+    },
+    {
+      "id": "p6",
+      "en": "In response to the Verdant report, a government spokesperson strongly rejected the findings. They claimed that the study uses a misleading way to measure job creation and makes unfair comparisons to schools and hospitals. The government also argued that the report fails to account for the wider economic value of computing power, as well as the strategic importance of building critical digital infrastructure within the country to avoid relying on foreign companies.",
+      "zh": "針對「翠綠」的報告，政府發言人強烈反駁了調查結果。他們聲稱該研究使用誤導性的方式來衡量就業創造，並將其與學校和醫院進行不公平的比較。政府亦主張，該報告未能考量運算能力更廣泛的經濟價值，以及在國內建立關鍵數位基礎設施以避免依賴外國企業的戰略重要性。"
+    },
+    {
+      "id": "p7",
+      "en": "As the debate continues, the tension between economic ambition and environmental responsibility remains clear. On one side, the government and tech industry emphasize the need for sovereign digital capability to stay competitive in a global market. On the other side, critics like Verdant argue that the country must carefully evaluate the real costs of these projects before committing to such a large-scale buildout. They suggest that the government should justify the use of these resources rather than assuming that building first and asking questions later is the right path forward. For now, the rapid pace of construction shows no signs of slowing down, leaving local communities and environmental advocates to watch the situation closely.",
+      "zh": "隨著辯論持續，經濟野心與環境責任之間的緊張關係依然明顯。一方面，政府與科技產業強調為了在國際市場保持競爭力，必須具備數位主權能力；另一方面，像「翠綠」這樣的批評者則主張，國家在投入如此大規模的建設前，必須謹慎評估這些專案的真實成本。他們建議政府應證明這些資源使用的合理性，而非假設「先蓋再說」是正確的前進道路。目前，快速的建設步伐並無放緩跡象，這使得當地社區與環保倡議人士必須密切關注局勢發展。"
+    }
+  ],
+  "wordCount": 684,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "sparked",
+      "definitionEn": "To cause the start of something, especially an argument or a debate.",
+      "definitionZh": "引發、觸發（爭論或事件）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（火花），這裡作動詞，形容引發爭論。文中：but a new report has sparked a fresh debate over the true value of this growth."
+    },
+    {
+      "term": "engine",
+      "definitionEn": "A force or cause that drives a process forward.",
+      "definitionZh": "推動力、驅動力。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作名詞（引擎），這裡比喻為推動就業的動力。文中：which have long argued that the data center boom would be a major engine for employment."
+    },
+    {
+      "term": "account for",
+      "definitionEn": "To consider or include something when making a judgment or decision.",
+      "definitionZh": "考慮到、顧及。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見作「解釋原因」，這裡指在評估時將某因素納入考量。文中：The government also argued that the report fails to account for the wider economic value of computing power"
+    },
+    {
+      "term": "buildout",
+      "definitionEn": "The process of developing or constructing a large-scale infrastructure project.",
+      "definitionZh": "大規模的建設、開發。",
+      "partOfSpeech": "noun",
+      "noteZh": "由動詞片語 build out 轉化而來的名詞，指大規模的建設工程。文中：critics like Verdant argue that the country must carefully evaluate the real costs of these projects before committing to such a large-scale buildout."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/09/uk-datacentres-will-create-just-25-of-jobs-predicted-by-tech-sector-analysis-finds",
+      "title": "UK datacentres will create just 25% of jobs predicted by tech sector, analysis finds",
+      "publishedAt": "2026-09-09T06:00:00Z"
+    }
+  ],
+  "story": {
+    "id": "environmental-impact-of-ai-data-centers",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "data-centers-and-wastewater-pollution-concerns-sep-2026",
+        "title": "Data Centers Face Growing Pressure Over Wastewater Pollution",
+        "publishedAt": "2026-09-09T00:11:53.418972Z",
+        "category": "energy",
+        "summaryEn": "New reports show that data centers are facing increased scrutiny regarding the water they release back into the environment. Recent tests in Wyoming discovered hazardous bacteria in water coming from a Meta construction site. Environmental groups across the United States are now launching campaigns to address concerns about potential pollutants. While companies argue their water use is necessary and managed safely, legal battles are beginning to emerge. This situation highlights the growing tension between the rapid growth of artificial intelligence and the protection of local natural resources."
+      },
+      {
+        "slug": "ai-data-center-environmental-impact-sep-2026",
+        "title": "The Hidden Risks of the AI Data Center Boom",
+        "publishedAt": "2026-09-07T22:14:12.484377Z",
+        "category": "energy",
+        "summaryEn": "The rapid growth of artificial intelligence is driving a massive increase in the construction of large data centers. These facilities require significant amounts of electricity and water to operate around the clock. A recent fire at a New York site has highlighted serious safety and accountability issues. While these projects create jobs for many workers, they also face opposition from local communities. Balancing the need for technology with public safety remains a major challenge for the industry."
+      },
+      {
+        "slug": "concerns-over-data-center-wastewater-pollution-sep-2026",
+        "title": "New Concerns Emerge Over Data Center Wastewater Pollution",
+        "publishedAt": "2026-09-08T22:14:15.682186Z",
+        "category": "energy",
+        "summaryEn": "Data centers are essential for the growth of artificial intelligence, but they require massive amounts of water to keep their computers cool. Recent tests in Wyoming found dangerous bacteria in water discharged from a Meta construction site. This incident is part of a larger trend of environmental concerns regarding how these facilities handle wastewater. Activists and local groups are now taking legal action to protect their water supplies from potential pollution. The industry claims it is working to be a good neighbor, but tensions between companies and residents continue to rise."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the Verdant report, what is the ratio of permanent job creation compared to the electricity consumption of data centers?",
+      "options": {
+        "A": "400 jobs per megawatt",
+        "B": "8.6 jobs per megawatt",
+        "C": "3,600 jobs per megawatt",
+        "D": "25 jobs per megawatt"
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，Verdant 的分析明確指出，數據中心每消耗一兆瓦（megawatt）的電力，僅創造約 8.6 個永久性職位。選項 A（400個）是汽車工廠的數據，選項 C（3,600個）是醫院和醫療設施的數據，而選項 D（25個）則是將文章第一段提到的「25%」與電力單位混淆，屬於常見的干擾選項。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the government's stance regarding the Verdant report?",
+      "options": {
+        "A": "The government agrees with the findings but believes the benefits outweigh the costs.",
+        "B": "The government believes the report is scientifically accurate but politically inconvenient.",
+        "C": "The government views the report's methodology as flawed and its comparisons as invalid.",
+        "D": "The government plans to pause construction to investigate the claims made by Verdant."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第六段，政府發言人強烈反駁了該報告，聲稱其測量就業的方式具有誤導性，且將數據中心與學校、醫院進行比較是不公平的。這顯示政府認為該研究的分析方法有瑕疵。選項 A 不正確，因為政府並未承認其發現；選項 B 錯誤，因為政府並未認可其科學準確性；選項 D 與文章最後一段提到「建設步伐沒有減緩跡象」矛盾。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the third paragraph, what does the author mean by describing the country as being rushed into a 'frantic' building phase?",
+      "options": {
+        "A": "A phase characterized by hurried, disorganized, and anxious activity.",
+        "B": "A phase that is highly profitable and economically stable.",
+        "C": "A phase involving advanced technological innovation and research.",
+        "D": "A phase that is carefully planned and executed with caution."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在文中，「frantic」用來形容英國在證據不足的情況下急於進行建設的狀態，意指一種匆忙、混亂且帶有焦慮感的活動。選項 B 與文章提到的經濟證據薄弱相左；選項 C 雖涉及科技，但並非 frantic 的字面定義；選項 D 與文中批評政府「先蓋再問」的草率態度完全相反。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "Which statement best summarizes the central conflict presented in the article?",
+      "options": {
+        "A": "The technical challenges of cooling data centers are preventing the UK from becoming an AI leader.",
+        "B": "Environmental groups and the government are collaborating to create safer data center regulations.",
+        "C": "The AI industry is failing to provide any economic benefits to the local British population.",
+        "D": "There is a significant disagreement over whether the economic and strategic necessity of AI infrastructure justifies its environmental and resource costs."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。本文的核心在於探討 AI 基礎設施擴張帶來的兩難：一方面是政府與科技業認為這是國家安全與數位主權的戰略需求，另一方面是批評者（如 Verdant）對於其高昂資源消耗與實際就業貢獻不足的擔憂。選項 A 過於狹隘；選項 B 與文中政府與環保團體的對立衝突；選項 C 則過度誇大，文章僅指出就業不如預期，並非完全沒有貢獻。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
