@@ -1,0 +1,160 @@
+{
+  "id": "2026-09-12-environmental-impact-of-data-center-expansion",
+  "slug": "environmental-impact-of-data-center-expansion-sep-2026",
+  "publishedAt": "2026-09-12T00:16:28.598925Z",
+  "category": "energy",
+  "title": "The Global Struggle Over Where to Build AI Data Centers",
+  "subtitle": "As local opposition grows in the United States, tech companies are looking for new ways to power their massive AI projects.",
+  "summary": {
+    "en": "Data centers are facing strong local opposition in the United States due to environmental and energy concerns. Tech companies are now trying to balance these projects with promises of renewable energy. Meanwhile, some international regions like Patagonia are being considered as new hubs for these facilities. Argentina is actively courting these investments with tax incentives and regulatory support. The future of AI infrastructure remains uncertain as companies navigate both public pushback and the need for massive amounts of power.",
+    "zh": "由於環境與能源方面的疑慮，資料中心在美國面臨強烈的地方反對聲浪。科技公司目前正試圖透過承諾使用再生能源來平衡這些計畫。同時，巴塔哥尼亞等國際地區正被視為這些設施的新樞紐。阿根廷政府正以稅收優惠與法規支持積極爭取這些投資。隨著企業在公眾反彈與龐大電力需求之間尋求平衡，人工智慧基礎設施的未來仍充滿不確定性。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The rapid growth of artificial intelligence is changing how the world thinks about energy and infrastructure. As tech companies build larger data centers to support AI, they are facing a wave of local opposition in the United States. According to NPR News, local groups disrupted at least 75 data center projects in the first quarter of 2026 alone. These projects were worth approximately $130 billion, showing just how much the public is starting to question the impact of these massive facilities on their communities.",
+      "zh": "人工智慧的快速成長正在改變全球對於能源與基礎設施的思維。隨著科技公司為了支援人工智慧而興建規模更大的資料中心，他們在美國正面臨一波地方上的反對聲浪。根據美國國家公共廣播電台（NPR News）報導，僅在二零二六年第一季，地方團體就阻撓了至少七十五項資料中心計畫。這些計畫總值約一千三百億美元，顯示大眾已開始質疑這些大型設施對其社區造成的影響。"
+    },
+    {
+      "id": "p2",
+      "en": "This tension is clearly visible in New Mexico, where the \"Project Jupiter\" data center—a joint effort between Oracle and OpenAI—has faced significant challenges. As reported by Ars Technica, the project has been met with protests and court battles from residents and environmental groups. The main concern is the environmental cost of powering such a large facility. Originally, the companies planned to use natural gas, which could have created millions of tons of carbon dioxide emissions every year. This led to legal action, with the state’s Land Office blocking requests to build a natural gas pipeline to the site.",
+      "zh": "這種緊張關係在新墨西哥州顯而易見，由甲骨文（Oracle）與人工智慧研究實驗室（OpenAI）共同推動的「木星計畫」（Project Jupiter）資料中心便面臨嚴峻挑戰。據科技媒體 Ars Technica 報導，該計畫遭遇當地居民與環保團體的抗議及法律訴訟。主要疑慮在於為如此大型設施供電所帶來的環境代價。起初，這些公司計畫使用天然氣，這每年可能產生數百萬噸的二氧化碳排放。此舉引發法律行動，該州的土地辦公室隨後封鎖了興建天然氣管線至該場址的申請。"
+    },
+    {
+      "id": "p3",
+      "en": "In response to this pressure, tech companies are trying to change their approach. Ars Technica noted that Oracle recently announced a plan to invest in 2 gigawatts of renewable energy projects. A gigawatt is a unit of power equal to one billion watts, used to measure the output of large energy plants. However, experts remain skeptical. Michael Thomas, CEO of the Cleanview data platform, pointed out that this renewable energy would not directly power the data center itself. Instead, the facility will still rely on fuel cells that use natural gas. While the companies have moved away from traditional gas turbines to fuel-cell technology—which generates electricity without burning fuel—the environmental impact remains a point of debate.",
+      "zh": "為了因應壓力，科技公司正試圖調整策略。Ars Technica 指出，甲骨文近期宣布一項投資計畫，將投入兩百億瓦的再生能源專案。十億瓦（gigawatt）是功率單位，等於十億瓦特，用於衡量大型發電廠的輸出量。然而，專家仍持懷疑態度。清潔能源數據平台 Cleanview 的執行長麥可·湯瑪斯（Michael Thomas）指出，這些再生能源並不會直接供應資料中心本身。相反地，該設施仍將依賴使用天然氣的燃料電池。儘管這些公司已從傳統的燃氣渦輪機轉向燃料電池技術——即在不燃燒燃料的情況下發電——但其對環境的影響仍是爭論焦點。"
+    },
+    {
+      "id": "p4",
+      "en": "Because of these difficulties in the United States, tech companies are looking for new places to build. Patagonia, located at the southern tip of South America, has emerged as a potential hub for future data centers. According to NPR News, the region is attractive because it is naturally cold, which helps lower the high costs of cooling the powerful computers inside data centers. Argentina’s leadership is actively encouraging this interest. President Javier Milei has created a program that offers tax breaks and a stable environment for businesses, hoping to attract major AI companies.",
+      "zh": "由於在美國面臨這些困難，科技公司正尋求新的興建地點。位於南美洲南端的巴塔哥尼亞（Patagonia）已成為未來資料中心的潛在樞紐。根據 NPR News 報導，該地區的吸引力在於其天然寒冷的氣候，這有助於降低資料中心內部強大電腦所需的冷卻高昂成本。阿根廷政府正積極鼓勵這類投資。總統米雷伊（Javier Milei）已制定一項計畫，提供稅收減免與穩定的商業環境，希望能吸引大型人工智慧公司進駐。"
+    },
+    {
+      "id": "p5",
+      "en": "OpenAI has already shown interest in the region, committing to a data center that could cost up to $25 billion. Other companies are also looking at the area. NPR News reported that Poland’s Green Capital has leased land in the Chubut province for wind and solar energy projects that could eventually provide power to these data centers. Additionally, the U.S.-based firm FlexDomes is searching for investors interested in building in Patagonia. While the government plans to improve fiber-optic internet connections to support this growth, the plans are still in the early stages.",
+      "zh": "OpenAI 已展現對該地區的興趣，承諾投入高達兩百五十億美元興建資料中心。其他公司也正關注該區域。NPR News 報導稱，波蘭的綠色資本（Green Capital）已在丘布特省（Chubut）租賃土地，用於風能與太陽能專案，這些專案最終可能為資料中心提供電力。此外，總部位於美國的 FlexDomes 公司也正在尋找有意在巴塔哥尼亞投資的合作夥伴。雖然政府計畫改善光纖網路連線以支援此類成長，但相關計畫仍處於早期階段。"
+    },
+    {
+      "id": "p6",
+      "en": "This global search for a home for data centers highlights a difficult problem for the tech industry. AI requires a massive amount of electricity and infrastructure, but communities are increasingly worried about how these facilities affect their local environment and resources. Whether it is through promises of renewable energy in the United States or moving to remote areas like Patagonia, companies are struggling to find a balance between their need for growth and the concerns of the public. As the world continues to rely more on AI, the debate over where and how these data centers are built will likely continue for years to come.",
+      "zh": "這場為資料中心尋找落腳處的全球競逐，凸顯了科技產業面臨的棘手難題。人工智慧需要龐大的電力與基礎設施，但社區對於這些設施如何影響當地環境與資源的擔憂日益加深。無論是透過在美國承諾使用再生能源，還是轉移至巴塔哥尼亞等偏遠地區，企業都在努力尋求成長需求與公眾疑慮之間的平衡。隨著世界持續加深對人工智慧的依賴，關於這些資料中心應建於何處以及如何興建的爭論，很可能會持續多年。"
+    }
+  ],
+  "wordCount": 642,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "blocking",
+      "definitionEn": "Preventing something from happening or moving forward.",
+      "definitionZh": "阻擋、阻止。",
+      "partOfSpeech": "verb (present participle)",
+      "noteZh": "常見作名詞（積木），這裡作動詞，指阻止計畫進行。文中：the state’s Land Office blocking requests to build a natural gas pipeline to the site."
+    },
+    {
+      "term": "met with",
+      "definitionEn": "To experience or be faced with a particular reaction or situation.",
+      "definitionZh": "遭遇、面臨（某種反應或情況）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "字面意思容易誤解為「與...見面」，這裡指遭遇抗議。文中：the project has been met with protests and court battles from residents and environmental groups."
+    },
+    {
+      "term": "moved away from",
+      "definitionEn": "To stop using or doing something and start using or doing something else.",
+      "definitionZh": "不再使用（某種方法或事物），轉而採用其他方式。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "字面意思容易誤解為「物理上的移動」，這裡指改變策略或技術。文中：While the companies have moved away from traditional gas turbines to fuel-cell technology—which generates electricity without burning fuel—the environmental impact remains a point of debate."
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR News",
+      "url": "https://www.npr.org/2026/09/11/nx-s1-5966498/is-patagonia-the-new-data-center-hub-harley-davidsons-role-in-the-trade-war",
+      "title": "Is Patagonia the new data center hub? + Harley-Davidson's role in the trade war",
+      "publishedAt": "2026-09-11T14:16:35Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
+      "title": "Oracle tries to appease Stargate data center opponents with renewables push",
+      "publishedAt": "2026-09-11T18:22:22Z"
+    }
+  ],
+  "story": {
+    "id": "environmental-impact-of-ai-data-centers",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "environmental-impact-of-data-center-expansion-sep-2026",
+        "title": "The Global Search for a Home for Data Centers",
+        "publishedAt": "2026-09-11T22:13:54.142183Z",
+        "category": "energy",
+        "summaryEn": "Data centers are facing significant challenges as communities in the United States increasingly push back against new projects. To address these concerns and high operational costs, tech companies are exploring new locations like Patagonia. Argentina has actively courted these investments by offering tax incentives and a stable regulatory environment. While the region is remote, its cold climate offers natural cooling benefits that could lower energy expenses. Meanwhile, the global demand for AI technology continues to drive international trade patterns."
+      },
+      {
+        "slug": "environmental-impact-of-ai-data-centers-sep-2026",
+        "title": "New Research Questions Economic Benefits of AI Data Centers",
+        "publishedAt": "2026-09-09T22:13:36.621886Z",
+        "category": "energy",
+        "summaryEn": "A new report from the environmental group Verdant suggests that AI data centers will create far fewer permanent jobs than the tech industry claims. While the government views these facilities as essential national infrastructure, critics argue the economic benefits are overstated. The findings come amid ongoing concerns regarding the environmental impact of these massive buildings. Data centers require significant electricity and water to operate, leading to public debate about their true value. Government officials have defended the projects, citing the importance of national security and digital independence."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is the primary reason tech companies are considering building data centers in Patagonia?",
+      "options": {
+        "A": "It is home to the largest wind and solar energy projects in the world.",
+        "B": "The region's naturally cold climate helps reduce the costs associated with cooling computers.",
+        "C": "The local government has already completed all necessary fiber-optic infrastructure upgrades.",
+        "D": "It is closer to the headquarters of major AI companies like Oracle and OpenAI."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案是 B。文章第四段明確指出 Patagonia 的吸引力在於其氣候自然寒冷，能降低數據中心冷卻電腦的高昂成本。選項 A 錯誤，因為風能與太陽能項目目前僅是計畫階段；選項 C 錯誤，文中提到基礎設施改善仍處於早期階段；選項 D 文中並未提及地理距離是主要考量因素。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the effectiveness of Oracle’s plan to invest in 2 gigawatts of renewable energy?",
+      "options": {
+        "A": "It will completely eliminate the need for natural gas in their data centers.",
+        "B": "It will allow the data centers to operate entirely off-grid.",
+        "C": "It does not provide a direct power source for the specific data centers being built.",
+        "D": "It is a strategy that environmental groups have fully endorsed and supported."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案是 C。根據第三段，專家 Michael Thomas 指出這些再生能源並不會直接供電給數據中心，該中心仍需依賴天然氣燃料電池。選項 A 錯誤，因為天然氣仍在使用；選項 B 文中未提及離網運作；選項 D 錯誤，文章提到環境團體對此仍有疑慮與抗爭，並非完全支持。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the third paragraph, what does the word 'skeptical' mean as it is used in the context of the experts' reaction?",
+      "options": {
+        "A": "Doubtful or unconvinced about the claims made.",
+        "B": "Extremely excited about future technological progress.",
+        "C": "Confused by the technical complexity of the energy data.",
+        "D": "Angry and opposed to any form of industrial growth."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案是 A。在文中，專家們對於科技公司宣稱的環保措施持保留態度，認為這些措施並未真正解決問題，因此 'skeptical' 在此意指懷疑或不相信。選項 B 與文意相反；選項 C 雖然專家懂技術，但文中強調的是他們對成效的質疑而非困惑；選項 D 語氣過重，專家是表達懷疑而非單純憤怒。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article?",
+      "options": {
+        "A": "The rapid expansion of AI is causing a global decline in the use of natural gas.",
+        "B": "Tech companies are successfully resolving all environmental concerns through new technology.",
+        "C": "The AI industry is moving all data centers to South America to avoid taxes.",
+        "D": "The tech industry faces a persistent conflict between its high energy needs and public environmental concerns."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案是 D。文章結尾總結了核心議題：人工智慧需要龐大的基礎設施與電力，但這與社區對環境資源的擔憂產生了持續的衝突，科技公司正努力在擴張與公眾關切之間尋求平衡。選項 A 與事實不符；選項 B 忽略了專家與居民的持續抗爭；選項 C 過度簡化了遷移的原因，且忽略了美國本土的爭議。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
