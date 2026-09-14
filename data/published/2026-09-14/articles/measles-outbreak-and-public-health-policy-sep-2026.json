@@ -1,0 +1,172 @@
+{
+  "id": "2026-09-14-measles-outbreak-and-public-health-policy",
+  "slug": "measles-outbreak-and-public-health-policy-sep-2026",
+  "publishedAt": "2026-09-14T22:13:27.849969Z",
+  "category": "public-health",
+  "title": "Measles Outbreak in Pennsylvania Leads to Third Death and Federal Policy Changes",
+  "subtitle": "As health officials report a new death, a disagreement grows over how the government counts victims of the virus.",
+  "summary": {
+    "en": "Pennsylvania has reported its third death linked to a growing measles outbreak. The victim was a 40-year-old woman who had not been vaccinated against the disease. Meanwhile, the Trump administration has changed the system used to track measles deaths. This move has caused confusion among medical experts who monitor public health trends. State and federal officials continue to disagree on how to accurately record the impact of this virus.",
+    "zh": "賓夕法尼亞州通報了第三起與麻疹疫情相關的死亡案例。死者為一名未接種疫苗的四十歲女性。與此同時，川普政府更改了追蹤麻疹死亡人數的系統，此舉導致監測公共衛生趨勢的醫學專家感到困惑。州政府與聯邦官員對於如何準確記錄病毒影響的看法仍存在分歧。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "A 40-year-old woman in Pennsylvania has died from complications related to measles, marking the third death in the state during the current outbreak. According to Jefferson County Coroner Greg Furlong, the woman passed away on Saturday. She had not received a measles vaccine and suffered from other health conditions that made her body more vulnerable to the virus. Furlong stated that while the woman had existing health issues, he believes she would still be alive if she had not caught the measles.",
+      "zh": "賓夕法尼亞州一名四十歲女性因麻疹併發症過世，這是該州在此波疫情中出現的第三起死亡案例。根據傑佛遜郡驗屍官葛瑞格·弗隆（Greg Furlong）表示，該名女子於週六離世。她生前未接種麻疹疫苗，且因患有其他健康問題，導致身體對病毒的抵抗力較弱。弗隆指出，儘管該女子本身有健康狀況，但他認為若非感染麻疹，她理應能繼續存活。"
+    },
+    {
+      "id": "p2",
+      "en": "This latest death follows two earlier cases involving infants in Pennsylvania. One infant died shortly after birth, while the other was a six-week-old girl who had a genetic condition. Because the first dose of the measles vaccine is typically given to children around one year old, neither infant was old enough to be protected by immunization. As of last Friday, the Pennsylvania Department of Health reported 676 confirmed cases of measles across 37 counties, with over 100 people requiring hospital care.",
+      "zh": "這起最新死亡案例發生在兩名嬰兒死亡之後。其中一名嬰兒出生後不久即夭折，另一名則是患有遺傳疾病的六週大女嬰。由於麻疹疫苗的第一劑通常在兒童滿一歲時接種，這兩名嬰兒皆未達接種年齡而無法獲得免疫保護。截至上週五，賓夕法尼亞州衛生廳通報全州三十七個郡共有六百七十六起確診病例，其中超過一百人需要住院治療。"
+    },
+    {
+      "id": "p3",
+      "en": "While local officials are tracking these deaths, a new conflict has emerged regarding how the federal government reports them. The US Centers for Disease Control and Prevention (CDC) recently changed the way it counts measles deaths. According to a note on the agency’s website, the CDC is now using data from the National Center for Health Statistics (NCHS). Previously, the agency used the National Notifiable Diseases Surveillance System (NNDSS), which acts as a supply chain for health data from states to the federal government.",
+      "zh": "在地方官員追蹤這些死亡案例的同時，聯邦政府的通報方式引發了新的爭議。美國疾病管制與預防中心（CDC）近期更改了統計麻疹死亡人數的方法。根據該機構網站上的說明，CDC 現在採用國家衛生統計中心（NCHS）的數據。在此之前，該機構使用的是國家法定傳染病監測系統（NNDSS），該系統作為各州向聯邦政府傳輸健康數據的供應鏈。"
+    },
+    {
+      "id": "p4",
+      "en": "This change has caused concern among medical professionals. Debra Houry, a former chief medical officer at the CDC, called the move \"puzzling.\" She explained that the new system is designed for long-term study of death trends, not for confirming individual cases of a disease. Because of this change, the CDC’s official records currently show no measles deaths for 2026, which contradicts the reports coming from Pennsylvania officials. Emily Hilliard, a spokesperson for the US Department of Health and Human Services (HHS), noted that the CDC will only report a measles death if the NCHS confirms the virus as the \"underlying cause\" of death.",
+      "zh": "這項變動引起了醫學界的擔憂。曾任 CDC 首席醫療官的黛布拉·霍里（Debra Houry）稱此舉「令人困惑」。她解釋說，新系統旨在長期研究死亡趨勢，而非用於確認個別疾病案例。由於這項變動，CDC 的官方紀錄目前顯示二〇二六年並無麻疹死亡案例，這與賓夕法尼亞州官員的報告相互矛盾。美國衛生及公共服務部（HHS）發言人艾蜜莉·希利亞德（Emily Hilliard）指出，只有在 NCHS 確認病毒為死亡的「根本原因」時，CDC 才會將其列為麻疹死亡案例。"
+    },
+    {
+      "id": "p5",
+      "en": "This disagreement has created tension between Pennsylvania’s state government and the Trump administration. The two sides have clashed over the details of how these deaths are categorized. For example, in the case of the newborn who died in August, local officials noted that while the baby had measles, the virus did not cause the death. However, in other cases, officials maintain that the virus was a significant factor. The current situation highlights the difficulty of tracking a disease that many people thought had been eradicated—meaning completely removed—from the country.",
+      "zh": "這項分歧造成了賓夕法尼亞州政府與川普政府之間的緊張關係。雙方對於如何歸類這些死亡案例的細節爭執不下。例如，在八月份死亡的新生兒案例中，地方官員指出，雖然嬰兒感染了麻疹，但病毒並非致死主因。然而，在其他案例中，官員則堅稱病毒是關鍵因素。當前局勢凸顯了追蹤一種許多人以為已在國內絕跡（意即徹底根除）的疾病所面臨的困難。"
+    },
+    {
+      "id": "p6",
+      "en": "Public health experts warn that the outbreak is a serious reminder of the importance of vaccination. Coroner Furlong emphasized that maintaining an immunization rate of at least 95% is necessary to protect those who cannot be vaccinated, such as pregnant people and very young infants. He expressed hope that the recent tragedy would encourage more people to get tested and vaccinated. \"People do not want to be a statistic,\" Furlong said, adding that it is a shame that these deaths were necessary to highlight the danger of the virus.",
+      "zh": "公共衛生專家警告，這波疫情嚴正提醒了疫苗接種的重要性。驗屍官弗隆強調，維持至少百分之九十五的免疫接種率，對於保護無法接種疫苗的族群（如孕婦及極年幼嬰兒）至關重要。他表示希望這場悲劇能鼓勵更多人接受篩檢與接種疫苗。弗隆說：「沒人想成為統計數字的一部分。」他並補充道，必須透過這些死亡案例來凸顯病毒的危險性，實在令人遺憾。"
+    },
+    {
+      "id": "p7",
+      "en": "As the outbreak continues, the gap between local reports and federal data remains a point of confusion. While the CDC states that it does not currently have records indicating measles as the underlying cause for any deaths this year, local coroners continue to classify cases based on the clear connection between the virus and the patient's health decline. For now, health officials in Pennsylvania are focused on managing the spread of the disease, which has already affected hundreds of residents across the state. The ongoing debate over data collection shows how political disagreements can sometimes make it harder for the public to understand the true scale of a health crisis.",
+      "zh": "隨著疫情持續，地方報告與聯邦數據之間的落差仍是混亂的根源。儘管 CDC 表示目前沒有紀錄顯示麻疹是今年任何死亡案例的根本原因，但地方驗屍官仍根據病毒與患者健康惡化之間的明確關聯來進行分類。目前，賓夕法尼亞州的衛生官員正致力於控制疫情擴散，該疫情已影響全州數百名居民。這場關於數據收集的持續辯論顯示，政治分歧有時會讓大眾更難以理解健康危機的真實規模。"
+    }
+  ],
+  "wordCount": 724,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "acts as",
+      "definitionEn": "To serve the function or purpose of something.",
+      "definitionZh": "充當、擔任、扮演……的角色。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這裡的 act 並非「表演」，而是指功能上的運作。文中：Previously, the agency used the National Notifiable Diseases Surveillance System (NNDSS), which acts as a supply chain for health data from states to the federal government."
+    },
+    {
+      "term": "clashed",
+      "definitionEn": "To have a strong disagreement or argument.",
+      "definitionZh": "發生衝突、意見不合。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見於實體碰撞，這裡指觀點或立場上的對立。文中：The two sides have clashed over the details of how these deaths are categorized."
+    },
+    {
+      "term": "statistic",
+      "definitionEn": "A single piece of data or a number in a large collection of information, often implying a loss of individuality.",
+      "definitionZh": "統計數字；這裡指「成為冰冷的數據之一」。",
+      "partOfSpeech": "noun",
+      "noteZh": "這裡指代「成為死亡名單上的一個數字」，而非指統計學這門學科。文中：\"People do not want to be a statistic,\" Furlong said, adding that it is a shame that these deaths were necessary to highlight the danger of the virus."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Health",
+      "url": "https://www.theguardian.com/society/2026/sep/14/trump-administration-cdc-measles-deaths-pennsylvania",
+      "title": "Trump administration changes how it counts measles deaths amid Pennsylvania outbreak",
+      "publishedAt": "2026-09-14T20:35:25Z"
+    },
+    {
+      "name": "MedPage Today",
+      "url": "https://www.medpagetoday.com/infectiousdisease/publichealth/122987",
+      "title": "Pennsylvania Officials Report State's 3rd Death Involving Measles",
+      "publishedAt": "2026-09-14T14:11:56Z"
+    }
+  ],
+  "story": {
+    "id": "measles-outbreak-and-public-health-concerns",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "pennsylvania-measles-outbreak-and-public-health-sep-2026",
+        "title": "Pennsylvania Faces New Tragedy as Measles Outbreak Continues",
+        "publishedAt": "2026-09-14T00:09:31.409641Z",
+        "category": "public-health",
+        "summaryEn": "A 40-year-old woman in Pennsylvania has died from complications related to measles. This is the third death in the state during a large and ongoing outbreak of the disease. Health officials report that the virus has spread across 37 counties, causing hundreds of hospitalizations. Experts are concerned by the decline in vaccination rates among children. The situation has also led to political disagreement regarding how to count these deaths."
+      },
+      {
+        "slug": "rising-measles-deaths-in-the-us-sep-2026",
+        "title": "Third Measles Death Reported in Pennsylvania as Outbreak Continues",
+        "publishedAt": "2026-09-13T22:13:24.584559Z",
+        "category": "public-health",
+        "summaryEn": "A 40-year-old woman has died from measles in Pennsylvania, marking the third death in the state's ongoing outbreak. This highly contagious disease has spread across dozens of states, with thousands of cases reported nationwide this year. Public health experts warn that the virus is dangerous for people of all ages, not just children. Meanwhile, a serious disagreement has emerged between state officials and federal leaders regarding how to count these deaths. The situation highlights the challenges of managing public health during a time of declining vaccination rates."
+      },
+      {
+        "slug": "public-health-concerns-following-measles-outbreak-sep-2026",
+        "title": "Public Health Concerns Grow as Measles Deaths Spark Political Debate",
+        "publishedAt": "2026-09-12T00:16:28.598925Z",
+        "category": "public-health",
+        "summaryEn": "The United States is facing its worst measles outbreak in decades as vaccination rates continue to decline. Recent deaths in Pennsylvania have caused a serious disagreement between state officials and federal leaders. Health experts are worried that political pressure is damaging trust in the Centers for Disease Control and Prevention (CDC). There are growing fears that this breakdown in communication will make it harder to manage other diseases like the flu and COVID-19. Public health professionals emphasize that clear, honest data is essential for keeping the country safe."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What reason does Coroner Greg Furlong provide for the 40-year-old woman's death in Pennsylvania?",
+      "options": {
+        "A": "She lacked access to hospital care despite the state's efforts.",
+        "B": "She had pre-existing health conditions that made her more susceptible to the virus.",
+        "C": "She was too young to have received the required measles vaccination.",
+        "D": "She died primarily due to a genetic condition rather than the measles virus."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第一段明確指出，該名 40 歲女性未接種疫苗，且因患有其他健康狀況，使其身體對病毒更為脆弱。選項 A 錯誤，文中未提及缺乏醫療照護；選項 C 錯誤，文中提到年齡限制的是嬰兒而非該名女性；選項 D 錯誤，文中提到有遺傳疾病的是另一名嬰兒案例，而非該名女性。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the text, why might the CDC's new counting system lead to lower death statistics compared to local reports?",
+      "options": {
+        "A": "The CDC is intentionally ignoring reports from Pennsylvania to hide the outbreak.",
+        "B": "The new system only counts cases that occurred within the last calendar year.",
+        "C": "The CDC requires the virus to be the 'underlying cause,' whereas local coroners may include cases where the virus was a contributing factor.",
+        "D": "The NNDSS system was previously over-counting deaths by including cases that were not confirmed as measles."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第四段與第七段，CDC 現在僅在病毒被確認為「根本死因 (underlying cause)」時才統計死亡，而地方官員則會將病毒與患者健康惡化有明顯關聯的案例納入，這導致了兩者數據的落差。選項 A 過度推論，文中未指控 CDC 有意隱瞞；選項 B 與 D 皆非文中提到的數據差異原因。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fifth paragraph, what does the word 'eradicated' mean as used in the context of the measles outbreak?",
+      "options": {
+        "A": "Completely eliminated or wiped out.",
+        "B": "Managed through consistent medical treatment.",
+        "C": "Spread rapidly across a specific geographical area.",
+        "D": "Hidden from public view by government officials."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。文中括號內明確解釋了 'eradicated' 的意思為 'completely removed'（徹底清除）。此詞彙在公共衛生領域常指疾病在某地區絕跡。選項 B、C、D 皆與 'completely removed' 的定義不符，無法正確解釋該字在文中的語意。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article regarding the measles outbreak in Pennsylvania?",
+      "options": {
+        "A": "The federal government is successfully managing the measles outbreak through new data collection methods.",
+        "B": "Measles is primarily a danger to infants and those with genetic conditions.",
+        "C": "The outbreak highlights the critical importance of high vaccination rates and the challenges caused by inconsistent data reporting.",
+        "D": "Local coroners are more reliable at tracking disease outbreaks than the US Centers for Disease Control and Prevention."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。本文整體探討了麻疹疫情的嚴重性、接種疫苗的必要性（第六段），以及州政府與聯邦政府在數據統計上的衝突（第四至七段）。選項 A 與文意相反；選項 B 僅涵蓋部分案例；選項 D 雖提及地方官員的觀點，但並非文章的主旨，文章旨在呈現數據收集上的混亂而非單純比較兩者的優劣。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
