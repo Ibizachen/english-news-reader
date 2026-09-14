@@ -1,0 +1,37 @@
+{
+  "id": "global-sea-level-rise",
+  "title": "The Rising Tide: Understanding Global Sea Level Rise",
+  "subtitle": "An in-depth examination of the causes, consequences, and future challenges of our changing oceans.",
+  "description": "This series explores the scientific, economic, and social implications of rising sea levels. Readers will gain a comprehensive understanding of how this global phenomenon affects coastal communities and international policy.",
+  "category": "society",
+  "status": "active",
+  "updatedAt": "2026-09-14T05:48:13.720696Z",
+  "cadence": "5-part reading path. Complete series available.",
+  "articles": [
+    {
+      "slug": "global-sea-level-rise-part-1",
+      "label": "Part 1",
+      "note": "Explain the physical mechanisms of sea-level rise, focusing on thermal expansion and glacial melt."
+    },
+    {
+      "slug": "global-sea-level-rise-part-2",
+      "label": "Part 2",
+      "note": "Examine the disproportionate impact on low-lying island nations and coastal cities."
+    },
+    {
+      "slug": "global-sea-level-rise-part-3",
+      "label": "Part 3",
+      "note": "Focus on the shift from reactive disaster management to proactive adaptation strategies."
+    },
+    {
+      "slug": "global-sea-level-rise-part-4",
+      "label": "Part 4",
+      "note": "Explore how sea-level rise affects global supply chains, insurance markets, and food security."
+    },
+    {
+      "slug": "global-sea-level-rise-part-5",
+      "label": "Part 5",
+      "note": "Discuss the limitations of current models and the necessity of global cooperation."
+    }
+  ]
+}
