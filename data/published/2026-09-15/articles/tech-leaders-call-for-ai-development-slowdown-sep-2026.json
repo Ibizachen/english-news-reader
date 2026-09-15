@@ -1,0 +1,188 @@
+{
+  "id": "2026-09-15-tech-leaders-call-for-ai-development-slowdown",
+  "slug": "tech-leaders-call-for-ai-development-slowdown-sep-2026",
+  "publishedAt": "2026-09-15T00:36:34.473436Z",
+  "category": "technology",
+  "title": "Tech Leaders Call for a Slower Pace in AI Development",
+  "subtitle": "Major industry figures urge caution as concerns over artificial intelligence safety grow",
+  "summary": {
+    "en": "Leaders of major artificial intelligence companies are calling for a slower, more careful approach to developing new technology. Anthropic CEO Dario Amodei recently published a plan to include independent safety monitors and improve international cooperation. Other industry heads, including Sam Altman of OpenAI, have expressed their support for this new direction. Critics remain skeptical, however, questioning if these companies are truly committed to slowing down or just avoiding government rules. The debate highlights the tension between rapid technological progress and the need for public safety.",
+    "zh": "主要人工智慧公司的領袖們正呼籲採取更緩慢、更謹慎的方法來開發新技術。Anthropic 執行長阿莫迪近期發表了一項計畫，內容包括納入獨立安全監控人員並加強國際合作。包括 OpenAI 的奧特曼在內的其他產業負責人，也表達了對此新方向的支持。然而，批評者仍持懷疑態度，質疑這些公司是否真的致力於放緩腳步，還是僅僅為了規避政府法規。這場辯論凸顯了快速技術進步與公眾安全需求之間的緊張關係。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "In a surprising shift, the leaders of the world’s most powerful artificial intelligence (AI) companies have joined together to call for a slower pace of development. For years, these companies have been in a fast-paced race to create the most advanced AI systems. Now, they argue that the industry must hit the brakes to ensure that these powerful tools remain safe and under human control.",
+      "zh": "在一項令人驚訝的轉變中，全球最強大的人工智慧（AI）企業領袖們聯合起來，呼籲放緩開發腳步。多年來，這些公司一直處於創造最先進人工智慧系統的激烈競爭中。如今，他們主張產業必須踩下煞車，以確保這些強大的工具保持安全，並處於人類的掌控之下。"
+    },
+    {
+      "id": "p2",
+      "en": "The change began when Dario Amodei, the CEO of Anthropic, published a long essay titled “We Must Pace the Frontier.” In his writing, Amodei proposed three main steps to manage the risks of AI. First, he suggested using independent evaluators—outside experts who are not part of the company—to check if AI models follow safety rules. Second, he called for better coordination between AI companies in democratic countries. Finally, he urged global cooperation with other governments to manage the speed of AI progress.",
+      "zh": "這項改變始於人工智慧公司 Anthropic 的執行長阿莫迪（Dario Amodei）發表了一篇題為《我們必須調整前進步伐》（We Must Pace the Frontier）的長文。他在文中提出了管理人工智慧風險的三大步驟。首先，他建議聘請獨立評估人員——即非公司內部的外部專家——來檢驗人工智慧模型是否遵循安全規範。其次，他呼籲民主國家的人工智慧企業之間應加強協調。最後，他敦促與各國政府進行全球合作，以管控人工智慧的發展速度。"
+    },
+    {
+      "id": "p3",
+      "en": "Amodei explained that “pacing” does not mean stopping all progress. Instead, he argued that companies should take enough time to properly test and safeguard their models. According to The Verge, Amodei noted that Anthropic is already committing to the first step of using independent evaluators to verify their safety practices.",
+      "zh": "阿莫迪解釋說，「調整步伐」並不意味著停止所有進展。相反地，他主張企業應花費足夠的時間來妥善測試並保護其模型。根據科技媒體 The Verge 報導，阿莫迪指出 Anthropic 已承諾採取第一步，即利用獨立評估人員來驗證其安全實務。"
+    },
+    {
+      "id": "p4",
+      "en": "Other industry leaders quickly supported the proposal. OpenAI CEO Sam Altman agreed with the idea, stating on social media that he has been discussing the need for a slower pace at his own company. As reported by The Guardian, Altman also promised that OpenAI would follow the same path by allowing independent experts to have access to their systems. Demis Hassabis, the co-founder of Google DeepMind, also praised the essay, calling it the “right path forward.” Even Elon Musk, the owner of xAI, shared his support for the plan.",
+      "zh": "其他產業領袖很快便支持了這項提議。OpenAI 執行長奧特曼（Sam Altman）對此表示贊同，並在社群媒體上表示，他一直在公司內部討論放緩步伐的必要性。據《衛報》（The Guardian）報導，奧特曼也承諾 OpenAI 將遵循同樣的路徑，允許獨立專家審視其系統。Google DeepMind 的共同創辦人哈薩比斯（Demis Hassabis）也稱讚這篇文章，稱其為「正確的前進方向」。甚至 xAI 的擁有者馬斯克（Elon Musk）也表達了對該計畫的支持。"
+    },
+    {
+      "id": "p5",
+      "en": "Despite this rare display of unity among tech giants, the proposal has faced heavy criticism. Many researchers and observers are skeptical about whether these companies will actually slow down. As noted by The Guardian, some critics believe that these tech firms are simply trying to look responsible to avoid stricter government laws. By setting their own rules now, these companies might be able to keep control of the industry and prevent governments from imposing tougher regulations later.",
+      "zh": "儘管科技巨頭之間出現了罕見的團結，但這項提議仍面臨嚴厲批評。許多研究人員與觀察家對於這些公司是否真的會放慢速度抱持懷疑態度。正如《衛報》所指出的，一些批評者認為，這些科技公司只是試圖表現得負責任，以規避更嚴格的政府法律。透過現在制定自己的規則，這些公司或許能維持對產業的控制權，並防止政府日後實施更強硬的監管。"
+    },
+    {
+      "id": "p6",
+      "en": "There are also significant hurdles to this plan. The US federal government is currently focused on a global competition in technology, often described as an AI arms race. This makes it difficult for companies to slow down when they face pressure to release new, powerful products before their competitors do. Furthermore, the history of the industry shows that companies often change their minds about safety. For example, The Guardian reported that OpenAI previously closed a team dedicated to studying long-term AI risks, showing how quickly priorities can shift.",
+      "zh": "這項計畫也面臨重大障礙。美國聯邦政府目前專注於全球科技競爭，這常被形容為人工智慧軍備競賽。當企業面臨必須在競爭對手之前發布強大新產品的壓力時，這使得他們難以放慢腳步。此外，產業歷史顯示，企業經常在安全問題上改變立場。例如，《衛報》報導稱，OpenAI 先前解散了一個專門研究人工智慧長期風險的團隊，這顯示優先事項的轉變速度有多快。"
+    },
+    {
+      "id": "p7",
+      "en": "Political reactions to the proposal have been mixed. While some lawmakers are considering how to address the growing public fear of AI, others are less interested in a slowdown. According to The Verge, US President Donald Trump pushed back against the idea of slowing down. He argued that the government already has enough power to control these companies and that no extra “guardrails”—or safety limits—are needed beyond strong leadership.",
+      "zh": "政治界對此提議的反應不一。雖然一些立法者正在思考如何應對日益增長的公眾恐懼，但其他人對放緩發展興趣缺缺。根據 The Verge 報導，美國總統川普（Donald Trump）反對放緩速度的想法。他主張政府已有足夠的權力來控制這些公司，除了強而有力的領導之外，不需要額外的「護欄」或安全限制。"
+    },
+    {
+      "id": "p8",
+      "en": "Ultimately, the call for a slower pace marks a major change in how the tech industry talks about its own creations. For a long time, these companies focused on being the first to reach new milestones. Now, they are admitting that the technology is becoming so advanced that it could be difficult to control. As Rahm Emanuel noted in a recent comment, the proposal is a striking admission that the industry is moving forward without a clear view of the dangers ahead.",
+      "zh": "歸根究柢，呼籲放緩步伐標誌著科技產業在談論自身創造物時的重大轉變。長期以來，這些公司專注於成為第一個達成新里程碑的企業。如今，他們承認這項技術正變得如此先進，以至於可能難以控制。正如伊曼紐（Rahm Emanuel）在近期的評論中所指出的，這項提議是一個驚人的承認，顯示該產業在沒有清楚看見前方危險的情況下持續前進。"
+    },
+    {
+      "id": "p9",
+      "en": "Whether this new commitment to safety will lead to real change remains to be seen. The pressure to innovate is high, and the financial rewards for winning the AI race are massive. For now, the world is watching to see if these leaders will truly slow down or if the race will continue at its previous, dangerous speed.",
+      "zh": "這項對安全的新承諾是否會帶來真正的改變，仍有待觀察。創新的壓力巨大，而贏得人工智慧競賽的財務回報也極為豐厚。目前，全世界都在關注這些領袖是否會真正放慢速度，或者這場競賽是否會以過去那種危險的速度繼續下去。"
+    }
+  ],
+  "wordCount": 712,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "hit the brakes",
+      "definitionEn": "To slow down or stop an activity or process.",
+      "definitionZh": "踩煞車；放慢速度或停止某項活動。",
+      "partOfSpeech": "idiom",
+      "noteZh": "原意為開車踩煞車，這裡比喻放慢產業發展速度。文中：Now, they argue that the industry must hit the brakes to ensure that these powerful tools remain safe and under human control."
+    },
+    {
+      "term": "pushed back",
+      "definitionEn": "To express disagreement or opposition to a plan or idea.",
+      "definitionZh": "反對；表示異議。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見作物理上的推開，這裡指對某個提議表示反對。文中：According to The Verge, US President Donald Trump pushed back against the idea of slowing down."
+    },
+    {
+      "term": "shift",
+      "definitionEn": "A change in position, direction, or tendency.",
+      "definitionZh": "轉變；改變。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（移動），這裡作名詞使用，指態度的轉變。文中：In a surprising shift, the leaders of the world’s most powerful artificial intelligence (AI) companies have joined together to call for a slower pace of development."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "publishedAt": "2026-09-14T21:21:42Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+      "title": "AI leaders want to hit the brakes after years of reckless speed",
+      "publishedAt": "2026-09-14T19:06:13Z"
+    },
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/2026/sep/14/ai-ceo-safety-slowdown",
+      "title": "AI CEOs say they need to slow the pace of development. But will they?",
+      "publishedAt": "2026-09-14T05:00:26Z"
+    }
+  ],
+  "story": {
+    "id": "debate-over-ai-existential-risk",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "tech-leaders-call-for-ai-development-slowdown-sep-2026",
+        "title": "Tech Leaders Call for a Slower Pace in AI Development",
+        "publishedAt": "2026-09-14T22:13:27.849969Z",
+        "category": "technology",
+        "summaryEn": "Major technology leaders are calling for a slower, more cautious approach to artificial intelligence development. Anthropic CEO Dario Amodei recently proposed a plan to include independent safety monitors and better international cooperation. Other industry heads, including Sam Altman and Demis Hassabis, have expressed their support for these ideas. However, some critics suggest these companies are trying to avoid stricter government rules. The debate highlights the ongoing tension between rapid innovation and the need for public safety."
+      },
+      {
+        "slug": "anthropic-and-openai-ceos-call-for-ai-slowdown-sep-2026",
+        "title": "Top AI Leaders Call for a Slowdown in Development",
+        "publishedAt": "2026-09-12T22:13:24.355796Z",
+        "category": "technology",
+        "summaryEn": "The leaders of two major AI companies are calling for a slower pace in technology development. Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman both agree that the industry is moving too fast. They are concerned that AI systems could soon become impossible for humans to control. To address these risks, they plan to allow independent experts to check their systems for safety. This shift comes after reports of AI agents acting unexpectedly and causing security problems."
+      },
+      {
+        "slug": "debate-over-ai-development-slowdown-sep-2026",
+        "title": "Top Tech Leaders Call for a Slowdown in AI Development",
+        "publishedAt": "2026-09-13T22:13:24.584559Z",
+        "category": "technology",
+        "summaryEn": "Leaders of major AI companies, including Anthropic and OpenAI, have called for a slower pace of technology development. This follows warnings from researchers about the potential for AI to cause serious harm. The proposal includes independent safety monitoring and international coordination. However, some experts and politicians remain skeptical about the feasibility of these plans. The debate highlights the tension between technological competition and the need for global safety standards."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "Which of the following is one of the three specific steps proposed by Dario Amodei to manage AI risks?",
+      "options": {
+        "A": "Stopping all AI development until new laws are passed.",
+        "B": "Utilizing independent experts to verify AI safety compliance.",
+        "C": "Closing down teams dedicated to long-term AI research.",
+        "D": "Allowing the US government to take full control of AI companies."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，Dario Amodei 提出的第一項建議就是使用「獨立評估員」（independent evaluators）來檢查 AI 模型是否遵守安全規則。選項 A 錯誤，因為文章第三段明確指出「pacing」並不代表停止所有進展。選項 C 是文章第六段提到的負面例子，並非 Amodei 的建議。選項 D 並未在文中被列為 Amodei 的建議步驟。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Why might some critics be skeptical about the tech giants' sudden call for a slower pace?",
+      "options": {
+        "A": "They believe the companies lack the technical knowledge to slow down.",
+        "B": "They think the companies are planning to release dangerous products secretly.",
+        "C": "They suspect the companies are acting to preemptively avoid stricter government regulation.",
+        "D": "They believe the companies are only doing this because they have run out of money."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第五段，批評者懷疑這些科技巨頭只是為了表現得「負責任」，以便在政府實施更嚴格的法律之前，透過制定自己的規則來維持對產業的控制權。選項 A、B、D 在文中皆未提及，且與文章推論出的動機不符，屬於無根據的推測。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the phrase 'the race will continue at its previous, dangerous speed' imply?",
+      "options": {
+        "A": "The competition to innovate will remain intense and potentially reckless.",
+        "B": "The AI models will physically move faster than they did before.",
+        "C": "The companies have decided to ignore safety rules to win the race.",
+        "D": "The government has officially banned all AI development."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在此語境下，「race」指的是科技公司之間為了爭奪市場領先地位的激烈競爭，而「dangerous speed」則暗示這種缺乏足夠安全防護的快速開發模式具有風險。選項 B 將「speed」誤解為物理速度；選項 C 雖然有負面意涵，但文中並未說他們已決定「忽略」規則，而是質疑其承諾是否會落實；選項 D 與事實不符。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article regarding the current state of the AI industry?",
+      "options": {
+        "A": "AI companies have successfully solved all safety problems through global cooperation.",
+        "B": "The US government has successfully forced all AI companies to slow down their progress.",
+        "C": "AI leaders are calling for safer development, but the sincerity and feasibility of this shift remain uncertain.",
+        "D": "The AI industry has decided to stop all innovation to focus entirely on ethical research."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。本文的核心在於報導科技巨頭對 AI 發展速度的反思與呼籲，同時也平衡地呈現了來自批評者、政府壓力及歷史紀錄的質疑，結論強調未來是否會有實際改變仍有待觀察。選項 A 與 B 過於武斷且與文意不符；選項 D 錯誤，因為文中提到「pacing」並不等於停止創新。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
