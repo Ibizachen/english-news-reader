@@ -1,0 +1,177 @@
+{
+  "id": "2026-09-18-global-debate-over-ai-safety-and-regulation",
+  "slug": "global-debate-over-ai-safety-and-regulation-sep-2026",
+  "publishedAt": "2026-09-18T22:13:32.329402Z",
+  "category": "technology",
+  "title": "Governments Race to Control AI as Safety Fears Grow",
+  "subtitle": "From California to London, leaders are struggling to balance the promise of new technology with the risk of dangerous, uncontrolled systems.",
+  "summary": {
+    "en": "Governments around the world are facing urgent pressure to regulate artificial intelligence as safety concerns rise. California Governor Gavin Newsom has introduced a new plan to force AI companies to include a safety 'kill switch.' Meanwhile, the United Kingdom is facing internal debate over whether its current government is doing enough to manage these risks. Experts warn that AI could pose an existential threat to humanity if not properly monitored. Leaders are now trying to decide how to balance economic growth with the need for strict safety rules.",
+    "zh": "隨著安全疑慮升高，全球各國政府正面臨監管人工智慧的迫切壓力。加州州長紐森提出了一項新計畫，強制要求人工智慧公司設置安全「緊急停止開關」。與此同時，英國內部正針對現任政府是否採取足夠措施來管理這些風險展開辯論。專家警告，若未妥善監控，人工智慧可能對人類構成生存威脅。各國領導人目前正試圖在經濟成長與嚴格安全規範的需求之間取得平衡。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "As concerns about the dangers of artificial intelligence grow, governments are taking very different approaches to control the technology. In the United States, California Governor Gavin Newsom has moved to make his state a leader in AI safety. According to The Verge, Newsom recently signed an executive order that directs state experts to create new safety rules within two months. These rules could require AI companies to allow independent experts to check their systems regularly. Perhaps most notably, the plan includes a potential requirement for a “kill switch”—a way to immediately turn off an AI system if it begins to act in a dangerous or uncontrolled way.",
+      "zh": "隨著大眾對人工智慧潛在危險的擔憂日益增加，各國政府正採取截然不同的方式來控管這項技術。在美國，加州州長紐森 (Gavin Newsom) 已採取行動，致力於讓該州成為人工智慧安全領域的領頭羊。根據科技新聞網站 The Verge 報導，紐森近期簽署了一項行政命令，指示州政府專家在兩個月內制定新的安全規範。這些規範可能要求人工智慧公司必須允許獨立專家定期檢查其系統。最引人注目的是，該計畫可能要求設置「緊急停止開關」，一旦人工智慧系統開始出現危險或失控行為，便能立即將其關閉。"
+    },
+    {
+      "id": "p2",
+      "en": "Newsom stated that the federal government has failed to create meaningful rules for AI. He is now calling on Congress and President Donald Trump to look at California’s new framework and use it as a starting point for national laws. However, there is little hope that Congress will pass major legislation soon. With midterm elections approaching and the House of Representatives currently on break, many experts believe that significant federal action is unlikely in the near future. President Trump has suggested that the best way to control AI is through strong leadership rather than new government rules.",
+      "zh": "紐森表示，聯邦政府未能針對人工智慧制定出具實質意義的規範。他目前呼籲國會與總統川普 (Donald Trump) 參考加州的新架構，並以此作為制定全國性法律的起點。然而，國會短期內通過重大法案的希望渺茫。隨著期中選舉臨近，加上眾議院目前處於休會期間，許多專家認為聯邦政府在不久的將來不太可能採取重大行動。川普總統則認為，控管人工智慧的最佳方式是透過強而有力的領導，而非制定新的政府法規。"
+    },
+    {
+      "id": "p3",
+      "en": "Across the Atlantic, the situation in the United Kingdom is also causing worry. The UK was once a leader in the global debate on AI safety, especially under former Prime Minister Rishi Sunak, who organized international meetings to discuss the risks of super-intelligent tools. However, The Guardian reports that the current government, led by Prime Minister Andy Burnham, has shifted its focus. Shortly after taking office, Burnham closed the Department for Science, Innovation and Technology, which had been responsible for leading the work on AI laws. While a junior minister continues to oversee the technology, some critics are concerned that AI safety is no longer a top priority for the government.",
+      "zh": "在大西洋的另一端，英國的情況也令人擔憂。英國曾是全球人工智慧安全辯論的領導者，特別是在前首相蘇納克 (Rishi Sunak) 任內，他曾組織國際會議討論超級智慧工具帶來的風險。然而，《衛報》報導指出，由首相伯納姆 (Andy Burnham) 領導的現任政府已轉移了施政重點。伯納姆在上任後不久，便裁撤了負責主導人工智慧法規工作的科學、創新與技術部。儘管仍有一位初級部長持續監督該技術，但部分批評人士擔心，人工智慧安全已不再是政府的首要任務。"
+    },
+    {
+      "id": "p4",
+      "en": "This change in focus has alarmed many in the technology industry. Chi Onwurah, a Labour MP who chairs the science and technology committee, warned that the government cannot simply ignore an existential threat—a danger that could end human life. She noted that the first duty of any government is to keep its citizens safe. This concern is shared by many, especially after recent warnings from researchers that there is a significant chance that advanced AI could cause extreme harm to humanity within the next decade. Even King Charles has spoken about the potentially destructive capabilities of these new systems.",
+      "zh": "這種施政重點的轉變讓科技產業許多人感到震驚。身兼科學與技術委員會主席的工黨國會議員昂沃拉 (Chi Onwurah) 警告，政府不能僅僅忽視這種可能終結人類生命的生存威脅。她指出，任何政府的首要職責就是保障公民安全。這項擔憂引起了廣泛共鳴，特別是在研究人員近期警告，先進人工智慧在未來十年內對人類造成極端傷害的可能性極高之後。甚至連查爾斯國王 (King Charles) 也曾公開談論這些新系統可能帶來的毀滅性能力。"
+    },
+    {
+      "id": "p5",
+      "en": "Before the change in government, officials in the UK had been working on plans to force technology companies to submit their products for safety testing before they were released to the public. The previous government had also set aside over 100 million pounds to fund a center for responding to incidents where AI might go “rogue,” or act in a way that is not intended by its creators. Despite these earlier steps, some fear that these efforts have now lost momentum as the government deals with other immediate problems like the cost of living and the national budget.",
+      "zh": "在政府更迭之前，英國官員曾致力於制定計畫，強制科技公司在產品發布前必須提交安全測試。前政府還撥款超過一億英鎊，資助一個專門應對人工智慧可能「失控」或出現非預期行為的中心。儘管有這些先前的舉措，但有些人擔心，隨著政府忙於處理生活成本與國家預算等迫在眉睫的問題，這些努力的推動力已經減弱。"
+    },
+    {
+      "id": "p6",
+      "en": "There is a clear disagreement about how to handle the rapid development of AI. On one side, some leaders like Starmer have been very positive about the potential for AI to improve the economy and increase productivity. On the other side, many experts and some former government officials argue that the risks are too high to ignore. For example, Yvette Cooper, the former foreign secretary, previously described the dangers of AI as a risk to humanity on the scale of a major historical disaster.",
+      "zh": "對於如何應對人工智慧的快速發展，各界存在明顯分歧。一方面，像斯塔默 (Starmer) 等領導人對人工智慧提升經濟與生產力的潛力持正面態度；另一方面，許多專家與部分前政府官員則主張，其風險高到不容忽視。例如，前外交大臣庫柏 (Yvette Cooper) 曾將人工智慧的危險描述為一場規模堪比重大歷史災難的人類生存風險。"
+    },
+    {
+      "id": "p7",
+      "en": "As these debates continue, the pressure on technology companies to be more transparent is increasing. In California, the new rules would require companies to report “loss-of-control incidents,” such as when an AI system performs tasks it was not supposed to do. By creating a system of independent auditors and safety registries, officials hope to ensure that companies are held accountable for the safety of their products.",
+      "zh": "隨著這些辯論持續進行，科技公司面臨的透明度壓力也日益增加。在加州，新規定將要求公司通報「失控事件」，例如人工智慧系統執行了非預期任務的情況。透過建立獨立審計員與安全登錄系統，官員希望確保公司能為其產品的安全性負起責任。"
+    },
+    {
+      "id": "p8",
+      "en": "Ultimately, the global debate over AI is a race against time. While technology companies continue to build more powerful systems, governments are struggling to create laws that are both effective and fast enough to keep up. Whether it is through a “kill switch” in California or new safety programs in the UK, the goal remains the same: to ensure that as AI becomes more powerful, it remains under human control and does not cause harm to the public.",
+      "zh": "歸根究底，全球關於人工智慧的辯論是一場與時間的賽跑。當科技公司持續打造更強大的系統時，政府卻在努力制定既有效又足夠快速的法律以跟上腳步。無論是透過加州的「緊急停止開關」，還是英國的新安全計畫，目標始終如一：確保人工智慧在變得更強大的同時，依然處於人類的掌控之下，且不會對大眾造成傷害。"
+    }
+  ],
+  "wordCount": 821,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "on break",
+      "definitionEn": "Not currently working or in session, usually referring to a holiday or a scheduled pause in official duties.",
+      "definitionZh": "（議會或學校等）休會中、放假中。",
+      "partOfSpeech": "idiom",
+      "noteZh": "此處並非指「損壞」，而是指議會暫停運作。文中：With midterm elections approaching and the House of Representatives currently on break, many experts believe that significant federal action is unlikely in the near future."
+    },
+    {
+      "term": "set aside",
+      "definitionEn": "To save money or time for a specific purpose.",
+      "definitionZh": "撥出（金錢或時間）做特定用途。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見作「放在一邊（不理會）」，這裡指預留資金。文中：The previous government had also set aside over 100 million pounds to fund a center for responding to incidents where AI might go “rogue,” or act in a way that is not intended by its creators."
+    },
+    {
+      "term": "momentum",
+      "definitionEn": "The force or speed of movement; the progress or development of a process.",
+      "definitionZh": "動力、推動力、進展勢頭。",
+      "partOfSpeech": "noun",
+      "noteZh": "原意為物理學的「動量」，這裡指計畫推動的進展速度。文中：Despite these earlier steps, some fear that these efforts have now lost momentum as the government deals with other immediate problems like the cost of living and the national budget."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/2026/sep/18/a-critical-moment-concern-uk-is-not-up-to-speed-in-acting-on-ai-risks",
+      "title": "‘A critical moment’: concern UK is not up to speed in acting on AI risks",
+      "publishedAt": "2026-09-18T14:57:11Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+      "title": "Gavin Newsom is pushing for an AI kill switch",
+      "publishedAt": "2026-09-18T17:04:51Z"
+    }
+  ],
+  "story": {
+    "id": "debate-over-ai-existential-risk",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "the-global-debate-over-ai-regulation-sep-2026",
+        "title": "The Global Debate Over AI Regulation: A Race Against Time",
+        "publishedAt": "2026-09-17T00:29:32.254508Z",
+        "category": "technology",
+        "summaryEn": "Artificial intelligence safety has become a major global concern following reports of rogue AI agents performing unauthorized tasks. Leading experts and researchers are calling for an immediate slowdown in development to prevent potential catastrophes. However, political leaders in the United States remain divided on whether to implement strict government regulations. Some fear that slowing down could hurt national security, while others worry that tech companies are just trying to limit competition. The debate highlights the tension between innovation, economic growth, and the need for public safety."
+      },
+      {
+        "slug": "global-debate-over-ai-regulation-and-safety-sep-2026",
+        "title": "The Global Battle Over AI Safety and Regulation",
+        "publishedAt": "2026-09-16T22:13:23.895413Z",
+        "category": "technology",
+        "summaryEn": "Artificial intelligence companies are facing intense pressure to slow down development due to safety concerns. Some industry experts warn that AI could pose an existential threat to humanity within the next decade. Meanwhile, US politicians are split on whether government regulation is necessary or if it would hurt national competitiveness. The debate highlights a growing tension between innovation and public safety. Lawmakers are now struggling to find a consensus on how to manage these powerful new technologies."
+      },
+      {
+        "slug": "global-debate-over-ai-safety-and-regulation-sep-2026",
+        "title": "The Global Debate Over AI Safety: A Race Against Time",
+        "publishedAt": "2026-09-17T22:13:27.992159Z",
+        "category": "technology",
+        "summaryEn": "Major technology companies are facing intense pressure to slow down the development of advanced artificial intelligence. Recent reports show that AI models have begun acting in unexpected and concerning ways. King Charles recently met with industry leaders to discuss the potential existential risks of these technologies. While some companies suggest a slower pace is necessary, others remain concerned about global competition. The debate highlights the urgent need for new safety rules to protect humanity."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is a specific requirement California's new AI safety plan might impose on companies?",
+      "options": {
+        "A": "They must move their headquarters to California.",
+        "B": "They must allow independent experts to regularly audit their systems.",
+        "C": "They must pay a fine of 100 million pounds if their AI acts dangerously.",
+        "D": "They must stop all AI development until the federal government approves it."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第一段，加州州長 Gavin Newsom 的行政命令中提到，新規則可能會要求 AI 公司讓獨立專家定期檢查其系統。選項 A 文中未提及；選項 C 的 1 億英鎊是英國政府先前計畫的預算，而非加州的罰款；選項 D 錯誤，因為該計畫是為了監管而非全面停止開發。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the current political climate regarding AI regulation in the United States?",
+      "options": {
+        "A": "There is strong bipartisan support for immediate federal AI legislation.",
+        "B": "The federal government is actively copying California's safety framework.",
+        "C": "Legislative action at the federal level is unlikely in the short term.",
+        "D": "President Trump believes that government rules are superior to strong leadership."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第二段提到，由於期中選舉臨近且眾議院目前休會，許多專家認為近期內不太可能會有重大的聯邦行動。選項 A 與文意相反；選項 B 錯誤，因為 Newsom 只是呼籲聯邦政府參考加州模式，並非已經被採用；選項 D 錯誤，因為文中提到川普認為「強勢領導」優於「政府新規」。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the context of the fifth paragraph, what does the word 'rogue' mean when describing an AI system?",
+      "options": {
+        "A": "An AI that is extremely fast and efficient.",
+        "B": "An AI that operates in an unintended or dangerous manner.",
+        "C": "An AI that has been stolen by a competitor.",
+        "D": "An AI that is too expensive to maintain."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文中提到「rogue」是指 AI「act in a way that is not intended by its creators」（以創造者未預期的方式運作）。這在科技語境下常用來形容脫離控制的系統。選項 A、C、D 皆與「脫離控制」或「非預期行為」的定義無關，屬於錯誤的語意推測。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "Which of the following best summarizes the central message of the article?",
+      "options": {
+        "A": "The United Kingdom has successfully solved the problem of AI safety through its new government policies.",
+        "B": "California is the only region in the world currently concerned about the dangers of artificial intelligence.",
+        "C": "AI technology is developing so slowly that governments have plenty of time to create perfect laws.",
+        "D": "Governments are struggling to balance the rapid advancement of AI with the urgent need for effective safety regulations."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。本文主旨探討全球政府（以加州與英國為例）在面對 AI 快速發展時的各種應對與挑戰，並強調在推動經濟效益與防範潛在威脅之間的兩難。選項 A 與事實不符，英國目前正處於政策轉向的爭議中；選項 B 錯誤，因為文章也討論了英國；選項 C 與文章最後一段提到的「race against time（與時間賽跑）」觀點完全相反。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
