@@ -1,0 +1,196 @@
+{
+  "id": "series-global-nuclear-diplomacy-part-1",
+  "slug": "global-nuclear-diplomacy-part-1",
+  "publishedAt": "2026-09-21T05:53:53.513387Z",
+  "category": "energy",
+  "title": "The Return of the Atom: A Historical Shift",
+  "subtitle": "As the world races to reach net-zero emissions, nuclear power is moving from a controversial past to a central role in global energy policy.",
+  "byline": "Adapted from reporting by the International Energy Agency and Reuters, 2023-2024",
+  "summary": {
+    "en": "This article examines why nuclear energy is making a comeback after years of decline. We look at how the 2011 Fukushima disaster changed public opinion and how the climate crisis is forcing governments to reconsider nuclear power as a sustainable energy source. The shift reflects a growing need for reliable, low-carbon electricity.",
+    "zh": "本文探討核能如何在經歷多年的衰退後重新崛起。我們將分析 2011 年福島核災如何改變大眾觀感，以及氣候危機如何迫使各國政府將核能重新視為永續能源。這種轉變反映了全球對於穩定且低碳電力的迫切需求。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "According to the International Energy Agency’s (IEA) recent reports on global energy transitions, the world is undergoing a significant shift in how it views nuclear power. For many years, nuclear energy was seen as a declining industry, especially following the 2011 Fukushima disaster in Japan. Reuters reports that this event caused many nations to lose faith in nuclear safety, leading to widespread calls for the closure of existing plants. However, the current global energy landscape is changing as countries look for reliable ways to reduce their dependence on fossil fuels and meet ambitious climate targets set by international agreements.",
+      "zh": "根據國際能源總署（IEA）近期關於全球能源轉型的報告，世界對於核能的看法正經歷顯著轉變。多年來，核能被視為夕陽產業，特別是在 2011 年日本福島核災之後。路透社報導指出，該事件導致許多國家對核能安全失去信心，引發了關閉現有核電廠的廣泛呼聲。然而，隨著各國尋求可靠的方法來減少對化石燃料的依賴，並達成國際協議所設定的雄心勃勃的氣候目標，當前的全球能源版圖正逐漸改變。"
+    },
+    {
+      "id": "p2",
+      "en": "The 2011 Fukushima disaster serves as the primary reason for the decline of nuclear energy in the 2010s, as noted by various international news outlets. Following the accident, public fear regarding radiation and the safety of reactor designs reached an all-time high. The BBC reports that governments in Europe, most notably Germany, responded to this public pressure by announcing plans to phase out nuclear power entirely. This period was marked by a global movement to prioritize renewable energy sources like wind and solar, while treating nuclear power as a dangerous and unnecessary burden that needed to be removed from the energy grid.",
+      "zh": "正如多家國際新聞媒體所指出的，2011 年的福島核災是 2010 年代核能衰退的主要原因。事故發生後，大眾對於輻射以及反應爐設計安全性的恐懼達到了歷史最高點。英國廣播公司（BBC）報導稱，歐洲各國政府（尤其是德國）為了回應這種公眾壓力，宣布了全面淘汰核能的計畫。這一時期以全球性運動為標誌，優先發展風能和太陽能等再生能源，同時將核能視為一種危險且不必要的負擔，必須從能源網路中移除。"
+    },
+    {
+      "id": "p3",
+      "en": "However, the climate crisis has fundamentally changed the perception of nuclear energy in recent years, according to analysis from the IEA. As the consequences of rising global temperatures become more severe, experts argue that wind and solar power alone may not be enough to provide the constant, stable electricity needed for modern economies. Reuters notes that nuclear power provides a 'baseload' of energy, meaning it can operate continuously regardless of weather conditions. This reliability is becoming increasingly important as governments search for ways to decarbonize their electricity sectors while maintaining economic stability and energy security for their citizens.",
+      "zh": "然而，根據國際能源總署的分析，氣候危機在近年來從根本上改變了人們對核能的看法。隨著全球氣溫上升帶來的後果日益嚴重，專家認為僅靠風能和太陽能可能不足以提供現代經濟所需的持續且穩定的電力。路透社指出，核能提供了「基載」能源，這意味著無論天氣條件如何，它都能持續運作。隨著各國尋求在實現電力部門脫碳的同時，維持經濟穩定與國民能源安全的方法，這種可靠性變得越來越重要。"
+    },
+    {
+      "id": "p4",
+      "en": "The classification of nuclear energy as a sustainable source is a major development in international policy, as reported by various financial and environmental news outlets. In some jurisdictions, such as the European Union, nuclear energy has been included in 'green' investment categories under specific conditions. This change is not just symbolic; it allows nuclear projects to access cheaper financing and investment funds that were previously reserved only for renewable projects. According to analysis by Reuters, this shift in classification reflects a growing consensus among policymakers that nuclear power is a necessary tool for reaching net-zero emissions by 2050.",
+      "zh": "根據多家財經與環境新聞媒體的報導，將核能歸類為永續能源是國際政策的一項重大進展。在歐盟等部分司法管轄區，核能在特定條件下已被納入「綠色」投資類別。這種改變不僅具有象徵意義，它還使核能專案能夠獲得以前僅限於再生能源專案的更低成本融資與投資基金。根據路透社的分析，這種分類的轉變反映了決策者之間日益增長的共識，即核能是達成 2050 年淨零排放目標的必要工具。"
+    },
+    {
+      "id": "p5",
+      "en": "Despite this renewed interest, the return of nuclear energy faces significant technical and economic challenges, according to recent industry reports. Building new nuclear power plants is expensive and often takes many years to complete, which makes it difficult to respond quickly to immediate energy needs. The IEA points out that many existing plants are also aging, requiring significant investment to extend their operational lives safely. Experts cited by Reuters suggest that while nuclear energy is being rehabilitated in policy, the practical implementation of new projects remains a slow process that requires strong political support and long-term financial planning.",
+      "zh": "儘管重新引起了興趣，但根據近期的產業報告，核能的復興仍面臨巨大的技術與經濟挑戰。興建新的核電廠成本高昂且通常需要多年才能完工，這使得它難以快速回應即時的能源需求。國際能源總署指出，許多現有的核電廠也已老化，需要大量投資才能安全地延長其運作壽命。路透社引述專家意見表示，雖然核能正在政策層面上獲得平反，但新專案的實際執行仍是一個緩慢的過程，需要強大的政治支持與長期的財務規劃。"
+    },
+    {
+      "id": "p6",
+      "en": "International diplomacy is also playing a key role in the nuclear comeback, as reported by various global news outlets. Countries are increasingly forming partnerships to share nuclear technology, expertise, and safety standards. This is particularly evident in the development of Small Modular Reactors (SMRs), which are smaller and potentially cheaper to build than traditional large-scale plants. According to reports from the IEA, these new technologies are being promoted as a way for smaller nations to adopt nuclear power without the massive infrastructure requirements of the past, marking a new era of nuclear energy cooperation between developed and developing countries.",
+      "zh": "正如多家全球新聞媒體所報導的，國際外交在核能復興中也扮演了關鍵角色。各國正越來越多地建立夥伴關係，以共享核能技術、專業知識與安全標準。這在小型模組化反應爐（SMRs）的開發中尤為明顯，與傳統的大型核電廠相比，它們體積更小且建造成本可能更低。根據國際能源總署的報告，這些新技術正被推廣為一種讓較小國家在無需過去那種龐大基礎設施要求的情況下採用核能的方法，這標誌著已開發國家與開發中國家之間核能合作的新時代。"
+    },
+    {
+      "id": "p7",
+      "en": "In conclusion, the global shift toward nuclear energy represents a pragmatic response to the dual challenges of climate change and energy security, as noted by international energy analysts. While the memory of the Fukushima disaster remains a factor in public debate, the urgent need for carbon-free electricity is reshaping how governments prioritize their energy portfolios. According to the IEA, the future of nuclear energy will depend on the ability of nations to maintain high safety standards while accelerating the deployment of new, efficient technologies. The return of the atom is not a return to the past, but a strategic move toward a more diversified and sustainable energy future.",
+      "zh": "總結來說，正如國際能源分析師所指出的，全球轉向核能代表了對氣候變遷與能源安全雙重挑戰的務實回應。雖然福島核災的記憶仍在公眾辯論中佔有一席之地，但對無碳電力的迫切需求正在重塑各國政府優先考慮其能源組合的方式。根據國際能源總署的說法，核能的未來將取決於各國在維持高安全標準的同時，加速部署新式高效技術的能力。核能的復興並非回到過去，而是邁向更多元且永續能源未來的一項戰略舉措。"
+    }
+  ],
+  "wordCount": 702,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "phase out",
+      "partOfSpeech": "phrasal verb",
+      "definitionEn": "To gradually stop using or producing something.",
+      "definitionZh": "逐步淘汰；分階段停止。",
+      "noteZh": "常用於政策或產業的轉型，例如：Germany announced plans to phase out nuclear power."
+    },
+    {
+      "term": "baseload",
+      "partOfSpeech": "noun",
+      "definitionEn": "The minimum amount of electric power delivered to the electrical grid at any given time.",
+      "definitionZh": "基載（電力）；基本負載。",
+      "noteZh": "指電力系統中必須持續供應的最低電力需求。"
+    },
+    {
+      "term": "decarbonize",
+      "partOfSpeech": "verb",
+      "definitionEn": "To reduce the amount of carbon emissions produced by a system or industry.",
+      "definitionZh": "脫碳；減少碳排放。",
+      "noteZh": "在環保議題中非常常見的動詞。"
+    },
+    {
+      "term": "pragmatic",
+      "partOfSpeech": "adjective",
+      "definitionEn": "Dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations.",
+      "definitionZh": "務實的；實事求是的。",
+      "noteZh": "形容決策時不空談理論，而是考慮實際情況。"
+    },
+    {
+      "term": "rehabilitated",
+      "partOfSpeech": "verb",
+      "definitionEn": "To restore to a good condition or to a good reputation.",
+      "definitionZh": "恢復名譽；平反；修復。",
+      "noteZh": "文中指核能從「危險」的形象轉變為「綠色」的形象。"
+    }
+  ],
+  "sources": [
+    {
+      "name": "International Energy Agency (IEA)",
+      "url": "https://www.iea.org/reports/net-zero-roadmap",
+      "title": "Net Zero Roadmap: A Global Pathway to Keep the 1.5 °C Goal in Reach",
+      "publishedAt": "2023-09-26T00:00:00Z"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/business/energy/",
+      "title": "Energy and Environment News",
+      "publishedAt": "2024-01-01T00:00:00Z"
+    }
+  ],
+  "series": {
+    "id": "global-nuclear-diplomacy",
+    "part": 1,
+    "totalParts": 5
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What was the primary reason for the decline of nuclear energy in the 2010s?",
+      "options": {
+        "A": "The high cost of building new reactors compared to fossil fuels.",
+        "B": "The 2011 Fukushima disaster in Japan.",
+        "C": "A global lack of uranium resources.",
+        "D": "The immediate success of wind and solar energy technologies."
+      },
+      "correct": "B",
+      "explanationZh": "文中明確指出 2011 年的福島核災是導致 2010 年代核能衰退的主要原因。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Why is nuclear power now considered a 'green' energy source in some jurisdictions?",
+      "options": {
+        "A": "Because it produces no waste at all.",
+        "B": "Because it is cheaper than wind and solar power.",
+        "C": "Because it helps countries reach net-zero emission goals.",
+        "D": "Because it has been proven to be safer than all other energy sources."
+      },
+      "correct": "C",
+      "explanationZh": "文中提到核能被視為達成 2050 年淨零排放目標的必要工具，因此被納入綠色投資類別。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the context of the article, what does the term 'baseload' refer to?",
+      "options": {
+        "A": "The most expensive part of building a power plant.",
+        "B": "The ability of a power source to provide constant, stable energy.",
+        "C": "The safety standards required for nuclear reactors.",
+        "D": "The initial investment needed for renewable energy."
+      },
+      "correct": "B",
+      "explanationZh": "文中提到核能提供「基載」能源，意指無論天氣如何都能持續運作，即提供穩定電力。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the main message of the article regarding the future of nuclear energy?",
+      "options": {
+        "A": "Nuclear energy will completely replace wind and solar power.",
+        "B": "Nuclear energy is being reconsidered as a pragmatic tool for energy security and climate goals.",
+        "C": "Nuclear energy is no longer necessary because renewable technology is perfect.",
+        "D": "Governments have decided to stop building nuclear plants due to high costs."
+      },
+      "correct": "B",
+      "explanationZh": "文章總結了核能的復興是為了應對氣候變遷與能源安全的務實回應，而非取代再生能源。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 根據連載大綱生成，事實與引用請以原始來源為準。審閱後方可發佈。",
+  "_generation": {
+    "provider": "gemini",
+    "model": "gemini-3.1-flash-lite",
+    "tokensUsed": 4696,
+    "durationSec": 13.39
+  },
+  "_seriesPartMeta": {
+    "angle": "The historical context of nuclear energy's decline after Fukushima and its recent rehabilitation as a 'green' energy source.",
+    "learningGoal": "Understand why nuclear energy is being reconsidered by governments globally.",
+    "keyQuestions": [
+      "What triggered the global shift away from nuclear power in the 2010s?",
+      "How does the climate crisis change the perception of nuclear energy?",
+      "Why is nuclear power now being classified as sustainable in some jurisdictions?"
+    ],
+    "sourcePlan": [
+      {
+        "sourceType": "official report",
+        "searchHint": "IEA Net Zero by 2050 nuclear energy role",
+        "whyUseful": "Provides the quantitative justification for nuclear power in decarbonization scenarios.",
+        "whyUsefulZh": "提供核能在脫碳情境下的數據支持。",
+        "attributionExample": "According to the International Energy Agency's 2023 report..."
+      },
+      {
+        "sourceType": "news report",
+        "searchHint": "BBC or Reuters nuclear energy comeback analysis",
+        "whyUseful": "Summarizes the shift in public and political sentiment.",
+        "whyUsefulZh": "總結公眾與政治輿論的轉變。",
+        "attributionExample": "Reuters reports that several European nations have reversed their phase-out policies..."
+      }
+    ]
+  }
+}

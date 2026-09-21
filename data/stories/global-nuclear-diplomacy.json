@@ -1,0 +1,37 @@
+{
+  "id": "global-nuclear-diplomacy",
+  "title": "The Global Resurgence of Nuclear Energy Diplomacy",
+  "subtitle": "How nations are re-evaluating nuclear power as a cornerstone of energy security and climate goals.",
+  "description": "This series explores the shift in global energy policy as countries move away from fossil fuels. Readers will examine the geopolitical, economic, and technical factors driving the return of nuclear energy to the international stage.",
+  "category": "energy",
+  "status": "active",
+  "updatedAt": "2026-09-21T05:54:49.894829Z",
+  "cadence": "5-part reading path. Complete series available.",
+  "articles": [
+    {
+      "slug": "global-nuclear-diplomacy-part-1",
+      "label": "Part 1",
+      "note": "The historical context of nuclear energy's decline after Fukushima and its recent rehabilitation as a 'green' energy source."
+    },
+    {
+      "slug": "global-nuclear-diplomacy-part-2",
+      "label": "Part 2",
+      "note": "The roles of major state-owned enterprises, private tech firms, and international regulatory bodies."
+    },
+    {
+      "slug": "global-nuclear-diplomacy-part-3",
+      "label": "Part 3",
+      "note": "How the war in Ukraine and energy supply chain disruptions forced a re-evaluation of energy independence."
+    },
+    {
+      "slug": "global-nuclear-diplomacy-part-4",
+      "label": "Part 4",
+      "note": "The trade-offs involved in nuclear expansion, including waste management, high capital costs, and public resistance."
+    },
+    {
+      "slug": "global-nuclear-diplomacy-part-5",
+      "label": "Part 5",
+      "note": "The potential of Small Modular Reactors (SMRs) and the long-term outlook for nuclear fusion."
+    }
+  ]
+}
