@@ -1,0 +1,152 @@
+{
+  "id": "2026-09-22-microsoft-disrupts-ai-assisted-cyberattack",
+  "slug": "microsoft-disrupts-ai-assisted-cyberattack-sep-2026",
+  "publishedAt": "2026-09-22T22:14:18.001224Z",
+  "category": "technology",
+  "title": "Microsoft Shuts Down AI-Powered Scam Network",
+  "subtitle": "A new platform used artificial intelligence to trick employees and steal from thousands of organizations worldwide.",
+  "summary": {
+    "en": "Microsoft has successfully stopped a dangerous cybercrime platform called EvilTokens. This service used artificial intelligence to help criminals steal information from 12,000 email accounts. The platform charged users a monthly fee to automate the process of tricking employees into sending money. Authorities in the UK have arrested two men connected to the operation. This event highlights the growing risks of AI being used for illegal activities.",
+    "zh": "微軟已成功阻斷一個名為「邪惡代幣」的危險網路犯罪平台。該服務利用人工智慧協助犯罪分子從一萬兩千個電子郵件帳號中竊取資訊。該平台向使用者收取月費，以自動化方式誘騙員工匯款。英國當局已逮捕兩名與該行動有關的男子。此事件凸顯了人工智慧被用於非法活動的風險正日益增加。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "In a major move against cybercrime, Microsoft announced on Tuesday that it has successfully stopped a digital scam platform known as EvilTokens. This platform, which operated through the messaging app Telegram, used artificial intelligence to help criminals steal information from 12,000 Microsoft accounts. The operation affected 10,000 different organizations across the globe, making it a significant threat to international business security.",
+      "zh": "微軟（Microsoft）週二宣布，在打擊網路犯罪的重大行動中，已成功阻斷一個名為「邪惡代幣」（EvilTokens）的數位詐騙平台。該平台透過通訊軟體 Telegram 運作，利用人工智慧協助犯罪分子竊取一萬兩千個微軟帳號的資訊。此行動影響了全球一萬個不同的組織，對國際商業安全構成了重大威脅。"
+    },
+    {
+      "id": "p2",
+      "en": "According to Microsoft, the EvilTokens platform was a subscription service. Criminals paid an initial fee of $1,500 to join, followed by a monthly payment of $500. Once inside, the platform provided tools to make stealing money much faster and easier. Instead of taking days to plan an attack, criminals could complete the process in just minutes. This disruption follows a recent global debate regarding the safety of artificial intelligence, where leaders and tech companies have been arguing about how to manage the risks of this powerful new technology.",
+      "zh": "根據微軟的說法，「邪惡代幣」平台是一項訂閱制服務。犯罪分子需支付一千五百美元的入會費，隨後每月支付五百美元。一旦加入，該平台便提供各種工具，使竊取金錢的過程變得更加快速且容易。犯罪分子無需耗費數日規劃攻擊，僅需幾分鐘即可完成整個流程。此次阻斷行動發生在近期全球針對人工智慧安全性展開辯論之際，當時各國領袖與科技公司正針對如何管理這項強大新技術所帶來的風險爭論不休。"
+    },
+    {
+      "id": "p3",
+      "en": "At the heart of the EvilTokens service was an AI-style chatbot. Microsoft explained that this tool could read a victim’s private emails to find important information. The AI would look for trusted business contacts, payment details, and sensitive work responsibilities. By understanding these details, the AI could help criminals write realistic emails that looked like they came from a real coworker or partner. These messages were designed to trick employees into transferring funds to accounts controlled by the attackers.",
+      "zh": "「邪惡代幣」服務的核心是一個人工智慧聊天機器人。微軟解釋，此工具能讀取受害者的私人電子郵件以搜尋重要資訊。人工智慧會鎖定受信任的商業聯絡人、付款細節以及敏感的工作職責。透過理解這些細節，人工智慧能協助犯罪分子撰寫看起來像是來自真實同事或合作夥伴的逼真郵件。這些訊息旨在誘騙員工將資金轉帳至由攻擊者控制的帳戶。"
+    },
+    {
+      "id": "p4",
+      "en": "Ars Technica reports that the victims of these attacks were located all over the world. While the highest number of compromised accounts were in the United States, many others were found in Canada, the United Kingdom, Australia, India, and France. The organizations targeted included a wide range of industries, such as financial services, healthcare, construction, and higher education. To stop the platform, Microsoft worked with a security firm called SpyCloud and used legal processes to take control of 50 websites and 150 different domains used by the criminals.",
+      "zh": "科技新聞網站 Ars Technica 報導，這些攻擊的受害者遍布全球。雖然受影響帳號數量最多的是美國，但在加拿大、英國、澳洲、印度與法國也發現了許多受害者。遭鎖定的組織涵蓋金融服務、醫療保健、建築與高等教育等廣泛產業。為了阻斷該平台，微軟與一家名為 SpyCloud 的安全公司合作，並透過法律程序取得犯罪分子所使用的五十個網站與一百五十個網域的控制權。"
+    },
+    {
+      "id": "p5",
+      "en": "Regarding the legal consequences, the UK’s Metropolitan Police Service has arrested two men. They are suspected of being involved in the operation of the crime platform. Microsoft noted that the criminals gained access to accounts by using a process called device code authentication. This is a standard method meant for devices that do not have a full keyboard or screen, such as smart TVs. In this process, a user is shown a code and asked to type it into a web browser on another device. The criminals found a way to use this legitimate system to trick users into giving them access to their accounts.",
+      "zh": "關於法律後果，英國倫敦警察廳（Metropolitan Police Service）已逮捕兩名男子。他們涉嫌參與該犯罪平台的運作。微軟指出，犯罪分子是透過一種稱為「裝置代碼驗證」的程序取得帳號存取權。這是一種針對缺乏完整鍵盤或螢幕的裝置（例如智慧電視）所設計的標準方法。在此過程中，使用者會看到一組代碼，並被要求在另一台裝置的網頁瀏覽器中輸入。犯罪分子找到了一種利用此合法系統的方法，誘騙使用者交出帳號存取權。"
+    },
+    {
+      "id": "p6",
+      "en": "This incident highlights a growing problem in the tech world. As AI tools become more advanced, they are also becoming more useful for people who want to commit crimes. By automating the process of analyzing emails and drafting fake messages, platforms like EvilTokens make it much harder for employees to tell the difference between a real business request and a scam. Security experts often warn that as technology improves, criminals will continue to find new ways to use it for their own gain.",
+      "zh": "此事件凸顯了科技界日益嚴重的問題。隨著人工智慧工具變得更加先進，它們對於意圖犯罪的人來說也變得更加實用。透過自動化分析郵件與草擬偽造訊息的過程，「邪惡代幣」這類平台讓員工更難分辨真實的商業請求與詐騙。安全專家經常警告，隨著技術進步，犯罪分子將持續尋找新方法來利用這些技術以獲取私利。"
+    },
+    {
+      "id": "p7",
+      "en": "For now, the disruption of EvilTokens is seen as a victory for digital security. However, the event serves as a reminder that organizations must remain very careful about how they manage their digital accounts. Microsoft’s quick action helped prevent further damage, but the case remains a clear example of why global cooperation between tech companies and law enforcement is necessary. As the debate over AI regulation continues, incidents like this will likely play a major role in how governments and companies decide to protect users in the future.",
+      "zh": "目前，「邪惡代幣」的瓦解被視為數位安全的一項勝利。然而，此事件提醒各組織必須對數位帳號的管理保持高度警惕。微軟的迅速行動有助於防止進一步的損害，但此案例清楚說明了為何科技公司與執法單位之間的全球合作至關重要。隨著針對人工智慧監管的辯論持續進行，這類事件很可能會在政府與企業未來決定如何保護使用者時，扮演關鍵角色。"
+    }
+  ],
+  "wordCount": 654,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "move",
+      "definitionEn": "An action taken to achieve a specific goal or result.",
+      "definitionZh": "行動、舉措。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（移動），這裡作名詞，指採取行動。文中：In a major move against cybercrime, Microsoft announced on Tuesday that it has successfully stopped a digital scam platform known as EvilTokens."
+    },
+    {
+      "term": "disruption",
+      "definitionEn": "The act of stopping or interrupting the normal progress or activity of something.",
+      "definitionZh": "中斷、擾亂。",
+      "partOfSpeech": "noun",
+      "noteZh": "此字常被誤解為單純的「混亂」，但在科技與商業語境中常指「使運作中斷」。文中：This disruption follows a recent global debate regarding the safety of artificial intelligence, where leaders and tech companies have been arguing about how to manage the risks of this powerful new technology."
+    },
+    {
+      "term": "gain",
+      "definitionEn": "An increase in something, especially wealth or advantage.",
+      "definitionZh": "獲利、利益。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（獲得），這裡作名詞，指犯罪者獲得的好處。文中：Security experts often warn that as technology improves, criminals will continue to find new ways to use it for their own gain."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+      "publishedAt": "2026-09-22T19:45:47Z"
+    }
+  ],
+  "story": {
+    "id": "debate-over-ai-existential-risk",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "global-debate-over-ai-safety-and-regulation-sep-2026",
+        "title": "Global Leaders and Tech Giants Clash Over the Future of AI",
+        "publishedAt": "2026-09-22T00:48:47.058463Z",
+        "category": "technology",
+        "summaryEn": "The rapid growth of artificial intelligence has triggered an intense global debate regarding safety and regulation. While some researchers and political leaders warn of existential risks, others argue that these fears are exaggerated. US President Donald Trump has rejected calls to slow development, choosing instead to prioritize American leadership in the field. Meanwhile, international discussions are underway to create communication channels between major powers like the US and China. The debate highlights the tension between the need for innovation and the desire to protect society from potential harm."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What was the primary method criminals used to bypass security and access victim accounts?",
+      "options": {
+        "A": "They used AI to guess user passwords for Microsoft accounts.",
+        "B": "They exploited a legitimate authentication process intended for devices without keyboards.",
+        "C": "They sent phishing emails containing malicious software that stole login credentials.",
+        "D": "They hacked directly into the servers of the 10,000 affected organizations."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第五段，Microsoft 指出罪犯利用了「device code authentication」（裝置代碼驗證），這是一種原本設計給智慧電視等缺乏鍵盤或螢幕裝置使用的合法程序。選項 A 錯誤，因為文章未提到猜測密碼；選項 C 錯誤，因為雖然涉及郵件，但主要的入侵手段是利用驗證機制而非安裝惡意軟體；選項 D 錯誤，因為受害者是透過被騙輸入代碼，而非伺服器直接被駭。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the information provided, what can be inferred about the impact of AI on cybercrime?",
+      "options": {
+        "A": "AI has made cybercrime less profitable by lowering the entry fees for scammers.",
+        "B": "AI tools allow criminals to operate with significantly greater speed and efficiency.",
+        "C": "AI has eliminated the need for human involvement in drafting fraudulent emails.",
+        "D": "AI technology is primarily used by criminals to target healthcare and financial industries."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據第二段提到犯罪過程從「數天」縮短至「幾分鐘」，以及第六段提到 AI 自動化了分析郵件與撰寫訊息的過程，顯示 AI 大幅提升了犯罪效率。選項 A 錯誤，因為文章未提到獲利降低；選項 C 錯誤，因為 AI 是「幫助」罪犯撰寫，而非完全不需要人類參與；選項 D 錯誤，雖然這些產業受害，但文章並未指出 AI 僅用於這些領域。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the word 'disruption' mean as it is used in the context of the EvilTokens platform?",
+      "options": {
+        "A": "The act of interrupting or stopping the normal operation of a service.",
+        "B": "A state of confusion caused by a sudden change in technology.",
+        "C": "The process of creating a new and improved version of a digital tool.",
+        "D": "A legal argument used to challenge the validity of a software license."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在文末提到「disruption of EvilTokens」，是指 Microsoft 透過法律手段與技術干預，成功中斷並停止了該詐騙平台的運作。選項 B 錯誤，此處並非指混亂狀態；選項 C 錯誤，disruption 在此處是毀滅性中斷，而非改進；選項 D 錯誤，這與法律辯論無關，而是指實際的行動成果。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article regarding the EvilTokens incident?",
+      "options": {
+        "A": "Microsoft is the only company capable of fighting global cybercrime effectively.",
+        "B": "The UK Metropolitan Police are the primary authority in regulating AI technology.",
+        "C": "AI-powered scams are a growing threat that necessitates better security and global cooperation.",
+        "D": "Subscription-based crime platforms are the most profitable way for criminals to steal money."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章從 EvilTokens 的案例出發，討論了 AI 如何被用於犯罪，並在最後一段強調這類事件凸顯了全球合作與企業加強帳戶管理的重要性，這是文章的核心主旨。選項 A 錯誤，文章強調的是「全球合作」；選項 B 錯誤，警方僅是逮捕嫌犯，並非 AI 監管機構；選項 D 錯誤，文章討論的是安全性與威脅，而非比較哪種犯罪模式最賺錢。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
