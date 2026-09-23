@@ -1,0 +1,152 @@
+{
+  "id": "2026-09-23-microsoft-disrupts-ai-assisted-cybercrime-platform",
+  "slug": "microsoft-disrupts-ai-assisted-cybercrime-platform-sep-2026",
+  "publishedAt": "2026-09-23T00:29:55.365827Z",
+  "category": "technology",
+  "title": "Microsoft Shuts Down AI-Powered Scam Network Used to Target Thousands",
+  "subtitle": "A new operation has stopped a platform that used artificial intelligence to trick employees and steal company funds.",
+  "summary": {
+    "en": "Microsoft has successfully disrupted a dangerous cybercrime platform known as EvilTokens. This service used artificial intelligence to help criminals steal information from 12,000 email accounts globally. The platform charged users a monthly fee to automate the process of tricking employees into sending money. Microsoft worked with international partners to seize websites and domains linked to the operation. Two men have been arrested in the United Kingdom in connection with the scam.",
+    "zh": "微軟已成功瓦解一個名為「邪惡代幣」的危險網路犯罪平台。該服務利用人工智慧協助犯罪分子在全球竊取了一萬兩千個電子郵件帳號的資訊。該平台向使用者收取月費，將誘騙員工匯款的過程自動化。微軟與國際合作夥伴聯手，查扣了與該行動相關的網站與網域。英國已有兩名男子因與此詐騙案有關而被捕。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Microsoft announced on Tuesday that it has led a major effort to shut down a subscription-based cybercrime platform called EvilTokens. This operation is a significant update to the company’s ongoing efforts to stop digital fraud. The platform, which first appeared on a Telegram channel in February, made it much easier for criminals to steal information from email accounts. According to Microsoft, the service was responsible for compromising 12,000 accounts across 10,000 different organizations worldwide in just a few months.",
+      "zh": "微軟 (Microsoft) 於週二宣布，該公司主導了一項重大行動，成功關閉了一個名為「邪惡代幣」(EvilTokens) 的訂閱制網路犯罪平台。此行動是該公司為遏止數位詐騙所進行的持續性努力中，一項重要的進展。該平台於二月首次出現在通訊軟體 Telegram 的頻道上，大幅降低了犯罪分子竊取電子郵件帳號資訊的門檻。根據微軟的說法，該服務在短短幾個月內，就導致全球一萬個不同組織的一萬兩千個帳號遭到入侵。"
+    },
+    {
+      "id": "p2",
+      "en": "EvilTokens operated as a paid service, charging users an initial fee of $1,500 and a recurring monthly fee of $500. By paying this, criminals gained access to a tool that automated the steps needed to break into email accounts. Once inside, the platform used an artificial intelligence chatbot to help attackers analyze a victim’s inbox. This AI could identify important business relationships, payment records, and sensitive job responsibilities. It even helped criminals write realistic emails that looked like they came from trusted colleagues, tricking employees into transferring money to accounts controlled by the attackers.",
+      "zh": "「邪惡代幣」以付費服務形式運作，使用者需支付一千五百美元的初始費用，以及每月五百美元的續訂費用。支付費用後，犯罪分子即可取得一套工具，將入侵電子郵件帳號所需的步驟自動化。一旦成功入侵，該平台便會利用人工智慧聊天機器人協助攻擊者分析受害者的收件匣。這套人工智慧能辨識重要的商業往來關係、付款紀錄以及敏感的工作職責。它甚至能協助犯罪分子撰寫看起來像是來自信任同事的逼真郵件，誘騙員工將款項轉帳至由攻擊者控制的帳戶。"
+    },
+    {
+      "id": "p3",
+      "en": "Microsoft noted that the platform was designed to make fraud happen in minutes rather than days. The victims included a wide range of industries, such as financial services, healthcare, construction, and higher education. While the attacks affected organizations around the world, the highest number of compromised accounts were located in the United States. Other countries with significant numbers of victims included Canada, the United Kingdom, Australia, India, and France. SpyCloud, a security firm that helped with the investigation, provided further details regarding the affected organizations.",
+      "zh": "微軟指出，該平台的設計旨在將詐騙過程從數天縮短至數分鐘內完成。受害者涵蓋了金融服務、醫療保健、營建及高等教育等多個產業。儘管攻擊影響了全球各地的組織，但受害帳號數量最多的地區位於美國。其他受害數量顯著的國家還包括加拿大、英國、澳洲、印度與法國。協助此次調查的安全公司 SpyCloud 提供了關於受影響組織的更多細節。"
+    },
+    {
+      "id": "p4",
+      "en": "To stop the platform, Microsoft used a legal process to seize 50 websites and 150 additional domains that were being used to run the service. The company worked alongside a network of partners to ensure the platform could no longer function. In a related development, the UK’s Metropolitan Police Service arrested two men on suspicion of crimes connected to the platform. These arrests mark a major step in holding those behind the service accountable for their actions.",
+      "zh": "為了終止該平台，微軟透過法律程序查扣了五十個網站以及一百五十個用於運作該服務的額外網域。該公司與合作夥伴網路密切配合，確保該平台無法再繼續運作。在相關進展方面，英國倫敦警察廳 (Metropolitan Police Service) 已逮捕兩名男子，他們涉嫌與該平台相關的犯罪活動。這些逮捕行動標誌著追究該服務幕後黑手責任的重要一步。"
+    },
+    {
+      "id": "p5",
+      "en": "The method used to break into these accounts involved a process called device code authentication. This is a legitimate system designed for devices that do not have a standard keyboard or screen, such as smart TVs. In this process, the device shows a code, and the user is asked to enter that code into a web browser on a separate device, like a phone or computer, to log in. Criminals were able to abuse this system to gain unauthorized access to the accounts of unsuspecting employees.",
+      "zh": "用於入侵這些帳號的手法涉及一種稱為「裝置代碼驗證」(device code authentication) 的程序。這是一套為缺乏標準鍵盤或螢幕的裝置（例如智慧電視）所設計的合法系統。在此過程中，裝置會顯示一組代碼，並要求使用者在手機或電腦等其他裝置的網頁瀏覽器中輸入該代碼以進行登入。犯罪分子濫用了這套系統，藉此非法存取毫無戒心的員工帳號。"
+    },
+    {
+      "id": "p6",
+      "en": "This disruption highlights the growing danger of AI-assisted cybercrime. By using artificial intelligence to analyze data and create convincing messages, criminals can act much faster and more effectively than in the past. Microsoft’s quick action to identify and stop EvilTokens shows the importance of cooperation between technology companies and law enforcement agencies to protect users from these evolving threats. As digital security continues to be a top priority, experts emphasize that employees should remain cautious of unusual requests, even if they appear to come from people they know and trust.",
+      "zh": "此次破獲行動凸顯了人工智慧輔助網路犯罪日益嚴峻的危險。透過利用人工智慧分析資料並製作令人信服的訊息，犯罪分子的行動速度與效率遠勝以往。微軟迅速採取行動辨識並阻斷「邪惡代幣」，顯示了科技公司與執法機構合作以保護使用者免受這些演變中威脅的重要性。隨著數位安全持續被列為首要任務，專家強調，員工應對異常請求保持警惕，即使這些請求看起來是來自他們認識且信任的人。"
+    },
+    {
+      "id": "p7",
+      "en": "While the immediate threat from EvilTokens has been removed, the case serves as a reminder that cybercriminals are constantly finding new ways to use technology to their advantage. Organizations are encouraged to review their security settings and ensure that their staff are aware of how these types of scams work. By staying informed and using strong security practices, businesses can better protect themselves against similar future attacks.",
+      "zh": "雖然來自「邪惡代幣」的直接威脅已解除，但此案例提醒我們，網路犯罪分子正不斷尋找新方法，利用科技為其牟利。建議各組織檢視其安全設定，並確保員工了解這類詐騙的運作方式。透過保持資訊更新並採取嚴格的安全措施，企業能更有效地保護自身，抵禦未來類似的攻擊。"
+    }
+  ],
+  "wordCount": 642,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "compromising",
+      "definitionEn": "To cause a security system to be vulnerable or to gain unauthorized access to data.",
+      "definitionZh": "（資安領域）使系統安全性受損、遭駭入或洩漏資料。",
+      "partOfSpeech": "verb (present participle)",
+      "noteZh": "常見於「妥協」之意，但在資安語境下指系統被駭。文中：According to Microsoft, the service was responsible for compromising 12,000 accounts across 10,000 different organizations worldwide in just a few months."
+    },
+    {
+      "term": "seize",
+      "definitionEn": "To take control of something by legal authority.",
+      "definitionZh": "（法律）查封、扣押。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見指「抓住」物體，這裡指法律上的扣押。文中：To stop the platform, Microsoft used a legal process to seize 50 websites and 150 additional domains that were being used to run the service."
+    },
+    {
+      "term": "abuse",
+      "definitionEn": "To use something in a way that is wrong, harmful, or not intended.",
+      "definitionZh": "濫用、誤用。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見指「虐待」，這裡指濫用系統功能。文中：Criminals were able to abuse this system to gain unauthorized access to the accounts of unsuspecting employees."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+      "publishedAt": "2026-09-22T19:45:47Z"
+    }
+  ],
+  "story": {
+    "id": "debate-over-ai-existential-risk",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "microsoft-disrupts-ai-assisted-cyberattack-sep-2026",
+        "title": "Microsoft Shuts Down AI-Powered Scam Network",
+        "publishedAt": "2026-09-22T22:14:18.001224Z",
+        "category": "technology",
+        "summaryEn": "Microsoft has successfully stopped a dangerous cybercrime platform called EvilTokens. This service used artificial intelligence to help criminals steal information from 12,000 email accounts. The platform charged users a monthly fee to automate the process of tricking employees into sending money. Authorities in the UK have arrested two men connected to the operation. This event highlights the growing risks of AI being used for illegal activities."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What was the primary financial model used by the operators of the EvilTokens platform?",
+      "options": {
+        "A": "A flat one-time fee of $1,500 for lifetime access.",
+        "B": "An initial payment of $1,500 followed by a $500 monthly subscription fee.",
+        "C": "A per-account fee based on the number of organizations compromised.",
+        "D": "A percentage-based commission taken from the money stolen from victims."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，EvilTokens 運作模式為「an initial fee of $1,500 and a recurring monthly fee of $500」。選項 A 忽略了每月續訂費用；選項 C 與 D 雖看似合理，但文章中並未提及按帳戶收費或抽成機制，屬於無中生有的干擾選項。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, why was the 'device code authentication' system particularly vulnerable to abuse by EvilTokens?",
+      "options": {
+        "A": "It was specifically designed for high-security environments that hackers easily bypassed.",
+        "B": "It required employees to have advanced technical skills that most did not possess.",
+        "C": "It relies on a user verifying a code on a separate device, which criminals could trick users into doing.",
+        "D": "It is an outdated security protocol that Microsoft had already planned to discontinue."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第五段，該系統原本是為了沒有鍵盤或螢幕的設備設計，要求用戶在另一台設備輸入代碼。犯罪分子利用此機制，誘騙員工在自己的設備上輸入代碼，進而取得帳戶存取權。選項 A 與 D 文中未提及；選項 B 與事實相反，該系統設計初衷是為了簡化流程，並非要求高技術。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the word 'disruption' most closely mean in the context of Microsoft's actions?",
+      "options": {
+        "A": "The act of stopping or interrupting the normal operation of a service.",
+        "B": "A state of confusion caused by a technological failure.",
+        "C": "A physical breakdown of computer hardware.",
+        "D": "The process of creating a new and better software platform."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。文中提到 Microsoft 透過法律手段查封網站與網域，導致 EvilTokens 無法運作，因此「disruption」在此處指「中斷或停止」該犯罪平台的運作。選項 B 指混亂，不符語境；選項 C 指硬體損壞，與本案無關；選項 D 則完全相反，Microsoft 是在摧毀而非建立平台。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of this article regarding modern cybercrime?",
+      "options": {
+        "A": "The United Kingdom and the United States are the only countries capable of fighting cybercrime.",
+        "B": "AI tools are only being used by large corporations to improve their internal security.",
+        "C": "Cybercriminals are increasingly using AI and subscription-based models to conduct faster, more effective attacks.",
+        "D": "The best way to stop cybercrime is for individuals to stop using email accounts entirely."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章核心在於探討 EvilTokens 如何結合 AI 與訂閱制模式，讓犯罪更有效率，並強調科技公司與執法單位合作的重要性。選項 A 錯誤，文中提到多國受害；選項 B 與事實相反，AI 也被犯罪分子利用；選項 D 過於極端且非文章建議的解決方案。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
