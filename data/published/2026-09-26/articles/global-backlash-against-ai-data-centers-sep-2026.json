@@ -1,0 +1,160 @@
+{
+  "id": "2026-09-26-global-backlash-against-ai-data-centers",
+  "slug": "global-backlash-against-ai-data-centers-sep-2026",
+  "publishedAt": "2026-09-26T22:13:37.454524Z",
+  "category": "energy",
+  "title": "The Global Conflict Over AI Datacentres",
+  "subtitle": "As tech companies build massive energy-hungry hubs, local communities around the world are pushing back.",
+  "summary": {
+    "en": "Massive AI datacentres are being built globally to support new technology, but they are causing significant local concern. Communities in India and Australia are worried about the high energy and water needs of these facilities. While governments argue that these projects are essential for economic growth, activists fear environmental damage. Industry leaders claim that public fear is often based on exaggerated information from the United States. The debate highlights the growing tension between digital progress and local resource security.",
+    "zh": "全球各地正興建大型人工智慧資料中心以支援新技術，但這些設施引發了嚴重的在地擔憂。印度與澳洲的社區擔心這些設施對能源與水資源的高需求。雖然政府主張這些計畫對經濟成長至關重要，但社群運動人士則擔憂環境會遭到破壞。產業領袖則聲稱，公眾的恐懼往往是基於來自美國的誇大資訊。這場辯論凸顯了數位進步與在地資源安全之間日益加劇的緊張關係。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Across the globe, a new wave of protests is rising against the construction of massive AI datacentres. These facilities, which store and process the vast amounts of information needed to run artificial intelligence, require enormous amounts of electricity and water. While tech companies and governments view these projects as essential for future digital growth, local communities are increasingly worried about the impact on their environment and daily lives.",
+      "zh": "全球各地正掀起一股反對興建大型人工智慧資料中心的抗議浪潮。這些設施負責儲存與處理運作人工智慧所需的龐大資訊，因此需要消耗極為驚人的電力與水資源。儘管科技公司與政府將這些計畫視為未來數位成長的關鍵，但當地社區卻日益擔憂這些設施對其環境與日常生活造成的衝擊。"
+    },
+    {
+      "id": "p2",
+      "en": "In the small Indian village of Tarluvada, residents were initially promised a \"golden opportunity\" by government officials. Google, in partnership with the Adani Group, began building a large AI hub that was expected to bring jobs and economic development to the area. However, as The Guardian reports, this excitement quickly turned to suspicion. Local leaders like BRB Naidu have expressed deep concern, noting that the government has been unwilling to answer questions about the project’s true size or its environmental impact. While the project was publicly described as a 1-gigawatt facility, state documents show it is actually planned to be much larger—2.51 gigawatts. This is enough power to equal two large nuclear reactors, which could consume up to 30% of the entire state’s current energy supply.",
+      "zh": "在印度的小村莊塔魯瓦達（Tarluvada），居民起初被政府官員承諾這是一個「黃金機會」。Google 與阿達尼集團（Adani Group）合作，開始興建一座預期能為該地區帶來就業機會與經濟發展的大型人工智慧中心。然而，根據《衛報》（The Guardian）報導，這份興奮感很快轉變為懷疑。當地領袖如奈杜（BRB Naidu）表達了深切的憂慮，指出政府始終不願回答有關該計畫真實規模或環境影響的問題。雖然該計畫公開宣稱是一座 1 吉瓦的設施，但政府文件顯示其規劃規模實際上大得多，達到 2.51 吉瓦。這足以比擬兩座大型核子反應爐的發電量，可能消耗該邦目前總能源供應量的 30%。"
+    },
+    {
+      "id": "p3",
+      "en": "This situation in India is not an isolated event. Similar protests have erupted in countries including the United States, Scotland, and Australia. In Australia, the government and business leaders argue that the public backlash is largely an \"import\" from the United States. According to The Guardian, Australian officials believe that social media has caused people to fear that the massive, energy-intensive projects seen in the US are being built in their own neighborhoods. They argue that the Australian market is smaller and much more carefully regulated than the American one.",
+      "zh": "印度發生的情況並非單一事件。類似的抗議活動已在美國、蘇格蘭與澳洲等國爆發。在澳洲，政府與企業領袖主張，公眾的反彈很大程度上是從美國「引進」的觀點。根據《衛報》報導，澳洲官員認為社群媒體讓民眾擔心，在美國看到的那些耗能巨大的計畫，也會在自家社區出現。他們主張澳洲市場規模較小，且受到比美國更嚴格的監管。"
+    },
+    {
+      "id": "p4",
+      "en": "Belinda Dennett, head of the industry group Data Centres Australia, stated that the public debate is being fought using \"America’s facts.\" She noted that the US has thousands of datacentres with a total capacity far greater than that of Australia. Dennett argued that headlines describing these facilities as \"energy vampires\" or \"water hogs\" are based on the American experience and do not accurately reflect the situation in Australia. Despite this, the Australian government has been forced to launch multiple inquiries and create new rules to manage the rapid growth of these projects, as citizens continue to demand more transparency.",
+      "zh": "產業組織「澳洲資料中心」（Data Centres Australia）負責人丹內特（Belinda Dennett）表示，這場公眾辯論正使用「美國的事實」來進行。她指出，美國擁有數千座資料中心，總容量遠大於澳洲。丹內特認為，將這些設施形容為「能源吸血鬼」或「用水怪獸」的標題，是基於美國的經驗，並不能準確反映澳洲的情況。儘管如此，由於公民持續要求更高的透明度，澳洲政府被迫啟動多項調查並制定新規則，以管理這些計畫的快速成長。"
+    },
+    {
+      "id": "p5",
+      "en": "For many, the core issue is the strain these facilities place on local resources. In India, activists fear that meeting the massive energy needs of the new AI hub will force the region to rely even more on coal, which is currently used for 75% of the country’s electricity. While companies like Google have promised to support new clean energy, the immediate reality for local residents is the loss of land and the fear of long-term environmental damage. The government of India, however, maintains that these datacentres are vital for the country’s future, noting that while India generates nearly 20% of the world’s data, it currently hosts only a small fraction of the world’s datacentres.",
+      "zh": "對許多人而言，核心問題在於這些設施對當地資源造成的壓力。在印度，社群運動人士擔心，為了滿足新人工智慧中心龐大的能源需求，該地區將被迫更加依賴煤炭，而煤炭目前佔該國電力來源的 75%。雖然像 Google 這樣的公司承諾支持新的潔淨能源，但當地居民眼前的現實是土地流失以及對長期環境破壞的恐懼。然而，印度政府堅稱這些資料中心對國家未來至關重要，並指出儘管印度產生了全球近 20% 的資料，但目前僅承載了全球極小比例的資料中心。"
+    },
+    {
+      "id": "p6",
+      "en": "This global tension reflects a fundamental disagreement over priorities. Governments are eager to secure their place in the digital economy, viewing AI as a key to long-term competitiveness. In contrast, local communities are focused on the immediate, tangible costs of hosting such massive infrastructure. As these projects continue to move forward, the gap between the promises of tech companies and the concerns of the public remains wide. Whether through stricter regulations or better communication, both governments and the tech industry face a difficult challenge in proving that these \"hyperscale\" hubs can exist without harming the communities that host them.",
+      "zh": "這種全球性的緊張局勢反映了對優先事項的根本分歧。政府渴望在數位經濟中確保一席之地，將人工智慧視為長期競爭力的關鍵。相對地，當地社區則關注承載此類大型基礎設施所帶來的直接且具體的代價。隨著這些計畫持續推進，科技公司的承諾與公眾擔憂之間的鴻溝依然巨大。無論是透過更嚴格的監管還是更好的溝通，政府與科技產業都面臨一項艱鉅的挑戰，即證明這些「超大規模」中心可以在不傷害當地社區的情況下運作。"
+    }
+  ],
+  "wordCount": 685,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "wave",
+      "definitionEn": "A sudden increase or surge in a particular activity or feeling.",
+      "definitionZh": "（活動或情緒的）一波、浪潮。",
+      "partOfSpeech": "noun (metaphorical)",
+      "noteZh": "常見作名詞（海浪），這裡比喻抗議活動的興起。文中：Across the globe, a new wave of protests is rising against the construction of massive AI datacentres."
+    },
+    {
+      "term": "import",
+      "definitionEn": "An idea or trend brought into one country from another.",
+      "definitionZh": "（從國外）引入的概念或趨勢。",
+      "partOfSpeech": "noun (metaphorical)",
+      "noteZh": "常見作動詞（進口），這裡指將國外的觀點帶入國內。文中：In Australia, the government and business leaders argue that the public backlash is largely an \"import\" from the United States."
+    },
+    {
+      "term": "strain",
+      "definitionEn": "A burden or pressure placed on something, such as resources.",
+      "definitionZh": "（對資源造成的）壓力、負擔。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（拉緊、過濾），這裡作名詞指對資源的消耗壓力。文中：For many, the core issue is the strain these facilities place on local resources."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/world/2026/sep/26/ai-datacentre-hyperscale-india-andhra-pradesh-village-google-confiscated-land",
+      "title": "Broken promises, confiscated land: the hyperscale AI datacentre being built in a tiny Indian village",
+      "publishedAt": "2026-09-26T11:00:34Z"
+    },
+    {
+      "name": "The Guardian World",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/26/australia-datacentre-backlash",
+      "title": "Australian backlash to datacentres is faux import from US, officials say: ‘We are not the United States’",
+      "publishedAt": "2026-09-26T22:00:47Z"
+    }
+  ],
+  "story": {
+    "id": "the-turning-point-energy-security-and-conflict",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "global-climate-crisis-and-energy-security-sep-2026",
+        "title": "Global Energy and Environmental Challenges: A Time of Crisis",
+        "publishedAt": "2026-09-25T22:14:15.606626Z",
+        "category": "energy",
+        "summaryEn": "The world is currently facing major challenges regarding both environmental safety and energy security. In Croatia, local citizens are protesting against illegal waste dumping that has contaminated their land. Meanwhile, the United States is struggling with a low supply of emergency oil reserves due to international conflict. Experts warn that these issues are becoming more complex and harder to solve. Governments are now looking for new ways to protect their resources and public health."
+      },
+      {
+        "slug": "global-climate-crisis-and-energy-security-sep-2026",
+        "title": "Global Challenges: Waste Crimes and Energy Security Strains",
+        "publishedAt": "2026-09-26T00:36:51.822600Z",
+        "category": "energy",
+        "summaryEn": "Citizens in Croatia are protesting against illegal waste dumping that has polluted their local environment. Meanwhile, the United States is facing a significant drop in its emergency oil reserves due to ongoing international conflicts. Both situations highlight the growing pressure on global resources and environmental safety. Experts warn that these issues are becoming increasingly difficult for authorities to manage. The search for solutions continues as both local and national leaders face public frustration."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the discrepancy regarding the AI hub in Tarluvada, India?",
+      "options": {
+        "A": "It was promised to create jobs but has instead resulted in mass layoffs.",
+        "B": "The official public claim about its energy capacity is significantly lower than the actual planned size.",
+        "C": "The project was supposed to be powered by clean energy but is actually using 75% coal.",
+        "D": "Local leaders were told it would be a small facility, but it has already consumed the entire state's energy supply."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，政府公開宣稱該設施為 1-gigawatt，但內部文件顯示其規劃規模高達 2.51 gigawatts。選項 A 錯誤，因為文中未提及裁員；選項 C 錯誤，文中提到的是印度整體電力結構中有 75% 依賴煤炭，而非該設施目前已使用 75% 煤炭；選項 D 錯誤，文中提到該設施「足以」消耗 30% 的能源，而非目前已經消耗完畢。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the Australian government's perspective on the local protests?",
+      "options": {
+        "A": "They believe the protests are a necessary step toward better environmental regulation.",
+        "B": "They think that Australian citizens are ignoring the economic benefits of AI technology.",
+        "C": "They view the public opposition as a reaction influenced by foreign media rather than local realities.",
+        "D": "They agree with the protesters that datacentres are 'energy vampires' that threaten the local environment."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第三段，澳洲官員認為民眾的反彈是從美國「進口」的觀點，並認為社群媒體讓民眾誤以為美國的大型能源項目正發生在自己社區。選項 A 錯誤，政府是被迫啟動調查，而非認為抗議是必要的；選項 B 錯誤，文中未提到政府認為民眾忽視經濟利益；選項 D 錯誤，政府官員明確反對這種稱呼，認為這是美國的經驗，不適用於澳洲。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fourth paragraph, what does the author mean by calling datacentres 'water hogs'?",
+      "options": {
+        "A": "Facilities that consume an excessive and disproportionate amount of water.",
+        "B": "Facilities that are built in locations where water is naturally scarce.",
+        "C": "Facilities that produce polluted water as a byproduct of their operations.",
+        "D": "Facilities that are designed to recycle water to save money for the company."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。「Hog」在口語中意指貪婪或佔用過多資源的人，這裡用作比喻（metaphor），形容資料中心像「豬」一樣貪婪地消耗大量水資源。選項 B 錯誤，詞彙本身強調的是「消耗量」而非地點；選項 C 錯誤，文中未提及污染問題；選項 D 錯誤，這與「hogs」的負面意涵完全相反。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central conflict described in the article?",
+      "options": {
+        "A": "The struggle between different tech companies to build the largest AI datacentre in the world.",
+        "B": "The debate over whether AI technology is truly beneficial for the future of the digital economy.",
+        "C": "The tension between government/tech industry growth goals and local community concerns regarding resource strain.",
+        "D": "The difficulty of transitioning from coal-based energy to clean energy in developing nations like India."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章最後一段總結了核心衝突：政府與科技公司視 AI 為未來競爭力的關鍵，而地方社區則擔憂基礎設施帶來的直接且具體的資源消耗負擔。選項 A 錯誤，文中並非比較公司間的競爭；選項 B 錯誤，文章重點不在討論 AI 本身的好壞，而在於基礎設施的影響；選項 D 錯誤，能源轉型只是其中一個細節，並非全文主旨。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
