@@ -1,0 +1,177 @@
+{
+  "id": "2026-09-27-datacenter-developers-accused-of-skirting",
+  "slug": "datacenter-developers-accused-of-skirting-sep-2026",
+  "publishedAt": "2026-09-27T22:13:39.753776Z",
+  "category": "energy",
+  "title": "Tech Companies Face Accusations of Avoiding Pollution Rules for AI Datacenters",
+  "subtitle": "As communities push back against the rapid growth of AI infrastructure, new reports suggest developers are using clever tactics to bypass environmental oversight.",
+  "summary": {
+    "en": "Major tech companies are facing new allegations that they are avoiding strict air pollution rules when building AI datacenters. By splitting large projects into smaller parts, developers can bypass major regulatory reviews. This strategy allows them to speed up construction and avoid expensive pollution controls. Meanwhile, public trust in AI and its infrastructure is falling across the United States. Local communities are increasingly worried about the environmental and social impact of these massive facilities.",
+    "zh": "大型科技公司正面臨新的指控，稱其在興建人工智慧資料中心時規避了嚴格的空氣污染規範。透過將大型開發案拆解為較小的部分，開發商得以繞過主要的法規審查。此策略讓他們能加速施工並規避昂貴的污染防治措施。與此同時，美國大眾對人工智慧及其基礎設施的信任度正在下降。當地社區越來越擔心這些巨型設施對環境與社會造成的影響。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The rapid expansion of artificial intelligence (AI) is creating a new conflict between big tech companies and the communities where they build their massive datacenters. Following recent reports of global protests against these energy-hungry facilities, new evidence suggests that developers are using questionable methods to avoid environmental regulations in the United States. Environmental advocates now accuse these companies of manipulating the permitting process to bypass strict air pollution rules.",
+      "zh": "人工智慧（AI）的快速擴張，正在大型科技公司與其興建巨型資料中心的社區之間引發新的衝突。繼近期全球各地出現針對這些耗能設施的抗議報導後，新證據顯示開發商正利用可疑手段，規避美國的環境法規。環保倡議人士指控這些公司操弄許可審核流程，藉此繞過嚴格的空氣污染規範。"
+    },
+    {
+      "id": "p2",
+      "en": "Under the Clean Air Act, projects that are expected to be \"major\" sources of pollution must undergo a rigorous review process. This process is designed to protect local air quality by ensuring that new facilities do not violate safety limits. However, according to The Guardian, some developers are avoiding these major reviews by dividing their projects into multiple smaller, \"minor\" sources. By submitting several separate permit applications instead of one large one, companies can often avoid public scrutiny and get their projects approved much faster.",
+      "zh": "根據《清潔空氣法》，預期會成為「主要」污染源的開發案，必須經過嚴格的審查程序。此流程旨在確保新設施不會違反安全限制，進而保護當地空氣品質。然而，據《衛報》報導，部分開發商透過將開發案拆解為多個較小的「次要」來源，來規避這些主要審查。透過提交多份獨立的許可申請，而非一份大型申請，企業往往能避開公眾監督，並大幅加快開發案的核准速度。"
+    },
+    {
+      "id": "p3",
+      "en": "Michael Koerber, a retired official from the Environmental Protection Agency (EPA), described this practice as \"lego permitting.\" He explained that by breaking a large project into smaller pieces, companies can effectively hide the true amount of pollution the facility will create. Koerber, who now works with the Environmental Protection Network, noted that these companies often hire expert consultants who know exactly how to find these regulatory shortcuts. \"They want to fly under the radar,\" he said.",
+      "zh": "曾任職於環境保護署（EPA）的退休官員柯伯（Michael Koerber）將這種做法形容為「樂高式許可」。他解釋說，透過將大型開發案拆解成小部分，企業能有效地隱瞞設施將產生的真實污染量。目前任職於環境保護網絡的柯伯指出，這些公司經常聘請專家顧問，他們非常清楚如何找到這些法規漏洞。他說：「他們想要低調行事，不被察覺。」"
+    },
+    {
+      "id": "p4",
+      "en": "Several examples of this practice have surfaced across the country. In North Carolina, Amazon and Duke Energy submitted two separate permits for a project involving 649 diesel generators. By doing so, they avoided a major review, even though the facility is located in an area that already suffers from poor air quality. Similarly, in Maryland, multiple datacenters—including one by Amazon—are operating on a single campus under separate minor permits. In New Mexico, developers of the Project Jupiter datacenter also attempted to use this strategy by proposing two separate natural gas power sources to avoid a major environmental assessment.",
+      "zh": "全美各地已出現多起此類做法的案例。在北卡羅來納州，亞馬遜（Amazon）與杜克能源（Duke Energy）針對一項涉及 649 台柴油發電機的開發案，提交了兩份獨立的許可申請。透過這種方式，即便該設施位於空氣品質本就不佳的地區，他們仍規避了主要審查。同樣地，在馬里蘭州，多座資料中心（包括亞馬遜的一座）在同一個園區內，卻以個別的次要許可進行運作。在新墨西哥州，木星計畫（Project Jupiter）資料中心的開發商也試圖採取此策略，透過提出兩項獨立的天然氣能源來源，以規避大型環境評估。"
+    },
+    {
+      "id": "p5",
+      "en": "In response to these allegations, an Amazon spokesperson stated that the company \"appropriately applied for and obtained an air permit\" for its projects. However, the use of such tactics has fueled growing public anger. This frustration is part of a larger, nationwide backlash against the AI industry. As reported by The Guardian, many Americans are increasingly concerned about the costs associated with these massive computer centers, which require vast amounts of electricity and water to function.",
+      "zh": "針對這些指控，亞馬遜發言人表示，該公司已為其開發案「適當地申請並獲得了空氣許可」。然而，此類手段的使用已引發公眾日益高漲的憤怒。這種挫折感是全美針對人工智慧產業反彈浪潮的一部分。正如《衛報》所報導，許多美國人越來越擔心這些巨型電腦中心所帶來的代價，因為它們運作時需要消耗大量的電力與水資源。"
+    },
+    {
+      "id": "p6",
+      "en": "Public opinion data reflects this shift in attitude. A recent survey by the Marquette University Law School found that 73% of Americans believe the costs of datacenters outweigh their benefits. Furthermore, 70% of those surveyed expressed the view that AI is bad for society. This is a significant change from just a few years ago, when public excitement about new technology was much higher. Today, even younger adults, who are typically the most supportive of new tech, are becoming skeptical.",
+      "zh": "民意數據反映了這種態度的轉變。馬凱特大學法學院（Marquette University Law School）近期的一項調查發現，73% 的美國人認為資料中心帶來的成本高於其效益。此外，70% 的受訪者認為人工智慧對社會有害。這與幾年前大眾對新科技充滿熱情的情況相比，已出現顯著變化。如今，即便是通常最支持新科技的年輕族群，也開始抱持懷疑態度。"
+    },
+    {
+      "id": "p7",
+      "en": "This widespread distrust is not just about local environmental concerns. Many people feel that a small group of powerful tech leaders is pushing a \"civilization-threatening\" project forward without public consent. There is a deep, growing suspicion of a political system that allows these companies to operate behind the scenes. As communities across the country continue to organize, they are increasingly calling for moratoria—a temporary ban on activity—and stricter rules to stop the unchecked growth of these facilities.",
+      "zh": "這種廣泛的不信任感不僅限於當地的環境疑慮。許多人認為，一小群強大的科技領袖正在未經公眾同意的情況下，推動一項「威脅文明」的計畫。對於一個允許這些公司在幕後運作的政治體系，大眾的懷疑感正日益加深。隨著全美各地的社區持續組織起來，他們越來越呼籲實施暫停令（即暫時禁止相關活動），並制定更嚴格的規範，以遏止這些設施不受限制的擴張。"
+    },
+    {
+      "id": "p8",
+      "en": "As the industry moves forward, the pressure on tech companies to be more transparent is likely to increase. The ability to \"fly under the radar\" is becoming more difficult as residents, local governments, and environmental groups demand more accountability. Whether these companies can continue to use these regulatory shortcuts remains to be seen, but the era of building AI infrastructure without significant public pushback appears to be over. For now, the conflict between the rapid development of AI and the needs of local communities remains one of the most important issues in the American energy landscape.",
+      "zh": "隨著產業持續發展，科技公司面臨的透明度壓力可能會增加。隨著居民、地方政府與環保團體要求更高的當責性，「低調行事」變得越來越困難。這些公司是否能繼續利用這些法規漏洞仍有待觀察，但那種在沒有重大公眾反彈下興建人工智慧基礎設施的時代，似乎已經結束。目前，人工智慧的快速發展與當地社區需求之間的衝突，仍是美國能源領域最重要的議題之一。"
+    }
+  ],
+  "wordCount": 768,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "fly under the radar",
+      "definitionEn": "To avoid being noticed or attracting attention.",
+      "definitionZh": "避開注意、低調行事。",
+      "partOfSpeech": "idiom",
+      "noteZh": "字面意思是「在雷達下方飛行」，引申為躲避監管或公眾目光。文中：They want to fly under the radar."
+    },
+    {
+      "term": "outweigh",
+      "definitionEn": "To be greater or more significant than something else.",
+      "definitionZh": "比……更重要、大於。",
+      "partOfSpeech": "verb",
+      "noteZh": "此詞由 out- (超過) 與 weigh (重量) 組成，表示權衡後的結果。文中：A recent survey by the Marquette University Law School found that 73% of Americans believe the costs of datacenters outweigh their benefits."
+    },
+    {
+      "term": "backlash",
+      "definitionEn": "A strong and negative reaction by a large number of people to a social or political change.",
+      "definitionZh": "強烈的反對、抵制。",
+      "partOfSpeech": "noun",
+      "noteZh": "常用於社會或政治議題，指群眾對某種趨勢的反彈。文中：This frustration is part of a larger, nationwide backlash against the AI industry."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Environment",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/datacenter-developers-us-pollution-rules",
+      "title": "Datacenter developers accused of skirting key US pollution rules",
+      "publishedAt": "2026-09-27T14:00:06Z"
+    },
+    {
+      "name": "The Guardian Business",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/sep/27/democracy-ai-datacenters-power",
+      "title": "Democracy blindsides Silicon Valley’s power players looking to transform the world with AI",
+      "publishedAt": "2026-09-27T11:00:03Z"
+    }
+  ],
+  "story": {
+    "id": "the-turning-point-energy-security-and-conflict",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "global-backlash-against-ai-data-centers-sep-2026",
+        "title": "The Global Conflict Over AI Datacentres",
+        "publishedAt": "2026-09-26T22:13:37.454524Z",
+        "category": "energy",
+        "summaryEn": "Massive AI datacentres are being built globally to support new technology, but they are causing significant local concern. Communities in India and Australia are worried about the high energy and water needs of these facilities. While governments argue that these projects are essential for economic growth, activists fear environmental damage. Industry leaders claim that public fear is often based on exaggerated information from the United States. The debate highlights the growing tension between digital progress and local resource security."
+      },
+      {
+        "slug": "global-climate-crisis-and-energy-security-sep-2026",
+        "title": "Global Energy and Environmental Challenges: A Time of Crisis",
+        "publishedAt": "2026-09-25T22:14:15.606626Z",
+        "category": "energy",
+        "summaryEn": "The world is currently facing major challenges regarding both environmental safety and energy security. In Croatia, local citizens are protesting against illegal waste dumping that has contaminated their land. Meanwhile, the United States is struggling with a low supply of emergency oil reserves due to international conflict. Experts warn that these issues are becoming more complex and harder to solve. Governments are now looking for new ways to protect their resources and public health."
+      },
+      {
+        "slug": "global-backlash-against-ai-datacentre-expansion-sep-2026",
+        "title": "The Global Struggle Over Massive AI Datacentres",
+        "publishedAt": "2026-09-27T00:33:45.849080Z",
+        "category": "energy",
+        "summaryEn": "Large AI datacentres are being built rapidly around the world to support new technology. However, local communities are increasingly worried about the massive amount of energy and water these buildings require. In India, villagers fear for their land and local environment. Meanwhile, Australian officials argue that their own local protests are unfairly influenced by American news. The debate highlights a growing tension between digital growth and local sustainability."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What specific strategy do developers use to bypass the 'major' pollution review process under the Clean Air Act?",
+      "options": {
+        "A": "They bribe government officials to ignore the environmental impact reports.",
+        "B": "They divide a single large project into several smaller, separate permit applications.",
+        "C": "They relocate their datacenters to countries with fewer environmental regulations.",
+        "D": "They claim their facilities use clean energy to avoid the need for any air permits."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，開發商為了規避針對「主要」污染源的嚴格審查，會將大型專案拆分成多個較小的「次要」專案申請許可。選項 A 文章未提及賄賂；選項 C 文章提到的是美國境內的做法，而非搬遷至國外；選項 D 與文章內容矛盾，因為這些設施通常是能源密集型且有污染風險的。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, why might the 'lego permitting' strategy be particularly controversial in places like North Carolina?",
+      "options": {
+        "A": "Because the state has a law that forbids the use of diesel generators.",
+        "B": "Because the project was built without any permits at all.",
+        "C": "Because the facility is being built in an area that already struggles with poor air quality.",
+        "D": "Because the local community was not allowed to vote on the construction of the datacenter."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第四段提到，北卡羅來納州的亞馬遜與 Duke Energy 透過拆分許可避開了主要審查，而該設施正好位於空氣品質已經很差的地區。這暗示了這種規避行為對當地居民健康構成更大威脅。選項 A、B、D 在文中均未提及，且不符合文章關於「規避審查」的論點。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the context of the third paragraph, what does the phrase 'fly under the radar' mean?",
+      "options": {
+        "A": "To avoid being noticed or detected by authorities.",
+        "B": "To complete a project at a very high speed.",
+        "C": "To use advanced technology to monitor air pollution.",
+        "D": "To operate a facility at a very low altitude."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。片語 'fly under the radar' 在此處意指「低調行事」或「躲避監管」，目的是不引起監管機構或公眾的注意，以便順利通過審查。選項 B、C、D 皆為字面解讀或與文意不符的錯誤解釋，無法對應文中提到開發商試圖隱藏污染數據的意圖。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article regarding the relationship between AI development and local communities?",
+      "options": {
+        "A": "AI datacenters are essential for economic growth and should be exempt from all regulations.",
+        "B": "Public opinion is shifting toward a complete ban on all forms of artificial intelligence.",
+        "C": "Tech companies are successfully convincing the public that datacenters are environmentally friendly.",
+        "D": "The rapid expansion of AI infrastructure is facing increasing public resistance due to environmental and transparency concerns."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。文章整體論述了 AI 資料中心擴張帶來的環境與監管爭議，並指出公眾對科技巨頭透過「許可拆分」規避監管感到憤怒，導致社會對 AI 的態度從興奮轉為懷疑與反彈。選項 A 與文章立場相反；選項 B 過於極端，文章僅提到對 datacenters 的反彈；選項 C 與文章提到的公眾憤怒與不信任完全不符。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
