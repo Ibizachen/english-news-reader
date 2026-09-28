@@ -1,0 +1,37 @@
+{
+  "id": "global-conscription-surge",
+  "title": "The Return of the Draft: Global Shifts in Military Service",
+  "subtitle": "As geopolitical tensions rise, nations are re-evaluating the necessity of mandatory military service.",
+  "description": "This series examines the resurgence of conscription policies worldwide, moving beyond headlines to explore the strategic, social, and economic drivers behind these decisions. Readers will gain insight into how modern states balance national security needs with the realities of a changing global labor market.",
+  "category": "politics",
+  "status": "active",
+  "updatedAt": "2026-09-28T06:19:54.526308Z",
+  "cadence": "5-part reading path. Complete series available.",
+  "articles": [
+    {
+      "slug": "global-conscription-surge-part-1",
+      "label": "Part 1",
+      "note": "Explain the historical shift from the post-Cold War trend of abolishing conscription to the current reversal."
+    },
+    {
+      "slug": "global-conscription-surge-part-2",
+      "label": "Part 2",
+      "note": "Focus on the institutional and strategic reasons governments cite for bringing back the draft."
+    },
+    {
+      "slug": "global-conscription-surge-part-3",
+      "label": "Part 3",
+      "note": "Analyze the specific events (e.g., regional conflicts) that served as catalysts for policy changes."
+    },
+    {
+      "slug": "global-conscription-surge-part-4",
+      "label": "Part 4",
+      "note": "Examine the impact on youth, the labor market, and public opinion."
+    },
+    {
+      "slug": "global-conscription-surge-part-5",
+      "label": "Part 5",
+      "note": "Discuss the long-term sustainability of these policies and the questions they leave unanswered."
+    }
+  ]
+}
