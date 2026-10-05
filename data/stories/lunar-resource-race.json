@@ -1,0 +1,37 @@
+{
+  "id": "lunar-resource-race",
+  "title": "The Global Race for Lunar Resource Exploration",
+  "subtitle": "An examination of the legal, technical, and geopolitical challenges surrounding the extraction of resources on the Moon.",
+  "description": "As nations and private companies set their sights on the Moon's mineral and water resources, the world faces a new frontier of competition. This series explores the shift from scientific exploration to industrial exploitation and the implications for international law.",
+  "category": "technology",
+  "status": "active",
+  "updatedAt": "2026-10-05T06:33:41.756095Z",
+  "cadence": "5-part reading path. Complete series available.",
+  "articles": [
+    {
+      "slug": "lunar-resource-race-part-1",
+      "label": "Part 1",
+      "note": "The transition from Cold War-era exploration to modern resource-driven interest, focusing on the discovery of lunar water ice."
+    },
+    {
+      "slug": "lunar-resource-race-part-2",
+      "label": "Part 2",
+      "note": "The roles of state-led agencies (NASA, CNSA) versus private sector entities (SpaceX, Blue Origin)."
+    },
+    {
+      "slug": "lunar-resource-race-part-3",
+      "label": "Part 3",
+      "note": "The conflict between the 1967 Outer Space Treaty and modern commercial extraction ambitions."
+    },
+    {
+      "slug": "lunar-resource-race-part-4",
+      "label": "Part 4",
+      "note": "The economic implications of a lunar supply chain and the potential for a new 'space race' to impact Earth-based industries."
+    },
+    {
+      "slug": "lunar-resource-race-part-5",
+      "label": "Part 5",
+      "note": "The need for a new international framework to manage lunar resources and prevent conflict."
+    }
+  ]
+}
