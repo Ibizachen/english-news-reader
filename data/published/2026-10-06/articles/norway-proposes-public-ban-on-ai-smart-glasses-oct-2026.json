@@ -1,0 +1,172 @@
+{
+  "id": "2026-10-06-norway-proposes-public-ban-on-ai-smart-glasses",
+  "slug": "norway-proposes-public-ban-on-ai-smart-glasses-oct-2026",
+  "publishedAt": "2026-10-06T02:17:04.678281Z",
+  "category": "technology",
+  "title": "Norway Moves to Limit AI Glasses in Public Spaces",
+  "subtitle": "The government plans a temporary ban to address growing privacy concerns over wearable recording technology.",
+  "summary": {
+    "en": "Norway is working on a new law to temporarily ban AI smart glasses in many public areas. The government wants to protect citizens from being recorded without their permission. This decision follows similar restrictions already seen in private businesses like cinemas and restaurants. Meta, the company behind popular smart glasses, says its devices include lights to show when they are recording. Officials hope this temporary rule will lead to a better long-term plan for privacy.",
+    "zh": "挪威正致力於推動一項新法，擬在多個公共區域暫時禁止使用人工智慧智慧眼鏡。政府希望保護公民免於在未經許可下被錄影。此決策跟隨了電影院與餐廳等私人企業已採取的類似限制措施。智慧眼鏡製造商 Meta 表示，其裝置包含指示燈以顯示錄影狀態。官員希望這項暫時性規則能引導出更完善的長期隱私保護計畫。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Norway has taken a significant step toward controlling the use of wearable technology in public. The government in Oslo recently announced plans to introduce a bill that would create a temporary ban on AI-enabled smart glasses in various public locations. If passed, this law would restrict the use of these camera-equipped devices in places such as parks, beaches, museums, shopping centres, schools, and healthcare facilities. This move makes Norway the first major country to propose such a widespread government crackdown on this technology.",
+      "zh": "挪威已朝向管制公共場所穿戴式科技的使用邁出重要一步。奧斯陸（Oslo）政府近期宣布計畫提出一項法案，針對在多種公共場所使用具備人工智慧功能的智慧眼鏡實施暫時性禁令。若法案通過，這項法律將限制在公園、海灘、博物館、購物中心、學校及醫療機構等場所使用這些配備攝影鏡頭的裝置。此舉使挪威成為第一個針對此類科技提出如此廣泛政府管制措施的主要國家。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Guardian, the proposal comes as global concern grows regarding how easily people can be filmed or recorded without their knowledge. Torgeir Micaelsen, Norway’s minister of digital affairs, expressed his worry about the rapid spread of these powerful tools. He stated that the government does not want a society where people feel anxious about being monitored in places where they usually expect privacy. By introducing a temporary ban, the government hopes to gain enough time to study the issue carefully and create permanent rules for the future. Ars Technica reports that the government will also set up an expert group to help develop these long-term regulations.",
+      "zh": "根據《衛報》（The Guardian）報導，這項提案的背景是全球對於民眾在不知情下輕易被拍攝或錄影的擔憂日益增加。挪威數位事務部長米凱爾森（Torgeir Micaelsen）對這些強大工具的迅速普及表達憂慮。他表示，政府不希望社會大眾在通常預期享有隱私的地方，卻因擔心被監控而感到焦慮。透過實施暫時性禁令，政府希望爭取足夠時間審慎研究此議題，並為未來制定永久性規範。科技新聞網站《Ars Technica》報導指出，政府也將成立專家小組，協助研擬這些長期法規。"
+    },
+    {
+      "id": "p3",
+      "en": "This new government action follows a growing trend of private businesses taking matters into their own hands. In the United Kingdom, for example, many restaurant owners and cinema chains have already started to limit or ban the use of smart glasses. These businesses cite concerns about both the privacy of their customers and the risk of film piracy. Within Norway itself, some organizations have already acted independently. Schools in Oslo and the large energy company Equinor have already banned the use of these devices in their offices and other facilities.",
+      "zh": "這項新的政府行動，呼應了私人企業自行採取應對措施的趨勢。例如在英國，許多餐廳老闆與連鎖電影院已開始限制或禁止使用智慧眼鏡。這些企業提出的理由包括對顧客隱私的顧慮，以及電影遭盜錄的風險。在挪威國內，部分組織也已採取獨立行動。奧斯陸的學校以及大型能源公司挪威國家能源公司（Equinor）已禁止在辦公室及其他設施內使用這些裝置。"
+    },
+    {
+      "id": "p4",
+      "en": "At the heart of the debate is the technology produced by companies like Meta, which sells popular smart glasses under the Ray-Ban and Oakley brands. Since 2023, the company has sold at least 9 million pairs of these devices. These glasses allow users to do many things, such as take photos, record videos, make phone calls, and use AI to get information. However, the ability to record others secretly has caused alarm. In France, a child welfare group called E-enfance reported receiving about 20 complaints this year involving women being filmed without their permission, often for the purpose of making social media pranks.",
+      "zh": "這場辯論的核心在於由如 Meta 等公司所生產的科技產品，該公司以雷朋（Ray-Ban）與歐克利（Oakley）品牌銷售熱門的智慧眼鏡。自二零二三年以來，該公司已售出至少九百萬副這類裝置。這些眼鏡讓使用者能執行多項功能，例如拍照、錄影、撥打電話，以及利用人工智慧獲取資訊。然而，秘密錄影他人的能力已引發警覺。在法國，一個名為「兒童童年」（E-enfance）的兒童福利組織報告稱，今年接獲約二十起投訴，涉及女性在未經許可下被拍攝，且通常是為了製作社群媒體惡作劇影片。"
+    },
+    {
+      "id": "p5",
+      "en": "Meta has defended its products by highlighting the safety features included in the design. A spokesperson for the company explained that every pair of glasses with a camera has a bright LED light on the front. This light blinks whenever a photo or video is being taken. The company notes that this light cannot be turned off and that the camera will stop working if someone tries to cover or break it. Meta also encourages its users to be respectful, advising them to stop recording if someone expresses that they do not want to be filmed.",
+      "zh": "Meta 為其產品辯護，強調設計中納入的安全功能。該公司發言人解釋，每一副配備攝影鏡頭的眼鏡前方都有一個明亮的發光二極體（LED）指示燈。每當進行拍照或錄影時，此燈號便會閃爍。公司指出，此燈號無法關閉，且若有人試圖遮蓋或破壞它，攝影鏡頭將停止運作。Meta 也鼓勵使用者展現尊重，建議若有人表示不願被拍攝，應停止錄影。"
+    },
+    {
+      "id": "p6",
+      "en": "While Norway moves forward with its plan, other regions are taking different approaches. In the United States, for instance, the governor of California recently vetoed a bill that would have punished people for using smart glasses to record others in private spaces like changing rooms. The governor noted that the state already has existing laws to handle illegal recording. This shows that governments around the world are still struggling to find the right balance between supporting new technology and protecting the privacy of their citizens.",
+      "zh": "在挪威推進其計畫的同時，其他地區則採取不同作法。例如在美國，加州州長近期否決了一項法案，該法案原定懲罰在更衣室等私人空間使用智慧眼鏡錄影他人者。州長指出，該州已有現行法律處理非法錄影行為。這顯示全球各國政府仍在努力尋求平衡點，試圖在支持新科技與保護公民隱私之間取得妥協。"
+    },
+    {
+      "id": "p7",
+      "en": "As the Norwegian government prepares to submit its bill to parliament, it will need to gain the support of other political parties to ensure the law passes. For now, the focus remains on creating a safe environment where technology can exist without making people feel uncomfortable in their daily lives. The outcome of this debate in Norway could set an important example for other countries that are also trying to decide how to manage the rise of AI-powered wearable devices.",
+      "zh": "隨著挪威政府準備將法案提交國會，必須爭取其他政黨支持以確保法案通過。目前，重點仍放在創造一個安全的環境，讓科技能在不造成民眾日常生活不適的情況下存在。挪威這場辯論的結果，可能為其他同樣在思考如何管理人工智慧穿戴裝置興起的國家，樹立一個重要的範例。"
+    }
+  ],
+  "wordCount": 712,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "crackdown",
+      "definitionEn": "A series of severe measures to restrict or stop a specific activity.",
+      "definitionZh": "嚴厲的打擊行動、取締措施。",
+      "partOfSpeech": "noun",
+      "noteZh": "此字常被誤以為是動詞片語，但在文中作為名詞使用。文中：This move makes Norway the first major country to propose such a widespread government crackdown on this technology."
+    },
+    {
+      "term": "taking matters into their own hands",
+      "definitionEn": "To deal with a problem yourself because you are not satisfied with how others are handling it.",
+      "definitionZh": "親自採取行動（因為不滿意別人的處理方式）。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這是一個常見的慣用語，字面意思與實際含義不同。文中：This new government action follows a growing trend of private businesses taking matters into their own hands."
+    },
+    {
+      "term": "cite",
+      "definitionEn": "To mention something as a reason or an example to support an argument.",
+      "definitionZh": "引用、舉出（理由或例子）。",
+      "partOfSpeech": "verb",
+      "noteZh": "在學術或新聞中常見，但在日常對話中較少見，容易與「site（地點）」混淆。文中：These businesses cite concerns about both the privacy of their customers and the risk of film piracy."
+    },
+    {
+      "term": "balance",
+      "definitionEn": "A state where different things exist in the right or fair amounts.",
+      "definitionZh": "平衡。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（保持平衡），這裡作名詞，指代兩者之間的權衡。文中：This shows that governments around the world are still struggling to find the right balance between supporting new technology and protecting the privacy of their citizens."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/oct/05/norway-temporary-ban-smart-glasses-public-places",
+      "title": "Norway plans temporary ban on smart glasses in some public places",
+      "publishedAt": "2026-10-05T16:11:31Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+      "title": "AI glasses face their first major government crackdown",
+      "publishedAt": "2026-10-05T13:39:30Z"
+    }
+  ],
+  "story": {
+    "id": "openai-agent-breaches-australian-government-systems",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "government-crackdown-on-ai-smart-glasses-oct-2026",
+        "title": "Norway Proposes Temporary Ban on AI Smart Glasses in Public",
+        "publishedAt": "2026-10-05T22:14:04.690860Z",
+        "category": "technology",
+        "summaryEn": "Norway is planning a temporary ban on AI smart glasses in many public spaces. The government wants to protect people from being recorded without their knowledge. This move follows similar restrictions in private businesses like cinemas and restaurants. Meta, the maker of popular smart glasses, says its devices have safety lights to show when they are recording. The government will now study the issue to decide on permanent rules."
+      },
+      {
+        "slug": "lunar-resource-race-part-2",
+        "title": "Key Players in the Lunar Economy",
+        "publishedAt": "2026-10-05T06:32:58.644699Z",
+        "category": "technology",
+        "summaryEn": "This article explores the competition between major space agencies and private companies on the Moon. It highlights the differences between the US-led Artemis Accords and China's lunar program. Readers will learn how public-private partnerships are driving the new space economy."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the primary purpose of the temporary ban proposed by the Norwegian government?",
+      "options": {
+        "A": "To permanently prohibit the sale of all AI-enabled wearable technology in the country.",
+        "B": "To provide the government with a period to evaluate the technology and establish long-term regulations.",
+        "C": "To immediately address the high number of complaints regarding social media pranks in Norway.",
+        "D": "To support private businesses, such as Equinor, that have already implemented their own bans."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，挪威政府提出臨時禁令的目的是為了爭取時間來仔細研究此議題，並制定未來的長期規範。選項 A 錯誤，因為禁令是「臨時的」而非永久禁止銷售。選項 C 錯誤，文中提到關於惡作劇的投訴發生在法國，而非挪威。選項 D 錯誤，政府的行動是為了制定全國性法規，而非單純為了支持特定企業的私人行為。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the information provided, why might Meta's built-in safety feature (the LED light) fail to fully satisfy critics?",
+      "options": {
+        "A": "Because the light is too dim to be seen in bright, outdoor public spaces.",
+        "B": "Because the camera continues to record even if the LED light is covered or broken.",
+        "C": "Because the presence of a light does not guarantee that the person being recorded has given their consent.",
+        "D": "Because Meta has admitted that the light can be deactivated by advanced users."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第四段提到人們對於「未經同意被錄影」感到擔憂，而第五段提到 Meta 的 LED 燈設計僅是為了提醒他人，但這無法解決隱私權的核心問題——即錄影者是否獲得了被攝者的許可。選項 A 與 D 文中皆未提及，屬於無中生有。選項 B 與文章第五段描述的「若遮蓋或破壞燈光，相機將停止運作」相矛盾，故錯誤。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the phrase 'the government will also set up an expert group to help develop these long-term regulations,' what does 'set up' most closely mean?",
+      "options": {
+        "A": "To arrange or organize a group for a specific purpose.",
+        "B": "To place objects in an upright or vertical position.",
+        "C": "To trick or deceive someone into a difficult situation.",
+        "D": "To repair or improve the quality of an existing system."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在此語境下，set up 的意思是「建立、籌組」一個專家小組。選項 B 是指物理上的「豎立」，不符合語意。選項 C 是指「設局陷害」，與文意不符。選項 D 指的是「修復」，但文中是從無到有建立一個小組，並非修復舊系統。因此 A 是最精確的解釋。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "Which statement best summarizes the central theme of the article?",
+      "options": {
+        "A": "Private businesses are more effective than governments at regulating new technology.",
+        "B": "Norway is leading the world in creating a total ban on all forms of AI-powered consumer devices.",
+        "C": "The rapid growth of AI-enabled smart glasses has created a global challenge in balancing technological innovation with privacy rights.",
+        "D": "Meta's smart glasses are the primary cause of social anxiety and illegal recording incidents worldwide."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。全文從挪威的立法行動切入，並對比了私人企業的作法、Meta 的辯護以及美國的案例，核心主旨在於探討各國如何在推廣科技創新與保護公民隱私之間取得平衡。選項 A 過度推論，文中並未比較兩者效率。選項 B 錯誤，禁令僅針對智慧眼鏡且為臨時性，非全面禁止所有 AI 裝置。選項 D 雖然提到 Meta，但 Meta 只是案例之一，並非文章探討的唯一核心原因。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
