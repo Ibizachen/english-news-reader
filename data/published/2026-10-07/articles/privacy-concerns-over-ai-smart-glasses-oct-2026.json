@@ -1,0 +1,152 @@
+{
+  "id": "2026-10-07-privacy-concerns-over-ai-smart-glasses",
+  "slug": "privacy-concerns-over-ai-smart-glasses-oct-2026",
+  "publishedAt": "2026-10-07T22:14:04.584326Z",
+  "category": "technology",
+  "title": "Privacy Watchdog Launches Investigation into Smart Glasses Software",
+  "subtitle": "Australian regulators are taking action against a software developer as public concern grows over hidden recording technology.",
+  "summary": {
+    "en": "The Australian privacy commissioner has started an official investigation into a China-based software company. This follows public anger over cheap smart glasses that can record video without people knowing. Retailers have removed these devices from sale while the government considers new laws. Experts warn that current privacy rules are not strong enough to handle modern wearable technology. The investigation aims to address concerns about how these devices collect and store personal information.",
+    "zh": "澳洲隱私專員已對一家中國軟體公司展開正式調查。此舉源於大眾對於平價智慧眼鏡能在旁人不知情下錄影所引發的憤怒。在政府研擬新法之際，零售商已將這些裝置下架。專家警告，現行的隱私規則不足以應對現代穿戴式科技。本次調查旨在解決關於這些裝置如何蒐集與儲存個人資訊的疑慮。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The Australian privacy regulator has officially opened an investigation into the China-based software company behind the HeyCyan app. This app is used in low-cost smart glasses, which have recently faced intense public criticism. The move comes after widespread concern about the ability of these devices to record high-definition video and capture images without the knowledge of people nearby. According to The Guardian Technology, the investigation was launched after the software maker, Shenzhen Qingcheng, failed to respond to official inquiries regarding its privacy policies and the technology used in its products.",
+      "zh": "澳洲隱私監管機構已正式對開發「HeyCyan」應用程式的中國軟體公司展開調查。該應用程式被用於低價智慧眼鏡，近期引發了強烈的公眾批評。此舉源於大眾對於這些裝置能在旁人不知情的情況下錄製高畫質影片並捕捉影像的廣泛擔憂。根據《衛報科技版》（The Guardian Technology）報導，這項調查是在該軟體製造商「深圳清橙」（Shenzhen Qingcheng）未能回應有關其隱私政策及產品所用技術的官方詢問後所啟動的。"
+    },
+    {
+      "id": "p2",
+      "en": "This development follows a period of significant public pressure. Earlier this year, reports emerged that a discount version of smart glasses was selling out quickly at major retailers. This led to a public petition signed by more than 55,000 people, who have called for the devices to be restricted. Critics have used the term “pervert glasses” to describe the products, reflecting deep fears about how they might be used to film people in private or sensitive areas. In response to these concerns, some local councils have moved to ban the use of such glasses in public spaces like swimming pools. As of this week, the retailer Kmart has removed the devices from its website.",
+      "zh": "此一發展是在面臨巨大的公眾壓力後所產生的。今年稍早，有報導指出一款平價版智慧眼鏡在各大零售商迅速售罄，這引發了一份由超過五萬五千人連署的公開請願，要求限制此類裝置。批評者以「變態眼鏡」一詞來形容這些產品，反映出大眾對於這些眼鏡可能被用於在私人或敏感場所偷拍他人的深層恐懼。為了回應這些疑慮，部分地方議會已採取行動，禁止在游泳池等公共場所使用此類眼鏡。截至本週，零售商凱馬特（Kmart）已將這些裝置從其網站下架。"
+    },
+    {
+      "id": "p3",
+      "en": "The investigation by the Australian privacy commissioner, Carly Kind, focuses specifically on the software provider rather than the retailers or other manufacturers. While companies like Meta and Google are also developing smart glasses, Kind noted that they are not part of this specific investigation. The commissioner explained that current privacy laws are difficult to apply to individuals who use these devices, as the laws mostly focus on how companies handle data. She stated that the entity providing the software is generally the one responsible for collecting and holding information under existing privacy rules.",
+      "zh": "澳洲隱私專員卡莉·金德（Carly Kind）所進行的調查，重點明確指向軟體供應商，而非零售商或其他製造商。儘管如 Meta 和 Google 等公司也在開發智慧眼鏡，但金德指出，這些公司並不在本次調查範圍內。專員解釋說，現行的隱私法規難以適用於使用這些裝置的個人，因為法律主要關注企業如何處理資料。她表示，根據現有的隱私規則，提供軟體的實體通常是負責蒐集與保存資訊的一方。"
+    },
+    {
+      "id": "p4",
+      "en": "This situation in Australia is part of a global conversation about the risks of wearable technology. As reported by The Guardian Technology, researchers at the University of Sydney analyzed hundreds of videos recorded on smart glasses over the last few years. Their findings suggest that there is a growing trend toward discreet, point-of-view recording that makes it very difficult for bystanders to know they are being filmed. This trend is causing alarm among privacy advocates who worry that the right to be left alone in public is disappearing.",
+      "zh": "澳洲的這種情況是全球關於穿戴式科技風險討論的一部分。據《衛報科技版》報導，雪梨大學的研究人員分析了過去幾年內由智慧眼鏡錄製的數百段影片。研究結果顯示，一種隱蔽的「第一人稱視角」錄影趨勢正日益增長，使得旁人極難察覺自己正在被拍攝。這種趨勢引起了隱私權倡議者的警覺，他們擔心在公共場合保有個人空間的權利正逐漸消失。"
+    },
+    {
+      "id": "p5",
+      "en": "Similar concerns are being raised internationally. Recent reports indicate that authorities in Norway are also working on new laws to temporarily ban AI smart glasses in many public areas. The goal of these international efforts is to protect citizens from being recorded without their permission, as the technology becomes smaller, cheaper, and more common.",
+      "zh": "國際間也出現了類似的擔憂。近期報導顯示，挪威當局也正致力於制定新法，計畫在許多公共區域暫時禁止人工智慧（AI）智慧眼鏡。這些國際行動的目標是在科技變得更小巧、更廉價且更普及之際，保護公民免於在未經許可的情況下被錄影。"
+    },
+    {
+      "id": "p6",
+      "en": "Looking ahead, the Australian government is considering changes to the national privacy act to better manage these risks. Commissioner Kind explained that the current test used to judge if data collection is necessary will likely be replaced by a “fair and reasonable” test. This new standard would require companies to prove that individuals have a real choice about whether their personal information is collected. It would also place a stronger focus on the best interests of children, who are especially vulnerable to unwanted surveillance.",
+      "zh": "展望未來，澳洲政府正考慮修改國家隱私法，以更妥善地管理這些風險。金德專員解釋說，目前用來判斷資料蒐集是否必要的測試，很可能會被一項「公平且合理」的測試所取代。這項新標準將要求企業證明個人對於其個人資訊是否被蒐集擁有真正的選擇權。此外，新法也將更著重於兒童的最佳利益，因為兒童特別容易受到不必要的監控。"
+    },
+    {
+      "id": "p7",
+      "en": "These proposed reforms are seen as a necessary step to keep up with the rapid development of new technology. From personal assistant gadgets to recording badges, the range of wearable devices is expanding quickly. Commissioner Kind expressed hope that these changes will provide more comfort to the public by raising the standards for what kind of personal information these devices are allowed to collect. For now, the investigation into Shenzhen Qingcheng remains a key test for how regulators can hold technology companies accountable in an era of constant, hidden recording.",
+      "zh": "這些擬議的改革被視為跟上科技快速發展的必要步驟。從個人助理裝置到錄影徽章，穿戴式裝置的種類正迅速擴張。金德專員表示，希望這些變革能透過提高這些裝置獲准蒐集個人資訊的標準，讓大眾感到更安心。目前，針對深圳清橙的調查，仍是監管機構如何在一個持續且隱蔽錄影的時代，追究科技公司責任的一項關鍵測試。"
+    }
+  ],
+  "wordCount": 678,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "selling out",
+      "definitionEn": "To be completely sold because of high demand.",
+      "definitionZh": "銷售一空，賣光。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "容易誤解為「出賣」，這裡指商品熱銷。文中：Earlier this year, reports emerged that a discount version of smart glasses was selling out quickly at major retailers."
+    },
+    {
+      "term": "keep up with",
+      "definitionEn": "To move or progress at the same speed as something else.",
+      "definitionZh": "跟上（進度、發展）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見於日常對話，但在科技新聞中指法規更新速度需追趕技術發展。文中：These proposed reforms are seen as a necessary step to keep up with the rapid development of new technology."
+    },
+    {
+      "term": "test",
+      "definitionEn": "A standard or criterion used to judge or decide something.",
+      "definitionZh": "標準、準則。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作「考試、測試」，這裡指法律上的判斷標準。文中：Commissioner Kind explained that the current test used to judge if data collection is necessary will likely be replaced by a “fair and reasonable” test."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/2026/oct/07/privacy-regulator-probe-kmart-anko-meta-smartglasses-australia",
+      "title": "Privacy watchdog launches investigation into China-based company behind Kmart ‘pervert glasses’ app",
+      "publishedAt": "2026-10-07T02:00:15Z"
+    }
+  ],
+  "story": {
+    "id": "openai-agent-breaches-australian-government-systems",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "norway-proposes-public-ban-on-ai-smart-glasses-oct-2026",
+        "title": "Norway Moves to Limit AI Glasses in Public Spaces",
+        "publishedAt": "2026-10-06T02:17:04.678281Z",
+        "category": "technology",
+        "summaryEn": "Norway is working on a new law to temporarily ban AI smart glasses in many public areas. The government wants to protect citizens from being recorded without their permission. This decision follows similar restrictions already seen in private businesses like cinemas and restaurants. Meta, the company behind popular smart glasses, says its devices include lights to show when they are recording. Officials hope this temporary rule will lead to a better long-term plan for privacy."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What was the primary reason the Australian privacy regulator initiated an investigation into Shenzhen Qingcheng?",
+      "options": {
+        "A": "The company was selling smart glasses directly to Australian consumers.",
+        "B": "The company failed to reply to official inquiries regarding their privacy policies.",
+        "C": "The company was accused of illegally filming people in swimming pools.",
+        "D": "The company refused to pull their products from major retailers like Kmart."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據第一段結尾，調查啟動的原因是該軟體商 Shenzhen Qingcheng 未能回應有關其隱私政策與技術的官方詢問。選項 A 錯誤，因為該公司是軟體提供商，並非直接銷售硬體給消費者的零售商；選項 C 錯誤，這是公眾對該產品的擔憂，而非調查啟動的直接原因；選項 D 錯誤，Kmart 下架產品是公眾壓力的結果，而非調查的原因。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the information provided, why are current Australian privacy laws considered ineffective regarding smart glasses?",
+      "options": {
+        "A": "They only apply to companies based in Australia, not China.",
+        "B": "They are designed to monitor hardware manufacturers rather than software developers.",
+        "C": "They focus on corporate data handling rather than the behavior of individual users.",
+        "D": "They do not cover video recording devices that are sold at low prices."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第三段，專員 Carly Kind 指出目前的隱私法難以適用於個人使用者，因為法律主要規範公司如何處理數據，而非限制個人如何使用這些設備進行拍攝。選項 A 錯誤，文中未提及地理管轄權是主要障礙；選項 B 錯誤，文中提到軟體提供商正是被規範的對象；選項 D 錯誤，法律的缺陷在於規範對象的性質，而非產品的價格。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fourth paragraph, what does the word 'discreet' mean in the context of the recording trend?",
+      "options": {
+        "A": "Unnoticeable or inconspicuous.",
+        "B": "Careful and thoughtful in speech.",
+        "C": "High-quality and professional.",
+        "D": "Illegal and unauthorized."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在此語境中，「discreet」指的是這種錄影方式非常隱密，讓旁人難以察覺自己正在被拍攝。選項 B 雖然是該詞的常見含義，但在這裡與錄影行為無關；選項 C 是對錄影品質的描述，而非錄影方式；選項 D 雖然這些錄影可能涉及隱私問題，但「discreet」本身的定義是「不引人注目的」，而非直接等同於非法。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central focus of this article?",
+      "options": {
+        "A": "The success of HeyCyan smart glasses in the global retail market.",
+        "B": "The technical specifications of high-definition wearable cameras.",
+        "C": "The international effort to ban all forms of AI-powered wearable technology.",
+        "D": "The regulatory challenges and privacy concerns posed by emerging wearable recording devices."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。本文整體探討了智慧眼鏡等可穿戴設備帶來的隱私風險、公眾擔憂、監管機構（如澳洲隱私專員）的調查行動，以及政府為應對科技發展而考慮修改隱私法的過程。選項 A 錯誤，文章重點在於對該產品的批評與調查；選項 B 錯誤，文章並未深入討論硬體規格；選項 C 錯誤，文中提到挪威考慮暫時禁止，但並非全球性地禁止所有可穿戴科技。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
