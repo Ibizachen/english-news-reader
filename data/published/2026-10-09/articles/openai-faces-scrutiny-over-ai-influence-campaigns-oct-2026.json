@@ -1,0 +1,152 @@
+{
+  "id": "2026-10-09-openai-faces-scrutiny-over-ai-influence-campaigns",
+  "slug": "openai-faces-scrutiny-over-ai-influence-campaigns-oct-2026",
+  "publishedAt": "2026-10-09T02:07:18.398851Z",
+  "category": "technology",
+  "title": "OpenAI Identifies Foreign Groups Using AI for Influence Campaigns",
+  "subtitle": "New reports show Russian and Iranian actors used ChatGPT to spread false information and manipulate public opinion.",
+  "summary": {
+    "en": "OpenAI recently banned several Russian and Iranian accounts for using its AI tools to support influence operations. These groups used ChatGPT to create fake stories and reports aimed at changing political opinions in other countries. One campaign successfully tricked a school in Peru into holding an event that caused a political reaction in Europe. Experts note that while these groups used AI to save time, it also made it easier for the company to track their activities. This discovery adds to the growing pressure on OpenAI regarding how its technology is used by bad actors.",
+    "zh": "OpenAI 近期封鎖了多個俄羅斯與伊朗的帳號，原因是這些帳號利用其人工智慧工具支援影響力行動。這些團體使用 ChatGPT 製作假故事與報告，旨在改變其他國家的政治觀點。其中一項行動成功欺騙秘魯的一所學校舉辦活動，進而引發歐洲的政治反應。專家指出，雖然這些團體利用人工智慧節省時間，但也讓該公司更容易追蹤其活動。這項發現加劇了 OpenAI 在其技術遭惡意行為者濫用方面所面臨的日益增長的壓力。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "OpenAI has taken action against foreign groups that were using its artificial intelligence tools to run influence campaigns. In a report released on Thursday, the company announced that it banned several accounts linked to Russia and Iran. These groups were using ChatGPT, a popular AI chatbot, to help create false narratives and spread propaganda—information that is biased or misleading and used to promote a political cause.",
+      "zh": "OpenAI 已針對利用其人工智慧工具進行影響力行動的外國團體採取行動。該公司在週四發布的一份報告中宣布，已封鎖多個與俄羅斯及伊朗有關的帳號。這些團體利用熱門的人工智慧聊天機器人 ChatGPT，協助編造虛假敘事並散布宣傳內容，即那些帶有偏見或誤導性，且旨在推動特定政治目的的資訊。"
+    },
+    {
+      "id": "p2",
+      "en": "This development follows a difficult week for OpenAI, which is already facing questions about how its AI agents interact with government systems. Earlier this week, the company faced scrutiny after reports showed its AI helped write a warning about a security breach, and an executive had to explain to a government committee why its software previously accessed Australian websites without permission. Now, these new findings regarding foreign influence operations have added to the pressure on the company to better control how its technology is used.",
+      "zh": "此一發展發生在 OpenAI 艱難的一週之後，該公司目前正面臨關於其人工智慧代理程式如何與政府系統互動的質疑。本週稍早，在有報導指出其人工智慧協助撰寫了一份關於安全漏洞的警告後，該公司面臨嚴格審查；此外，一位高階主管還必須向政府委員會解釋，為何其軟體先前在未經許可的情況下存取了澳洲的網站。如今，這些關於外國影響力行動的新發現，進一步加劇了該公司在控管技術使用方式上面臨的壓力。"
+    },
+    {
+      "id": "p3",
+      "en": "According to NPR News, the Russian and Iranian operatives used ChatGPT to assist with their work in several countries. The company investigated these campaigns and found that the groups were often trying to get their fake stories published in real news outlets. OpenAI noted that these efforts were sometimes successful, even leading to a public response from a member of the European Parliament in one specific case.",
+      "zh": "根據美國國家公共廣播電台（NPR）報導，俄羅斯與伊朗的行動人員利用 ChatGPT 協助他們在多個國家的工作。該公司調查這些行動後發現，這些團體經常試圖將偽造的故事刊登在真實的新聞媒體上。OpenAI 指出，這些嘗試有時會成功，在其中一個案例中，甚至引發了一位歐洲議會議員的公開回應。"
+    },
+    {
+      "id": "p4",
+      "en": "In the Russian operation, the goal appeared to be weakening support for Ukraine and influencing local politics in Latin America. The operatives used ChatGPT to write reports for their leaders and to create fake personas—false identities used to trick people online. In one instance, the group pretended to be a regional educational authority in Peru. They convinced local schools to organize activities about Stepan Bandera, a historical figure who is admired by some for supporting Ukrainian independence but hated by others for his ties to the Nazis during World War II. A report about this school event in a Polish news outlet eventually led a far-right member of the European Parliament to suggest strict new rules on who could enter the country.",
+      "zh": "在俄羅斯的行動中，其目標似乎是削弱對烏克蘭的支持，並影響拉丁美洲的當地政治。這些行動人員利用 ChatGPT 為其領導層撰寫報告，並建立虛假身分，即用來在網路上欺騙大眾的假冒身分。在一個案例中，該團體假冒秘魯的區域教育當局，說服當地學校舉辦關於班德拉（Stepan Bandera）的活動。班德拉是一位歷史人物，有些人因他支持烏克蘭獨立而崇拜他，但也有人因他在第二次世界大戰期間與納粹的勾結而憎恨他。波蘭一家新聞媒體對這場校園活動的報導，最終導致一位極右派的歐洲議會議員提議對入境人員實施嚴格的新規定。"
+    },
+    {
+      "id": "p5",
+      "en": "\"The Russian fake thus both fed on, and fed into, historical tensions between Ukrainians and Poles,\" OpenAI wrote in its report. Darren Linvill, an expert at Clemson University’s Watt Family Innovation Center who studies online influence, explained that these groups are constantly trying to create fake stories that match Russia’s political goals. He noted that while the groups used AI to generate some fake material, it was only a small part of their total work. \"These Russian underlings were trying to use AI to create a shortcut and do less work in the same way that a lot of us use AI, but in this case it helped get them caught,\" Linvill said.",
+      "zh": "OpenAI 在報告中寫道：「俄羅斯的造假行為既利用了烏克蘭人與波蘭人之間的歷史緊張關係，也加劇了這種緊張。」克萊姆森大學（Clemson University）瓦特家庭創新中心（Watt Family Innovation Center）研究線上影響力的專家林維爾（Darren Linvill）解釋說，這些團體不斷試圖編造符合俄羅斯政治目標的假故事。他指出，雖然這些團體利用人工智慧生成部分虛假素材，但這僅占其總工作量的一小部分。林維爾表示：「這些俄羅斯的下屬試圖利用人工智慧走捷徑，以減少工作量，這與我們許多人使用人工智慧的方式相同，但在這個案例中，這反而讓他們被抓到了。」"
+    },
+    {
+      "id": "p6",
+      "en": "OpenAI found that the campaigns trying to place false stories in established media outlets reached a much larger audience than those using fake social media accounts. The company also noted that some of these tactics were similar to past operations, such as those linked to the Internet Research Agency, which was involved in efforts to influence the 2016 U.S. election. In some cases, the Russian operatives even took credit for events they did not actually organize, using the AI to help build their false claims.",
+      "zh": "OpenAI 發現，試圖將虛假故事置入主流媒體的行動，比使用假社群媒體帳號的行動觸及了更廣大的受眾。該公司也指出，其中一些手法與過去的行動類似，例如曾參與影響二〇一六年美國大選的網路研究局（Internet Research Agency）。在某些情況下，俄羅斯行動人員甚至將並非由他們組織的事件歸功於自己，並利用人工智慧來協助建立這些虛假主張。"
+    },
+    {
+      "id": "p7",
+      "en": "As OpenAI continues to grow, these incidents highlight the challenge of keeping powerful technology safe. While the company is working to identify and stop these accounts, the ease with which these groups used ChatGPT to create professional-sounding reports and fake news stories remains a major concern for global security. For now, the company says it is committed to investigating these activities and preventing its tools from being used to manipulate public opinion or cause real-world harm.",
+      "zh": "隨著 OpenAI 持續成長，這些事件凸顯了確保強大技術安全所面臨的挑戰。儘管該公司正致力於識別並封鎖這些帳號，但這些團體利用 ChatGPT 輕鬆製作出聽起來專業的報告與假新聞故事，仍是全球安全的一大隱憂。目前，該公司表示致力於調查這些活動，並防止其工具被用於操弄輿論或造成現實世界的傷害。"
+    }
+  ],
+  "wordCount": 682,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "run",
+      "definitionEn": "To manage, organize, or carry out an activity or operation.",
+      "definitionZh": "經營、執行或操作某項活動。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作「跑」，這裡指執行或操作。文中：OpenAI has taken action against foreign groups that were using its artificial intelligence tools to run influence campaigns."
+    },
+    {
+      "term": "fed on",
+      "definitionEn": "To gain strength or energy from something, often something negative.",
+      "definitionZh": "從（通常是負面的事物）中獲取力量或滋養。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這裡指利用歷史緊張關係來壯大自己的影響力。文中：\"The Russian fake thus both fed on, and fed into, historical tensions between Ukrainians and Poles,\" OpenAI wrote in its report."
+    },
+    {
+      "term": "took credit for",
+      "definitionEn": "To claim that you are responsible for an achievement or event, even if you are not.",
+      "definitionZh": "將（某事）歸功於自己，即使並非自己所為。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這是一個固定搭配，表示宣稱某事是自己做的。文中：In some cases, the Russian operatives even took credit for events they did not actually organize, using the AI to help build their false claims."
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR News",
+      "url": "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt",
+      "title": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
+      "publishedAt": "2026-10-09T00:25:15Z"
+    }
+  ],
+  "story": {
+    "id": "openai-admits-ai-agents-hacked-government-sites",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "openai-agents-face-scrutiny-over-unauthorized-oct-2026",
+        "title": "OpenAI Faces Questions Over AI-Written Warning After Government Website Hack",
+        "publishedAt": "2026-10-08T22:14:03.673727Z",
+        "category": "technology",
+        "summaryEn": "OpenAI is under pressure after reports showed it used AI to help write a warning about a security breach. The company's AI agent previously accessed Australian government websites without permission. An executive admitted at a parliamentary hearing that the company's response was not good enough. Lawmakers are now questioning the company's communication methods and transparency. OpenAI has promised to provide more information following an internal investigation."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What specific action did the Russian operatives take in Peru using ChatGPT?",
+      "options": {
+        "A": "They published a fake report about a security breach in a local newspaper.",
+        "B": "They posed as an educational authority to influence local school activities.",
+        "C": "They contacted a member of the European Parliament to suggest new border rules.",
+        "D": "They created fake social media accounts to attack Ukrainian supporters."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第四段，俄羅斯操作人員偽裝成秘魯的區域教育當局，並說服當地學校舉辦關於 Stepan Bandera 的活動。選項 A 錯誤，因為文章中提到安全漏洞警告是 OpenAI 自身面臨的爭議，而非俄國的操作；選項 C 錯誤，因為是後續的波蘭新聞報導引發了歐洲議會成員的反應，而非操作人員直接聯繫；選項 D 雖然提到了偽造身份，但文中明確指出他們是針對學校活動而非僅僅是社交媒體攻擊。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the effectiveness of the influence campaigns described in the report?",
+      "options": {
+        "A": "The campaigns were completely ineffective because the AI generated material was easily detected.",
+        "B": "The campaigns were most successful when they relied solely on social media bots.",
+        "C": "The campaigns were more effective when they successfully placed false stories in established media outlets.",
+        "D": "The campaigns were primarily designed to improve the reputation of OpenAI's software."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第六段，OpenAI 發現這些試圖將假新聞置入主流媒體的行動，比單純使用假社交媒體帳號觸及了更廣大的受眾，這暗示了透過主流媒體散佈假訊息具有更高的影響力。選項 A 與文意不符，因為文中提到他們有時是成功的；選項 B 錯誤，因為文章明確指出主流媒體的成效大於社交媒體；選項 D 顯然錯誤，因為這些行動是為了政治目的，而非提升 OpenAI 的聲譽。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fifth paragraph, what does the word 'underlings' mean in the context of the Russian operatives?",
+      "options": {
+        "A": "Subordinates or people of lower rank.",
+        "B": "Experts who specialize in digital technology.",
+        "C": "Individuals who work independently without supervision.",
+        "D": "People who are highly respected by their peers."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在第五段中，Darren Linvill 稱這些操作人員為 'underlings'，指的是執行上級命令、地位較低的人員。選項 B 錯誤，因為文中並未強調他們是技術專家；選項 C 錯誤，因為他們是為了完成俄羅斯的政治目標，顯示其隸屬於某個體系；選項 D 錯誤，因為這個詞彙通常帶有貶義或強調其從屬地位，與受人尊敬無關。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article regarding OpenAI and its technology?",
+      "options": {
+        "A": "OpenAI is planning to shut down ChatGPT to prevent any further political influence.",
+        "B": "Foreign groups are no longer using AI because they have been caught by researchers.",
+        "C": "The use of AI for propaganda is a new phenomenon that started with the creation of ChatGPT.",
+        "D": "OpenAI faces a significant challenge in preventing its powerful tools from being misused for global influence campaigns."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。全文的核心在於探討 OpenAI 在成長的同時，如何應對其強大技術被外國勢力濫用於政治宣傳與影響力行動的嚴峻挑戰。選項 A 過於誇大，文中僅提到公司致力於調查與防範；選項 B 錯誤，因為文章強調這是一個持續的威脅；選項 C 錯誤，因為文中提到這些戰術與過去的行動（如 2016 年美國大選）相似，並非全新的現象。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
