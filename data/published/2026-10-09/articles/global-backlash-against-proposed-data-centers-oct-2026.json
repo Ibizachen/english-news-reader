@@ -1,0 +1,166 @@
+{
+  "id": "2026-10-09-global-backlash-against-proposed-data-centers",
+  "slug": "global-backlash-against-proposed-data-centers-oct-2026",
+  "publishedAt": "2026-10-09T22:14:05.519198Z",
+  "category": "energy",
+  "title": "The Growing Conflict Over AI Data Centers",
+  "subtitle": "Communities around the world are pushing back against the massive energy needs of new technology projects.",
+  "summary": {
+    "en": "Local communities are increasingly opposing the construction of large artificial intelligence data centers. Residents worry that these facilities use too much electricity and water while providing few local benefits. Recent examples include protests in New York and legal pauses on construction in Finland. These conflicts highlight a global tension between technological growth and local environmental protection. Governments are now struggling to balance the demand for AI infrastructure with the needs of their citizens.",
+    "zh": "地方社區正日益反對興建大型人工智慧資料中心。居民擔心這些設施消耗過多電力與水資源，卻未能為當地帶來實質利益。近期的案例包括紐約的抗議活動以及芬蘭因法律問題而暫停施工的事件。這些衝突凸顯了全球在科技成長與在地環境保護之間的緊張關係。各國政府目前正努力在人工智慧基礎設施的需求與公民需求之間取得平衡。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The global race to build infrastructure for artificial intelligence is hitting a major wall. Across the world, communities are pushing back against the construction of massive data centers—buildings that house the powerful computers needed to run AI systems. While these projects were once welcomed as signs of progress, residents and local governments are now questioning the high cost of the electricity, water, and land these facilities require.",
+      "zh": "全球競相建設人工智慧基礎設施的浪潮正遭遇重大阻礙。世界各地的社區紛紛抵制大型資料中心的興建，這些建築是用來容納運作人工智慧系統所需的高效能電腦。儘管這些計畫過去曾被視為進步的象徵，但如今居民與地方政府開始質疑這些設施對電力、水資源與土地的龐大需求所帶來的沉重代價。"
+    },
+    {
+      "id": "p2",
+      "en": "This tension is clearly visible in East Fishkill, New York. For decades, this town was a hub for the technology industry, famously hosting IBM for nearly 50 years. However, when news arrived in early 2026 that a developer planned to build a massive 1-gigawatt data center, the community reacted with anger rather than excitement. According to The Guardian, residents organized rallies and successfully pushed the town to pass a three-year ban on large data centers. This temporary rule stops any new projects larger than 20 megawatts until 2029, giving officials time to study how such facilities might affect local water supplies and the environment.",
+      "zh": "這種緊張關係在紐約州的東菲什基爾（East Fishkill）顯而易見。數十年來，該鎮一直是科技產業的重鎮，最著名的是曾接待國際商業機器公司（IBM）長達近五十年。然而，當二零二六年年初傳出有開發商計畫興建一座十億瓦（1-gigawatt）的巨型資料中心時，社區民眾的反應卻是憤怒而非興奮。根據《衛報》（The Guardian）報導，居民組織了集會，並成功推動鎮政府通過一項為期三年的大型資料中心禁令。這項臨時規定在二零二九年前禁止任何超過二十百萬瓦（20-megawatts）的新建案，讓官員有時間研究這類設施可能對當地供水與環境造成的影響。"
+    },
+    {
+      "id": "p3",
+      "en": "The conflict in East Fishkill started when residents discovered a filing with the New York Independent System Operator (NYISO). NYISO is an independent group that manages the state’s high-voltage power grid. Any company wanting to build a large project must ask NYISO for permission to connect to the electricity network. Residents were shocked to learn that the proposed data center would consume more electricity than the entire city of Buffalo, even though East Fishkill has a much smaller population. Melissa Hoffmann, a local organizer with the group Food & Water Watch, told The Guardian that residents are speaking out to stop the project before it even reaches the town’s formal application process.",
+      "zh": "東菲什基爾的衝突始於居民發現了一份提交給紐約獨立系統營運商（NYISO）的文件。紐約獨立系統營運商是一個管理該州高壓電網的獨立機構。任何想要興建大型計畫的公司都必須向該機構申請連接電力網路的許可。居民震驚地發現，這座擬建的資料中心所消耗的電力竟然比整個水牛城（Buffalo）還要多，儘管東菲什基爾的人口規模小得多。當地組織「食物與水觀察」（Food & Water Watch）的成員梅麗莎·霍夫曼（Melissa Hoffmann）告訴《衛報》，居民正挺身而出，試圖在該計畫進入鎮政府正式審核程序前就將其擋下。"
+    },
+    {
+      "id": "p4",
+      "en": "This is not an isolated incident. As reported by previous coverage, large infrastructure projects are facing delays globally due to environmental and security concerns. In Finland, for example, Google was recently ordered to stop work on two data center sites. The Finnish government stated that the company failed to finish the necessary environmental impact assessments—studies that look at how a project will change the local nature and wildlife—before starting construction. These delays show that companies can no longer assume they will be welcomed without proving that their projects are safe and sustainable.",
+      "zh": "這並非單一事件。正如先前的報導所述，由於環境與安全疑慮，大型基礎設施計畫在全球各地都面臨延宕。例如在芬蘭，谷歌（Google）最近被勒令停止兩處資料中心工地的施工。芬蘭政府指出，該公司在動工前未能完成必要的環境影響評估，即針對計畫如何改變當地自然環境與野生動物的研究。這些延宕顯示，企業若無法證明其計畫安全且永續，將無法再理所當然地認為會受到當地歡迎。"
+    },
+    {
+      "id": "p5",
+      "en": "Experts suggest that this growing divide is about more than just one building or one town. Many communities are beginning to ask whether AI infrastructure provides enough local benefit to justify its enormous appetite for resources. Tanya Radford, a resident and professor in East Fishkill, noted that her community is not against technology itself. Instead, she explained that residents need to be careful about how new energy usage affects the character and long-term health of their town. She believes that things are moving too fast and that communities need to get their plans in order before allowing such massive developments.",
+      "zh": "專家認為，這種日益擴大的分歧不僅僅是關於某一棟建築或某一個城鎮的問題。許多社區開始質疑，人工智慧基礎設施是否能提供足夠的在地利益，以證明其對資源的巨大需求是合理的。身為東菲什基爾居民兼教授的譚雅·雷德福（Tanya Radford）指出，她的社區並非反對科技本身。相反地，她解釋說居民需要謹慎看待新的能源使用方式如何影響城鎮的特質與長期健康。她認為目前發展速度過快，社區在允許如此大規模的開發案之前，必須先規劃妥當。"
+    },
+    {
+      "id": "p6",
+      "en": "For the technology companies, these setbacks create a difficult situation. They need massive amounts of power to train and run AI models, but they are finding that the public is no longer willing to accept these projects without strict oversight. The developer in East Fishkill has appealed the town’s ban, showing that the fight is far from over. Meanwhile, other towns are watching closely to see how these legal battles play out.",
+      "zh": "對科技公司而言，這些挫折造成了棘手的局面。他們需要龐大的電力來訓練與運作人工智慧模型，但他們發現大眾已不再願意在沒有嚴格監督的情況下接受這些計畫。東菲什基爾的開發商已對該鎮的禁令提出上訴，顯示這場爭鬥遠未結束。與此同時，其他城鎮也正密切關注這些法律訴訟的結果。"
+    },
+    {
+      "id": "p7",
+      "en": "What comes next remains uncertain. As the demand for AI continues to rise, the pressure on power grids will only increase. If companies cannot find ways to build these centers without hurting local resources, they may face even more resistance. For now, the message from towns like East Fishkill and countries like Finland is clear: the era of automatic approval for big tech projects is coming to an end. Communities are demanding a seat at the table, and they are willing to use legal and political tools to protect their environment and their way of life.",
+      "zh": "未來走向仍充滿不確定性。隨著對人工智慧的需求持續攀升，電網承受的壓力只會與日俱增。如果企業無法在不損害當地資源的前提下找到興建這些中心的方法，他們可能會面臨更強烈的抵制。目前，來自東菲什基爾等城鎮以及芬蘭等國家的訊息相當明確：大型科技計畫自動獲得批准的時代已經結束。社區正要求參與決策，並願意運用法律與政治手段來保護他們的環境與生活方式。"
+    }
+  ],
+  "wordCount": 712,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "hitting a major wall",
+      "definitionEn": "To encounter a significant obstacle that prevents further progress.",
+      "definitionZh": "遇到重大阻礙，無法繼續前進。",
+      "partOfSpeech": "idiom",
+      "noteZh": "此處為比喻用法，並非真的撞到牆。文中：The global race to build infrastructure for artificial intelligence is hitting a major wall."
+    },
+    {
+      "term": "pushing back",
+      "definitionEn": "To show opposition or resistance to a plan or idea.",
+      "definitionZh": "反對、抵制（某項計畫或想法）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見作名詞（推），這裡指對政策或建設表達反對意見。文中：Across the world, communities are pushing back against the construction of massive data centers—buildings that house the powerful computers needed to run AI systems."
+    },
+    {
+      "term": "appetite",
+      "definitionEn": "A strong desire or demand for something, especially resources.",
+      "definitionZh": "（對資源的）強烈需求或渴望。",
+      "partOfSpeech": "noun (metaphorical)",
+      "noteZh": "原意指食慾，此處比喻對電力與土地等資源的巨大消耗。文中：Many communities are beginning to ask whether AI infrastructure provides enough local benefit to justify its enormous appetite for resources."
+    },
+    {
+      "term": "play out",
+      "definitionEn": "To happen or develop in a particular way.",
+      "definitionZh": "（事件）發展、上演。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "指事情的演變過程，而非字面上的「玩耍」。文中：Meanwhile, other towns are watching closely to see how these legal battles play out."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/us-news/2026/oct/09/datacenter-backlash-ibm-east-fishkill-new-york",
+      "title": "‘This is not an anti-tech town’: backlash to datacenter in city once home to IBM",
+      "publishedAt": "2026-10-09T13:00:28Z"
+    }
+  ],
+  "story": {
+    "id": "google-halted-on-data-center-projects-in-finland",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "environmental-concerns-halt-data-center-projects-oct-2026",
+        "title": "Energy and Environment: New Challenges for Big Projects",
+        "publishedAt": "2026-10-08T22:14:03.673727Z",
+        "category": "energy",
+        "summaryEn": "Major infrastructure projects are facing significant delays due to environmental and security concerns. In Finland, Google has been ordered to stop work on two data centers for failing to complete environmental assessments. Meanwhile, the UK Ministry of Defence has raised objections to several planned windfarms over radar interference fears. These cases highlight the complex balance between building new energy infrastructure and following strict legal requirements. Industry groups and government officials are now working to find solutions that satisfy both national security and clean energy goals."
+      },
+      {
+        "slug": "google-halted-on-data-center-projects-in-finland-oct-2026",
+        "title": "Google Ordered to Pause Data Center Construction in Finland",
+        "publishedAt": "2026-10-06T22:14:00.995719Z",
+        "category": "energy",
+        "summaryEn": "Google has been told to stop work on two data center sites in Finland. The Finnish government says the company failed to complete necessary environmental impact assessments before starting construction. Large areas of forest were cleared without proper permission or study. Google admits it did not meet its own standards and has promised to follow local guidance. The incident highlights the pressure on companies to build digital infrastructure quickly."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the specific purpose of the three-year ban passed in East Fishkill?",
+      "options": {
+        "A": "To permanently prevent any new technology companies from moving into the town.",
+        "B": "To provide time for officials to evaluate the environmental and water-related impacts of data centers.",
+        "C": "To force the developer to reduce the size of the project from 1 gigawatt to 20 megawatts.",
+        "D": "To stop the NYISO from managing the town's high-voltage power grid connections."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，該禁令的目的是「giving officials time to study how such facilities might affect local water supplies and the environment」，即讓官員有時間評估設施對當地水資源及環境的影響。選項 A 錯誤，禁令是暫時的（three-year ban），並非永久禁止科技公司進駐；選項 C 錯誤，禁令是針對大於 20 兆瓦的計畫，並非要求開發商將規模縮小至該標準；選項 D 錯誤，NYISO 的權限並未因該禁令而改變。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, why might other towns be 'watching closely' the situation in East Fishkill?",
+      "options": {
+        "A": "They are hoping to attract the data center developer if East Fishkill rejects them.",
+        "B": "They are worried that their own power grids will be taken over by the NYISO.",
+        "C": "They are facing similar pressures and want to see if legal challenges against tech giants are effective.",
+        "D": "They want to learn how to speed up the approval process for AI infrastructure projects."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第六段提到，其他城鎮正在密切觀察該法律訴訟的結果，結合文章前後段提到全球各地（如芬蘭）皆面臨類似的基礎設施爭議，可推論其他城鎮正面臨相同的資源壓力，並想參考 East Fishkill 如何透過法律與政治手段來應對大型科技開發案。選項 A 並未在文中提及；選項 B 與文章主旨無關；選項 D 則與文章提到的「反對與審查」趨勢完全相反。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fifth paragraph, what does the author mean by the phrase 'enormous appetite for resources'?",
+      "options": {
+        "A": "The financial cost of buying land for the data centers.",
+        "B": "The high consumption of electricity, water, and land by AI facilities.",
+        "C": "The intense desire of tech companies to expand their businesses globally.",
+        "D": "The physical hunger of the construction workers building the centers."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文中提到「enormous appetite for resources」是用來描述數據中心對「electricity, water, and land」的需求。這裡將數據中心擬人化，用「胃口（appetite）」來比喻其對資源的巨大消耗。選項 A 太過狹隘，未涵蓋水電資源；選項 C 雖然在談論擴張，但「appetite」在此處是指資源消耗而非商業野心；選項 D 為字面誤解，完全不符合上下文。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article regarding AI infrastructure?",
+      "options": {
+        "A": "AI technology is no longer considered a sign of progress by the global community.",
+        "B": "Data centers are being banned globally because they are considered security risks.",
+        "C": "The rapid growth of AI infrastructure is facing increased public scrutiny and demands for sustainability.",
+        "D": "Technology companies must move their data centers to rural areas to avoid local protests."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章主旨探討了全球各地對於 AI 基礎設施（數據中心）的抵制，強調公眾不再接受「自動批准」，而是要求更嚴格的監督、環境評估及對當地資源影響的考量。選項 A 過於偏激，文中並非否定 AI 本身，而是質疑基礎設施的代價；選項 B 僅提到部分原因，不夠全面；選項 D 文中並未提出此建議，且問題核心在於資源使用而非地理位置。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
