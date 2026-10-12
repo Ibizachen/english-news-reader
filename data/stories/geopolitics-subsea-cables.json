@@ -1,37 +1,37 @@
 {
   "id": "geopolitics-subsea-cables",
-  "title": "The Invisible Web: The Geopolitics of Global Subsea Internet Cables",
-  "subtitle": "Understanding the physical infrastructure that powers the global digital economy and national security.",
-  "description": "Over 99% of international data traffic travels through subsea cables, yet this infrastructure remains largely invisible to the public. This series explores how these critical connections have become a focal point of geopolitical competition, national security concerns, and global economic strategy.",
+  "title": "The Invisible Web: The Geopolitics of Subsea Cables",
+  "subtitle": "Understanding the fragile physical infrastructure that powers the global internet.",
+  "description": "While we often think of the internet as 'the cloud,' nearly all global data travels through physical cables on the ocean floor. This series explores how these critical lifelines have become the new frontier of international security, economic competition, and geopolitical tension.",
   "category": "technology",
   "status": "active",
-  "updatedAt": "2026-08-17T02:20:08.523113Z",
+  "updatedAt": "2026-10-12T06:59:31.560987Z",
   "cadence": "5-part reading path. Complete series available.",
   "articles": [
     {
       "slug": "geopolitics-subsea-cables-part-1",
       "label": "Part 1",
-      "note": "Establishing the physical reality of the internet versus the myth of 'the cloud'."
+      "note": "Explain the history and function of subsea cables as the 'highways' of the modern internet."
     },
     {
       "slug": "geopolitics-subsea-cables-part-2",
       "label": "Part 2",
-      "note": "The shift from telecommunications consortia to private tech giants (Google, Meta, Amazon) owning the infrastructure."
+      "note": "Examine the shift from telecom-led projects to big tech (Google, Meta, Amazon) ownership."
     },
     {
       "slug": "geopolitics-subsea-cables-part-3",
       "label": "Part 3",
-      "note": "The vulnerability of cables to physical sabotage and state-level espionage."
+      "note": "Discuss recent incidents of cable damage and the fear of state-sponsored sabotage."
     },
     {
       "slug": "geopolitics-subsea-cables-part-4",
       "label": "Part 4",
-      "note": "Taiwan as a critical hub in the Indo-Pacific cable network and the challenges of maintaining connectivity."
+      "note": "Focus on the specific challenges for island nations like Taiwan regarding connectivity and resilience."
     },
     {
       "slug": "geopolitics-subsea-cables-part-5",
       "label": "Part 5",
-      "note": "How governments and companies are building redundancy and resilience into the global network."
+      "note": "Explore emerging solutions like satellite internet (Starlink) and international regulatory efforts."
     }
   ]
 }

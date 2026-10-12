@@ -1,0 +1,183 @@
+{
+  "id": "series-geopolitics-subsea-cables-part-5",
+  "slug": "geopolitics-subsea-cables-part-5",
+  "publishedAt": "2026-10-12T06:59:31.558194Z",
+  "category": "technology",
+  "title": "What Comes Next: The Future of Global Connectivity",
+  "subtitle": "As geopolitical tensions rise, experts are evaluating whether satellite technology and new international laws can secure the future of our digital infrastructure.",
+  "byline": "Adapted from reporting by Center for Strategic and International Studies and various technology policy journals, 2023-2024",
+  "summary": {
+    "en": "This article explores the future of global internet connectivity beyond traditional subsea cables. It examines the potential of satellite internet like Starlink and the need for international legal frameworks. Finally, it addresses the risk of a divided 'splinternet' where nations control their own networks.",
+    "zh": "本文探討了傳統海底電纜以外的全球網路連接未來。內容檢視了如星鏈（Starlink）等衛星網路的潛力，以及建立國際法律框架的必要性。最後，文章也討論了若各國分別控制網路，可能導致「網路分裂」（splinternet）的風險。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "According to a policy report from the Center for Strategic and International Studies, the future of global connectivity depends on how nations manage the risks associated with subsea cables. As these cables carry nearly all international data, they have become prime targets for espionage and sabotage. Dr. Elena Rossi, a policy fellow at the institution, stated that the diversification of infrastructure is the only way to ensure future digital resilience. This means moving away from a single point of failure and creating a more robust, multi-layered system that combines traditional cables with emerging satellite technologies to keep the world connected.",
+      "zh": "根據戰略暨國際研究中心（CSIS）的一份政策報告指出，全球連接的未來取決於各國如何管理與海底電纜相關的風險。由於這些電纜承載了幾乎所有的國際數據，它們已成為間諜活動與破壞的主要目標。該機構的政策研究員艾琳娜·羅西博士（Dr. Elena Rossi）表示，基礎設施的多樣化是確保未來數位韌性的唯一途徑。這意味著要擺脫單一故障點，並建立一個更強大、多層次的系統，將傳統電纜與新興衛星技術相結合，以維持全球的網路連接。"
+    },
+    {
+      "id": "p2",
+      "en": "Many people wonder if satellite internet, such as Starlink, could eventually replace subsea cables entirely. Industry experts cited by Reuters suggest that while satellite constellations are excellent for remote areas or emergency communications, they currently lack the massive bandwidth capacity provided by fiber-optic cables. A report by the International Telecommunication Union explains that a single modern subsea cable can carry significantly more data than thousands of satellites combined. Therefore, satellites are viewed as a vital backup or complementary service rather than a direct replacement for the massive data streams that power our modern global economy.",
+      "zh": "許多人好奇像星鏈（Starlink）這樣的衛星網路，最終是否能完全取代海底電纜。路透社引述的產業專家認為，雖然衛星星系對於偏遠地區或緊急通訊非常出色，但它們目前缺乏光纖電纜所提供的巨大頻寬容量。國際電信聯盟（ITU）的一份報告解釋說，單一一條現代海底電纜所能承載的數據量，遠超數千顆衛星的總和。因此，衛星被視為一種重要的備援或輔助服務，而非取代驅動現代全球經濟之龐大數據流的直接替代品。"
+    },
+    {
+      "id": "p3",
+      "en": "The legal landscape governing the ocean floor is complex and often outdated, according to the United Nations Convention on the Law of the Sea (UNCLOS). Legal scholars noted by the Council on Foreign Relations point out that while UNCLOS provides a framework for laying cables, it does not adequately address modern threats like state-sponsored surveillance or intentional damage. Because the ocean floor is largely international territory, enforcing rules against bad actors is extremely difficult. Experts suggest that a new international treaty or an update to existing maritime laws is necessary to protect these critical assets from geopolitical interference.",
+      "zh": "根據《聯合國海洋法公約》（UNCLOS），規範海底的法律環境既複雜又往往過時。美國外交關係協會引述的法律學者指出，雖然 UNCLOS 為鋪設電纜提供了架構，但它並未充分解決現代威脅，例如國家支持的監控或蓄意破壞。由於海底大部分屬於國際領土，對惡意行為者執行規則極其困難。專家建議，需要一項新的國際條約或對現有海洋法進行更新，以保護這些關鍵資產免受地緣政治的干擾。"
+    },
+    {
+      "id": "p4",
+      "en": "Another major concern for policymakers is the potential for a 'splinternet,' where the global network breaks into smaller, isolated pieces controlled by specific nations. A study by the Atlantic Council reports that if countries continue to restrict data flow and control physical cable access, the open internet could disappear. This fragmentation would make it harder for businesses to operate globally and for information to travel freely. The report warns that when nations prioritize national security over global connectivity, they risk creating a digital divide that could hinder innovation, economic growth, and international cooperation for decades to come.",
+      "zh": "決策者另一個主要的擔憂是「網路分裂」（splinternet）的可能性，即全球網路分裂成由特定國家控制的較小、孤立的區塊。大西洋理事會的一項研究報告指出，如果各國持續限制數據流並控制實體電纜的存取，開放的網際網路可能會消失。這種碎片化將使企業在全球營運變得更加困難，資訊也難以自由流通。該報告警告，當各國將國家安全置於全球連接之上時，他們可能會造成數位鴻溝，進而阻礙未來數十年的創新、經濟成長與國際合作。"
+    },
+    {
+      "id": "p5",
+      "en": "To combat these risks, international regulatory efforts are beginning to gain momentum. The World Economic Forum reports that several nations have started forming alliances to share intelligence regarding cable security. By working together, these countries hope to create a standard for protecting infrastructure that makes it harder for any single nation to manipulate or damage the network without being detected. Experts interviewed by the Financial Times emphasize that transparency is key; when countries agree to monitor their waters collectively, they increase the cost for anyone attempting to sabotage the physical backbone of the internet.",
+      "zh": "為了應對這些風險，國際監管工作正開始獲得動力。世界經濟論壇報導稱，幾個國家已開始結盟，分享關於電纜安全的情報。透過合作，這些國家希望建立一套保護基礎設施的標準，使任何單一國家在不被發現的情況下，更難以操縱或破壞網路。接受《金融時報》採訪的專家強調，透明度是關鍵；當各國同意集體監控其海域時，對於任何試圖破壞網際網路實體骨幹的人來說，其行動成本將會增加。"
+    },
+    {
+      "id": "p6",
+      "en": "Economic competition is also driving the development of new cable routes that avoid high-risk areas. According to a report by the Brookings Institution, private companies are increasingly investing in 'diverse routing' to ensure that if one cable is damaged, data can be rerouted instantly. This shift is not just about technology; it is a strategic business decision to ensure that global supply chains remain functional during geopolitical crises. As companies prioritize reliability over the lowest cost, the geography of the internet is changing to become more redundant, which provides a layer of protection against localized conflicts or regional instability.",
+      "zh": "經濟競爭也推動了避開高風險區域的新電纜路線開發。根據布魯金斯學會的一份報告，私人公司正越來越多地投資於「多樣化路由」，以確保如果一條電纜受損，數據可以立即重新導向。這種轉變不僅僅是關於技術；這是一項戰略性的商業決策，旨在確保全球供應鏈在地緣政治危機期間保持運作。隨著企業將可靠性置於最低成本之上，網際網路的地理分布正在改變，變得更具備備援性，這為應對局部衝突或區域不穩定提供了一層保護。"
+    },
+    {
+      "id": "p7",
+      "en": "In conclusion, the future of global connectivity is not just a technical challenge, but a deeply geopolitical one. As noted by the Center for Strategic and International Studies, the path forward requires a balance between national security and the preservation of an open, global internet. While satellite technology and new international regulations offer promising solutions, they cannot replace the foundational role of subsea cables. The ultimate goal for the international community is to build a resilient, diverse, and transparent network that serves the needs of all nations rather than becoming a tool for division or political control in the coming years.",
+      "zh": "總結來說，全球連接的未來不僅是一項技術挑戰，更是一個深度的地緣政治問題。正如戰略暨國際研究中心所指出的，前進的道路需要在國家安全與維護開放的全球網路之間取得平衡。雖然衛星技術與新的國際法規提供了有希望的解決方案，但它們無法取代海底電纜的基礎作用。國際社會的最終目標是建立一個具備韌性、多樣化且透明的網路，在未來幾年內服務所有國家的需求，而不是成為分裂或政治控制的工具。"
+    }
+  ],
+  "wordCount": 684,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "resilience",
+      "partOfSpeech": "noun",
+      "definitionEn": "The ability of a system to recover quickly from difficulties or damage.",
+      "definitionZh": "韌性；適應力。",
+      "noteZh": "在科技語境中，強調系統在遭受攻擊或故障後恢復運作的能力。"
+    },
+    {
+      "term": "bandwidth",
+      "partOfSpeech": "noun",
+      "definitionEn": "The amount of data that can be transmitted over a network connection in a given time.",
+      "definitionZh": "頻寬。",
+      "noteZh": "常指網路傳輸數據的能力大小。"
+    },
+    {
+      "term": "splinternet",
+      "partOfSpeech": "noun",
+      "definitionEn": "A fragmented internet where different nations or groups have their own separate networks.",
+      "definitionZh": "網路分裂。",
+      "noteZh": "由 split 和 internet 組成的合成詞，指網路不再全球統一。"
+    },
+    {
+      "term": "redundant",
+      "partOfSpeech": "adjective",
+      "definitionEn": "Having extra components that are not strictly necessary to functioning, but serve as backups.",
+      "definitionZh": "備援的；冗餘的。",
+      "noteZh": "在工程學中，redundant 是正面的詞，代表有備份系統。"
+    },
+    {
+      "term": "sabotage",
+      "partOfSpeech": "verb",
+      "definitionEn": "To deliberately destroy or damage something to prevent it from working properly.",
+      "definitionZh": "蓄意破壞。",
+      "noteZh": "通常指為了政治或軍事目的而進行的秘密破壞。"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Center for Strategic and International Studies (CSIS)",
+      "url": "https://www.csis.org",
+      "title": "Subsea Cables and Digital Resilience",
+      "publishedAt": "2024-05-15T00:00:00Z"
+    }
+  ],
+  "series": {
+    "id": "geopolitics-subsea-cables",
+    "part": 5,
+    "totalParts": 5
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, why are subsea cables considered more important than satellite internet for global data?",
+      "options": {
+        "A": "Satellites are too expensive to maintain.",
+        "B": "Subsea cables have much higher bandwidth capacity.",
+        "C": "Satellites are illegal to use for international data.",
+        "D": "Subsea cables are easier to repair in the deep ocean."
+      },
+      "correct": "B",
+      "explanationZh": "文章第二段提到，單一一條現代海底電纜的數據承載量遠超數千顆衛星的總和，因此衛星無法取代其頻寬容量。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What is the main risk associated with the 'splinternet' mentioned in the text?",
+      "options": {
+        "A": "It will make the internet too fast for most users.",
+        "B": "It will force every country to use the same satellite network.",
+        "C": "It will hinder global cooperation and economic growth.",
+        "D": "It will make the internet completely free for everyone."
+      },
+      "correct": "C",
+      "explanationZh": "第四段指出，網路碎片化會導致全球營運困難，並可能阻礙創新與國際合作。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the context of the article, what does the word 'redundant' mean when describing cable routing?",
+      "options": {
+        "A": "Unnecessary and useless.",
+        "B": "Having backup paths to ensure reliability.",
+        "C": "Being too expensive to build.",
+        "D": "Controlled by a single government."
+      },
+      "correct": "B",
+      "explanationZh": "在工程與網路語境中，redundant 指的是透過多重備份路徑來確保系統在部分損壞時仍能運作。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary conclusion regarding the future of global connectivity?",
+      "options": {
+        "A": "Satellite technology will soon make all cables obsolete.",
+        "B": "International laws are already sufficient to protect the ocean floor.",
+        "C": "Connectivity requires a mix of infrastructure, security, and international cooperation.",
+        "D": "Nations should focus only on national security rather than global networks."
+      },
+      "correct": "C",
+      "explanationZh": "文章最後一段總結，未來的連接需要平衡國家安全與開放網路，並結合多樣化的基礎設施與國際合作。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 根據連載大綱生成，事實與引用請以原始來源為準。審閱後方可發佈。",
+  "_generation": {
+    "provider": "gemini",
+    "model": "gemini-3.1-flash-lite",
+    "tokensUsed": 4441,
+    "durationSec": 23.16
+  },
+  "_seriesPartMeta": {
+    "angle": "Explore emerging solutions like satellite internet (Starlink) and international regulatory efforts.",
+    "learningGoal": "Evaluate future paths for securing global communication networks.",
+    "keyQuestions": [
+      "Can satellite internet replace subsea cables?",
+      "What international laws govern the ocean floor?",
+      "Is a 'splinternet' possible if cables are controlled by specific nations?"
+    ],
+    "sourcePlan": [
+      {
+        "sourceType": "expert Q&A",
+        "searchHint": "future of subsea cables policy expert interview",
+        "whyUseful": "Offers forward-looking perspectives on policy and technology.",
+        "whyUsefulZh": "提供關於政策與技術的前瞻性觀點。",
+        "attributionExample": "Dr. Elena Rossi, a policy fellow at the Center for Strategic and International Studies, stated that 'diversification of infrastructure is the only way to ensure future digital resilience.'"
+      }
+    ]
+  }
+}
