@@ -1,0 +1,150 @@
+{
+  "id": "2026-10-15-spyware-delivered-through-online-advertisements",
+  "slug": "spyware-delivered-through-online-advertisements-oct-2026",
+  "publishedAt": "2026-10-15T22:14:12.792120Z",
+  "category": "technology",
+  "title": "Online Advertisements Used to Spread Secret Spyware",
+  "subtitle": "Researchers warn that common digital ads are being weaponized to infect devices without any user interaction.",
+  "summary": {
+    "en": "Researchers at the University of Toronto’s Citizen Lab have discovered that online advertisements are being used to deliver dangerous spyware. This new method allows hackers to infect devices without requiring the user to click on anything. The campaign, which researchers call AdFection, has already targeted dozens of devices at a major international media organization. By using the complex world of digital advertising, hackers can track and monitor people across the globe. Experts warn that this poses a serious security threat to governments, journalists, and everyday internet users.",
+    "zh": "多倫多大學公民實驗室的研究人員發現，網路廣告正被用於傳送危險的間諜軟體。這種新方法讓駭客無需使用者點擊任何東西即可感染裝置。這項被研究人員稱為「廣告感染」的行動，已鎖定一家大型國際媒體組織的數十台裝置。透過複雜的數位廣告生態，駭客得以在全球範圍內追蹤並監控民眾。專家警告，這對政府、記者及一般網路使用者構成了嚴重的安全威脅。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "A new report from researchers at the University of Toronto’s Citizen Lab has revealed a worrying trend in digital security. According to The Guardian Technology, an Israeli advertising agency called Discover-Tech has been serving millions of online advertisements that allow “zero-click” spyware to be used against specific targets. Unlike traditional malware that requires a user to click on a suspicious link or open a dangerous file, this new method works without any interaction from the victim. The spyware is installed automatically in a matter of seconds, often without the user ever knowing.",
+      "zh": "多倫多大學（University of Toronto）公民實驗室（Citizen Lab）的一份新報告揭露了數位安全領域令人擔憂的趨勢。根據《衛報科技》（The Guardian Technology）報導，一家名為 Discover-Tech 的以色列廣告代理商，一直在投放數以百萬計的網路廣告，這些廣告能讓「零點擊」間諜軟體針對特定目標進行攻擊。與需要使用者點擊可疑連結或開啟危險檔案的傳統惡意軟體不同，這種新方法無需受害者進行任何互動即可運作。間諜軟體會在幾秒鐘內自動安裝，且通常在使用者完全不知情的情況下完成。"
+    },
+    {
+      "id": "p2",
+      "en": "Ars Technica reports that this campaign, which researchers named AdFection, is particularly dangerous because it is invisible to the average person. The spyware can only be found if the user runs special forensic software or hardware. Citizen Lab confirmed that this method was used to infect 45 devices at an international media organization during 2024 and 2025. Because the infection happens silently, it is very difficult for victims to protect themselves.",
+      "zh": "科技媒體 Ars Technica 報導指出，這項被研究人員命名為「廣告感染」（AdFection）的行動之所以特別危險，是因為一般人根本無法察覺。除非使用者執行特殊的鑑識軟體或硬體，否則無法發現這些間諜軟體。公民實驗室證實，該方法曾在二零二四年至二零二五年間，用於感染一家國際媒體組織的四十五台裝置。由於感染過程悄無聲息，受害者極難自我防護。"
+    },
+    {
+      "id": "p3",
+      "en": "To understand how this works, it is important to look at how online advertising functions. When a person visits a website or uses an app, their device information is sent to a system that decides which ads to show. This happens in a split second through an automated auction. According to Ars Technica, Discover-Tech acts as a bridge between this advertising system and mercenary spyware companies. By using unique mobile IDs, location data, and IP addresses, these companies can build detailed profiles of millions of people. Citizen Lab stated that they reviewed over 4 billion bidding records handled by Discover-Tech, showing that these ads appeared on over 70,000 mobile apps and 120,000 websites between March and June 2026.",
+      "zh": "要了解其運作原理，必須先看懂網路廣告的功能。當一個人造訪網站或使用應用程式時，他們的裝置資訊會被傳送到一個系統，該系統會決定要顯示哪些廣告。這一切透過自動化競價，在瞬間完成。根據 Ars Technica 的說法，Discover-Tech 在此廣告系統與傭兵間諜軟體公司之間扮演橋樑角色。透過使用獨特的行動裝置識別碼、位置數據和網路協定位址（IP 位址），這些公司能建立數百萬人的詳細檔案。公民實驗室表示，他們審查了 Discover-Tech 處理的超過四十億筆競價紀錄，顯示這些廣告在二零二六年三月至六月期間，出現在超過七萬個行動應用程式與十二萬個網站上。"
+    },
+    {
+      "id": "p4",
+      "en": "The Guardian Technology notes that Discover-Tech operates a platform called Controlium. This software allows clients to identify and track internet users before secretly sending malicious code to their devices. Once the spyware is installed, it can access almost everything on a phone or computer. This includes reading private messages, viewing photos, checking emails, and even recording phone calls or activating microphones. Researchers say this technology has been used to target government officials, journalists, business leaders, and activists in many countries, including Yemen, Brazil, Mexico, and Czechia.",
+      "zh": "《衛報科技》指出，Discover-Tech 營運著一個名為 Controlium 的平台。該軟體允許客戶識別並追蹤網路使用者，隨後秘密地將惡意程式碼傳送到他們的裝置。一旦間諜軟體安裝完成，它幾乎可以存取手機或電腦上的所有內容，包括讀取私人訊息、查看照片、檢查電子郵件，甚至錄製通話或啟動麥克風。研究人員表示，這項技術已被用於鎖定葉門、巴西、墨西哥和捷克等多國的政府官員、記者、企業領袖及社會運動人士。"
+    },
+    {
+      "id": "p5",
+      "en": "The reach of this threat extends far beyond private individuals. Related research by the group Confiant suggests that these malicious ads have been shown to users within important organizations, such as the United Nations, NATO, and the International Atomic Energy Agency. Wolfie Christl, a researcher at Citizen Lab, described the situation as disastrous. He noted that major advertising companies have been unable to detect or stop these malicious operations for years. According to Christl, the current way the online advertising industry works is a security threat to everyone, including governments and civil society.",
+      "zh": "這項威脅的影響範圍遠超私人個體。安全研究組織 Confiant 的相關研究顯示，這些惡意廣告已出現在聯合國（United Nations）、北大西洋公約組織（NATO）以及國際原子能總署（International Atomic Energy Agency）等重要組織的使用者面前。公民實驗室的研究員沃爾菲·克里斯托（Wolfie Christl）形容此情況為災難性的。他指出，大型廣告公司多年來一直無法偵測或阻止這些惡意行動。克里斯托認為，網路廣告產業目前的運作方式，對包括政府與公民社會在內的所有人而言，都是一種安全威脅。"
+    },
+    {
+      "id": "p6",
+      "en": "This discovery highlights a growing problem in the digital world. While many people know that ads can be used to track their interests, the ability to use these ads to deliver “zero-click” exploits is a major shift in how hackers operate. Bill Marczak, a researcher at Citizen Lab, explained that while there has been much talk about ads being used to identify and hack targets, this is the first time there is concrete technical evidence of the process in action. As the evidence grows, it is becoming clear that the hidden systems behind online advertising are being used for surveillance on a massive scale.",
+      "zh": "這項發現凸顯了數位世界中日益嚴重的問題。雖然許多人知道廣告可用於追蹤個人興趣，但利用廣告來傳送「零點擊」漏洞攻擊，是駭客運作模式的重大轉變。公民實驗室研究員比爾·馬札克（Bill Marczak）解釋，儘管外界一直討論廣告被用於識別與駭入目標，但這是首次出現該過程實際運作的具體技術證據。隨著證據增加，顯而易見的是，網路廣告背後的隱藏系統正被大規模用於監控。"
+    },
+    {
+      "id": "p7",
+      "en": "For news organizations and other groups, this serves as a serious warning. Citizen Lab researchers stated that newsrooms should be aware that their staff members are potential targets for this kind of attack. As this technology continues to evolve, the challenge for security experts will be to find ways to protect users from a threat that is designed to be invisible. For now, the report serves as a reminder that even a simple, harmless-looking advertisement on a website could potentially be a gateway for someone to take control of a personal device.",
+      "zh": "對於新聞機構與其他團體而言，這是一個嚴重的警訊。公民實驗室研究人員表示，新聞編輯室應意識到其員工是這類攻擊的潛在目標。隨著技術持續演進，安全專家的挑戰將是如何保護使用者免受這種設計為「隱形」的威脅。目前，這份報告提醒大眾，即使是網站上一個看起來簡單、無害的廣告，也可能成為他人掌控個人裝置的入口。"
+    }
+  ],
+  "wordCount": 724,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "split",
+      "definitionEn": "A very short, brief moment in time.",
+      "definitionZh": "極短的時間（片刻）。",
+      "partOfSpeech": "noun (here)",
+      "noteZh": "常見作動詞（分裂），這裡與 second 連用表示極短的時間。文中：This happens in a split second through an automated auction."
+    },
+    {
+      "term": "bridge",
+      "definitionEn": "A connection or link between two different groups or systems.",
+      "definitionZh": "橋樑、連結點。",
+      "partOfSpeech": "noun (metaphorical)",
+      "noteZh": "常見作實體名詞（橋），這裡比喻為兩個系統間的連結者。文中：Discover-Tech acts as a bridge between this advertising system and mercenary spyware companies."
+    },
+    {
+      "term": "gateway",
+      "definitionEn": "A means of access or entry to something else.",
+      "definitionZh": "入口、途徑。",
+      "partOfSpeech": "noun (metaphorical)",
+      "noteZh": "常見作實體名詞（門戶），這裡比喻為入侵裝置的途徑。文中：For now, the report serves as a reminder that even a simple, harmless-looking advertisement on a website could potentially be a gateway for someone to take control of a personal device."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
+      "title": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say",
+      "publishedAt": "2026-10-15T12:15:22Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+      "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
+      "publishedAt": "2026-10-15T20:32:41Z"
+    }
+  ],
+  "story": {
+    "id": "spyware-delivered-through-online-advertisements",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is the specific scope of the AdFection campaign between March and June 2026?",
+      "options": {
+        "A": "It infected 45 devices belonging to government officials in various countries.",
+        "B": "It involved over 4 billion bidding records across 70,000 apps and 120,000 websites.",
+        "C": "It targeted only the United Nations, NATO, and the International Atomic Energy Agency.",
+        "D": "It was used to track internet users specifically in Yemen, Brazil, Mexico, and Czechia."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，Citizen Lab 審查了超過 40 億筆由 Discover-Tech 處理的競標紀錄，這些廣告在 2026 年 3 月至 6 月間出現在 70,000 多個行動應用程式和 120,000 個網站上。選項 A 提到的 45 台設備是針對某國際媒體組織的攻擊，而非該期間的總規模。選項 C 提到的組織是研究顯示受威脅的對象，而非該 campaign 的唯一範圍。選項 D 提到的國家是受害者所在地，而非廣告出現的統計數據。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the vulnerability of the online advertising industry?",
+      "options": {
+        "A": "The industry is intentionally collaborating with spyware companies to increase profits.",
+        "B": "The automated auction system is inherently flawed because it prioritizes speed over security verification.",
+        "C": "Ad companies are now successfully blocking all malicious code thanks to new forensic software.",
+        "D": "The problem is limited to a few small, unregulated advertising agencies like Discover-Tech."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第三段提到廣告顯示是透過「自動拍賣」在瞬間完成的，而第五段提到大型廣告公司多年來一直無法偵測或阻止這些惡意操作。由此可推論，廣告產業追求極致的競標速度，導致其缺乏足夠的機制來審核廣告內容的安全性。選項 A 文章未提及意圖。選項 C 與第五段說法矛盾，因為目前仍無法有效阻止。選項 D 錯誤，因為第五段提到這是整個產業的威脅，不限於單一公司。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the word 'gateway' mean in the context of the sentence: '...a simple, harmless-looking advertisement on a website could potentially be a gateway for someone to take control of a personal device.'?",
+      "options": {
+        "A": "A physical entrance to a secured building.",
+        "B": "An entry point or means of access to something else.",
+        "C": "A high-speed internet connection service.",
+        "D": "A software program used to block malicious traffic."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在此語境下，「gateway」被用作比喻，指一個看似無害的廣告實際上成為了駭客入侵並控制個人裝置的「入口」或「通道」。選項 A 是字面意義，不符合數位安全語境。選項 C 與 D 皆與文中描述廣告作為攻擊媒介的功能不符，屬於錯誤的詞義理解。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of this article?",
+      "options": {
+        "A": "Online advertising is being phased out due to privacy concerns worldwide.",
+        "B": "Hackers are now focusing exclusively on government officials rather than regular users.",
+        "C": "The infrastructure of online advertising is being exploited to deliver invisible, zero-click spyware on a massive scale.",
+        "D": "Users can easily protect themselves from spyware by using forensic software on their mobile devices."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。全文的核心在於揭露廣告技術（AdTech）如何被轉化為大規模監控工具，特別是透過「零點擊」技術進行隱形攻擊。選項 A 文章並未提到廣告業將被淘汰。選項 B 錯誤，因為文中提到受害者包含記者、活動人士及一般組織。選項 D 不正確，因為文章第二段明確指出這種攻擊對一般人來說極難察覺，且需要特殊軟體，並非一般用戶能輕易防範。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
