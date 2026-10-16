@@ -1,0 +1,155 @@
+{
+  "id": "2026-10-16-meta-faces-backlash-over-ai-training-terms",
+  "slug": "meta-faces-backlash-over-ai-training-terms-oct-2026",
+  "publishedAt": "2026-10-16T22:13:50.114127Z",
+  "category": "technology",
+  "title": "Meta Faces Backlash Over New Rules for AI Training",
+  "subtitle": "New commercial terms have raised concerns among news publishers about the future of their content.",
+  "summary": {
+    "en": "Meta is updating its commercial terms to allow the company to crawl and use data from websites linked to business accounts. These changes, which take effect on October 30th, have caused alarm among news publishers. Experts worry that Meta might use this content to train its artificial intelligence models without paying licensing fees. While Meta claims the update is only for improving ad recommendations, critics argue it could bypass existing protections. Businesses that do not agree to these terms must stop using Meta’s platforms entirely.",
+    "zh": "Meta 正在更新其商業條款，允許公司爬取並使用連結至商業帳號的網站資料。這些將於 10 月 30 日生效的變更已引發新聞出版商的恐慌。專家擔心 Meta 可能在未支付授權費的情況下，利用這些內容訓練其人工智慧模型。儘管 Meta 聲稱更新僅是為了改善廣告推薦，但批評者認為這可能會繞過現有的保護機制。不同意這些條款的企業必須完全停止使用 Meta 的平台。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Meta, the parent company of Facebook and Instagram, is facing significant criticism over new commercial terms that will go into effect on October 30th. These updated rules appear to give the tech giant permission to use automated software to visit and collect data from websites linked to business accounts. According to a report from Nieman Lab, this change could allow Meta to use content from these websites to develop, research, and train its artificial intelligence (AI) products.",
+      "zh": "臉書 (Facebook) 與 Instagram 的母公司 Meta 正面臨重大批評，原因在於即將於 10 月 30 日生效的新商業條款。這些更新後的規則似乎賦予了這家科技巨頭權限，可以使用自動化軟體造訪並蒐集連結至商業帳號的網站資料。根據尼曼新聞實驗室 (Nieman Lab) 的報導，這項變更可能讓 Meta 得以利用這些網站的內容，來開發、研究並訓練其人工智慧 (AI) 產品。"
+    },
+    {
+      "id": "p2",
+      "en": "Artificial intelligence refers to computer systems that can learn from large amounts of data to perform tasks like writing text or answering questions. To make these systems smart, companies must \"train\" them by feeding them vast amounts of information from the internet. Currently, many news organizations are in legal battles with AI companies, arguing that they should be paid licensing fees—money paid for the legal right to use someone else’s work—when their articles are used for this purpose.",
+      "zh": "人工智慧是指能夠從大量資料中學習，進而執行如撰寫文字或回答問題等任務的電腦系統。為了讓這些系統變得聰明，企業必須透過輸入網路上海量的資訊來「訓練」它們。目前，許多新聞機構正與人工智慧公司進行法律訴訟，主張當其文章被用於此類目的時，他們應獲得授權費，也就是為了合法使用他人作品而支付的費用。"
+    },
+    {
+      "id": "p3",
+      "en": "Legal experts are concerned that Meta’s new terms could allow the company to avoid these costs. By requiring businesses to agree to these terms as a condition of using Meta’s platforms, the company might be able to bypass other blocking instructions, such as a website’s \"robots.txt\" file. A robots.txt file is a simple set of instructions that tells search engines and AI bots which parts of a website they are allowed to visit. Some experts believe Meta’s new commercial agreement could override these instructions, giving the company a way to access content for free.",
+      "zh": "法律專家擔心 Meta 的新條款可能讓該公司規避這些成本。透過要求企業將同意這些條款作為使用 Meta 平台的前提條件，該公司或許能繞過其他封鎖指令，例如網站的「robots.txt」檔案。robots.txt 檔案是一組簡單的指令，用來告知搜尋引擎與人工智慧機器人哪些網站區域是可以造訪的。部分專家認為，Meta 的新商業協議可能會凌駕於這些指令之上，讓該公司獲得免費存取內容的途徑。"
+    },
+    {
+      "id": "p4",
+      "en": "James Grimmelmann, a professor of digital and information law at Cornell, told Nieman Lab that this move clearly gives Meta permission to train its AI on news content. He added that the company could even use this information to create products that compete directly with the news publishers themselves. Because almost every news organization uses Meta business accounts to share their work, they are effectively forced to choose between agreeing to the new terms or losing access to Meta’s massive audience.",
+      "zh": "康乃爾大學 (Cornell University) 的數位與資訊法教授詹姆斯·格里梅爾曼 (James Grimmelmann) 向尼曼新聞實驗室表示，此舉顯然賦予了 Meta 使用新聞內容訓練其人工智慧的權限。他補充說，該公司甚至可能利用這些資訊來創造出與新聞出版商直接競爭的產品。由於幾乎每一家新聞機構都使用 Meta 的商業帳號來分享他們的作品，他們實際上被迫在同意新條款或失去 Meta 龐大受眾之間做出選擇。"
+    },
+    {
+      "id": "p5",
+      "en": "Meta has pushed back against these claims. According to Ars Technica, the company stated that there is no change to how its web crawlers—programs that scan the internet to index information—operate. Meta spokesperson Daniel Roberts told Nieman Lab that the company is simply \"consolidating\" its commercial and self-serve advertising terms. He noted that content owners can still use robots.txt flags to show their preferences, and that these instructions remain effective.",
+      "zh": "Meta 對這些指控進行了反駁。根據科技媒體 Ars Technica 的報導，該公司聲明其網路爬蟲（即掃描網際網路以建立資訊索引的程式）的運作方式並無改變。Meta 發言人丹尼爾·羅伯茲 (Daniel Roberts) 向尼曼新聞實驗室表示，該公司只是在「整合」其商業與自助式廣告條款。他指出，內容擁有者仍然可以使用 robots.txt 標記來顯示其偏好，且這些指令依然有效。"
+    },
+    {
+      "id": "p6",
+      "en": "Andy Stone, a vice president of communications at Meta, also addressed the concerns in a post on X. He explained that the update is not meant to target news websites. Instead, he said the goal is to ensure Meta can pull accurate information about products for sale on third-party websites. This helps the company provide better recommendations for ads and content on its own platforms. Meta has already signed paid licensing deals with several major news outlets, such as CNN and Fox News, to use their content for AI training.",
+      "zh": "Meta 通訊副總裁安迪·史東 (Andy Stone) 也在社群平台 X 上發文回應了這些擔憂。他解釋說，此次更新並非針對新聞網站。相反地，他說目標是確保 Meta 能夠擷取第三方網站上銷售產品的準確資訊。這有助於該公司在自家平台上提供更好的廣告與內容推薦。Meta 此前已與 CNN 和福斯新聞 (Fox News) 等多家大型新聞媒體簽署付費授權協議，以使用其內容進行人工智慧訓練。"
+    },
+    {
+      "id": "p7",
+      "en": "However, the situation remains tense. Nieman Lab pointed out that Meta has recently launched a subscription service that requires businesses to pay to include links in their posts. This means that, under the new rules, businesses could be paying Meta to share their links, while Meta simultaneously uses those same links to collect data for its AI models without paying the publishers.",
+      "zh": "然而，情況依然緊張。尼曼新聞實驗室指出，Meta 最近推出了一項訂閱服務，要求企業付費才能在貼文中包含連結。這意味著在新規範下，企業可能一方面付錢給 Meta 以分享連結，而 Meta 同時卻在未支付出版商費用的情況下，利用這些連結為其人工智慧模型蒐集資料。"
+    },
+    {
+      "id": "p8",
+      "en": "For many businesses, the choice is difficult. The new terms state that if a company does not agree to the policies, they must stop all use of Meta’s products for commercial purposes. As the October 30th deadline approaches, the tech industry is watching closely to see how this will affect the relationship between social media platforms and the publishers who rely on them for traffic. Whether this change will lead to new legal challenges or a change in how AI training is regulated remains to be seen.",
+      "zh": "對許多企業而言，這個選擇相當困難。新條款規定，若公司不同意這些政策，就必須停止將 Meta 的產品用於任何商業目的。隨著 10 月 30 日期限臨近，科技產業正密切關注這將如何影響社群媒體平台與依賴其流量的出版商之間的關係。這項變更是否會引發新的法律挑戰，或是改變人工智慧訓練的監管方式，仍有待觀察。"
+    }
+  ],
+  "wordCount": 709,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "go into effect",
+      "definitionEn": "To become active or begin to be applied (usually for laws, rules, or policies).",
+      "definitionZh": "（法律、規則等）開始生效、實施。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這是一個常見的法律與商業用語，容易被誤解為「進入效果」。文中：Meta, the parent company of Facebook and Instagram, is facing significant criticism over new commercial terms that will go into effect on October 30th."
+    },
+    {
+      "term": "pushed back",
+      "definitionEn": "To express disagreement or opposition to a plan or idea.",
+      "definitionZh": "反對、抵制、提出異議。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這裡的「推」是抽象的，指對某種說法或指控進行反駁。文中：Meta has pushed back against these claims."
+    },
+    {
+      "term": "pull",
+      "definitionEn": "To retrieve or extract information from a source.",
+      "definitionZh": "提取、獲取（資料）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作「拉、拖」，但在科技語境下常指從伺服器或網站抓取資料。文中：Instead, he said the goal is to ensure Meta can pull accurate information about products for sale on third-party websites."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "publishedAt": "2026-10-16T14:02:40Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+      "publishedAt": "2026-10-16T15:41:00Z"
+    }
+  ],
+  "story": {
+    "id": "meta-faces-backlash-over-ai-training-terms",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is the primary consequence for businesses that choose not to accept Meta's updated commercial terms by October 30th?",
+      "options": {
+        "A": "They will be required to pay a new licensing fee to Meta.",
+        "B": "They must discontinue using all Meta products for commercial purposes.",
+        "C": "Their websites will be blocked from appearing in Meta's search results.",
+        "D": "They will lose the ability to use robots.txt files on their own websites."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章倒數第二段，新條款明確指出，如果公司不同意這些政策，他們必須停止將 Meta 的產品用於任何商業目的。選項 A 錯誤，因為文章並未提到拒絕條款會導致付費；選項 C 錯誤，因為文章討論的是 Meta 存取外部網站資料，而非 Meta 封鎖外部網站；選項 D 錯誤，因為 robots.txt 是網站經營者的權限，Meta 的條款爭議點在於是否會無視該檔案，而非剝奪經營者使用它的權利。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the relationship between Meta's new subscription service and its AI data collection strategy?",
+      "options": {
+        "A": "Meta is using the subscription fees to pay news publishers for their content.",
+        "B": "The subscription service is designed to make it easier for publishers to block AI bots.",
+        "C": "Meta may benefit financially from businesses twice: once through subscription fees and again by using their data for free.",
+        "D": "The subscription service is intended to replace the need for AI training on third-party websites."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章倒數第三段，Meta 推出了需要付費才能在貼文中包含連結的訂閱服務，同時又透過新條款獲取這些連結指向的資料來訓練 AI。這暗示了 Meta 採取了雙重獲利模式：一方面向企業收費，另一方面免費利用企業的資料。選項 A 與文章內容矛盾；選項 B 與文中提到的『繞過限制』說法不符；選項 D 則無根據，訂閱服務與 AI 訓練是同時進行的。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fifth paragraph, what does the word \"consolidating\" most likely mean in the context of Meta's explanation for the update?",
+      "options": {
+        "A": "Combining several different items into a single, more effective whole.",
+        "B": "Strengthening a legal argument against potential competitors.",
+        "C": "Reducing the amount of information available to the public.",
+        "D": "Creating new, complex rules to replace outdated ones."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在第五段中，Meta 發言人稱公司只是在「consolidating」（整合）其商業與廣告條款，這意味著將原本分散的規定統一歸納在一起，而非創造新規則或隱藏資訊。選項 B 錯誤，這不是法律辯論的詞彙；選項 C 錯誤，整合通常是為了管理方便，不代表減少資訊；選項 D 錯誤，整合通常是為了簡化，而非使其變得更複雜。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central conflict described in the article regarding Meta's new commercial terms?",
+      "options": {
+        "A": "The technical difficulty of implementing robots.txt files on modern social media platforms.",
+        "B": "A disagreement over whether Meta should provide free advertising to news organizations.",
+        "C": "The tension between Meta's need for AI training data and the rights of content creators to control and be paid for their work.",
+        "D": "The competition between Meta's AI products and traditional search engines like Google."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。全文的核心在於 Meta 試圖透過修改條款來獲取網站資料以訓練 AI，而出版商與法律專家擔憂這會繞過版權保護與付費機制，侵犯了內容創作者的權益。選項 A 只是技術細節；選項 B 並非核心爭議；選項 D 雖然提到 AI 競爭，但文章重點在於 Meta 與出版商之間的版權與資料存取衝突，而非與搜尋引擎的競爭。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
