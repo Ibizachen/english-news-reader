@@ -1,0 +1,165 @@
+{
+  "id": "2026-10-16-spyware-delivered-through-online-advertisements",
+  "slug": "spyware-delivered-through-online-advertisements-oct-2026",
+  "publishedAt": "2026-10-16T00:22:21.717668Z",
+  "category": "technology",
+  "title": "New Security Threat: How Online Ads Are Spreading Spyware",
+  "subtitle": "Researchers discover a dangerous method that infects devices without any user interaction.",
+  "summary": {
+    "en": "A new report reveals that online advertisements are being used to deliver dangerous spyware to mobile devices. This method, known as 'zero-click' spyware, requires no action from the user to install malicious software. Researchers at the University of Toronto’s Citizen Lab identified this threat after investigating infections at a major media organization. The campaign uses a digital advertising agency to profile and target specific individuals. Experts warn that this discovery highlights a serious security risk for internet users worldwide.",
+    "zh": "一份新報告揭露，網路廣告正被用於將危險的間諜軟體植入行動裝置。這種稱為「零點擊」間諜軟體的方法，無需使用者進行任何操作即可安裝惡意軟體。多倫多大學公民實驗室的研究人員在調查一家大型媒體機構的感染事件後，發現了此項威脅。該行動利用數位廣告代理商來分析並鎖定特定個人。專家警告，這項發現凸顯了全球網路使用者面臨的嚴重安全風險。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "A new investigation has uncovered a dangerous way that hackers are using online advertisements to infect mobile devices with spyware. This discovery, published by researchers at the University of Toronto’s Citizen Lab, shows that hackers can now deliver harmful software without the victim ever clicking on a link or opening a file. This type of attack is known as 'zero-click' spyware because it requires no action from the user to succeed.",
+      "zh": "一項新的調查揭露了駭客利用網路廣告，將間諜軟體植入行動裝置的危險手法。這項由多倫多大學（University of Toronto）公民實驗室（Citizen Lab）研究人員發布的發現顯示，駭客現在無需受害者點擊連結或開啟檔案，就能傳送惡意軟體。這類攻擊被稱為「零點擊」間諜軟體，因為它不需要使用者進行任何操作即可成功。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Guardian Technology, this new method is being used to target specific people, including government officials, journalists, and activists. The researchers found that an Israeli advertising agency called Discover-Tech has been serving millions of ads that allow this spyware to be installed. While Discover-Tech presents itself as a normal digital advertising company, Citizen Lab reports that it actually acts as a bridge between advertisers and mercenary spyware firms. These firms are groups that create and sell hacking tools to others.",
+      "zh": "根據《衛報科技版》（The Guardian Technology）報導，這種新方法正被用於鎖定特定人士，包括政府官員、記者與社會運動人士。研究人員發現，一家名為 Discover-Tech 的以色列廣告代理商，一直在投放數百萬則允許安裝此類間諜軟體的廣告。儘管 Discover-Tech 將自己包裝成一家正常的數位廣告公司，但公民實驗室指出，它實際上是廣告商與傭兵間諜軟體公司之間的橋樑。這些公司專門開發並向他人販售駭客工具。"
+    },
+    {
+      "id": "p3",
+      "en": "Ars Technica reports that this campaign, which researchers named 'AdFection,' was responsible for infecting dozens of devices at a major international media organization in 2024 and 2025. The spyware is particularly dangerous because it is invisible to the average user. It can only be found if someone uses special technical tools to check their device. Once installed, the spyware can access almost everything on a phone, including private messages, emails, photos, and even the microphone, which can be used to record conversations without the owner knowing.",
+      "zh": "科技媒體 Ars Technica 報導稱，這項被研究人員命名為「廣告感染」（AdFection）的行動，在二零二四年與二零二五年期間，導致一家大型國際媒體機構的數十台裝置遭到感染。這種間諜軟體特別危險，因為一般使用者根本無法察覺。除非有人使用特殊的技術工具檢查裝置，否則無法發現。一旦安裝，間諜軟體幾乎可以存取手機上的所有內容，包括私人訊息、電子郵件、照片，甚至能操控麥克風，在機主不知情的情況下錄製對話。"
+    },
+    {
+      "id": "p4",
+      "en": "The process works by taking advantage of the complex way online ads are delivered. When a person visits a website or opens an app, their device sends information to many companies in a split-second auction. These companies bid to show an ad to that specific user. According to Citizen Lab, the platform used by Discover-Tech, called Controlium, collects information like a user’s location and identity during this process. If a person is chosen as a target, the system sends a hidden code to their device to install the spyware.",
+      "zh": "此過程是利用網路廣告傳送機制中的複雜性來運作。當一個人造訪網站或開啟應用程式時，其裝置會在瞬間將資訊發送給多家公司進行競價。這些公司會出價爭取向該名特定使用者展示廣告的機會。根據公民實驗室的說法，Discover-Tech 所使用的平台「Controlium」會在過程中收集使用者的位置與身分等資訊。如果某人被選為目標，系統就會發送隱藏代碼到其裝置以安裝間諜軟體。"
+    },
+    {
+      "id": "p5",
+      "en": "Researchers have analyzed a massive amount of data to understand the scale of this operation. Ars Technica noted that Citizen Lab examined more than 4 billion bidding records handled by Discover-Tech. These records show that the company’s ads appeared in over 70,000 mobile apps and 120,000 websites between March and June 2026. This means that millions of people around the world have been exposed to these ads, including individuals in countries like Yemen, Brazil, Mexico, and Czechia.",
+      "zh": "研究人員分析了海量數據，以了解此行動的規模。Ars Technica 指出，公民實驗室審查了超過四十億筆由 Discover-Tech 處理的競價紀錄。這些紀錄顯示，該公司的廣告在二零二六年三月至六月間，出現在超過七萬個行動應用程式與十二萬個網站上。這意味著全球有數百萬人曾接觸過這些廣告，其中包括葉門、巴西、墨西哥與捷克等國的民眾。"
+    },
+    {
+      "id": "p6",
+      "en": "Other research groups, such as Confiant, have also found that these ads were shown to users connected to important organizations. This includes government networks in the United States and Europe, as well as the United Nations, NATO, and the International Atomic Energy Agency. Wolfie Christl, a researcher at Citizen Lab, stated that the current way the online advertising world works is a major security threat for everyone. He noted that it is very concerning that major advertising companies have been unable to detect or stop these malicious operations for years.",
+      "zh": "其他研究組織如 Confiant 也發現，這些廣告曾向連接至重要組織的用戶展示。這包括美國與歐洲的政府網路，以及聯合國（United Nations）、北大西洋公約組織（NATO）與國際原子能總署（International Atomic Energy Agency）。公民實驗室的研究員沃爾菲·克里斯托（Wolfie Christl）表示，當前網路廣告世界的運作方式對所有人而言都是重大的安全威脅。他指出，大型廣告公司多年來竟無法偵測或阻止這些惡意行動，令人深感憂心。"
+    },
+    {
+      "id": "p7",
+      "en": "This investigation serves as a serious warning to organizations and individuals everywhere. Citizen Lab researchers emphasized that newsrooms and their staff should be especially careful, as they are often targets for this kind of surveillance. The findings confirm that the private information collected by the advertising industry can be used to track and hack people with high precision. As technology continues to evolve, this case shows that even something as common as an online advertisement can become a tool for spying. For now, the full extent of the targeting remains unknown, but the evidence suggests that this is a growing problem for digital security.",
+      "zh": "這項調查對各地的組織與個人發出了嚴正警告。公民實驗室的研究人員強調，新聞編輯室及其工作人員應特別小心，因為他們經常是這類監控的目標。研究結果證實，廣告業所收集的私人資訊，可用於精準追蹤並駭入特定對象。隨著科技持續演進，此案例顯示，即便是像網路廣告這樣常見的事物，也可能成為間諜工具。目前，鎖定目標的完整範圍尚不明朗，但證據顯示，這已成為數位安全領域日益嚴重的問題。"
+    }
+  ],
+  "wordCount": 658,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "serving",
+      "definitionEn": "To deliver or provide content (like ads) to a user's device.",
+      "definitionZh": "提供、傳送（內容或廣告）",
+      "partOfSpeech": "verb (present participle)",
+      "noteZh": "常見作「服務」，這裡指廣告系統將廣告傳送給使用者。文中：The researchers found that an Israeli advertising agency called Discover-Tech has been serving millions of ads that allow this spyware to be installed."
+    },
+    {
+      "term": "bridge",
+      "definitionEn": "A connection or link between two different groups or systems.",
+      "definitionZh": "橋樑、連結",
+      "partOfSpeech": "noun (metaphorical)",
+      "noteZh": "這裡比喻作為中間人或連結點。文中：Citizen Lab reports that it actually acts as a bridge between advertisers and mercenary spyware firms."
+    },
+    {
+      "term": "split-second",
+      "definitionEn": "Happening extremely quickly or in a fraction of a second.",
+      "definitionZh": "極短暫的、瞬間的",
+      "partOfSpeech": "adjective",
+      "noteZh": "由 split（分裂）和 second（秒）組成，形容時間極短。文中：When a person visits a website or opens an app, their device sends information to many companies in a split-second auction."
+    },
+    {
+      "term": "exposed to",
+      "definitionEn": "To be put in a situation where you are vulnerable to something harmful.",
+      "definitionZh": "暴露於（危險或有害事物中）",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見作「接觸到」，這裡指陷入危險的環境。文中：This means that millions of people around the world have been exposed to these ads, including individuals in countries like Yemen, Brazil, Mexico, and Czechia."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
+      "title": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say",
+      "publishedAt": "2026-10-15T12:15:22Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+      "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
+      "publishedAt": "2026-10-15T20:32:41Z"
+    }
+  ],
+  "story": {
+    "id": "spyware-delivered-through-online-advertisements",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "spyware-delivered-through-online-advertisements-oct-2026",
+        "title": "Online Advertisements Used to Spread Secret Spyware",
+        "publishedAt": "2026-10-15T22:14:12.792120Z",
+        "category": "technology",
+        "summaryEn": "Researchers at the University of Toronto’s Citizen Lab have discovered that online advertisements are being used to deliver dangerous spyware. This new method allows hackers to infect devices without requiring the user to click on anything. The campaign, which researchers call AdFection, has already targeted dozens of devices at a major international media organization. By using the complex world of digital advertising, hackers can track and monitor people across the globe. Experts warn that this poses a serious security threat to governments, journalists, and everyday internet users."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, how does the 'AdFection' campaign manage to install spyware on a victim's device?",
+      "options": {
+        "A": "By tricking the user into clicking a malicious link in an email.",
+        "B": "By exploiting the automated bidding process used to deliver online advertisements.",
+        "C": "By forcing the user to download a file that contains hidden harmful software.",
+        "D": "By directly hacking into the servers of government organizations and media outlets."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第四段，該攻擊利用了線上廣告傳遞過程中複雜的「競標拍賣」機制，在使用者瀏覽網頁時，系統會發送隱藏代碼來安裝間諜軟體。選項 A 與 C 錯誤，因為這是「零點擊」（zero-click）攻擊，使用者完全不需要點擊連結或下載檔案。選項 D 錯誤，文章並未提到駭客直接入侵政府伺服器，而是透過廣告平台進行攻擊。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the role of the 'Controlium' platform in this operation?",
+      "options": {
+        "A": "It is a security tool designed by Citizen Lab to help users detect hidden spyware.",
+        "B": "It is a legitimate advertising software that was hacked by external cybercriminals.",
+        "C": "It acts as a data-gathering mechanism that helps identify and target specific individuals.",
+        "D": "It is an independent firm that competes with Discover-Tech to sell advertising space."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第四段，Controlium 是 Discover-Tech 使用的平台，它在競標過程中會收集使用者的位置與身分資訊，並據此判斷該使用者是否為目標，進而發送隱藏代碼。這顯示該平台是駭客進行精準鎖定目標的關鍵工具。選項 A 錯誤，它是攻擊工具而非防禦工具；選項 B 錯誤，文章指出 Discover-Tech 本身就扮演了連接廣告主與間諜軟體公司的橋樑；選項 D 錯誤，它是 Discover-Tech 內部的平台。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the second paragraph, what does the word 'bridge' mean in the context of Discover-Tech's operations?",
+      "options": {
+        "A": "A physical structure built to connect two separate geographical locations.",
+        "B": "A metaphorical link or intermediary connecting two different parties.",
+        "C": "A software feature that allows users to share data between different devices.",
+        "D": "A process of reducing the distance between two competing advertising firms."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在此語境下，「bridge」並非指實體的橋樑，而是指 Discover-Tech 作為中間人（intermediary），連接了廣告主與販售駭客工具的間諜軟體公司。選項 A 是字面意義，在此不適用；選項 C 與 D 雖然提到連接或縮短距離，但並非文中描述的商業角色關係。此詞彙運用了隱喻手法，描述其在供應鏈中的中介角色。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of this article regarding online advertising security?",
+      "options": {
+        "A": "Online advertising is becoming safer due to new detection tools created by researchers.",
+        "B": "Only government officials and journalists need to be concerned about their digital privacy.",
+        "C": "The advertising industry is successfully stopping malicious operations before they reach users.",
+        "D": "The complexity and data collection practices of online advertising create significant security vulnerabilities."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。文章整體旨在探討線上廣告生態系統如何被濫用，特別是透過廣告競標過程中的資料收集，導致「零點擊」間諜軟體得以傳播，這對數位安全構成嚴重威脅。選項 A 與 C 與文章內容相反，文中提到廣告公司多年來都無法偵測或阻止這些攻擊；選項 B 錯誤，雖然這些人是主要目標，但文章強調這是一個廣泛的數位安全問題，影響範圍極廣。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
