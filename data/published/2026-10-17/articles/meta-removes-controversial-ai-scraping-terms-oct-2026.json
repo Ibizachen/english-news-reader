@@ -1,0 +1,154 @@
+{
+  "id": "2026-10-17-meta-removes-controversial-ai-scraping-terms",
+  "slug": "meta-removes-controversial-ai-scraping-terms-oct-2026",
+  "publishedAt": "2026-10-17T22:14:12.581847Z",
+  "category": "technology",
+  "title": "Meta Changes AI Rules After Public Concern",
+  "subtitle": "The company removes controversial language that worried news publishers about how it trains artificial intelligence.",
+  "summary": {
+    "en": "Meta has updated its commercial terms to remove language that suggested it could scrape news websites for AI training. Many experts and publishers previously expressed concern that the company was trying to take content without permission. Meta claims the language was misunderstood and only applied to its business products. The company insists that its use of web crawlers has not changed. Website owners can still use standard tools to block Meta from accessing their content.",
+    "zh": "Meta 已更新其商業條款，刪除了暗示其可抓取新聞網站以進行人工智慧訓練的文字。許多專家與出版商先前擔憂該公司試圖在未經許可下取得內容。Meta 聲稱相關文字遭到誤解，僅適用於其商業產品。該公司堅稱其使用網路爬蟲的方式並未改變，網站擁有者仍可使用標準工具封鎖 Meta 存取其內容。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Meta has officially updated its commercial terms to remove specific language that caused significant concern among news publishers and digital experts. The company, which owns platforms like Facebook and Instagram, faced a wave of criticism recently after it appeared to grant itself the right to scrape—or automatically collect—content from websites to train its artificial intelligence (AI) models. By removing these terms, Meta is attempting to calm fears that it was planning to use news articles and other online content for free without respecting the wishes of website owners.",
+      "zh": "Meta 已正式更新其商業條款，刪除了先前引起新聞出版商與數位專家高度擔憂的特定文字。這家擁有 Facebook 與 Instagram 等平台的公司，近期因被認為賦予自己抓取（即自動蒐集）網站內容以訓練人工智慧模型的權利，而面臨一波批評。透過刪除這些條款，Meta 試圖平息外界對於該公司計畫在未尊重網站擁有者意願的情況下，免費使用新聞報導及其他網路內容的疑慮。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Verge, the controversial language previously stated that Meta could use content from various web pages to develop, improve, and train its products. Many observers, including James Grimmelmann, a professor of digital and information law at Cornell, interpreted this as a move by Meta to ignore “robots.txt” files. A robots.txt file is a simple text file on a website that tells search engines and other automated programs which parts of the site they are allowed to visit. If a website owner uses this file to block a company, they expect that company to respect those instructions. Experts feared that Meta’s new terms were an attempt to bypass these blocks entirely.",
+      "zh": "根據科技媒體 The Verge 報導，先前具爭議的條款內容指出，Meta 可使用來自各網頁的內容來開發、改善及訓練其產品。包含康乃爾大學（Cornell University）數位與資訊法教授格里梅爾曼（James Grimmelmann）在內的許多觀察家認為，此舉意在忽略網站的「機器人排除標準」（robots.txt）檔案。機器人排除標準是網站上的一種簡單文字檔，用來告知搜尋引擎及其他自動化程式哪些頁面可以存取。若網站擁有者使用此檔案封鎖某家公司，他們預期該公司會遵守這些指令。專家當時擔憂，Meta 的新條款是為了完全繞過這些封鎖機制。"
+    },
+    {
+      "id": "p3",
+      "en": "This update follows a period of tension between Meta and the news industry. Earlier in October 2026, reports emerged that Meta was changing its rules for business accounts, which caused alarm among publishers who worried about their intellectual property. The situation became more heated as people began to question whether the company was prioritizing its AI development over the rights of content creators. The debate highlights a growing conflict in the tech world: how much power should large AI companies have when gathering the massive amounts of data required to make their systems smarter?",
+      "zh": "此次更新發生在 Meta 與新聞產業關係緊張的時期。二〇二六年十月初，有報導指出 Meta 正在更改商業帳號規則，引發出版商對其智慧財產權的擔憂。隨著大眾開始質疑該公司是否將人工智慧開發置於內容創作者權益之上，局勢變得更加緊繃。這場爭論凸顯了科技界日益嚴重的衝突：大型人工智慧公司在蒐集訓練系統所需的龐大數據時，究竟應該擁有多少權力？"
+    },
+    {
+      "id": "p4",
+      "en": "In response to the backlash, Meta has taken a defensive position. Andy Stone, Meta’s vice president of communications, and company spokesperson Daniel Roberts have both pushed back against the criticism. According to The Verge, the company maintains that the language in question was only meant to cover its advertising and business services, not to give it new powers to scrape news sites. Daniel Roberts stated that the company has heard the public's concerns and decided to clarify the terms to avoid further confusion. He emphasized that the update does not change how Meta uses web crawlers, which are the automated programs that scan the internet.",
+      "zh": "面對強烈反彈，Meta 採取了防禦姿態。Meta 通訊副總裁史東（Andy Stone）與公司發言人羅伯茲（Daniel Roberts）皆對批評做出反擊。根據 The Verge 報導，該公司堅稱相關條款僅適用於其廣告與商業服務，並非賦予其抓取新聞網站的新權力。羅伯茲表示，公司已聽取大眾疑慮，並決定釐清條款以避免進一步混淆。他強調，此次更新並未改變 Meta 使用網路爬蟲（即掃描網際網路的自動化程式）的方式。"
+    },
+    {
+      "id": "p5",
+      "en": "Meta’s official statement insists that the company continues to respect the choices of website owners. Roberts clarified that content owners can still use robots.txt files to signal their preferences. He noted that the company’s recent updates do not provide Meta with any new rights that would override these existing preferences. By removing the language, Meta hopes to end the debate and reassure publishers that their content is not being taken unfairly for AI training purposes.",
+      "zh": "Meta 的官方聲明堅稱，公司持續尊重網站擁有者的選擇。羅伯茲澄清，內容擁有者仍可使用機器人排除標準檔案來表達其偏好。他指出，公司近期的更新並未賦予 Meta 任何凌駕於這些既有偏好之上的新權利。透過刪除相關文字，Meta 希望終結爭論，並向出版商保證其內容不會在未經公平對待的情況下被用於人工智慧訓練。"
+    },
+    {
+      "id": "p6",
+      "en": "As the technology industry continues to evolve, the relationship between AI companies and news organizations remains a critical issue. While Meta has taken this step to address current complaints, the broader question of how AI companies should pay for or use the data they scrape is far from settled. For now, publishers will likely continue to monitor how tech giants interact with their websites, ensuring that their content remains protected in an increasingly automated digital world. The move by Meta serves as a reminder of how much influence public feedback can have on the policies of the world's largest technology companies.",
+      "zh": "隨著科技產業持續演進，人工智慧公司與新聞機構之間的關係仍是關鍵議題。儘管 Meta 已採取行動回應當前的抱怨，但關於人工智慧公司應如何付費或使用所抓取數據的廣泛問題，仍遠未解決。目前，出版商可能會持續監控科技巨頭與其網站的互動方式，確保在日益自動化的數位世界中，其內容能受到保護。Meta 的此舉提醒了大眾，公眾意見對於全球大型科技公司的政策制定具有多大的影響力。"
+    }
+  ],
+  "wordCount": 638,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "block",
+      "definitionEn": "To prevent someone or something from entering or using a website.",
+      "definitionZh": "封鎖；阻擋。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（街區、積木），這裡作動詞用。文中：If a website owner uses this file to block a company, they expect that company to respect those instructions."
+    },
+    {
+      "term": "pushed back",
+      "definitionEn": "To express strong disagreement or opposition to a plan or idea.",
+      "definitionZh": "反對；抵制；表達異議。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "字面意思為「往後推」，這裡指對批評做出反擊或表達反對意見。文中：Andy Stone, Meta’s vice president of communications, and company spokesperson Daniel Roberts have both pushed back against the criticism."
+    },
+    {
+      "term": "settled",
+      "definitionEn": "Decided or resolved; no longer likely to change.",
+      "definitionZh": "已解決的；定案的。",
+      "partOfSpeech": "adjective",
+      "noteZh": "常見作動詞（定居、解決），這裡作形容詞用，形容問題尚未有定論。文中：While Meta has taken this step to address current complaints, the broader question of how AI companies should pay for or use the data they scrape is far from settled."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "publishedAt": "2026-10-17T15:04:36Z"
+    }
+  ],
+  "story": {
+    "id": "meta-faces-backlash-over-ai-training-terms",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "meta-faces-backlash-over-ai-training-terms-oct-2026",
+        "title": "Meta Faces Backlash Over New Rules for AI Training",
+        "publishedAt": "2026-10-16T22:13:50.114127Z",
+        "category": "technology",
+        "summaryEn": "Meta is updating its commercial terms to allow the company to crawl and use data from websites linked to business accounts. These changes, which take effect on October 30th, have caused alarm among news publishers. Experts worry that Meta might use this content to train its artificial intelligence models without paying licensing fees. While Meta claims the update is only for improving ad recommendations, critics argue it could bypass existing protections. Businesses that do not agree to these terms must stop using Meta’s platforms entirely."
+      },
+      {
+        "slug": "openai-faces-lawsuits-over-child-safety-oct-2026",
+        "title": "Eight US States Sue OpenAI Over Child Safety Concerns",
+        "publishedAt": "2026-10-15T00:30:40.895102Z",
+        "category": "technology",
+        "summaryEn": "Eight US states have filed lawsuits against OpenAI, accusing the company of harming children. The states claim that ChatGPT encourages dangerous behavior and provides harmful advice to young users. They also argue that OpenAI has misled the public about the safety of its technology. OpenAI denies these claims, stating that it has built industry-leading protections for its users. The legal action seeks to force the company to change its practices and pay damages."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what was the specific purpose Meta claimed the controversial language was originally intended for?",
+      "options": {
+        "A": "To train their AI models more efficiently.",
+        "B": "To support their advertising and business services.",
+        "C": "To allow for the automatic collection of news content.",
+        "D": "To override existing robots.txt file configurations."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第四段，Meta 的發言人 Daniel Roberts 明確指出，該爭議性條款原本的用意是為了涵蓋其「廣告與商業服務」（advertising and business services），而非為了賦予公司抓取新聞網站的新權限。選項 A 是外界的擔憂而非 Meta 的說法；選項 C 是 Meta 被指控的行為，而非其聲明的目的；選項 D 則是法律專家對該條款的擔憂，Meta 強調並未打算這麼做。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the relationship between website owners and Meta regarding data usage?",
+      "options": {
+        "A": "Website owners have no legal way to stop Meta from accessing their content.",
+        "B": "Meta has completely stopped using all web crawlers to scan the internet.",
+        "C": "There is ongoing mistrust between content creators and Meta despite the recent update.",
+        "D": "Meta now pays publishers for the data they collect through web crawlers."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章最後一段提到，雖然 Meta 採取了行動來解決當前的抱怨，但關於 AI 公司應如何付費或使用數據的問題「遠未解決」（far from settled），且出版商仍會繼續監控科技巨頭的行為。這顯示雙方的不信任感依然存在。選項 A 錯誤，因為文章提到網站擁有者仍可透過 robots.txt 檔案來表達意願；選項 B 錯誤，文章提到 Meta 並未改變使用網頁爬蟲的方式；選項 D 在文中並未提及。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fourth paragraph, what does the phrase 'pushed back against the criticism' mean?",
+      "options": {
+        "A": "To reject or challenge the negative feedback received.",
+        "B": "To physically move away from the people complaining.",
+        "C": "To apologize and accept responsibility for the errors.",
+        "D": "To delay the implementation of the new update."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在文中，Meta 的高層主管面對外界的批評，採取了防禦性的立場（defensive position）並進行反駁，說明條款的真實意圖。因此「pushed back」在此處意指拒絕接受批評或對其提出異議。選項 B 是對片語的字面誤解；選項 C 與文意相反，Meta 並未道歉，而是澄清立場；選項 D 與該片語的語意無關。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of this article?",
+      "options": {
+        "A": "Meta has successfully created a new AI model using news publisher content.",
+        "B": "The legal battle between Cornell professors and Meta has finally ended.",
+        "C": "Meta modified its terms due to public pressure, highlighting the tension between AI development and content rights.",
+        "D": "Publishers have decided to stop using robots.txt files to block AI companies."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。全文的核心在於 Meta 因為擔心引發出版商與大眾的反彈，修改了其商業條款，並藉此事件探討 AI 公司在獲取數據時，如何平衡商業發展與內容創作者權益的衝突。選項 A 無法從文中證實；選項 B 過於狹隘，僅提到了一位評論者；選項 D 與文章內容完全相反，出版商仍會使用這些檔案來保護內容。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
