@@ -1,0 +1,159 @@
+{
+  "id": "2026-10-18-meta-removes-controversial-ai-scraping-terms",
+  "slug": "meta-removes-controversial-ai-scraping-terms-oct-2026",
+  "publishedAt": "2026-10-18T00:00:48.670053Z",
+  "category": "technology",
+  "title": "Meta Removes Controversial Language About Scraping News Websites",
+  "subtitle": "The tech giant changes its business terms after facing strong criticism from experts and publishers.",
+  "summary": {
+    "en": "Meta has updated its commercial terms to remove language that caused concern among news publishers. Many experts worried the company was trying to take website content to train its artificial intelligence models without permission. Meta claims the language was misunderstood and only applied to its business and advertising products. The company insists that website owners can still use standard tools to block its web crawlers. This update follows a period of public backlash regarding how tech companies use online data.",
+    "zh": "Meta 已更新其商業條款，刪除了引起新聞出版商擔憂的措辭。許多專家曾擔心該公司試圖在未經許可的情況下，獲取網站內容來訓練其人工智慧模型。Meta 聲稱該措辭遭到誤解，且僅適用於其商業與廣告產品。該公司堅稱網站擁有者仍可使用標準工具來封鎖其網路爬蟲。此次更新是在公眾對科技公司如何使用網路數據產生反彈後所做出的調整。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Meta has officially updated its commercial terms to remove specific language that many people believed allowed the company to scrape news websites for its artificial intelligence (AI) training. This change follows a period of intense public criticism, where experts and news organizations expressed deep concern that the company was trying to take their content without permission.",
+      "zh": "Meta 已正式更新其商業條款，刪除了許多人認為允許該公司抓取新聞網站內容以進行人工智慧（AI）訓練的特定措辭。在此之前，該公司面臨了強烈的公眾批評，專家與新聞機構紛紛表達深切擔憂，認為該公司試圖在未經許可的情況下獲取他們的內容。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Verge, the controversial language previously stated that Meta could use content from various websites to develop, improve, and train its products. Many observers, including James Grimmelmann, a professor of digital and information law at Cornell University, interpreted this as an attempt by Meta to take data for free. Critics argued that this language might have allowed the company to ignore \"robots.txt\" files, which are simple instructions that website owners use to tell search engines and other automated programs not to copy their information.",
+      "zh": "根據科技媒體 The Verge 報導，先前備受爭議的條款內容指出，Meta 可以使用來自各個網站的內容來開發、改進及訓練其產品。許多觀察家，包括康乃爾大學（Cornell University）數位與資訊法教授格里梅爾曼（James Grimmelmann），將此解讀為 Meta 試圖免費獲取數據。批評者認為，這些措辭可能讓該公司得以無視「機器人排除標準」（robots.txt）檔案，這是網站擁有者用來告知搜尋引擎及其他自動化程式，禁止複製其資訊的簡易指令。"
+    },
+    {
+      "id": "p3",
+      "en": "In response to the growing backlash, Meta has now removed these lines from its commercial terms page. The company is trying to calm fears that it is secretly taking news content to build its AI models. Andy Stone, a vice president of communications at Meta, and company spokesperson Daniel Roberts have both pushed back against the idea that the company was changing its data collection methods. They stated that any suggestion that Meta was trying to scrape news sites in a new way is false.",
+      "zh": "為了回應日益高漲的反彈聲浪，Meta 現已從其商業條款頁面中刪除了這些條文。該公司試圖平息外界對於其暗中獲取新聞內容以建立 AI 模型的恐懼。Meta 通訊副總裁史東（Andy Stone）與公司發言人羅伯茲（Daniel Roberts）皆反駁了該公司正在改變數據收集方式的說法。他們表示，任何關於 Meta 試圖以新方式抓取新聞網站的臆測皆非事實。"
+    },
+    {
+      "id": "p4",
+      "en": "Daniel Roberts explained the situation further in a statement to The Verge. He clarified that the rules were only meant for Meta’s advertising and business products. He emphasized that the update does not change how the company uses \"web crawlers\"—which are automated programs that browse the internet to collect data. Roberts also confirmed that website owners still have the power to protect their content. He noted that owners can continue to use the standard robots.txt files to signal their preferences, and Meta will respect those settings.",
+      "zh": "羅伯茲在給 The Verge 的聲明中進一步解釋了情況。他澄清，這些規則僅適用於 Meta 的廣告與商業產品。他強調，此次更新並未改變該公司使用「網路爬蟲」（web crawlers）的方式，這些爬蟲是瀏覽網際網路以收集數據的自動化程式。羅伯茲也證實，網站擁有者仍有權保護其內容。他指出，擁有者可以繼續使用標準的機器人排除標準檔案來表達其意願，而 Meta 將會尊重這些設定。"
+    },
+    {
+      "id": "p5",
+      "en": "This situation highlights the ongoing tension between large technology companies and the news industry. As AI models become more powerful, they require massive amounts of data to learn and improve. This has led to a debate about whether tech companies should pay news publishers for the right to use their articles. Many publishers are worried that if their work is used to train AI, they will lose traffic and money, as users might get answers directly from the AI instead of visiting the original news websites.",
+      "zh": "此事件凸顯了大型科技公司與新聞產業之間持續存在的緊張關係。隨著 AI 模型變得愈發強大，它們需要海量的數據來進行學習與改進。這引發了一場辯論：科技公司是否應該為使用新聞出版商的文章支付費用。許多出版商擔心，若他們的作品被用於訓練 AI，將會流失流量與收入，因為使用者可能會直接從 AI 獲得答案，而不再造訪原始的新聞網站。"
+    },
+    {
+      "id": "p6",
+      "en": "For now, Meta is trying to move past this controversy by clarifying its intentions. By removing the confusing language, the company hopes to show that it is not trying to take away the rights of content creators. However, the event has left many in the media industry feeling cautious. It serves as a reminder that as AI technology grows, the rules governing how data is collected and used will remain a major point of conflict between tech giants and the rest of the internet.",
+      "zh": "目前，Meta 正試圖透過釐清其意圖來平息這場爭議。透過刪除令人困惑的措辭，該公司希望展現其並非試圖剝奪內容創作者的權利。然而，此事件已讓許多媒體產業人士感到謹慎。這提醒了人們，隨著 AI 技術的發展，規範數據如何收集與使用的規則，將持續成為科技巨頭與網際網路其他參與者之間的主要衝突點。"
+    },
+    {
+      "id": "p7",
+      "en": "Looking ahead, it is clear that the relationship between AI developers and content owners will continue to be a subject of intense discussion. As companies like Meta continue to build new features, they will likely face more questions about transparency and fairness. For website owners, the ability to control how their content is used remains a top priority. Whether these changes will be enough to satisfy critics remains to be seen, but for now, the removal of the controversial terms marks a significant step in Meta’s attempt to address the concerns of the public.",
+      "zh": "展望未來，顯而易見的是，AI 開發者與內容擁有者之間的關係將持續成為激烈討論的主題。隨著像 Meta 這樣的公司持續開發新功能，他們很可能會面臨更多關於透明度與公平性的質疑。對於網站擁有者而言，控制其內容使用方式的能力依然是首要任務。這些變更是否足以滿足批評者仍有待觀察，但就目前而言，刪除這些具爭議性的條款，標誌著 Meta 在回應公眾疑慮上邁出了重要的一步。"
+    }
+  ],
+  "wordCount": 642,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "scrape",
+      "definitionEn": "To use a computer program to automatically copy large amounts of data from a website.",
+      "definitionZh": "（網路用語）抓取、爬取（網站資料）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見於指「刮除」或「擦掉」，這裡指自動化蒐集網路資料。文中：many people believed allowed the company to scrape news websites for its artificial intelligence (AI) training."
+    },
+    {
+      "term": "pushed back",
+      "definitionEn": "To express strong disagreement with a plan, idea, or statement.",
+      "definitionZh": "反對、抵制、駁斥。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "字面意為「向後推」，這裡指對某種說法表達反對意見。文中：Andy Stone, a vice president of communications at Meta, and company spokesperson Daniel Roberts have both pushed back against the idea that the company was changing its data collection methods."
+    },
+    {
+      "term": "move past",
+      "definitionEn": "To stop being affected by a difficult situation or to stop focusing on a past problem.",
+      "definitionZh": "克服、放下（某事），不再受困於過去的爭議。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這裡指公司試圖擺脫爭議，不再糾結於此。文中：For now, Meta is trying to move past this controversy by clarifying its intentions."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "publishedAt": "2026-10-17T15:04:36Z"
+    }
+  ],
+  "story": {
+    "id": "meta-faces-backlash-over-ai-training-terms",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "meta-removes-controversial-ai-scraping-terms-oct-2026",
+        "title": "Meta Changes AI Rules After Public Concern",
+        "publishedAt": "2026-10-17T22:14:12.581847Z",
+        "category": "technology",
+        "summaryEn": "Meta has updated its commercial terms to remove language that suggested it could scrape news websites for AI training. Many experts and publishers previously expressed concern that the company was trying to take content without permission. Meta claims the language was misunderstood and only applied to its business products. The company insists that its use of web crawlers has not changed. Website owners can still use standard tools to block Meta from accessing their content."
+      },
+      {
+        "slug": "meta-faces-backlash-over-ai-training-terms-oct-2026",
+        "title": "Meta Faces Backlash Over New Rules for AI Training",
+        "publishedAt": "2026-10-16T22:13:50.114127Z",
+        "category": "technology",
+        "summaryEn": "Meta is updating its commercial terms to allow the company to crawl and use data from websites linked to business accounts. These changes, which take effect on October 30th, have caused alarm among news publishers. Experts worry that Meta might use this content to train its artificial intelligence models without paying licensing fees. While Meta claims the update is only for improving ad recommendations, critics argue it could bypass existing protections. Businesses that do not agree to these terms must stop using Meta’s platforms entirely."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what specific tool can website owners use to signal that they do not want their information copied by automated programs?",
+      "options": {
+        "A": "The company's commercial terms page",
+        "B": "Robots.txt files",
+        "C": "Artificial intelligence training logs",
+        "D": "Meta's official communication statements"
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第二段與第四段明確指出，網站擁有者可以使用「robots.txt」檔案來指示搜尋引擎或其他自動化程式不要複製他們的資訊。選項 A 是 Meta 修改條款的地方，並非網站擁有者的保護工具；選項 C 與 D 均與網站擁有者控制內容存取權限的機制無關。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Why are many news publishers concerned about their content being used to train AI models?",
+      "options": {
+        "A": "They believe AI models will improve the quality of their journalism.",
+        "B": "They worry that AI will increase the number of visitors to their websites.",
+        "C": "They fear that users will rely on AI for answers instead of visiting their original sites.",
+        "D": "They are concerned that Meta will force them to pay for AI training services."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第五段，出版商擔心若 AI 直接提供答案，使用者就不會造訪原始新聞網站，這會導致網站流量減少並損失收入。選項 A 與文章觀點相反；選項 B 錯誤，因為出版商擔心的是流量流失；選項 D 在文中並未提及，出版商擔心的是被「拿走」內容，而非被要求付費。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the third paragraph, what does the word 'backlash' most likely mean?",
+      "options": {
+        "A": "A strong, negative public reaction to a decision",
+        "B": "An official update to a set of business rules",
+        "C": "A technical error in a computer program",
+        "D": "A process of collecting data from the internet"
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。「Backlash」在文中指的是面對爭議性條款時，大眾與專家強烈的負面反應與反對聲浪。選項 B 是 Meta 的行為，而非 backlash 的定義；選項 C 與技術錯誤無關；選項 D 描述的是 web scraping 的行為，與 backlash 的情緒性含義不符。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of this article regarding Meta's recent actions?",
+      "options": {
+        "A": "Meta has fully resolved all conflicts with the global news industry.",
+        "B": "Meta is moving to completely shut down its AI training programs.",
+        "C": "Meta is attempting to address public concern by clarifying its terms, though tensions over data usage persist.",
+        "D": "Meta's changes to its commercial terms prove that the company was previously stealing data."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章主旨圍繞在 Meta 如何透過修改條款來回應爭議，但同時指出這類科技巨頭與內容創作者之間的數據使用衝突仍未完全解決。選項 A 過於樂觀，文中提到媒體業仍感到謹慎；選項 B 與事實不符，Meta 並未停止 AI 訓練；選項 D 帶有強烈主觀判斷，文章僅陳述了各方觀點，並未證實 Meta 的意圖。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
