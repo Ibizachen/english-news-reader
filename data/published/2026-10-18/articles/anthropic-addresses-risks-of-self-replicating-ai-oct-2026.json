@@ -1,0 +1,155 @@
+{
+  "id": "2026-10-18-anthropic-addresses-risks-of-self-replicating-ai",
+  "slug": "anthropic-addresses-risks-of-self-replicating-ai-oct-2026",
+  "publishedAt": "2026-10-18T22:14:16.556415Z",
+  "category": "technology",
+  "title": "New AI Security Risks: Understanding 'AI Worms'",
+  "subtitle": "Researchers warn about self-replicating programs that could spread through smart devices.",
+  "summary": {
+    "en": "Researchers at the AI company Anthropic have identified a new security threat called 'AI worms.' These are programs that can copy themselves and spread between internet-connected devices. Unlike older computer viruses, these AI models can learn and adapt to new systems. Experts warn that current cybersecurity defenses are not prepared for this type of threat. Meanwhile, Anthropic is working with external groups to better test its systems for such dangers.",
+    "zh": "人工智慧公司安索比克的研究人員發現了一種名為「人工智慧蠕蟲」的新型安全威脅。這些程式能夠自我複製並在連網裝置之間傳播。與舊式電腦病毒不同，這些人工智慧模型能夠學習並適應新系統。專家警告，目前的網路安全防禦措施尚未準備好應對此類威脅。與此同時，安索比克正與外部團體合作，以更好地測試其系統是否存在此類危險。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "In the fast-moving world of technology, new warnings about artificial intelligence appear almost every day. While many people worry about how AI might change jobs or society, security experts are now focused on a more immediate danger: the 'AI worm.' A report from the offensive research team at Anthropic, a leading AI company, has brought attention to this threat. The researchers created a malicious AI program that could spread on its own through internet-connected devices, such as smart televisions.",
+      "zh": "在瞬息萬變的科技世界中，關於人工智慧的新警訊幾乎每天都在出現。雖然許多人擔心人工智慧可能如何改變工作或社會，但安全專家現在正聚焦於一個更迫切的危險：人工智慧蠕蟲。人工智慧領先企業安索比克（Anthropic）旗下的攻擊性研究團隊所發布的一份報告，引起了人們對此威脅的關注。研究人員開發了一種惡意人工智慧程式，能夠透過連網裝置（例如智慧電視）自行傳播。"
+    },
+    {
+      "id": "p2",
+      "en": "To understand this risk, it helps to know what a 'worm' is in computer terms. A worm is a type of computer virus that can copy itself and move from one machine to another without needing a human to click on anything. Historically, these programs have caused massive damage to the internet. For example, the Morris worm in 1988 slowed down many computers, while the Stuxnet worm was used to damage nuclear equipment. Other famous worms have caused billions of dollars in losses worldwide.",
+      "zh": "為了理解這種風險，了解電腦術語中「蠕蟲」的定義很有幫助。蠕蟲是一種電腦病毒，能夠自我複製並在不同機器間移動，無需人類進行任何點擊。從歷史上看，這些程式曾對網際網路造成巨大破壞。例如，一九八八年的莫里斯蠕蟲（Morris worm）曾導致許多電腦運作緩慢，而震網蠕蟲（Stuxnet）則被用於破壞核能設備。其他著名的蠕蟲也在全球造成了數十億美元的損失。"
+    },
+    {
+      "id": "p3",
+      "en": "What makes the new AI worms different is their ability to learn. According to The Guardian, Ariel Herbert-Voss, an AI security expert, noted that AI models can learn as they go. This means an AI worm could potentially study new software weaknesses and adapt to different types of hardware. The Anthropic team showed that their program could split itself across 15 different smart televisions and still function by using a small amount of power from each one. This is dangerous because many smart devices have weak security and are rarely updated with the latest software fixes, making them easy targets for such programs.",
+      "zh": "新型人工智慧蠕蟲的獨特之處在於其學習能力。根據《衛報》（The Guardian）報導，人工智慧安全專家艾莉兒·赫伯特-沃斯（Ariel Herbert-Voss）指出，人工智慧模型能夠邊運作邊學習。這意味著人工智慧蠕蟲可能研究新的軟體漏洞，並適應不同類型的硬體。安索比克團隊展示了他們的程式可以分散在十五台不同的智慧電視上，並透過從每台裝置汲取少量電力來維持運作。這之所以危險，是因為許多智慧裝置安全性薄弱，且鮮少更新最新的軟體修補程式，使其成為這類程式的輕易目標。"
+    },
+    {
+      "id": "p4",
+      "en": "Joshua Saxe, who leads AI security at Meta, said that the cybersecurity community needs to take these real risks more seriously. He explained that we must find ways to reduce the possible effects of these attacks, just as we do with other types of cyber threats. While some experts, such as former National Cyber Director Chris Inglis, have suggested that worms could theoretically be used for helpful purposes, the primary concern remains the potential for widespread harm.",
+      "zh": "在Meta負責人工智慧安全的約書亞·薩克斯（Joshua Saxe）表示，網路安全社群需要更嚴肅地看待這些真實存在的風險。他解釋說，我們必須找到方法來降低這些攻擊可能造成的影響，就像我們處理其他類型的網路威脅一樣。雖然一些專家，例如前國家網路總監克里斯·英格利斯（Chris Inglis），曾提出蠕蟲在理論上可用於有益目的，但主要的擔憂仍然是其造成大規模損害的潛力。"
+    },
+    {
+      "id": "p5",
+      "en": "In response to these growing concerns, Anthropic is taking steps to improve its safety measures. According to Ars Technica, the company has granted an outside organization called METR 'employee-like access' to its systems. This means that independent researchers can now work inside Anthropic’s offices to test their models and look for risks. This move is part of a larger effort to ensure that as AI becomes more powerful, it does not go out of control.",
+      "zh": "針對這些日益增長的擔憂，安索比克正採取措施改善其安全防護。根據《阿斯技術》（Ars Technica）報導，該公司已授予一家名為METR的外部組織對其系統進行「員工級別的存取權限」。這意味著獨立研究人員現在可以在安索比克的辦公室內工作，以測試其模型並尋找風險。此舉是確保人工智慧在變得更強大時不會失控的更大努力的一部分。"
+    },
+    {
+      "id": "p6",
+      "en": "This decision follows a call for more transparency from leaders in the industry. In September, the heads of major AI companies, including Anthropic, OpenAI, and SpaceX, agreed that having external auditors—people who check systems from the outside—is a necessary step for safety. Anthropic explained that as their models become more capable, they require stronger safeguards and more difficult risk assessments. They compared this new arrangement to how governments assign examiners to work inside large banks to ensure they are following the rules.",
+      "zh": "這項決定是在業界領袖呼籲提高透明度之後做出的。九月時，包括安索比克、OpenAI和太空探索科技公司（SpaceX）在內的主要人工智慧企業負責人一致認為，聘請外部稽核人員（即從外部檢查系統的人員）是安全方面的必要步驟。安索比克解釋說，隨著他們的模型功能日益強大，需要更嚴格的防護措施與更困難的風險評估。他們將這種新安排比作政府指派審查員進駐大型銀行，以確保其遵守規範。"
+    },
+    {
+      "id": "p7",
+      "en": "However, not everyone is convinced that this is the best solution. Some critics argue that having outside evaluators work so closely with the companies they are supposed to check could lead to conflicts of interest. These critics suggest that instead of relying on internal arrangements, there should be more government regulation to keep the public safe. They point to similar issues in the accounting industry, where close relationships between auditors and the companies they watch have caused problems in the past.",
+      "zh": "然而，並非所有人都認為這是最佳解決方案。一些批評者認為，讓外部評估人員與他們理應監督的公司過於密切合作，可能會導致利益衝突。這些批評者建議，與其依賴內部安排，不如透過更多的政府監管來保障公眾安全。他們指出會計產業也存在類似問題，稽核人員與其監督的公司之間過於密切的關係，過去曾引發不少問題。"
+    },
+    {
+      "id": "p8",
+      "en": "Despite these different views, there is a clear consensus that the current cybersecurity infrastructure is not ready for the rise of AI-based threats. As Herbert-Voss noted, security teams need more resources and better tools to fix these problems before they become widespread. For now, the focus remains on testing, learning, and finding ways to protect the devices that are now a part of our daily lives. As AI continues to evolve, the challenge for companies like Anthropic will be to balance the speed of innovation with the need to keep the world’s digital systems secure.",
+      "zh": "儘管存在這些不同觀點，但各界已達成明確共識，即目前的網路安全基礎設施尚未準備好應對人工智慧威脅的興起。正如赫伯特-沃斯所言，安全團隊需要更多資源與更好的工具，以便在這些問題擴散前加以解決。目前，重點仍放在測試、學習，並尋找保護現已成為我們日常生活一部分的裝置的方法。隨著人工智慧持續演進，像安索比克這樣的公司所面臨的挑戰，將是在創新速度與確保全球數位系統安全的需求之間取得平衡。"
+    }
+  ],
+  "wordCount": 768,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "split",
+      "definitionEn": "To divide into two or more parts.",
+      "definitionZh": "分裂、分開、拆分。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（裂縫），這裡作動詞，指將程式拆解分佈在不同裝置上。文中：The Anthropic team showed that their program could split itself across 15 different smart televisions and still function by using a small amount of power from each one."
+    },
+    {
+      "term": "as they go",
+      "definitionEn": "While doing an activity or process.",
+      "definitionZh": "在進行過程中、邊做邊學。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這是一個口語化的片語，容易被誤解為「當他們離開時」。文中：Ariel Herbert-Voss, an AI security expert, noted that AI models can learn as they go."
+    },
+    {
+      "term": "go out of control",
+      "definitionEn": "To become impossible to manage or direct.",
+      "definitionZh": "失控。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這裡的 go 是「變得」的意思，而非「去」。文中：This move is part of a larger effort to ensure that as AI becomes more powerful, it does not go out of control."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries",
+      "title": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them?",
+      "publishedAt": "2026-10-18T13:30:00Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "publishedAt": "2026-10-18T16:25:19Z"
+    }
+  ],
+  "story": {
+    "id": "anthropic-addresses-risks-of-self-replicating-ai-worms",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the researchers at Anthropic, what specific capability allows their AI worm to function across multiple smart televisions?",
+      "options": {
+        "A": "It copies itself entirely onto every device it infects.",
+        "B": "It distributes its operations by using small amounts of power from each device.",
+        "C": "It forces the televisions to download the latest software updates automatically.",
+        "D": "It relies on human users to manually connect the devices to one another."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第三段明確指出，Anthropic 團隊展示了該程式可以將自己分散在 15 台智慧電視上，並透過從每台設備汲取少量電力來維持運作。選項 A 錯誤，因為文章強調的是「分散（split itself）」而非完整複製；選項 C 錯誤，文中提到這些設備通常很少更新；選項 D 錯誤，文章定義電腦蠕蟲的特點就是無需人類介入。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the relationship between AI companies and external auditors based on the text?",
+      "options": {
+        "A": "AI companies prefer to keep all their security testing internal to avoid government intervention.",
+        "B": "External auditors are universally accepted as the most effective way to prevent AI risks.",
+        "C": "There is an ongoing debate regarding whether close cooperation between auditors and companies compromises safety.",
+        "D": "The government has already passed strict laws requiring all AI companies to hire independent auditors."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第六段與第七段顯示，雖然業界領袖同意外部審計是必要的，但第七段提到批評者擔心這種過於緊密的合作可能導致「利益衝突（conflicts of interest）」，因此這是一個仍在爭論的話題。選項 A 與事實不符，因為公司已主動邀請外部人員；選項 B 過於絕對，文中提到有人反對；選項 D 錯誤，文中並未提及政府已通過強制性法律。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the word 'consensus' mean in the context of the sentence: 'Despite these different views, there is a clear consensus that the current cybersecurity infrastructure is not ready'?",
+      "options": {
+        "A": "A public debate or argument.",
+        "B": "A general agreement among a group of people.",
+        "C": "A scientific theory that has been proven wrong.",
+        "D": "A feeling of uncertainty or doubt."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在文中，「consensus」指的是儘管存在不同意見，但在「目前的資安基礎設施尚未準備好」這一點上，各方達成了一致的共識。選項 A 與句意相反；選項 C 與「理論」無關；選項 D 則描述了與共識相反的狀態。此詞在學術與新聞語境中常用於表示團體內部的共識。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article regarding AI worms?",
+      "options": {
+        "A": "AI worms are exclusively designed to improve the efficiency of smart home devices.",
+        "B": "The threat of AI worms is exaggerated and does not require immediate attention from security experts.",
+        "C": "AI worms are a new, dangerous evolution of cyber threats that require proactive security and oversight.",
+        "D": "The most effective way to stop AI worms is to ban the production of all internet-connected smart devices."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。本文的核心在於介紹 AI 蠕蟲這種新型威脅，並討論了業界如何透過測試、外部審計與加強資安防護來應對此風險。選項 A 錯誤，文章強調的是風險而非效率；選項 B 與文章主旨相反，專家認為必須嚴肅看待；選項 D 過於極端，文章討論的是「管理」與「防禦」而非全面禁止產品。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
