@@ -1,0 +1,165 @@
+{
+  "id": "2026-10-19-amazon-funds-new-nuclear-energy-plant",
+  "slug": "amazon-funds-new-nuclear-energy-plant-oct-2026",
+  "publishedAt": "2026-10-19T22:14:20.632255Z",
+  "category": "energy",
+  "title": "Amazon Invests in Nuclear Power to Feed Growing Data Centers",
+  "subtitle": "As energy demand rises, tech companies turn to advanced nuclear technology to power the future of AI.",
+  "summary": {
+    "en": "Amazon has announced a new agreement to fund a nuclear energy plant in Indiana. This project aims to provide carbon-free electricity for the regional power grid and the company's data centers. The facility will use advanced reactor technology that is currently still in development. This move follows a larger trend of tech giants seeking reliable energy sources for AI infrastructure. Meanwhile, the broader U.S. energy market is seeing a shift toward increased fossil fuel development.",
+    "zh": "亞馬遜宣布一項資助印第安納州核能發電廠的新協議。此計畫旨在為區域電網與該公司的資料中心提供無碳電力。該設施將採用目前仍在開發中的先進反應爐技術。此舉反映了科技巨頭為人工智慧基礎設施尋求可靠能源來源的廣泛趨勢。同時，美國整體能源市場正出現轉向增加化石燃料開發的趨勢。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Amazon has taken a major step toward securing its energy future by signing an agreement to fund a new nuclear power plant in Indiana. The company is working with X-energy and American Electric Power (AEP) to build the facility at the site of the former Breed Generating Station in Sullivan County. According to The Verge, the project aims to provide up to 960 megawatts of carbon-free energy. This power will be shared between the regional electricity grid and Amazon’s own data centers, which require massive amounts of energy to run artificial intelligence services.",
+      "zh": "亞馬遜（Amazon）已邁出重要一步，簽署協議資助印第安納州一座新的核能發電廠，以確保其能源未來。該公司正與 X-energy 及美國電力公司（American Electric Power，簡稱 AEP）合作，在蘇利文郡（Sullivan County）的前布里德發電站（Breed Generating Station）舊址興建此設施。根據科技新聞網站 The Verge 報導，該計畫目標是提供高達 960 百萬瓦的無碳能源。這些電力將由區域電網與亞馬遜自有的資料中心共享，後者需要龐大的能源來運作人工智慧服務。"
+    },
+    {
+      "id": "p2",
+      "en": "The proposed plant plans to use 12 Xe-100 small modular reactors, or SMRs. These are a type of advanced reactor that is still undergoing testing and licensing. A key feature of this technology is its cooling system, which can use air, water, or a mix of both. Amazon noted that this flexibility should allow the reactors to operate in areas where water is limited without putting extra pressure on local water supplies. While the company says the project could create 1,000 construction jobs and 100 permanent positions, no specific timeline for construction or operation has been announced yet.",
+      "zh": "這座擬建的電廠計畫採用 12 座 Xe-100 小型模組化反應爐（SMRs）。這是一種尚在測試與許可階段的先進反應爐。此技術的一大特色在於其冷卻系統，可使用空氣、水或兩者混合。亞馬遜指出，這種靈活性應能讓反應爐在水資源有限的地區運作，而不會對當地供水造成額外壓力。儘管該公司表示此計畫可創造 1,000 個營建職位與 100 個永久職缺，但目前尚未公布具體的興建或營運時程表。"
+    },
+    {
+      "id": "p3",
+      "en": "This Indiana project is not Amazon’s first move into nuclear energy. It is the second collaboration between Amazon and X-energy, following the announcement of the Cascade Advanced Energy Facility in Washington last year. Together, the companies have a goal of deploying more than 5 gigawatts of new nuclear capacity in the United States by 2039. Amazon is part of a larger group of tech giants, including Meta, Microsoft, and Google, that are all exploring nuclear options to meet the high energy demands of their data centers. The company recently shared a blog post outlining its plans to invest in energy infrastructure, hoping to address growing public concerns about the environmental impact of these large-scale data centers.",
+      "zh": "這項印第安納州的計畫並非亞馬遜首次跨足核能領域。這是亞馬遜與 X-energy 的第二次合作，此前雙方已於去年宣布在華盛頓州興建「瀑布先進能源設施」（Cascade Advanced Energy Facility）。兩家公司共同的目標是在 2039 年前，於美國部署超過 5 十億瓦的新核能容量。亞馬遜是科技巨頭聯盟的一員，其他成員還包括 Meta、微軟（Microsoft）與 Google，這些公司都在探索核能選項，以滿足資料中心對能源的高需求。該公司近期發布部落格文章，概述其投資能源基礎設施的計畫，希望能回應大眾對於這些大型資料中心環境影響日益增長的擔憂。"
+    },
+    {
+      "id": "p4",
+      "en": "However, the path to building nuclear plants in the region has not always been smooth. Indiana is also home to the Marble Hill Nuclear Power Plant, a project that was abandoned in 1983 after billions of dollars were spent on it. While the new agreement in Fairbanks is a different project, it highlights the long-term challenges of large energy infrastructure. Furthermore, it will be many years before Amazon and the regional grid can actually receive power from these new facilities.",
+      "zh": "然而，在該地區興建核電廠的過程並非一帆風順。印第安納州曾有過大理石山核能發電廠（Marble Hill Nuclear Power Plant），該計畫在投入數十億美元後，於 1983 年遭到廢棄。雖然費爾班克斯（Fairbanks）的新協議屬於不同計畫，但這凸顯了大型能源基礎設施所面臨的長期挑戰。此外，亞馬遜與區域電網要真正從這些新設施獲得電力，還需要多年時間。"
+    },
+    {
+      "id": "p5",
+      "en": "This development comes at a time when the broader U.S. energy landscape is changing rapidly. A recent report by the Environmental Defense Fund and Atlas Public Policy, cited by The Verge, indicates that electricity demand is growing faster than it has in over a decade. This is due to the expansion of data centers, new factories, and the rise of electric vehicles. While renewable energy sources like wind and solar have grown significantly, the report notes that the current U.S. administration is pushing for more fossil fuel infrastructure. Plans for new gas-fired power plants have increased significantly, rising from 5 percent of all new capacity in 2024 to 30 percent by the second quarter of 2026.",
+      "zh": "此項發展正值美國整體能源版圖快速變動之際。根據 The Verge 引述環境保護基金會（Environmental Defense Fund）與阿特拉斯公共政策研究中心（Atlas Public Policy）的最新報告指出，電力需求成長速度已創下十年來新高。這歸因於資料中心的擴張、新工廠的設立以及電動車的興起。儘管風能與太陽能等再生能源已顯著成長，但報告指出，美國現任政府正推動更多化石燃料基礎設施。新建燃氣發電廠的計畫大幅增加，從 2024 年占所有新增容量的 5%，預計到 2026 年第二季將升至 30%。"
+    },
+    {
+      "id": "p6",
+      "en": "The report warns that if current trends continue, fossil fuels could make up a much larger portion of the development pipeline by the end of the decade. This shift is happening even though renewable energy projects often have lower costs. According to the report, utility-scale solar and wind farms still cost less per megawatt-hour than new natural gas plants. Despite this, some renewable projects are being canceled at a higher rate than fossil fuel projects. The authors of the report suggest that the U.S. power sector is at a critical turning point, where decisions made today will affect energy costs, reliability, and pollution levels for many years to come.",
+      "zh": "報告警告，若當前趨勢持續，到本世紀末，化石燃料在開發計畫中的占比可能會大幅提升。儘管再生能源計畫的成本通常較低，但這種轉變仍在發生。根據報告，公用事業規模的太陽能與風力發電場，每百萬瓦小時的成本仍低於新建的天然氣電廠。儘管如此，部分再生能源計畫被取消的比率卻高於化石燃料計畫。報告作者認為，美國電力產業正處於關鍵轉折點，今日所做的決策將影響未來多年的能源成本、可靠性與污染程度。"
+    },
+    {
+      "id": "p7",
+      "en": "For now, the focus remains on how these different energy sources will compete to meet the nation's rising needs. While tech companies like Amazon are betting on advanced nuclear technology to provide a clean and steady supply of power, the overall market is still heavily influenced by the availability and cost of traditional fossil fuels. Whether these nuclear projects can be completed on time and within budget remains an open question, but they represent a significant shift in how big technology firms are planning their long-term energy strategies.",
+      "zh": "目前，焦點仍集中在這些不同的能源來源將如何競爭，以滿足國家日益增長的需求。雖然像亞馬遜這樣的科技公司正押注於先進核能技術，以提供清潔且穩定的電力供應，但整體市場仍深受傳統化石燃料的供應與成本影響。這些核能計畫能否準時且在預算內完成仍是未知數，但它們代表了大型科技公司在規劃長期能源策略上，出現了重大轉變。"
+    }
+  ],
+  "wordCount": 768,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "run",
+      "definitionEn": "To operate or manage a machine, system, or business.",
+      "definitionZh": "運作、經營、管理。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作「跑」，這裡指運作大型系統。文中：which require massive amounts of energy to run artificial intelligence services."
+    },
+    {
+      "term": "move",
+      "definitionEn": "A step taken to achieve a goal or a change in strategy.",
+      "definitionZh": "行動、舉措、策略上的改變。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（移動），這裡作名詞指商業上的決策。文中：This Indiana project is not Amazon’s first move into nuclear energy."
+    },
+    {
+      "term": "pipeline",
+      "definitionEn": "A series of projects or developments that are in progress or planned.",
+      "definitionZh": "計畫中的項目、籌備中的進度。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見指實體的輸油管，這裡比喻為正在籌備中的開發案。文中：fossil fuels could make up a much larger portion of the development pipeline by the end of the decade."
+    },
+    {
+      "term": "betting on",
+      "definitionEn": "To trust or rely on something to happen or be successful.",
+      "definitionZh": "押注於……、寄望於……。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見指賭博，這裡指對某項技術的未來發展抱持信心。文中：While tech companies like Amazon are betting on advanced nuclear technology to provide a clean and steady supply of power"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
+      "title": "Amazon is funding a new nuclear plant in Indiana",
+      "publishedAt": "2026-10-19T15:44:20Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+      "title": "The fossil fuel comeback is here",
+      "publishedAt": "2026-10-19T21:48:01Z"
+    }
+  ],
+  "story": {
+    "id": "the-stakeholders-of-extraction",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "lithium-extraction-series-part-2",
+        "title": "The Stakeholders of Extraction",
+        "publishedAt": "2026-10-19T05:42:49.062177Z",
+        "category": "energy",
+        "summaryEn": "This article examines the diverse groups involved in lithium mining. It explores the tensions between countries with large reserves, mining companies, and indigenous land rights. The piece highlights the global struggle to balance green energy needs with social justice."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is a specific advantage of the Xe-100 reactors mentioned by Amazon regarding their environmental impact?",
+      "options": {
+        "A": "They are guaranteed to be cheaper than wind and solar energy.",
+        "B": "They can operate in water-scarce areas without straining local water supplies.",
+        "C": "They produce zero carbon emissions while requiring no cooling systems at all.",
+        "D": "They will immediately replace all existing fossil fuel plants in Indiana."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，Xe-100 反應爐的冷卻系統具備彈性，可以使用空氣、水或兩者混合，這能讓反應爐在水資源有限的地區運作，而不對當地供水造成額外壓力。選項 A 文章未提及成本優勢；選項 C 錯誤，因為反應爐仍需冷卻系統；選項 D 為過度推論，文章並未提到要立即取代所有化石燃料電廠。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the future of the Indiana nuclear project based on the text?",
+      "options": {
+        "A": "It is certain to be completed by 2039.",
+        "B": "It will face no regulatory hurdles since it uses modular technology.",
+        "C": "Its success is not guaranteed due to historical and logistical uncertainties.",
+        "D": "It will be the primary source of power for the entire state of Indiana."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第四段提到印第安納州曾有失敗的核電廠案例（Marble Hill），且第七段明確指出該計畫能否準時且在預算內完成仍是個未知數，顯示出其不確定性。選項 A 錯誤，2039 年是整體核能部署的目標，非單一計畫時程；選項 B 錯誤，SMR 技術仍在測試與授權階段；選項 D 誇大了計畫的影響範圍，文中僅提到電力會由電網與 Amazon 分享。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the word 'betting' most closely mean in the context of Amazon's energy strategy?",
+      "options": {
+        "A": "Gambling money in a casino.",
+        "B": "Making a risky investment based on a belief in a future outcome.",
+        "C": "Asking for permission to start a new project.",
+        "D": "Comparing the costs of different energy sources."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在此語境下，「betting on」並非指賭博，而是指企業將資源投入某項技術，並相信其未來能帶來回報或解決問題。選項 A 是字面意思，不適用於商業決策；選項 C 與投資行為無關；選項 D 雖然 Amazon 有評估能源，但「betting」強調的是對該技術成功性的信心與投入，而非單純的比較。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary focus of the article?",
+      "options": {
+        "A": "The history of failed nuclear power projects in the United States.",
+        "B": "The technical specifications of small modular reactors (SMRs).",
+        "C": "The rapid growth of the electric vehicle industry in Indiana.",
+        "D": "How tech companies like Amazon are investing in nuclear energy to handle rising power demands."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。全文的核心在於探討 Amazon 等科技巨頭如何透過投資核能來應對數據中心對電力的龐大需求，並將此趨勢置於美國能源轉型的背景下討論。選項 A 僅是文章第四段的一個小插曲；選項 B 僅是技術細節；選項 C 並非文章重點，文中僅略微提及電動車是電力需求增長的原因之一。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
