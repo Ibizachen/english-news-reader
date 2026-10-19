@@ -1,0 +1,37 @@
+{
+  "id": "lithium-extraction-series",
+  "title": "The White Gold Rush: The Global Struggle for Sustainable Lithium",
+  "subtitle": "An examination of the environmental, economic, and geopolitical tensions defining the transition to green energy.",
+  "description": "Lithium is the cornerstone of the modern electric vehicle revolution, but its extraction carries significant human and environmental costs. This series explores the complex trade-offs between climate goals and local sustainability.",
+  "category": "energy",
+  "status": "active",
+  "updatedAt": "2026-10-19T05:43:20.827695Z",
+  "cadence": "5-part reading path. Complete series available.",
+  "articles": [
+    {
+      "slug": "lithium-extraction-series-part-1",
+      "label": "Part 1",
+      "note": "Explaining why lithium is essential for the energy transition and how the demand has surged."
+    },
+    {
+      "slug": "lithium-extraction-series-part-2",
+      "label": "Part 2",
+      "note": "Identifying the key actors: mining corporations, local governments, and indigenous communities."
+    },
+    {
+      "slug": "lithium-extraction-series-part-3",
+      "label": "Part 3",
+      "note": "The conflict between water usage in arid regions and the need for battery minerals."
+    },
+    {
+      "slug": "lithium-extraction-series-part-4",
+      "label": "Part 4",
+      "note": "How supply chain volatility affects prices and the transition speed for consumers."
+    },
+    {
+      "slug": "lithium-extraction-series-part-5",
+      "label": "Part 5",
+      "note": "Unresolved questions: recycling, alternative battery chemistries, and circular economy policies."
+    }
+  ]
+}
