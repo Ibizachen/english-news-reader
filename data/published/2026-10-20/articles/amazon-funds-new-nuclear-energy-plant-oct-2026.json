@@ -1,0 +1,177 @@
+{
+  "id": "2026-10-20-amazon-funds-new-nuclear-energy-plant",
+  "slug": "amazon-funds-new-nuclear-energy-plant-oct-2026",
+  "publishedAt": "2026-10-20T01:04:56.805303Z",
+  "category": "energy",
+  "title": "Amazon Invests in Nuclear Power to Meet Rising Energy Demands",
+  "subtitle": "The tech giant moves to secure carbon-free electricity as data centers drive a surge in power needs across the United States.",
+  "summary": {
+    "en": "Amazon has signed a new agreement to fund a nuclear energy facility in Indiana. This project aims to provide carbon-free power for both the regional grid and the company's growing number of data centers. The plant will use advanced reactor technology that is currently under development. This move is part of a larger trend of tech companies seeking new energy sources to support artificial intelligence. Meanwhile, the broader energy sector is seeing a shift in how electricity is produced in the United States.",
+    "zh": "亞馬遜已簽署一項新協議，將資助印第安納州的一座核能設施。此計畫旨在為區域電網及該公司日益增加的資料中心提供零碳電力。該電廠將採用目前仍在開發中的先進反應爐技術。此舉是科技公司為支援人工智慧而尋求新能源來源之趨勢的一部分。與此同時，美國整體的能源產業在電力生產方式上正出現轉變。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Amazon is making a significant move to secure its future energy supply. The company recently signed an agreement with X-energy and American Electric Power to fund a new nuclear energy facility in Indiana. According to The Verge, this proposed plant is set to be built at the site of the former coal-fueled Breed Generating Station in Sullivan County. The project aims to provide up to 960 megawatts of carbon-free energy, which will serve both the regional power grid and Amazon’s own data centers.",
+      "zh": "亞馬遜（Amazon）正採取重大行動以確保未來的能源供應。該公司近期與 X-energy 及美國電力公司（American Electric Power）簽署協議，將資助印第安納州一座新的核能設施。根據科技媒體 The Verge 報導，這座擬建的電廠預計將設於沙利文郡（Sullivan County）前布里德燃煤發電廠（Breed Generating Station）的舊址。該計畫目標是提供高達 960 百萬瓦的零碳能源，以供應區域電網及亞馬遜自有的資料中心使用。"
+    },
+    {
+      "id": "p2",
+      "en": "This project is part of a larger strategy for Amazon. The company has a goal of working with regional utility providers to deploy more than 5 gigawatts of new nuclear capacity in the United States by 2039. A gigawatt is a unit of power equal to one billion watts. This Indiana project is the second collaboration between Amazon and X-energy. Last year, Amazon announced a similar plan for the Cascade Advanced Energy Facility in Washington. While these projects are ambitious, it will likely be many years before they are fully operational and providing electricity to the grid.",
+      "zh": "此計畫是亞馬遜更大規模策略的一部分。該公司目標是在 2039 年前與區域公用事業供應商合作，在美國部署超過 5 十億瓦的新核能容量。十億瓦是功率單位，等於十億瓦特。這項印第安納州的計畫是亞馬遜與 X-energy 的第二次合作。去年，亞馬遜宣布了華盛頓州「卡斯卡德先進能源設施」（Cascade Advanced Energy Facility）的類似計畫。儘管這些計畫雄心勃勃，但距離正式運作並向電網供電，可能還需要多年時間。"
+    },
+    {
+      "id": "p3",
+      "en": "The technology behind these plants is also notable. The Indiana facility plans to use 12 Xe-100 small modular reactors. These are advanced reactors that are still undergoing development and licensing. A key feature of these reactors is that they can be cooled using air, water, or a mix of both. Amazon noted that this flexibility should allow the reactors to be built in regions where water is limited, without putting extra pressure on local water supplies. While the company says the project could create 1,000 construction jobs and 100 permanent roles, no official timeline for construction or operation has been shared yet.",
+      "zh": "這些電廠背後的技術也相當值得關注。印第安納州的設施計畫採用 12 座 Xe-100 小型模組化反應爐。這些是目前仍在開發與取得許可階段的先進反應爐。這類反應爐的一個關鍵特色在於，它們可以使用空氣、水或兩者混合來冷卻。亞馬遜指出，這種靈活性應能讓反應爐在水資源有限的地區建造，而不會對當地供水造成額外壓力。雖然該公司表示此計畫可創造 1,000 個營建職位與 100 個永久職位，但目前尚未公布正式的施工或營運時程表。"
+    },
+    {
+      "id": "p4",
+      "en": "Amazon is not alone in this search for power. Other major tech companies, including Meta, Microsoft, and Google, are also exploring nuclear energy to support their artificial intelligence data centers. These centers require massive amounts of electricity to function, and the demand is growing quickly. Amazon recently published a blog post explaining its investment in energy infrastructure, aiming to address some of the public concerns regarding the environmental impact of large data center projects.",
+      "zh": "亞馬遜並非唯一尋求電力來源的企業。包括 Meta、微軟（Microsoft）與 Google 在內的其他大型科技公司，也正在探索核能以支援其人工智慧資料中心。這些中心運作需要龐大的電力，且需求正迅速成長。亞馬遜近期發布了一篇部落格文章，說明其在能源基礎設施上的投資，旨在回應大眾對於大型資料中心計畫環境影響的擔憂。"
+    },
+    {
+      "id": "p5",
+      "en": "However, the broader energy landscape in the United States is changing. A report from the Environmental Defense Fund and Atlas Public Policy, cited by The Verge, highlights that the country is currently building more fossil fuel infrastructure than it has in a decade. This comes as electricity demand rises due to data centers, new factories, and the growth of electric vehicles. The report warns that if all currently planned gas projects are completed, they could lead to higher electricity prices and more pollution for many years to come.",
+      "zh": "然而，美國整體能源版圖正在改變。根據 The Verge 引述環境保護基金（Environmental Defense Fund）與阿特拉斯公共政策智庫（Atlas Public Policy）的一份報告指出，美國目前正在興建的化石燃料基礎設施比過去十年來任何時候都多。這是因為資料中心、新工廠以及電動車成長導致電力需求上升。報告警告，若所有目前規劃的天然氣計畫皆完成，未來多年恐將導致電價上漲並增加汙染。"
+    },
+    {
+      "id": "p6",
+      "en": "There is a clear tension in the current energy market. While renewable energy sources like wind and solar have grown quickly and are often cheaper than fossil fuels, the political and economic environment is shifting. According to The Verge, the current administration has taken steps to support fossil fuels while creating challenges for renewable energy projects, such as blocking permits and removing tax incentives. As a result, plans for new fossil fuel power plants have increased significantly over the last two years.",
+      "zh": "當前的能源市場存在明顯的緊張局勢。雖然風能與太陽能等再生能源發展迅速，且成本往往低於化石燃料，但政治與經濟環境正在轉變。根據 The Verge 報導，現任政府已採取行動支持化石燃料，同時為再生能源計畫製造挑戰，例如阻礙許可核發及取消稅收優惠。結果，過去兩年內規劃的新化石燃料電廠數量顯著增加。"
+    },
+    {
+      "id": "p7",
+      "en": "Despite these challenges, the cost of renewable energy remains competitive. The report found that new utility-scale solar and wind farms still cost less per megawatt-hour than new natural gas plants. However, the industry is facing uncertainty. Some renewable projects are being canceled, and there is ongoing debate about whether the high energy forecasts for AI data centers will actually come true. If these forecasts are too high, many of the planned energy projects might not be needed.",
+      "zh": "儘管面臨這些挑戰，再生能源的成本依然具有競爭力。報告發現，新建的公用事業規模太陽能與風力發電場，其每百萬瓦小時的成本仍低於新建的天然氣電廠。然而，產業正面臨不確定性。部分再生能源計畫遭到取消，且各界對於人工智慧資料中心的高能源預測是否會成真，仍存在持續的辯論。若這些預測過於樂觀，許多規劃中的能源計畫可能根本不需要執行。"
+    },
+    {
+      "id": "p8",
+      "en": "For now, the path forward for energy in the United States remains complex. Companies like Amazon are betting on nuclear power to provide a steady, carbon-free source of electricity. At the same time, the country is navigating a \"new inflection point\"—a critical moment where decisions about energy infrastructure will shape the cost and reliability of the power grid for decades to come. Whether these nuclear projects can be completed on time and at a reasonable cost remains a major question for the industry and the public alike.",
+      "zh": "目前，美國能源發展的前路依然複雜。像亞馬遜這樣的公司正押注核能，以提供穩定且零碳的電力來源。與此同時，美國正處於一個「新的轉折點」——這是一個關鍵時刻，關於能源基礎設施的決策將決定未來數十年電網的成本與可靠性。這些核能計畫能否如期且以合理的成本完成，對產業界與大眾而言，仍是一個重大的疑問。"
+    }
+  ],
+  "wordCount": 752,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "move",
+      "definitionEn": "An action or step taken to achieve a specific goal.",
+      "definitionZh": "行動、舉措。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（移動），這裡作名詞，指採取特定行動。文中：Amazon is making a significant move to secure its future energy supply."
+    },
+    {
+      "term": "betting on",
+      "definitionEn": "To rely on something happening or being successful; to choose to support a particular idea or plan.",
+      "definitionZh": "押注於……；寄望於……。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "字面意思為賭博，這裡指對某個方案抱有信心並投入資源。文中：Companies like Amazon are betting on nuclear power to provide a steady, carbon-free source of electricity."
+    },
+    {
+      "term": "pressure",
+      "definitionEn": "A difficult situation or burden placed on a resource or system.",
+      "definitionZh": "壓力、負擔。",
+      "partOfSpeech": "noun",
+      "noteZh": "這裡指對資源造成的負擔，而非物理上的壓力。文中：Amazon noted that this flexibility should allow the reactors to be built in regions where water is limited, without putting extra pressure on local water supplies."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
+      "title": "Amazon is funding a new nuclear plant in Indiana",
+      "publishedAt": "2026-10-19T15:44:20Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+      "title": "The fossil fuel comeback is here",
+      "publishedAt": "2026-10-19T21:48:01Z"
+    }
+  ],
+  "story": {
+    "id": "the-stakeholders-of-extraction",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "amazon-funds-new-nuclear-energy-plant-oct-2026",
+        "title": "Amazon Invests in Nuclear Power to Feed Growing Data Centers",
+        "publishedAt": "2026-10-19T22:14:20.632255Z",
+        "category": "energy",
+        "summaryEn": "Amazon has announced a new agreement to fund a nuclear energy plant in Indiana. This project aims to provide carbon-free electricity for the regional power grid and the company's data centers. The facility will use advanced reactor technology that is currently still in development. This move follows a larger trend of tech giants seeking reliable energy sources for AI infrastructure. Meanwhile, the broader U.S. energy market is seeing a shift toward increased fossil fuel development."
+      },
+      {
+        "slug": "lithium-extraction-series-part-2",
+        "title": "The Stakeholders of Extraction",
+        "publishedAt": "2026-10-19T05:42:49.062177Z",
+        "category": "energy",
+        "summaryEn": "This article examines the diverse groups involved in lithium mining. It explores the tensions between countries with large reserves, mining companies, and indigenous land rights. The piece highlights the global struggle to balance green energy needs with social justice."
+      },
+      {
+        "slug": "lithium-extraction-series-part-5",
+        "title": "The Path Toward Sustainability",
+        "publishedAt": "2026-10-19T05:43:20.824667Z",
+        "category": "energy",
+        "summaryEn": "This article examines the future of lithium-based batteries by looking at recycling, alternative technologies, and new government policies. It discusses how the industry can move toward a circular economy to reduce environmental impact. Finally, it highlights the importance of global regulations in ensuring ethical sourcing."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is a specific advantage of the Xe-100 small modular reactors chosen for the Indiana facility?",
+      "options": {
+        "A": "They are significantly cheaper to build than traditional coal-fueled plants.",
+        "B": "They offer flexible cooling methods that reduce the need for local water resources.",
+        "C": "They are already fully licensed and ready for immediate construction.",
+        "D": "They produce more than 5 gigawatts of energy per individual unit."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第三段明確指出，這些反應爐的關鍵特色在於可以使用空氣、水或兩者混合來冷卻，這使得它們能在水資源有限的地區建造，而不必對當地供水造成額外壓力。選項 A 文章未提及成本比較；選項 C 與文中提到反應爐仍在開發與許可階段的事實矛盾；選項 D 錯誤，5 gigawatts 是 Amazon 的總目標，並非單一反應爐的產量。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the future of AI data centers in the United States based on the text?",
+      "options": {
+        "A": "They are guaranteed to be powered entirely by nuclear energy by 2039.",
+        "B": "Their energy consumption is currently decreasing due to new efficiency technologies.",
+        "C": "Their high energy demands are driving both nuclear investments and debates about future power needs.",
+        "D": "They are the primary reason the government has decided to ban all new fossil fuel projects."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第四段與第七段，文章提到 AI 資料中心需要龐大電力，這促使 Amazon 等公司投資核能，同時第七段也提到目前對於這些資料中心的高能源預測是否準確存在爭議。選項 A 過於絕對，文中僅提到 Amazon 的目標；選項 B 與文中提到的「需求快速增長」矛盾；選項 D 錯誤，文中提到政府反而採取了支持化石燃料的政策。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the phrase 'new inflection point' most likely mean?",
+      "options": {
+        "A": "A period of rapid decline in energy production.",
+        "B": "A critical moment where a significant change in direction occurs.",
+        "C": "A mathematical calculation used to measure electricity costs.",
+        "D": "A point where fossil fuel and renewable energy costs become identical."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在文中，「inflection point」（轉折點）用來描述美國能源市場正處於一個關鍵時刻，相關決策將影響未來數十年的電網可靠性與成本。這是一個隱喻用法，指事物發展方向發生重大變化的關鍵點。選項 A 與文意不符；選項 C 將該詞誤解為數學術語，脫離了上下文的能源政策語境；選項 D 雖然提到能源成本，但並非該詞的定義。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary focus of this article?",
+      "options": {
+        "A": "To explain the technical engineering processes behind small modular nuclear reactors.",
+        "B": "To argue that solar and wind energy are the only viable solutions for the U.S. power grid.",
+        "C": "To describe the environmental benefits of replacing coal plants with gas plants.",
+        "D": "To discuss Amazon's nuclear energy strategy within the context of a complex and shifting U.S. energy landscape."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。這篇文章開頭以 Amazon 的核能計畫切入，隨後擴展到整個美國能源市場的挑戰（如化石燃料回升、政策變動、AI 能源需求），全面探討了能源轉型的複雜性。選項 A 僅是文章的一小部分；選項 B 過於偏頗，文章也討論了化石燃料與核能；選項 C 錯誤，文中並未主張化石燃料有環境效益，反而警告其帶來的污染與價格風險。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
