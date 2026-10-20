@@ -1,0 +1,168 @@
+{
+  "id": "2026-10-20-google-cloud-outage-disrupts-uk-services",
+  "slug": "google-cloud-outage-disrupts-uk-services-oct-2026",
+  "publishedAt": "2026-10-20T22:14:28.703893Z",
+  "category": "technology",
+  "title": "Google Cloud Outage Causes Widespread Disruption Across the UK",
+  "subtitle": "A power failure at a London data centre highlights the risks of relying on a small number of global technology giants.",
+  "summary": {
+    "en": "A major Google Cloud outage recently caused significant problems for banking, legal, and public services across the UK. The disruption was linked to a power event at a London data centre, affecting millions of users. Major banks like HSBC and Revolut reported issues with payments and account access. The incident also forced the delay of several remote court hearings across England and Wales. This event has raised new questions about how much the UK government and private businesses rely on a few large cloud computing companies.",
+    "zh": "近期一場重大的 Google 雲端故障導致英國的銀行、法律與公共服務出現嚴重問題。這起中斷事件與倫敦資料中心的電力事件有關，影響了數百萬用戶。匯豐銀行與 Revolut 等大型銀行回報了支付與帳戶存取方面的問題。該事件也迫使英格蘭與威爾斯多場遠距法院聽證會延期。此事件引發了關於英國政府與私人企業對少數幾家大型雲端運算公司依賴程度的新質疑。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "A major technology failure recently caused widespread disruption across the United Kingdom, affecting everything from banking apps to court systems. The outage, which occurred at a Google Cloud data centre in London, left millions of people unable to access essential digital services for several hours on Tuesday.",
+      "zh": "近期一場重大的技術故障導致英國各地出現廣泛的混亂，影響範圍從銀行應用程式到法院系統無所不包。這起故障發生在位於倫敦的 Google 雲端資料中心，導致數百萬人在週二當天有數小時無法使用必要的數位服務。"
+    },
+    {
+      "id": "p2",
+      "en": "According to BBC News, the problem was caused by a \"power event\" within a specific part of Google’s infrastructure known as the \"europe-west2-b\" zone. Google Cloud provides the digital foundation for many businesses, allowing them to store data and run applications. When this infrastructure fails, the services built on top of it often stop working as well.",
+      "zh": "根據 BBC 新聞報導，問題起因於 Google 基礎設施中一個名為「europe-west2-b」區域內發生的「電力事件」。Google 雲端為許多企業提供數位基礎，讓它們得以儲存資料並執行應用程式。當這些基礎設施故障時，建立在其上的服務往往也會隨之停擺。"
+    },
+    {
+      "id": "p3",
+      "en": "Financial services were among the most heavily impacted. Customers of major banks, including HSBC, Lloyds Bank, and the digital bank Revolut, reported being unable to log in to their accounts, make card payments, or withdraw cash. One Revolut user, Rachael Ellen, told BBC News that she was unable to pay for parking at a shopping centre because her account was not working. This left her in a difficult situation, as she could not access the money she needed at that moment. Both Revolut and Lloyds Bank later confirmed that their services were affected, but they assured customers that their money and personal data remained safe throughout the incident.",
+      "zh": "金融服務受到的衝擊最為嚴重。包括匯豐銀行 (HSBC)、勞埃德銀行 (Lloyds Bank) 以及數位銀行 Revolut 在內的多家大型銀行，都有客戶回報無法登入帳戶、進行刷卡支付或提領現金。一位 Revolut 的用戶瑞秋·艾倫 (Rachael Ellen) 向 BBC 新聞表示，由於帳戶無法運作，她無法在購物中心支付停車費，這讓她陷入困境，因為當下她無法動用所需的資金。Revolut 與勞埃德銀行事後皆證實其服務受到影響，但向客戶保證，在整起事件中，他們的資金與個人資料均保持安全。"
+    },
+    {
+      "id": "p4",
+      "en": "The impact extended beyond banking. The HM Courts and Tribunals Service reported that a video platform used for remote court hearings across England and Wales was knocked offline. The Guardian noted that this failure delayed several legal proceedings, particularly for defendants who were in custody and needed to attend court virtually. Additionally, some patients reported temporary glitches on the NHS app, and other services like Royal Mail and the property portal Rightmove also faced technical difficulties.",
+      "zh": "影響範圍不僅止於銀行業。英國法院與法庭服務署 (HM Courts and Tribunals Service) 回報，一個用於英格蘭與威爾斯遠距法院聽證會的視訊平台被迫離線。《衛報》(The Guardian) 指出，這項故障延誤了多項法律程序，特別是對於那些被拘留且需要以虛擬方式出庭的被告而言。此外，部分病患回報英國國家醫療保健服務 (NHS) 的應用程式出現暫時性故障，而皇家郵政 (Royal Mail) 與房地產入口網站 Rightmove 等其他服務也面臨技術困難。"
+    },
+    {
+      "id": "p5",
+      "en": "By Tuesday afternoon, Google reported that services were starting to return to normal. The company apologized for the inconvenience and promised to provide a full analysis of the incident on its service health dashboard. This dashboard is a website where Google shares updates about the status of its services worldwide. Despite the return to normal operations, the event has sparked a serious conversation about the UK's dependence on a small number of \"hyperscalers\"—a term used to describe massive companies like Google, Amazon, and Microsoft that provide cloud computing services to the entire world.",
+      "zh": "到了週二下午，Google 回報服務已開始恢復正常。該公司對造成的不便致歉，並承諾在其服務健康儀表板上提供完整的事件分析。此儀表板是一個網站，Google 會在上面分享全球服務狀態的最新消息。儘管營運已恢復正常，但此事件已引發一場嚴肅的對話，討論英國對於少數幾家「超大規模雲端供應商」(hyperscalers) 的依賴——這是一個用來描述如 Google、亞馬遜 (Amazon) 與微軟 (Microsoft) 等為全球提供雲端運算服務之巨型企業的術語。"
+    },
+    {
+      "id": "p6",
+      "en": "Experts argue that this reliance creates a dangerous situation. Michał \"rysiek\" Woźniak, an expert in internet infrastructure, told The Guardian that these companies have become \"too big to not fail.\" He explained that because these firms are now so deeply connected to the daily lives of citizens and the operations of governments, it is very difficult for organizations to switch to other providers. Currently, it is estimated that up to 60% of the UK government’s digital infrastructure is hosted on services provided by these few large companies.",
+      "zh": "專家認為這種依賴造成了危險的局面。網際網路基礎設施專家米哈烏·沃伊尼亞克 (Michał \"rysiek\" Woźniak) 向《衛報》表示，這些公司已經變得「大到不能不故障」。他解釋說，由於這些企業現在與公民的日常生活及政府運作深度連結，組織要轉換到其他供應商非常困難。目前估計，英國政府高達 60% 的數位基礎設施是託管在這些少數大型公司所提供的服務上。"
+    },
+    {
+      "id": "p7",
+      "en": "This outage is particularly significant because it is the first major test for UK regulators since they were given new powers to oversee these cloud providers. The Financial Conduct Authority (FCA) and the Bank of England have confirmed they are in contact with Google to understand exactly what went wrong. The Treasury committee of Members of Parliament (MPs) has also taken an interest in the matter. According to The Guardian, the committee chair, Meg Hillier, has asked for a report on how the regulators reacted and what the total impact was on the UK financial system.",
+      "zh": "這起故障事件意義重大，因為這是英國監管機構在獲得監管這些雲端供應商的新權力後，所面臨的首次重大考驗。英國金融行為監理總署 (FCA) 與英格蘭銀行 (Bank of England) 已證實正與 Google 聯繫，以確切了解故障原因。國會議員組成的財政委員會也對此事表示關注。根據《衛報》報導，委員會主席梅格·希利爾 (Meg Hillier) 已要求提交一份報告，說明監管機構如何應對，以及對英國金融體系造成的總體影響。"
+    },
+    {
+      "id": "p8",
+      "en": "As the digital world continues to grow, the physical infrastructure that supports it—such as data centres and power grids—remains vulnerable. While Google’s engineers worked quickly to resolve the issue, the event serves as a reminder of how fragile modern systems can be. As more of the economy moves into the cloud, the question of how to keep these vital services running without interruption remains a top priority for both businesses and the government.",
+      "zh": "隨著數位世界持續成長，支撐其運作的實體基礎設施（如資料中心與電網）依然脆弱。雖然 Google 的工程師迅速解決了問題，但此事件提醒了現代系統可能有多麼脆弱。隨著越來越多的經濟活動轉移到雲端，如何確保這些關鍵服務不中斷地持續運作，仍是企業與政府的首要任務。"
+    }
+  ],
+  "wordCount": 718,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "knocked offline",
+      "definitionEn": "To cause a system or service to stop working or become inaccessible.",
+      "definitionZh": "使（系統、服務）離線、無法運作。",
+      "partOfSpeech": "phrasal verb (idiomatic)",
+      "noteZh": "這裡的 offline 作為形容詞，knocked offline 意指系統被中斷。文中：The HM Courts and Tribunals Service reported that a video platform used for remote court hearings across England and Wales was knocked offline."
+    },
+    {
+      "term": "infrastructure",
+      "definitionEn": "The basic physical and organizational structures and facilities needed for the operation of a society or enterprise.",
+      "definitionZh": "基礎設施（在此指數位運作的底層架構）。",
+      "partOfSpeech": "noun",
+      "noteZh": "雖然是常見詞，但在數位領域中容易被誤解為單純的建築物，這裡指雲端運算架構。文中：Google Cloud provides the digital foundation for many businesses, allowing them to store data and run applications."
+    },
+    {
+      "term": "in custody",
+      "definitionEn": "Being held by the police or in prison.",
+      "definitionZh": "被拘留、在監禁中。",
+      "partOfSpeech": "idiom",
+      "noteZh": "Custody 常見作「監護權」，但在法律新聞中指被警方拘留。文中：The Guardian noted that this failure delayed several legal proceedings, particularly for defendants who were in custody and needed to attend court virtually."
+    },
+    {
+      "term": "run",
+      "definitionEn": "To cause a computer program or application to operate.",
+      "definitionZh": "執行、運作（程式或應用程式）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作「跑步」，但在科技語境下指執行軟體。文中：Google Cloud provides the digital foundation for many businesses, allowing them to store data and run applications."
+    }
+  ],
+  "sources": [
+    {
+      "name": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+      "title": "Google resolves cloud outage affecting UK banks and websites",
+      "publishedAt": "2026-10-20T18:03:19Z"
+    },
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/business/2026/oct/20/revolut-down-app-cards-service-disruption",
+      "title": "Google cloud failure hits millions as UK courts and banks knocked offline",
+      "publishedAt": "2026-10-20T09:45:39Z"
+    },
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/20/power-outage-google-datacentre-london-widespread-disruption",
+      "title": "‘Too big to not fail’: Google outage exposes UK reliance on a handful of cloud providers",
+      "publishedAt": "2026-10-20T16:50:31Z"
+    }
+  ],
+  "story": {
+    "id": "google-cloud-outage-disrupts-uk-services",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what was the specific cause of the service disruption?",
+      "options": {
+        "A": "A cyberattack on the UK banking system.",
+        "B": "A power-related issue within a specific Google Cloud data centre zone.",
+        "C": "A failure of the UK government's own internal servers.",
+        "D": "A scheduled maintenance update that lasted longer than expected."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，BBC News 指出問題是由於 Google Cloud 的「europe-west2-b」區域內發生了「power event」（電力事件）所導致。選項 A 錯誤，文中未提及網路攻擊；選項 C 錯誤，問題源自 Google 的基礎設施而非政府伺服器；選項 D 錯誤，文中並未提到這是預先安排的維護，而是突發的故障。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the relationship between UK government services and 'hyperscalers'?",
+      "options": {
+        "A": "The government is actively replacing all hyperscalers with local, smaller providers.",
+        "B": "The government is completely unaware of the risks associated with cloud computing.",
+        "C": "The government relies heavily on these companies, making it difficult to switch to alternatives during a crisis.",
+        "D": "The government has full control over the physical data centres owned by companies like Google."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第六段，專家指出這些公司已與政府運作深度連結，且高達 60% 的英國政府數位基礎設施託管在這些公司，導致轉換供應商極為困難。選項 A 錯誤，文中並未提到政府有此計畫；選項 B 錯誤，政府顯然已關注此風險並介入調查；選項 D 錯誤，這些設施是由 Google 等公司擁有與營運，政府並無直接控制權。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the sixth paragraph, what does the phrase 'too big to not fail' imply about companies like Google?",
+      "options": {
+        "A": "They are so large and essential that any technical failure they experience has widespread, severe consequences.",
+        "B": "They have become so successful that they are physically incapable of experiencing any technical errors.",
+        "C": "They are so large that they should be broken up into smaller, more manageable companies by the government.",
+        "D": "They are so powerful that they can ignore regulations without facing any legal repercussions."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。此處的「too big to not fail」意指這些公司規模極大且與社會運作密不可分，一旦出錯，影響範圍將極廣，無法避免造成嚴重後果。選項 B 與文意相反，文中正是因為它們會失敗才引發問題；選項 C 雖是現實中的討論議題，但並非該引述的語境意義；選項 D 錯誤，文中提到監管機構已介入調查，顯示其並非不受規範。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article regarding the recent Google Cloud outage?",
+      "options": {
+        "A": "The outage was a minor technical glitch that had no lasting impact on the UK economy.",
+        "B": "The UK banking sector is the only industry that needs to worry about cloud infrastructure.",
+        "C": "Google has successfully resolved all issues and no longer needs to work with government regulators.",
+        "D": "The incident highlights the fragility of modern digital systems and the risks of relying on a few major cloud providers."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。文章透過報導此次斷網事件，探討了數位基礎設施的脆弱性，並強調英國過度依賴少數幾家大型雲端供應商（hyperscalers）所帶來的系統性風險。選項 A 錯誤，文中強調了廣泛的影響；選項 B 錯誤，文中提到法院、NHS 及其他服務也受影響；選項 C 錯誤，監管機構仍在與 Google 進行後續調查與檢討。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
