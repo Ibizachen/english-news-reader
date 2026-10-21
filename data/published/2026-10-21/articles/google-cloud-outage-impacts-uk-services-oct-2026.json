@@ -1,0 +1,165 @@
+{
+  "id": "2026-10-21-google-cloud-outage-impacts-uk-services",
+  "slug": "google-cloud-outage-impacts-uk-services-oct-2026",
+  "publishedAt": "2026-10-21T00:36:16.722400Z",
+  "category": "technology",
+  "title": "Major Google Cloud Outage Causes Widespread Disruption Across the UK",
+  "subtitle": "A power failure at a London data centre highlights the risks of relying on a few large technology companies.",
+  "summary": {
+    "en": "A significant Google Cloud outage recently caused major problems for banking and legal services in the UK. The disruption was triggered by a power event at a London-based data centre. Millions of customers were unable to access bank accounts or use payment services for several hours. The government and financial regulators are now investigating the impact of the failure. Experts warn that the UK is too dependent on a small number of large cloud providers.",
+    "zh": "Google 雲端服務近期發生重大故障，導致英國的銀行與司法服務出現嚴重問題。此次中斷是由倫敦一處資料中心的電力事件所引發。數百萬名客戶在數小時內無法存取銀行帳戶或使用支付服務。政府與金融監管機構目前正調查此次故障的影響。專家警告，英國過度依賴少數幾家大型雲端供應商。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "A major technical failure at Google’s cloud services in London has caused widespread disruption across the United Kingdom. The outage, which occurred on Tuesday, affected millions of people and stopped several critical services from working properly. According to The Guardian, the problem was caused by a “power event” at a data centre in the company’s “europe-west2-b zone,” which is a specific area used to host digital services for clients.",
+      "zh": "Google 的雲端服務在倫敦發生重大技術故障，導致英國各地出現廣泛的服務中斷。這起發生在週二的斷線事件影響了數百萬人，並導致多項關鍵服務無法正常運作。根據《衛報 (The Guardian)》報導，問題起因於該公司位於「歐洲西部 2-b 區域 (europe-west2-b zone)」資料中心的一起「電力事件」，該區域是專門用於託管客戶數位服務的特定空間。"
+    },
+    {
+      "id": "p2",
+      "en": "The impact of the failure was felt across many sectors. In the legal system, the video system used for remote court hearings in England and Wales stopped working. This caused delays for many court cases, especially for defendants who were in custody and needed to attend their hearings through a video link. The HM Courts and Tribunal Service confirmed they were aware of the issue and worked with technology partners to fix the system.",
+      "zh": "此次故障的影響波及多個領域。在司法系統方面，英格蘭與威爾斯用於遠端法庭聽證的視訊系統停止運作，導致許多案件審理延宕，特別是那些需要透過視訊連結出席聽證的在押被告。英國法院與法庭服務署 (HM Courts and Tribunal Service) 確認已獲悉此問題，並正與技術合作夥伴共同修復系統。"
+    },
+    {
+      "id": "p3",
+      "en": "Financial services were also hit hard. Customers of major banks, including Lloyds, HSBC, and the digital bank Revolut, reported being unable to log in to their accounts, make card payments, or withdraw cash. Revolut confirmed that it experienced a “service disruption” affecting many of its features, including cryptocurrency services and ATM withdrawals. While the bank insisted that all customer money and data remained safe, many users were left in limbo throughout the day. By the afternoon, most banks reported that their services were returning to normal, but the disruption had already caused significant trouble for many people.",
+      "zh": "金融服務也受到嚴重衝擊。包括勞埃德銀行 (Lloyds)、匯豐銀行 (HSBC) 以及數位銀行 Revolut 在內的多家大型銀行客戶，紛紛回報無法登入帳戶、進行刷卡支付或提領現金。Revolut 確認其經歷了一次影響多項功能的「服務中斷」，包括加密貨幣服務與自動櫃員機提款。儘管該銀行堅稱所有客戶的資金與資料均安全無虞，但許多用戶在當天仍陷入無助的狀態。到了下午，多數銀行表示服務已恢復正常，但此次中斷已對許多民眾造成顯著困擾。"
+    },
+    {
+      "id": "p4",
+      "en": "This incident has drawn attention from government regulators. The Financial Conduct Authority (FCA) and the Bank of England’s Prudential Regulation Authority are currently in contact with Google to gather more information about what went wrong. This is the first major test for these regulators since they were given new powers this summer to oversee the “critical” cloud services that support the UK financial system. Meg Hillier, the chair of the Treasury committee of MPs, has asked for a full report on the situation by 4 November to understand the total impact on the country’s economy.",
+      "zh": "此事件已引起政府監管機構的關注。英國金融行為監理總署 (FCA) 與英格蘭銀行的審慎監理局 (Prudential Regulation Authority) 目前正與 Google 聯繫，以蒐集更多關於故障原因的資訊。這是自今年夏天這些監管機構被賦予新權力，以監督支撐英國金融系統的「關鍵」雲端服務以來，所面臨的首次重大考驗。國會財政委員會主席希利爾 (Meg Hillier) 已要求在 11 月 4 日前提交一份關於此情況的完整報告，以了解其對國家經濟的整體影響。"
+    },
+    {
+      "id": "p5",
+      "en": "Experts say this event highlights a growing problem: the UK’s reliance on a small group of “hyperscalers.” These are massive companies like Google, Amazon, and Microsoft that provide the digital infrastructure for a large portion of the modern world. Michał “rysiek” Woźniak, an expert in internet infrastructure, noted that these companies have become “too big to not fail.” He explained that because these firms are so deeply connected to our daily lives, it is very difficult for businesses or governments to switch to other options.",
+      "zh": "專家表示，此事件凸顯了一個日益嚴重的問題：英國過度依賴少數幾家「超大規模雲端供應商」。這些企業包括 Google、亞馬遜 (Amazon) 與微軟 (Microsoft) 等巨頭，它們為現代世界的大部分地區提供了數位基礎設施。網際網路基礎設施專家沃茲尼亞克 (Michał “rysiek” Woźniak) 指出，這些公司已變得「大到不能倒」。他解釋說，由於這些企業與我們的日常生活連結極深，企業或政府很難轉向其他替代方案。"
+    },
+    {
+      "id": "p6",
+      "en": "According to The Guardian, up to 60% of the UK government’s own digital infrastructure is hosted on these cloud services. This means that when one of these providers has a problem, it can affect everything from police data to public health apps. While Google’s engineers worked quickly to restore services, the event has raised questions about whether it is safe to have so much of the economy dependent on just a few companies. Some observers have also pointed to the increasing use of artificial intelligence (AI) in managing these systems. Google has recently stated that a large percentage of its new code is now written by AI, which leads some to wonder if this affects the overall reliability of the service.",
+      "zh": "根據《衛報》報導，英國政府高達 60% 的數位基礎設施託管在這些雲端服務上。這意味著當其中一家供應商出現問題時，從警方資料到公共衛生應用程式等一切服務都可能受到影響。雖然 Google 的工程師迅速採取行動恢復服務，但此事件引發了關於將國家經濟如此高度依賴於少數幾家公司是否安全的質疑。一些觀察家也指出，人工智慧 (AI) 在管理這些系統中的應用日益增加。Google 最近表示，其新程式碼中有很大比例是由人工智慧編寫的，這讓一些人懷疑這是否會影響服務的整體可靠性。"
+    },
+    {
+      "id": "p7",
+      "en": "This is not the first time such an issue has occurred. Last year, a similar problem with Amazon Web Services caused massive disruptions, affecting everything from online gaming to smart home devices. While the Google outage was not as large in scale as the Amazon event, it serves as a reminder of the physical infrastructure that supports our virtual world. These data centres are often complex and can be vulnerable to power failures or software bugs. As the UK continues to move more of its essential services online, the pressure on these tech giants to provide constant, reliable service will only increase. For now, the focus remains on ensuring that such a widespread failure does not happen again, as regulators look for ways to hold these powerful companies accountable.",
+      "zh": "這並非首次發生此類問題。去年，亞馬遜網路服務 (Amazon Web Services) 發生類似問題，導致從線上遊戲到智慧家庭裝置等各項服務出現大規模中斷。雖然 Google 的斷線規模不及亞馬遜那次事件，但它提醒了我們支撐虛擬世界的實體基礎設施的重要性。這些資料中心通常結構複雜，且可能容易受到電力故障或軟體錯誤的影響。隨著英國持續將更多基本服務轉移至線上，這些科技巨頭提供持續、可靠服務的壓力只會與日俱增。目前，重點仍放在確保此類廣泛的故障不再發生，同時監管機構也在尋求讓這些強大企業負起責任的方法。"
+    }
+  ],
+  "wordCount": 728,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "hit hard",
+      "definitionEn": "To be severely or negatively affected by something.",
+      "definitionZh": "受到嚴重打擊或負面影響。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這裡的 hit 是過去分詞，形容受到的衝擊程度。文中：Financial services were also hit hard."
+    },
+    {
+      "term": "in limbo",
+      "definitionEn": "In a state of uncertainty or waiting, where a final decision or result has not been reached.",
+      "definitionZh": "處於不確定的狀態，懸而未決。",
+      "partOfSpeech": "idiom",
+      "noteZh": "Limbo 原指宗教上的「靈薄獄」，這裡比喻事情卡住、沒有進展。文中：While the bank insisted that all customer money and data remained safe, many users were left in limbo throughout the day."
+    },
+    {
+      "term": "draw attention",
+      "definitionEn": "To cause people to notice or focus on something.",
+      "definitionZh": "引起注意。",
+      "partOfSpeech": "phrase",
+      "noteZh": "Draw 在此並非「繪畫」，而是「吸引、引發」的意思。文中：This incident has drawn attention from government regulators."
+    },
+    {
+      "term": "point to",
+      "definitionEn": "To mention or show something as a reason or a cause for something else.",
+      "definitionZh": "指出；歸因於。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這裡不是指用手指著，而是指提出某個觀點或證據。文中：Some observers have also pointed to the increasing use of artificial intelligence (AI) in managing these systems."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/business/2026/oct/20/revolut-down-app-cards-service-disruption",
+      "title": "Google cloud failure hits millions as UK courts and banks knocked offline",
+      "publishedAt": "2026-10-20T09:45:39Z"
+    },
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/20/power-outage-google-datacentre-london-widespread-disruption",
+      "title": "‘Too big to not fail’: Google outage exposes UK reliance on a handful of cloud providers",
+      "publishedAt": "2026-10-20T16:50:31Z"
+    }
+  ],
+  "story": {
+    "id": "google-cloud-outage-disrupts-uk-services",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "google-cloud-outage-disrupts-uk-services-oct-2026",
+        "title": "Google Cloud Outage Causes Widespread Disruption Across the UK",
+        "publishedAt": "2026-10-20T22:14:28.703893Z",
+        "category": "technology",
+        "summaryEn": "A major Google Cloud outage recently caused significant problems for banking, legal, and public services across the UK. The disruption was linked to a power event at a London data centre, affecting millions of users. Major banks like HSBC and Revolut reported issues with payments and account access. The incident also forced the delay of several remote court hearings across England and Wales. This event has raised new questions about how much the UK government and private businesses rely on a few large cloud computing companies."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what was the specific cause of the Google cloud outage in London?",
+      "options": {
+        "A": "A massive cyberattack by external hackers.",
+        "B": "A power event at a specific data centre zone.",
+        "C": "A software bug caused by artificial intelligence.",
+        "D": "A failure in the UK's national power grid."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第一段，Google 明確指出此次斷訊是由於其「europe-west2-b zone」數據中心內發生的「power event」（電力事件）所導致。選項 A 文中未提及駭客攻擊；選項 C 雖提到 AI 與程式碼，但並未指明是此次故障的直接原因；選項 D 錯誤將故障歸咎於國家電網，而非 Google 內部的數據中心電力問題。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the UK government's relationship with 'hyperscalers' like Google?",
+      "options": {
+        "A": "The government is actively moving its services away from cloud providers.",
+        "B": "The government is satisfied with the current reliability of these companies.",
+        "C": "The government is highly vulnerable to disruptions due to its heavy reliance on these companies.",
+        "D": "The government has full control over how these companies manage their internal infrastructure."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第六段，高達 60% 的英國政府數位基礎設施託管在這些雲端服務上，且專家指出這些服務商「大到不能倒」，這暗示了英國政府在這些大型科技公司出現故障時，幾乎沒有替代方案，因此處於高度脆弱的狀態。選項 A 文中未提及政府正在撤離；選項 B 與現實矛盾；選項 D 錯誤，因為監管機構才剛開始嘗試介入監督，並無完全控制權。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the third paragraph, what does the phrase 'left in limbo' mean?",
+      "options": {
+        "A": "Feeling extremely angry and frustrated.",
+        "B": "Being in a state of uncertainty and waiting.",
+        "C": "Having their accounts permanently deleted.",
+        "D": "Being unable to access physical bank branches."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在文中，當銀行服務中斷時，用戶無法登入、無法轉帳或提款，處於一種「不知道何時能恢復、無法進行任何操作」的狀態，這就是「in limbo」（處於懸而未決的狀態）。選項 A 雖然用戶可能生氣，但這不是該片語的定義；選項 C 與 D 皆過度解讀，文中並未說明帳戶被刪除或僅限於實體分行問題。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of this article?",
+      "options": {
+        "A": "Google is the most unreliable cloud service provider in the United Kingdom.",
+        "B": "The UK legal system needs to stop using video technology for court hearings.",
+        "C": "The increasing reliance on a few tech giants for critical infrastructure poses significant risks.",
+        "D": "Artificial intelligence is the main reason why modern cloud services frequently fail."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。全文透過 Google 斷訊的案例，探討了英國社會（包含法律、金融、政府部門）對少數「超大規模」雲端服務商的過度依賴，並引用專家觀點指出這種「大到不能倒」的結構性風險。選項 A 是對單一事件的狹隘解讀；選項 B 只是文章提到的其中一個受影響領域；選項 D 雖有提及 AI，但並非文章討論的核心主旨。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
