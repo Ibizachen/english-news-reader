@@ -1,0 +1,165 @@
+{
+  "id": "2026-10-23-php-security-flaw-affects-global-websites",
+  "slug": "php-security-flaw-affects-global-websites-oct-2026",
+  "publishedAt": "2026-10-23T00:38:33.261053Z",
+  "category": "technology",
+  "title": "Global Websites Race to Fix Critical PHP Security Flaw",
+  "subtitle": "Millions of hacking attempts reported as governments and companies scramble to patch a major vulnerability in the internet's infrastructure.",
+  "summary": {
+    "en": "A serious security flaw in the PHP programming language has put millions of websites at risk of being hacked. Cybersecurity experts report that millions of attempts to exploit this weakness have already occurred. Governments and organizations are taking their websites offline to install necessary security updates. The vulnerability was discovered using AI tools and had remained hidden for over a decade. Officials warn that while many systems are being patched, older software may require complete replacement.",
+    "zh": "PHP 程式語言出現嚴重安全漏洞，導致數百萬個網站面臨遭駭風險。網路安全專家報告指出，目前已發生數百萬次利用此弱點的攻擊嘗試。各國政府與組織正將網站下線以安裝必要的安全性更新。此漏洞是透過人工智慧工具發現的，且已隱藏超過十年。官員警告，雖然許多系統正在進行修補，但較舊的軟體可能需要全面更換。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "A major security flaw in the PHP programming language—a tool that supports about 70% of the world’s websites—has triggered a global race to protect online services. According to The Guardian Technology, millions of attempts to exploit this weakness have been recorded since the problem was announced on Wednesday. The vulnerability, which experts are calling \"PHP2Shell,\" could allow attackers to take control of web servers, steal sensitive data, and disrupt services.",
+      "zh": "PHP 程式語言出現重大安全漏洞，這項工具支撐了全球約七成的網站，目前已引發全球競相保護線上服務。根據《衛報》科技版（The Guardian Technology）報導，自週三公布該問題以來，已記錄到數百萬次利用此弱點的攻擊嘗試。專家將此漏洞稱為「PHP2Shell」，它可能讓攻擊者取得網頁伺服器的控制權、竊取敏感資料並中斷服務。"
+    },
+    {
+      "id": "p2",
+      "en": "This situation has forced many organizations to take immediate action. In the UK, the government temporarily took 32 services offline to apply security patches. Liz Lloyd, the UK cybersecurity minister, explained to parliament that these actions were largely a precautionary measure to keep public data safe. While some high-profile sites like the Internet Archive and Wikipedia were reportedly affected by these temporary shutdowns, officials noted that they had no reports of successful hacks resulting from the flaw.",
+      "zh": "此情況迫使許多組織立即採取行動。在英國，政府暫時將三十二項服務下線以進行安全性修補。英國網路安全部長莉茲·洛伊德（Liz Lloyd）向國會解釋，這些行動主要是為了確保公共資料安全的預防措施。儘管據報導，網際網路檔案館（Internet Archive）與維基百科（Wikipedia）等知名網站受到這些暫時性關閉的影響，但官員指出，目前尚未接獲因該漏洞導致駭客攻擊成功的報告。"
+    },
+    {
+      "id": "p3",
+      "en": "New details from Ars Technica reveal that the danger may have been present for longer than initially thought. Amazon, a major cloud computing provider, reported that it identified hackers trying to use this bug four days before the public was even warned about it. The company stated that the flaw is now being \"broadly exploited in the wild,\" meaning attackers are actively looking for vulnerable systems to target.",
+      "zh": "來自科技媒體《Ars Technica》的新細節顯示，這項危險存在的時間可能比最初預想的還要長。大型雲端運算供應商亞馬遜（Amazon）表示，在公眾接獲警告的前四天，就已發現駭客試圖利用此漏洞。該公司指出，此漏洞目前正「在野外被廣泛利用」，意即攻擊者正積極尋找容易受害的系統作為目標。"
+    },
+    {
+      "id": "p4",
+      "en": "What makes this discovery particularly notable is how it was found. According to Ars Technica, the vulnerabilities were uncovered with the help of artificial intelligence models from companies like OpenAI and Google. This is significant because the flaws had remained undetected for more than a decade. The ability of AI to find such deep-seated problems highlights how technology is changing the landscape of cybersecurity, for both those trying to protect systems and those trying to break into them.",
+      "zh": "這項發現之所以特別引人注目，在於它是如何被揭露的。根據《Ars Technica》報導，這些漏洞是在 OpenAI 與 Google 等公司的人工智慧模型協助下被發現的。這點意義重大，因為這些漏洞已隱藏超過十年未被察覺。人工智慧能找出如此深層問題的能力，凸顯了科技如何改變網路安全的版圖，無論是對試圖保護系統的人，還是試圖入侵系統的人皆然。"
+    },
+    {
+      "id": "p5",
+      "en": "Experts are expressing serious concern about the scale of the threat. Ciaran Martin, the former chief executive of the UK’s National Cyber Security Centre (NCSC), described the flaw as \"very bad,\" calling it the most serious security issue discovered in five years. The NCSC has sent out 50,000 alerts to various organizations. However, there is worry that smaller groups, such as schools, local governments, and charities, may not have the technical support needed to fix the problem quickly. The NCSC also warned that the official patch will not work for some organizations using very old systems, which will eventually need to be replaced entirely.",
+      "zh": "專家對此威脅的規模表示嚴重關切。英國國家網路安全中心（NCSC）前執行長希蘭·馬丁（Ciaran Martin）形容此漏洞「非常嚴重」，稱其為五年來發現最嚴重的安全問題。國家網路安全中心已向各個組織發出五萬則警報。然而，外界擔心學校、地方政府與慈善機構等小型團體，可能缺乏快速修復問題所需的技術支援。該中心也警告，官方修補程式對於某些使用極舊系統的組織無效，這些系統最終必須全面更換。"
+    },
+    {
+      "id": "p6",
+      "en": "Despite the high number of attack attempts, some researchers suggest the situation is being managed. Ryan Austin, a researcher at the cybersecurity company Calif, noted that while the threat is real, it does not appear that the exploitation has become widespread in a way that has caused massive, uncontrolled damage. Meanwhile, Matthew Prince, the chief executive of the cybersecurity firm CloudFlare, reported a massive surge in activity, noting that his company saw tens of thousands of attempts to exploit the weakness within the first hour of the announcement, with that number growing to millions shortly after.",
+      "zh": "儘管攻擊嘗試次數眾多，但部分研究人員認為情況仍在掌控之中。網路安全公司 Calif 的研究員萊恩·奧斯汀（Ryan Austin）指出，雖然威脅確實存在，但目前看來，攻擊尚未演變成造成大規模、失控損害的廣泛利用。與此同時，網路安全公司 CloudFlare 的執行長馬修·普林斯（Matthew Prince）報告稱活動量激增，並指出該公司在漏洞公布後的第一小時內，就觀察到數萬次利用該弱點的嘗試，隨後該數字更迅速成長至數百萬次。"
+    },
+    {
+      "id": "p7",
+      "en": "As the situation continues to develop, the US National Security Agency has urged all organizations using PHP to update their systems immediately. The developers who maintain PHP released the necessary software updates on Wednesday, and many websites have already begun to come back online after applying the fix. While the immediate danger is being addressed, the incident serves as a reminder of how fragile the internet's foundation can be when a core piece of technology is found to have a hidden weakness.",
+      "zh": "隨著事態持續發展，美國國家安全局（NSA）已敦促所有使用 PHP 的組織立即更新系統。負責維護 PHP 的開發人員已於週三發布必要的軟體更新，許多網站也在套用修補程式後恢復上線。雖然迫在眉睫的危險正獲得處理，但此事件提醒了我們，當核心技術被發現存在隱藏弱點時，網際網路的基礎是多麼脆弱。"
+    }
+  ],
+  "wordCount": 682,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "in the wild",
+      "definitionEn": "Existing or happening in the real world, outside of a controlled or laboratory environment.",
+      "definitionZh": "在現實環境中（指軟體漏洞被駭客在真實網路世界中利用）。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這是一個常見的科技術語，字面上是「在野外」，這裡指漏洞已在真實網路環境中被駭客利用。文中：The company stated that the flaw is now being \"broadly exploited in the wild,\" meaning attackers are actively looking for vulnerable systems to target."
+    },
+    {
+      "term": "landscape",
+      "definitionEn": "The general situation or environment of a particular area of activity.",
+      "definitionZh": "（某個領域的）局勢、環境或全貌。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作名詞（風景），這裡比喻網路安全領域的整體局勢。文中：The ability of AI to find such deep-seated problems highlights how technology is changing the landscape of cybersecurity, for both those trying to protect systems and those trying to break into them."
+    },
+    {
+      "term": "surge",
+      "definitionEn": "A sudden and great increase in something.",
+      "definitionZh": "（數量或強度的）激增、突發性增長。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（湧動），這裡作名詞使用，形容攻擊次數的快速攀升。文中：Matthew Prince, the chief executive of the cybersecurity firm CloudFlare, reported a massive surge in activity, noting that his company saw tens of thousands of attempts to exploit the weakness within the first hour of the announcement, with that number growing to millions shortly after."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw",
+      "title": "Websites across world hit by millions of attempts to exploit PHP code flaw",
+      "publishedAt": "2026-10-22T16:42:54Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+      "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+      "publishedAt": "2026-10-22T15:25:02Z"
+    }
+  ],
+  "story": {
+    "id": "global-cyber-security-vulnerability-in-php",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "global-cyber-security-vulnerability-in-php-oct-2026",
+        "title": "Major Security Flaw in PHP Language Affects Millions of Websites",
+        "publishedAt": "2026-10-21T22:13:59.693750Z",
+        "category": "technology",
+        "summaryEn": "A critical security flaw has been found in the PHP programming language, which supports a large portion of the internet. Experts say this vulnerability allows hackers to run unauthorized code on servers without needing a password. Major organizations, including government agencies and popular websites, have taken their systems offline as a precaution. The flaw was identified using powerful artificial intelligence models. Security teams are now working to release emergency patches to protect millions of websites."
+      },
+      {
+        "slug": "google-cloud-outage-disrupts-uk-services-oct-2026",
+        "title": "Google Cloud Outage Causes Widespread Disruption Across the UK",
+        "publishedAt": "2026-10-20T22:14:28.703893Z",
+        "category": "technology",
+        "summaryEn": "A major Google Cloud outage recently caused significant problems for banking, legal, and public services across the UK. The disruption was linked to a power event at a London data centre, affecting millions of users. Major banks like HSBC and Revolut reported issues with payments and account access. The incident also forced the delay of several remote court hearings across England and Wales. This event has raised new questions about how much the UK government and private businesses rely on a few large cloud computing companies."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What action did the UK government take in response to the PHP2Shell vulnerability?",
+      "options": {
+        "A": "They permanently shut down all government websites.",
+        "B": "They temporarily took 32 services offline to install security patches.",
+        "C": "They replaced all of their old computer systems with new technology.",
+        "D": "They reported the flaw to Amazon four days before the public announcement."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，英國政府為了保護公共數據安全，採取了預防性措施，暫時關閉了 32 項服務以進行修補。選項 A 錯誤，因為關閉是暫時的而非永久；選項 C 錯誤，文中提到更換老舊系統是針對特定無法修補的情況，非政府當下的主要回應；選項 D 錯誤，那是 Amazon 的行動，而非英國政府。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, why might smaller organizations be at a higher risk regarding this security flaw?",
+      "options": {
+        "A": "They are the primary targets for hackers using AI models.",
+        "B": "They have more old systems than large corporations like Amazon.",
+        "C": "They may lack the necessary resources or expertise to implement fixes quickly.",
+        "D": "They were not sent official alerts by the NCSC."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。第五段提到 NCSC 擔心學校、地方政府和慈善機構等小型組織，可能缺乏快速修復問題所需的技術支援。選項 A 無法由文中推論；選項 B 文中未比較大小組織的系統老舊比例；選項 D 錯誤，NCSC 發送了 5 萬份警報，並未排除小型組織。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the third paragraph, what does the phrase 'in the wild' mean in the context of the bug being exploited?",
+      "options": {
+        "A": "The bug is being used by hackers in real-world, live environments.",
+        "B": "The bug is spreading uncontrollably like a wild animal.",
+        "C": "The bug was discovered in a natural, unmanaged state.",
+        "D": "The bug is being tested by researchers in a controlled outdoor setting."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在網路安全領域，「in the wild」是指漏洞或惡意軟體在真實世界的網路環境中被駭客實際利用，而非僅在實驗室環境中。選項 B 雖然提到失控，但並非該術語的定義；選項 C 與 D 均曲解了該片語在資安語境下的專業含義。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of this article regarding the PHP2Shell vulnerability?",
+      "options": {
+        "A": "AI models are solely responsible for creating new security risks.",
+        "B": "The internet is completely safe now that the PHP patch has been released.",
+        "C": "The discovery of a major flaw in a core technology highlights both the fragility of the internet and the evolving landscape of cyber threats.",
+        "D": "Amazon is the only company capable of detecting and stopping large-scale cyberattacks."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章整體探討了 PHP 漏洞帶來的全球性威脅，強調了人工智慧在發現漏洞中的角色，以及網路基礎架構的脆弱性，並總結了各界對此事件的應對。選項 A 過於偏頗，AI 亦協助發現漏洞；選項 B 過於樂觀，文中提到仍有老舊系統無法修補；選項 D 錯誤，文中並未指稱 Amazon 是唯一能防禦的機構。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
