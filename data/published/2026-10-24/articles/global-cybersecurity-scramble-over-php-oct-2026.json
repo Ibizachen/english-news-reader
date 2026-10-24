@@ -1,0 +1,178 @@
+{
+  "id": "2026-10-24-global-cybersecurity-scramble-over-php",
+  "slug": "global-cybersecurity-scramble-over-php-oct-2026",
+  "publishedAt": "2026-10-24T00:39:11.159195Z",
+  "category": "technology",
+  "title": "Global Internet Security Alert: The Race to Fix PHP",
+  "subtitle": "Millions of websites scramble to update as AI-powered hacking attempts rise",
+  "summary": {
+    "en": "A major security flaw in the PHP programming language has triggered a global emergency. Cybersecurity researchers used AI to discover the vulnerability, which could affect 70% of the world's websites. Governments and organizations are rushing to install patches to prevent hackers from stealing data. Experts warn that this event marks a new, faster era of cyber threats. The situation remains critical as millions of hacking attempts have already been recorded.",
+    "zh": "PHP 程式語言中的重大安全漏洞引發了全球緊急狀態。網路安全研究人員利用人工智慧發現了此漏洞，該漏洞可能影響全球七成的網站。各國政府與組織正趕忙安裝修補程式，以防止駭客竊取資料。專家警告，此事件標誌著網路威脅進入了一個更快速的新時代。由於已經記錄到數百萬次的駭客攻擊嘗試，局勢依然危急。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The global internet is currently facing a massive security challenge following the discovery of a serious weakness in PHP, a programming language that powers 70% of the world's websites. Since the issue was made public on 21 October, governments and private companies across the globe have been working urgently to protect their systems. This event, which some experts are calling \"Black October,\" highlights the growing risks that artificial intelligence brings to digital security.",
+      "zh": "全球網路目前面臨巨大的安全挑戰，起因是發現了 PHP 程式語言中的嚴重漏洞，而全球有七成的網站皆使用此語言運作。自從該問題於 10 月 21 日公開以來，世界各地的政府與私人企業皆緊急採取行動以保護其系統。這起事件被部分專家稱為「黑色十月」，凸顯了人工智慧為數位安全帶來的風險正日益增加。"
+    },
+    {
+      "id": "p2",
+      "en": "PHP, which stands for Hypertext Preprocessor, is a foundational technology used to build websites like Wikipedia and many online shops. According to the cybersecurity firm Wiz, which helped uncover the flaws, these security gaps have existed for over a decade. Researchers discovered that under the right conditions, hackers could use these bugs to take control of web servers and steal private information. While the flaws were hidden for years, the use of AI tools allowed researchers to finally identify them. However, experts now fear that these same AI tools will help criminals find and use such weaknesses much faster than before.",
+      "zh": "PHP 的全名為超文字預處理器，是建構維基百科（Wikipedia）及許多網路商店等網站的基礎技術。根據協助發現此漏洞的網路安全公司 Wiz 指出，這些安全缺口已存在超過十年。研究人員發現，在特定條件下，駭客能利用這些程式錯誤來控制網頁伺服器並竊取私人資訊。雖然這些漏洞隱藏多年，但人工智慧工具的應用讓研究人員得以將其找出。然而，專家現在擔心，同樣的這些人工智慧工具將協助犯罪分子以比以往快得多的速度，搜尋並利用這類弱點。"
+    },
+    {
+      "id": "p3",
+      "en": "In the hours following the announcement, the scale of the threat became clear. Matthew Prince, the head of the cybersecurity firm Cloudflare, reported that his organization saw tens of thousands of hacking attempts in just the first 45 minutes after the news broke. This number quickly grew to millions. \"It’s going to feel like the sky is falling,\" Prince noted, describing the difficulty of keeping up with these new, AI-driven threats. He warned that the next two years will be very difficult as attackers use new tools that can search for weaknesses across the internet with \"infinite patience.\"",
+      "zh": "在消息公布後的幾小時內，威脅規模變得顯而易見。網路安全公司 Cloudflare 的負責人普林斯（Matthew Prince）表示，他的組織在消息傳出後的短短 45 分鐘內，就偵測到數萬次駭客攻擊嘗試，且此數字迅速攀升至數百萬次。普林斯形容應對這些由人工智慧驅動的新型威脅相當困難，並指出這會讓人感覺「天快塌下來了」。他警告，未來兩年將會非常艱難，因為攻擊者將使用能以「無限耐心」在網路上搜尋弱點的新工具。"
+    },
+    {
+      "id": "p4",
+      "en": "Governments have responded with immediate action. In the United Kingdom, Japan, and the United States, various government services were temporarily taken offline to prevent unauthorized access. The U.S. National Security Agency (NSA) issued an alert, advising organizations to apply security patches—software updates designed to fix specific bugs—as soon as possible. In Japan, Prime Minister Sanae Takaichi urged everyone to take action, suggesting that if a website cannot be fixed quickly, it should be taken offline to reduce the risk of an attack. China’s Industry Ministry also requested that organizations review their systems for security gaps.",
+      "zh": "各國政府已採取立即行動回應。在英國、日本與美國，多項政府服務暫時離線以防止未經授權的存取。美國國家安全局（NSA）發布了警報，建議各組織盡快套用安全性修補程式，即旨在修復特定程式錯誤的軟體更新。在日本，高市早苗（Sanae Takaichi）大臣敦促各界採取行動，建議若網站無法迅速修復，應暫時離線以降低遭受攻擊的風險。中國工業和信息化部也要求各組織檢查其系統是否存在安全漏洞。"
+    },
+    {
+      "id": "p5",
+      "en": "Tech leaders are now debating the future of internet safety. Sam Altman, a prominent figure in the technology industry, recently stated that he no longer believes it will be possible to fix every bug in the future. Other experts, such as Jason Clinton from the company Anthropic, have warned of a \"vulnerability tsunami,\" suggesting that there will simply not be enough time to protect critical infrastructure as AI-powered attacks become more common. Marc Benioff, the CEO of Salesforce, described the current situation as a \"code red\" for the industry.",
+      "zh": "科技界領袖目前正針對網路安全的未來進行辯論。科技產業的知名人物奧特曼（Sam Altman）近期表示，他不再認為未來有可能修復所有的程式錯誤。其他專家，例如來自 Anthropic 公司的柯林頓（Jason Clinton），則警告將會出現「漏洞海嘯」，暗示隨著人工智慧驅動的攻擊變得更加普遍，將沒有足夠的時間來保護關鍵基礎設施。Salesforce 的執行長班尼奧夫（Marc Benioff）則將當前局勢形容為產業的「紅色警戒」。"
+    },
+    {
+      "id": "p6",
+      "en": "Despite the high number of hacking attempts, there have been no reports of successful, large-scale exploits of the flaw so far. However, the situation remains tense. Researchers emphasize that the vulnerability is one of the most severe in software history because it is built into the language itself. The PHP Foundation, a non-profit group that maintains the language, is working alongside security experts to ensure that websites can be protected.",
+      "zh": "儘管駭客攻擊嘗試次數眾多，但目前尚未傳出該漏洞遭大規模成功利用的報告。然而，局勢依然緊張。研究人員強調，此漏洞是軟體史上最嚴重的漏洞之一，因為它直接內建於程式語言本身。負責維護該語言的非營利組織 PHP 基金會（PHP Foundation），正與安全專家合作，確保網站能獲得保護。"
+    },
+    {
+      "id": "p7",
+      "en": "For now, the focus remains on patching. Organizations are being told to \"maintain heightened awareness\" and to check their systems for any signs of unauthorized activity. As the digital world continues to rely on older technologies like PHP, this event serves as a sharp reminder of how fragile the internet can be. The rise of AI has changed the rules of the game, making it easier for both researchers to find bugs and for criminals to exploit them. As the world moves forward, the ability to respond to these threats at speed will be the most important factor in keeping the internet safe for everyone.",
+      "zh": "目前，重點仍放在修補漏洞上。各組織被告知要「保持高度警覺」，並檢查系統是否有任何未經授權活動的跡象。隨著數位世界持續依賴 PHP 等較舊的技術，這起事件嚴正提醒了我們網路是多麼脆弱。人工智慧的興起改變了遊戲規則，讓研究人員更容易發現程式錯誤，但也讓犯罪分子更容易利用這些錯誤。隨著世界向前邁進，以快速反應這些威脅的能力，將成為確保網路對所有人保持安全的關鍵因素。"
+    }
+  ],
+  "wordCount": 712,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "powers",
+      "definitionEn": "To provide the energy or technical foundation for a system or machine to operate.",
+      "definitionZh": "驅動、為...提供動力（在此指支撐網站運作）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（力量），這裡作動詞用。文中：a programming language that powers 70% of the world's websites."
+    },
+    {
+      "term": "broke",
+      "definitionEn": "To become known to the public (used for news or information).",
+      "definitionZh": "（新聞或消息）傳開、曝光。",
+      "partOfSpeech": "verb (past tense of break)",
+      "noteZh": "常見作動詞（打破），這裡指消息傳開。文中：in just the first 45 minutes after the news broke."
+    },
+    {
+      "term": "rules of the game",
+      "definitionEn": "The basic principles or conditions that govern how a situation works.",
+      "definitionZh": "遊戲規則（指運作的基本準則）。",
+      "partOfSpeech": "idiom",
+      "noteZh": "字面意思為遊戲的規則，這裡比喻為環境變遷後的運作方式。文中：The rise of AI has changed the rules of the game, making it easier for both researchers to find bugs and for criminals to exploit them."
+    }
+  ],
+  "sources": [
+    {
+      "name": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "publishedAt": "2026-10-23T12:24:17Z"
+    },
+    {
+      "name": "NPR News",
+      "url": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
+      "title": "Hacking attempts rise after flaws found in program affecting 70% of websites",
+      "publishedAt": "2026-10-23T09:37:38Z"
+    },
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
+      "title": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
+      "publishedAt": "2026-10-23T18:48:48Z"
+    }
+  ],
+  "story": {
+    "id": "global-cyber-security-vulnerability-in-php",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "global-cybersecurity-scramble-over-php-flaw-oct-2026",
+        "title": "Global Internet Security Race Continues as PHP Flaws Threaten Millions of Websites",
+        "publishedAt": "2026-10-23T22:13:45.607903Z",
+        "category": "technology",
+        "summaryEn": "A serious security flaw has been discovered in the PHP programming language, which powers 70% of the world's websites. Cybersecurity firm Wiz Research used AI to find this vulnerability, which could allow hackers to steal data or control servers. Governments in countries like Japan, the U.K., and France have taken websites offline to protect them. Millions of hacking attempts have been recorded since the discovery was made public. Organizations are now racing to install a fix to secure their digital infrastructure."
+      },
+      {
+        "slug": "php-security-flaw-affects-global-websites-oct-2026",
+        "title": "Global Websites Race to Fix Critical PHP Security Flaw",
+        "publishedAt": "2026-10-23T00:38:33.261053Z",
+        "category": "technology",
+        "summaryEn": "A serious security flaw in the PHP programming language has put millions of websites at risk of being hacked. Cybersecurity experts report that millions of attempts to exploit this weakness have already occurred. Governments and organizations are taking their websites offline to install necessary security updates. The vulnerability was discovered using AI tools and had remained hidden for over a decade. Officials warn that while many systems are being patched, older software may require complete replacement."
+      },
+      {
+        "slug": "global-cyber-security-vulnerability-in-php-oct-2026",
+        "title": "Major Security Flaw in PHP Language Affects Millions of Websites",
+        "publishedAt": "2026-10-21T22:13:59.693750Z",
+        "category": "technology",
+        "summaryEn": "A critical security flaw has been found in the PHP programming language, which supports a large portion of the internet. Experts say this vulnerability allows hackers to run unauthorized code on servers without needing a password. Major organizations, including government agencies and popular websites, have taken their systems offline as a precaution. The flaw was identified using powerful artificial intelligence models. Security teams are now working to release emergency patches to protect millions of websites."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What was the immediate response from various governments after the PHP security flaw was announced?",
+      "options": {
+        "A": "They banned the use of the PHP programming language entirely.",
+        "B": "They advised organizations to update their software and temporarily took some services offline.",
+        "C": "They launched a coordinated global cyberattack against the hackers.",
+        "D": "They demanded that the PHP Foundation pay for the damages caused by the security gaps."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第四段，英國、日本與美國等政府採取了立即行動，包括將部分政府服務暫時離線，並由美國國家安全局（NSA）發布警報，建議組織盡快安裝安全性修補程式（security patches）。選項 A 錯誤，文章並未提及禁用 PHP；選項 C 錯誤，文中無此敘述；選項 D 錯誤，文中提到 PHP Foundation 是與專家合作修復漏洞，而非賠償。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, why is the current PHP security situation considered particularly dangerous compared to previous software bugs?",
+      "options": {
+        "A": "Because the flaw was intentionally created by hackers ten years ago.",
+        "B": "Because the PHP Foundation refuses to release any patches for the software.",
+        "C": "Because AI tools now allow criminals to identify and exploit vulnerabilities much faster than before.",
+        "D": "Because the internet is now entirely dependent on AI instead of programming languages."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第二段與第七段，雖然漏洞存在已久，但 AI 的崛起改變了遊戲規則，不僅讓研究人員能發現漏洞，也讓罪犯能利用這些工具以過去無法想像的速度搜尋並利用漏洞，這使得未來的資安防禦變得極為困難。選項 A 錯誤，文中未說是駭客刻意創造的；選項 B 錯誤，PHP Foundation 正與專家合作修復；選項 D 錯誤，網際網路仍依賴 PHP 等技術，而非完全依賴 AI。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the phrase 'it’s going to feel like the sky is falling,' how is the speaker using the word 'falling'?",
+      "options": {
+        "A": "To describe a literal physical collapse of the atmosphere.",
+        "B": "To express a sense of overwhelming catastrophe or impending disaster.",
+        "C": "To indicate that the speed of the internet is decreasing rapidly.",
+        "D": "To describe the process of software being updated or 'dropped' into servers."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。這是一個慣用語（idiom），用來形容一種極度恐慌、災難即將發生或情況失控的感覺。在第三段中，Cloudflare 的負責人 Matthew Prince 用這句話來強調面對 AI 驅動的攻擊時，防禦者將面臨巨大的壓力與困難。選項 A 是字面解釋，不符合語境；選項 C 與 D 皆與文中描述的資安威脅情境無關。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article regarding the recent PHP security event?",
+      "options": {
+        "A": "The PHP programming language is no longer safe and should be replaced by newer languages immediately.",
+        "B": "AI has successfully solved all major security problems that have plagued the internet for the last decade.",
+        "C": "The internet is a very secure place, and hacking attempts are rarely successful.",
+        "D": "The rise of AI has increased the speed and scale of cyber threats, making rapid response essential for internet security."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。文章整體探討了 PHP 漏洞帶來的危機，並強調 AI 的發展使得資安威脅變得更快速、更難以防禦（如第三段與第七段所述）。文章最後總結，在 AI 改變規則的情況下，快速反應的能力已成為維護網路安全的關鍵。選項 A 過於極端；選項 B 與文章主旨相反；選項 C 與文中描述的嚴峻情況不符。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
