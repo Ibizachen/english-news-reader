@@ -1,0 +1,157 @@
+{
+  "id": "2026-10-25-debate-over-data-centers-and-local-impact",
+  "slug": "debate-over-data-centers-and-local-impact-oct-2026",
+  "publishedAt": "2026-10-25T00:19:22.531930Z",
+  "category": "technology",
+  "title": "The Digital Giant Next Door: The Growing Conflict Over Data Centers",
+  "subtitle": "As AI technology expands, local communities are clashing with tech companies over the impact of massive data storage facilities.",
+  "summary": {
+    "en": "Data centers are becoming a major point of conflict between local residents and large technology companies. These massive buildings provide the computing power needed for artificial intelligence and cloud services. While governments view them as essential for economic growth, many people living nearby worry about noise, pollution, and energy use. The debate is now reaching a national level in both the UK and the US. Finding a balance between technological progress and local quality of life remains a difficult challenge.",
+    "zh": "資料中心正成為當地居民與大型科技公司之間衝突的主要焦點。這些巨型建築提供了人工智慧與雲端服務所需的運算能力。儘管政府視其為經濟成長的必要條件，但許多住在附近的居民卻對噪音、污染與能源消耗感到擔憂。這場辯論目前在英國與美國皆已提升至國家層級。如何在科技進步與當地生活品質之間取得平衡，依然是一項艱鉅的挑戰。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "In many parts of the world, a new type of building is changing the landscape. These are called hyperscale data centers—massive facilities that house thousands of computer servers. These centers provide the \"computing muscle\" needed to run modern artificial intelligence (AI) models and cloud services like Google Drive. However, as these buildings appear in more neighborhoods, they are creating a serious conflict between giant tech companies and the people who live nearby.",
+      "zh": "在世界許多地方，一種新型建築正在改變地景。這些被稱為超大規模資料中心，是容納數千台電腦伺服器的巨型設施。這些中心提供了運作現代人工智慧模型與雲端服務（如 Google 雲端硬碟）所需的「運算肌肉」。然而，隨著這些建築出現在越來越多的社區，它們在大型科技公司與當地居民之間引發了嚴重的衝突。"
+    },
+    {
+      "id": "p2",
+      "en": "For residents like Dale Johnston, who lives in Newport, South Wales, the arrival of a data center has been a difficult experience. According to The Guardian, Johnston’s view of the sky is now blocked by a 23-meter-high grey building. He and his neighbors are worried about the constant noise from cooling fans, which are necessary to keep the computer chips from overheating. There are also concerns about harmful fumes from the backup diesel generators used to keep the data flowing during power outages. For families living in these areas, the arrival of a data center often means losing their peace and quiet, with some residents reporting that they can barely sleep due to the low hum of the machines.",
+      "zh": "對於住在南威爾斯紐波特的戴爾·強斯頓（Dale Johnston）等居民來說，資料中心的進駐是一段艱難的經歷。根據《衛報》報導，強斯頓原本的視野現在被一棟二十三公尺高的灰色建築遮擋。他和鄰居們擔心冷卻風扇持續發出的噪音，這些風扇對於防止電腦晶片過熱至關重要。此外，人們也擔心備用柴油發電機在停電期間維持資料傳輸時所產生的有害廢氣。對於居住在這些地區的家庭而言，資料中心的到來往往意味著失去平靜與安寧，一些居民表示，由於機器發出的低頻嗡嗡聲，他們幾乎無法入睡。"
+    },
+    {
+      "id": "p3",
+      "en": "Governments often support these projects because they believe they are necessary for the future. The UK government, for example, has created special \"AI growth zones\" to help build more data centers quickly. Politicians often argue that these facilities create jobs and are essential for the country’s economic success. They believe that if the country does not embrace this technology, it will be left behind by other nations. According to The Guardian, officials have rejected calls to stop these projects, insisting that the economic benefits are too important to ignore.",
+      "zh": "政府通常支持這些計畫，因為他們認為這對未來至關重要。例如，英國政府已設立了特別的「人工智慧成長區」，以協助快速興建更多資料中心。政治人物常主張這些設施能創造就業機會，對國家的經濟成功不可或缺。他們認為，如果國家不擁抱這項技術，將會被其他國家拋在後頭。根據《衛報》報導，官員們拒絕了停止這些計畫的呼籲，堅稱其帶來的經濟效益不容忽視。"
+    },
+    {
+      "id": "p4",
+      "en": "However, many local groups see the situation differently. They argue that these centers are \"resource-hungry\" and cause pollution while mostly benefiting large, often US-based, technology companies. These critics feel that the local community receives very little value in return for the disruption to their daily lives. The scale of the energy demand is also a major concern. Because these centers require massive amounts of electricity, they put significant pressure on the national grid—the system of wires and power plants that brings electricity to homes and businesses. Experts note that the new centers planned in the UK will require much more power than the country currently uses on a typical cold winter day.",
+      "zh": "然而，許多地方團體對此有不同看法。他們認為這些中心是「資源消耗大戶」，在主要造福大型（通常是美國籍）科技公司的同時，也造成了污染。這些批評者認為，當地社區在日常生活受到干擾後，獲得的回饋微乎其微。能源需求的規模也是一大隱憂。由於這些中心需要龐大的電力，它們對國家電網（即將電力輸送至家庭與企業的電線與發電廠系統）造成了巨大壓力。專家指出，英國計畫中的新中心所需的電力，將遠超該國目前在典型寒冬日所使用的總量。"
+    },
+    {
+      "id": "p5",
+      "en": "This debate is not limited to the UK. In the United States, data centers have become a major political issue. According to NPR, the topic is being watched closely in states like Wisconsin as the midterm elections approach. Because data centers are a national issue, many people are looking at how these local conflicts are handled to understand how the debate might play out across the entire country. The tension between the need for digital infrastructure and the rights of local residents is becoming a central theme in modern politics.",
+      "zh": "這場辯論不僅限於英國。在美國，資料中心已成為重大的政治議題。根據美國公共廣播電台報導，隨著期中選舉臨近，威斯康辛州等地正密切關注此話題。由於資料中心屬於全國性議題，許多人正觀察這些地方衝突如何處理，以了解這場辯論可能如何在全國範圍內發展。數位基礎設施的需求與當地居民權益之間的緊張關係，正成為現代政治的核心主題。"
+    },
+    {
+      "id": "p6",
+      "en": "As the demand for AI continues to grow, the number of data centers is likely to increase. The industry is moving from small, private server rooms to these massive, industrial-scale buildings. This transition is causing a \"David versus Goliath\" battle, where small groups of residents find themselves standing against some of the most powerful companies in the world. Many residents feel that their concerns are not being heard by the authorities who approve these projects. They argue that politicians are too focused on the potential for economic growth to consider the reality of life next to a massive, noisy, and energy-intensive facility.",
+      "zh": "隨著對人工智慧的需求持續成長，資料中心的數量可能會增加。產業正從小型私人伺服器室轉向這些巨型工業規模的建築。這種轉變引發了一場「大衛對抗歌利亞」的戰役，小型居民團體發現自己必須對抗世界上最強大的幾家公司。許多居民感到他們的擔憂並未被批准這些計畫的當局所聽見。他們主張，政治人物過於關注經濟成長的潛力，而忽略了生活在巨大、吵雜且耗能設施旁的現實。"
+    },
+    {
+      "id": "p7",
+      "en": "Looking ahead, the challenge for leaders will be to find a way to support technological progress without ignoring the needs of the people living in the shadow of these buildings. Whether it involves better planning, stricter environmental rules, or finding ways to make data centers quieter and more efficient, the debate is far from over. For now, people like Dale Johnston continue to wait and worry, hoping that someone will eventually listen to their concerns about the changing world outside their windows.",
+      "zh": "展望未來，領導者面臨的挑戰將是如何在支持科技進步的同時，不忽略那些生活在這些建築陰影下的人們的需求。無論是涉及更好的規劃、更嚴格的環境法規，還是尋找讓資料中心更安靜、更有效率的方法，這場辯論遠未結束。目前，像戴爾·強斯頓這樣的人們仍在等待與擔憂，希望最終能有人傾聽他們對於窗外世界正在改變的憂慮。"
+    }
+  ],
+  "wordCount": 738,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "muscle",
+      "definitionEn": "Power, strength, or influence, especially in a business or political context.",
+      "definitionZh": "力量、影響力（在此指運算能力）。",
+      "partOfSpeech": "noun (metaphorical)",
+      "noteZh": "常見指人體肌肉，這裡比喻科技的運算實力。文中：These centers provide the \"computing muscle\" needed to run modern artificial intelligence (AI) models and cloud services like Google Drive."
+    },
+    {
+      "term": "play out",
+      "definitionEn": "To happen or develop in a particular way.",
+      "definitionZh": "（事件）發展、發生。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "由動詞 play 和副詞 out 組成，意思與「玩」無關。文中：Because data centers are a national issue, many people are looking at how these local conflicts are handled to understand how the debate might play out across the entire country."
+    },
+    {
+      "term": "grid",
+      "definitionEn": "The network of power lines and equipment that supplies electricity to a region.",
+      "definitionZh": "電力網、輸電網絡。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見指網格或表格，這裡指國家電力系統。文中：Because these centers require massive amounts of electricity, they put significant pressure on the national grid—the system of wires and power plants that brings electricity to homes and businesses."
+    },
+    {
+      "term": "shadow",
+      "definitionEn": "A position of being close to or influenced by something large and powerful.",
+      "definitionZh": "陰影處（比喻受某大型事物影響的範圍）。",
+      "partOfSpeech": "noun (metaphorical)",
+      "noteZh": "這裡不僅指物理上的陰影，也隱喻居民生活在大型設施的影響之下。文中：Looking ahead, the challenge for leaders will be to find a way to support technological progress without ignoring the needs of the people living in the shadow of these buildings."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle",
+      "title": "The datacentre next door: on the frontline of tech’s latest David v Goliath battle",
+      "publishedAt": "2026-10-24T11:00:32Z"
+    },
+    {
+      "name": "NPR News",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6011182/how-data-centers-became-a-bipartisan-political-issue-in-wisconsin",
+      "title": "How data centers became a bipartisan political issue in Wisconsin",
+      "publishedAt": "2026-10-24T21:20:53Z"
+    }
+  ],
+  "story": {
+    "id": "debate-over-data-centers-and-local-impact",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What specific concerns do residents like Dale Johnston have regarding the data center near their homes?",
+      "options": {
+        "A": "They are worried about the loss of local government funding for schools.",
+        "B": "They are concerned about constant noise from fans and potential pollution from backup generators.",
+        "C": "They fear that the data center will cause frequent power outages for their own homes.",
+        "D": "They are upset that the building prevents them from accessing public park spaces."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，Dale Johnston 和鄰居們對於冷卻風扇產生的持續噪音，以及備用柴油發電機可能產生的有害廢氣感到擔憂。選項 A 文中未提及；選項 C 雖然提到電網壓力，但並未說會導致居民家中停電；選項 D 提到的是視線被阻擋，而非無法進入公園。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, why might the growth of data centers lead to broader political tension?",
+      "options": {
+        "A": "Because tech companies are refusing to pay taxes to the local governments.",
+        "B": "Because the government is planning to replace all existing power plants with data centers.",
+        "C": "Because the high energy demands of these centers conflict with the interests and quality of life of local communities.",
+        "D": "Because citizens are demanding that data centers be moved to other countries."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。綜合第四段與第六段，數據中心對電力需求巨大，對國家電網造成壓力，同時又干擾了周邊居民的生活品質（如噪音、廢氣），這種「資源飢渴」的特性導致了居民與強大科技公司之間的衝突，進而成為政治議題。選項 A 文中未提；選項 B 錯誤，數據中心是使用電網而非取代電廠；選項 D 文中並未提到居民要求將中心遷往國外。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the phrase 'resource-hungry' used in the fourth paragraph, what does the word 'hungry' imply?",
+      "options": {
+        "A": "Requiring a large amount of something to function.",
+        "B": "Feeling a physical need for food.",
+        "C": "An aggressive desire to compete with other businesses.",
+        "D": "A temporary state of needing more energy than usual."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在文中，「resource-hungry」是用來形容數據中心需要消耗極大量的電力與資源，這裡的「hungry」並非指生理上的飢餓，而是比喻對某種資源有極大的需求。選項 B 為字面意思，不適用於建築物；選項 C 與競爭無關；選項 D 的「暫時性」在文中並未體現，數據中心對資源的需求是持續且巨大的。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central theme of the article?",
+      "options": {
+        "A": "The technical process of how modern AI models function within data centers.",
+        "B": "The history of how data centers have evolved from small rooms to industrial buildings.",
+        "C": "The economic benefits that tech companies provide to small towns in the UK.",
+        "D": "The growing conflict between the need for digital infrastructure and the quality of life for local residents."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。全文的核心在於探討數據中心擴張帶來的影響，對比了政府看重的經濟與科技發展，以及居民面臨的噪音、污染與生活干擾，並指出這已演變成一場「大衛對抗歌利亞」的社會與政治衝突。選項 A、B 僅為背景資訊；選項 C 僅是政府支持的一方觀點，並未涵蓋文章探討的衝突面。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
