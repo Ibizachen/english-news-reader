@@ -1,0 +1,151 @@
+{
+  "id": "2026-10-25-anthropic-sued-over-ai-music-training-data",
+  "slug": "anthropic-sued-over-ai-music-training-data-oct-2026",
+  "publishedAt": "2026-10-25T22:13:53.944448Z",
+  "category": "technology",
+  "title": "Elvis Presley Estate Sues AI Company Over Copyright Claims",
+  "subtitle": "A new legal battle tests how artificial intelligence companies use music to train their systems.",
+  "summary": {
+    "en": "The company that owns the rights to Elvis Presley's music is suing the AI firm Anthropic. They claim Anthropic used 274 of Presley's songs to train its AI model, Claude, without permission. This is one of the first major cases brought by an artist's estate against an AI developer. The lawsuit argues that Anthropic built its business on copyright infringement. The outcome could change how AI companies use music in the future.",
+    "zh": "擁有貓王艾維斯普里斯萊音樂版權的公司正對人工智慧公司 Anthropic 提起訴訟。他們指控 Anthropic 未經許可，使用普里斯萊的 274 首歌曲來訓練其人工智慧模型 Claude。這是藝人遺產管理機構首次針對人工智慧開發商提起的主要訴訟之一。訴狀主張 Anthropic 的商業模式建立在侵犯著作權之上。此案的結果可能會改變未來人工智慧公司使用音樂的方式。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "A major legal battle has started in the world of technology and music. Authentic Brands Group, the organization that owns the rights to Elvis Presley’s music and image, has filed a lawsuit against the artificial intelligence company Anthropic. The lawsuit claims that Anthropic used 274 of Presley’s songs to train its AI model, known as Claude, without getting permission first. This case, first reported by Billboard, marks a significant moment because it is one of the first times an artist’s estate has taken an AI developer to court.",
+      "zh": "科技與音樂界正展開一場重大的法律戰。擁有「貓王」艾維斯普里斯萊 (Elvis Presley) 音樂與肖像權的「真實品牌集團 (Authentic Brands Group)」已對人工智慧公司 Anthropic 提起訴訟。訴狀指控 Anthropic 在未經許可的情況下，使用普里斯萊的 274 首歌曲來訓練其名為 Claude 的人工智慧模型。此案由《告示牌 (Billboard)》雜誌率先報導，由於這是藝人遺產管理機構首次將人工智慧開發商告上法庭，因此具有指標性意義。"
+    },
+    {
+      "id": "p2",
+      "en": "Artificial intelligence companies like Anthropic use a process called training to build their models. During this process, the AI analyzes huge amounts of recorded music. By doing this, the system learns the sounds, structures, and expressions of songs. Once trained, the AI can allow users to create new music simply by typing text or speaking commands. However, many musicians and artists are worried about this process. They fear that their creative work is being taken without their consent. There is also a growing concern that AI-generated music, which some people call 'slop,' might eventually replace human-made songs.",
+      "zh": "像 Anthropic 這樣的人工智慧公司會利用一種稱為「訓練」的過程來建構模型。在此過程中，人工智慧會分析海量的錄製音樂，藉此學習歌曲的聲音、結構與表達方式。一旦訓練完成，使用者只需輸入文字或語音指令，人工智慧便能創作出新音樂。然而，許多音樂家與藝術家對此感到憂心，他們擔心自己的創作在未經同意下被挪用。此外，大眾也日益擔憂這種被部分人士稱為「垃圾內容」的人工智慧生成音樂，最終可能會取代人類創作的歌曲。"
+    },
+    {
+      "id": "p3",
+      "en": "According to The Guardian, the lawsuit argues that Anthropic built its entire business model on copyright infringement—the act of using someone else's creative work without permission—on a scale that has never been seen before. The legal team representing the Elvis Presley estate claims that Claude has created copies of copyrighted material from almost every music catalog available on the internet. The lawsuit specifically mentions famous songs like 'Can’t Help Falling in Love,' 'All Shook Up,' and 'A Little Less Conversation.'",
+      "zh": "根據《衛報 (The Guardian)》報導，該訴訟主張 Anthropic 的整個商業模式建立在侵犯著作權的基礎上，即在史無前例的規模下，未經許可使用他人的創意作品。代表普里斯萊遺產管理機構的法律團隊聲稱，Claude 已經複製了網路上幾乎所有音樂目錄中的受版權保護素材。訴狀特別點名了《無法克制墜入愛河 (Can’t Help Falling in Love)》、《搖滾萬歲 (All Shook Up)》以及《少說點話 (A Little Less Conversation)》等知名歌曲。"
+    },
+    {
+      "id": "p4",
+      "en": "The legal documents state that Anthropic tried to put 'guardrails' in place. These are safety rules designed to stop the AI from producing music that breaks copyright laws. However, the lawsuit claims these guardrails were not effective. The lawyers argue that Anthropic knew these systems were failing to stop the infringement but continued to use them anyway. Because of this, the plaintiffs are seeking $150,000 for each of the 274 songs mentioned in the case. This adds up to a total of about $41 million.",
+      "zh": "法律文件指出，Anthropic 曾試圖設置「防護欄」。這些是旨在阻止人工智慧產出違反著作權法之音樂的安全規則。然而，訴訟指控這些防護欄並未發揮作用。律師團主張，Anthropic 明知這些系統無法阻止侵權行為，卻仍持續使用。因此，原告方要求針對案中提到的 274 首歌曲，每首索賠 15 萬美元，總計約 4,100 萬美元。"
+    },
+    {
+      "id": "p5",
+      "en": "This is not the first time AI companies have faced trouble regarding music. Other major organizations, such as the Recording Industry Association of America (RIAA) and big music labels like Sony, Universal, and Warner Records, have already raised concerns about how AI models are built. The music industry is worried that these tools are threatening the value of human creativity. Recently, the streaming giant Spotify took action against this trend. The company announced that it had removed about 50 million songs from its platform over the past year because they were considered low-quality AI-generated content.",
+      "zh": "這並非人工智慧公司首次因音樂問題面臨困境。其他大型組織，例如「美國唱片工業協會 (RIAA)」以及索尼 (Sony)、環球 (Universal) 與華納唱片 (Warner Records) 等大型唱片公司，早已對人工智慧模型的建構方式提出質疑。音樂產業擔心這些工具正威脅人類創造力的價值。近期，串流音樂巨頭 Spotify 也針對此趨勢採取行動，該公司宣布在過去一年內，已從平台上移除了約 5,000 萬首被視為低品質的人工智慧生成內容。"
+    },
+    {
+      "id": "p6",
+      "en": "Legal experts suggest that the result of this lawsuit could set a very important precedent. A precedent is a legal decision that serves as a guide for future cases. If the court decides in favor of the Elvis Presley estate, it could force AI companies to change how they gather data. It might mean they have to pay for the rights to use music or find new ways to train their models that do not rely on copyrighted material. On the other hand, if Anthropic wins, it could make it easier for AI developers to continue using existing music collections to train their systems.",
+      "zh": "法律專家認為，此案的結果可能會樹立一個極為重要的判例。所謂判例，是指作為未來案件參考依據的法律裁決。若法院判決普里斯萊遺產管理機構勝訴，可能會迫使人工智慧公司改變其蒐集資料的方式。這可能意味著他們必須支付費用以取得音樂使用權，或是尋找不依賴受版權保護素材來訓練模型的新方法。另一方面，若 Anthropic 勝訴，則可能讓人工智慧開發商更容易持續使用現有的音樂收藏來訓練其系統。"
+    },
+    {
+      "id": "p7",
+      "en": "As the case moves forward, the tech world will be watching closely. The conflict highlights the tension between rapid technological progress and the rights of artists. For now, the question of whether AI companies have the right to 'learn' from human art remains one of the most debated topics in the industry. The outcome will likely influence the future of both the music business and the development of artificial intelligence for years to come.",
+      "zh": "隨著案件推進，科技界將密切關注。這場衝突凸顯了科技快速進步與藝術家權益之間的緊張關係。目前，人工智慧公司是否有權向人類藝術「學習」，仍是業界爭論最激烈的議題之一。此案的結果很可能會在未來多年內，影響音樂產業與人工智慧發展的走向。"
+    }
+  ],
+  "wordCount": 682,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "battle",
+      "definitionEn": "A serious and often long-lasting disagreement or struggle between people or organizations.",
+      "definitionZh": "爭鬥、鬥爭（指嚴重的分歧或對抗）。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作軍事上的「戰役」，這裡指法律上的爭端。文中：A major legal battle has started in the world of technology and music."
+    },
+    {
+      "term": "estate",
+      "definitionEn": "All the money and property owned by a particular person, especially after they have died.",
+      "definitionZh": "遺產、遺產管理委員會（指已故者留下的資產與權利）。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作「房地產」，這裡指已故藝人的遺產管理方。文中：This case, first reported by Billboard, marks a significant moment because it is one of the first times an artist’s estate has taken an AI developer to court."
+    },
+    {
+      "term": "slop",
+      "definitionEn": "Informal term for low-quality, worthless, or messy content produced in large amounts.",
+      "definitionZh": "劣質內容（網路用語，指大量生產且品質低劣的內容）。",
+      "partOfSpeech": "noun",
+      "noteZh": "原意指「餿水」或「稀泥」，這裡用來形容低品質的 AI 生成物。文中：There is also a growing concern that AI-generated music, which some people call 'slop,' might eventually replace human-made songs."
+    },
+    {
+      "term": "guardrails",
+      "definitionEn": "Rules or systems designed to prevent something from going wrong or becoming dangerous.",
+      "definitionZh": "防護欄、安全規範（指防止錯誤發生的機制）。",
+      "partOfSpeech": "noun",
+      "noteZh": "原意指道路旁的「護欄」，這裡比喻為軟體中的安全限制措施。文中：The legal documents state that Anthropic tried to put 'guardrails' in place."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
+      "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+      "publishedAt": "2026-10-25T18:25:59Z"
+    }
+  ],
+  "story": {
+    "id": "anthropic-sued-over-ai-music-training-data",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the specific financial demand made by the Elvis Presley estate in the lawsuit against Anthropic?",
+      "options": {
+        "A": "They are demanding $150,000 for the entire catalog of Elvis Presley's music.",
+        "B": "They are seeking $150,000 per song for each of the 274 songs mentioned in the lawsuit.",
+        "C": "They are requesting a total of $274 million in damages for copyright infringement.",
+        "D": "They want Anthropic to pay $41 million for every song currently available on the internet."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第四段，原告要求針對訴訟中提到的 274 首歌曲，每首賠償 15 萬美元，總計約 4100 萬美元。選項 A 錯誤，因為 15 萬美元是單首歌曲的賠償金額，而非整個目錄。選項 C 的金額 2.74 億與原文資訊不符。選項 D 錯誤，因為 4100 萬是總額，並非每首歌的賠償金額。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, why might the outcome of this lawsuit be considered a 'precedent' for the future of AI?",
+      "options": {
+        "A": "Because it will determine whether Anthropic can continue to use the name 'Claude' for its AI model.",
+        "B": "Because it will force all AI companies to stop using the internet to gather data entirely.",
+        "C": "Because the court's decision will serve as a legal guide for how future AI companies handle copyrighted training data.",
+        "D": "Because it will decide if Spotify is allowed to remove low-quality AI songs from its platform."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第六段，文中明確定義 precedent 為「法律判決可作為未來案件的參考指南」。若法院判決 Elvis Presley 遺產管理方勝訴，將迫使 AI 公司改變數據收集方式。選項 A 與 AI 命名無關。選項 B 過於極端，文章並未說會完全禁止使用網路數據。選項 D 為 Spotify 的商業決策，與此訴訟的法律判決無直接關聯。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fourth paragraph, what does the term 'guardrails' refer to in the context of AI development?",
+      "options": {
+        "A": "Physical barriers installed in the offices of AI companies to protect servers.",
+        "B": "Safety rules and systems designed to prevent the AI from violating copyright laws.",
+        "C": "Legal contracts signed by artists to allow AI to use their music.",
+        "D": "The financial penalties that AI companies must pay when they are sued."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第四段，文中提到 Anthropic 試圖設置「guardrails」，其定義為「旨在阻止 AI 產生違反版權法音樂的安全規則」。這是一種比喻用法，並非實體圍欄。選項 A 誤解了該詞的非字面含義。選項 C 與 D 均非文中對此詞的定義，選項 D 指的是訴訟賠償金，而非預防機制。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article regarding the conflict between AI companies and the music industry?",
+      "options": {
+        "A": "The music industry is successfully using lawsuits to shut down all AI development companies.",
+        "B": "AI companies have proven that their training methods are fully compliant with current copyright laws.",
+        "C": "The conflict highlights a significant struggle between rapid AI technological advancement and the protection of artists' creative rights.",
+        "D": "Most musicians are excited about the potential for AI to create new music using their existing catalogs."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第七段總結了全文核心，指出此衝突凸顯了「科技快速進步」與「藝術家權利」之間的緊張關係。選項 A 錯誤，因為目前僅是訴訟開始，並未關閉所有公司。選項 B 與文章內容相反，文章正是在討論其合法性爭議。選項 D 錯誤，文章提到音樂家對其創作被未經授權使用感到擔憂，而非感到興奮。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
