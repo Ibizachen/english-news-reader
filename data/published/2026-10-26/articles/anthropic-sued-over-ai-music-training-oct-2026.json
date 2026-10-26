@@ -1,0 +1,159 @@
+{
+  "id": "2026-10-26-anthropic-sued-over-ai-music-training",
+  "slug": "anthropic-sued-over-ai-music-training-oct-2026",
+  "publishedAt": "2026-10-26T00:19:39.102972Z",
+  "category": "technology",
+  "title": "Elvis Presley Estate Takes Legal Action Against AI Company Anthropic",
+  "subtitle": "A new lawsuit claims the AI firm used hundreds of songs without permission to train its technology.",
+  "summary": {
+    "en": "The company that owns the rights to Elvis Presley's music has filed a lawsuit against the AI developer Anthropic. The case claims that Anthropic used 274 of Presley's songs to train its AI model, Claude, without authorization. This legal challenge is significant because it is one of the first brought by an artist's estate against an AI company. The plaintiffs are seeking millions of dollars in damages for copyright infringement. This case adds to growing tensions between the music industry and AI developers over how creative works are used.",
+    "zh": "擁有貓王音樂版權的公司已對人工智慧開發商 Anthropic 提起訴訟。該案指控 Anthropic 在未經授權的情況下，使用貓王的兩百七十四首歌曲來訓練其人工智慧模型克勞德。這項法律挑戰之所以重要，是因為這是藝術家遺產管理機構首次對人工智慧公司採取行動。原告方正就版權侵權行為尋求數百萬美元的賠償。此案加劇了音樂產業與人工智慧開發商之間，關於創意作品如何被使用的緊張關係。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The owners of the music catalogue belonging to the late singer Elvis Presley have taken a major step in the ongoing battle between the music industry and artificial intelligence. According to The Guardian, the licensing organization Authentic Brands Group has filed a lawsuit against the AI company Anthropic. The legal action claims that Anthropic used 274 of Presley’s songs, including famous hits like \"Can’t Help Falling in Love\" and \"All Shook Up,\" to train its AI model, known as Claude, without getting permission first.",
+      "zh": "已故歌手貓王 (Elvis Presley) 音樂版權的持有者，在音樂產業與人工智慧的持續角力中採取了重大行動。根據《衛報》(The Guardian) 報導，授權管理機構「真實品牌集團」(Authentic Brands Group) 已對人工智慧公司 Anthropic 提起訴訟。該法律行動指控 Anthropic 在未經許可的情況下，使用了貓王的兩百七十四首歌曲來訓練其名為「克勞德」(Claude) 的人工智慧模型，其中包括《情不自禁愛上你》(Can’t Help Falling in Love) 與《搖滾萬歲》(All Shook Up) 等知名金曲。"
+    },
+    {
+      "id": "p2",
+      "en": "This lawsuit is a significant development in the world of technology and law. While other large music labels, such as Sony, Universal, and Warner Records, have already challenged AI companies over copyright issues—the legal right to control how a creative work is used—this case is different. It is one of the first times an artist’s estate has directly sued an AI developer. The result of this case could create a new rule or precedent, which is a legal decision that serves as a guide for future similar cases, regarding how AI firms are allowed to use existing music collections.",
+      "zh": "這起訴訟是科技與法律領域的一項重大發展。儘管索尼 (Sony)、環球 (Universal) 與華納唱片 (Warner Records) 等大型音樂廠牌早已針對版權問題——即控制創意作品使用方式的法律權利——向人工智慧公司提出挑戰，但本案有所不同。這是藝術家遺產管理機構首次直接控告人工智慧開發商。本案的結果可能會建立一項新的規則或判例，即作為未來類似案件參考依據的法律裁決，規範人工智慧公司獲准使用現有音樂庫的方式。"
+    },
+    {
+      "id": "p3",
+      "en": "In the legal documents filed on Friday, the lead attorney for the plaintiffs, Richard Busch, accused Anthropic of building its entire business model on copyright infringement. The lawsuit claims that from the very beginning, the AI model Claude has been able to create outputs that copy protected material from almost every music catalogue available on the internet. The plaintiffs are asking for $150,000 for each song they claim was used without permission. This adds up to a total of approximately $41 million.",
+      "zh": "在週五提交的法律文件中，原告方的首席律師理查·布希 (Richard Busch) 指控 Anthropic 將其整個商業模式建立在侵犯版權的基礎上。訴訟聲稱，人工智慧模型克勞德從一開始就能夠產出複製網路上幾乎所有音樂庫中受保護素材的內容。原告方要求為每一首被指控未經許可使用的歌曲賠償十五萬美元，總計約四千一百萬美元。"
+    },
+    {
+      "id": "p4",
+      "en": "Furthermore, the lawsuit argues that Anthropic knew its systems were breaking the law. It claims that even after the company tried to put \"guardrails\" in place—which are safety measures designed to prevent the AI from creating copyrighted content—these tools were not effective. The lawsuit states that because Anthropic was aware that these guardrails were failing to stop the creation of infringing music, the company has continued to use the songs on purpose.",
+      "zh": "此外，訴訟主張 Anthropic 明知其系統違法。訴訟指出，即便該公司試圖設置「防護欄」——即旨在防止人工智慧生成受版權保護內容的安全措施——這些工具也並未奏效。訴訟陳述，由於 Anthropic 知曉這些防護欄無法阻止侵權音樂的生成，該公司仍蓄意持續使用這些歌曲。"
+    },
+    {
+      "id": "p5",
+      "en": "AI music platforms generally function by analyzing massive amounts of recorded music. By doing this, the software learns the sounds, structures, and expressions of songs. This allows users to create their own AI-generated music simply by typing in text or speaking prompts. However, this technology has caused great concern among musicians. Many artists worry that their voices and songs are being used without their consent. There is also a widespread fear that AI-generated music, which some critics call \"slop,\" could eventually replace human-made songs in the industry.",
+      "zh": "人工智慧音樂平台通常透過分析海量的錄製音樂來運作。藉由這種方式，軟體能學習歌曲的聲音、結構與表達方式。這讓使用者只需輸入文字或語音指令，就能創作出屬於自己的人工智慧生成音樂。然而，這項技術已引起音樂人極大的擔憂。許多藝術家擔心自己的聲音與歌曲在未經同意的情況下被使用。此外，大眾普遍擔憂被部分評論家稱為「垃圾內容」的人工智慧生成音樂，最終可能會取代產業中的人類創作歌曲。"
+    },
+    {
+      "id": "p6",
+      "en": "This issue is already affecting major streaming services. The Guardian reports that Spotify, one of the world's largest music streaming platforms, recently removed about 50 million songs from its recommendations. The company labeled this music as AI slop, noting that it was not high-quality or authentic content. This move highlights the growing tension as streaming platforms and artists try to manage the flood of AI-created audio files.",
+      "zh": "此議題已影響到各大串流服務。《衛報》報導指出，全球最大的音樂串流平台之一 Spotify 最近從其推薦清單中移除了約五千萬首歌曲。該公司將這些音樂標記為人工智慧垃圾內容，並指出這些並非高品質或原創的內容。此舉凸顯了隨著串流平台與藝術家試圖管理如潮水般湧入的人工智慧音訊檔案，雙方之間的緊張關係正日益加劇。"
+    },
+    {
+      "id": "p7",
+      "en": "As the legal battle between the Elvis Presley estate and Anthropic moves forward, the entire technology sector will be watching closely. If the court decides in favor of the estate, it could force AI companies to change how they train their models. It might require them to pay for licenses or to stop using certain data sets entirely. On the other hand, if the court finds that the AI’s use of the music is allowed, it could make it much harder for artists to protect their work in the future. For now, the case remains a critical test of how intellectual property laws will apply to the rapidly changing world of artificial intelligence.",
+      "zh": "隨著貓王遺產管理機構與 Anthropic 之間的法律戰持續進行，整個科技產業都將密切關注。若法院判決有利於遺產管理機構，可能會迫使人工智慧公司改變訓練模型的方式。這可能要求他們支付授權費用，或完全停止使用特定的資料集。另一方面，若法院認定人工智慧使用音樂的行為合法，未來藝術家將更難保護自己的作品。目前，本案仍是智慧財產權法如何適用於瞬息萬變的人工智慧世界的關鍵考驗。"
+    }
+  ],
+  "wordCount": 682,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "estate",
+      "definitionEn": "The total property, money, and possessions left by someone after they die.",
+      "definitionZh": "遺產；遺產管理委員會",
+      "partOfSpeech": "noun",
+      "noteZh": "常見意思為「房地產」，這裡指已故者留下的資產與權利。文中：It is one of the first times an artist’s estate has directly sued an AI developer."
+    },
+    {
+      "term": "adds up to",
+      "definitionEn": "To result in a particular total amount.",
+      "definitionZh": "總計；加起來等於",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "由動詞 add 和介系詞組成，意思與單字本身的字面意義不同。文中：This adds up to a total of approximately $41 million."
+    },
+    {
+      "term": "slop",
+      "definitionEn": "Low-quality or worthless material, often used here to describe low-effort AI-generated content.",
+      "definitionZh": "劣質品；垃圾內容",
+      "partOfSpeech": "noun",
+      "noteZh": "原意為「餿水」或「稀泥」，這裡被用來貶低品質低劣的 AI 作品。文中：There is also a widespread fear that AI-generated music, which some critics call \"slop,\" could eventually replace human-made songs in the industry."
+    },
+    {
+      "term": "move",
+      "definitionEn": "An action taken to achieve a specific goal or result.",
+      "definitionZh": "舉措；行動",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（移動），這裡作名詞使用，指採取的一項行動。文中：This move highlights the growing tension as streaming platforms and artists try to manage the flood of AI-created audio files."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
+      "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+      "publishedAt": "2026-10-25T18:25:59Z"
+    }
+  ],
+  "story": {
+    "id": "anthropic-sued-over-ai-music-training-data",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "anthropic-sued-over-ai-music-training-data-oct-2026",
+        "title": "Elvis Presley Estate Sues AI Company Over Copyright Claims",
+        "publishedAt": "2026-10-25T22:13:53.944448Z",
+        "category": "technology",
+        "summaryEn": "The company that owns the rights to Elvis Presley's music is suing the AI firm Anthropic. They claim Anthropic used 274 of Presley's songs to train its AI model, Claude, without permission. This is one of the first major cases brought by an artist's estate against an AI developer. The lawsuit argues that Anthropic built its business on copyright infringement. The outcome could change how AI companies use music in the future."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the specific financial demand made by the Elvis Presley estate in the lawsuit against Anthropic?",
+      "options": {
+        "A": "A total of $150,000 for the entire catalogue of 274 songs.",
+        "B": "Approximately $41 million for the unauthorized use of 274 songs.",
+        "C": "A fine of $41 million for each of the 274 songs used by the AI.",
+        "D": "A legal fee of $150,000 to cover the costs of the lawsuit against Anthropic."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，原告要求每首未經許可使用的歌曲賠償 15 萬美元，總計約為 4,100 萬美元。選項 A 錯誤，因為 15 萬是單首歌的賠償金而非總額；選項 C 錯誤，因為 4,100 萬是總額而非單首歌的價格；選項 D 錯誤，因為 15 萬美元是賠償金的一部分，並非單純的法律費用。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, why is the lawsuit against Anthropic considered more significant than previous legal challenges from music labels?",
+      "options": {
+        "A": "Because it is the first time a music label has ever sued an AI company.",
+        "B": "Because it focuses on the specific songs of Elvis Presley rather than modern artists.",
+        "C": "Because it involves an artist's estate taking direct legal action against an AI developer.",
+        "D": "Because it proves that AI-generated music is legally classified as 'slop' by the courts."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第二段，雖然 Sony、Universal 等大型唱片公司已對 AI 公司提出挑戰，但本案的特殊之處在於這是「藝人的遺產管理機構（artist’s estate）」首次直接控告 AI 開發商。選項 A 錯誤，因為文中提到其他大型唱片公司早已挑戰過 AI 公司；選項 B 錯誤，文中並未強調 Elvis 的歌比現代藝人的歌更重要；選項 D 錯誤，目前法院尚未對此做出判決，且「slop」是評論家的說法，非法律定義。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fourth paragraph, what does the word 'guardrails' refer to in the context of AI development?",
+      "options": {
+        "A": "Physical barriers installed in the offices of AI companies.",
+        "B": "Legal documents that define the boundaries of copyright law.",
+        "C": "Safety mechanisms intended to stop the AI from generating protected content.",
+        "D": "Financial penalties that AI companies must pay if they break the law."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第四段，文中提到 Anthropic 試圖設置「guardrails」，並隨即解釋這些是為了「防止 AI 創作受版權保護內容（prevent the AI from creating copyrighted content）」的安全措施。選項 A 錯誤，這是對詞彙的字面誤解；選項 B 錯誤，guardrails 是技術工具而非法律文件；選項 D 錯誤，這是指罰款，與文中描述的防護機制不符。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of this article regarding the conflict between AI and the music industry?",
+      "options": {
+        "A": "AI technology is rapidly replacing human musicians in all major streaming services.",
+        "B": "The Elvis Presley estate is the only group currently fighting for copyright protection.",
+        "C": "The lawsuit against Anthropic represents a pivotal moment in determining how AI can legally use intellectual property.",
+        "D": "Spotify has successfully solved the problem of AI-generated music by deleting 50 million files."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章整體在討論 Elvis Presley 遺產管理機構對 Anthropic 的訴訟，並指出此案可能成為未來 AI 與版權法規的先例（precedent），影響整個科技產業。選項 A 誇大了影響；選項 B 錯誤，文中提到其他唱片公司也參與了法律挑戰；選項 D 錯誤，Spotify 移除歌曲僅是應對措施之一，並非徹底解決了此問題。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
