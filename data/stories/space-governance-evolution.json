@@ -1,0 +1,37 @@
+{
+  "id": "space-governance-evolution",
+  "title": "The Final Frontier: Navigating Global Space Governance",
+  "subtitle": "An examination of how international law and policy are struggling to keep pace with the rapid commercialization of Earth's orbit.",
+  "description": "As space becomes increasingly crowded with satellites and private ventures, the 1967 Outer Space Treaty faces unprecedented pressure. This series explores the legal, political, and environmental challenges of managing the orbital commons.",
+  "category": "politics",
+  "status": "active",
+  "updatedAt": "2026-10-26T05:46:53.592859Z",
+  "cadence": "5-part reading path. Complete series available.",
+  "articles": [
+    {
+      "slug": "space-governance-evolution-part-1",
+      "label": "Part 1",
+      "note": "The historical context of the Cold War origins of space law and why it is considered outdated today."
+    },
+    {
+      "slug": "space-governance-evolution-part-2",
+      "label": "Part 2",
+      "note": "The shift from state-led space programs to private companies like SpaceX and Blue Origin."
+    },
+    {
+      "slug": "space-governance-evolution-part-3",
+      "label": "Part 3",
+      "note": "The environmental impact of space junk and the lack of a 'space traffic control' system."
+    },
+    {
+      "slug": "space-governance-evolution-part-4",
+      "label": "Part 4",
+      "note": "How major powers are using space as a domain for national security and strategic competition."
+    },
+    {
+      "slug": "space-governance-evolution-part-5",
+      "label": "Part 5",
+      "note": "The search for new international agreements to manage space exploration and resource extraction."
+    }
+  ]
+}
