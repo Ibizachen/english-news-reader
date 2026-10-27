@@ -1,0 +1,156 @@
+{
+  "id": "2026-10-27-ai-disinformation-risks-in-us-midterms",
+  "slug": "ai-disinformation-risks-in-us-midterms-oct-2026",
+  "publishedAt": "2026-10-27T22:14:08.215654Z",
+  "category": "technology",
+  "title": "AI Disinformation Spreads Quickly Before US Midterm Elections",
+  "subtitle": "Experts warn that new technology makes it easier than ever to spread lies, while social media companies reduce their safety teams.",
+  "summary": {
+    "en": "Artificial intelligence is being used to create false information ahead of the upcoming US midterm elections. Experts warn that social media companies have reduced their safety teams, making it harder to stop these lies. One example involves a false claim about a political candidate that spread rapidly online. Researchers note that misinformation often changes as it moves between different languages. This situation creates a difficult challenge for campaigns trying to protect their reputations.",
+    "zh": "人工智慧正被用於在即將到來的美國期中選舉前製造虛假資訊。專家警告，社群媒體公司縮減了安全審核團隊，使得攔截這些謊言變得更加困難。其中一個案例涉及一則關於政治候選人的假消息，該消息在網路上迅速傳播。研究人員指出，假訊息在不同語言間流傳時往往會發生變異。這種情況為試圖維護自身名譽的競選團隊帶來了嚴峻挑戰。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "As millions of Americans prepare to vote in the upcoming midterm elections, experts are warning about a dangerous new trend. Social media feeds are currently filled with a large amount of false information created by artificial intelligence (AI). This technology allows people to create fake images, videos, and stories very quickly and at a very low cost. According to The Guardian, this flood of misinformation is reaching levels that were impossible to achieve in past elections.",
+      "zh": "隨著數百萬美國選民準備在即將到來的期中選舉中投票，專家們正針對一項危險的新趨勢提出警告。目前的社群媒體動態牆充斥著大量由人工智慧（AI）生成的虛假資訊。這項技術讓使用者能以極低的成本，極其迅速地製作出偽造的圖片、影片與故事。根據《衛報》（The Guardian）報導，這波假訊息的氾濫程度已達到過去選舉中難以想像的地步。"
+    },
+    {
+      "id": "p2",
+      "en": "In the past, social media companies worked hard to protect voters from lies. However, the situation has changed significantly. After the Cambridge Analytica scandal, many companies built large teams to monitor content and ensure safety. But recently, these companies have reduced the size of these teams. The Guardian reports that this change happened partly because of pressure from political groups who worried that social media companies were limiting free speech. As a result, many platforms now rely on AI tools to catch lies instead of using human workers.",
+      "zh": "過去，社群媒體公司曾致力於保護選民免受謊言侵害，但情況如今已發生顯著變化。在劍橋分析（Cambridge Analytica）醜聞發生後，許多公司曾建立龐大的團隊來監控內容並確保安全。然而近期，這些公司卻縮減了相關團隊的規模。《衛報》指出，這項轉變部分源於政治團體的壓力，他們擔心社群媒體公司限制了言論自由。結果，許多平台現在轉而依賴人工智慧工具來偵測謊言，而非仰賴人力審核。"
+    },
+    {
+      "id": "p3",
+      "en": "Frances Haugen, a former Facebook engineer who now works to make technology companies more responsible, explained why this is a problem. She noted that people who want to spread lies can now run campaigns that are very high quality but very cheap. Because they can change their posts slightly every time they share them, it is easy to avoid the rules that social media companies have in place to stop bad content. This means that many false posts are simply slipping through the cracks of the safety systems.",
+      "zh": "曾任職於臉書（Facebook）並致力於推動科技公司負起更多責任的工程師法蘭西絲·霍根（Frances Haugen）解釋了為何這是一個問題。她指出，現在想要散布謊言的人，能以極低成本發起高品質的造謠活動。由於他們在每次分享貼文時都能進行微幅修改，因此很容易規避社群媒體公司用來阻擋不良內容的規則。這意味著許多虛假貼文正輕易地穿過安全系統的漏洞。"
+    },
+    {
+      "id": "p4",
+      "en": "Political campaigns across the country, from Pennsylvania to Texas, are struggling to deal with these lies. When a false story appears online, campaigns often do not know who to contact to get it removed. The Guardian shared the story of James Talarico, a Democrat running for the US Senate in Texas. Earlier this month, he took a short break from his campaign because he had the flu. However, a false story soon appeared online claiming he was actually in a mental health facility in Ohio. This lie was supported by a fake, edited phone call with a hospital worker.",
+      "zh": "從賓夕法尼亞州到德克薩斯州，全美各地的政治競選團隊正疲於應對這些謊言。當網路上出現虛假故事時，競選團隊往往不知道該聯繫誰來要求刪除。《衛報》分享了德州參議員候選人詹姆斯·塔拉里科（James Talarico）的案例。本月初，他因罹患流感而暫時中斷競選活動，隨後網路上卻出現一則假消息，聲稱他其實被關在俄亥俄州的一家精神病院。這則謊言甚至還附上一段經過剪輯、偽造的醫院工作人員通話錄音作為佐證。"
+    },
+    {
+      "id": "p5",
+      "en": "Even though Talarico’s team released video evidence showing he was at home in Texas, the lie continued to spread for several days. The Digital Democracy Institute of the Americas (DDIA) tracked how this story changed as it moved across the internet. They found that the lie even changed when it was translated into Spanish. In some Spanish-language media, the story changed from a claim about a hospital stay to a false report that the candidate had attempted suicide. This shows how misinformation can grow and change, making it very difficult for the truth to catch up.",
+      "zh": "儘管塔拉里科的團隊發布了影片證據證明他當時人在德州的家中，但這則謊言仍持續散布了數日。美洲數位民主研究所（DDIA）追蹤了這則故事在網路上流傳時的演變，發現該謊言在翻譯成西班牙語時甚至發生了變異。在某些西班牙語媒體中，故事內容從「住院治療」變成了候選人「企圖自殺」的假新聞。這顯示了假訊息如何不斷增長與變形，使得真相難以追趕上謠言的傳播速度。"
+    },
+    {
+      "id": "p6",
+      "en": "Roberta Braga, the leader of the DDIA, noted that social media companies often do not enforce their rules as well in languages other than English. She explained that there are fewer protections in place for Spanish-speaking users. Many companies have moved toward a system where they rely on the community to report bad content, rather than hiring professionals to monitor it. This approach, which is sometimes called community-centered content moderation, often fails to stop lies before they cause damage.",
+      "zh": "美洲數位民主研究所的負責人羅貝塔·布拉加（Roberta Braga）指出，社群媒體公司在處理非英語內容時，往往無法落實其規則。她解釋說，西班牙語使用者的保障措施較少。許多公司已轉向依賴社群回報機制來處理不良內容，而非聘請專業人員進行監控。這種有時被稱為「以社群為中心的內容審核」模式，往往無法在謊言造成損害前將其攔截。"
+    },
+    {
+      "id": "p7",
+      "en": "When asked about these issues, major companies gave different responses. According to The Guardian, Meta—which owns Facebook and Instagram—and X did not answer requests for comment. YouTube, which is owned by Google, stated that all of its users must follow the same guidelines. However, experts remain worried that these rules are not enough to stop the current wave of AI-driven lies.",
+      "zh": "當被問及這些問題時，各大公司給出了不同的回應。根據《衛報》報導，擁有臉書與 Instagram 的 Meta 公司以及 X 平台並未回應置評請求。隸屬於 Google 的 YouTube 則表示，所有使用者都必須遵守相同的準則。然而，專家們仍擔心這些規則不足以遏止當前這波由人工智慧驅動的謊言浪潮。"
+    },
+    {
+      "id": "p8",
+      "en": "As election day gets closer, the challenge of fighting disinformation remains a major concern. Campaigns are finding that traditional ways of correcting the record are no longer enough. Because lies can change and mutate as they spread, a simple correction often fails to reach everyone who saw the original false story. For voters, this means it is becoming more important than ever to be careful about what they read and share on social media. The combination of easy-to-use AI tools and weaker safety rules on major platforms has created a difficult environment for everyone involved in the democratic process.",
+      "zh": "隨著選舉日臨近，打擊假訊息的挑戰依然是各界關注的焦點。競選團隊發現，傳統的澄清方式已不再足夠。由於謊言在散布過程中會不斷改變與變異，簡單的更正往往無法觸及所有看過原始假消息的人。對選民而言，這意味著對自己在社群媒體上閱讀與分享的內容保持謹慎，變得比以往任何時候都更加重要。易於使用的人工智慧工具與各大平台較寬鬆的安全規則相結合，為所有參與民主進程的人創造了一個艱難的環境。"
+    }
+  ],
+  "wordCount": 752,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "run",
+      "definitionEn": "To organize or be in charge of an activity or campaign.",
+      "definitionZh": "經營、運作或舉辦（活動、競選）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作「跑」，這裡指運作競選活動。文中：She noted that people who want to spread lies can now run campaigns that are very high quality but very cheap."
+    },
+    {
+      "term": "slipping through the cracks",
+      "definitionEn": "To be missed or ignored by a system or process meant to catch or handle things.",
+      "definitionZh": "（因系統疏漏）被忽略、未被察覺或未被處理。",
+      "partOfSpeech": "idiom",
+      "noteZh": "字面意思是「從裂縫中滑過」，比喻系統有漏洞而未被攔截。文中：This means that many false posts are simply slipping through the cracks of the safety systems."
+    },
+    {
+      "term": "catch up",
+      "definitionEn": "To reach the same level or point as something else that is moving faster.",
+      "definitionZh": "追上、趕上。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這裡指真相難以跟上謠言傳播的速度。文中：This shows how misinformation can grow and change, making it very difficult for the truth to catch up."
+    },
+    {
+      "term": "correcting the record",
+      "definitionEn": "To provide the true facts to replace false information that has been previously stated.",
+      "definitionZh": "澄清事實、更正錯誤資訊。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這裡的 record 指的是「紀錄」或「大眾認知」。文中：Campaigns are finding that traditional ways of correcting the record are no longer enough."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/ai-disinformation-social-media-midterm-elections",
+      "title": "AI-driven disinformation running rampant on social media before US midterms, experts warn",
+      "publishedAt": "2026-10-27T10:00:10Z"
+    }
+  ],
+  "story": {
+    "id": "ai-disinformation-risks-in-us-midterms",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, why are social media companies currently relying more on AI tools than human workers to monitor content?",
+      "options": {
+        "A": "AI tools have proven to be more effective than humans at detecting complex lies.",
+        "B": "They have reduced the size of their human monitoring teams due to political pressure regarding free speech.",
+        "C": "Human workers were found to be biased against certain political candidates.",
+        "D": "The companies wanted to cut costs because the Cambridge Analytica scandal was too expensive."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，社交媒體公司減少監控團隊規模，部分原因是受到政治團體施壓，這些團體擔心公司限制了言論自由。選項 A 錯誤，文中提到 AI 只是替代方案，並未說比人類更有效；選項 C 文中並未提及人類員工有偏見；選項 D 雖然提到成本，但重點是政治壓力而非醜聞帶來的直接財務負擔。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the effectiveness of 'community-centered content moderation' mentioned in the text?",
+      "options": {
+        "A": "It is highly successful because users are more motivated to protect their own communities.",
+        "B": "It is a preferred method for companies because it is completely free of charge.",
+        "C": "It is often insufficient for stopping the spread of misinformation before it causes harm.",
+        "D": "It works better for non-English languages than it does for English content."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第六段，作者指出這種方法「often fails to stop lies before they cause damage」（往往無法在謊言造成損害前阻止它們），且文中提到這種方法導致非英語語言缺乏足夠的保護。選項 A 與文意相反；選項 B 文中並未說完全免費，只是說公司傾向採取此做法；選項 D 錯誤，文中指出非英語使用者受到的保護反而較少。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the third paragraph, what does the phrase 'slipping through the cracks' mean in the context of safety systems?",
+      "options": {
+        "A": "Passing through the system without being caught or stopped.",
+        "B": "Being physically broken by the weight of too much information.",
+        "C": "Falling into a hidden category that is reserved for special cases.",
+        "D": "Being deleted by accident due to a technical error."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。片語 'slipping through the cracks' 在此處指錯誤資訊因為系統漏洞而未被偵測到，成功流竄於網路上。選項 B、C、D 皆與該片語在文中表達「逃過監控」的含義不符。這個片語常用於形容事物因為系統不完善而未被發現或處理。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article regarding the current state of social media and elections?",
+      "options": {
+        "A": "AI technology has made it impossible for political candidates to communicate with voters.",
+        "B": "Social media companies are intentionally spreading lies to influence election outcomes.",
+        "C": "The combination of AI and reduced human oversight creates a dangerous environment for democratic elections.",
+        "D": "Voters should stop using social media entirely to avoid being misled by false information."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章的核心論點在於 AI 技術的普及與社交媒體公司減少人工審查，共同導致了選舉期間假訊息難以遏止，對民主過程造成威脅。選項 A 過於誇大，文中僅說難以應對；選項 B 無法證實且非文章主旨；選項 D 並非作者的建議，作者僅呼籲選民要更加謹慎。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
