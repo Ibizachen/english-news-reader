@@ -1,0 +1,149 @@
+{
+  "id": "2026-10-28-delaware-plan-to-allow-ai-run-businesses",
+  "slug": "delaware-plan-to-allow-ai-run-businesses-oct-2026",
+  "publishedAt": "2026-10-28T01:18:23.424562Z",
+  "category": "technology",
+  "title": "Delaware Proposal to Allow AI-Run Businesses Sparks Federal Concern",
+  "subtitle": "A new plan to let artificial intelligence manage companies faces pushback from US lawmakers over legal responsibility.",
+  "summary": {
+    "en": "Delaware is considering a new law that would allow companies to be managed entirely by artificial intelligence. This proposal would create a special category of business known as an Artificial Intelligence Company. However, US Representative James Comer has raised serious concerns about the plan. He worries that these businesses could avoid legal responsibility for harmful actions. The state hopes the move will attract more companies and increase tax revenue.",
+    "zh": "德拉瓦州正在研擬一項新法，允許公司完全由人工智慧進行管理。此提案將創造一種稱為「人工智慧公司」的特殊企業類別。然而，美國眾議員柯默對此計畫提出了嚴重疑慮。他擔心這些企業可能會規避有害行為的法律責任。該州則希望此舉能吸引更多公司並增加稅收。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Delaware is currently considering a bold new plan that could change how businesses operate. The state is looking at a proposal to allow companies to be managed entirely by artificial intelligence (AI) agents. If this plan becomes law, these businesses would be known as Artificial Intelligence Companies, or AICs. This idea is intended to make Delaware an even more attractive place for businesses to register, potentially bringing in more tax money and fees for the state.",
+      "zh": "德拉瓦州目前正在研擬一項大膽的新計畫，這可能會改變企業的運作方式。該州正在審議一項提案，允許公司完全由人工智慧代理人進行管理。若此計畫立法通過，這些企業將被稱為人工智慧公司（Artificial Intelligence Companies, AICs）。此構想旨在讓德拉瓦州成為對企業註冊更具吸引力的地方，並可能為該州帶來更多的稅收與規費。"
+    },
+    {
+      "id": "p2",
+      "en": "According to a draft bill, these AI-run companies would be allowed to operate in almost any industry, as long as the purpose is legal. The only major exception is the banking industry. The draft suggests that AI agents could be given the power to manage the daily affairs and business decisions of the company without a human being in charge. To test this new idea, the state is proposing a 'regulatory sandbox'—a controlled environment where new rules can be tested for a limited time—that would last for 30 months.",
+      "zh": "根據法案草案，這些由人工智慧運作的公司將被允許在幾乎任何產業經營，前提是其目的必須合法。唯一的重大例外是銀行業。草案建議，人工智慧代理人可以被賦予權力，在沒有人類負責的情況下，管理公司的日常事務與商業決策。為了測試這個新構想，該州提議建立一個「監管沙盒」——這是一個受控的環境，可以在有限的時間內測試新規則——為期三十個月。"
+    },
+    {
+      "id": "p3",
+      "en": "While the state sees this as a way to lead in technology, the plan has faced strong criticism from federal officials. US Representative James Comer, who serves as the chairman of the House Committee on Oversight and Government Reform, recently wrote a letter to Delaware Governor Matt Meyer. In this letter, Comer expressed deep concern about the potential for abuse under such a system.",
+      "zh": "儘管德拉瓦州將此視為引領科技發展的一種方式，但該計畫已面臨聯邦官員的強烈批評。擔任眾議院監督與政府改革委員會主席的美國眾議員柯默（James Comer），最近致函德拉瓦州州長梅爾（Matt Meyer）。在信中，柯默對此類制度下可能產生的濫用風險表達了深切的擔憂。"
+    },
+    {
+      "id": "p4",
+      "en": "Ars Technica reports that Comer is worried about how these companies would handle legal responsibility. He believes that if an AI makes a reckless or harmful decision, the human owners might use the AI status to avoid being held accountable. Comer stated that the committee is concerned the proposal could protect powerful companies and their investors from the consequences of their actions. He also mentioned fears that the plan could be used by groups to hide their activities from the public.",
+      "zh": "科技新聞網站 Ars Technica 報導指出，柯默擔心這些公司將如何處理法律責任。他認為，如果人工智慧做出了魯莽或有害的決定，人類所有者可能會利用其人工智慧公司的身分來規避究責。柯默表示，委員會擔心該提案可能會保護強大的企業及其投資人，使其免於承擔行為後果。他也提到，外界擔心該計畫可能被某些團體利用，以隱瞞其活動不讓公眾知曉。"
+    },
+    {
+      "id": "p5",
+      "en": "Because of these concerns, the House Committee on Oversight and Government Reform has started a formal investigation. Comer is asking Delaware to provide documents related to how the proposal was created and what steps have been taken to study the safety risks of AI. According to the letter from Comer, the committee wants to understand how these AI-run businesses might impact the relationship between state and federal laws.",
+      "zh": "由於這些疑慮，眾議院監督與政府改革委員會已展開正式調查。柯默要求德拉瓦州提供與該提案如何制定，以及已採取哪些措施來研究人工智慧安全風險相關的文件。根據柯默的信函，委員會希望了解這些由人工智慧運作的企業，可能會如何影響州法律與聯邦法律之間的關係。"
+    },
+    {
+      "id": "p6",
+      "en": "This investigation could lead to new federal laws that limit the power of individual states to create their own AI regulations. Comer noted that the committee’s work will help inform future legislative efforts, which could include rules to limit how states manage AI initiatives. By looking into Delaware’s plan, the federal government is signaling that it wants to ensure that technology does not outpace the laws designed to keep the public safe.",
+      "zh": "這項調查可能會促成新的聯邦法律，限制各州制定自身人工智慧法規的權力。柯默指出，委員會的工作將有助於為未來的立法工作提供參考，其中可能包括限制各州管理人工智慧倡議方式的規則。透過審查德拉瓦州的計畫，聯邦政府正釋出訊號，表明其希望確保科技發展不會超越旨在保障公眾安全的法律。"
+    },
+    {
+      "id": "p7",
+      "en": "For Delaware, the stakes are high. The state is already a popular destination for businesses of all sizes because of its existing laws. By introducing the AIC model, officials hope to maintain that status and stay at the front of the technology industry. However, the pushback from Washington shows that balancing innovation with safety is a difficult task. As the discussion continues, the state must decide if the potential economic benefits are worth the risk of creating companies that operate without human oversight.",
+      "zh": "對德拉瓦州而言，此舉影響重大。由於現有的法律，該州已是各類規模企業的熱門註冊地。透過引入人工智慧公司模式，官員們希望維持該地位並保持在科技產業的前沿。然而，來自華府的阻力顯示，在創新與安全之間取得平衡是一項艱鉅的任務。隨著討論持續進行，該州必須決定，潛在的經濟利益是否值得承擔創造出無人類監督企業的風險。"
+    },
+    {
+      "id": "p8",
+      "en": "At this stage, the proposal remains a draft bill that has not yet been submitted to the Delaware state legislature. The coming months will be important as both state and federal officials continue to debate the future of AI in the business world. For now, the focus remains on whether a company can truly function ethically and legally when there is no human at the helm.",
+      "zh": "現階段，該提案仍是一份尚未提交至德拉瓦州議會的法案草案。未來幾個月將至關重要，因為州與聯邦官員將持續辯論人工智慧在商業世界的未來。目前，焦點仍集中在當沒有人類掌舵時，一家公司是否真能合乎道德與法律地運作。"
+    }
+  ],
+  "wordCount": 668,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "outpace",
+      "definitionEn": "To develop or move faster than something else.",
+      "definitionZh": "發展速度超過、跑得比……快。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見於描述速度，這裡指科技發展速度快過法律制定速度。文中：the federal government is signaling that it wants to ensure that technology does not outpace the laws designed to keep the public safe."
+    },
+    {
+      "term": "stakes",
+      "definitionEn": "The risks involved in a situation; what can be gained or lost.",
+      "definitionZh": "風險、賭注（指成敗攸關的事物）。",
+      "partOfSpeech": "noun (plural)",
+      "noteZh": "常見作名詞（木樁），這裡指情勢的嚴重性或重要性。文中：For Delaware, the stakes are high."
+    },
+    {
+      "term": "at the helm",
+      "definitionEn": "In charge or in control of an organization or activity.",
+      "definitionZh": "掌舵、負責、掌控大局。",
+      "partOfSpeech": "idiom",
+      "noteZh": "源自航海術語（舵），這裡比喻企業的決策者。文中：For now, the focus remains on whether a company can truly function ethically and legally when there is no human at the helm."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "publishedAt": "2026-10-27T21:50:04Z"
+    }
+  ],
+  "story": {
+    "id": "delaware-plan-to-allow-ai-run-businesses",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the draft bill, what is the specific limitation placed on the industries in which AICs can operate?",
+      "options": {
+        "A": "They are restricted to technology-focused sectors only.",
+        "B": "They are prohibited from operating within the banking industry.",
+        "C": "They must be approved by federal officials before starting.",
+        "D": "They can only operate for a maximum of 30 months."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，草案指出這些 AI 公司幾乎可以在任何產業運作，但明確提到「唯一的重大例外是銀行業」。選項 A 錯誤，因為文章並未限制僅限科技業；選項 C 錯誤，因為這是州政府的提案，並非聯邦官員預先批准；選項 D 錯誤，30 個月是指「監管沙盒」的測試期限，而非公司營運的總期限。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What is the primary concern of Representative James Comer regarding the proposed AIC model?",
+      "options": {
+        "A": "He believes AI technology is not yet advanced enough to manage businesses.",
+        "B": "He fears that Delaware will lose its status as a top destination for businesses.",
+        "C": "He worries that human owners will use AI to evade legal and ethical responsibility.",
+        "D": "He thinks the 30-month testing period is too long to ensure public safety."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第四段，Comer 擔心若 AI 做出魯莽或有害的決定，人類所有者可能會利用「AI 身份」來規避責任，從而保護投資者免受法律後果。選項 A 並非他的核心擔憂；選項 B 與其立場相反，他是在批評而非擔心州政府的地位；選項 D 並未在文中提及是主要的擔憂點。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the phrase 'no human at the helm' mean?",
+      "options": {
+        "A": "There is no human in a position of control or leadership.",
+        "B": "There is no human available to provide technical support.",
+        "C": "There is no human present at the company's physical headquarters.",
+        "D": "There is no human capable of navigating complex legal documents."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。片語「at the helm」源自船隻掌舵的意象，在商業情境中意指「掌管」、「領導」或「負責」。因此，「no human at the helm」意指公司沒有人類在進行決策或管理。選項 B、C、D 皆為字面上的誤解，並未捕捉到該片語在管理語境下的比喻意義。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central conflict discussed in the article regarding Delaware's AIC proposal?",
+      "options": {
+        "A": "The technical challenges of programming AI to handle complex business tasks.",
+        "B": "The competition between Delaware and other states to attract new corporations.",
+        "C": "The disagreement over whether AI companies should pay the same taxes as human-led firms.",
+        "D": "The tension between promoting technological innovation and ensuring legal accountability."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。文章整體討論了德拉瓦州希望透過創新（AIC）吸引商業，但同時引發了聯邦政府對法律責任、問責制及公眾安全的擔憂。第七段明確指出「在創新與安全之間取得平衡是一項艱鉅的任務」。選項 A、B、C 雖為文中提及的細節或背景，但並非文章探討的核心矛盾。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
