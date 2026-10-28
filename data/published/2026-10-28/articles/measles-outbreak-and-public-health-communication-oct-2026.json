@@ -1,0 +1,159 @@
+{
+  "id": "2026-10-28-measles-outbreak-and-public-health-communication",
+  "slug": "measles-outbreak-and-public-health-communication-oct-2026",
+  "publishedAt": "2026-10-28T22:14:19.513438Z",
+  "category": "public-health",
+  "title": "Measles Spreads Across the U.S. Through Domestic Travel",
+  "subtitle": "New research shows that traveling within the country is now a bigger risk for spreading measles than international travel.",
+  "summary": {
+    "en": "Measles was once considered eliminated in the United States, but cases are now rising quickly. A new study highlights how domestic travel has become a major way the virus moves between states. Washington state officials tracked five separate cases linked to a large outbreak in South Carolina. This discovery shows that the virus can travel long distances very easily. Health experts are now calling for better tools to track the virus as vaccination rates continue to fall.",
+    "zh": "麻疹曾被認為在美國已遭根除，但病例現正迅速攀升。一項新研究強調了國內旅行已成為病毒在各州之間傳播的主要途徑。華盛頓州官員追蹤了五起與南卡羅來納州大規模疫情相關的獨立病例。此發現顯示病毒能輕易長距離傳播。隨著疫苗接種率持續下降，衛生專家正呼籲採用更佳的工具來追蹤病毒。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Measles, a highly infectious disease that was once declared eliminated in the United States in 2000, is making a worrying comeback. While health officials previously worried most about travelers bringing the virus from other countries, new data shows that moving within the U.S. is now a much larger problem. According to Ars Technica, domestic travel—traveling between states—is now a primary way the virus spreads across the country.",
+      "zh": "麻疹是一種傳染性極高的疾病，曾於二〇〇〇年在美國被宣告根除，如今卻出現令人擔憂的捲土重來之勢。儘管衛生官員過去最擔心的是旅客將病毒從其他國家帶入，但新數據顯示，在美國境內的移動現已成為更大的問題。根據科技媒體 Ars Technica 報導，國內旅行（即各州之間的往返）已成為病毒在全國擴散的主要途徑。"
+    },
+    {
+      "id": "p2",
+      "en": "This shift in how the disease moves was highlighted in a recent study published in NEJM Evidence. Washington state health officials examined how a large outbreak that started in South Carolina in late 2025 reached their state. The researchers found that the virus did not just arrive once; instead, it was brought into Washington state five separate times over just two weeks in January. These events led to 26 cases among Washington residents before officials were able to stop the spread.",
+      "zh": "這種疾病傳播方式的轉變，在近期發表於《新英格蘭醫學雜誌證據》（NEJM Evidence）的一項研究中得到了強調。華盛頓州的衛生官員檢視了二〇二五年底始於南卡羅來納州的一場大規模疫情，是如何傳播至該州的。研究人員發現，病毒並非僅傳入一次，而是在一月份短短兩週內，五度被帶入華盛頓州。在官員成功阻止疫情蔓延前，這些事件已導致華盛頓州居民出現二十六起病例。"
+    },
+    {
+      "id": "p3",
+      "en": "To understand how the virus moved, officials used a tool called whole-genome sequencing. This is a scientific process that looks at the genetic code of a virus to see if different cases are related. By using this technology, the team in Washington was able to prove that the cases were not just one single event. Instead, the sequencing showed five distinct introductions of the virus, all linked back to the outbreak in South Carolina. This information helped health workers identify who was sick and isolate them to prevent further illness.",
+      "zh": "為了瞭解病毒的傳播路徑，官員使用了一種稱為「全基因體定序」的工具。這是一項科學程序，透過檢視病毒的基因密碼來判斷不同病例之間是否相關。藉由這項技術，華盛頓州的團隊得以證實這些病例並非單一事件。相反地，定序結果顯示病毒有五次獨立的傳入，且全數追溯至南卡羅來納州的疫情。這些資訊協助衛生工作者識別病患並將其隔離，以防止病情進一步擴散。"
+    },
+    {
+      "id": "p4",
+      "en": "The South Carolina outbreak itself was very large. Ars Technica reports that it began on October 2, 2025, and lasted until April 26, 2026. During that time, officials confirmed 997 cases. At the time it ended, it was the largest measles outbreak in the U.S. since the virus was declared eliminated. However, the situation has continued to get worse in other parts of the country. A separate, ongoing outbreak in Pennsylvania has now grown even larger, with reports indicating over 1,300 confirmed cases.",
+      "zh": "南卡羅來納州的疫情本身規模相當龐大。Ars Technica 報導指出，該疫情始於二〇二五年十月二日，持續至二〇二六年四月二十六日。在此期間，官員確認了九百九十七起病例。在疫情結束時，這是自該病毒被宣告根除以來，美國境內規模最大的麻疹疫情。然而，美國其他地區的情況持續惡化。賓夕法尼亞州目前正發生另一場持續中的疫情，規模甚至更大，據報導已有超過一千三百起確診病例。"
+    },
+    {
+      "id": "p5",
+      "en": "Health experts believe that lower vaccination rates are a major reason for these outbreaks. When fewer people get the vaccine—a medical treatment that helps the body fight off a disease—the virus finds it much easier to spread. Because measles is so contagious, even a small drop in the number of vaccinated people can lead to large outbreaks that move quickly from one state to another. In the past, most cases came from people returning from countries where the virus was still common. Now, the risk is increasingly coming from people who are simply moving around their own country.",
+      "zh": "衛生專家認為，疫苗接種率下降是導致這些疫情爆發的主要原因。當接種疫苗（一種協助人體對抗疾病的醫療處置）的人數減少時，病毒就更容易傳播。由於麻疹傳染力極強，即便接種疫苗的人數僅有小幅下降，也可能引發大規模疫情，並迅速從一州蔓延至另一州。過去，大多數病例來自從病毒依然普遍的國家返國的人士。如今，風險日益來自於在國內移動的民眾。"
+    },
+    {
+      "id": "p6",
+      "en": "Looking ahead, health officials are changing how they respond to these threats. The authors of the Washington study noted that public health departments must remain alert for both international and domestic cases. They suggest that using whole-genome sequencing is a vital step in the future. By using this technology, officials can quickly tell the difference between a new case brought in from another state and a local case that started within their own community. This helps them make better decisions about how to stop the virus from spreading further.",
+      "zh": "展望未來，衛生官員正在調整應對這些威脅的方式。華盛頓州研究的作者指出，公共衛生部門必須對國際與國內病例保持警覺。他們建議，使用全基因體定序是未來至關重要的一步。透過這項技術，官員能迅速區分從外州帶入的新病例，以及在社區內產生的本土病例。這有助於他們針對如何阻止病毒進一步擴散，做出更佳的決策。"
+    },
+    {
+      "id": "p7",
+      "en": "As the country faces these challenges, the message from health authorities remains clear: vaccination is the best way to protect communities. With outbreaks growing in size and frequency, the ability to track the virus accurately has never been more important. By combining traditional methods of tracking contacts with advanced genetic testing, officials hope to gain the upper hand in controlling this dangerous and preventable disease.",
+      "zh": "隨著美國面臨這些挑戰，衛生當局傳達的訊息依然明確：疫苗接種是保護社區的最佳途徑。隨著疫情規模與頻率不斷增加，精確追蹤病毒的能力變得前所未有的重要。透過結合傳統的接觸者追蹤方法與先進的基因檢測，官員希望能在控制這種危險且可預防的疾病上取得優勢。"
+    }
+  ],
+  "wordCount": 635,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "comeback",
+      "definitionEn": "A return to a former position or state, often after a period of absence or decline.",
+      "definitionZh": "捲土重來、復甦。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見於流行文化（如藝人復出），這裡指疾病再次出現。文中：Measles, a highly infectious disease that was once declared eliminated in the United States in 2000, is making a worrying comeback."
+    },
+    {
+      "term": "linked back to",
+      "definitionEn": "To be connected to or caused by something that happened earlier.",
+      "definitionZh": "追溯至、與……有關聯。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "由動詞 link 和副詞 back 組成，表示因果或時間上的追溯。文中：Instead, the sequencing showed five distinct introductions of the virus, all linked back to the outbreak in South Carolina."
+    },
+    {
+      "term": "gain the upper hand",
+      "definitionEn": "To get an advantage over someone or something in a situation.",
+      "definitionZh": "佔上風、取得優勢。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這是一個固定慣用語，字面意思無法直接推敲出含義。文中：By combining traditional methods of tracking contacts with advanced genetic testing, officials hope to gain the upper hand in controlling this dangerous and preventable disease."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+      "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+      "publishedAt": "2026-10-27T22:22:32Z"
+    }
+  ],
+  "story": {
+    "id": "measles-outbreak-spreads-via-domestic-travel",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "measles-outbreak-spreads-via-domestic-travel-oct-2026",
+        "title": "Measles Spreads Across the U.S. Through Domestic Travel",
+        "publishedAt": "2026-10-28T01:18:23.424562Z",
+        "category": "health",
+        "summaryEn": "Measles was once considered eliminated in the United States, but cases are now rising. A recent study shows that domestic travel is a major cause of this spread. Health officials in Washington state tracked five separate cases linked to a large outbreak in South Carolina. Experts are now using advanced genetic testing to better understand how the virus moves between states. Public health leaders emphasize that higher vaccination rates are needed to stop these outbreaks."
+      },
+      {
+        "slug": "us-measles-outbreak-continues-to-spread-oct-2026",
+        "title": "US Measles Outbreak Grows as Health Officials Push for Vaccination",
+        "publishedAt": "2026-10-26T00:19:39.102972Z",
+        "category": "public-health",
+        "summaryEn": "The United States is experiencing its worst measles outbreak in many years. Official data shows that total cases in 2026 have already more than doubled the number recorded in 2025. Pennsylvania is the most affected state, with over 1,300 confirmed cases and several deaths. Health officials are working closely with local communities to increase vaccination rates. Experts continue to stress that the MMR vaccine is the most effective way to prevent the disease."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "How many times was the measles virus introduced into Washington state during the two-week period mentioned in the study?",
+      "options": {
+        "A": "Once",
+        "B": "Five times",
+        "C": "Twenty-six times",
+        "D": "Ninety-nine times"
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，研究人員發現病毒並非只進入華盛頓州一次，而是在一月份的兩週內被引入了五次（five separate times）。選項 A 錯誤，因為那是研究人員最初的假設，後來被證實不正確；選項 C 的 26 是指確診病例數，而非引入次數；選項 D 為無關數字。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the current state of measles control in the United States compared to the year 2000?",
+      "options": {
+        "A": "The virus is now considered completely eliminated in all states.",
+        "B": "Domestic travel is less of a concern than international travel.",
+        "C": "The virus is spreading more effectively due to changes in population immunity and mobility.",
+        "D": "Whole-genome sequencing has made the virus easier to cure than it was in 2000."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章提到 2000 年時麻疹曾被宣告消除，但現在疫情復燃，且第五段指出疫苗接種率下降與國內移動是主因，顯示目前的防疫環境比 2000 年更具挑戰。選項 A 與事實相反；選項 B 與文章第一段提到的「國內旅遊已成為主要傳播途徑」矛盾；選項 D 錯誤，因為基因定序是用來「追蹤」病毒，而非「治療」病毒。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the phrase 'gain the upper hand' mean in the context of controlling the disease?",
+      "options": {
+        "A": "To achieve a position of advantage or control.",
+        "B": "To physically lift something with one's hand.",
+        "C": "To stop using a specific scientific method.",
+        "D": "To increase the number of cases in a region."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。片語 'gain the upper hand' 在此處意指取得優勢或主導權，用來描述衛生官員希望能更有效地控制疫情。選項 B 是對該片語的字面誤解；選項 C 與文意相反，因為官員們正試圖結合更多方法來加強控制；選項 D 則完全曲解了該片語在防疫語境下的正面意義。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article regarding the resurgence of measles?",
+      "options": {
+        "A": "The South Carolina outbreak was the only significant event in recent U.S. history.",
+        "B": "Whole-genome sequencing is the only way to prevent future outbreaks.",
+        "C": "Measles is primarily spread by international travelers visiting the U.S.",
+        "D": "Combating measles now requires a combination of high vaccination rates and advanced tracking technology."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。本文綜合討論了麻疹復燃的原因（疫苗接種率下降）、傳播模式的改變（國內移動），以及應對策略（基因定序技術與疫苗接種的重要性）。選項 A 忽略了賓州與其他地區的疫情；選項 B 過度誇大，文章僅稱其為「重要步驟」而非「唯一方法」；選項 C 與文章第一段強調的「國內移動是更大問題」相抵觸。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
