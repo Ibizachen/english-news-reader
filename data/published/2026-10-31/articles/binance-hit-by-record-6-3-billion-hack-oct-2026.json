@@ -1,0 +1,169 @@
+{
+  "id": "2026-10-31-binance-hit-by-record-6-3-billion-hack",
+  "slug": "binance-hit-by-record-6-3-billion-hack-oct-2026",
+  "publishedAt": "2026-10-31T01:34:02.614552Z",
+  "category": "economics",
+  "title": "Binance Faces Record-Breaking $6.3 Billion Cyber Attack",
+  "subtitle": "The world's largest cryptocurrency exchange works to recover funds as experts point to North Korean hackers.",
+  "summary": {
+    "en": "The world's largest cryptocurrency exchange, Binance, has been hit by a massive $6.3 billion hack. Experts believe this is the largest theft of any kind in history. Several analytics firms have linked the attack to a North Korean hacking group known as TraderTraitor. Binance has promised to cover all customer losses and is working with law enforcement to recover the funds. The incident has caused concern among investors about the safety of digital assets on large exchanges.",
+    "zh": "全球最大的加密貨幣交易所幣安遭到價值六十三億美元的大規模駭客攻擊。專家認為這是史上金額最龐大的竊案。多家分析公司將此次攻擊與名為「交易叛徒」的北韓駭客組織連結起來。幣安已承諾賠償所有客戶損失，並正與執法單位合作追回資金。此事件已引發投資人對於大型交易所數位資產安全性的擔憂。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The world’s largest cryptocurrency exchange, Binance, is dealing with the aftermath of a massive security breach that resulted in the loss of $6.3 billion in digital assets. This incident is now considered the largest theft of any kind in history, according to experts at the crypto consultancy Elliptic. The attack, which occurred late on Thursday, has sent shockwaves through the global financial community and raised serious questions about the security of digital money.",
+      "zh": "全球最大的加密貨幣交易所幣安（Binance）正致力於處理一場大規模安全漏洞所引發的後續影響，該事件導致價值六十三億美元的數位資產損失。根據加密貨幣顧問公司 Elliptic 的專家指出，這起事件目前被視為史上金額最龐大的竊案。這場發生於週四深夜的攻擊事件，已對全球金融界造成震撼，並引發大眾對於數位貨幣安全性的嚴重質疑。"
+    },
+    {
+      "id": "p2",
+      "en": "Binance, which serves more than 300 million registered users worldwide, acted quickly to manage the crisis. The company confirmed that it has frozen $3 billion of the affected assets to prevent further loss. Richard Teng, a co-chief executive of Binance, stated clearly that the company would cover all customer losses. “Bottom line – your money is safe, and we’re covering every loss,” Teng said. To support this promise, the exchange has set aside $6.34 billion to ensure that users are protected while the investigation continues.",
+      "zh": "幣安在全球擁有超過三億名註冊用戶，該公司迅速採取行動以應對危機。幣安證實已凍結了三十億美元的受影響資產，以防止進一步的損失。幣安共同執行長鄧偉政（Richard Teng）明確表示，公司將會賠償所有客戶的損失。鄧偉政說：「重點在於，您的資金是安全的，我們將承擔所有損失。」為了落實這項承諾，該交易所已撥出六十三億四千萬美元，以確保在調查期間用戶權益受到保障。"
+    },
+    {
+      "id": "p3",
+      "en": "Initial reports from Binance suggested that the hackers gained access to the system through a compromised engineer’s laptop. This allowed the attackers to reach a service container and make unauthorized withdrawals. However, the company later clarified that the situation was more complex, noting that there were “additional points of breach” beyond a single laptop. This indicates a highly sophisticated attack that went beyond simple password theft.",
+      "zh": "幣安最初的報告指出，駭客是透過一名工程師遭入侵的筆記型電腦進入系統。這使得攻擊者得以接觸服務容器並進行未經授權的提款。然而，該公司隨後澄清情況更為複雜，並指出除了單一筆記型電腦外，還有「其他入侵點」。這顯示這是一場極其精密、遠超乎單純密碼竊取的攻擊行動。"
+    },
+    {
+      "id": "p4",
+      "en": "Multiple security and analytics firms, including TRM Labs, Elliptic, and Chainalysis, have expressed “high confidence” that the attack was carried out by a North Korean hacking unit known as TraderTraitor, also referred to as the Lazarus Group. According to the BBC, Western security agencies have previously warned that such groups often use stolen funds to finance North Korea’s nuclear weapons and missile development programs. While the North Korean government has denied involvement in past hacks, the patterns in this attack closely resemble previous incidents, including a $1.5 billion hack on the Bybit exchange last year.",
+      "zh": "包括 TRM Labs、Elliptic 與 Chainalysis 在內的多家安全與分析公司皆表示「高度確信」此次攻擊是由北韓駭客組織「交易叛徒」（TraderTraitor，亦稱為拉撒路集團 Lazarus Group）所為。根據 BBC 報導，西方安全機構先前曾警告，此類組織經常利用竊取的資金來資助北韓的核武與飛彈發展計畫。儘管北韓政府否認參與過去的駭客攻擊，但此次攻擊的模式與先前的事件極為相似，包括去年針對 Bybit 交易所發生的十五億美元駭客攻擊案。"
+    },
+    {
+      "id": "p5",
+      "en": "For those unfamiliar with the technology, a cryptocurrency exchange acts like a digital bank where people buy, sell, and trade assets like Bitcoin. These platforms use “hot” wallets—which are connected to the internet for quick trading—and “cold” wallets, which are kept offline for better security. In this case, the attackers managed to drain assets from the exchange’s hot wallets. Tom Robinson, the chief scientist at Elliptic, explained that hackers rarely try to break the complex math behind the digital keys. Instead, they target the people who have access to those keys, such as engineers or system administrators.",
+      "zh": "對於不熟悉此技術的人來說，加密貨幣交易所就像是一間數位銀行，人們在此買賣並交易比特幣（Bitcoin）等資產。這些平台使用「熱錢包」（連接網路以利快速交易）以及為了更高安全性而保持離線狀態的「冷錢包」。在此案例中，攻擊者成功從該交易所的熱錢包中竊取資產。Elliptic 的首席科學家羅賓森（Tom Robinson）解釋，駭客很少嘗試破解數位金鑰背後的複雜數學運算，相反地，他們會鎖定那些擁有金鑰存取權限的人員，例如工程師或系統管理員。"
+    },
+    {
+      "id": "p6",
+      "en": "This event has had an immediate impact on the market. Following the news, the price of Bitcoin fell by 5% in early trading, reaching its lowest level in six weeks. Analysts suggest that this breach could have long-term effects on the industry. Tim Sun, an industry observer, noted that the event might “dampen risk appetite” and cause investors to rethink whether it is safe to keep large amounts of money on centralized exchanges.",
+      "zh": "此事件對市場造成了立即性的衝擊。消息傳出後，比特幣價格在早盤交易中下跌了百分之五，來到六週以來的最低點。分析師認為，此漏洞可能會對產業產生長期影響。產業觀察家孫廷（Tim Sun）指出，該事件可能會「抑制風險偏好」，並導致投資人重新思考將大量資金存放在中心化交易所是否安全。"
+    },
+    {
+      "id": "p7",
+      "en": "Binance has temporarily suspended all deposits and withdrawals while its security teams work to secure the system. The company is collaborating with law enforcement partners to trace the stolen funds and identify the criminals. Changpeng Zhao, the founder of Binance, posted on social media that while he is no longer in charge of daily operations, he expects that all user funds will be fully covered. He added that the company is determined to “weather this storm.”",
+      "zh": "幣安已暫時暫停所有存款與提款服務，同時其安全團隊正致力於確保系統安全。該公司正與執法夥伴合作，以追蹤被竊資金並識別犯罪者。幣安創辦人趙長鵬（Changpeng Zhao）在社群媒體上發文表示，雖然他已不再負責日常營運，但他預期所有用戶資金都將獲得全額賠償。他補充說，公司決心要「度過這場風暴」。"
+    },
+    {
+      "id": "p8",
+      "en": "As the investigation unfolds, the focus remains on recovery. Ari Redbord, a policy expert at TRM Labs, described the hack as a “watershed moment”—a turning point that changes how the entire industry views security. Because the attackers still hold a large portion of the stolen assets, the process of tracing and recovering the funds is expected to be difficult and lengthy. For now, the global crypto community is watching closely, waiting to see if the exchange can successfully recover the stolen billions and restore trust in the platform.",
+      "zh": "隨著調查展開，焦點仍集中在資產追回上。TRM Labs 的政策專家瑞德博德（Ari Redbord）將此次駭客攻擊形容為一個「分水嶺時刻」，這是一個改變整個產業看待安全性方式的轉折點。由於攻擊者仍持有大部分被竊資產，追蹤與追回資金的過程預計將會非常困難且漫長。目前，全球加密貨幣社群正密切關注，等待觀察該交易所能否成功追回被竊的數十億美元，並恢復大眾對該平台的信任。"
+    }
+  ],
+  "wordCount": 732,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "set aside",
+      "definitionEn": "To reserve or save something (usually money) for a specific purpose.",
+      "definitionZh": "撥出、預留（款項或資源）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見於日常對話，但在財經新聞中常指預留資金。文中：To support this promise, the exchange has set aside $6.34 billion to ensure that users are protected while the investigation continues."
+    },
+    {
+      "term": "drain",
+      "definitionEn": "To empty or remove the contents of something completely.",
+      "definitionZh": "耗盡、抽乾（資金或資源）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（排水管）或指液體流乾，這裡指駭客將錢包裡的資產全數提走。文中：In this case, the attackers managed to drain assets from the exchange’s hot wallets."
+    },
+    {
+      "term": "weather",
+      "definitionEn": "To survive a difficult situation or period of time.",
+      "definitionZh": "度過（難關、風暴）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（天氣），這裡作動詞，比喻度過困難時期。文中：He added that the company is determined to “weather this storm.”"
+    }
+  ],
+  "sources": [
+    {
+      "name": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+      "publishedAt": "2026-10-30T09:33:51Z"
+    },
+    {
+      "name": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
+      "title": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
+      "publishedAt": "2026-10-30T16:35:44Z"
+    },
+    {
+      "name": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/2026/oct/30/crypto-heist-binance-who-did-it-are-investments-safe",
+      "title": "How big a deal is the $6.3bn Binance crypto heist, who did it, and are investments safe?",
+      "publishedAt": "2026-10-30T15:17:01Z"
+    }
+  ],
+  "story": {
+    "id": "binance-crypto-exchange-hit-by-record-hack",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "binance-crypto-exchange-hit-by-record-hack-oct-2026",
+        "title": "Binance Hit by Record-Breaking $6.3 Billion Crypto Hack",
+        "publishedAt": "2026-10-30T22:13:58.255588Z",
+        "category": "economics",
+        "summaryEn": "Binance, the world's largest cryptocurrency exchange, has suffered the biggest theft in history. Hackers stole approximately $6.3 billion in digital assets from the platform. Multiple security firms believe a North Korean hacking unit is responsible for the attack. The exchange has suspended all deposits and withdrawals while it investigates the breach. Despite the massive loss, Binance leadership insists that all customer funds remain safe."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What did Binance do to address the immediate financial impact of the security breach on its users?",
+      "options": {
+        "A": "They immediately shut down the company and filed for bankruptcy.",
+        "B": "They froze $3 billion in assets and set aside $6.34 billion to cover losses.",
+        "C": "They contacted the North Korean government to demand the return of the funds.",
+        "D": "They released the names of the engineers whose laptops were compromised."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，Binance 為了管理危機，凍結了 30 億美元的資產，並撥出 63.4 億美元以確保用戶資產受到保護。選項 A 錯誤，因為公司並未倒閉；選項 C 文章未提及聯繫北韓政府；選項 D 文章提到駭客透過工程師筆電入侵，但並未公布該工程師姓名。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the information provided, why do hackers prefer targeting people over trying to break the encryption of digital keys?",
+      "options": {
+        "A": "Because people are always willing to share their passwords for money.",
+        "B": "Because digital keys are too expensive to purchase on the black market.",
+        "C": "Because human error or access is often a weaker point than the underlying mathematics.",
+        "D": "Because the mathematics behind digital keys is illegal to attempt to solve."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第五段，專家 Tom Robinson 指出駭客很少嘗試破解數位金鑰背後的複雜數學，而是針對擁有金鑰存取權的人員。這暗示了相較於極難破解的數學加密，針對人類（如工程師或系統管理員）的攻擊成功率更高。選項 A 過於絕對；選項 B 與 D 皆非文章所提及之原因。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the phrase 'watershed moment' imply about the security breach?",
+      "options": {
+        "A": "It is a minor incident that will be quickly forgotten by the industry.",
+        "B": "It is a significant turning point that will change how the industry approaches security.",
+        "C": "It is a natural disaster that could not have been prevented by the company.",
+        "D": "It is a financial success that will lead to higher profits for the exchange."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據最後一段，政策專家 Ari Redbord 將此次駭客攻擊稱為「watershed moment」，並緊接著解釋這是一個改變整個產業看待安全方式的轉捩點。這與「turning point」同義。選項 A 與 D 的意思與文章描述的嚴重性相反；選項 C 將「watershed」誤解為地理或自然災害，與上下文不符。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of this article?",
+      "options": {
+        "A": "A detailed technical guide on how to secure cryptocurrency hot wallets.",
+        "B": "A report on the political tensions between North Korea and Western security agencies.",
+        "C": "An overview of a major security breach at Binance and its implications for the crypto industry.",
+        "D": "A biography of Richard Teng and his leadership style during a financial crisis."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。全文主要圍繞 Binance 遭受史上最大規模駭客攻擊的事件，討論了攻擊過程、應對措施、潛在幕後黑手以及該事件對加密貨幣市場與產業安全觀念的深遠影響。選項 A 僅是文中一小部分背景；選項 B 是文中提到的背景資訊而非主旨；選項 D 僅提到 Richard Teng 的發言，並非文章核心。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
