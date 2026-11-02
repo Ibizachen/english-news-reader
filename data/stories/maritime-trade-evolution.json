@@ -1,0 +1,37 @@
+{
+  "id": "maritime-trade-evolution",
+  "title": "The Shifting Seas: Navigating Global Maritime Trade",
+  "subtitle": "An examination of how geopolitical tensions and climate change are reshaping the world's most critical shipping lanes.",
+  "description": "This series explores the complex infrastructure of global maritime trade, which carries over 80% of the world's goods. Readers will gain insight into the historical, economic, and environmental forces currently forcing a rethink of international shipping routes.",
+  "category": "economics",
+  "status": "active",
+  "updatedAt": "2026-11-02T07:13:23.671592Z",
+  "cadence": "5-part reading path. Complete series available.",
+  "articles": [
+    {
+      "slug": "maritime-trade-evolution-part-1",
+      "label": "Part 1",
+      "note": "Explaining the fundamental importance of maritime chokepoints like the Suez and Panama Canals."
+    },
+    {
+      "slug": "maritime-trade-evolution-part-2",
+      "label": "Part 2",
+      "note": "The roles of shipping giants, port authorities, and major naval powers in securing trade routes."
+    },
+    {
+      "slug": "maritime-trade-evolution-part-3",
+      "label": "Part 3",
+      "note": "How the Panama Canal drought and Red Sea security crises have forced a permanent shift in thinking."
+    },
+    {
+      "slug": "maritime-trade-evolution-part-4",
+      "label": "Part 4",
+      "note": "The impact on consumer prices, manufacturing, and the specific vulnerability of export-dependent economies like Taiwan."
+    },
+    {
+      "slug": "maritime-trade-evolution-part-5",
+      "label": "Part 5",
+      "note": "The future of trade routes, including the Arctic passage, digitalization, and the push for greener shipping."
+    }
+  ]
+}
