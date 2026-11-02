@@ -1,0 +1,161 @@
+{
+  "id": "2026-11-02-cyber-attacks-on-european-supermarket-freezers",
+  "slug": "cyber-attacks-on-european-supermarket-freezers-nov-2026",
+  "publishedAt": "2026-11-02T22:13:55.587839Z",
+  "category": "technology",
+  "title": "Cyber-attacks hit supermarket freezers across Europe",
+  "subtitle": "Hackers target refrigeration systems, causing food to spoil and raising concerns about digital security",
+  "summary": {
+    "en": "Supermarkets in seven European countries have suffered a series of cyber-attacks on their refrigeration systems. Hackers remotely changed the temperature settings, causing food to spoil and leading to significant financial losses. This incident follows a similar attack that affected stores in France last month. Experts believe these attacks show how vulnerable modern, internet-connected appliances can be to outside interference. European officials have condemned the actions as a deliberate attempt to disrupt the food supply chain.",
+    "zh": "歐洲七個國家的超市遭受了一系列針對冷藏系統的網路攻擊。駭客遠端更改了溫度設定，導致食物腐壞並造成重大財務損失。此事件發生在上個月法國類似的攻擊之後。專家認為，這些攻擊顯示出現代連接網路的家電在面對外部干擾時是多麼脆弱。歐洲官員譴責這些行為是蓄意破壞食品供應鏈的企圖。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Supermarkets across Europe are dealing with the aftermath of a widespread cyber-attack that targeted their refrigeration systems. Dozens of stores in seven countries, including Belgium, Luxembourg, Sweden, Ireland, the Netherlands, Estonia, and Finland, reported that their freezers and fridges had malfunctioned. In some cases, the temperatures were remotely turned up to 50 degrees Celsius (122 degrees Fahrenheit), which caused large amounts of food to spoil and forced stores to throw away valuable products.",
+      "zh": "歐洲各地的超市正忙於處理一場大規模網路攻擊後的殘局，該攻擊鎖定了超市的冷藏系統。包括比利時、盧森堡、瑞典、愛爾蘭、荷蘭、愛沙尼亞與芬蘭在內的七個國家，有數十家商店回報其冷凍與冷藏設備發生故障。在某些案例中，溫度被遠端調高至攝氏五十度（華氏一百二十二度），導致大量食物腐壞，迫使店家必須丟棄這些高價值的商品。"
+    },
+    {
+      "id": "p2",
+      "en": "This incident is very similar to an attack that took place in France last month. During that event, hundreds of supermarkets lost millions of euros worth of food. According to the BBC, Stephan Moelans, the CEO of Sabcobel—a company that manages systems for Delhaize supermarkets—confirmed that the incident was a cyber-attack. He explained that the hackers were able to switch the units to a \"defrost\" mode, which caused them to warm up. He noted that his company had been working hard to disconnect affected units from the internet to stop the problem.",
+      "zh": "此事件與上個月發生在法國的攻擊非常相似。在那次事件中，數百家超市損失了價值數百萬歐元的食物。根據 BBC 報導，負責管理 Delhaize 超市系統的 Sabcobel 公司執行長史蒂芬·莫蘭斯（Stephan Moelans）證實這是一起網路攻擊。他解釋說，駭客能夠將設備切換至「除霜」模式，導致溫度升高。他指出，公司正努力將受影響的設備與網路斷開，以阻止問題持續擴大。"
+    },
+    {
+      "id": "p3",
+      "en": "Many modern supermarkets connect their refrigerators to the internet so that staff can manage temperatures and perform maintenance from a distance. While this is convenient, it also creates a security weakness. Experts suggest that these devices often lack strong protection. According to The Guardian, Rafe Pilling, a senior director at the cybersecurity company Sophos, compared the hack to \"wearing rubber gloves and messing with the switches.\" He explained that the hackers did not need complex software or malware to carry out the attack; they simply used the existing remote access features to change the settings.",
+      "zh": "許多現代超市將冰箱連接至網路，以便員工能遠端管理溫度並進行維護。雖然這很方便，但也造成了安全漏洞。專家指出，這些設備往往缺乏強大的防護。根據《衛報》（The Guardian）報導，網路安全公司 Sophos 的資深總監瑞夫·皮林（Rafe Pilling）將此次駭客攻擊比喻為「戴著橡膠手套去撥弄開關」。他解釋說，駭客不需要複雜的軟體或惡意程式來執行攻擊，他們只是利用現有的遠端存取功能來更改設定。"
+    },
+    {
+      "id": "p4",
+      "en": "While no group has officially claimed responsibility for the attacks, officials are looking for answers. The European Union has strongly condemned the events, calling them a \"deliberate attempt to disrupt our food supply chain.\" Christophe Hansen, the European Commissioner for Agriculture and Food, stated that while the overall food supply is not in danger, the impact on businesses and the amount of food waste are very serious. In Belgium, the prosecutor's office has launched a criminal investigation into the matter.",
+      "zh": "雖然目前沒有任何組織正式宣稱對這些攻擊負責，但官員們正積極尋找答案。歐盟強烈譴責這些事件，稱其為「蓄意破壞我們食品供應鏈的企圖」。歐盟農業與食品執委克里斯多福·漢森（Christophe Hansen）表示，雖然整體食品供應並未受到威脅，但對企業造成的影響以及食物浪費的數量非常嚴重。在比利時，檢察官辦公室已針對此事展開刑事調查。"
+    },
+    {
+      "id": "p5",
+      "en": "There is also concern that these attacks might not be limited to Europe. According to The Guardian, authorities in the United States are currently investigating mysterious freezer malfunctions that happened at several military bases in August. Officials in the US are working with their French counterparts to see if the American incidents are connected to the European attacks. Some experts believe that state-linked actors, such as groups connected to Russia or China, could be behind the disruption, as they may be trying to show their ability to cause trouble or create fear among the public.",
+      "zh": "外界也擔心這些攻擊可能不僅限於歐洲。根據《衛報》報導，美國當局目前正在調查八月份發生在多個軍事基地的神秘冷凍庫故障事件。美國官員正與法國的對口單位合作，以釐清美國的事件是否與歐洲的攻擊有關。一些專家認為，與國家掛鉤的行為者，例如與俄羅斯或中國有關的組織，可能是這些破壞行動的幕後黑手，因為他們可能試圖展現製造混亂的能力，或在公眾之間製造恐慌。"
+    },
+    {
+      "id": "p6",
+      "en": "For the supermarkets involved, the financial cost is high. One store manager in Belgium told the news website Het Laatste Nieuws that they lost 100,000 euros worth of food, not including the money lost from having to close the shop. Other major retailers, such as Carrefour, Coop, and ICA, have also reported issues. While some companies were able to limit the damage, others are still working to secure their systems. In Sweden, the National Cybersecurity Center has warned that there are many \"exposed\" devices—machines connected to the internet without enough protection—that need urgent updates.",
+      "zh": "對於涉事的超市而言，財務損失相當慘重。比利時的一位店經理告訴新聞網站《最新消息報》（Het Laatste Nieuws），他們損失了價值十萬歐元的食物，這還不包括因被迫停業而損失的營業額。家樂福（Carrefour）、Coop 與 ICA 等其他大型零售商也回報了相關問題。雖然有些公司成功限制了損害，但其他公司仍在努力確保其系統安全。在瑞典，國家網路安全中心警告，有許多「暴露在外」的設備——即連接網路卻缺乏足夠防護的機器——需要緊急更新。"
+    },
+    {
+      "id": "p7",
+      "en": "This situation highlights a growing problem in the modern world. As more everyday items, such as ovens, washing machines, and heating systems, are connected to the internet, they become potential targets for hackers. John Billow, the head of Sweden’s National Cybersecurity Center, emphasized the need for businesses to update or \"patch\" their equipment to close these security gaps. A patch is a small piece of software designed to fix a problem or improve a program's security.",
+      "zh": "這種情況凸顯了現代世界日益嚴重的問題。隨著越來越多日常用品，如烤箱、洗衣機與暖氣系統連接至網路，它們都成為駭客潛在的攻擊目標。瑞典國家網路安全中心負責人約翰·比洛（John Billow）強調，企業必須更新或「修補」其設備以填補這些安全漏洞。修補程式是一種旨在修復問題或提升程式安全性的小型軟體。"
+    },
+    {
+      "id": "p8",
+      "en": "As of now, it remains unclear who is behind these attacks or if they will happen again. While no one has demanded money—which is common in many cyber-attacks—the psychological impact of seeing empty shelves and spoiled food is significant. For now, supermarket chains across the continent are working to disconnect their systems from the internet or add stronger security measures to ensure that their freezers stay cold and their food remains safe for customers.",
+      "zh": "截至目前，誰是這些攻擊的幕後黑手，以及攻擊是否會再次發生，仍不明朗。雖然沒有人要求支付贖金（這在許多網路攻擊中很常見），但看到貨架空空如也與食物腐壞所帶來的心理衝擊相當巨大。目前，歐洲各地的連鎖超市正致力於將系統與網路斷開，或增加更強大的安全措施，以確保冷凍庫能保持低溫，並確保提供給顧客的食物安全無虞。"
+    }
+  ],
+  "wordCount": 756,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "aftermath",
+      "definitionEn": "The period of time after an unpleasant event or accident, and the problems that result from it.",
+      "definitionZh": "（不愉快事件後的）餘波，後果。",
+      "partOfSpeech": "noun",
+      "noteZh": "此詞常被誤認為與數學或單純的時間點有關，但這裡指災難後的負面影響。文中：Supermarkets across Europe are dealing with the aftermath of a widespread cyber-attack that targeted their refrigeration systems."
+    },
+    {
+      "term": "patch",
+      "definitionEn": "To update software to fix a security flaw or bug.",
+      "definitionZh": "（軟體）修補，打補丁。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（補丁/貼布），這裡作動詞，指修復系統漏洞。文中：John Billow, the head of Sweden’s National Cybersecurity Center, emphasized the need for businesses to update or \"patch\" their equipment to close these security gaps."
+    },
+    {
+      "term": "exposed",
+      "definitionEn": "In a state of being vulnerable or unprotected from danger.",
+      "definitionZh": "暴露的，無防護的。",
+      "partOfSpeech": "adjective",
+      "noteZh": "此處並非指物理上的「裸露」，而是指網路安全上的「無防護狀態」。文中：In Sweden, the National Cybersecurity Center has warned that there are many \"exposed\" devices—machines connected to the internet without enough protection—that need urgent updates."
+    }
+  ],
+  "sources": [
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+      "title": "Shop freezers in seven European countries hit by cyber-attack",
+      "publishedAt": "2026-11-02T17:38:11Z"
+    },
+    {
+      "name": "The Guardian World",
+      "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
+      "title": "Who is hacking Europe’s supermarket fridges and freezers, and why?",
+      "publishedAt": "2026-11-02T19:07:40Z"
+    },
+    {
+      "name": "Deutsche Welle (DW) Top",
+      "url": "https://www.dw.com/en/european-supermarkets-targeted-in-second-reported-cyberattack/a-79831139?maca=en-rss-en-top-1022-rdf",
+      "title": "European supermarkets targeted in second reported cyberattack",
+      "publishedAt": "2026-11-02T14:31:00Z"
+    }
+  ],
+  "story": {
+    "id": "cyber-attacks-on-european-supermarket-freezers",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, how were the hackers able to cause the refrigeration units to warm up?",
+      "options": {
+        "A": "They used sophisticated malware to bypass the store's main firewalls.",
+        "B": "They manipulated existing remote access features to change the settings.",
+        "C": "They physically entered the stores to manually switch the units to defrost.",
+        "D": "They sent a virus that permanently destroyed the internal hardware of the fridges."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，Rafe Pilling 指出駭客並不需要複雜的軟體或惡意程式，而是直接利用這些設備既有的「遠端存取功能」（remote access features）來更改設定。選項 A 錯誤，因為文章明確表示不需要複雜軟體；選項 C 錯誤，因為駭客是遠端操作；選項 D 錯誤，因為硬體並未損毀，只是設定被更改。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the security of modern 'smart' appliances in supermarkets?",
+      "options": {
+        "A": "They are safer than older, non-connected appliances because they can be monitored.",
+        "B": "They are frequently targeted because they are often shipped with pre-installed malware.",
+        "C": "They are vulnerable because the convenience of remote management often outweighs security precautions.",
+        "D": "They are impossible to protect, which is why supermarkets are returning to manual temperature controls."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第三段提到，雖然將冰箱連接網路很方便（convenient），但也創造了安全弱點（security weakness），且這些設備通常缺乏強大的保護。這隱含了企業為了追求便利性，往往犧牲了安全性。選項 A 與文意相反；選項 B 文章未提及出廠預裝惡意程式；選項 D 過於誇大，文中僅提到需要更新與加強防護，而非完全放棄使用。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the seventh paragraph, what does the word 'patch' mean in the context of cybersecurity?",
+      "options": {
+        "A": "A small software update used to fix security vulnerabilities.",
+        "B": "A physical cover placed over a computer screen to prevent hacking.",
+        "C": "A temporary agreement between hackers and companies to stop attacks.",
+        "D": "A piece of hardware that connects refrigerators to the internet."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。文章第七段明確定義了 'patch' 為「a small piece of software designed to fix a problem or improve a program's security」。這在資訊安全領域是固定用語，指修補程式。選項 B、C、D 皆與文中定義的軟體修復功能不符，屬於對詞彙的錯誤延伸解釋。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article?",
+      "options": {
+        "A": "The European Union is planning to ban all internet-connected appliances in supermarkets.",
+        "B": "Hackers are primarily motivated by the financial gain of stealing food from large retailers.",
+        "C": "The incident in Europe is an isolated event that has no connection to other global security issues.",
+        "D": "The widespread connectivity of appliances creates significant security risks that require urgent attention."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。全文探討了歐洲超市遭受網路攻擊的現象，並指出這反映了現代社會將日常設備聯網所帶來的資安隱憂，強調了企業需要更新設備並加強防護的重要性。選項 A 錯誤，文中未提禁令；選項 B 錯誤，文中提到駭客並未索取錢財；選項 C 錯誤，文章明確提到美國軍事基地也發生了類似事件，顯示這可能是全球性的問題。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
