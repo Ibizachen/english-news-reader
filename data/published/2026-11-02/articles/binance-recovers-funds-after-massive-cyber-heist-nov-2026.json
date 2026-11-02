@@ -1,0 +1,184 @@
+{
+  "id": "2026-11-02-binance-recovers-funds-after-massive-cyber-heist",
+  "slug": "binance-recovers-funds-after-massive-cyber-heist-nov-2026",
+  "publishedAt": "2026-11-02T01:29:26.178344Z",
+  "category": "economics",
+  "title": "Binance Restores Services After Record-Breaking $6.3 Billion Cyber Theft",
+  "subtitle": "The world's largest cryptocurrency exchange has replaced most stolen funds while the FBI investigates North Korean involvement.",
+  "summary": {
+    "en": "Binance has begun allowing customers to withdraw funds again following a massive $6.3 billion cyber attack. The exchange has successfully replaced 90% of the stolen digital assets using its own corporate reserves. The FBI has officially linked the theft to a North Korean hacking group known as TraderTraitor. This incident is now considered the largest cryptocurrency heist in history. Investigations into the breach and efforts to recover the remaining funds are ongoing.",
+    "zh": "幣安在遭受六十三億美元的大規模網路攻擊後，已重新開放客戶提領資金。該交易所利用自有企業儲備金，成功補足了九成的遭竊數位資產。美國聯邦調查局已正式將此竊案與北韓駭客組織「交易叛徒」連結。此事件目前被視為史上規模最大的加密貨幣竊案。針對此入侵事件的調查以及追回剩餘資金的努力仍在進行中。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The world's largest cryptocurrency exchange, Binance, has taken a major step toward recovery by allowing customers to withdraw their funds once again. This move comes just days after the platform suffered a massive cyber attack that resulted in the theft of $6.3 billion in digital assets. According to BBC News, the company has already replaced 90% of the stolen money, ensuring that its users do not suffer the financial impact of the crime.",
+      "zh": "全球最大的加密貨幣交易所幣安（Binance）已邁出復甦的重要一步，重新開放客戶提領資金。此舉發生在該平台遭受大規模網路攻擊，導致價值六十三億美元的數位資產遭竊後的短短幾天內。根據英國廣播公司新聞網（BBC News）報導，該公司已補足九成遭竊資金，確保用戶不會因這起犯罪事件蒙受財務損失。"
+    },
+    {
+      "id": "p2",
+      "en": "Binance confirmed that it used its own corporate treasury and special emergency funds to buy back the stolen tokens. The company stated that it has set aside over $6.34 billion to cover the total loss. While 90% of the assets have been restored, the remaining 10% consists of tokens that are harder to trade, which the company says may take more time to replace. Richard Teng, the co-chief executive of Binance, promised that the company remains fully committed to covering these remaining losses for all affected users.",
+      "zh": "幣安證實，公司動用了自有金庫與特別緊急基金來買回遭竊的代幣。該公司表示，已撥出超過六十三億四千萬美元來填補總損失。雖然九成的資產已恢復，但剩餘的一成屬於交易難度較高的代幣，公司稱可能需要更多時間來補齊。幣安共同執行長鄧偉政（Richard Teng）承諾，公司將全力負責補償所有受影響用戶的剩餘損失。"
+    },
+    {
+      "id": "p3",
+      "en": "The attack, which occurred on October 29, is widely considered the largest cryptocurrency heist in history. It surpassed a previous record set in 2025, when the Bybit exchange lost $1.5 billion in a similar incident. Following the news of the theft, major digital currencies like Bitcoin and Ethereum saw their prices drop significantly as investors reacted to the uncertainty.",
+      "zh": "這起發生在十月二十九日的攻擊事件，被廣泛認為是史上規模最大的加密貨幣竊案。它超越了二零二五年拜比特（Bybit）交易所發生類似事件時損失十五億美元的紀錄。在竊案消息傳出後，比特幣與以太幣等主要數位貨幣價格大幅下跌，反映出投資人對市場不確定性的擔憂。"
+    },
+    {
+      "id": "p4",
+      "en": "On Saturday, the Federal Bureau of Investigation (FBI) officially identified the group responsible for the attack. According to The Guardian and Deutsche Welle, the FBI linked the theft to a North Korean hacking unit called TraderTraitor, which is believed to be part of the larger Lazarus Group. This group has been accused of several high-profile cyber attacks in the past, including the 2014 hack of Sony Pictures. The FBI reported that it observed the hackers moving the stolen assets into Ethereum and warned that the criminals are likely using complex financial services to hide the money, a process known as money laundering.",
+      "zh": "週六，美國聯邦調查局（FBI）正式確認了發動攻擊的組織。根據衛報（The Guardian）與德國之聲（Deutsche Welle）報導，聯邦調查局將此竊案與北韓駭客組織「交易叛徒」（TraderTraitor）連結，該組織被認為是拉撒路集團（Lazarus Group）的一部分。此集團過去曾被指控涉及多起備受矚目的網路攻擊，包括二零一四年索尼影業（Sony Pictures）遭駭事件。聯邦調查局指出，他們觀察到駭客將遭竊資產轉移至以太幣，並警告罪犯極可能利用複雜的金融服務來隱匿資金，即所謂的洗錢過程。"
+    },
+    {
+      "id": "p5",
+      "en": "Binance has been working closely with law enforcement agencies, including the US Secret Service, to trace and freeze the stolen funds. The company explained that the hackers used a very sophisticated method to carry out the theft. Initial investigations suggested that a single engineer's laptop was compromised, but later updates from Binance revealed that the attackers used multiple points of entry to break into the system. Richard Teng noted that the hackers also used a \"self-destruct mechanism\" to delete evidence of their actions, making the investigation much more difficult.",
+      "zh": "幣安正與包括美國特勤局（US Secret Service）在內的執法機構密切合作，以追蹤並凍結遭竊資金。該公司解釋，駭客使用了非常精密的手法執行竊案。初步調查顯示是一名工程師的筆記型電腦遭入侵，但幣安後續更新指出，攻擊者是透過多個切入點闖入系統。鄧偉政提到，駭客還使用了「自毀機制」來刪除犯案證據，這使得調查工作變得更加困難。"
+    },
+    {
+      "id": "p6",
+      "en": "Despite the clear statement from the FBI, the situation remains politically sensitive. When asked about the incident, US President Donald Trump told reporters that the government is still learning about the details and is not yet certain who is responsible, though he added that the US would address the matter if North Korea is proven to be the culprit. North Korea has consistently denied any involvement in such cyber attacks.",
+      "zh": "儘管聯邦調查局已發表明確聲明，但局勢在政治上仍相當敏感。當被問及此事時，美國總統川普（Donald Trump）告訴記者，政府仍在了解細節，尚未確定責任歸屬，但他補充說，若證實北韓是幕後黑手，美國將會處理此事。北韓一貫否認涉及任何此類網路攻擊。"
+    },
+    {
+      "id": "p7",
+      "en": "As the investigation continues, the event has raised broader concerns about the safety of digital finance. The Verge reported that many experts are worried about how rapidly improving artificial intelligence could make it easier for hackers to break through security systems. For now, Binance is focusing on stabilizing its platform and ensuring that its security protocols are strong enough to prevent future breaches. While the company has successfully restored most of the stolen value, the incident serves as a stark reminder of the risks involved in the world of digital assets.",
+      "zh": "隨著調查持續進行，此事件引發了對數位金融安全更廣泛的擔憂。科技媒體 The Verge 報導指出，許多專家擔心人工智慧技術的快速進步，可能會讓駭客更容易突破安全系統。目前，幣安正專注於穩定平台，並確保其安全協定足以防止未來再次發生入侵。雖然該公司已成功恢復大部分遭竊資產的價值，但此事件仍嚴正提醒了數位資產領域所隱含的風險。"
+    }
+  ],
+  "wordCount": 642,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "set aside",
+      "definitionEn": "To save or reserve money for a specific purpose.",
+      "definitionZh": "撥出（資金）、預留。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見於日常對話，這裡指公司預留資金以應對損失。文中：The company stated that it has set aside over $6.34 billion to cover the total loss."
+    },
+    {
+      "term": "compromised",
+      "definitionEn": "To be made vulnerable or exposed to unauthorized access (usually regarding security).",
+      "definitionZh": "（系統或安全）遭破壞、洩漏、被駭入。",
+      "partOfSpeech": "verb (past participle)",
+      "noteZh": "常見意為「妥協」，但在資安領域指系統被入侵。文中：Initial investigations suggested that a single engineer's laptop was compromised, but later updates from Binance revealed that the attackers used multiple points of entry to break into the system."
+    },
+    {
+      "term": "stark",
+      "definitionEn": "Clear, obvious, and often unpleasant or severe.",
+      "definitionZh": "嚴峻的、明顯的、赤裸裸的。",
+      "partOfSpeech": "adjective",
+      "noteZh": "此處強調提醒的嚴肅性與清晰度。文中：While the company has successfully restored most of the stolen value, the incident serves as a stark reminder of the risks involved in the world of digital assets."
+    }
+  ],
+  "sources": [
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "publishedAt": "2026-11-01T13:11:37Z"
+    },
+    {
+      "name": "The Guardian World",
+      "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+      "title": "Binance resumes customer withdrawals after record $6.3bn hack",
+      "publishedAt": "2026-11-01T11:54:23Z"
+    },
+    {
+      "name": "Deutsche Welle (DW) Top",
+      "url": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-top-1022-rdf",
+      "title": "FBI says North Korea behind $6 billion Binance crypto theft",
+      "publishedAt": "2026-11-01T07:33:00Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+      "title": "North Korea linked to massive Binance crypto heist",
+      "publishedAt": "2026-11-01T14:33:11Z"
+    }
+  ],
+  "story": {
+    "id": "binance-crypto-exchange-hit-by-record-hack",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "binance-crypto-exchange-hit-by-record-hack-oct-2026",
+        "title": "Binance Hit by Record-Breaking $6.3 Billion Crypto Hack",
+        "publishedAt": "2026-10-30T22:13:58.255588Z",
+        "category": "economics",
+        "summaryEn": "Binance, the world's largest cryptocurrency exchange, has suffered the biggest theft in history. Hackers stole approximately $6.3 billion in digital assets from the platform. Multiple security firms believe a North Korean hacking unit is responsible for the attack. The exchange has suspended all deposits and withdrawals while it investigates the breach. Despite the massive loss, Binance leadership insists that all customer funds remain safe."
+      },
+      {
+        "slug": "binance-hit-by-record-6-3-billion-hack-oct-2026",
+        "title": "Binance Faces Record-Breaking $6.3 Billion Cyber Attack",
+        "publishedAt": "2026-10-31T01:34:02.614552Z",
+        "category": "economics",
+        "summaryEn": "The world's largest cryptocurrency exchange, Binance, has been hit by a massive $6.3 billion hack. Experts believe this is the largest theft of any kind in history. Several analytics firms have linked the attack to a North Korean hacking group known as TraderTraitor. Binance has promised to cover all customer losses and is working with law enforcement to recover the funds. The incident has caused concern among investors about the safety of digital assets on large exchanges."
+      },
+      {
+        "slug": "binance-recovers-assets-after-massive-cyber-heist-nov-2026",
+        "title": "Binance Works to Restore Funds After Record-Breaking Cyber Theft",
+        "publishedAt": "2026-11-01T01:07:27.055084Z",
+        "category": "economics",
+        "summaryEn": "Binance recently suffered the largest cyber heist in history, losing over $6 billion in digital assets. The FBI and other experts have linked the attack to a North Korean military hacking unit. In a positive development, the exchange has already replaced 90 percent of the stolen funds. The company has promised to cover all remaining losses for its customers. Normal operations, including withdrawals, are expected to resume soon."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the current status of the funds stolen from Binance?",
+      "options": {
+        "A": "All stolen assets have been fully replaced and returned to users.",
+        "B": "The majority of assets have been replaced, while the remaining portion is pending.",
+        "C": "The company is still waiting for the FBI to recover the stolen funds before paying users.",
+        "D": "Only 10% of the stolen assets have been recovered by the company so far."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，Binance 已經補回了 90% 的資產，但剩下的 10% 因為交易難度較高，還需要更多時間處理。選項 A 錯誤，因為尚未完全補齊；選項 C 錯誤，因為公司是用自己的資金補償，而非等待 FBI；選項 D 則將比例顛倒了，文章提到的是 90% 已恢復，而非 10%。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the hackers' methods based on the information provided?",
+      "options": {
+        "A": "They relied on a single point of failure within the company's network.",
+        "B": "They were able to bypass security systems without leaving any digital footprint.",
+        "C": "They likely possess advanced technical capabilities and strategic planning skills.",
+        "D": "They targeted the company specifically because of its political ties to the US."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第五段提到駭客使用了「非常複雜的方法」（very sophisticated method）、多個入侵點（multiple points of entry），以及「自毀機制」（self-destruct mechanism）來消除證據，這顯示駭客具備高度的技術能力與策略規劃。選項 A 與文章描述的「多個入侵點」矛盾；選項 B 錯誤，因為他們留下了證據，只是被刪除了；選項 D 在文中並無依據。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the word 'stark' mean as used in the phrase 'a stark reminder'?",
+      "options": {
+        "A": "Clear and unpleasant.",
+        "B": "Completely empty.",
+        "C": "Surprisingly small.",
+        "D": "Politically motivated."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在此語境下，stark 用來形容一個事實或現實非常明顯、嚴峻且令人不快，強調事件帶來的警示作用。選項 B 是指空無一物，不符合語意；選項 C 與文章強調的「重大損失」不符；選項 D 雖然文中提到政治敏感性，但 stark 在此處是用來形容「提醒」的性質，而非指政治動機。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary focus of this article?",
+      "options": {
+        "A": "To explain how the FBI successfully tracked down the North Korean hackers.",
+        "B": "To criticize Binance for its poor security protocols leading to the heist.",
+        "C": "To report on a record-breaking crypto theft and the company's subsequent recovery efforts.",
+        "D": "To argue that cryptocurrency should be banned due to the risks of AI-driven hacking."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。整篇文章的核心在於報導這起史上最大的加密貨幣竊案，以及 Binance 如何透過補償用戶與配合調查來應對危機。選項 A 僅是文章的一部分，非全文重點；選項 B 文中雖有提到調查過程，但並非以批評為主；選項 D 雖然結尾提到 AI 的風險，但這只是結尾的延伸討論，並非文章的主旨。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
