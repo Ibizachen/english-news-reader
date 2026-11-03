@@ -1,0 +1,159 @@
+{
+  "id": "2026-11-03-cyberattacks-on-european-supermarket-refrigeration",
+  "slug": "cyberattacks-on-european-supermarket-refrigeration-nov-2026",
+  "publishedAt": "2026-11-03T22:13:43.627053Z",
+  "category": "technology",
+  "title": "Cyberattacks on European Supermarket Refrigeration Spread to UK Food Suppliers",
+  "subtitle": "Security agencies warn that older technology and poor password security are making food supply chains vulnerable to hackers.",
+  "summary": {
+    "en": "Food suppliers in the UK are now facing cyberattacks after a wave of incidents targeted supermarket freezers across Europe. Hackers remotely increased temperatures in refrigeration units, putting food supplies at risk. The UK's National Cyber Security Centre is working with affected companies to address these security gaps. Experts warn that many businesses are using old, unprotected technology that is easy for hackers to access. While the current impact remains minimal, officials say this is a sign of a growing threat to global supply chains.",
+    "zh": "英國食品供應商正面臨網路攻擊，此前歐洲各地的超市冷凍櫃已遭受一連串類似事件。駭客遠端調高冷藏設備的溫度，導致食品供應面臨風險。英國國家網路安全中心正與受影響企業合作，以解決這些安全漏洞。專家警告，許多企業使用的舊型且缺乏保護的技術，極易遭到駭客入侵。儘管目前影響有限，但官員表示，這顯示全球供應鏈正面臨日益嚴峻的威脅。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Food suppliers across the United Kingdom are dealing with the fallout of a new series of cyberattacks that have targeted supermarket refrigeration systems. These incidents follow a wave of similar attacks that hit retailers in seven European countries earlier this week, including Belgium, the Netherlands, and Ireland. In these cases, hackers were able to remotely change the temperature settings of industrial freezers, causing them to heat up to dangerous levels.",
+      "zh": "英國各地的食品供應商正忙於應對一系列針對超市冷藏系統的網路攻擊所帶來的後果。這些事件發生在本週稍早，歐洲七國（包括比利時、荷蘭與愛爾蘭）的零售商遭遇類似攻擊之後。在這些案例中，駭客得以遠端更改工業用冷凍櫃的溫度設定，導致溫度升高至危險程度。"
+    },
+    {
+      "id": "p2",
+      "en": "The UK’s National Cyber Security Centre (NCSC) confirmed that it is currently working with the affected companies. While the situation is serious, the NCSC noted that the national impact has been minimal so far. Paul Chichester, the director of operations at the NCSC, stated that the agency is monitoring the situation closely. He explained that the attacks were not driven by advanced artificial intelligence, but rather by taking advantage of old technology that has had security weaknesses for a long time.",
+      "zh": "英國國家網路安全中心（National Cyber Security Centre, NCSC）證實，目前正與受影響的企業合作。儘管情況嚴重，但該中心指出，目前對全國造成的影響微乎其微。NCSC 營運總監奇切斯特（Paul Chichester）表示，該機構正密切監控局勢。他解釋說，這些攻擊並非由先進的人工智慧所驅動，而是利用了長期存在安全漏洞的舊型技術。"
+    },
+    {
+      "id": "p3",
+      "en": "For many businesses, the attacks have caused significant stress. The British Association of Independent Meat Suppliers reported that some of its members were caught in the middle of these hacks. While no meat was lost, the association noted that the incidents serve as a warning to the entire food industry. One wholesaler in London managed to stop an attack by physically unplugging its cold storage units from the internet. Alex Pearce, the managing director of the company, explained that the hackers had set his units to reach 150C. Fortunately, his staff noticed the changes and disconnected the machines before any food was damaged.",
+      "zh": "對許多企業而言，這些攻擊造成了巨大的壓力。英國獨立肉品供應商協會（British Association of Independent Meat Suppliers）指出，其部分會員也捲入了這些駭客攻擊。雖然沒有肉品損失，但該協會強調，這些事件對整個食品產業是一個警訊。倫敦一家批發商透過將冷藏設備的網路實體拔除，成功阻止了攻擊。該公司董事總經理皮爾斯（Alex Pearce）解釋說，駭客將他的設備溫度設定調高至攝氏一百五十度。幸運的是，員工及時發現了這些變動並切斷機器電源，才避免了食品損壞。"
+    },
+    {
+      "id": "p4",
+      "en": "Security experts have been investigating how these hackers are getting into the systems. Research suggests that many of the attacks involve older technology that is connected to the internet using simple, default passwords that were never changed. This makes it very easy for unauthorized people to gain control. Cybersecurity experts also noted that attacks on \"dummy\" fridge controls—which are fake systems placed online to trap hackers—showed signs that were similar to malicious operations linked to Russia.",
+      "zh": "安全專家一直在調查駭客如何入侵這些系統。研究顯示，許多攻擊涉及連接到網路的舊型技術，且這些設備使用了從未更改過的簡易預設密碼，這使得未經授權的人員極易取得控制權。網路安全專家也指出，針對「虛擬」冰箱控制系統（即放置在網路上用來誘捕駭客的假系統）的攻擊，顯示出與俄羅斯相關惡意行動相似的跡象。"
+    },
+    {
+      "id": "p5",
+      "en": "Richard Horne, the chief executive of the NCSC, described these fridge attacks as just the \"foothills\" of a much larger problem. He warned that as companies rely more on digital networks, they are often unaware of the hidden flaws in their systems. Many businesses have neglected to \"patch\" their software, which means they have not updated their systems to fix known security holes. Because these holes are well-known, they are essentially waiting to be used by hackers.",
+      "zh": "NCSC 執行長霍恩（Richard Horne）形容這些冰箱攻擊只是更大問題的「前奏」。他警告，隨著企業越來越依賴數位網路，他們往往沒有意識到系統中隱藏的缺陷。許多企業忽略了為軟體進行「修補」，這意味著他們沒有更新系統以修復已知的安全漏洞。由於這些漏洞廣為人知，它們基本上正等待著被駭客利用。"
+    },
+    {
+      "id": "p6",
+      "en": "Looking ahead, the NCSC is pushing for better safety standards. Ollie Whitehouse, the agency’s chief technology officer, suggested that everyday devices connected to the internet are becoming increasingly vulnerable. He argued that manufacturers must be encouraged to build safer equipment, even if that means consumers have to pay a higher price for better security. The goal is to identify these weak points in the supply chain and close them before they can be exploited again.",
+      "zh": "展望未來，NCSC 正推動建立更完善的安全標準。該機構的技術長懷特豪斯（Ollie Whitehouse）認為，連接網路的日常設備正變得越來越脆弱。他主張必須鼓勵製造商打造更安全的設備，即使這意味著消費者必須為更好的安全性支付更高的價格。目標是找出供應鏈中的這些弱點，並在它們再次被利用之前將其封堵。"
+    },
+    {
+      "id": "p7",
+      "en": "For now, the food industry is on high alert. While major grocery chains have not been directly affected, the fact that smaller suppliers were targeted shows that no part of the food supply chain is entirely safe. The NCSC continues to work with organizations to identify loopholes and improve their defenses. As the digital and physical worlds become more connected, experts agree that businesses must take the security of their basic equipment much more seriously to prevent future disruptions to the food supply.",
+      "zh": "目前，食品產業正處於高度警戒狀態。雖然大型連鎖超市尚未受到直接影響，但小型供應商成為目標的事實顯示，食品供應鏈的任何環節都無法完全置身事外。NCSC 持續與各組織合作，以找出漏洞並加強防禦。隨著數位與實體世界連結日益緊密，專家一致認為，企業必須更嚴肅地看待基礎設備的安全性，以防止未來食品供應再次中斷。"
+    }
+  ],
+  "wordCount": 635,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "fallout",
+      "definitionEn": "The negative results or consequences of an event or situation.",
+      "definitionZh": "（不良事件的）後果、餘波。",
+      "partOfSpeech": "noun",
+      "noteZh": "原意指核爆炸後的放射性落塵，這裡引申為負面影響。文中：Food suppliers across the United Kingdom are dealing with the fallout of a new series of cyberattacks that have targeted supermarket refrigeration systems."
+    },
+    {
+      "term": "patch",
+      "definitionEn": "To update software to fix bugs or security weaknesses.",
+      "definitionZh": "修補（軟體漏洞）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（補丁），這裡作動詞指更新軟體。文中：Many businesses have neglected to \"patch\" their software, which means they have not updated their systems to fix known security holes."
+    },
+    {
+      "term": "foothills",
+      "definitionEn": "The low hills at the base of a mountain range; used here to mean the beginning or a small part of a larger problem.",
+      "definitionZh": "山腳丘陵；這裡比喻為更大問題的開端或冰山一角。",
+      "partOfSpeech": "noun",
+      "noteZh": "字面指山腳，這裡用作隱喻，形容問題才剛開始。文中：Richard Horne, the chief executive of the NCSC, described these fridge attacks as just the \"foothills\" of a much larger problem."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian World",
+      "url": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
+      "title": "Food suppliers in UK hit by cyber-attacks after freezers targeted in Europe",
+      "publishedAt": "2026-11-03T17:28:49Z"
+    }
+  ],
+  "story": {
+    "id": "cyber-attacks-on-european-supermarket-freezers",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "cyber-attacks-on-european-supermarket-freezers-nov-2026",
+        "title": "Cyber-attacks hit supermarket freezers across Europe",
+        "publishedAt": "2026-11-02T22:13:55.587839Z",
+        "category": "technology",
+        "summaryEn": "Supermarkets in seven European countries have suffered a series of cyber-attacks on their refrigeration systems. Hackers remotely changed the temperature settings, causing food to spoil and leading to significant financial losses. This incident follows a similar attack that affected stores in France last month. Experts believe these attacks show how vulnerable modern, internet-connected appliances can be to outside interference. European officials have condemned the actions as a deliberate attempt to disrupt the food supply chain."
+      },
+      {
+        "slug": "european-supermarket-refrigeration-systems-hit-by-nov-2026",
+        "title": "Cyberattacks Target Supermarket Fridges Across Europe",
+        "publishedAt": "2026-11-03T03:28:08.050310Z",
+        "category": "technology",
+        "summaryEn": "Supermarkets across seven European countries have faced a new wave of cyberattacks targeting their refrigeration systems. Hackers remotely increased temperatures, leading to significant food waste and financial losses for major retailers. Experts suggest these attacks may be a form of state-sponsored sabotage intended to disrupt food supplies. While no group has claimed responsibility, the simplicity of the attacks makes them difficult to track. Authorities are now investigating how internet-connected appliances can be better protected from such interference."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "How did a London-based wholesaler successfully prevent damage to its products during the recent cyberattacks?",
+      "options": {
+        "A": "They updated their software to patch known security holes.",
+        "B": "They disconnected their refrigeration units from the internet.",
+        "C": "They changed the default passwords on their industrial freezers.",
+        "D": "They used 'dummy' fridge controls to trap the hackers."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，倫敦的一家批發商透過將冷藏設備從網路上拔除（physically unplugging its cold storage units from the internet）成功阻止了攻擊。選項 A 雖然文中提到修補軟體的重要性，但並非該批發商採取的行動；選項 C 文中提到這是預防措施，而非該公司當時阻止攻擊的方法；選項 D 則是資安專家用來研究駭客手法的方式，與該批發商無關。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the cause of the vulnerabilities in the refrigeration systems?",
+      "options": {
+        "A": "The hackers used highly sophisticated AI to bypass modern security.",
+        "B": "The refrigeration systems were too new for the security software to protect.",
+        "C": "The businesses were using outdated equipment without proper security maintenance.",
+        "D": "The attacks were caused by manufacturers intentionally building weak equipment."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第二段與第四段，NCSC 指出攻擊並非源於先進的人工智慧，而是利用了舊技術的弱點，且許多企業未更新軟體（patching）或未更改預設密碼。這暗示了企業對舊設備的維護不足。選項 A 與第二段內容矛盾；選項 B 與文章提到是「舊技術」不符；選項 D 文中並未指控製造商有惡意，僅提到應鼓勵製造商提升安全性。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fifth paragraph, what does Richard Horne mean when he describes the fridge attacks as the 'foothills' of a larger problem?",
+      "options": {
+        "A": "The attacks are only the beginning or a small part of a bigger threat.",
+        "B": "The attacks are limited to mountainous regions in the UK.",
+        "C": "The attacks are the most difficult part of the security challenge.",
+        "D": "The attacks are caused by people living in rural areas."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在文中，「foothills」（山腳）是一個隱喻，用來比喻這類攻擊只是更大規模問題的起點或冰山一角。選項 B 將隱喻誤解為地理位置；選項 C 與原文語境相反，因為山腳通常是通往更高山峰的起點，而非最困難的頂峰；選項 D 完全偏離了隱喻的含義，與駭客行為無關。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of this article regarding the recent cyberattacks?",
+      "options": {
+        "A": "Major grocery chains are the only businesses at risk of cyberattacks.",
+        "B": "The UK government has already solved the security issues in the food supply chain.",
+        "C": "Hackers are specifically targeting meat suppliers to cause food shortages.",
+        "D": "Businesses must prioritize digital security for basic equipment to avoid supply chain disruptions."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。文章整體探討了食品供應鏈中因設備老舊與資安疏忽導致的漏洞，並強調隨著數位與實體世界連結加深，企業必須更重視設備安全以防止供應鏈中斷。選項 A 與文末提到「沒有哪個環節是絕對安全」矛盾；選項 B 與事實不符，政府仍在努力中；選項 C 過度解讀，文中僅提到肉品供應商是受害者之一，並未指明是唯一目標。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}

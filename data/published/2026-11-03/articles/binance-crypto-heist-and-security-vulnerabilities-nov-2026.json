@@ -1,0 +1,183 @@
+{
+  "id": "2026-11-03-binance-crypto-heist-and-security-vulnerabilities",
+  "slug": "binance-crypto-heist-and-security-vulnerabilities-nov-2026",
+  "publishedAt": "2026-11-03T22:13:43.627053Z",
+  "category": "economics",
+  "title": "Binance Reveals How Hackers Pulled Off Record $6.3 Billion Crypto Theft",
+  "subtitle": "New details show that fake job interviews and advanced digital tricks were used to steal billions from the world's largest exchange.",
+  "summary": {
+    "en": "Binance has released a detailed report explaining how hackers stole $6.3 billion in a massive cyber attack. The company confirmed that a North Korean hacking unit used fake job interviews to trick employees into downloading harmful software. Despite the scale of the theft, Binance says it has replaced 98% of the lost funds for its users. The exchange is now working to improve its security systems to prevent future incidents. This event highlights the growing risks of sophisticated cyber attacks on financial platforms.",
+    "zh": "幣安發布了一份詳細報告，解釋駭客如何透過大規模網路攻擊竊取六十三億美元。該公司證實，一個北韓駭客單位利用虛假面試誘騙員工下載有害軟體。儘管竊案規模龐大，幣安表示已為用戶補足百分之九十八的損失資金。該交易所目前正致力於改善安全系統以防止未來發生類似事件。此事件凸顯了金融平台面臨日益嚴重的精密網路攻擊風險。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Binance, the world’s largest cryptocurrency exchange, has provided new details about the record-breaking $6.3 billion cyber heist that shocked the financial world last week. According to an assessment released by the company, the attack was not a sudden event, but a carefully planned operation that took months to prepare. The FBI has identified the group responsible as a North Korean military hacking unit known as “TraderTraitor.”",
+      "zh": "全球最大的加密貨幣交易所幣安（Binance）針對上週震驚金融界、金額高達六十三億美元的破紀錄網路竊案，提供了新的細節。根據該公司發布的評估報告，這起攻擊並非突發事件，而是經過數月籌備的縝密行動。美國聯邦調查局（FBI）已確認犯案團體為北韓軍方旗下的駭客單位，名為「TraderTraitor」。"
+    },
+    {
+      "id": "p2",
+      "en": "In a report shared on Tuesday, Binance explained that the hackers used highly deceptive methods to gain access to their internal systems. In September, a Binance engineer was contacted on a job-hunting platform by someone pretending to be a director at a fake company. The hackers spent weeks building trust with the employee, even sharing photos and videos to appear legitimate. Eventually, they invited the engineer to a second interview on a chat app, where they asked him to download an “assignment.” This file contained malicious code that allowed the attackers to enter the company’s network.",
+      "zh": "幣安在週二分享的報告中解釋，駭客使用了極具欺騙性的手段來獲取其內部系統的存取權。九月時，一名幣安工程師在求職平台上被一名冒充虛假公司主管的人員聯繫。駭客花費數週時間與該員工建立信任，甚至分享照片與影片來展現其合法性。最終，他們邀請該工程師在通訊軟體上進行第二次面試，並要求他下載一份「作業」。該檔案內含惡意程式碼，讓攻擊者得以進入該公司的網路。"
+    },
+    {
+      "id": "p3",
+      "en": "This was not the hackers' first attempt. According to The Verge, Binance security teams had detected an earlier, smaller attack in June. Although the company replaced the affected worker’s device at that time, the hackers had already learned valuable information about how the exchange operated. By October, the attackers were able to use an internal AI tool at Binance to take control of digital wallets. Once they gained this access, they moved quickly, launching the final attack that resulted in the massive loss of funds.",
+      "zh": "這並非駭客的首次嘗試。根據科技新聞網站 The Verge 報導，幣安安全團隊曾在六月偵測到一起規模較小的早期攻擊。儘管該公司當時已更換受影響員工的裝置，但駭客早已掌握了關於該交易所運作方式的寶貴資訊。到了十月，攻擊者已能利用幣安內部的人工智慧工具來控制數位錢包。一旦取得存取權，他們便迅速採取行動，發動了導致鉅額資金損失的最終攻擊。"
+    },
+    {
+      "id": "p4",
+      "en": "Binance CEO Richard Teng stated that the company has worked hard to fix the damage. The exchange reported that it has already replaced 98% of the stolen assets using its own money. “At this moment, 98% of impacted tokens had been replenished; we’re completing the remaining 2%,” Teng wrote. Withdrawals for customers have now broadly resumed. The company has also promised to conduct an independent cybersecurity review to strengthen its defenses and ensure such a breach does not happen again.",
+      "zh": "幣安執行長鄧偉政（Richard Teng）表示，公司已竭盡全力修復損害。該交易所回報，已使用自有資金補足了百分之九十八的被竊資產。鄧偉政寫道：「目前，百分之九十八受影響的代幣已完成補償；我們正在處理剩餘的百分之二。」客戶的提款功能現已大致恢復。該公司也承諾將進行獨立的網路安全審查，以強化防禦措施並確保此類漏洞不再發生。"
+    },
+    {
+      "id": "p5",
+      "en": "Despite these efforts, the incident has caused significant concern among users and the wider financial industry. The Guardian Technology reports that Binance faced a difficult situation as scared customers rushed to withdraw their money. Over a single weekend, the exchange processed billions in withdrawals, though it maintained that user funds were safe. The company has also warned users to be careful of scammers who are trying to take advantage of the situation by offering fake compensation schemes.",
+      "zh": "儘管採取了這些努力，這起事件仍在用戶與更廣泛的金融產業中引發了嚴重擔憂。《衛報》（The Guardian）科技版報導指出，幣安面臨了艱困的處境，因為恐慌的客戶紛紛湧入提領資金。在一個週末內，該交易所處理了數十億美元的提款，儘管其堅稱用戶資金安全無虞。該公司也警告用戶要小心詐騙者，這些人正試圖利用此情況，提供虛假的賠償方案來趁火打劫。"
+    },
+    {
+      "id": "p6",
+      "en": "This heist highlights a growing problem in the digital age: the risk of sophisticated “social engineering.” This is a method where hackers use human psychology—like the desire for a new job—to trick people into breaking security rules. As NPR News noted, the hackers’ approach was more advanced than anything previously seen, making it very difficult for the employee to realize they were being targeted.",
+      "zh": "這起竊案凸顯了數位時代日益嚴重的問題：精密「社交工程」的風險。這是一種駭客利用人類心理（例如對新工作的渴望）來誘騙人們違反安全規則的方法。正如美國公共廣播電台（NPR）新聞所指出的，駭客的手法比以往所見的任何手段都更為先進，使得該名員工極難察覺自己已成為目標。"
+    },
+    {
+      "id": "p7",
+      "en": "For many crypto users, the event serves as a sharp reminder of the risks involved in digital finance. Unlike traditional bank accounts in countries like the US, UK, or Australia, crypto assets are often not protected by government insurance. This means that if an exchange goes bankrupt or fails to cover losses, users might not get their money back. While Binance has pledged to absorb the financial impact, the event has led to a drop in confidence, with some investors pulling money out of Bitcoin-related products in the US.",
+      "zh": "對許多加密貨幣用戶而言，此事件嚴厲提醒了數位金融所涉及的風險。與美國、英國或澳洲等國的傳統銀行帳戶不同，加密資產通常不受政府保險保護。這意味著如果交易所破產或無法彌補損失，用戶可能無法取回資金。雖然幣安已承諾承擔財務影響，但此事件已導致信心下滑，部分投資人開始撤出美國境內與比特幣相關的產品。"
+    },
+    {
+      "id": "p8",
+      "en": "Moving forward, Binance faces the challenge of rebuilding its reputation. The company was already working to improve its image following legal issues in 2023, and this massive theft has made that task much harder. As the company works to restore full operations, the focus remains on security. The exchange has admitted that the attack “should not have happened” and apologized for the uncertainty caused to its users. For now, the industry is watching closely to see if Binance can truly secure its platform against such determined and clever attackers in the future.",
+      "zh": "展望未來，幣安面臨著重建聲譽的挑戰。該公司在經歷二零二三年的法律問題後，本已致力於改善形象，而這起大規模竊案使這項任務變得更加艱鉅。隨著公司努力恢復全面營運，焦點仍放在安全性上。該交易所承認這次攻擊「本不該發生」，並對造成用戶的不安致歉。目前，業界正密切關注幣安未來是否真能保護其平台，抵禦此類意志堅定且狡猾的攻擊者。"
+    }
+  ],
+  "wordCount": 712,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "building trust",
+      "definitionEn": "The process of gradually developing a sense of confidence and reliability between people.",
+      "definitionZh": "建立信任的過程。",
+      "partOfSpeech": "idiom / phrase",
+      "noteZh": "此處並非指實體的建築，而是指人際關係中的信任建立。文中：The hackers spent weeks building trust with the employee, even sharing photos and videos to appear legitimate."
+    },
+    {
+      "term": "resumed",
+      "definitionEn": "To begin again or continue after a pause or interruption.",
+      "definitionZh": "（中斷後）恢復、重新開始。",
+      "partOfSpeech": "verb",
+      "noteZh": "學生常誤以為是「總結」（resume），但此處為動詞，重音在第二音節。文中：Withdrawals for customers have now broadly resumed."
+    },
+    {
+      "term": "pulling money out",
+      "definitionEn": "To withdraw or remove money from an investment or account.",
+      "definitionZh": "撤資、將錢領出。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這裡的 pull 並非「拉」，而是指將資金從投資項目中撤回。文中：the event has led to a drop in confidence, with some investors pulling money out of Bitcoin-related products in the US."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/2026/nov/02/binance-cryptocurrency-exchange-hack",
+      "title": "Binance battles to save its brand after record $6.3bn crypto hack",
+      "publishedAt": "2026-11-03T14:45:30Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
+      "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
+      "publishedAt": "2026-11-03T22:04:02Z"
+    },
+    {
+      "name": "NPR News",
+      "url": "https://www.npr.org/2026/11/03/nx-s1-6027799/binance-crypto-exchange-cyber-heist",
+      "title": "A Binance engineer thought he was interviewing for a job. Then the hackers pounced",
+      "publishedAt": "2026-11-03T21:30:20Z"
+    }
+  ],
+  "story": {
+    "id": "binance-crypto-exchange-hit-by-record-hack",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "binance-recovers-funds-after-massive-cyber-heist-nov-2026",
+        "title": "Binance Restores Services After Record-Breaking $6.3 Billion Cyber Theft",
+        "publishedAt": "2026-11-02T01:29:26.178344Z",
+        "category": "economics",
+        "summaryEn": "Binance has begun allowing customers to withdraw funds again following a massive $6.3 billion cyber attack. The exchange has successfully replaced 90% of the stolen digital assets using its own corporate reserves. The FBI has officially linked the theft to a North Korean hacking group known as TraderTraitor. This incident is now considered the largest cryptocurrency heist in history. Investigations into the breach and efforts to recover the remaining funds are ongoing."
+      },
+      {
+        "slug": "binance-recovers-assets-after-massive-cyber-heist-nov-2026",
+        "title": "Binance Works to Restore Funds After Record-Breaking Cyber Theft",
+        "publishedAt": "2026-11-01T01:07:27.055084Z",
+        "category": "economics",
+        "summaryEn": "Binance recently suffered the largest cyber heist in history, losing over $6 billion in digital assets. The FBI and other experts have linked the attack to a North Korean military hacking unit. In a positive development, the exchange has already replaced 90 percent of the stolen funds. The company has promised to cover all remaining losses for its customers. Normal operations, including withdrawals, are expected to resume soon."
+      },
+      {
+        "slug": "binance-recovers-assets-after-record-crypto-hack-oct-2026",
+        "title": "Binance Recovers Most Funds After Historic $6.3 Billion Cyber Theft",
+        "publishedAt": "2026-10-31T22:13:51.918125Z",
+        "category": "economics",
+        "summaryEn": "Binance, the world's largest cryptocurrency exchange, has recovered 90 percent of the $6.3 billion stolen in a recent cyber attack. The company has promised to cover all losses for its customers. Experts believe the attack was carried out by a sophisticated North Korean military unit. While the company works to restore full services, the incident has raised new questions about the security of digital asset platforms. The exchange plans to reopen withdrawal services soon."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What specific action did the hackers take in June before the final October attack?",
+      "options": {
+        "A": "They successfully stole a small amount of digital assets.",
+        "B": "They launched a minor attack that allowed them to gather information about Binance's operations.",
+        "C": "They tricked an engineer into downloading a malicious file for the first time.",
+        "D": "They gained control of internal AI tools to monitor user wallets."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，Binance 的安全團隊在六月偵測到一次較小的攻擊，雖然公司更換了受影響員工的設備，但駭客已藉此獲得了關於交易所運作方式的寶貴資訊。選項 A 錯誤，文中未提及六月有資產損失；選項 C 錯誤，誘騙下載惡意檔案是發生在九月而非六月；選項 D 錯誤，使用 AI 工具是在十月才發生的事。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the information provided, why are crypto users particularly vulnerable compared to traditional bank customers?",
+      "options": {
+        "A": "Crypto exchanges do not have enough money to pay back users who lose their funds.",
+        "B": "Hackers are more interested in targeting crypto exchanges than traditional banks.",
+        "C": "Crypto assets often lack the government-backed insurance that protects traditional bank accounts.",
+        "D": "Binance is the only exchange that has admitted to having security flaws."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第七段提到，與美、英、澳等國的傳統銀行帳戶不同，加密資產通常沒有政府保險（government insurance）的保障，這意味著若交易所倒閉或無法彌補損失，用戶可能無法取回資金。選項 A 過於絕對，Binance 此次確實補償了用戶；選項 B 文中未比較駭客對兩者的興趣程度；選項 D 無法從文中推論，且並非所有交易所都一樣。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the word 'rebuilding' imply in the context of Binance's reputation?",
+      "options": {
+        "A": "The company is physically constructing new offices to improve its image.",
+        "B": "The company is attempting to restore trust and public perception after damage.",
+        "C": "The company is replacing its entire staff to start over from scratch.",
+        "D": "The company is deleting its past legal records to hide its history."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在此語境下，「rebuilding its reputation」意指在經歷了法律問題與駭客攻擊後，公司正努力恢復大眾對其品牌形象與信譽的信任。這是一種比喻用法，並非指實體的建築工程。選項 A 將詞彙誤解為物理建設；選項 C 與 D 皆非文中提到的公司策略，且與「建立名聲」的意義不符。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of this article regarding the Binance security incident?",
+      "options": {
+        "A": "Binance successfully prevented a major loss by identifying the North Korean hacking unit early.",
+        "B": "The incident serves as a warning about the sophisticated nature of social engineering and the inherent risks of digital finance.",
+        "C": "The primary goal of the article is to criticize Binance for its poor internal security protocols.",
+        "D": "The article focuses mainly on how the FBI plans to catch the 'TraderTraitor' hacking group."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章透過描述駭客如何利用「社交工程」（social engineering）滲透 Binance，並探討此事件對加密貨幣產業與用戶信心造成的影響，總結了數位金融環境下的高風險性。選項 A 與事實不符，因為發生了重大損失；選項 C 雖提及安全疏失，但非文章核心；選項 D 中 FBI 僅在開頭被提及，並非全文重心。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}

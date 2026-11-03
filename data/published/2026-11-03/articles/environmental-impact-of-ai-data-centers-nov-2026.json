@@ -1,0 +1,152 @@
+{
+  "id": "2026-11-03-environmental-impact-of-ai-data-centers",
+  "slug": "environmental-impact-of-ai-data-centers-nov-2026",
+  "publishedAt": "2026-11-03T22:13:43.627053Z",
+  "category": "energy",
+  "title": "The High Energy Cost of Artificial Intelligence: A New UK Project",
+  "subtitle": "A major deal to build a data center at the Drax power plant highlights the growing tension between AI development and environmental goals.",
+  "summary": {
+    "en": "A new deal aims to build a massive data center at the site of the UK's largest power plant. The project promises to boost the country's AI capabilities and create jobs. However, the use of biomass energy at the site has caused concerns about carbon emissions. The government is currently balancing the need for digital infrastructure with strict climate targets. This development follows similar debates about data center energy use in other regions.",
+    "zh": "一項新協議計畫在英國最大的發電廠舊址建造一座大型資料中心。該計畫承諾將提升國家的人工智慧能力並創造就業機會。然而，該場址使用生物質能源引發了對碳排放的擔憂。政府目前正試圖在數位基礎設施需求與嚴格的氣候目標之間取得平衡。此開發案與其他地區關於資料中心能源使用的爭議如出一轍。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The race to build the infrastructure needed for artificial intelligence has reached a new turning point in the United Kingdom. A major agreement worth £20 billion has been announced to build one of the country’s largest data centers at the site of the Drax power plant in North Yorkshire. This project, which involves the infrastructure investor Brookfield and the AI platform Radiant, aims to create a facility with a capacity of more than 1 gigawatt. If successful, it could begin operations as early as 2028.",
+      "zh": "英國在打造人工智慧所需基礎設施的競賽中，迎來了新的轉捩點。一項價值兩百億英鎊的重大協議已經宣布，將在北約克郡的德拉克斯（Drax）發電廠舊址建造該國規模最大的資料中心之一。這項計畫由基礎設施投資商布魯克菲爾德（Brookfield）與人工智慧平台 Radiant 共同參與，目標是打造一座容量超過一吉瓦的設施。若計畫順利，最快可望於二〇二八年開始運作。"
+    },
+    {
+      "id": "p2",
+      "en": "This project follows a recent trend of large-scale data center developments that have sparked debate globally. Just last week, similar concerns were raised in West Virginia, where local residents and environmental groups questioned the impact of a new facility on their local power supply. In the UK, the Drax project is particularly notable because of the site's history. According to The Guardian, the Drax power plant is currently the largest producer of carbon dioxide in the country, as it generates nearly 5% of the UK’s electricity by burning woody biomass pellets.",
+      "zh": "此計畫延續了近期全球各地引發爭議的大型資料中心開發趨勢。就在上週，西維吉尼亞州也出現了類似的擔憂，當地居民與環保團體質疑新建設施對當地電力供應的影響。在英國，德拉克斯計畫之所以特別引人注目，是因為該場址的歷史背景。根據《衛報》（The Guardian）報導，德拉克斯發電廠目前是英國最大的二氧化碳排放源，透過燃燒木質生物質顆粒，供應了英國近百分之五的電力。"
+    },
+    {
+      "id": "p3",
+      "en": "For the company, this deal represents a new chapter. Will Gardiner, the chief executive of Drax, stated that the project would help secure the long-term future of the site and protect hundreds of jobs. He also noted that the move would support the country’s goal of strengthening its own AI capabilities. The market responded positively to the news, with the company’s value rising by almost 9% on the London Stock Exchange.",
+      "zh": "對該公司而言，這項交易代表了新的篇章。德拉克斯執行長威爾·加德納（Will Gardiner）表示，該計畫將有助於確保該場址的長期未來，並保障數百個工作機會。他也指出，此舉將支持英國強化自身人工智慧能力的目標。市場對此消息反應正面，該公司在倫敦證券交易所的市值上升了近百分之九。"
+    },
+    {
+      "id": "p4",
+      "en": "However, the project faces significant questions regarding its environmental impact. While Drax claims that the carbon emissions from burning biomass are balanced out by the planting of new trees, many analysts remain skeptical. The UK government has already signaled that it plans to limit the power plant's role in the future, and it will reduce the subsidies—financial support from the government—that the company receives starting in 2027. The government has promised that Drax will play a much more limited role in the years ahead due to ongoing concerns about its sustainability claims.",
+      "zh": "然而，該計畫在環境影響方面面臨重大質疑。儘管德拉克斯聲稱燃燒生物質產生的碳排放可透過種植新樹來抵銷，但許多分析師仍持懷疑態度。英國政府已表示計畫限制該發電廠未來的角色，並將從二〇二七年起減少該公司獲得的政府財政補助。由於對其永續性主張的持續擔憂，政府已承諾德拉克斯在未來幾年內將扮演更受限的角色。"
+    },
+    {
+      "id": "p5",
+      "en": "This tension highlights a difficult challenge for the government: how to support the growth of AI while meeting strict climate targets. The government recently published a draft policy statement on data centers, calling them as fundamental to the economy as railways and electricity networks. Officials stated that they must ensure the country and local communities benefit from these developments. Yet, the UK’s power grid is already very busy, and there are concerns that a rush to build data centers could lead to a reliance on expensive and polluting gas power if renewable energy sources are not available.",
+      "zh": "這種緊張關係凸顯了政府面臨的艱難挑戰：如何在支持人工智慧成長的同時，達成嚴格的氣候目標。政府近期發布了一份關於資料中心的政策草案，稱其對經濟的重要性等同於鐵路與電力網路。官員表示，必須確保國家與當地社區能從這些開發案中獲益。然而，英國的電網已相當吃緊，外界擔心若缺乏再生能源，倉促興建資料中心可能會導致對昂貴且高污染的天然氣發電產生依賴。"
+    },
+    {
+      "id": "p6",
+      "en": "Under the first phase of the plan, the data center will have a capacity of up to 100 megawatts. Initially, the project will use land and existing connections to the national power grid. The company hopes to begin supplying the data center with its own power directly by the early 2030s. To achieve this, Drax must navigate complex regulatory approvals—official permissions required by law—to ensure its future income.",
+      "zh": "在計畫的第一階段，該資料中心容量將達到一百百萬瓦。初期，該計畫將利用土地與現有的國家電網連接。公司希望能在二〇三〇年代初期，直接為資料中心供應自有電力。為了達成目標，德拉克斯必須通過複雜的法規審核（即法律要求的官方許可），以確保其未來的收入。"
+    },
+    {
+      "id": "p7",
+      "en": "As the world continues to adopt AI, the demand for electricity will only increase. The situation at Drax shows that the digital future is not just about software and chips; it is deeply connected to physical energy production. Whether this project can serve as a model for sustainable growth or if it will simply make the country’s climate goals harder to reach remains a central question for policymakers. For now, the project stands as a clear example of the difficult choices ahead as nations try to balance technological progress with the urgent need to protect the environment.",
+      "zh": "隨著全球持續採用人工智慧，電力需求只會不斷增加。德拉克斯的情況顯示，數位未來不僅僅關乎軟體與晶片，更與實體能源生產息息相關。此計畫究竟能否成為永續成長的典範，還是會讓英國的氣候目標更難達成，仍是決策者面臨的核心問題。目前，該計畫清楚地展現了各國在試圖平衡技術進步與保護環境的迫切需求時，未來將面臨的艱難抉擇。"
+    }
+  ],
+  "wordCount": 685,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "balanced out",
+      "definitionEn": "To be equalized by an opposing factor so that the total effect is neutral.",
+      "definitionZh": "抵銷；平衡。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "此處指碳排放量與植樹吸收量相互抵銷。文中：While Drax claims that the carbon emissions from burning biomass are balanced out by the planting of new trees, many analysts remain skeptical."
+    },
+    {
+      "term": "busy",
+      "definitionEn": "Full of activity or heavily used, often to the point of being overloaded.",
+      "definitionZh": "繁忙的；負載過重的。",
+      "partOfSpeech": "adjective",
+      "noteZh": "形容電力網負載過重，而非指人忙碌。文中：Yet, the UK’s power grid is already very busy, and there are concerns that a rush to build data centers could lead to a reliance on expensive and polluting gas power if renewable energy sources are not available."
+    },
+    {
+      "term": "stands",
+      "definitionEn": "To exist in a particular state or situation.",
+      "definitionZh": "處於（某種狀態）；位於。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作「站立」，此處指計畫目前處於某種地位或狀態。文中：For now, the project stands as a clear example of the difficult choices ahead as nations try to balance technological progress with the urgent need to protect the environment."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/business/2026/nov/03/uk-drax-power-station-ai-datacentre",
+      "title": "UK’s most polluting power plant could power country’s largest AI datacentre",
+      "publishedAt": "2026-11-03T11:55:28Z"
+    }
+  ],
+  "story": {
+    "id": "ai-data-centers-and-climate-pollution-concerns",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "environmental-impact-of-data-centers-oct-2026",
+        "title": "New Data Center Project Sparks Debate in West Virginia",
+        "publishedAt": "2026-10-31T22:13:51.918125Z",
+        "category": "energy",
+        "summaryEn": "A new data center project in West Virginia is facing strong opposition from local residents and environmental advocates. The proposed Ridgeline facility would use a large power plant to support artificial intelligence and cloud computing needs. Critics fear that the project will harm the area's natural beauty and cause air and water pollution. This development follows a global trend of tension between the tech industry's energy needs and local environmental protection. The debate highlights the difficult balance between technological progress and preserving nature."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the expected timeline for the Drax data center project as described in the article?",
+      "options": {
+        "A": "It will be fully operational by 2027.",
+        "B": "It could potentially start its operations by 2028.",
+        "C": "It is expected to be fully powered by its own energy by 2028.",
+        "D": "It will begin its first phase of construction in the early 2030s."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據第一段最後一句話：「If successful, it could begin operations as early as 2028.」選項 A 錯誤，因為 2027 年是政府削減補貼的時間點，而非營運時間。選項 C 錯誤，文中提到公司希望在 2030 年代初期才能自行供電。選項 D 錯誤，第一階段的 100 兆瓦容量並非始於 2030 年代，而是該時間點目標為自行供電。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the text, why might the UK government be hesitant about the Drax data center project despite its economic benefits?",
+      "options": {
+        "A": "The government believes the project will cause a decline in the value of the London Stock Exchange.",
+        "B": "The government prefers to invest in railways rather than digital infrastructure.",
+        "C": "The project’s energy demands may conflict with the government's long-term climate sustainability goals.",
+        "D": "The government is concerned that Brookfield and Radiant lack the necessary technical expertise for AI."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。綜合第四段與第五段，政府一方面將數據中心視為經濟基礎，但同時擔憂其電力需求會導致對污染性天然氣的依賴，並提到政府已計畫削減對 Drax 的補貼，反映出政府在支持 AI 成長與達成氣候目標之間的兩難。選項 A 與文中提到的股市正面反應矛盾；選項 B 誤解了文中將數據中心比喻為鐵路的隱喻；選項 D 文中並未提及關於公司技術能力的疑慮。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the phrase 'Drax must navigate complex regulatory approvals,' what does 'navigate' most closely mean?",
+      "options": {
+        "A": "To successfully manage or deal with a difficult situation.",
+        "B": "To travel across a specific geographical area.",
+        "C": "To change the direction of a vehicle or ship.",
+        "D": "To create a new set of rules for a legal system."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在文中「navigate complex regulatory approvals」是指公司必須設法處理並通過繁瑣的法律審核程序。這是一種隱喻用法，並非指物理上的航行。選項 B 和 C 是該詞的字面意義，不符合語境。選項 D 錯誤，因為公司是「遵循」或「處理」審核，而非「創造」法律規範。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of this article?",
+      "options": {
+        "A": "The Drax power plant is the most efficient energy producer in the United Kingdom.",
+        "B": "Building data centers is a simple task that requires little government oversight.",
+        "C": "AI development is primarily a software challenge that does not impact physical infrastructure.",
+        "D": "The growth of AI infrastructure creates a difficult conflict between technological advancement and environmental sustainability."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。全文的核心在於探討 Drax 數據中心案例，說明 AI 的發展不僅是軟體問題，更與實體能源生產緊密相連，並強調政府在推動 AI 經濟成長時，必須面對氣候目標的嚴峻挑戰。選項 A 過於偏頗且不符合文中對其環保爭議的描述；選項 B 與文中提到的複雜審核矛盾；選項 C 與文章最後一段的結論完全相反。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
