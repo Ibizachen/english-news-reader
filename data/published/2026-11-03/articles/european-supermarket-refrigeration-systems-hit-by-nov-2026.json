@@ -1,0 +1,164 @@
+{
+  "id": "2026-11-03-european-supermarket-refrigeration-systems-hit-by",
+  "slug": "european-supermarket-refrigeration-systems-hit-by-nov-2026",
+  "publishedAt": "2026-11-03T03:28:08.050310Z",
+  "category": "technology",
+  "title": "Cyberattacks Target Supermarket Fridges Across Europe",
+  "subtitle": "Hackers are remotely changing temperature settings, causing widespread food spoilage and raising concerns about infrastructure security.",
+  "summary": {
+    "en": "Supermarkets across seven European countries have faced a new wave of cyberattacks targeting their refrigeration systems. Hackers remotely increased temperatures, leading to significant food waste and financial losses for major retailers. Experts suggest these attacks may be a form of state-sponsored sabotage intended to disrupt food supplies. While no group has claimed responsibility, the simplicity of the attacks makes them difficult to track. Authorities are now investigating how internet-connected appliances can be better protected from such interference.",
+    "zh": "歐洲七個國家的超市近期面臨一波針對冷藏系統的網路攻擊。駭客透過遠端調高溫度，導致大量食品腐壞，使大型零售商蒙受財務損失。專家認為，這些攻擊可能是國家支持的破壞行動，意在擾亂食品供應。儘管目前無組織承認犯案，但由於攻擊手法簡單，追蹤難度極高。當局正著手調查如何加強連網設備的防護，以避免此類干擾。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "A new wave of cyberattacks has hit supermarket refrigerators and freezers across seven European countries, causing serious problems for food retailers. According to The Guardian, these attacks involve hackers gaining remote access to appliance management software. Once inside the system, the hackers change the temperature settings, sometimes raising them to as high as 50 degrees Celsius. This causes food to spoil quickly, forcing stores to throw away large amounts of products.",
+      "zh": "近期一波網路攻擊襲擊了歐洲七個國家的超市冷藏與冷凍設備，為食品零售商帶來嚴重問題。根據《衛報》（The Guardian）報導，這些攻擊涉及駭客遠端入侵設備管理軟體。一旦進入系統，駭客便會更改溫度設定，有時甚至將溫度調高至攝氏五十度。這導致食品迅速腐壞，迫使店家必須丟棄大量產品。"
+    },
+    {
+      "id": "p2",
+      "en": "This is not the first time such an incident has occurred. The Guardian reports that these attacks follow similar events from three weeks ago, which primarily affected retailers in France. In those earlier cases, hackers also took control of internet-connected systems to overheat the equipment. The recent spread of these attacks to countries including Belgium, Sweden, Luxembourg, Finland, Ireland, and Estonia suggests that the issue is becoming more widespread and harder to manage.",
+      "zh": "這並非此類事件首次發生。《衛報》指出，這些攻擊與三週前發生的類似事件如出一轍，當時主要影響法國的零售商。在那些早期的案例中，駭客同樣是透過控制連網系統來讓設備過熱。近期這些攻擊擴散至比利時、瑞典、盧森堡、芬蘭、愛爾蘭與愛沙尼亞等國，顯示此問題正變得更加廣泛且難以控管。"
+    },
+    {
+      "id": "p3",
+      "en": "These events have caused significant concern among officials. The European Union has strongly criticized the attacks, describing them as a deliberate attempt to disrupt the food supply chain and shake the public's trust in the safety of their food. The impact is visible in stores, where empty shelves have become a common sight. In Sweden, workers at an ICA supermarket were recently seen disposing of large amounts of spoiled food, a scene that has been repeated in various locations across the continent.",
+      "zh": "這些事件已引起官員的高度擔憂。歐盟（European Union）強烈譴責這些攻擊，稱其為蓄意破壞食品供應鏈並動搖大眾對食品安全信任的行為。這種影響在商店中清晰可見，貨架空空如也已成為常見景象。在瑞典，當地 ICA 超市的員工近期被目擊正在清理大量腐壞食品，這樣的場景已在歐洲各地不斷重演。"
+    },
+    {
+      "id": "p4",
+      "en": "Experts are now trying to understand who is behind these actions and why they are doing it. According to Rafe Pilling, a senior director for threat intelligence at the cybersecurity company Sophos, there are two main possibilities. The first is that a lone hacker is carrying out these attacks for personal reasons. The second, and perhaps more likely, is that these attacks are a form of \"state-based signalling.\" This means a government might be using these hacks to demonstrate its power or to cause fear among the public.",
+      "zh": "專家目前正試圖釐清幕後黑手及其動機。根據網路安全公司 Sophos 的威脅情報資深總監皮林（Rafe Pilling）表示，主要有兩種可能性。第一種是單獨行動的駭客基於個人理由發動攻擊；第二種可能性或許更高，即這些攻擊是一種「國家級的示警」。這意味著某個政府可能正利用這些駭客行為來展示實力，或在公眾之間製造恐慌。"
+    },
+    {
+      "id": "p5",
+      "en": "While no specific group has claimed responsibility, some experts point toward potential involvement from hackers linked to Russia or China. Western intelligence leaders have warned that Moscow is currently involved in a campaign of sabotage across Europe that takes many different forms. The goal of such actions is often to create psychological pressure on large populations. However, because the attacks do not use complex malicious software, they are very difficult to trace. Pilling compared the method to simply \"wearing rubber gloves and messing with the switches,\" as the hackers do not leave behind a digital weapon that investigators can study.",
+      "zh": "雖然目前沒有特定組織出面負責，但部分專家指出，這些攻擊可能與俄羅斯或中國的駭客有關。西方情報首長曾警告，莫斯科當局目前正透過多種形式在歐洲進行破壞活動。這類行動的目的通常是為了對廣大民眾造成心理壓力。然而，由於這些攻擊並未使用複雜的惡意軟體，因此極難追蹤。皮林將此手法比喻為「戴著橡膠手套動手腳」，因為駭客並未留下可供調查人員研究的數位武器。"
+    },
+    {
+      "id": "p6",
+      "en": "This situation highlights a growing problem with modern technology. Many household and commercial appliances, such as ovens, washing machines, and central heating systems, are now connected to the internet to allow for remote control. While this makes life more convenient, it also creates new \"vulnerabilities\" — weaknesses that allow unauthorized people to gain access to a system. If these devices are not properly secured, they can be turned against their owners.",
+      "zh": "此情況凸顯了現代科技日益嚴重的問題。許多家用與商用電器，例如烤箱、洗衣機與中央暖氣系統，現在都為了遠端控制而連接至網路。雖然這讓生活更便利，但也創造了新的「漏洞」，即讓未經授權者得以進入系統的弱點。若這些設備未受到妥善保護，它們就可能被用來對付使用者。"
+    },
+    {
+      "id": "p7",
+      "en": "Similar incidents have been reported outside of Europe as well. The Guardian noted that in early August, a series of mysterious fridge malfunctions hit military bases in the United States. The Pentagon is currently investigating these events to determine if they were also the result of a cyberattack. These global reports suggest that the problem is not limited to one region or one type of business.",
+      "zh": "歐洲以外地區也傳出類似事件。《衛報》指出，八月初美國的軍事基地也發生了一系列神秘的冰箱故障事件。五角大廈（Pentagon）目前正在調查這些事件，以釐清是否同樣為網路攻擊所致。這些全球性的報導顯示，問題並不侷限於單一地區或單一產業。"
+    },
+    {
+      "id": "p8",
+      "en": "Looking ahead, the situation remains uncertain. Retailers are now under pressure to improve the security of their digital infrastructure to prevent further losses. Because the hackers do not seem to be looking for money—they are not using ransomware, which is a type of software that locks a computer until a payment is made—it is unlikely that the attacks will stop simply by paying a fee. Instead, the focus is shifting toward how to protect the \"internet of things,\" the network of everyday objects that are connected to the internet. As these systems become more common, the challenge of keeping them safe from those who wish to cause disruption will likely become a major priority for governments and businesses alike.",
+      "zh": "展望未來，局勢仍充滿不確定性。零售商目前面臨提升數位基礎設施安全以防止進一步損失的壓力。由於駭客似乎並非為了錢財——他們並未使用會鎖定電腦直到支付贖金的勒索軟體——因此單靠付費不太可能停止這些攻擊。目前的焦點正轉向如何保護「物聯網」（Internet of Things），即那些連接到網路的日常物品網路。隨著這些系統日益普及，如何保護它們免受意圖破壞者的干擾，很可能將成為政府與企業共同面臨的首要任務。"
+    }
+  ],
+  "wordCount": 768,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "wave",
+      "definitionEn": "A sudden increase or occurrence of a particular phenomenon.",
+      "definitionZh": "（某種現象的）一波、一陣。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作名詞（海浪），這裡指一系列事件的發生。文中：A new wave of cyberattacks has hit supermarket refrigerators and freezers across seven European countries, causing serious problems for food retailers."
+    },
+    {
+      "term": "shake",
+      "definitionEn": "To weaken or damage something, such as trust or confidence.",
+      "definitionZh": "動搖（信心、信任等）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作動詞（搖晃），這裡指抽象的動搖。文中：The European Union has strongly criticized the attacks, describing them as a deliberate attempt to disrupt the food supply chain and shake the public's trust in the safety of their food."
+    },
+    {
+      "term": "behind",
+      "definitionEn": "Responsible for or the cause of something.",
+      "definitionZh": "是……的幕後主使、造成……的原因。",
+      "partOfSpeech": "preposition",
+      "noteZh": "常見作介系詞（在……後面），這裡指事件的幕後黑手。文中：Experts are now trying to understand who is behind these actions and why they are doing it."
+    },
+    {
+      "term": "turned against",
+      "definitionEn": "To use something in a way that harms the person who owns or controls it.",
+      "definitionZh": "反過來對付（主人）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見作「反對某人」，這裡指設備被駭客利用來傷害原主人。文中：If these devices are not properly secured, they can be turned against their owners."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian World",
+      "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
+      "title": "Who is hacking Europe’s supermarket fridges and freezers, and why?",
+      "publishedAt": "2026-11-02T19:07:40Z"
+    }
+  ],
+  "story": {
+    "id": "cyber-attacks-on-european-supermarket-freezers",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "cyber-attacks-on-european-supermarket-freezers-nov-2026",
+        "title": "Cyber-attacks hit supermarket freezers across Europe",
+        "publishedAt": "2026-11-02T22:13:55.587839Z",
+        "category": "technology",
+        "summaryEn": "Supermarkets in seven European countries have suffered a series of cyber-attacks on their refrigeration systems. Hackers remotely changed the temperature settings, causing food to spoil and leading to significant financial losses. This incident follows a similar attack that affected stores in France last month. Experts believe these attacks show how vulnerable modern, internet-connected appliances can be to outside interference. European officials have condemned the actions as a deliberate attempt to disrupt the food supply chain."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the primary reason the hackers' activities are particularly difficult for investigators to trace?",
+      "options": {
+        "A": "The hackers are using advanced, state-of-the-art ransomware that encrypts all system logs.",
+        "B": "The methods used involve manual adjustments rather than leaving behind complex, studyable digital malware.",
+        "C": "The attacks are occurring simultaneously across seven different European countries, overwhelming local police.",
+        "D": "The appliances being targeted are too old to have internal memory or digital recording capabilities."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第五段，專家 Rafe Pilling 指出駭客並未使用複雜的惡意軟體，而是像「戴著橡膠手套去撥動開關」一樣，因為沒有留下可供調查的數位武器，導致追蹤極為困難。選項 A 錯誤，因為文章第八段明確提到駭客並未使用勒索軟體。選項 C 雖提到七個國家，但這並非難以追蹤的原因。選項 D 屬於無中生有的資訊，文章並未提到設備老舊問題。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, what can be inferred about the hackers' motivations?",
+      "options": {
+        "A": "They are primarily motivated by financial gain through the sale of stolen food products.",
+        "B": "They are likely individuals who are frustrated with the high prices of supermarket goods.",
+        "C": "They are likely aiming to cause social instability rather than seeking personal wealth.",
+        "D": "They are testing new security software to help companies identify their own system weaknesses."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第四段提到駭客動機可能是「國家級訊號（state-based signalling）」，第五段提到目的是製造「心理壓力」，且第八段明確指出駭客並非為了錢（未使用勒索軟體）。由此可推論其動機在於造成社會混亂與心理恐懼，而非經濟利益。選項 A 與文章第八段矛盾；選項 B 與 D 均缺乏文中證據支持，屬於過度推測。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the sixth paragraph, what does the word 'vulnerabilities' mean in the context of internet-connected appliances?",
+      "options": {
+        "A": "Physical parts of the machine that are prone to breaking or wearing out.",
+        "B": "The lack of emotional intelligence in modern automated household systems.",
+        "C": "Specific security flaws that allow outsiders to gain unauthorized control.",
+        "D": "The high cost of electricity required to keep these appliances connected to the network."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文中提到「vulnerabilities — weaknesses that allow unauthorized people to gain access to a system」，明確定義了這些漏洞是指系統安全上的弱點，讓未經授權者得以入侵。選項 A 雖然在一般語境下可用於指涉物理損壞，但在此處明顯是指網路安全漏洞；選項 B 與 D 均與文中定義的網路安全情境無關。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article?",
+      "options": {
+        "A": "Supermarkets must stop using internet-connected refrigerators to prevent food spoilage.",
+        "B": "The European Union is planning to ban all smart appliances to protect national security.",
+        "C": "Cyberattacks on everyday connected devices are becoming a serious, difficult-to-manage security challenge.",
+        "D": "Hackers from Russia and China are officially responsible for the recent food supply chain disruptions."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。本文旨在探討連網設備（物聯網）帶來的安全風險，透過歐洲與美國的案例，說明駭客如何利用這些設備的弱點進行破壞，並強調這已成為政府與企業需優先面對的重大安全挑戰。選項 A 過於極端，文中並未建議全面停用；選項 B 為錯誤資訊；選項 D 雖然提到專家懷疑，但並未給出「官方證實」的結論，因此不能視為文章的主旨。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
