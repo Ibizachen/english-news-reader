@@ -1,0 +1,158 @@
+{
+  "id": "2026-11-04-environmental-costs-of-ai-data-centers",
+  "slug": "environmental-costs-of-ai-data-centers-nov-2026",
+  "publishedAt": "2026-11-04T02:17:53.917121Z",
+  "category": "energy",
+  "title": "The High Energy Cost of the AI Revolution in the UK",
+  "subtitle": "New data center projects face criticism over their massive power needs and potential impact on climate goals.",
+  "summary": {
+    "en": "The UK government is pushing to build massive data centers to support the growth of artificial intelligence. These facilities require enormous amounts of electricity, putting significant pressure on the national power grid. Some developers are considering using gas power to meet their needs, which raises concerns about carbon emissions. Critics warn that this approach could undermine the country's goal of reaching net zero by 2050. The government is now balancing the need for economic growth with the urgent requirement to protect the environment.",
+    "zh": "英國政府正推動建造大型資料中心以支持人工智慧的成長。這些設施需要消耗大量電力，對國家電網造成顯著壓力。部分開發商考慮使用天然氣發電以滿足需求，這引發了對碳排放的擔憂。批評人士警告，此舉可能破壞該國在二零五零年達成淨零排放的目標。政府目前正試圖在經濟成長需求與保護環境的迫切要求之間取得平衡。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The UK is currently facing a difficult challenge as it tries to balance the growth of artificial intelligence with its climate goals. Recent reports highlight that the country’s push to become a leader in AI technology has led to a surge in demand for data centers. These facilities, which are essentially large warehouses filled with powerful computer servers, are essential for modern digital services like banking and streaming. However, the new generation of data centers needed for advanced AI requires much more energy than those built in the past.",
+      "zh": "英國目前面臨一項艱鉅的挑戰，試圖在人工智慧的發展與氣候目標之間取得平衡。近期報導指出，該國致力於成為人工智慧技術領頭羊的計畫，導致對資料中心的需求激增。這些設施本質上是裝滿強大電腦伺服器的大型倉庫，對於銀行業務和串流媒體等現代數位服務至關重要。然而，先進人工智慧所需的新一代資料中心，其耗電量遠高於過去建造的設施。"
+    },
+    {
+      "id": "p2",
+      "en": "In a major development, a new project has been announced to build one of the UK’s largest data centers at the site of the Drax power plant in North Yorkshire. According to The Guardian, this £20bn deal involves the infrastructure investor Brookfield and the AI platform Radiant. The project aims to begin operations by early 2028. While the company claims this will protect hundreds of jobs and strengthen the nation's AI capabilities, it has sparked debate because the Drax site is currently the UK’s largest producer of carbon dioxide. Drax generates electricity by burning woody biomass pellets, a process that remains controversial among environmental analysts.",
+      "zh": "在一項重大進展中，一項新計畫宣布將在北約克郡的德拉克斯（Drax）發電廠舊址，建造英國最大的資料中心之一。根據《衛報》（The Guardian）報導，這項價值兩百億英鎊的交易涉及基礎設施投資商布魯克菲爾德（Brookfield）與人工智慧平台 Radiant。該計畫目標於二零二八年初開始營運。儘管該公司聲稱此舉將保障數百個工作機會並強化國家的人工智慧實力，但由於德拉克斯發電廠目前是英國最大的二氧化碳排放源，此舉引發了爭議。德拉克斯透過燃燒木質生物質顆粒來發電，這項製程在環境分析師之間仍備受爭議。"
+    },
+    {
+      "id": "p3",
+      "en": "The energy demand for these projects is so high that it is testing the limits of the national grid. Ofgem, the energy market regulator, reported that developers are currently seeking connections that total 72 gigawatts. For context, the peak electricity demand for the entire country last year was only 45 gigawatts. Because the grid is already under such strain, some developers have been told they might have to wait up to 10 years for an upgrade. Nathan MacWhinnie from Ofgem noted that the scale of this demand is massive, with some projects requiring as much power as an entire city.",
+      "zh": "這些計畫的能源需求極高，已考驗著國家電網的極限。能源市場監管機構英國天然氣與電力市場辦公室（Ofgem）報告稱，開發商目前申請的電力連接總量高達七十二吉瓦。作為參考，去年全國尖峰電力需求僅為四十五吉瓦。由於電網已承受如此巨大的壓力，一些開發商被告知可能需要等待長達十年才能完成升級。Ofgem 的麥克惠尼（Nathan MacWhinnie）指出，這類需求規模龐大，部分計畫所需的電力甚至相當於一座城市。"
+    },
+    {
+      "id": "p4",
+      "en": "To address these delays, the UK government recently announced that data center developers would be allowed to generate their own power on-site if a grid connection is not immediately available. However, this policy has caused alarm among environmental groups. BBC research discovered that four major \"hyperscale\" data centers are already considering using gas-fired power plants to meet their electricity needs. If these facilities run at full capacity, they could produce more carbon emissions than the cities of Manchester, Liverpool, and Southampton combined.",
+      "zh": "為了應對這些延誤，英國政府近期宣布，若無法立即取得電網連接，將允許資料中心開發商在現場自行發電。然而，這項政策引起了環保團體的警覺。BBC 的研究發現，已有四座大型「超大規模」資料中心正考慮使用天然氣發電廠來滿足電力需求。若這些設施全速運轉，其產生的碳排放量可能超過曼徹斯特、利物浦與南安普敦三座城市的總和。"
+    },
+    {
+      "id": "p5",
+      "en": "This situation has created a clear disagreement between government officials and environmental advocates. The government maintains that data centers are fundamental to the economy, comparing them to essential infrastructure like railways and electricity networks. To manage this, the government introduced a British Data Centre Covenant, which requires companies to invest in local communities and protect water supplies in exchange for priority access to the power grid. Officials argue that this framework ensures the country benefits from these investments while keeping expectations clear for developers.",
+      "zh": "這種情況在政府官員與環保倡議人士之間造成了明顯的分歧。政府堅稱資料中心對經濟至關重要，將其比作鐵路與電力網路等基礎設施。為了管理此事，政府推出了「英國資料中心公約」，要求企業在獲得電網優先使用權的同時，必須投資當地社區並保護水源。官員主張，此框架能確保國家從這些投資中獲益，同時對開發商維持明確的預期。"
+    },
+    {
+      "id": "p6",
+      "en": "However, many experts remain skeptical. Toby Perkins, a Member of Parliament who chairs the Environmental Audit Select Committee, stated that a large increase in the use of natural gas for power is not a sustainable future. He argued that the government should not simply allow companies to do whatever they want to power their facilities, as this is unacceptable in the context of the UK’s legally binding climate targets. Oliver Hayes, from the environmental charity Global Action Plan, added that using gas to power these centers would place a heavy burden on local communities.",
+      "zh": "然而，許多專家仍持懷疑態度。身兼環境審計專責委員會主席的國會議員柏金斯（Toby Perkins）表示，大幅增加天然氣發電並非永續的未來。他主張政府不應僅是允許企業為了供電而隨心所欲，因為在英國具有法律約束力的氣候目標背景下，這是無法接受的。環保慈善機構「全球行動計畫」（Global Action Plan）的海耶斯（Oliver Hayes）補充說，使用天然氣為這些中心供電，將對當地社區造成沉重負擔。"
+    },
+    {
+      "id": "p7",
+      "en": "As the UK moves forward, the tension between technological ambition and environmental responsibility will likely continue. While the government hopes that these data centers will drive economic growth and reindustrialization, the reality of the energy crisis remains a significant hurdle. The government has promised that the Drax site will play a more limited role in the future, but the pressure to provide enough electricity for the AI boom suggests that the path to net zero carbon emissions by 2050 will be far from easy. For now, the country must decide how to support the digital future without sacrificing its commitment to the environment.",
+      "zh": "隨著英國持續前進，技術雄心與環境責任之間的緊張關係可能會持續存在。儘管政府希望這些資料中心能推動經濟成長與再工業化，但能源危機的現實仍是一大障礙。政府已承諾德拉克斯發電廠在未來將扮演較有限的角色，但為了滿足人工智慧熱潮所需的電力壓力顯示，要在二零五零年達成淨零碳排放的道路絕非易事。目前，該國必須決定如何在不犧牲環境承諾的情況下，支持數位化的未來。"
+    }
+  ],
+  "wordCount": 712,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "surge",
+      "definitionEn": "A sudden and powerful upward movement or increase.",
+      "definitionZh": "激增、遽增。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（湧現），這裡作名詞用。文中：Recent reports highlight that the country’s push to become a leader in AI technology has led to a surge in demand for data centers."
+    },
+    {
+      "term": "strain",
+      "definitionEn": "A state of pressure or tension resulting from overwork or excessive demands.",
+      "definitionZh": "壓力、負擔。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（拉緊、過濾），這裡作名詞用。文中：Because the grid is already under such strain, some developers have been told they might have to wait up to 10 years for an upgrade."
+    },
+    {
+      "term": "hurdle",
+      "definitionEn": "A problem or difficulty that must be overcome.",
+      "definitionZh": "障礙、難題。",
+      "partOfSpeech": "noun",
+      "noteZh": "原意指田徑比賽中的「跨欄」，這裡引申為抽象的困難。文中：While the government hopes that these data centers will drive economic growth and reindustrialization, the reality of the energy crisis remains a significant hurdle."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Business",
+      "url": "https://www.theguardian.com/business/2026/nov/03/uk-drax-power-station-ai-datacentre",
+      "title": "UK’s most polluting power plant could power country’s largest AI datacentre",
+      "publishedAt": "2026-11-03T11:55:28Z"
+    },
+    {
+      "name": "BBC Science & Environment",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgrvx6ekl2o?at_medium=RSS&at_campaign=rss",
+      "title": "AI data centres could undermine UK's emissions goals",
+      "publishedAt": "2026-11-03T06:27:17Z"
+    }
+  ],
+  "story": {
+    "id": "ai-data-centers-and-climate-pollution-concerns",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "environmental-impact-of-ai-data-centers-nov-2026",
+        "title": "The High Energy Cost of Artificial Intelligence: A New UK Project",
+        "publishedAt": "2026-11-03T22:13:43.627053Z",
+        "category": "energy",
+        "summaryEn": "A new deal aims to build a massive data center at the site of the UK's largest power plant. The project promises to boost the country's AI capabilities and create jobs. However, the use of biomass energy at the site has caused concerns about carbon emissions. The government is currently balancing the need for digital infrastructure with strict climate targets. This development follows similar debates about data center energy use in other regions."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is the primary reason some data center developers might face a 10-year wait for power?",
+      "options": {
+        "A": "The government is prioritizing railway and electricity network infrastructure over data centers.",
+        "B": "The total energy demand requested by developers far exceeds the current capacity of the national grid.",
+        "C": "The Drax power plant is currently undergoing renovations that limit its ability to supply electricity.",
+        "D": "New environmental regulations require data centers to build their own on-site power plants first."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據第三段，Ofgem 報告指出開發商申請的電力連接總計達 72 吉瓦，遠超過全國去年 45 吉瓦的尖峰需求，導致電網承載力不足。選項 A 錯誤，政府將數據中心視為與鐵路同等重要的基礎設施，並非優先級問題；選項 C 錯誤，文章未提及 Drax 正在進行裝修而導致延誤；選項 D 錯誤，自行發電是為了應對延誤的解決方案，而非導致延誤的原因。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the UK government's stance on the conflict between AI growth and climate goals?",
+      "options": {
+        "A": "The government believes that climate targets are less important than the immediate economic benefits of AI.",
+        "B": "The government is willing to compromise on its net-zero commitments to ensure the AI industry succeeds.",
+        "C": "The government views data centers as essential economic drivers and is trying to balance their needs with environmental oversight.",
+        "D": "The government intends to shut down all coal-based power plants to force data centers to use renewable energy."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第五段與最後一段，政府將數據中心比作關鍵基礎設施，認為其對經濟至關重要，同時引入「英國數據中心公約」（British Data Centre Covenant）來管理企業對社區和環境的責任，顯示政府試圖在兩者間尋求平衡。選項 A 與 B 過於極端，文章並未表示政府放棄氣候目標；選項 D 錯誤，文章提到的是使用天然氣而非關閉煤電廠，且未提及強制使用再生能源。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fourth paragraph, what does the word 'alarm' mean as it is used in the context of the new policy?",
+      "options": {
+        "A": "A mechanical warning device used to signal a fire or emergency.",
+        "B": "A state of sudden worry or fear regarding a potential negative outcome.",
+        "C": "An official government announcement about a change in environmental policy.",
+        "D": "The act of providing financial incentives to companies to build power plants."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在此語境中，'alarm' 指的是因政策可能導致環境問題（如碳排放增加）而引發的擔憂或恐慌。選項 A 是名詞的字面義，指警報器，不符合語境；選項 C 將其誤解為政策宣導；選項 D 則完全扭曲了詞義。作者使用 'alarm' 是為了強調環保團體對政府允許數據中心自行發電政策的強烈負面反應。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "Which statement best summarizes the central conflict presented in the article?",
+      "options": {
+        "A": "The UK's AI industry is failing because it cannot secure enough funding for new data centers.",
+        "B": "Environmental activists are successfully blocking all new data center projects in North Yorkshire.",
+        "C": "The UK is struggling to reconcile its ambition to become an AI leader with its commitment to reducing carbon emissions.",
+        "D": "The national power grid is being upgraded to handle the massive energy requirements of future AI technologies."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章開頭即點出英國面臨的挑戰，即如何平衡 AI 發展與氣候目標。隨後各段皆圍繞此核心矛盾展開：能源需求過高、電網壓力、自行發電帶來的碳排放疑慮，以及政府與環保人士的辯論。選項 A 與事實不符；選項 B 錯誤，項目仍在進行中；選項 D 僅是解決方案的一部分，並非文章探討的核心矛盾與緊張關係。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
