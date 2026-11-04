@@ -1,0 +1,173 @@
+{
+  "id": "2026-11-04-cyberattacks-target-european-refrigeration-systems",
+  "slug": "cyberattacks-target-european-refrigeration-systems-nov-2026",
+  "publishedAt": "2026-11-04T22:13:40.521046Z",
+  "category": "technology",
+  "title": "Cyberattacks on European Cooling Systems Target Vital Medical Supplies",
+  "subtitle": "Hackers move beyond supermarkets to attack blood storage facilities as European nations scramble for a collective response.",
+  "summary": {
+    "en": "A series of cyberattacks targeting refrigeration systems has expanded from supermarkets to include medical facilities in France. Hackers successfully accessed control systems at blood storage sites, forcing temperatures to dangerous levels. While technicians prevented the loss of medical products, the incident marks a worrying escalation in the ongoing digital campaign across Europe. Officials are now working together to understand the source of these attacks and improve security. Experts suggest these actions could be a demonstration of power by state-sponsored actors.",
+    "zh": "一系列針對冷藏系統的網路攻擊已從超市擴大至法國的醫療設施。駭客成功入侵了血液儲存站點的控制系統，強行將溫度調至危險水準。雖然技術人員成功防止了醫療產品的損失，但這起事件標誌著歐洲各地持續發生的數位攻擊行動出現了令人擔憂的升級。官員們正共同努力釐清攻擊來源並改善安全防護。專家認為，這些行動可能是由國家支持的行為者在展示其力量。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "A wave of cyberattacks targeting refrigeration systems across Europe has taken a serious turn. According to The Guardian, hackers have now targeted France’s national blood service, known as the EFS. This organization is responsible for collecting and distributing blood, plasma, and other medical products to nearly 2,000 hospitals. The attack, which took place overnight on Monday, involved hackers gaining control of systems used to keep these vital medical supplies cold. The attackers raised the temperature and defrosting settings to very high levels, putting the stored products at risk of spoiling.",
+      "zh": "一波針對歐洲各地冷藏系統的網路攻擊已演變成嚴重事態。根據《衛報》（The Guardian）報導，駭客目前已將目標鎖定在法國的國家血液服務機構，即法國血液中心（EFS）。該組織負責收集並分發血液、血漿及其他醫療產品給近兩千家醫院。這起發生在週一晚間的攻擊事件，駭客取得了用於維持這些重要醫療物資低溫環境的系統控制權。攻擊者將溫度與除霜設定調至極高，導致儲存的產品面臨變質風險。"
+    },
+    {
+      "id": "p2",
+      "en": "Fortunately, the EFS reported that their alarm systems worked correctly. This allowed technicians to step in and fix the temperature issues before any blood products were ruined. The EFS noted that they were not the direct target of the attack; instead, the hackers targeted the cold storage rooms run by their private contractors. These products, which are essential for transfusions and medicine manufacturing, were moved to other safe locations. The French national cybersecurity agency, known as ANSSI, and the health ministry have been informed, and monitoring of all equipment has been strengthened.",
+      "zh": "幸運的是，法國血液中心表示其警報系統運作正常，這讓技術人員得以在血液產品損壞前介入並修復溫度問題。該中心指出，他們並非攻擊的直接目標，駭客鎖定的是由其私人承包商營運的冷藏室。這些對於輸血與藥物製造至關重要的產品，已被移至其他安全地點。法國國家資訊系統安全局（ANSSI）與衛生部已獲悉此事，並已加強對所有設備的監控。"
+    },
+    {
+      "id": "p3",
+      "en": "This incident is the latest in a series of digital attacks that have caused chaos across the continent. Earlier this week, reports showed that supermarkets in nearly a dozen European countries, including Germany, Italy, the UK, and Romania, suffered similar attacks. In these cases, hackers remotely increased the temperatures in freezers, causing millions of euros worth of food to spoil. Last month, as many as 700 supermarkets in France were hit by similar problems. Additionally, a regional branch of the Crédit Mutuel bank in France reported that it had also been targeted by a cyberattack on Wednesday.",
+      "zh": "這起事件是近期一系列導致歐洲大陸陷入混亂的數位攻擊中的最新案例。本週稍早的報導顯示，包括德國、義大利、英國與羅馬尼亞在內，近十個歐洲國家的超市都遭受了類似攻擊。在這些案例中，駭客遠端調高了冷凍櫃的溫度，造成價值數百萬歐元的食品腐壞。上個月，法國多達七百家超市也遭遇了類似問題。此外，法國農業信貸銀行（Crédit Mutuel）的一個區域分行也通報，週三時同樣遭到了網路攻擊。"
+    },
+    {
+      "id": "p4",
+      "en": "Experts believe that these attacks are possible because many modern devices are connected to the internet. Commercial refrigeration systems can often be monitored and controlled from a distance. If these systems are not updated with the latest security software, or “patches” to fix weaknesses, they remain open to hackers. The Pentagon is also looking into a similar series of mysterious fridge malfunctions that happened at six US military bases back in August.",
+      "zh": "專家認為，這些攻擊之所以可能發生，是因為許多現代設備都連接到了網際網路。商業冷藏系統通常可以遠端監控與操作。如果這些系統未更新最新的安全軟體，或是未安裝修補程式來修正漏洞，它們就會對駭客門戶大開。五角大廈（Pentagon）目前也在調查八月份發生在六個美國軍事基地的一系列神秘冰箱故障事件。"
+    },
+    {
+      "id": "p5",
+      "en": "European governments are now taking the situation very seriously. Following emergency talks with intelligence officials, the Italian government is working with other nations to find a solution. Thomas Regnier, a spokesperson for the European Union, stated that the bloc’s agencies are holding urgent meetings with national authorities to create a collective response. He emphasized that these are not isolated incidents and that European countries must work together to be more resilient, or better prepared, against such digital threats.",
+      "zh": "歐洲各國政府正嚴肅看待此局勢。在與情報官員進行緊急會談後，義大利政府正與其他國家合作尋求解決方案。歐盟發言人雷尼耶（Thomas Regnier）表示，歐盟機構正與各國當局召開緊急會議，以制定集體應對措施。他強調，這些並非單一孤立事件，歐洲國家必須團結一致，以提升對抗此類數位威脅的韌性，也就是更完善的防禦準備。"
+    },
+    {
+      "id": "p6",
+      "en": "While no one has claimed responsibility for these attacks, and the motive remains unclear, many officials are concerned about the possibility of government-sponsored “hybrid attacks.” This term refers to a mix of traditional military action and non-military methods, such as cyber warfare, used to cause instability. Some experts believe these attacks are linked to the aftermath of Russia’s 2022 invasion of Ukraine, with Western intelligence officials suggesting that Moscow is running a campaign of sabotage in Europe. Sabotage is the act of deliberately damaging or destroying something to stop it from working properly.",
+      "zh": "儘管目前無人出面為這些攻擊負責，且動機尚不明朗，但許多官員對於政府支持的「混合戰」可能性感到擔憂。此術語指的是結合傳統軍事行動與非軍事手段（如網路戰）來製造不穩定的行為。部分專家認為，這些攻擊與俄羅斯二零二二年入侵烏克蘭後的局勢有關，西方情報官員暗示莫斯科當局正在歐洲發動破壞行動。所謂破壞行動，是指蓄意損毀或摧毀某物，使其無法正常運作。"
+    },
+    {
+      "id": "p7",
+      "en": "Rafe Pilling, a senior director at the cybersecurity company Sophos, told The Guardian that there are two main theories about who is behind this. He suggested that it is either a “state-based” action—meaning a government is using these attacks to show off its power and ability to cause damage—or the work of a lone-wolf hacker acting alone. As the investigation continues, authorities are urging companies to secure their internet-connected equipment to prevent further damage to food and medical supplies. For now, the priority remains protecting critical infrastructure from further interference.",
+      "zh": "網路安全公司 Sophos 的資深總監皮林（Rafe Pilling）告訴《衛報》，關於幕後黑手有兩種主要理論。他認為這要麼是「國家級」行動，意即某個政府利用這些攻擊來炫耀其力量與破壞能力，要麼是獨狼駭客的個人行為。隨著調查持續進行，當局正敦促企業確保其連網設備的安全，以防止食品與醫療物資遭受進一步損害。目前，首要任務仍是保護關鍵基礎設施免受進一步干擾。"
+    }
+  ],
+  "wordCount": 682,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "turn",
+      "definitionEn": "A change in the nature or direction of a situation.",
+      "definitionZh": "轉變、轉折。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（轉彎），這裡作名詞，指情況的變化。文中：A wave of cyberattacks targeting refrigeration systems across Europe has taken a serious turn."
+    },
+    {
+      "term": "step in",
+      "definitionEn": "To become involved in a difficult situation in order to help or improve it.",
+      "definitionZh": "介入、插手（以解決問題）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "字面意思容易誤解，這裡指技術人員介入處理問題。文中：This allowed technicians to step in and fix the temperature issues before any blood products were ruined."
+    },
+    {
+      "term": "run",
+      "definitionEn": "To be in charge of or manage a business or system.",
+      "definitionZh": "經營、管理、運作。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作動詞（跑），這裡指管理或運作設施。文中：the EFS noted that they were not the direct target of the attack; instead, the hackers targeted the cold storage rooms run by their private contractors."
+    },
+    {
+      "term": "hit",
+      "definitionEn": "To affect someone or something in a negative way.",
+      "definitionZh": "打擊、受災、遭受（負面影響）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作動詞（打擊），這裡指遭受攻擊或災難。文中：Last month, as many as 700 supermarkets in France were hit by similar problems."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian World",
+      "url": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe",
+      "title": "French blood banks hacked in latest cyber-attack on Europe",
+      "publishedAt": "2026-11-04T13:22:28Z"
+    }
+  ],
+  "story": {
+    "id": "cyber-attacks-on-european-supermarket-freezers",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "cyberattacks-on-european-food-supply-chains-nov-2026",
+        "title": "Cyberattacks on Food Systems Spread Across Europe and the UK",
+        "publishedAt": "2026-11-04T02:17:53.917121Z",
+        "category": "technology",
+        "summaryEn": "A series of cyberattacks has hit supermarket refrigeration systems across at least 10 European countries. The attacks involve hackers remotely raising freezer temperatures, leading to significant food waste. UK meat suppliers have also reported being caught in the crossfire of these digital incidents. Security experts warn that many businesses are using old technology that is easy to hack. Officials are now urging companies to update their systems to prevent future disruptions to the food supply."
+      },
+      {
+        "slug": "cyberattacks-on-european-supermarket-refrigeration-nov-2026",
+        "title": "Cyberattacks on European Supermarket Refrigeration Spread to UK Food Suppliers",
+        "publishedAt": "2026-11-03T22:13:43.627053Z",
+        "category": "technology",
+        "summaryEn": "Food suppliers in the UK are now facing cyberattacks after a wave of incidents targeted supermarket freezers across Europe. Hackers remotely increased temperatures in refrigeration units, putting food supplies at risk. The UK's National Cyber Security Centre is working with affected companies to address these security gaps. Experts warn that many businesses are using old, unprotected technology that is easy for hackers to access. While the current impact remains minimal, officials say this is a sign of a growing threat to global supply chains."
+      },
+      {
+        "slug": "cyber-attacks-on-european-supermarket-freezers-nov-2026",
+        "title": "Cyber-attacks hit supermarket freezers across Europe",
+        "publishedAt": "2026-11-02T22:13:55.587839Z",
+        "category": "technology",
+        "summaryEn": "Supermarkets in seven European countries have suffered a series of cyber-attacks on their refrigeration systems. Hackers remotely changed the temperature settings, causing food to spoil and leading to significant financial losses. This incident follows a similar attack that affected stores in France last month. Experts believe these attacks show how vulnerable modern, internet-connected appliances can be to outside interference. European officials have condemned the actions as a deliberate attempt to disrupt the food supply chain."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What prevented the blood products at the French EFS from being destroyed during the cyberattack?",
+      "options": {
+        "A": "The hackers were unable to successfully access the internal temperature controls.",
+        "B": "The organization's monitoring systems alerted technicians to the temperature changes.",
+        "C": "The French national cybersecurity agency (ANSSI) shut down the internet connection immediately.",
+        "D": "The private contractors had already moved the medical supplies to a secure location before the attack."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，EFS 的警報系統（alarm systems）正常運作，讓技術人員能及時介入並修復溫度問題，防止血液產品損壞。選項 A 錯誤，因為駭客確實取得了控制權；選項 C 錯誤，因為 ANSSI 是在事後才被通知；選項 D 錯誤，是因為產品在發現問題後才被移走，並非事前預防。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the security of modern commercial refrigeration systems?",
+      "options": {
+        "A": "They are specifically designed to be immune to remote cyberattacks.",
+        "B": "They are often vulnerable because they lack necessary security updates.",
+        "C": "They are primarily targeted by hackers because they contain valuable financial data.",
+        "D": "They are more secure in the United States military bases than in European supermarkets."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第四段，專家指出這些設備若未更新最新的安全軟體（patches）來修復弱點，就會暴露在駭客威脅下。選項 A 與文意相反；選項 C 錯誤，因為駭客目標是造成破壞而非竊取金融資料；選項 D 無法從文中推論，文中僅提到美國軍事基地也發生了類似故障，並未比較安全性優劣。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fifth paragraph, what does the word 'resilient' mean?",
+      "options": {
+        "A": "Able to recover quickly from difficult conditions.",
+        "B": "Strictly following established legal regulations.",
+        "C": "Capable of preventing any form of digital communication.",
+        "D": "Highly dependent on external intelligence agencies."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。文中提到歐洲國家必須變得更「resilient」，以便對抗數位威脅，這在語境中是指面對攻擊時能展現韌性並快速恢復。選項 B 與法律規範無關；選項 C 錯誤，因為重點在於防禦而非切斷通訊；選項 D 雖然提到合作，但 resilience 強調的是自身抵抗與復原的能力，而非對他人的依賴。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article?",
+      "options": {
+        "A": "A detailed history of how refrigeration technology has evolved over the last decade.",
+        "B": "A report on the specific financial losses suffered by supermarkets in Germany and Italy.",
+        "C": "An overview of a series of cyberattacks on refrigeration systems and the resulting security concerns.",
+        "D": "A guide on how private companies can protect themselves from lone-wolf hackers."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。全文的核心在於報導近期針對歐洲冷藏系統的連環駭客攻擊，並探討其對醫療與食品供應的影響，以及政府與專家的應對與擔憂。選項 A 內容過於狹隘且非文章重點；選項 B 僅為文章提及的細節之一，不足以涵蓋全文；選項 D 錯誤，因為文章並未提供具體的防護操作指南，僅提及應加強設備安全。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
