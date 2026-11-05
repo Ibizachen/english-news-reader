@@ -1,0 +1,185 @@
+{
+  "id": "2026-11-05-cyberattacks-target-european-medical",
+  "slug": "cyberattacks-target-european-medical-nov-2026",
+  "publishedAt": "2026-11-05T02:23:22.940099Z",
+  "category": "technology",
+  "title": "Cyberattacks Target Medical Refrigeration Systems Across Europe",
+  "subtitle": "Hackers attempt to spoil vital blood supplies as a wave of digital attacks hits cooling systems across the continent.",
+  "summary": {
+    "en": "Recent cyberattacks have moved from targeting supermarkets to hitting medical facilities in France. Hackers gained remote access to refrigeration systems used to store blood and plasma. Fortunately, alarm systems alerted staff, preventing any damage to medical supplies. European officials are now working together to investigate these dangerous incidents. Experts are concerned that these attacks may be part of a larger campaign of sabotage.",
+    "zh": "近期的網路攻擊已從鎖定超市轉向法國的醫療設施。駭客遠端入侵了用於儲存血液與血漿的冷藏系統。所幸警報系統及時通知工作人員，防止了醫療物資受損。歐洲官員目前正攜手調查這些危險事件。專家擔憂，這些攻擊可能是更大規模破壞行動的一部分。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "A series of dangerous cyberattacks has expanded from commercial supermarkets to critical medical infrastructure in France. The French Blood Establishment (EFS), which manages blood and plasma supplies for over 1,900 hospitals, reported that hackers recently gained access to the control systems of its refrigeration units. By changing the temperature settings, the attackers attempted to ruin vital medical products, but the attempt was stopped before any harm occurred.",
+      "zh": "一系列危險的網路攻擊已從商業超市擴散至法國的關鍵醫療基礎設施。負責管理超過一千九百家醫院血液與血漿供應的法國血液機構（EFS）表示，駭客近期入侵了其冷藏設備的控制系統。攻擊者試圖透過更改溫度設定來破壞重要的醫療物資，但該企圖在造成任何損害前已被攔截。"
+    },
+    {
+      "id": "p2",
+      "en": "According to the EFS, the attack occurred overnight on a Monday. Hackers managed to reach the control systems at three cold storage sites. Reports from the French newspaper Le Canard Enchaine suggested that the attackers tried to raise the temperatures to as high as 110 degrees Celsius. If successful, this would have destroyed the blood and plasma stored inside. However, the EFS confirmed that their monitoring and alarm systems detected the changes immediately. This allowed technicians to intervene, move the supplies to safe locations, and prevent any loss of life-saving products.",
+      "zh": "根據法國血液機構的說法，這起攻擊發生在週一的夜間。駭客成功進入了三個冷藏地點的控制系統。法國報紙《鴨鳴報》（Le Canard Enchaine）報導指出，攻擊者試圖將溫度調高至攝氏一百一十度。若計畫得逞，儲存於內部的血液與血漿將會全數報銷。然而，法國血液機構證實，其監控與警報系統立即偵測到了溫度變化，這讓技術人員得以介入，將物資移至安全地點，並防止了這些救命物資的損失。"
+    },
+    {
+      "id": "p3",
+      "en": "This incident is part of a much larger wave of cyberattacks that has hit Europe over the past few weeks. Before the attack on the blood banks, hackers targeted refrigeration systems in supermarkets across nearly a dozen countries, including Germany, Italy, the UK, and the Netherlands. These attacks have caused millions of euros in damage by spoiling large amounts of frozen food. In one notable case, the Dutch supermarket chain Ahold Delhaize estimated that a previous attack in October could reduce their sales by as much as 250 million euros.",
+      "zh": "這起事件是過去幾週席捲歐洲的一波大規模網路攻擊的一部分。在針對血庫的攻擊之前，駭客已鎖定包括德國、義大利、英國與荷蘭在內，近十二個國家的超市冷藏系統。這些攻擊導致大量冷凍食品腐壞，造成數百萬歐元的損失。其中一個顯著案例是荷蘭連鎖超市業者阿霍德德爾海茲（Ahold Delhaize），該公司估計十月份發生的一起攻擊可能導致其銷售額減少高達二點五億歐元。"
+    },
+    {
+      "id": "p4",
+      "en": "Authorities are now working to understand how these systems were compromised. Coolworld, the company that provided the refrigeration equipment for the French blood banks, stated that the security weakness was linked to a component from a third-party supplier. This suggests that the hackers are exploiting vulnerabilities in the software that allows these machines to be controlled over the internet. As more devices become connected to the web, they become easier for hackers to reach if they are not properly protected with security updates.",
+      "zh": "當局目前正致力於釐清這些系統是如何遭到入侵的。為法國血庫提供冷藏設備的酷世界公司（Coolworld）表示，安全漏洞與一家第三方供應商提供的組件有關。這顯示駭客正利用軟體漏洞，遠端操控這些連網機器。隨著越來越多設備連接至網路，若未透過安全更新妥善保護，這些設備將更容易遭到駭客入侵。"
+    },
+    {
+      "id": "p5",
+      "en": "European officials are treating these events with high priority. Following emergency talks in Italy, a spokesperson for the European Union, Thomas Regnier, stated that the bloc is holding urgent discussions with national authorities to create a collective response. While no group has claimed responsibility for the attacks, and the motive remains unclear, the scale of the incidents has raised significant concerns among security experts. Some officials worry that these actions could be a form of \"hybrid attack\"—a strategy that uses non-military methods like cyber-sabotage to cause chaos and weaken a country.",
+      "zh": "歐洲官員正高度重視這些事件。在義大利舉行緊急會談後，歐盟發言人雷尼爾（Thomas Regnier）表示，歐盟正與各國當局進行緊急討論，以制定集體應對措施。儘管目前沒有任何組織出面承認犯案，動機也尚不明朗，但事件的規模已引起安全專家的高度擔憂。部分官員擔心這些行動可能是一種「混合戰」——即利用網路破壞等非軍事手段來製造混亂並削弱國家的策略。"
+    },
+    {
+      "id": "p6",
+      "en": "Rafe Pilling, a senior director at the cybersecurity firm Sophos, noted that these attacks might be a way for a state-based actor to demonstrate their power, or perhaps the work of a lone hacker. This theory aligns with warnings from Western intelligence officials who have suggested that there is an ongoing campaign of sabotage in Europe following the 2022 invasion of Ukraine. Similar mysterious malfunctions were also reported at military bases in the United States earlier this year, which the Pentagon is currently investigating.",
+      "zh": "網路安全公司 Sophos 的資深總監皮林（Rafe Pilling）指出，這些攻擊可能是國家級行為者展示實力的方式，也可能是單獨駭客的所作所為。此理論與西方情報官員的警告不謀而合，他們認為自二零二二年烏克蘭戰爭爆發以來，歐洲一直面臨持續性的破壞行動。今年稍早，美國軍事基地也傳出類似的神秘故障事件，五角大廈目前正對此進行調查。"
+    },
+    {
+      "id": "p7",
+      "en": "For now, the French government has reinforced the monitoring of all medical refrigeration equipment. The Health Ministry confirmed that remote access to the affected units has been disabled to prevent further tampering. While the immediate danger to the blood supply has been managed, the incidents serve as a stark reminder of how vulnerable modern infrastructure is to digital threats. As the investigation continues, European nations are under pressure to improve their cybersecurity defenses to ensure that essential services, from food distribution to medical care, remain safe from future interference.",
+      "zh": "目前，法國政府已加強對所有醫療冷藏設備的監控。衛生部證實，已關閉受影響設備的遠端存取功能，以防止進一步的竄改。雖然血液供應的立即性危險已解除，但這些事件嚴正提醒了現代基礎設施在數位威脅面前有多麼脆弱。隨著調查持續進行，歐洲各國面臨提升網路安全防禦的壓力，以確保從食品配送到醫療照護等必要服務，免受未來的干擾。"
+    }
+  ],
+  "wordCount": 654,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "ruin",
+      "definitionEn": "To damage something so badly that it loses its value or usefulness.",
+      "definitionZh": "毀壞、破壞（使其失去價值或功能）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（廢墟），這裡作動詞用。文中：By changing the temperature settings, the attackers attempted to ruin vital medical products, but the attempt was stopped before any harm occurred."
+    },
+    {
+      "term": "hit",
+      "definitionEn": "To affect something in a negative or harmful way.",
+      "definitionZh": "（負面地）影響、打擊。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（打擊）或物理上的擊打，這裡指負面影響。文中：This incident is part of a much larger wave of cyberattacks that has hit Europe over the past few weeks."
+    },
+    {
+      "term": "spoiling",
+      "definitionEn": "To cause food to become unfit for eating.",
+      "definitionZh": "使（食物）腐壞、變質。",
+      "partOfSpeech": "verb (present participle)",
+      "noteZh": "常見作動詞（寵壞），這裡指食物腐壞。文中：These attacks have caused millions of euros in damage by spoiling large amounts of frozen food."
+    },
+    {
+      "term": "compromised",
+      "definitionEn": "To have been made vulnerable or insecure due to a security breach.",
+      "definitionZh": "（系統或安全）遭破壞、洩漏、被入侵。",
+      "partOfSpeech": "verb (past participle)",
+      "noteZh": "常見作名詞（妥協），這裡指安全受損。文中：Authorities are now working to understand how these systems were compromised."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/2026/nov/04/france-national-blood-service-hack-cyber-attack-europe",
+      "title": "French blood banks hacked in latest cyber-attack on Europe",
+      "publishedAt": "2026-11-04T13:22:28Z"
+    },
+    {
+      "name": "Deutsche Welle (DW) Top",
+      "url": "https://www.dw.com/en/french-blood-banks-targeted-by-refrigerator-cyberattack/a-79857981?maca=en-rss-en-top-1022-rdf",
+      "title": "French blood banks targeted by refrigerator cyberattack",
+      "publishedAt": "2026-11-04T17:57:00Z"
+    },
+    {
+      "name": "MedPage Today",
+      "url": "https://www.medpagetoday.com/hematologyoncology/prostatecancer/123710",
+      "title": "Biden's Cancer Update; Big Election Night for Doctors; Blood Bank Cyberattack",
+      "publishedAt": "2026-11-04T14:38:31Z"
+    }
+  ],
+  "story": {
+    "id": "cyber-attacks-on-european-supermarket-freezers",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "cyberattacks-target-european-refrigeration-systems-nov-2026",
+        "title": "Cyberattacks on European Cooling Systems Target Vital Medical Supplies",
+        "publishedAt": "2026-11-04T22:13:40.521046Z",
+        "category": "technology",
+        "summaryEn": "A series of cyberattacks targeting refrigeration systems has expanded from supermarkets to include medical facilities in France. Hackers successfully accessed control systems at blood storage sites, forcing temperatures to dangerous levels. While technicians prevented the loss of medical products, the incident marks a worrying escalation in the ongoing digital campaign across Europe. Officials are now working together to understand the source of these attacks and improve security. Experts suggest these actions could be a demonstration of power by state-sponsored actors."
+      },
+      {
+        "slug": "cyber-attacks-on-european-supermarket-freezers-nov-2026",
+        "title": "Cyber-attacks hit supermarket freezers across Europe",
+        "publishedAt": "2026-11-02T22:13:55.587839Z",
+        "category": "technology",
+        "summaryEn": "Supermarkets in seven European countries have suffered a series of cyber-attacks on their refrigeration systems. Hackers remotely changed the temperature settings, causing food to spoil and leading to significant financial losses. This incident follows a similar attack that affected stores in France last month. Experts believe these attacks show how vulnerable modern, internet-connected appliances can be to outside interference. European officials have condemned the actions as a deliberate attempt to disrupt the food supply chain."
+      },
+      {
+        "slug": "cyberattacks-on-european-food-supply-chains-nov-2026",
+        "title": "Cyberattacks on Food Systems Spread Across Europe and the UK",
+        "publishedAt": "2026-11-04T02:17:53.917121Z",
+        "category": "technology",
+        "summaryEn": "A series of cyberattacks has hit supermarket refrigeration systems across at least 10 European countries. The attacks involve hackers remotely raising freezer temperatures, leading to significant food waste. UK meat suppliers have also reported being caught in the crossfire of these digital incidents. Security experts warn that many businesses are using old technology that is easy to hack. Officials are now urging companies to update their systems to prevent future disruptions to the food supply."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What specific action did the hackers take to sabotage the French Blood Establishment's supplies?",
+      "options": {
+        "A": "They disabled the alarm systems to prevent staff from noticing the intrusion.",
+        "B": "They modified the temperature settings of the refrigeration units.",
+        "C": "They stole sensitive medical data from the hospital's central database.",
+        "D": "They cut off the internet connection to the hospital's control systems."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第一段與第二段，駭客入侵了 EFS 的冷藏控制系統，並透過更改溫度設定（changing the temperature settings）試圖破壞血液與血漿。選項 A 錯誤，因為警報系統反而成功偵測到異常；選項 C 文中未提及竊取資料；選項 D 駭客是利用網路控制系統，而非切斷連線。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, what is the most likely reason these refrigeration attacks are considered a security risk?",
+      "options": {
+        "A": "The hackers are primarily interested in stealing money from supermarkets.",
+        "B": "The companies involved have refused to pay for necessary software updates.",
+        "C": "Many modern devices are connected to the internet without sufficient security measures.",
+        "D": "The refrigeration units were intentionally designed by the manufacturer to be easily hacked."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第四段，Coolworld 指出漏洞與第三方供應商的組件有關，且文章提到隨著更多設備連接網路（connected to the web），若缺乏妥善保護，就容易成為目標。選項 A 雖然超市有損失，但這不解釋為何是「安全風險」；選項 B 文中未提及公司拒絕付費；選項 D 文中並未暗示設備是故意設計成容易被駭的。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fifth paragraph, what does the word 'hybrid' imply in the context of a 'hybrid attack'?",
+      "options": {
+        "A": "An attack that uses a mix of digital and non-military methods to cause disruption.",
+        "B": "An attack that is carried out by both humans and automated artificial intelligence.",
+        "C": "An attack that targets both commercial businesses and government facilities.",
+        "D": "An attack that is launched simultaneously from multiple countries."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。文中將「hybrid attack」定義為一種使用非軍事手段（non-military methods）如網路破壞（cyber-sabotage）來製造混亂的策略。這說明了它是結合了網路技術與傳統破壞手段的混合型攻擊。選項 B、C、D 雖然在文中相關情境出現過，但並非「hybrid」一詞在此處的定義。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article regarding recent cyberattacks in Europe?",
+      "options": {
+        "A": "Supermarkets must stop using internet-connected refrigeration to avoid financial loss.",
+        "B": "The French government has successfully identified the hackers responsible for the blood bank attack.",
+        "C": "Cyberattacks on critical infrastructure are becoming a serious and widespread threat to European stability.",
+        "D": "The European Union is planning to launch a military retaliation against the unidentified hackers."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。全文從法國血液機構的案例出發，延伸到歐洲各地的超市攻擊，並討論了這些事件對現代基礎設施（如醫療與食品供應）的威脅，最後強調了歐洲各國需加強網路防禦的迫切性。選項 A 過於狹隘；選項 B 與文中「no group has claimed responsibility」衝突；選項 D 文中僅提到討論共同回應，並未提及軍事報復。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
