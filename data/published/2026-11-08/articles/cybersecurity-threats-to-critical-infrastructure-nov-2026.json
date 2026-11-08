@@ -1,0 +1,149 @@
+{
+  "id": "2026-11-08-cybersecurity-threats-to-critical-infrastructure",
+  "slug": "cybersecurity-threats-to-critical-infrastructure-nov-2026",
+  "publishedAt": "2026-11-08T01:25:16.427398Z",
+  "category": "technology",
+  "title": "The New Reality: Why Our Everyday Technology is Becoming a Target",
+  "subtitle": "From supermarket freezers to airline flights, cyber-attacks are changing how we think about safety.",
+  "summary": {
+    "en": "Recent cyber-attacks across Europe have targeted everyday technology like supermarket freezers. These incidents are part of a growing trend known as greyzone aggression, where hostile groups use non-military methods to cause disruption. Experts warn that our reliance on internet-connected devices creates new vulnerabilities for society. Governments are now responding by launching campaigns to help citizens prepare for emergencies. Building national resilience is becoming a top priority for many countries.",
+    "zh": "近期歐洲各地發生的網路攻擊，鎖定了超市冷凍櫃等日常科技設備。這些事件是「灰色地帶侵略」趨勢的一部分，敵對團體利用非軍事手段製造混亂。專家警告，我們對連網裝置的依賴為社會帶來了新的脆弱點。各國政府正透過發起宣導活動，協助公民為緊急狀況做好準備。建立國家韌性已成為許多國家的首要任務。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "In recent weeks, a strange and worrying series of events has taken place across Europe. Supermarket freezers from Finland to Ireland suddenly stopped working. Instead of keeping food cold, they began to heat up, reaching temperatures as high as 50 degrees Celsius. The result was a massive loss of food worth millions of euros. While it looked like a mechanical failure, it was actually a cyber-attack. These freezers were connected to the internet to be more efficient, but that same connection made them easy targets for hackers.",
+      "zh": "近幾週以來，歐洲各地發生了一連串奇怪且令人擔憂的事件。從芬蘭到愛爾蘭，超市的冷凍櫃突然停止運作。它們非但沒有保持食物低溫，反而開始升溫，溫度甚至高達攝氏五十度，導致價值數百萬歐元的食物嚴重損毀。雖然這看起來像是機械故障，但實際上是一場網路攻擊。這些冷凍櫃為了提升效率而連接網路，但同樣的連線也讓它們成為駭客輕易下手的目標。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Guardian, these incidents are examples of what experts call \"greyzone aggression.\" This term describes hostile acts by countries or groups that stop just short of a full-scale war. Instead of using soldiers or tanks, these attackers use technology to cause trouble and spread fear. The goal is to disrupt daily life and make people feel unsafe. By targeting things that people rely on every day, these hackers hope to destabilize society.",
+      "zh": "根據《衛報》（The Guardian）報導，這些事件是專家所謂「灰色地帶侵略」的案例。這個詞彙描述的是國家或團體所進行的敵對行為，其程度尚未達到全面戰爭的規模。這些攻擊者不使用士兵或坦克，而是利用科技來製造混亂並散布恐懼。其目標在於擾亂日常生活，讓民眾感到不安。透過鎖定人們日常依賴的事物，這些駭客試圖破壞社會穩定。"
+    },
+    {
+      "id": "p3",
+      "en": "This is not the only way technology is being used to cause problems. Recently, hackers also tried to interfere with cooling systems at blood banks in France. At the same time, a series of fake bomb threats forced airplanes across Europe to change their paths, make emergency landings, or fly with military escorts. These events follow a pattern of suspicious activity seen over the last two years, including damage to underwater cables, interference with GPS signals, and the use of drones near airports.",
+      "zh": "這並非科技被用來製造問題的唯一方式。近期，駭客也試圖干擾法國血庫的冷卻系統。與此同時，一連串虛假的炸彈威脅迫使歐洲各地的飛機改變航線、進行緊急降落，或是在軍機護航下飛行。這些事件遵循了過去兩年觀察到的可疑活動模式，包括海底電纜受損、全球定位系統訊號受到干擾，以及在機場附近使用無人機。"
+    },
+    {
+      "id": "p4",
+      "en": "Who is behind these attacks? It is often difficult to know for sure. While some Russian hacktivists claimed responsibility for the freezer incidents, it is possible that other countries or even small groups of independent hackers are involved. The Guardian noted that a major attack on Transport for London two years ago was carried out by two teenagers. Because the internet allows people to hide their identities, it is hard for authorities to find out exactly who is responsible.",
+      "zh": "誰是這些攻擊的幕後黑手？通常很難確切得知。雖然一些俄羅斯的駭客行動主義者聲稱對冷凍櫃事件負責，但也有可能是其他國家，甚至是小型獨立駭客團體所為。《衛報》指出，兩年前針對倫敦交通局（Transport for London）的一場重大攻擊，就是由兩名青少年所執行。由於網路讓使用者能隱藏身分，當局很難查出究竟是誰該負責。"
+    },
+    {
+      "id": "p5",
+      "en": "These attacks highlight a major weakness in our modern world. Almost everything we use, from home appliances to national power grids, is now connected to the internet. While this makes our lives more convenient, it also creates new \"vulnerabilities\" — or weak points that can be exploited. In Sweden, some stores were hit because they had not connected their freezers to the national systems that have better security. These businesses have now learned a difficult lesson about the importance of protecting their digital equipment.",
+      "zh": "這些攻擊凸顯了現代世界的一大弱點。我們使用的幾乎所有東西，從家用電器到國家電網，現在都連接到網路上。雖然這讓生活更便利，但也產生了新的「脆弱點」，也就是可以被利用的弱點。在瑞典，有些商店受害是因為它們沒有將冷凍櫃連接到安全性較高的國家系統。這些企業現在學到了一個慘痛的教訓，那就是保護數位設備的重要性。"
+    },
+    {
+      "id": "p6",
+      "en": "In response to these growing threats, governments are starting to focus more on \"resilience.\" Resilience is the ability of a society to prepare for, handle, and recover from disasters. For example, the UK government recently launched a campaign called \"Be Ready.\" This project encourages citizens to prepare for emergencies, whether they are caused by climate change or state-sponsored terrorism. The campaign suggests that families should keep extra food and supplies at home in case of a crisis.",
+      "zh": "為了應對這些日益增加的威脅，各國政府開始更加重視「韌性」。韌性是指社會預備、處理災難並從中復原的能力。例如，英國政府近期發起了一項名為「做好準備」（Be Ready）的活動。這項計畫鼓勵公民為緊急狀況做好準備，無論這些狀況是由氣候變遷還是國家支持的恐怖主義所引起。該活動建議家庭應在家中儲備額外的食物與物資，以備不時之需。"
+    },
+    {
+      "id": "p7",
+      "en": "While some ministers were worried that people might laugh at these suggestions, similar programs have existed for a long time in other parts of the world. Cities like Tokyo and San Francisco have taught their residents how to prepare for earthquakes for decades. Their advice is simple: make a plan, gather supplies, and get trained. Sweden has also been a leader in this area, distributing a detailed booklet to every home since 2018 that explains what citizens should do in case of war or a national crisis.",
+      "zh": "雖然有些部長擔心民眾可能會嘲笑這些建議，但類似的計畫在世界其他地方早已行之有年。像東京和舊金山這樣的城市，數十年來一直在教導居民如何為地震做好準備。他們的建議很簡單：制定計畫、收集物資並接受訓練。瑞典也是這方面的領頭羊，自二零一八年起，瑞典政府便向每個家庭發放詳細手冊，說明公民在戰爭或國家危機時應採取的行動。"
+    },
+    {
+      "id": "p8",
+      "en": "These incidents show that we can no longer just hope for the best. As our world becomes more connected, the risk of cyber-attacks will likely continue to grow. Experts suggest that the best way to handle this is to stop thinking of these events as isolated accidents. Instead, we must see them as part of a larger challenge. By improving our digital security and being better prepared at home, societies can become stronger and less likely to be frightened by these \"ghostly\" attacks. The era of assuming that our daily technology is always safe is over; now, the focus must be on building a more prepared and resilient future.",
+      "zh": "這些事件顯示，我們不能再只是抱持樂觀的期待。隨著世界連結程度加深，網路攻擊的風險很可能會持續增加。專家建議，處理此問題的最佳方式，是停止將這些事件視為孤立的意外。相反地，我們必須將其視為更大挑戰的一部分。透過提升數位安全並在家中做好更充分的準備，社會可以變得更強大，也較不容易被這些「幽靈般」的攻擊所嚇倒。認為日常科技永遠安全的時代已經結束；現在，重點必須放在建立一個準備更充分且具備韌性的未來。"
+    }
+  ],
+  "wordCount": 738,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "stop just short of",
+      "definitionEn": "To almost reach a certain point or action, but not quite do it.",
+      "definitionZh": "差一點就達到某種程度（但未完全發生）。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這是一個固定搭配，容易誤以為是「停止」的意思。文中：This term describes hostile acts by countries or groups that stop just short of a full-scale war."
+    },
+    {
+      "term": "hit",
+      "definitionEn": "To be negatively affected by something, such as an attack or a disaster.",
+      "definitionZh": "遭受（攻擊、災難等）影響。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作「打擊」的物理動作，這裡指受到攻擊或災難的影響。文中：In Sweden, some stores were hit because they had not connected their freezers to the national systems that have better security."
+    },
+    {
+      "term": "hope for the best",
+      "definitionEn": "To expect or wish for a positive outcome without taking active steps to prevent a negative one.",
+      "definitionZh": "抱持樂觀態度，但未採取預防措施。",
+      "partOfSpeech": "idiom",
+      "noteZh": "這是一個常見的習慣用語，意指消極地等待好結果。文中：These incidents show that we can no longer just hope for the best."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/07/freezer-meltdowns-airline-hoaxes-greyzone-aggression-europe",
+      "title": "Freezer meltdowns and airline hoaxes are a taste of things to come. Hoping for the best is no longer an option | Elisabeth Braw",
+      "publishedAt": "2026-11-07T05:00:02Z"
+    }
+  ],
+  "story": {
+    "id": "cybersecurity-threats-to-critical-infrastructure",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What was the specific reason that some stores in Sweden were successfully targeted by hackers?",
+      "options": {
+        "A": "They were using outdated freezer models that lacked internet connectivity.",
+        "B": "They failed to connect their freezers to national systems with stronger security.",
+        "C": "They were located too far away from the main power grid to receive updates.",
+        "D": "They intentionally left their systems open to test their own security measures."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第五段，文中明確提到這些商店之所以受害，是因為它們沒有將冷凍櫃連接到具有更好安全防護的國家系統中。選項 A 錯誤，因為文章提到的是連接網路導致脆弱點，而非缺乏連接。選項 C 與 D 在文中皆未提及，屬於無中生有的干擾選項。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, what can be inferred about the nature of modern cyber-attacks?",
+      "options": {
+        "A": "They are almost always carried out by professional soldiers from foreign nations.",
+        "B": "They are exclusively focused on stealing money from large financial institutions.",
+        "C": "They are often designed to create psychological impacts rather than just physical damage.",
+        "D": "They are easily prevented by simply turning off all internet-connected devices."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第二段，這種「灰色地帶侵略」的目的在於擾亂日常生活並散播恐懼，讓社會感到不安。這顯示攻擊不僅是為了物理破壞，更具備心理戰的性質。選項 A 錯誤，因為文章提到駭客身分多元（如青少年）；選項 B 錯誤，文章強調的是社會基礎設施；選項 D 雖然在邏輯上能防禦，但並非現代社會可行的現實解決方案。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the author mean by the term 'ghostly' attacks?",
+      "options": {
+        "A": "Attacks that are difficult to trace and identify the source of.",
+        "B": "Attacks that only occur late at night when people are sleeping.",
+        "C": "Attacks that are caused by supernatural or paranormal phenomena.",
+        "D": "Attacks that are completely harmless and cause no real damage."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。文中將攻擊形容為「ghostly」（幽靈般的），對應第四段提到的駭客隱藏身分、難以追蹤的特性。選項 B 錯誤，時間非主要考量；選項 C 錯誤，這並非超自然現象；選項 D 錯誤，文章開頭即提到這些攻擊造成了數百萬歐元的損失，絕非無害。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message the author wants to convey regarding modern technology and security?",
+      "options": {
+        "A": "We should completely abandon internet-connected appliances to ensure our safety.",
+        "B": "Governments are solely responsible for protecting citizens from all cyber threats.",
+        "C": "The convenience of modern technology is not worth the risks it poses to society.",
+        "D": "As our world becomes more interconnected, we must prioritize digital security and societal resilience."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。文章的主旨在於強調現代社會高度依賴網路，導致脆弱性增加，因此我們不能再心存僥倖，而應透過提升數位安全與強化社會韌性（resilience）來應對未來挑戰。選項 A 過於極端；選項 B 忽略了個人與社會準備的重要性；選項 C 並非作者結論，作者強調的是「準備」而非「放棄」。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}

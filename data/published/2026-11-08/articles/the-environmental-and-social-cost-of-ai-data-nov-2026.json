@@ -1,0 +1,166 @@
+{
+  "id": "2026-11-08-the-environmental-and-social-cost-of-ai-data",
+  "slug": "the-environmental-and-social-cost-of-ai-data-nov-2026",
+  "publishedAt": "2026-11-08T01:25:16.427398Z",
+  "category": "energy",
+  "title": "The Global Pushback Against AI Data Centers",
+  "subtitle": "As the demand for artificial intelligence grows, communities and governments are questioning the heavy environmental and social costs of these massive facilities.",
+  "summary": {
+    "en": "The rapid growth of artificial intelligence is driving a massive need for data centers, which consume vast amounts of electricity and water. Across the globe, from the UK to Southeast Asia and the United States, projects are facing delays and public opposition. Developers are struggling to meet their initial promises regarding renewable energy usage. Meanwhile, local communities are raising concerns about the impact of these facilities on their neighborhoods and resources. Governments are now forced to balance the need for economic growth with the reality of limited energy and infrastructure.",
+    "zh": "人工智慧的快速成長正推動對資料中心的龐大需求，而這些設施會消耗大量的電力與水資源。從英國到東南亞及美國，全球各地的計畫正面臨延宕與公眾反對。開發商在兌現再生能源使用承諾方面正陷入困境。與此同時，當地社區也對這些設施對其鄰里與資源的影響表示擔憂。政府現在被迫在經濟成長需求與能源及基礎設施有限的現實之間取得平衡。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The rapid rise of artificial intelligence (AI) has created a global race to build massive data centers. These facilities are the physical homes for the powerful computers that run AI software. However, as these projects expand, they are facing a wave of challenges. From the UK to Southeast Asia and the United States, the promise of a digital future is hitting the reality of limited energy, water, and public support.",
+      "zh": "人工智慧的快速崛起，在全球掀起了一場興建大型資料中心的競賽。這些設施是運作人工智慧軟體之強大電腦的實體所在地。然而，隨著這些計畫不斷擴張，它們正面臨一波挑戰。從英國到東南亞，再到美國，數位未來的願景正撞上能源、水資源及公眾支持有限的現實。"
+    },
+    {
+      "id": "p2",
+      "en": "In the UK, a major project in Lanarkshire has recently changed its plans. DataVita, a company that previously promised to power its AI development with renewable energy, has admitted that the site will now rely entirely on the National Grid. The Guardian reports that the company had once claimed it would use 1GW of green energy—enough to power a small nuclear reactor. While the company maintains that its commitment to renewable energy remains, it now says the site will be \"fully grid served.\" This shift highlights a growing problem for the UK’s AI strategy, which relies on building large data centers to boost the economy. Experts like Kat Jones, director of the charity Action to Protect Rural Scotland, argue that these \"hyperscale\" data centers simply cannot run on renewable power alone, calling such claims \"hyperbolic\" or exaggerated.",
+      "zh": "在英國，位於拉納克郡（Lanarkshire）的一項重大計畫近期變更了規劃。先前承諾以再生能源驅動其人工智慧開發的 DataVita 公司，已承認該場址現在將完全依賴國家電網。衛報（The Guardian）報導指出，該公司曾聲稱將使用 1GW 的綠色能源，這足以供應一座小型核反應爐。儘管該公司堅稱其對再生能源的承諾不變，但現在表示該場址將「完全由電網供電」。此一轉變凸顯了英國人工智慧策略面臨日益嚴重的問題，該策略仰賴興建大型資料中心來提振經濟。諸如「保護蘇格蘭鄉村行動」（Action to Protect Rural Scotland）慈善機構總監凱特·瓊斯（Kat Jones）等專家認為，這些「超大規模」資料中心根本無法僅靠再生能源運作，並稱此類說法是「誇大其詞」。"
+    },
+    {
+      "id": "p3",
+      "en": "Similar tensions are appearing in Southeast Asia, a region that has become a surprise center for data center growth. In Thailand, the government recently paused construction on 49 projects and stopped approving 117 others. According to The Guardian, this move came after growing concerns about the lack of clear rules and monitoring. Indonesia is also facing issues, with officials halting construction on some sites due to missing permits and incomplete environmental studies. While countries like Malaysia have seen a massive increase in capacity, the rapid expansion is putting a heavy strain on local resources, including electricity and water supplies.",
+      "zh": "類似的緊張局勢也出現在東南亞，該地區已成為資料中心成長的意外中心。在泰國，政府近期暫停了 49 項工程的建設，並停止批准另外 117 項計畫。根據衛報報導，此舉是在各界對缺乏明確規範與監管的擔憂日益加劇後所採取。印尼也面臨問題，官員因許可證缺失及環境評估不完整，已叫停部分場址的建設。儘管馬來西亞等國的容量大幅增加，但這種快速擴張正對當地的電力與水資源供應造成沉重負擔。"
+    },
+    {
+      "id": "p4",
+      "en": "In the United States, the opposition is coming directly from local communities. In Maryland, a $5 billion data center project was recently blocked after a resident named Taylor Frazier McCollum led a successful campaign against it. According to NPR, Frazier McCollum became concerned about the potential for water pollution and the use of diesel generators near where people live. Her efforts, which included a petition with over 25,000 signatures, helped lead to a series of \"moratoriums\"—temporary bans on new construction—across the county. This case shows how data centers are forcing people to become active in local politics, often joining forces with environmentalists and neighbors who are worried about their rising electric bills.",
+      "zh": "在美國，反對聲浪直接來自當地社區。在馬里蘭州，一項價值 50 億美元的資料中心計畫，在居民泰勒·弗雷澤·麥科勒姆（Taylor Frazier McCollum）領導成功抗爭後遭到阻擋。根據美國公共廣播電台（NPR）報導，弗雷澤·麥科勒姆對居住地附近可能發生的水污染以及柴油發電機的使用感到擔憂。她的行動包括發起一份超過 2 萬 5 千人連署的請願書，促使該郡實施了一系列「暫緩令」，即對新建設實施臨時禁令。此案例顯示資料中心如何迫使民眾積極參與地方政治，他們經常與環保人士及擔心電費上漲的鄰居聯手。"
+    },
+    {
+      "id": "p5",
+      "en": "These conflicts highlight a difficult trade-off for governments. In Prince George’s County, Maryland, some officials worry that blocking data centers will hurt the local economy. With the loss of other major businesses and jobs, the county faces a budget deficit, and data centers are seen as a way to bring in tax money. Council member Wanika Fisher noted that the county must find a way to manage its economic future, even as residents push back against the environmental risks of these massive buildings.",
+      "zh": "這些衝突凸顯了政府面臨的艱難取捨。在馬里蘭州喬治王子郡（Prince George’s County），一些官員擔心阻擋資料中心會損害當地經濟。隨著其他大型企業與就業機會的流失，該郡面臨預算赤字，而資料中心被視為引進稅收的途徑。郡議員瓦妮卡·費雪（Wanika Fisher）指出，即便居民反對這些龐大建築帶來的環境風險，該郡仍必須設法管理其經濟未來。"
+    },
+    {
+      "id": "p6",
+      "en": "As the industry matures, the \"arms race\" to build data centers seems to be hitting a pause. The initial excitement surrounding AI infrastructure is being replaced by a more careful look at the costs. Developers are finding that they cannot simply promise green energy or ignore the concerns of the people living nearby. The challenge for the future is whether these companies can find a way to support the growth of AI without putting too much pressure on the environment or the communities that host them. For now, the global trend is clear: the era of easy, unchecked growth for data centers is coming to an end, as the world demands more accountability and better planning.",
+      "zh": "隨著產業趨於成熟，興建資料中心的「軍備競賽」似乎正在暫停。圍繞人工智慧基礎設施的最初興奮感，正被對成本更審慎的檢視所取代。開發商發現，他們不能僅僅承諾使用綠色能源，或忽視附近居民的擔憂。未來的挑戰在於，這些公司能否在不對環境或主辦社區造成過大壓力下，找到支持人工智慧成長的方法。目前，全球趨勢顯而易見：隨著世界要求更高的問責制與更好的規劃，資料中心輕鬆且不受限制的成長時代即將結束。"
+    }
+  ],
+  "wordCount": 698,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "hitting",
+      "definitionEn": "To reach a specific state or encounter a situation, often a difficult one.",
+      "definitionZh": "達到（某種狀態）或遭遇（某種情況），常用於負面或困難的處境。",
+      "partOfSpeech": "verb (present participle)",
+      "noteZh": "常見作「打、撞擊」，這裡指遭遇現實困難。文中：the promise of a digital future is hitting the reality of limited energy, water, and public support."
+    },
+    {
+      "term": "strain",
+      "definitionEn": "A severe pressure or burden on something.",
+      "definitionZh": "壓力、負擔。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（拉緊），這裡作名詞指資源被過度消耗的壓力。文中：the rapid expansion is putting a heavy strain on local resources, including electricity and water supplies."
+    },
+    {
+      "term": "joining forces",
+      "definitionEn": "To work together with someone to achieve a common goal.",
+      "definitionZh": "聯合起來、攜手合作。",
+      "partOfSpeech": "idiom",
+      "noteZh": "字面意思容易理解，但作為固定搭配詞組使用。文中：This case shows how data centers are forcing people to become active in local politics, often joining forces with environmentalists and neighbors who are worried about their rising electric bills."
+    },
+    {
+      "term": "push back",
+      "definitionEn": "To show opposition or resistance to a plan or idea.",
+      "definitionZh": "反對、抵制、抗拒。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見作「推回去」，這裡指對政策或計畫表達反對意見。文中：Council member Wanika Fisher noted that the county must find a way to manage its economic future, even as residents push back against the environmental risks of these massive buildings."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/07/lanarkshire-ai-datacentre-datavita-chapelhall-national-grid-renewable-energy",
+      "title": "Lanarkshire AI datacentre to fully rely on National Grid despite renewables claim",
+      "publishedAt": "2026-11-07T10:00:08Z"
+    },
+    {
+      "name": "NPR News",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
+      "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
+      "publishedAt": "2026-11-07T10:00:00Z"
+    },
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia",
+      "title": "The datacentre arms race hits pause in south-east Asia",
+      "publishedAt": "2026-11-07T10:00:07Z"
+    }
+  ],
+  "story": {
+    "id": "ai-data-centers-and-climate-pollution-concerns",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "environmental-costs-of-ai-data-centers-nov-2026",
+        "title": "The High Energy Cost of the AI Revolution in the UK",
+        "publishedAt": "2026-11-04T02:17:53.917121Z",
+        "category": "energy",
+        "summaryEn": "The UK government is pushing to build massive data centers to support the growth of artificial intelligence. These facilities require enormous amounts of electricity, putting significant pressure on the national power grid. Some developers are considering using gas power to meet their needs, which raises concerns about carbon emissions. Critics warn that this approach could undermine the country's goal of reaching net zero by 2050. The government is now balancing the need for economic growth with the urgent requirement to protect the environment."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the current status of DataVita's project in Lanarkshire, UK, regarding its energy source?",
+      "options": {
+        "A": "It has successfully transitioned to using 1GW of dedicated green energy.",
+        "B": "It has abandoned its original plan for exclusive renewable power and will use the National Grid.",
+        "C": "It has been forced to close down due to a lack of renewable energy sources.",
+        "D": "It is currently waiting for government approval to build a small nuclear reactor."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第二段明確指出，DataVita 原本承諾使用再生能源，但現在承認該站點將「完全依賴國家電網（fully grid served）」。選項 A 錯誤，因為公司已放棄原先的綠能承諾。選項 C 錯誤，文中提到的是計畫調整而非關閉。選項 D 錯誤，文中提到 1GW 是用來比喻能源需求量，而非公司要蓋核反應爐。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the relationship between local governments and data center developers?",
+      "options": {
+        "A": "Governments are universally opposed to data centers due to environmental concerns.",
+        "B": "Developers prioritize community feedback over economic growth in their planning.",
+        "C": "Governments face a conflict between the need for tax revenue and the concerns of local citizens.",
+        "D": "The economic benefits of data centers are so significant that they always override environmental regulations."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第五段，馬里蘭州 Prince George’s County 的官員擔心阻擋資料中心會導致經濟損失與財政赤字，但同時居民又強烈反對其帶來的環境風險。這顯示政府正陷入「經濟利益」與「居民訴求」之間的兩難。選項 A 過於絕對；選項 B 與文中提到的開發商忽視社區擔憂的現象不符；選項 D 錯誤，因為文中提到許多計畫已被暫停或封鎖。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the phrase 'arms race' imply in the context of the data center industry?",
+      "options": {
+        "A": "A competitive and rapid struggle to build as many data centers as possible.",
+        "B": "A military conflict between nations over digital infrastructure.",
+        "C": "A collaborative effort to standardize data center technology globally.",
+        "D": "A legal battle between corporations and environmental activists."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。文中提到資料中心產業的「arms race（軍備競賽）」是指各國與各企業為了在人工智慧領域領先，爭相建造大量資料中心的激烈競爭狀態。選項 B 錯誤，這並非真實的軍事戰爭。選項 C 錯誤，文中描述的是競爭而非合作。選項 D 雖然提到法律抗爭，但「軍備競賽」一詞強調的是建設速度與規模的競爭，而非法律訴訟。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article regarding the global growth of AI data centers?",
+      "options": {
+        "A": "Data centers are the most efficient way to solve global energy shortages.",
+        "B": "The rapid expansion of data centers is facing significant obstacles as the industry enters a period of greater scrutiny.",
+        "C": "Local communities are solely responsible for the failure of new AI infrastructure projects.",
+        "D": "Governments have successfully created clear, uniform regulations for all data center construction."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。整篇文章探討了全球資料中心建設如何從最初的快速擴張，轉變為面臨能源、環境與社區阻力的挑戰，最後一段總結了這個「輕鬆成長」的時代即將結束，取而代之的是對問責與規劃的需求。選項 A 與文意相反；選項 C 過度簡化了問題；選項 D 錯誤，因為文中提到許多地區（如東南亞）仍面臨監管不明確的問題。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
