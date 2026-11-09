@@ -1,0 +1,196 @@
+{
+  "id": "series-space-debris-management-part-5",
+  "slug": "space-debris-management-part-5",
+  "publishedAt": "2026-11-09T07:42:07.037756Z",
+  "category": "technology",
+  "title": "The Future: Active Debris Removal and Beyond",
+  "subtitle": "As space debris threatens our orbital infrastructure, new technologies and legal frameworks are racing to clean up the skies.",
+  "byline": "Adapted from reporting by Wired and international space policy journals, 2024",
+  "summary": {
+    "en": "This article examines how Active Debris Removal (ADR) technologies are being developed to clean up Earth's orbit. It also highlights the difficult legal questions surrounding who has the right to move or destroy another nation's space objects. Finally, it discusses the urgent need for international cooperation to manage orbital traffic effectively.",
+    "zh": "本文探討了如何開發「主動碎片清除」（ADR）技術來清理地球軌道。文章同時強調了關於誰有權移動或摧毀他國太空物體的法律難題。最後，本文討論了國際合作對於有效管理軌道交通的迫切需求。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "According to reporting by Wired, the accumulation of space debris has reached a critical point where humanity must transition from passive monitoring to active intervention. Active Debris Removal (ADR) is a set of emerging technologies designed to capture and de-orbit defunct satellites and spent rocket stages that currently pose a collision risk to operational spacecraft. Experts note that these missions involve complex robotic systems, such as harpoons, nets, or robotic arms, which are intended to grab floating junk and pull it down into the atmosphere to burn up. This shift represents a major technological leap for the space industry, moving beyond simple observation to direct environmental management in orbit.",
+      "zh": "根據《連線》（Wired）雜誌的報導，太空碎片的堆積已達到關鍵點，人類必須從被動監測轉向主動干預。「主動碎片清除」（ADR）是一系列新興技術，旨在捕獲並讓失效的衛星及廢棄火箭殘骸脫離軌道，這些殘骸目前對運作中的太空船構成了碰撞風險。專家指出，這些任務涉及複雜的機器人系統，例如魚叉、網子或機器手臂，旨在抓住漂浮的垃圾並將其拉入大氣層燒毀。這種轉變代表了太空產業的重大技術飛躍，從單純的觀測轉向軌道上的直接環境管理。"
+    },
+    {
+      "id": "p2",
+      "en": "The European Space Agency (ESA) has commissioned the ClearSpace-1 mission, which the agency describes as the first to remove a defunct object from orbit, according to ESA official project documentation. This mission serves as a critical test case for the feasibility of capturing non-cooperative targets, which are objects that were not designed to be docked with or retrieved. By demonstrating that a robotic craft can successfully rendezvous with and secure a piece of debris, the ESA hopes to pave the way for a commercial market in space cleaning services. This project is widely viewed as a necessary step to prevent the Kessler Syndrome, a scenario where collisions create a chain reaction of more debris.",
+      "zh": "根據歐洲太空總署（ESA）的官方計畫文件，該署已委託 ClearSpace-1 任務，並將其描述為首個從軌道移除失效物體的任務。該任務是測試捕獲「非合作目標」可行性的關鍵案例，這些目標是指當初設計時未考慮對接或回收的物體。透過展示機器人太空船能成功與碎片會合並將其固定，ESA 希望為太空清潔服務的商業市場鋪路。該計畫被廣泛視為防止「凱斯勒現象」（Kessler Syndrome）的必要步驟，這是一種碰撞會引發連鎖反應產生更多碎片的災難性情境。"
+    },
+    {
+      "id": "p3",
+      "en": "However, the legal landscape is far more complicated than the engineering challenges, as reported by various space law journals. Professor Joanne Gabrynowicz, a leading space law expert, stated that current international treaties, such as the 1967 Outer Space Treaty, do not clearly define the right to remove debris owned by another nation. Because a state retains permanent jurisdiction and control over its space objects, removing a piece of foreign debris without explicit permission could be interpreted as an act of aggression or an illegal seizure of property. This creates a significant hurdle for international companies that want to clean up large swaths of space but fear legal repercussions.",
+      "zh": "然而，根據各類太空法期刊的報導，法律層面的複雜程度遠高於工程挑戰。太空法權威專家喬安·加布里諾維奇（Joanne Gabrynowicz）教授指出，現行的國際條約（如 1967 年的《外太空條約》）並未明確定義移除他國所有碎片的權利。由於國家對其太空物體擁有永久的管轄權與控制權，未經明確許可而移除外國碎片，可能會被解釋為侵略行為或非法扣押財產。這為那些想要清理大片太空區域卻擔心法律後果的國際公司造成了巨大的障礙。"
+    },
+    {
+      "id": "p4",
+      "en": "A 2024 report by the United Nations Office for Outer Space Affairs (UNOOSA) found that the lack of a standardized definition for 'space debris' versus 'valuable space assets' further complicates international cooperation. Without a clear global consensus, countries are often hesitant to share data or allow foreign entities to approach their defunct hardware, according to the report. This atmosphere of distrust prevents the formation of a unified global strategy for cleaning up the most dangerous orbital paths. Experts suggest that until international law evolves to address these ownership issues, the most dangerous pieces of debris will likely remain in orbit, posing a persistent threat to global satellite networks.",
+      "zh": "聯合國外太空事務廳（UNOOSA）2024 年的一份報告發現，缺乏對「太空碎片」與「有價值的太空資產」的標準化定義，進一步複雜化了國際合作。報告指出，由於缺乏明確的全球共識，各國對於分享數據或允許外國實體接近其失效硬體通常持保留態度。這種不信任的氛圍阻礙了針對清理最危險軌道路徑的全球統一戰略的形成。專家建議，在國際法演進到能處理這些所有權問題之前，最危險的碎片很可能會留在軌道上，對全球衛星網絡構成持續的威脅。"
+    },
+    {
+      "id": "p5",
+      "en": "Looking toward the next decade, the role of international policy will be to facilitate the creation of a 'space traffic management' system, as argued by researchers at the Secure World Foundation. This policy framework would ideally include standardized protocols for debris identification, tracking, and removal, ensuring that all nations can operate safely in space. According to the Foundation, international policy must also establish clear liability rules, so that if a cleanup mission accidentally causes damage, the responsible parties are known. By creating a predictable legal environment, policy makers hope to encourage private investment in the emerging orbital cleanup sector, which is essential for long-term sustainability.",
+      "zh": "展望未來十年，根據「安全世界基金會」（Secure World Foundation）研究人員的說法，國際政策的角色將是促進建立一套「太空交通管理」系統。該政策框架理想中應包含碎片識別、追蹤與移除的標準化協議，確保所有國家都能在太空中安全運作。根據該基金會的說法，國際政策還必須建立明確的責任規則，以便在清理任務意外造成損害時，能釐清責任歸屬。透過創造可預測的法律環境，政策制定者希望鼓勵對新興軌道清理產業的私人投資，這對於長期的永續性至關重要。"
+    },
+    {
+      "id": "p6",
+      "en": "Furthermore, industry analysts at the Space Foundation suggest that the future of space debris management will rely on a mix of government funding and private innovation. While the ESA is currently leading in mission development, the United States and other space-faring nations are increasingly turning to private companies to provide debris removal services. These companies are developing autonomous software that can track debris in real-time, reducing the risk of collisions during the capture process. According to the Space Foundation, the integration of artificial intelligence into these systems is a game-changer, allowing for more precise maneuvers and safer operations in the crowded orbital environment.",
+      "zh": "此外，太空基金會（Space Foundation）的產業分析師認為，太空碎片管理的未來將取決於政府資金與私人創新的結合。雖然歐洲太空總署目前在任務開發方面處於領先地位，但美國與其他太空大國正越來越多地轉向私人公司來提供碎片清除服務。這些公司正在開發能即時追蹤碎片的自動化軟體，以降低捕獲過程中發生碰撞的風險。根據太空基金會的說法，將人工智慧整合到這些系統中是一項重大變革，能實現更精確的操作，並在擁擠的軌道環境中進行更安全的作業。"
+    },
+    {
+      "id": "p7",
+      "en": "In conclusion, the effort to clean up Earth's orbit is a multifaceted challenge that requires both technological breakthroughs and diplomatic progress, according to a 2024 review by the International Academy of Astronautics. While the technical ability to capture debris is becoming a reality through missions like ClearSpace-1, the legal and political hurdles remain significant. As humanity continues to launch more satellites for communication and navigation, the urgency of this issue will only increase. Experts agree that the next decade will be decisive in determining whether we can successfully manage the orbital frontier or if we will face a future where space becomes too cluttered to use effectively.",
+      "zh": "總結來說，根據國際宇航科學院（International Academy of Astronautics）2024 年的審查，清理地球軌道的努力是一項多方面的挑戰，需要技術突破與外交進展。儘管透過像 ClearSpace-1 這樣的任務，捕獲碎片的技術能力正逐漸成為現實，但法律與政治障礙仍然顯著。隨著人類持續發射更多用於通訊與導航的衛星，此問題的緊迫性只會增加。專家一致認為，未來十年將是決定性的，這將決定我們能否成功管理軌道邊疆，還是會面臨一個太空過於擁擠而無法有效使用的未來。"
+    }
+  ],
+  "wordCount": 754,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "defunct",
+      "partOfSpeech": "adjective",
+      "definitionEn": "No longer existing, operating, or functioning.",
+      "definitionZh": "失效的、不再運作的。",
+      "noteZh": "常用於描述衛星或機器，如：defunct satellites。"
+    },
+    {
+      "term": "non-cooperative",
+      "partOfSpeech": "adjective",
+      "definitionEn": "Not designed to be interacted with or controlled by an external system.",
+      "definitionZh": "非合作的（指無法對接或控制的）。",
+      "noteZh": "在太空領域中，指無法與救援太空船進行數據交換或對接的目標。"
+    },
+    {
+      "term": "rendezvous",
+      "partOfSpeech": "verb",
+      "definitionEn": "To meet at an agreed time and place.",
+      "definitionZh": "會合、相約。",
+      "noteZh": "在太空任務中，指兩架太空船在軌道上靠近並同步速度。"
+    },
+    {
+      "term": "jurisdiction",
+      "partOfSpeech": "noun",
+      "definitionEn": "The official power to make legal decisions and judgments.",
+      "definitionZh": "管轄權。",
+      "noteZh": "常用於法律情境，指國家對其太空資產的法律控制權。"
+    },
+    {
+      "term": "multifaceted",
+      "partOfSpeech": "adjective",
+      "definitionEn": "Having many different aspects or features.",
+      "definitionZh": "多方面的、複雜的。",
+      "noteZh": "形容一個問題需要從多個角度去解決。"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wired",
+      "url": "https://www.wired.com",
+      "title": "The Race to Clean Up Space Junk",
+      "publishedAt": "2024-05-15T00:00:00Z"
+    },
+    {
+      "name": "ESA",
+      "url": "https://www.esa.int",
+      "title": "ClearSpace-1 mission overview",
+      "publishedAt": "2024-02-10T00:00:00Z"
+    }
+  ],
+  "series": {
+    "id": "space-debris-management",
+    "part": 5,
+    "totalParts": 5
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the primary purpose of the ClearSpace-1 mission mentioned in the text?",
+      "options": {
+        "A": "To launch new communication satellites into orbit.",
+        "B": "To test the feasibility of capturing and removing a defunct object from orbit.",
+        "C": "To create a new legal framework for space ownership.",
+        "D": "To monitor space weather patterns near Earth."
+      },
+      "correct": "B",
+      "explanationZh": "文章第二段明確指出 ClearSpace-1 任務是為了測試捕獲失效物體的可行性。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Why is it legally difficult to remove space debris belonging to another country?",
+      "options": {
+        "A": "Because the debris is too small to identify.",
+        "B": "Because international treaties do not exist for space.",
+        "C": "Because states retain permanent jurisdiction over their objects, and removing them could be seen as illegal seizure.",
+        "D": "Because the technology to track foreign debris is not yet available."
+      },
+      "correct": "C",
+      "explanationZh": "文章第三段提到，由於國家對太空物體擁有永久管轄權，未經許可移除他國碎片可能會被視為非法行為。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the context of the article, what does the term 'defunct' mean?",
+      "options": {
+        "A": "Dangerous and explosive.",
+        "B": "Expensive and rare.",
+        "C": "No longer functioning or operating.",
+        "D": "Newly launched and experimental."
+      },
+      "correct": "C",
+      "explanationZh": "Defunct 在文中指「失效的」，即不再運作的衛星或硬體。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the main challenge for the future of space debris management?",
+      "options": {
+        "A": "We lack the interest of private companies.",
+        "B": "It requires a combination of technological innovation and international legal cooperation.",
+        "C": "The atmosphere is too thick to burn up debris effectively.",
+        "D": "Governments have already solved the problem with existing laws."
+      },
+      "correct": "B",
+      "explanationZh": "文章第七段總結指出，解決太空碎片問題需要技術突破與外交進展的雙重努力。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 根據連載大綱生成，事實與引用請以原始來源為準。審閱後方可發佈。",
+  "_generation": {
+    "provider": "gemini",
+    "model": "gemini-3.1-flash-lite",
+    "tokensUsed": 4723,
+    "durationSec": 19.6
+  },
+  "_seriesPartMeta": {
+    "angle": "Explore emerging technologies for 'Active Debris Removal' (ADR) and the unresolved legal questions of ownership.",
+    "learningGoal": "Evaluate potential solutions and the challenges to implementing them.",
+    "keyQuestions": [
+      "What is Active Debris Removal?",
+      "Why is it legally complex to remove another country's debris?",
+      "What is the role of international policy in the next decade?"
+    ],
+    "sourcePlan": [
+      {
+        "sourceType": "explainer",
+        "searchHint": "ClearSpace mission ESA debris removal",
+        "whyUseful": "Highlights current technological attempts to capture debris.",
+        "whyUsefulZh": "強調目前捕捉太空垃圾的技術嘗試。",
+        "attributionExample": "The European Space Agency (ESA) has commissioned the ClearSpace-1 mission, which the agency describes as the first to remove a defunct object from orbit..."
+      },
+      {
+        "sourceType": "expert Q&A",
+        "searchHint": "Space law expert debris ownership",
+        "whyUseful": "Addresses the legal hurdles of touching foreign space objects.",
+        "whyUsefulZh": "探討觸碰外國太空物體的法律障礙。",
+        "attributionExample": "Professor Joanne Gabrynowicz, a leading space law expert, stated that current international treaties do not clearly define the right to remove debris owned by another nation..."
+      }
+    ]
+  }
+}

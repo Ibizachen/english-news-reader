@@ -1,37 +1,37 @@
 {
   "id": "space-debris-management",
-  "title": "The Orbital Cleanup: Managing Space Debris",
-  "subtitle": "An examination of how the growing accumulation of space junk threatens the future of global satellite infrastructure.",
-  "description": "As low-Earth orbit becomes increasingly crowded, space debris poses a significant risk to modern communication and navigation systems. This series explores the technical, legal, and economic challenges of cleaning up the final frontier.",
+  "title": "The Orbital Frontier: Managing Space Debris",
+  "subtitle": "An examination of the growing crisis in Earth's orbit and the global efforts to secure a sustainable future in space.",
+  "description": "As humanity relies increasingly on satellite technology for communication and navigation, the accumulation of space debris threatens the future of space exploration. This series explores the history, stakeholders, and emerging policies shaping the management of our orbital environment.",
   "category": "technology",
   "status": "active",
-  "updatedAt": "2026-07-06T05:10:21.839194Z",
+  "updatedAt": "2026-11-09T07:42:07.040137Z",
   "cadence": "5-part reading path. Complete series available.",
   "articles": [
     {
       "slug": "space-debris-management-part-1",
       "label": "Part 1",
-      "note": "Explain the historical origin of space debris and the theoretical risk of a chain reaction collision."
+      "note": "Explain the historical accumulation of debris and the theoretical 'Kessler Syndrome' tipping point."
     },
     {
       "slug": "space-debris-management-part-2",
       "label": "Part 2",
-      "note": "Identify the key actors, including space agencies, private satellite constellations, and emerging space nations."
+      "note": "Identify the key players: national space agencies, private satellite constellations (like Starlink), and the emerging 'space cleanup' industry."
     },
     {
       "slug": "space-debris-management-part-3",
       "label": "Part 3",
-      "note": "Examine how anti-satellite (ASAT) tests have significantly worsened the debris problem."
+      "note": "Discuss the impact of Anti-Satellite (ASAT) tests and the recent shift toward international guidelines for 'responsible space behavior'."
     },
     {
       "slug": "space-debris-management-part-4",
       "label": "Part 4",
-      "note": "Discuss the impact on global GPS, telecommunications, and the insurance industry."
+      "note": "Analyze the economic and societal impacts, including increased insurance premiums and risks to essential services like GPS."
     },
     {
       "slug": "space-debris-management-part-5",
       "label": "Part 5",
-      "note": "Explore current initiatives for active debris removal (ADR) and future international policy frameworks."
+      "note": "Explore emerging technologies for 'Active Debris Removal' (ADR) and the unresolved legal questions of ownership."
     }
   ]
 }
