@@ -1,0 +1,139 @@
+{
+  "id": "2026-11-10-cybersecurity-threats-to-critical-infrastructure",
+  "slug": "cybersecurity-threats-to-critical-infrastructure-nov-2026",
+  "publishedAt": "2026-11-10T04:05:17.890798Z",
+  "category": "public-health",
+  "title": "Cyberattacks Target Food and Power Systems Across Europe",
+  "subtitle": "France blames Iran for a series of digital attacks on refrigeration and energy infrastructure.",
+  "summary": {
+    "en": "France has officially accused Iran of launching destructive cyberattacks against its critical infrastructure. These attacks targeted refrigeration systems in supermarkets and small power plants, causing significant food spoilage. Similar incidents have been reported across Europe, the United States, and Israel throughout the year. French officials describe the event as an unprecedented act of aggression against national security. Investigations are now underway to identify those responsible and improve protections for essential services.",
+    "zh": "法國正式指控伊朗對其關鍵基礎設施發動破壞性網路攻擊。這些攻擊鎖定超市與小型發電廠的冷藏系統，導致大量食品腐壞。今年以來，歐洲、美國與以色列各地皆傳出類似事件。法國官員形容此舉為針對國家安全前所未有的侵略行為。目前調查工作正在進行中，旨在追究責任人並加強對民生服務的保護。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The French government has made a serious accusation against Iran, claiming the country is responsible for a series of destructive cyberattacks. These digital attacks targeted essential services, including supermarkets and small power plants, during the month of October. According to the French National Cybersecurity Agency, known as ANSSI, hackers linked to the Iranian military took control of refrigeration systems at approximately 700 retail locations. By changing the temperature settings during the night, the attackers caused millions of dollars' worth of food to spoil.",
+      "zh": "法國政府對伊朗提出嚴重指控，聲稱該國應為一系列破壞性的網路攻擊負責。這些數位攻擊發生在十月，目標鎖定包括超市與小型發電廠在內的基礎民生服務。根據法國國家資訊系統安全局（ANSSI）指出，與伊朗軍方有關的駭客控制了約七百家零售店的冷藏系統。攻擊者透過在夜間更改溫度設定，導致價值數百萬美元的食品腐壞。"
+    },
+    {
+      "id": "p2",
+      "en": "Beyond the damage to food supplies, the hackers also targeted several small hydroelectric power plants. While these attacks resulted in only moderate effects, the French government views the situation with great concern. French Foreign Minister Jean-Noël Barrot described the campaign as unprecedented in both its scale and its level of aggression. He stated that this is the first time a large-scale cyberattack has been used for sabotage on French soil, calling it a major threat to the nation’s interests and the safety of its people. In response, the Paris Prosecutor's Office has opened an investigation into a specific Iranian cyber unit, which the government believes is connected to Iran's Islamic Revolutionary Guard Corps. The office is now seeking international arrest warrants to hold those involved accountable.",
+      "zh": "除了對食品供應造成的損害外，駭客還鎖定了數座小型水力發電廠。儘管這些攻擊僅造成中度影響，法國政府仍對此情況深感憂慮。法國外交部長巴霍（Jean-Noël Barrot）形容這場行動在規模與侵略程度上皆屬前所未見。他表示，這是首次有大規模網路攻擊在法國領土上進行破壞活動，並稱其為對國家利益與人民安全的一大威脅。對此，巴黎檢察官辦公室已針對一個特定的伊朗網路單位展開調查，政府認為該單位與伊朗伊斯蘭革命衛隊有關。檢方目前正尋求國際逮捕令，以追究相關人員的責任。"
+    },
+    {
+      "id": "p3",
+      "en": "These incidents in France are not isolated events. Throughout 2026, there has been a growing trend of hackers targeting industrial refrigeration controllers across the globe, including in Europe, Israel, and the United States. Recently, grocery stores in countries such as Sweden and Ireland experienced similar attacks. In another worrying incident in France, staff at a major blood bank had to work quickly to save blood supplies after their cooling systems were targeted. This event has led to international calls for the health sector to better protect lifesaving products from such digital threats.",
+      "zh": "這些發生在法國的事件並非單一案例。整個二○二六年，全球各地針對工業冷藏控制系統的駭客攻擊趨勢日益增長，範圍涵蓋歐洲、以色列與美國。近期，瑞典與愛爾蘭等國的雜貨店也遭遇了類似攻擊。在法國發生的另一樁令人擔憂的事件中，一家大型血庫的工作人員在冷卻系統遭鎖定後，必須緊急搶救血液庫存。此事件引發國際呼籲，要求醫療保健部門加強保護救命物資，以防範此類數位威脅。"
+    },
+    {
+      "id": "p4",
+      "en": "Earlier this year, similar problems were reported in other parts of the world. In Israel, a group calling itself the \"Cyber Isnaad Front\" claimed responsibility for sabotaging an industrial food processing plant. The attack involved infecting computers with malware—software designed to damage or gain unauthorized access to a computer system—and taking control of office printers and cameras to create propaganda videos. The cybersecurity firm Profero linked this attack to a wing of the Iranian Revolutionary Guard Corps. Additionally, during the summer, commissaries on United States military bases experienced food spoilage after freezer temperatures were changed overnight. While news reports suggest that U.S. officials suspect Iranian involvement, the Pentagon has not made any official statement confirming that these disruptions were the result of a cyberattack.",
+      "zh": "今年稍早，世界其他地區也傳出類似問題。在以色列，一個自稱為「網路伊斯納德陣線」（Cyber Isnaad Front）的組織聲稱對破壞一家工業食品加工廠負責。該攻擊涉及以惡意軟體感染電腦，並控制辦公室印表機與攝影機以製作宣傳影片。網路安全公司 Profero 將此攻擊與伊朗革命衛隊的一個分支連結起來。此外，今年夏天，美國軍事基地的福利社也因冷凍庫溫度在夜間被更改而導致食品腐壞。儘管新聞報導指出美國官員懷疑伊朗涉入，但五角大廈尚未發表任何官方聲明，證實這些中斷事件是由網路攻擊所導致。"
+    },
+    {
+      "id": "p5",
+      "en": "France is currently the first nation to formally assign blame for this wave of destructive activity. According to ANSSI, investigators were able to identify the hackers by following a series of digital clues. These included the specific digital infrastructure used during the attacks, connections to a known propaganda outlet, and traces of the Farsi language found within the attack code. These findings have provided the evidence needed for the French government to take a public stand.",
+      "zh": "法國目前是第一個正式將這波破壞性活動歸咎於伊朗的國家。根據法國國家資訊系統安全局的說法，調查人員透過追蹤一系列數位線索成功鎖定了駭客身分。這些線索包括攻擊期間使用的特定數位基礎設施、與已知宣傳管道的連結，以及在攻擊程式碼中發現的波斯語痕跡。這些發現為法國政府採取公開立場提供了必要的證據。"
+    },
+    {
+      "id": "p6",
+      "en": "The situation highlights a growing vulnerability in modern society. As more essential systems—from food storage to power generation—are connected to the internet, they become potential targets for hackers. The ability of these attackers to cause physical damage, such as ruining food or disrupting power, represents a shift in how cyber threats can impact daily life. As investigations continue, the international community is watching closely to see how countries will work together to defend their critical infrastructure against these sophisticated digital threats. For now, the focus remains on securing these systems to prevent further loss and ensuring that essential services remain safe from future interference.",
+      "zh": "此情況凸顯了現代社會日益增長的脆弱性。隨著從食品儲存到電力生產等更多基礎系統連接至網路，它們也成為駭客的潛在目標。這些攻擊者造成物理損害的能力，例如毀壞食品或中斷電力，代表網路威脅影響日常生活的方式已發生轉變。隨著調查持續進行，國際社會正密切關注各國將如何合作，以防禦其關鍵基礎設施免受這些精密數位威脅的侵害。目前，重點仍放在確保這些系統的安全，以防止進一步損失，並確保民生服務免受未來的干擾。"
+    }
+  ],
+  "wordCount": 712,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "linked",
+      "definitionEn": "Connected or associated with someone or something.",
+      "definitionZh": "連結；有關聯。",
+      "partOfSpeech": "verb (past participle)",
+      "noteZh": "常見作名詞（連結），這裡作動詞的過去分詞，用來描述兩者之間的關聯。文中：hackers linked to the Iranian military took control of refrigeration systems at approximately 700 retail locations."
+    },
+    {
+      "term": "wing",
+      "definitionEn": "A smaller group or section that is part of a larger organization.",
+      "definitionZh": "（組織的）分支；派系。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作名詞（翅膀），這裡指組織的分支機構。文中：The cybersecurity firm Profero linked this attack to a wing of the Iranian Revolutionary Guard Corps."
+    },
+    {
+      "term": "stand",
+      "definitionEn": "A firm position or opinion taken on a particular issue.",
+      "definitionZh": "立場；態度。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（站立），這裡作名詞，指公開表達的立場。文中：These findings have provided the evidence needed for the French government to take a public stand."
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR News",
+      "url": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+      "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
+      "publishedAt": "2026-11-09T22:30:49Z"
+    }
+  ],
+  "story": {
+    "id": "cybersecurity-threats-to-critical-infrastructure",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What specific evidence did ANSSI use to officially link the cyberattacks in France to Iranian actors?",
+      "options": {
+        "A": "Confessions from captured hackers working for the Revolutionary Guard.",
+        "B": "Digital infrastructure traces, propaganda links, and Farsi code markers.",
+        "C": "Direct surveillance footage of Iranian military personnel at French power plants.",
+        "D": "A public claim of responsibility issued by the Cyber Isnaad Front."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第五段，ANSSI 透過追蹤數位基礎設施、與已知宣傳管道的連結，以及在攻擊程式碼中發現的波斯語（Farsi）痕跡，成功識別出駭客身分。選項 A 文中未提及有駭客被捕或招供。選項 C 為錯誤推論，文中並未提到實體監控證據。選項 D 雖然提到該組織在以色列的攻擊中宣稱負責，但並非法國政府用來指控伊朗的直接證據。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the information provided, what can be inferred about the nature of the recent cyberattacks?",
+      "options": {
+        "A": "They are primarily motivated by financial gain through digital extortion.",
+        "B": "They focus exclusively on military targets to weaken national defense.",
+        "C": "They demonstrate a shift from stealing data to causing physical disruption.",
+        "D": "They are restricted to nations that have no existing cybersecurity agencies."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第六段提到，這些駭客能造成食物腐敗或電力中斷等「物理性損害」（physical damage），這代表網路威脅已從傳統的竊取資料轉向影響日常生活。選項 A 錯誤，文中未提到勒索金錢。選項 B 不正確，因為目標包含超市和血庫等民用設施。選項 D 錯誤，法國擁有 ANSSI 且同樣遭到攻擊，顯示擁有防禦機構並不能完全免疫。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the second paragraph, what does the word 'sabotage' mean in the context of the French Foreign Minister's statement?",
+      "options": {
+        "A": "The act of deliberately damaging or destroying something for political or military advantage.",
+        "B": "The process of investigating a crime to find evidence for a legal trial.",
+        "C": "The creation of digital propaganda to influence public opinion.",
+        "D": "The act of upgrading security systems to prevent future unauthorized access."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在文中，部長形容這是一場「破壞行動」（sabotage），指的是透過網路攻擊導致食物腐敗或電力中斷，藉此達成政治或軍事目的。選項 B 是指 prosecutor 的工作，而非 sabotage 的定義。選項 C 雖在文中提到，但它是手段之一而非 sabotage 本身。選項 D 與 sabotage 的破壞性質完全相反。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "Which statement best summarizes the central message of the article?",
+      "options": {
+        "A": "The French government is planning a military response against Iran for its cyber activities.",
+        "B": "Industrial refrigeration is the only sector currently vulnerable to international cyber threats.",
+        "C": "The Cyber Isnaad Front is the most dangerous hacking group operating in the world today.",
+        "D": "The increasing connectivity of essential services has created new, dangerous vulnerabilities to cyber sabotage."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。文章最後一段總結了核心訊息，指出隨著現代社會的基礎設施（如食物儲存、電力）越來越依賴網路，這些系統也變得更容易受到駭客攻擊，造成物理性的破壞。選項 A 文中未提及軍事報復計畫。選項 B 錯誤，文中亦提到血庫與電力設施。選項 C 過度強調單一組織，忽略了文章對於整體網路威脅趨勢的探討。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
