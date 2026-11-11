@@ -1,0 +1,179 @@
+{
+  "id": "2026-11-11-nvidia-ceo-under-investigation-over-spy-ties",
+  "slug": "nvidia-ceo-under-investigation-over-spy-ties-nov-2026",
+  "publishedAt": "2026-11-11T01:54:59.666496Z",
+  "category": "technology",
+  "title": "Nvidia CEO Faces Legal Action and Security Questions Over Alleged Spy Ties",
+  "subtitle": "Shareholders sue the chipmaker as the FBI investigates Jensen Huang’s personal connections",
+  "summary": {
+    "en": "Nvidia and its CEO Jensen Huang are facing a class action lawsuit from shareholders over an alleged affair with a suspected Chinese intelligence asset. The legal action claims the company misled investors regarding national security risks and business practices. Nvidia has launched an independent investigation into reports that its leader was a target of foreign intelligence. Meanwhile, the U.S. government is reportedly examining the situation due to concerns over chip export controls. Experts warn that the scandal could impact the American lead in the global artificial intelligence race.",
+    "zh": "輝達及其執行長黃仁勳因涉及與一名疑似中國情報資產的人士有婚外情，正面臨股東提起的集體訴訟。法律行動指控該公司在國家安全風險與商業行為方面誤導了投資人。輝達已針對其領導人是否成為外國情報目標的報導展開獨立調查。同時，據報導，由於對晶片出口管制的擔憂，美國政府正在審視此情況。專家警告，這起醜聞可能會影響美國在全球人工智慧競賽中的領先地位。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Nvidia, the world’s most valuable chipmaker, is currently facing a serious legal challenge. On Monday, shareholders filed a class action lawsuit—a legal process where a group of people sues a company together—against Nvidia and its CEO, Jensen Huang. The lawsuit claims that the company misled investors by failing to disclose that the CEO’s personal life created significant national security risks. This legal move comes after reports that Huang had an affair with Alice Huang, a former executive at a Singapore-based company called Megaspeed. According to The Guardian, U.S. authorities have identified Alice Huang as a Chinese intelligence asset.",
+      "zh": "全球市值最高的晶片製造商輝達（Nvidia），目前正面臨嚴峻的法律挑戰。週一，股東們對輝達及其執行長黃仁勳（Jensen Huang）提起集體訴訟，這是一種由一群人共同控告一家公司的法律程序。訴訟指控該公司隱瞞了執行長個人生活所引發的重大國家安全風險，進而誤導了投資人。此法律行動起因於有報導指出，黃仁勳曾與一家名為「美佳速」（Megaspeed）的新加坡公司前高階主管艾莉絲·黃（Alice Huang）有過婚外情。根據《衛報》（The Guardian）報導，美國當局已將艾莉絲·黃認定為中國的情報資產。"
+    },
+    {
+      "id": "p2",
+      "en": "The situation has caused significant financial trouble for the company. Following the announcement that Nvidia was conducting its own independent investigation into whether its CEO was a target of foreign intelligence, the company’s share price fell by 4.3% on Monday. This drop reduced the total market value of the company by approximately $190 billion. Investors, led by a retail shareholder named Mark Kistenmacher, are now seeking damages, arguing that the company did not tell the truth about the potential risks linked to the CEO's actions.",
+      "zh": "此情況已對該公司造成重大的財務困擾。在輝達宣布針對其執行長是否成為外國情報目標進行獨立調查後，公司股價於週一重挫百分之四點三。這波跌勢使公司總市值蒸發約一千九百億美元。以散戶股東馬克·基斯登馬赫（Mark Kistenmacher）為首的投資人，目前正尋求損害賠償，主張該公司並未誠實揭露與執行長行為相關的潛在風險。"
+    },
+    {
+      "id": "p3",
+      "en": "This controversy is particularly sensitive because of Nvidia’s role in the global technology industry. As reported by The Verge, Nvidia is the main supplier of the advanced computer chips needed to build powerful artificial intelligence (AI) models. Because these chips are so important, the U.S. government has placed strict export controls—rules that limit the sale of specific technology to other countries—to prevent China from gaining an advantage in AI development. There are concerns that Megaspeed, the company linked to the alleged spy, may have been involved in moving restricted Nvidia chips into China, which would violate these U.S. rules.",
+      "zh": "這場爭議之所以特別敏感，是因為輝達在全球科技產業中扮演著關鍵角色。據《邊緣》（The Verge）報導，輝達是打造強大人工智慧（AI）模型所需先進電腦晶片的主要供應商。由於這些晶片至關重要，美國政府實施了嚴格的出口管制，即限制特定技術銷售至其他國家的規定，以防止中國在人工智慧發展上取得優勢。外界擔憂，與這名涉嫌間諜有關的美佳速公司，可能涉及將受管制的輝達晶片轉運至中國，這將違反美國的相關規定。"
+    },
+    {
+      "id": "p4",
+      "en": "In a statement provided to The New York Times last month, Nvidia described the CEO’s interactions with Alice Huang as normal, noting that meeting with many executives is a standard part of a CEO’s job. However, the lawsuit argues that this statement was false and misleading because it did not mention the personal nature of the relationship. On Sunday, Jensen Huang admitted that he had been unfaithful to his wife, though he did not name the person involved. Megaspeed has previously stated that it has always followed all applicable laws and export regulations.",
+      "zh": "在上個月提供給《紐約時報》（The New York Times）的一份聲明中，輝達將執行長與艾莉絲·黃的互動描述為正常往來，並指出與眾多高階主管會面是執行長職務的標準工作內容。然而，訴訟主張這份聲明是不實且具誤導性的，因為它未提及雙方關係的私人性質。週日，黃仁勳承認對妻子不忠，但他並未指名涉案對象。美佳速先前則表示，該公司始終遵守所有適用的法律與出口規範。"
+    },
+    {
+      "id": "p5",
+      "en": "President Donald Trump confirmed that the FBI is currently investigating the matter. During a White House briefing, Trump stated that he had spoken with Huang to check on his well-being. While the President noted that the FBI is looking into the situation, he also expressed his belief that the CEO would likely be in \"good shape\" once the investigation concludes. Despite this, the uncertainty surrounding the company’s leadership and its business ties remains a major concern for the tech sector.",
+      "zh": "美國總統川普（Donald Trump）證實，聯邦調查局（FBI）目前正調查此事。在白宮簡報會上，川普表示他已與黃仁勳通話以關心其狀況。儘管總統提到聯邦調查局正在審視此情況，他也表達了對執行長在調查結束後應能「安然無恙」的看法。儘管如此，圍繞在公司領導層及其商業連結的不確定性，仍是科技界的一大隱憂。"
+    },
+    {
+      "id": "p6",
+      "en": "Experts suggest that the stakes for the U.S. are very high. Emily Kilcrease, a senior fellow at the Center for a New American Security, explained to The Verge that top-tier chips are a critical bottleneck in AI development. If China were to gain easier access to these chips through illicit channels, it could potentially close the gap with the U.S. in the AI race. While there is no public evidence that Jensen Huang personally directed restricted chips to China, the mere possibility of such a security breach has caused alarm among policymakers and industry analysts.",
+      "zh": "專家認為，這對美國而言風險極高。新美國安全中心（Center for a New American Security）資深研究員艾蜜莉·基爾克里斯（Emily Kilcrease）向《邊緣》解釋，頂尖晶片是人工智慧發展的關鍵瓶頸。如果中國能透過非法管道更容易地取得這些晶片，可能會縮小與美國在人工智慧競賽中的差距。雖然目前沒有公開證據顯示黃仁勳曾親自指示將受管制的晶片運往中國，但這種安全漏洞的可能性已引起決策者與產業分析師的警覺。"
+    },
+    {
+      "id": "p7",
+      "en": "As the legal and internal investigations move forward, the future of Nvidia remains under a spotlight. The company is currently one of the most prominent symbols of the AI boom, and its technology is essential for many U.S. companies like Meta, Anthropic, and OpenAI. These companies are already working to build their own chips to reduce their dependence on Nvidia, but for now, the chipmaker remains the primary gatekeeper to the hardware needed for modern AI. Whether this scandal will lead to long-term changes in how Nvidia manages its security and business relationships is a question that many investors and government officials are now watching closely.",
+      "zh": "隨著法律與內部調查的推進，輝達的未來持續受到高度關注。該公司目前是人工智慧熱潮中最顯著的象徵之一，其技術對於 Meta、Anthropic 與 OpenAI 等許多美國公司來說不可或缺。這些公司已著手研發自家的晶片以降低對輝達的依賴，但就目前而言，這家晶片製造商仍是現代人工智慧所需硬體的主要把關者。這起醜聞是否會導致輝達在管理安全與商業關係上出現長期變革，是許多投資人與政府官員目前密切觀察的問題。"
+    }
+  ],
+  "wordCount": 712,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "filed",
+      "definitionEn": "To officially submit a legal document or claim to a court.",
+      "definitionZh": "正式提交（法律文件或訴訟）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（檔案），這裡作動詞用。文中：On Monday, shareholders filed a class action lawsuit—a legal process where a group of people sues a company together—against Nvidia and its CEO, Jensen Huang."
+    },
+    {
+      "term": "target",
+      "definitionEn": "A person or thing that is selected as the aim of an attack, investigation, or influence.",
+      "definitionZh": "目標；被鎖定的對象。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（瞄準），這裡作名詞用。文中：Following the announcement that Nvidia was conducting its own independent investigation into whether its CEO was a target of foreign intelligence, the company’s share price fell by 4.3% on Monday."
+    },
+    {
+      "term": "stakes",
+      "definitionEn": "The risks involved in a situation or the potential consequences of an outcome.",
+      "definitionZh": "賭注；利害關係。",
+      "partOfSpeech": "noun (plural)",
+      "noteZh": "常見作名詞（木樁），這裡指風險或利害關係。文中：Experts suggest that the stakes for the U.S. are very high."
+    },
+    {
+      "term": "spotlight",
+      "definitionEn": "Public attention or scrutiny.",
+      "definitionZh": "公眾關注；焦點。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作名詞（舞台聚光燈），這裡比喻受到大眾檢視。文中：As the legal and internal investigations move forward, the future of Nvidia remains under a spotlight."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Business",
+      "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
+      "title": "Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy",
+      "publishedAt": "2026-11-10T12:45:54Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
+      "publishedAt": "2026-11-10T19:04:05Z"
+    }
+  ],
+  "story": {
+    "id": "nvidia-investigates-ceo-over-alleged-spy-ties",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "nvidia-ceo-investigation-and-national-security-nov-2026",
+        "title": "Nvidia Faces Legal and Security Challenges Over CEO Scandal",
+        "publishedAt": "2026-11-10T22:13:32.774166Z",
+        "category": "technology",
+        "summaryEn": "Nvidia is facing a new lawsuit from shareholders who claim the company hid information about a national security risk. This follows reports that CEO Jensen Huang had an affair with a woman identified as a Chinese intelligence asset. The company has launched an independent investigation into the matter. Meanwhile, Nvidia’s stock price has dropped significantly as investors worry about the future of the firm. US officials are also looking into the situation, adding pressure to the chipmaker's leadership."
+      },
+      {
+        "slug": "nvidia-investigates-ceo-over-alleged-spy-ties-nov-2026",
+        "title": "Nvidia Launches Investigation into CEO Over Alleged Spy Ties",
+        "publishedAt": "2026-11-09T01:42:51.815381Z",
+        "category": "technology",
+        "summaryEn": "Nvidia has started an independent investigation into its CEO, Jensen Huang, following reports of a personal relationship with a suspected Chinese spy. The company's board of directors is reviewing the situation to ensure that national security and company secrets were not put at risk. Jensen Huang has admitted to the relationship and apologized for his actions, stating he will cooperate fully with the inquiry. While the board expressed confidence in his leadership, the situation has drawn attention due to Nvidia's critical role in AI technology. China has denied the espionage allegations, calling them groundless."
+      },
+      {
+        "slug": "nvidia-ceo-investigation-and-security-concerns-nov-2026",
+        "title": "Nvidia CEO Under Investigation Following Allegations of Chinese Espionage Ties",
+        "publishedAt": "2026-11-10T04:05:17.890798Z",
+        "category": "technology",
+        "summaryEn": "Nvidia shares have dropped following news that the company is investigating CEO Jensen Huang. The investigation centers on an affair between Huang and an executive suspected of spying for China. U.S. intelligence agencies reportedly identified the woman as a recruit for China’s Ministry of State Security. While Nvidia claims no secrets were compromised, the situation has raised serious national security concerns. The company now faces a difficult period as it evaluates the future of its leadership."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What was the immediate financial impact of Nvidia's announcement that it was investigating its CEO?",
+      "options": {
+        "A": "The company's stock price dropped by $190 billion.",
+        "B": "The company's market value decreased by 4.3%.",
+        "C": "The company lost 4.3% of its total market value, equaling $190 billion.",
+        "D": "Shareholders filed a class action lawsuit demanding $190 billion in damages."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第二段，Nvidia 的股價下跌了 4.3%，這導致公司總市值減少了約 190 億美元。選項 A 錯誤，因為 190 億美元是市值的減少額而非股價跌幅；選項 B 錯誤，因為 4.3% 是股價的跌幅，而非市值的減少量；選項 D 錯誤，文中提到投資人尋求損害賠償，但並未說明賠償金額為 190 億美元。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Why is the connection between Megaspeed and Alice Huang particularly concerning for the U.S. government?",
+      "options": {
+        "A": "Because Megaspeed is a direct competitor to Nvidia in the AI chip market.",
+        "B": "Because the U.S. government fears that Megaspeed might be facilitating illegal chip exports to China.",
+        "C": "Because Alice Huang is a former executive who is now working for the U.S. government.",
+        "D": "Because the CEO of Nvidia admitted to having a personal relationship with the owner of Megaspeed."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據第三段與第六段，美國政府對先進晶片實施出口管制以限制中國的 AI 發展。由於 Alice Huang 被認定為中國情報人員，且 Megaspeed 與其有關聯，外界擔心該公司可能成為繞過出口限制、將晶片非法輸往中國的管道，這對美國的國家安全構成威脅。選項 A、C、D 皆與文中提到的風險邏輯不符。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the term 'gatekeeper' imply about Nvidia's current position?",
+      "options": {
+        "A": "Nvidia is a security company that controls access to sensitive government buildings.",
+        "B": "Nvidia is a company that is currently trying to block other firms from entering the AI market.",
+        "C": "Nvidia is a dominant entity that controls essential access to the hardware necessary for modern AI.",
+        "D": "Nvidia is a company that has failed to protect its own trade secrets from foreign spies."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文中將 Nvidia 描述為「primary gatekeeper to the hardware needed for modern AI」，意指它是現代 AI 所需硬體的關鍵供應商，其他公司若要發展 AI，必須通過 Nvidia 的晶片。選項 A 錯誤，這是對單字的字面誤解；選項 B 錯誤，文中並未提到 Nvidia 阻止他人進入市場；選項 D 錯誤，雖文中提及安全疑慮，但 gatekeeper 在此處是指其市場壟斷地位與重要性。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary focus of the article?",
+      "options": {
+        "A": "The personal life of Jensen Huang and his marriage.",
+        "B": "The technical specifications of the advanced chips produced by Nvidia.",
+        "C": "The legal and national security implications of an alleged scandal involving Nvidia's CEO.",
+        "D": "The history of how Nvidia became the world's most valuable chipmaker."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。全文的核心在於報導 Nvidia 執行長陷入與中國情報人員相關的醜聞，以及這起事件如何引發股東訴訟、威脅美國出口管制政策，並對公司未來與 AI 產業穩定性造成影響。選項 A 僅是事件的起因，而非報導重點；選項 B 文中僅簡略提及，非核心議題；選項 D 文中並未詳述 Nvidia 的發展史。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
