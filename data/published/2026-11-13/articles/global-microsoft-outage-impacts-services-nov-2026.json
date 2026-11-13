@@ -1,0 +1,149 @@
+{
+  "id": "2026-11-13-global-microsoft-outage-impacts-services",
+  "slug": "global-microsoft-outage-impacts-services-nov-2026",
+  "publishedAt": "2026-11-13T02:36:46.877857Z",
+  "category": "technology",
+  "title": "Global Microsoft Outage Causes Widespread Service Disruptions",
+  "subtitle": "Users around the world face difficulties with email and workplace communication tools as Microsoft works to fix server errors.",
+  "summary": {
+    "en": "A major technical problem recently caused significant issues for Microsoft users across the globe. Many people could not access their email accounts or use workplace communication tools like Teams. Microsoft reported that a failure during automated system checks caused several servers to stop working correctly. The company worked quickly to test and apply a fix to restore these services. While many systems have returned to normal, the incident highlights how much modern work depends on cloud-based technology.",
+    "zh": "近期一項重大技術問題導致全球微軟使用者面臨嚴重困擾。許多人無法存取電子郵件帳戶或使用如團隊軟體等職場溝通工具。微軟表示，自動化系統檢查期間的故障導致多台伺服器無法正常運作。該公司迅速測試並實施修復方案以恢復服務。雖然許多系統已恢復正常，但此事件凸顯了現代工作對雲端技術的依賴程度。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "On Thursday, a large number of users around the world experienced significant problems while trying to access Microsoft services. The outage affected popular tools including Outlook, which is used for email, and Microsoft Teams, which is widely used for workplace communication. Many people reported that they were unable to send or receive messages, while others found that their inboxes would not load at all.",
+      "zh": "週四，全球大量使用者在嘗試存取微軟（Microsoft）服務時遇到了嚴重問題。此次故障影響了多項熱門工具，包括用於電子郵件的 Outlook，以及廣泛用於職場溝通的微軟團隊（Microsoft Teams）。許多人回報無法傳送或接收訊息，也有人發現收件匣完全無法載入。"
+    },
+    {
+      "id": "p2",
+      "en": "According to NPR News, the trouble began in the early afternoon. Data from the outage tracker Downdetector showed that nearly 130,000 users reported problems with Outlook shortly after 1 p.m. ET. While the number of new reports decreased later in the day, the impact was felt by a large portion of the company’s user base. In addition to email and Teams, users also reported issues with Microsoft’s AI assistant, Copilot, and other parts of the Microsoft 365 service suite.",
+      "zh": "根據美國國家公共廣播電台（NPR）報導，問題始於當天下午。故障追蹤網站 Downdetector 的數據顯示，美東時間下午一點過後不久，有近十三萬名使用者回報 Outlook 出現問題。雖然當天稍晚新增的回報數量有所減少，但該公司廣大的使用者群體仍深受影響。除了電子郵件與團隊軟體外，使用者也回報微軟的人工智慧助理 Copilot 以及微軟 365（Microsoft 365）服務套件的其他部分出現異常。"
+    },
+    {
+      "id": "p3",
+      "en": "Microsoft, which is based in Redmond, Washington, quickly acknowledged the situation. The company stated that it was investigating disruptions, specifically those affecting Exchange Online mailboxes. In updates shared on social media, Microsoft explained that a portion of its infrastructure was under too much pressure, which it described as an \"elevated load.\" This high level of activity likely caused the connectivity errors that users experienced.",
+      "zh": "總部位於華盛頓州雷德蒙市的微軟迅速承認了此狀況。該公司表示正在調查服務中斷情形，特別是影響 Exchange Online 信箱的問題。微軟在社群媒體上發布更新說明，解釋其部分基礎設施承受了過大壓力，並將其描述為「負載過高」。這種高強度的活動很可能是導致使用者遇到連線錯誤的原因。"
+    },
+    {
+      "id": "p4",
+      "en": "Further investigation by the company revealed that the root of the problem was a technical failure. Microsoft noted that a number of its servers became \"unexpectedly unavailable\" because they failed during \"automated health checks.\" These checks are routine tests that computer systems perform on themselves to ensure everything is working correctly. When these checks failed, the servers stopped responding, which blocked users from accessing their accounts.",
+      "zh": "該公司進一步調查後發現，問題根源在於技術故障。微軟指出，部分伺服器在進行「自動化健康檢查」時失敗，導致這些伺服器「意外地無法使用」。這些檢查是電腦系統為了確保運作正常而定期執行的自我測試。當這些檢查失敗時，伺服器便停止回應，進而阻礙使用者存取帳戶。"
+    },
+    {
+      "id": "p5",
+      "en": "It was not immediately clear why these specific servers failed during the automated process. However, Microsoft took immediate steps to address the situation. The company announced that it was testing a fix and rolling out a different method for these health checks to bring the affected servers back online. A representative from the Microsoft 365 Status account wrote on X that the team was \"aggressively pursuing all pathways to reduce impact\" for its customers.",
+      "zh": "目前尚不清楚為何這些特定伺服器會在自動化程序中發生故障。不過，微軟已立即採取行動處理。該公司宣布正在測試修復方案，並針對這些健康檢查採用不同的方法，以讓受影響的伺服器恢復連線。微軟 365 狀態帳號在 X（前身為推特）上發文表示，團隊正「積極尋求所有途徑以減輕對客戶的影響」。"
+    },
+    {
+      "id": "p6",
+      "en": "By the end of the day, there were signs of improvement. NPR News reported that Microsoft had successfully restored services related to Teams in North America. Even so, some users continued to report that they were still having trouble connecting to their accounts. This shows that while a fix might be applied, it can take time for a global system to return to full functionality for every user.",
+      "zh": "到了當天結束時，情況已出現好轉跡象。NPR 報導指出，微軟已成功恢復北美地區與團隊軟體相關的服務。即便如此，仍有部分使用者回報連線至帳戶時持續遇到困難。這顯示儘管修復方案已經實施，全球性系統要恢復至每位使用者都能正常使用的狀態，仍需一段時間。"
+    },
+    {
+      "id": "p7",
+      "en": "This incident serves as a reminder of how much modern businesses and individuals rely on cloud-based services. When a major provider like Microsoft faces technical difficulties, the impact is felt instantly across many different industries. Because so many people use these tools to communicate and complete their daily tasks, even a short period of downtime can cause significant frustration and lost productivity.",
+      "zh": "此次事件提醒了現代企業與個人對雲端服務的依賴程度有多深。當像微軟這樣的主要供應商面臨技術困難時，許多不同產業會立即感受到衝擊。由於許多人仰賴這些工具進行溝通並完成日常工作，即使是短暫的停機時間，也可能造成嚴重的挫折感並導致生產力損失。"
+    },
+    {
+      "id": "p8",
+      "en": "As the situation continues to stabilize, many users are waiting to see if Microsoft will provide more information about the exact cause of the server failures. For now, the company remains focused on ensuring that all services are fully restored and that its infrastructure remains stable for the future. While the peak of the outage has passed, the event highlights the challenges of maintaining massive, interconnected digital systems that support millions of people every single day.",
+      "zh": "隨著情況持續穩定，許多使用者正等待微軟提供關於伺服器故障確切原因的更多資訊。目前，該公司仍致力於確保所有服務完全恢復，並維持其基礎設施的未來穩定性。雖然故障高峰期已過，但此事件凸顯了維護龐大且相互連結、每日支援數百萬人的數位系統所面臨的挑戰。"
+    }
+  ],
+  "wordCount": 665,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "load",
+      "definitionEn": "The amount of work or data that a computer system is processing at a given time.",
+      "definitionZh": "（電腦系統的）負載、工作量。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（裝載）或名詞（貨物），這裡指系統負載。文中：Microsoft explained that a portion of its infrastructure was under too much pressure, which it described as an \"elevated load.\""
+    },
+    {
+      "term": "fix",
+      "definitionEn": "A solution to a problem or a repair.",
+      "definitionZh": "解決方案、修復方法。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（修理），這裡作名詞用。文中：The company announced that it was testing a fix and rolling out a different method for these health checks to bring the affected servers back online."
+    },
+    {
+      "term": "rolling out",
+      "definitionEn": "To introduce a new product or service, or to implement a new process.",
+      "definitionZh": "推出、實施（新計畫或系統）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "字面意思為「滾出來」，這裡指正式推出或實施新方法。文中：The company announced that it was testing a fix and rolling out a different method for these health checks to bring the affected servers back online."
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR News",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps",
+      "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
+      "publishedAt": "2026-11-13T01:26:24Z"
+    }
+  ],
+  "story": {
+    "id": "global-microsoft-outage-impacts-services",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what was the specific technical reason that caused the servers to stop responding?",
+      "options": {
+        "A": "The infrastructure was overwhelmed by an unexpected surge of new users.",
+        "B": "The servers failed during routine automated health checks.",
+        "C": "A cyberattack targeted the Microsoft 365 service suite.",
+        "D": "The company intentionally shut down servers to perform maintenance."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第四段，文中明確指出伺服器是因為在進行「自動化健康檢查」（automated health checks）時失敗，導致伺服器變得無法回應。選項 A 雖然提到了「壓力過大」（elevated load），但那是現象描述，而非伺服器停止回應的直接技術原因。選項 C 文章並未提及網路攻擊。選項 D 錯誤，因為這是意外發生的故障，並非預先安排的維護。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the restoration process of Microsoft services?",
+      "options": {
+        "A": "Services were restored globally and simultaneously for all users at the same time.",
+        "B": "The company had to manually restart every single server across the world.",
+        "C": "Restoration is a gradual process that does not guarantee immediate access for everyone.",
+        "D": "The outage was caused by a permanent hardware defect that required replacing all servers."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第六段，即便微軟成功修復了部分服務，仍有使用者回報連線問題，這顯示「全球系統恢復到完全正常運作需要時間」。選項 A 錯誤，因為文章提到恢復過程並非同步。選項 B 文章未提及需要手動重啟所有伺服器。選項 D 錯誤，因為微軟是透過調整健康檢查方法來修復，並非硬體缺陷。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fifth paragraph, what does the phrase 'aggressively pursuing all pathways' mean in the context of Microsoft's response?",
+      "options": {
+        "A": "Trying every possible method with great energy and determination.",
+        "B": "Threatening legal action against those who caused the technical failure.",
+        "C": "Moving slowly to ensure that no further mistakes are made.",
+        "D": "Ignoring minor issues to focus only on the main server problems."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在此語境中，'aggressively' 並非指「侵略性」，而是指「積極地、全力以赴地」；'pursuing all pathways' 指尋找所有可能的解決途徑。因此整句意指公司正以高度的決心嘗試各種方法來解決問題。選項 B 錯誤，文中無法律糾紛。選項 C 與 'aggressively' 的原意相反。選項 D 錯誤，因為公司目標是減少對客戶的影響，而非忽略問題。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message the author conveys regarding the Microsoft outage?",
+      "options": {
+        "A": "Microsoft is an unreliable company that should not be trusted with business data.",
+        "B": "The outage was a minor inconvenience that only affected a small group of users.",
+        "C": "Modern society's heavy reliance on cloud services makes digital infrastructure failures highly impactful.",
+        "D": "The best way to avoid productivity loss is to avoid using digital communication tools entirely."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第七段總結了此次事件，強調這提醒了現代商業與個人對雲端服務的依賴，一旦發生故障，影響範圍極廣。選項 A 過於主觀且非文章重點。選項 B 錯誤，文章提到影響了大量使用者。選項 D 雖然提到生產力損失，但文章並未建議完全放棄數位工具，而是探討維護大型數位系統的挑戰。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
