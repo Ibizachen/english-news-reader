@@ -1,0 +1,163 @@
+{
+  "id": "2026-11-13-global-microsoft-outage-disrupts-critical-services",
+  "slug": "global-microsoft-outage-disrupts-critical-services-nov-2026",
+  "publishedAt": "2026-11-13T22:14:05.449383Z",
+  "category": "technology",
+  "title": "Global Microsoft Outage Causes Major Disruptions to Critical Services",
+  "subtitle": "Technical issues impact hospitals, schools, and government offices as systems begin a slow recovery",
+  "summary": {
+    "en": "A widespread Microsoft outage recently caused significant technical problems for users around the world. The issue affected essential services, including healthcare, local government offices, and school districts. Microsoft confirmed the problem was caused by a technical error rather than a cyberattack. While many services are now returning to normal, the event highlighted the world's heavy reliance on digital tools. Officials and companies are currently working to restore full functionality to their systems.",
+    "zh": "近期一場廣泛的微軟當機事件，導致全球使用者面臨嚴重的技術問題。此次故障影響了醫療保健、地方政府辦公室及學區等重要服務。微軟證實問題是由技術錯誤而非網路攻擊所引起。儘管許多服務現已恢復正常，但此事件凸顯了全球對數位工具的高度依賴。官員與企業目前正致力於恢復系統的完整功能。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "A major technical problem with Microsoft services has caused widespread disruption across the globe, affecting everything from hospital operations to local government administration. The outage, which impacted key platforms like Outlook, Teams, and other Microsoft 365 services, left millions of users unable to access their emails, calendars, or important files. While Microsoft has reported that its services are showing signs of recovery, the incident has served as a powerful reminder of how much modern society depends on a small number of digital providers.",
+      "zh": "微軟（Microsoft）服務發生重大技術問題，導致全球各地出現廣泛的中斷，從醫院運作到地方政府行政等各個層面皆受到影響。此次當機影響了 Outlook、Teams 及其他微軟 365 服務等關鍵平台，導致數百萬名使用者無法存取電子郵件、行事曆或重要檔案。儘管微軟表示其服務已出現恢復跡象，但此事件強烈提醒了現代社會對少數數位供應商的依賴程度有多深。"
+    },
+    {
+      "id": "p2",
+      "en": "Microsoft issued a formal apology to its customers and partners, stating that it takes its responsibility to maintain these services very seriously. The company clarified that the outage was caused by a technical issue and was not related to a cyberattack or artificial intelligence agents. According to The Guardian, Microsoft executive Charles Lamanna confirmed there was no sign of malicious activity. By Friday morning, the company noted improvements in service availability, though some users continued to experience intermittent errors.",
+      "zh": "微軟向客戶與合作夥伴發布正式道歉聲明，表示公司非常重視維護這些服務的責任。微軟澄清，此次當機是由技術問題所引起，與網路攻擊或人工智慧代理程式無關。根據《衛報》（The Guardian）報導，微軟高階主管拉曼納（Charles Lamanna）證實，並無任何惡意活動的跡象。到了週五上午，該公司指出服務可用性已有改善，儘管部分使用者仍持續遇到間歇性的錯誤。"
+    },
+    {
+      "id": "p3",
+      "en": "In the United Kingdom, the impact was felt across the public sector. The cyber minister, Baroness Elizabeth Lloyd, reported that the outage affected \"back-office functions\" such as email and internal messaging. While emergency services like the 999 and NHS 111 lines remained unaffected, the disruption caused significant problems for the National Health Service (NHS). Senior health sources told The Guardian that hundreds of hospitals, GP surgeries, and community health services faced widespread issues. Staff were unable to log in, perform basic duties, or share patient data, which made the delivery of healthcare very difficult.",
+      "zh": "在英國，公共部門感受到了此次事件的衝擊。網路事務大臣伊莉莎白·洛伊德（Baroness Elizabeth Lloyd）男爵夫人報告稱，當機影響了電子郵件與內部通訊等「後勤辦公功能」。雖然 999 緊急服務與國民保健署（NHS）111 專線未受影響，但此次中斷仍對國民保健署造成嚴重問題。資深醫療消息人士向《衛報》透露，數百家醫院、家庭醫師診所及社區醫療服務皆面臨廣泛問題。工作人員無法登入系統、執行基本職務或分享病患資料，這使得醫療照護的提供變得極為困難。"
+    },
+    {
+      "id": "p4",
+      "en": "Across the United States, the situation was similarly challenging. Local governments and law enforcement agencies struggled to maintain normal operations. In Colorado, the Arapahoe County Sheriff’s Office reported that they could not process online bond payments because they relied on Outlook email notifications. This meant that, for a time, individuals could not be released from jail unless they paid in person. Similarly, the Los Angeles County Sheriff’s Department warned of disruptions to its communication platforms, while emergency services in parts of Texas asked residents to call instead of sending emails.",
+      "zh": "在美國各地，情況同樣嚴峻。地方政府與執法機構難以維持正常運作。在科羅拉多州，阿拉帕霍郡（Arapahoe County）警長辦公室報告稱，由於依賴 Outlook 電子郵件通知，他們無法處理線上保釋金支付。這意味著在一段時間內，除非當事人親自繳款，否則無法從監獄獲釋。同樣地，洛杉磯郡（Los Angeles County）警局警告其通訊平台受到干擾，而德州部分地區的緊急服務單位則要求居民改以電話聯繫，而非發送電子郵件。"
+    },
+    {
+      "id": "p5",
+      "en": "Public infrastructure also faced delays. In Maryland, the Washington Suburban Sanitary Commission, which manages drinking water and sewer treatment, noted that its technicians were delayed and some customers faced trouble paying their water bills. Meanwhile, in Washington DC, congressional staffers expressed frustration as the outage occurred during a busy legislative session. Some staff members joked about the need to conduct official business through direct messages, highlighting how essential these digital tools have become for government work.",
+      "zh": "公共基礎設施也面臨延誤。在馬里蘭州，負責管理飲用水與汙水處理的華盛頓郊區衛生委員會（Washington Suburban Sanitary Commission）指出，其技術人員的工作受到延誤，部分客戶在繳納水費時也遇到困難。同時，在華盛頓特區，國會幕僚對於當機發生在繁忙的立法會期期間感到挫折。一些工作人員開玩笑地提到需要透過直接訊息來處理公務，這凸顯了這些數位工具對於政府工作已變得多麼不可或缺。"
+    },
+    {
+      "id": "p6",
+      "en": "Education systems were not spared from the chaos. Several school districts in Virginia and New York asked parents to contact schools by phone or through alternative platforms because their usual email systems were down. At the Colorado School of Mines, faculty were encouraged to be flexible with assignment deadlines for students who could not access the necessary Microsoft tools to complete their work. Fortunately, some institutions that used different platforms, such as Google Workspace, were able to continue their operations without interruption.",
+      "zh": "教育系統也未能倖免於這場混亂。維吉尼亞州與紐約州的數個學區要求家長透過電話或替代平台聯繫學校，因為他們慣用的電子郵件系統已無法運作。在科羅拉多礦業學院（Colorado School of Mines），校方鼓勵教職員對無法存取必要微軟工具以完成作業的學生，在繳交期限上保持彈性。幸運的是，部分使用 Google Workspace 等不同平台的機構，得以在不受干擾的情況下繼續運作。"
+    },
+    {
+      "id": "p7",
+      "en": "Despite the severity of the situation, there are signs that the worst is over. The Arapahoe County Sheriff’s Office and the police department in Greensboro, North Carolina, both announced that their services had been restored. Greensboro police even shared a lighthearted message, noting that while the outage was not the outcome they wanted, they were glad to have their email back. Other technology companies, including OpenAI and Anthropic, also reported that they were working to fix issues with \"Microsoft connectors\" that had been affecting their own performance.",
+      "zh": "儘管情況嚴重，但已有跡象顯示最糟的時刻已經過去。阿拉帕霍郡警長辦公室與北卡羅來納州格林斯伯勒（Greensboro）警察局皆宣布服務已恢復。格林斯伯勒警方甚至分享了一則輕鬆的訊息，指出雖然這次當機並非他們想要的結果，但很高興能恢復使用電子郵件。包括 OpenAI 與 Anthropic 在內的其他科技公司也回報，他們正致力於修復影響自身效能的「微軟連接器」問題。"
+    },
+    {
+      "id": "p8",
+      "en": "As the dust settles, the focus has shifted to understanding the full impact of the event. The UK government is working closely with Microsoft to review what happened and how to better protect public services in the future. While the stock market remained relatively stable, with Microsoft shares even seeing a slight increase, the event has prompted a serious conversation about digital resilience. For now, organizations are encouraged to follow the advice of their local service providers and to keep alternative communication methods ready in case of future technical failures.",
+      "zh": "隨著風波平息，焦點已轉向了解此次事件的全面影響。英國政府正與微軟密切合作，檢討事發經過以及未來如何更好地保護公共服務。雖然股市保持相對穩定，微軟股價甚至出現小幅上漲，但此事件已引發關於數位韌性的嚴肅對話。目前，各組織受鼓勵遵循當地服務供應商的建議，並準備好替代的通訊方式，以防未來再次發生技術故障。"
+    }
+  ],
+  "wordCount": 768,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "spared",
+      "definitionEn": "To be saved from experiencing something unpleasant or harmful.",
+      "definitionZh": "免於遭受（不愉快或有害的）情況。",
+      "partOfSpeech": "verb (past participle)",
+      "noteZh": "常見作動詞（節省/撥出時間），這裡指免於受到影響。文中：Education systems were not spared from the chaos."
+    },
+    {
+      "term": "as the dust settles",
+      "definitionEn": "When a situation becomes calm after a period of confusion or trouble.",
+      "definitionZh": "塵埃落定；混亂平息後。",
+      "partOfSpeech": "idiom",
+      "noteZh": "比喻用法，形容混亂後的平靜狀態。文中：As the dust settles, the focus has shifted to understanding the full impact of the event."
+    },
+    {
+      "term": "down",
+      "definitionEn": "Not working or not available (usually referring to computer systems).",
+      "definitionZh": "（電腦系統）故障、無法運作。",
+      "partOfSpeech": "adjective",
+      "noteZh": "常見作副詞（向下），這裡形容系統故障。文中：Several school districts in Virginia and New York asked parents to contact schools by phone or through alternative platforms because their usual email systems were down."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Business",
+      "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
+      "title": "Microsoft outage: company ‘deeply sorry’ for disruption affecting millions and says it’s ‘not related to cyber or AI’ – as it happened",
+      "publishedAt": "2026-11-13T20:37:58Z"
+    },
+    {
+      "name": "The Guardian Business",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
+      "title": "Microsoft outage shakes up companies, schools and local governments across US",
+      "publishedAt": "2026-11-13T21:13:59Z"
+    }
+  ],
+  "story": {
+    "id": "global-microsoft-outage-impacts-services",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "global-microsoft-outage-impacts-services-nov-2026",
+        "title": "Global Microsoft Outage Causes Widespread Service Disruptions",
+        "publishedAt": "2026-11-13T02:36:46.877857Z",
+        "category": "technology",
+        "summaryEn": "A major technical problem recently caused significant issues for Microsoft users across the globe. Many people could not access their email accounts or use workplace communication tools like Teams. Microsoft reported that a failure during automated system checks caused several servers to stop working correctly. The company worked quickly to test and apply a fix to restore these services. While many systems have returned to normal, the incident highlights how much modern work depends on cloud-based technology."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, how was the Arapahoe County Sheriff’s Office in Colorado specifically impacted by the Microsoft outage?",
+      "options": {
+        "A": "They were unable to receive emergency 911 calls from the public.",
+        "B": "They could not process online bond payments due to a lack of email notifications.",
+        "C": "They were forced to close their office entirely for the duration of the outage.",
+        "D": "They had to switch all their internal communication to Google Workspace."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第四段，Arapahoe County Sheriff’s Office 明確提到他們無法處理線上保釋金支付，原因是該流程依賴 Outlook 的電子郵件通知。選項 A 錯誤，因為文章提到緊急服務（如 999/NHS）在英國未受影響，且文中未指明該警局無法接聽緊急電話；選項 C 錯誤，文中僅提到無法處理保釋金，並非完全關閉；選項 D 為無中生有的資訊，文中並未提到他們更換系統。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the vulnerability of modern public institutions based on the article?",
+      "options": {
+        "A": "Most public institutions have already switched to backup systems to prevent future outages.",
+        "B": "The reliance on a narrow range of digital service providers creates significant risks for essential operations.",
+        "C": "Cyberattacks are the primary reason why public services are currently struggling with technology.",
+        "D": "Government agencies are now completely independent of private technology companies."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第一段最後一句提到，這次事件提醒了現代社會對少數數位供應商的依賴程度。透過文中各個機構（醫院、警局、學校、政府）皆因微軟系統故障而癱瘓的例子，可以推論出這種對單一供應商的高度依賴造成了系統性風險。選項 A 錯誤，因為文章最後提到組織才剛開始被建議要準備替代方案；選項 C 與文章第二段內容矛盾（已排除網路攻擊）；選項 D 與事實不符，政府仍高度依賴這些服務。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the phrase 'As the dust settles' mean in the context of the article?",
+      "options": {
+        "A": "When the physical environment is cleaned after a construction project.",
+        "B": "After a period of confusion or conflict, when things begin to calm down.",
+        "C": "The moment when the technical problem is completely forgotten by the public.",
+        "D": "The specific time when the stock market begins to crash due to the incident."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。片語 'As the dust settles' 是一個慣用語，用來形容在混亂、動盪或衝突事件結束後，局勢逐漸平靜、人們開始冷靜評估狀況的過程。在此文中，它用來引出事件結束後，政府與機構開始檢討與評估影響的階段。選項 A 是字面意思，不符合語境；選項 C 錯誤，因為事件剛結束，人們並未忘記；選項 D 與文章內容矛盾，文中提到股市相對穩定。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "Which of the following best summarizes the main message of the article?",
+      "options": {
+        "A": "Microsoft has successfully prevented all future cyberattacks on public infrastructure.",
+        "B": "The outage was a minor technical glitch that had no real-world consequences for citizens.",
+        "C": "Digital tools have become so essential that their failure causes widespread disruption to critical societal functions.",
+        "D": "Schools and hospitals should stop using digital technology to avoid future service interruptions."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。本文的核心在於報導微軟大規模當機事件，並透過醫院、警局、政府與學校的案例，說明現代社會運作對數位工具的依賴程度極高。選項 A 錯誤，文章未提及未來防禦能力；選項 B 錯誤，文章列舉了許多嚴重的現實影響；選項 D 錯誤，文章建議的是建立「替代方案」（alternative methods），而非完全放棄數位技術。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}

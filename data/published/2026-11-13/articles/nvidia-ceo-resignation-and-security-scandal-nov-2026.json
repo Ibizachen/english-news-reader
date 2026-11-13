@@ -1,0 +1,158 @@
+{
+  "id": "2026-11-13-nvidia-ceo-resignation-and-security-scandal",
+  "slug": "nvidia-ceo-resignation-and-security-scandal-nov-2026",
+  "publishedAt": "2026-11-13T22:14:05.449383Z",
+  "category": "economics",
+  "title": "Nvidia Faces Uncertain Future After CEO Resignation",
+  "subtitle": "Interim leader Colette Kress takes charge as the company deals with spy allegations and falling stock prices",
+  "summary": {
+    "en": "Nvidia CEO Jensen Huang has resigned following reports of personal affairs, including one with a woman suspected of being a Chinese intelligence asset. The company has appointed Chief Financial Officer Colette Kress as interim CEO to lead through this crisis. Nvidia is currently under investigation for potential violations of US export rules regarding powerful AI chips. The company's stock value has dropped significantly since the scandal began. Kress must now work to restore investor confidence and manage complex government probes.",
+    "zh": "輝達執行長黃仁勳因個人醜聞報導而辭職，其中包括與一名疑似中國情報人員的女子發生婚外情。該公司已任命財務長柯蕾特．克雷斯為臨時執行長，以帶領公司度過此次危機。輝達目前正因可能違反美國關於強大人工智慧晶片的出口限制規定而接受調查。自醜聞爆發以來，該公司的股票價值已大幅下跌。克雷斯現在必須致力於恢復投資人信心，並處理複雜的政府調查。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Nvidia, the company at the heart of the global artificial intelligence boom, is facing a period of deep uncertainty. Jensen Huang, who led the firm for over 30 years, has officially resigned as CEO. This sudden change in leadership follows a series of personal scandals that have shaken the technology industry and caused the company’s total value to drop by more than $600 billion.",
+      "zh": "輝達（Nvidia）這家處於全球人工智慧熱潮核心的公司，正面臨一段充滿高度不確定性的時期。帶領該公司超過三十年的黃仁勳（Jensen Huang）已正式辭去執行長職務。這場突如其來的領導層變動，源於一系列撼動科技產業的個人醜聞，這些醜聞已導致該公司總市值蒸發超過六千億美元。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Guardian, the crisis began when it was revealed that Huang had an extramarital affair with a woman named Alice Huang. US officials suspect that she may have been acting as an intelligence asset for China. While China has denied these claims, calling them a \"smear,\" the situation has created serious legal and security concerns for Nvidia. The company is now under a microscope as US authorities investigate whether it broke laws by sending powerful AI chips to China. The US government has strict export restrictions—rules that limit the sale of advanced technology to certain countries—to protect national security.",
+      "zh": "根據《衛報》（The Guardian）報導，這場危機始於黃仁勳被揭露與一名名為艾莉絲．黃（Alice Huang）的女子發生婚外情。美國官員懷疑該名女子可能擔任中國的情報人員。儘管中國否認這些指控，並稱其為「抹黑」，但此情況已為輝達帶來嚴重的法律與安全疑慮。目前輝達正處於顯微鏡下，美國當局正在調查該公司是否透過向中國輸送強大的人工智慧晶片而觸犯法律。美國政府設有嚴格的出口限制——即限制向特定國家銷售先進技術的規定——以維護國家安全。"
+    },
+    {
+      "id": "p3",
+      "en": "NPR reports that the company’s board has named Colette Kress as the interim CEO. Kress, who has served as Nvidia’s Chief Financial Officer for years, is a well-known figure to the company’s investors and business partners. As the person who managed the company’s finances, she is already familiar with the complex business deals that Huang handled. Experts suggest that her main goal will be to reassure the market that Nvidia remains strong despite the recent turmoil.",
+      "zh": "美國國家公共廣播電台（NPR）報導，輝達董事會已任命柯蕾特．克雷斯（Colette Kress）為臨時執行長。克雷斯多年來一直擔任輝達的財務長，對於公司的投資人與商業夥伴而言，她是位熟面孔。身為負責管理公司財務的人員，她對於黃仁勳過去處理的複雜商業交易早已瞭若指掌。專家認為，她的首要目標將是向市場保證，儘管近期動盪不斷，輝達依然穩健。"
+    },
+    {
+      "id": "p4",
+      "en": "Tammy Madsen, a professor at Santa Clara University, told NPR that Kress faces a difficult balancing act. She must manage the immediate fallout from the scandal while keeping the company’s long-term goals on track. Nvidia is a \"linchpin\"—a central and essential part—of the AI economy because it produces the vast majority of the specialized chips, known as GPUs, that power modern AI systems. Investors are worried, and the company’s share price has fallen by more than 10% since the news first broke.",
+      "zh": "聖塔克拉拉大學（Santa Clara University）教授塔米．馬德森（Tammy Madsen）向 NPR 表示，克雷斯正面臨一場艱難的平衡挑戰。她必須處理醜聞帶來的立即性衝擊，同時確保公司的長期目標不偏離軌道。輝達是人工智慧經濟的「關鍵支柱」——即核心且不可或缺的部分——因為它生產了絕大多數用於驅動現代人工智慧系統的特殊晶片，即圖形處理器（GPU）。投資人感到憂心，自消息傳出以來，該公司的股價已下跌超過百分之十。"
+    },
+    {
+      "id": "p5",
+      "en": "The scandal has also brought attention to Nvidia’s business practices. Reports from the New York Times and other outlets highlight concerns over \"circular-financing\" agreements. In these arrangements, Nvidia reportedly invested money in certain companies, which then used that money to purchase Nvidia’s AI chips. Because Kress was deeply involved in the company’s financial planning, she is expected to have a clear understanding of these arrangements as the company prepares for government investigations.",
+      "zh": "這起醜聞也讓外界開始關注輝達的商業行為。《紐約時報》（New York Times）及其他媒體的報導凸顯了對「循環融資」協議的擔憂。據報導，在這些安排中，輝達投資了特定公司，而這些公司隨後又利用這筆資金購買輝達的人工智慧晶片。由於克雷斯深度參與了公司的財務規劃，在公司準備面對政府調查之際，預計她能清楚掌握這些安排的細節。"
+    },
+    {
+      "id": "p6",
+      "en": "The situation grew more complicated when it was revealed that there was a second affair involving another Nvidia executive. This news, reported by the New York Times, added to the pressure on the board to move quickly. The company is now preparing for a formal probe by the US Congress, which will likely examine the relationship between Nvidia and Megaspeed, the datacenter firm linked to Alice Huang. Before the scandal, Megaspeed had received hundreds of shipments of Nvidia’s advanced chips, which were then used to provide computing power to major Chinese firms.",
+      "zh": "當另一名輝達高層也被揭露涉及婚外情時，情況變得更加複雜。《紐約時報》報導了這則消息，進一步加劇了董事會必須迅速採取行動的壓力。目前，該公司正準備迎接美國國會的正式調查，調查內容預計將檢視輝達與和艾莉絲．黃有關聯的資料中心公司「Megaspeed」之間的關係。在醜聞爆發前，Megaspeed 已接收數百批輝達的先進晶片，這些晶片隨後被用於為中國大型企業提供運算能力。"
+    },
+    {
+      "id": "p7",
+      "en": "For now, the focus at Nvidia is on stability. The company must navigate an internal investigation into Huang’s actions while simultaneously dealing with the potential for new government regulations. As Kress takes the lead, the tech world is watching closely to see if she can restore the company's reputation. Whether Nvidia can maintain its dominant market position depends on how effectively it addresses these security concerns and how quickly it can move past the scandals of its former leader. For the employees and investors who helped build Nvidia into a $4 trillion juggernaut, the coming months will be a test of the company's resilience.",
+      "zh": "目前，輝達的重心在於穩定局勢。公司必須在處理針對黃仁勳行為的內部調查之餘，同時應對可能出現的新政府法規。隨著克雷斯接掌大權，科技界正密切關注她是否能挽回公司的聲譽。輝達能否維持其市場主導地位，取決於它解決這些安全疑慮的效率，以及它能多快擺脫前任領導人醜聞的陰影。對於協助將輝達打造成四兆美元巨擘的員工與投資人而言，未來幾個月將是考驗公司韌性的關鍵時刻。"
+    }
+  ],
+  "wordCount": 685,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "under a microscope",
+      "definitionEn": "Being watched or examined very closely.",
+      "definitionZh": "被嚴密監控、被放大檢視。",
+      "partOfSpeech": "idiom",
+      "noteZh": "字面意思是「在顯微鏡下」，這裡指受到嚴格審查。文中：The company is now under a microscope as US authorities investigate whether it broke laws by sending powerful AI chips to China."
+    },
+    {
+      "term": "balancing act",
+      "definitionEn": "A situation where someone must manage two or more difficult or competing tasks at the same time.",
+      "definitionZh": "平衡手段；同時處理多項困難任務的狀態。",
+      "partOfSpeech": "noun",
+      "noteZh": "原意指馬戲團的平衡表演，這裡比喻同時處理多重壓力。文中：Tammy Madsen, a professor at Santa Clara University, told NPR that Kress faces a difficult balancing act."
+    },
+    {
+      "term": "juggernaut",
+      "definitionEn": "A huge, powerful, and overwhelming force or institution.",
+      "definitionZh": "勢不可擋的龐然大物；強大的機構。",
+      "partOfSpeech": "noun",
+      "noteZh": "此詞常形容規模巨大且具影響力的公司。文中：For the employees and investors who helped build Nvidia into a $4 trillion juggernaut, the coming months will be a test of the company's resilience."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Business",
+      "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-affair-timeline",
+      "title": "A timeline of the affair scandal that sank Nvidia’s Jensen Huang",
+      "publishedAt": "2026-11-13T04:00:08Z"
+    },
+    {
+      "name": "NPR News",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6038889/colette-kress-becomes-nvidias-interim-ceo-after-jensen-huang-resigns",
+      "title": "Colette Kress becomes Nvidia's interim CEO after Jensen Huang resigns",
+      "publishedAt": "2026-11-13T11:47:38Z"
+    }
+  ],
+  "story": {
+    "id": "nvidia-investigates-ceo-over-alleged-spy-ties",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "nvidia-ceo-jensen-huang-resigns-amid-scandal-nov-2026",
+        "title": "Nvidia CEO Jensen Huang Resigns Following Scandal",
+        "publishedAt": "2026-11-12T22:13:51.239067Z",
+        "category": "technology",
+        "summaryEn": "Jensen Huang has officially resigned as the CEO of Nvidia after reports of personal affairs surfaced. One of these relationships involved a woman alleged to be a Chinese spy. The company has appointed Colette Kress as the interim leader while they search for a permanent replacement. Despite the scandal, many tech leaders have expressed support for Huang's past achievements. The situation has raised serious questions about national security and the future of the company."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the primary reason the US government is investigating Nvidia's past business dealings with Megaspeed?",
+      "options": {
+        "A": "Because Megaspeed was found to be stealing Nvidia's proprietary chip designs.",
+        "B": "Because of concerns that Nvidia may have violated export restrictions by sending advanced chips to China.",
+        "C": "Because the company's total value dropped by $600 billion due to the CEO's personal scandals.",
+        "D": "Because Colette Kress failed to report the financial records of the datacenter firm to the board."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案是 B。文章第二段明確提到，美國當局正在調查 Nvidia 是否違反了出口限制（export restrictions），將強大的 AI 晶片運送至中國。選項 A 文中未提及竊取設計；選項 C 雖然提到市值下跌，但這是醜聞的結果而非調查的原因；選項 D 則是對 Colette Kress 角色的誤解，她並未隱瞞紀錄，而是因熟悉財務而被任命為代理執行長。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the text, why might Colette Kress be uniquely positioned to handle the upcoming government investigations?",
+      "options": {
+        "A": "She was not involved in any of the company's previous financial or business decisions.",
+        "B": "She has personal connections to the US officials currently leading the congressional probe.",
+        "C": "Her previous role as CFO gave her deep insight into the complex financial agreements now under scrutiny.",
+        "D": "She has already successfully convinced investors that the company's share price will recover quickly."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案是 C。文章第五段提到 Kress 作為財務長（CFO）深入參與了公司的財務規劃，且文章提到她對「循環融資」（circular-financing）協議有清楚的理解，這些正是政府調查的重點。選項 A 與事實相反；選項 B 文中完全未提及她與官員的私人關係；選項 D 雖然提到她的目標是安撫市場，但並未說她已經成功讓股價恢復。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fourth paragraph, what does the author mean by calling Nvidia a \"linchpin\" of the AI economy?",
+      "options": {
+        "A": "It is an essential component that holds the entire AI industry together.",
+        "B": "It is a company that is currently failing due to internal management issues.",
+        "C": "It is a small, insignificant firm that has little impact on global technology.",
+        "D": "It is a business that relies entirely on foreign government funding to survive."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案是 A。文章第四段將 Nvidia 形容為「linchpin」，並解釋其為「central and essential part」（核心且不可或缺的部分），因為它生產了現代 AI 系統所需的絕大多數 GPU。選項 B 與該詞的正面定義矛盾；選項 C 與文中描述其市場地位的詞彙相反；選項 D 文中並未提及公司依賴外國政府資金。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article regarding Nvidia's current situation?",
+      "options": {
+        "A": "The company is successfully rebranding itself under the leadership of Colette Kress.",
+        "B": "The global AI boom is ending because Nvidia has lost its ability to manufacture chips.",
+        "C": "Nvidia is facing a critical period of instability due to leadership scandals and legal/security challenges.",
+        "D": "The US government has decided to shut down Nvidia permanently due to its relationship with Megaspeed."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案是 C。全文主旨圍繞在 Nvidia 因執行長醜聞、潛在的法律調查及出口管制問題，正面臨極大的不確定性與挑戰。選項 A 錯誤，因為公司仍在處理危機中，尚未談及重塑品牌成功；選項 B 過度推論，文中未提及 AI 熱潮結束；選項 D 錯誤，文中僅提到調查，並未提到政府要關閉該公司。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
