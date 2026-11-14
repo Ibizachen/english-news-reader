@@ -1,0 +1,172 @@
+{
+  "id": "2026-11-14-global-microsoft-outage-disrupts-critical-services",
+  "slug": "global-microsoft-outage-disrupts-critical-services-nov-2026",
+  "publishedAt": "2026-11-14T02:25:14.201017Z",
+  "category": "technology",
+  "title": "Microsoft Services Recover After Global Outage Disrupts Critical Systems",
+  "subtitle": "Technical issues caused widespread delays for governments, schools, and businesses, but officials confirm the problem was not a cyberattack.",
+  "summary": {
+    "en": "Microsoft has reported a broad recovery following a significant two-day outage that affected its email and cloud services globally. The disruption caused major problems for local governments, schools, and businesses across the United States. Microsoft clarified that the issue was caused by a technical error during a network upgrade rather than a cyberattack. While systems are coming back online, some users may still experience minor delays or errors. The company has promised to release a full report once they complete their investigation.",
+    "zh": "微軟回報在經歷兩天的大規模當機、影響全球電子郵件與雲端服務後，系統已全面恢復。此次中斷對美國各地的地方政府、學校與企業造成重大困擾。微軟澄清問題是由網路升級期間的技術錯誤所致，而非網路攻擊。雖然系統正陸續恢復上線，但部分用戶可能仍會遇到輕微延遲或錯誤。該公司承諾在完成調查後，將發布完整報告。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Microsoft services are showing signs of broad recovery after a major outage that lasted nearly two days and affected millions of users around the world. The disruption, which began on Thursday afternoon, impacted essential tools including Outlook, Teams, and cloud storage systems. By Friday, Microsoft stated that it had addressed the underlying technical problem and was working to restore full access for all remaining customers.",
+      "zh": "微軟（Microsoft）的服務在經歷了近兩天、影響全球數百萬用戶的大規模當機後，已顯現出全面恢復的跡象。這場始於週四下午的服務中斷，影響了包括 Outlook、Teams 以及雲端儲存系統在內的重要工具。到了週五，微軟表示已解決底層技術問題，並正致力於為所有剩餘客戶恢復完整存取權限。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Verge, the outage was caused by a technical error that happened during a network capacity upgrade. Microsoft executive Charles Lamanna and other company representatives confirmed that there is no evidence of malicious activity, such as a cyberattack or issues related to artificial intelligence. The company apologized for the disruption, noting that they restored services gradually to ensure stability across their global network.",
+      "zh": "根據科技新聞網站 The Verge 報導，此次當機是由網路容量升級期間發生的技術錯誤所導致。微軟高階主管拉曼納（Charles Lamanna）與其他公司代表證實，目前沒有證據顯示這是網路攻擊或與人工智慧相關問題等惡意活動所致。該公司對此次中斷表示歉意，並指出他們正逐步恢復服務，以確保全球網路的穩定性。"
+    },
+    {
+      "id": "p3",
+      "en": "The impact of the outage was felt across many sectors in the United States. Local governments, including those in Miami, Maryland, and Los Angeles, reported that staff could not access email or other communication platforms. In Colorado, an Arapahoe County detention facility was unable to process online bond payments for detainees, forcing the office to ask people to visit the jail in person to complete these transactions. Emergency services in parts of Texas also had to ask residents to call by phone instead of sending emails, as their digital systems were offline.",
+      "zh": "這場當機的影響遍及美國多個產業。包括邁阿密、馬里蘭州與洛杉磯在內的地方政府回報，員工無法存取電子郵件或其他通訊平台。在科羅拉多州的阿拉帕霍郡拘留所，由於無法處理受拘留者的線上保釋金支付，辦公室被迫要求民眾親自前往監獄完成交易。德州部分地區的緊急服務單位也因數位系統離線，不得不要求居民改以電話聯繫，而非發送電子郵件。"
+    },
+    {
+      "id": "p4",
+      "en": "The disruption also reached into the halls of government and the classroom. Congressional staffers in Washington D.C. reported that the outage made it difficult to negotiate new laws during the current session of Congress. Meanwhile, school districts in Virginia and New York asked parents to use other ways to contact schools, as their primary communication tools were not working. At the Colorado School of Mines, faculty members were encouraged to be flexible with assignment deadlines for students who could not access the necessary Microsoft tools to finish their work.",
+      "zh": "服務中斷也波及了政府機關與校園。華盛頓特區的國會幕僚表示，當機導致在國會會期中協商新法案變得困難。與此同時，維吉尼亞州與紐約州的學區要求家長改用其他方式聯繫學校，因為他們的主要通訊工具無法運作。在科羅拉多礦業學院，教職員被鼓勵對無法存取必要微軟工具以完成作業的學生，在繳交期限上採取彈性處理。"
+    },
+    {
+      "id": "p5",
+      "en": "Businesses also faced significant challenges. On Wall Street, the industrial manufacturer Workhorse Group had to reschedule an important earnings call that was originally set for Thursday. Other technology companies were affected as well; OpenAI reported that it was investigating issues with \"Microsoft connectors,\" which are tools that allow different software programs to talk to each other. Anthropic, the developer of the AI tool Claude, also noted that it was seeing signs of recovery but warned that some users might still receive error messages.",
+      "zh": "企業也面臨嚴峻挑戰。在華爾街，工業製造商 Workhorse Group 不得不重新安排原定於週四舉行的重要財報會議。其他科技公司也受到波及；OpenAI 回報稱正在調查「微軟連接器」的問題，這些工具是用於讓不同軟體程式之間進行溝通。人工智慧工具 Claude 的開發商 Anthropic 也指出，雖然已看到恢復跡象，但警告部分用戶可能仍會收到錯誤訊息。"
+    },
+    {
+      "id": "p6",
+      "en": "While Microsoft reported \"improvements in service availability\" on Friday morning, the company acknowledged that some users might still experience a degraded state, meaning some features may run slower or have minor issues. The flow of emails might also be delayed as the system catches up after the long outage. Microsoft has promised to share a full report on the incident once their internal review is complete.",
+      "zh": "儘管微軟在週五上午回報「服務可用性有所改善」，但該公司坦言部分用戶可能仍會經歷服務品質下降的情況，這意味著某些功能執行速度可能較慢或出現輕微問題。隨著系統在長時間當機後進行追趕，電子郵件的傳輸也可能出現延遲。微軟承諾在內部審查完成後，將針對此次事件發布完整報告。"
+    },
+    {
+      "id": "p7",
+      "en": "This event highlights how much modern society relies on a small number of large technology providers. When these systems fail, the impact is felt immediately by public services, schools, and private companies alike. As the world moves toward more digital solutions, the stability of these platforms remains a critical concern for both users and the companies that manage them. For now, most users can expect their services to return to normal as Microsoft continues to monitor the situation and finalize its recovery efforts.",
+      "zh": "此事件凸顯了現代社會對少數大型科技供應商的依賴程度。當這些系統故障時，公共服務、學校與私人企業會立即感受到影響。隨著世界朝向更多數位化解決方案邁進，這些平台的穩定性對用戶與管理這些平台的公司而言，始終是至關重要的議題。目前，隨著微軟持續監控情況並完成復原工作，大多數用戶應可預期服務恢復正常。"
+    }
+  ],
+  "wordCount": 632,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "addressed",
+      "definitionEn": "To deal with or take action on a problem or task.",
+      "definitionZh": "處理、應對（問題或困難）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（地址），這裡作動詞，指解決問題。文中：Microsoft stated that it had addressed the underlying technical problem and was working to restore full access for all remaining customers."
+    },
+    {
+      "term": "talk to each other",
+      "definitionEn": "To be able to exchange information or interact (used for software or systems).",
+      "definitionZh": "（軟體或系統間）互相溝通、傳輸資料。",
+      "partOfSpeech": "idiom",
+      "noteZh": "字面意思是人與人交談，這裡指軟體系統間的數據交換。文中：OpenAI reported that it was investigating issues with \"Microsoft connectors,\" which are tools that allow different software programs to talk to each other."
+    },
+    {
+      "term": "degraded",
+      "definitionEn": "Reduced in quality or performance.",
+      "definitionZh": "降級的、效能變差的。",
+      "partOfSpeech": "adjective",
+      "noteZh": "在科技語境中指系統運作不順暢，而非道德上的墮落。文中：the company acknowledged that some users might still experience a degraded state, meaning some features may run slower or have minor issues."
+    },
+    {
+      "term": "catches up",
+      "definitionEn": "To reach the same level or state as before after a delay.",
+      "definitionZh": "趕上進度、恢復正常運作。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這裡形容系統在停擺後處理累積的資料。文中：The flow of emails might also be delayed as the system catches up after the long outage."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Business",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
+      "title": "Microsoft outage shakes up companies, schools and local governments across US",
+      "publishedAt": "2026-11-13T21:13:59Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+      "title": "Microsoft&#8217;s massive Outlook outage might be over",
+      "publishedAt": "2026-11-13T16:17:11Z"
+    }
+  ],
+  "story": {
+    "id": "global-microsoft-outage-impacts-services",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "global-microsoft-outage-disrupts-critical-services-nov-2026",
+        "title": "Global Microsoft Outage Causes Major Disruptions to Critical Services",
+        "publishedAt": "2026-11-13T22:14:05.449383Z",
+        "category": "technology",
+        "summaryEn": "A widespread Microsoft outage recently caused significant technical problems for users around the world. The issue affected essential services, including healthcare, local government offices, and school districts. Microsoft confirmed the problem was caused by a technical error rather than a cyberattack. While many services are now returning to normal, the event highlighted the world's heavy reliance on digital tools. Officials and companies are currently working to restore full functionality to their systems."
+      },
+      {
+        "slug": "global-microsoft-outage-impacts-services-nov-2026",
+        "title": "Global Microsoft Outage Causes Widespread Service Disruptions",
+        "publishedAt": "2026-11-13T02:36:46.877857Z",
+        "category": "technology",
+        "summaryEn": "A major technical problem recently caused significant issues for Microsoft users across the globe. Many people could not access their email accounts or use workplace communication tools like Teams. Microsoft reported that a failure during automated system checks caused several servers to stop working correctly. The company worked quickly to test and apply a fix to restore these services. While many systems have returned to normal, the incident highlights how much modern work depends on cloud-based technology."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what specific action were people in Arapahoe County required to take due to the Microsoft outage?",
+      "options": {
+        "A": "They had to send physical letters to the detention facility.",
+        "B": "They had to travel to the jail in person to pay bond fees.",
+        "C": "They had to use a different software platform to process payments.",
+        "D": "They had to wait for the system to recover before making payments."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，科羅拉多州的 Arapahoe County 拘留中心因為無法處理線上保釋金支付，要求民眾親自前往監獄辦理。選項 A 錯誤，文中並未提到使用紙本信件；選項 C 錯誤，文中提到的是改用電話或親自辦理，而非更換軟體；選項 D 錯誤，雖然系統最終會恢復，但在當時的情況下，民眾被要求親自前往，而非僅僅是等待。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the impact of the outage on the educational sector?",
+      "options": {
+        "A": "Schools were forced to close down completely for two days.",
+        "B": "Teachers were required to cancel all upcoming student assignments.",
+        "C": "The outage disrupted standard communication channels between schools and families.",
+        "D": "Students were unable to attend classes because of the lack of Microsoft tools."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第四段，維吉尼亞州與紐約州的學區要求家長使用其他方式聯繫學校，這顯示主要的溝通工具失效。選項 A 錯誤，文中僅提到溝通受阻，未提及學校關閉；選項 B 錯誤，科羅拉多礦業大學是鼓勵教師對作業期限保持彈性，而非取消作業；選項 D 錯誤，文中提到的是無法使用工具完成作業，而非無法上課。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the word 'degraded' most likely mean as it is used in the context of service availability?",
+      "options": {
+        "A": "Completely broken or inaccessible.",
+        "B": "Operating at a reduced level of quality or performance.",
+        "C": "Being updated to a newer, more advanced version.",
+        "D": "Experiencing a temporary improvement in speed."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第六段，微軟提到用戶可能仍會經歷 'degraded state'，並解釋這意味著某些功能執行速度較慢或有小問題。這代表服務並未完全中斷，但品質下降。選項 A 錯誤，因為這與 'degraded' 的程度不符；選項 C 錯誤，這不是系統升級；選項 D 錯誤，這與文章中描述的負面狀態相反。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of this article regarding the Microsoft outage?",
+      "options": {
+        "A": "It explains the technical steps Microsoft took to fix the network error.",
+        "B": "It highlights the importance of cybersecurity against malicious attacks.",
+        "C": "It details how individual companies like OpenAI and Anthropic handled the crisis.",
+        "D": "It illustrates modern society's heavy reliance on a few major technology providers."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。文章最後一段明確指出，此事件凸顯了現代社會對少數大型科技供應商的高度依賴，當這些系統故障時，公部門、學校與企業都會受到立即影響。選項 A 只是文章一部分的細節；選項 B 錯誤，文中已排除惡意攻擊的可能性；選項 C 僅為文章中提到的部分案例，並非文章的核心主旨。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
