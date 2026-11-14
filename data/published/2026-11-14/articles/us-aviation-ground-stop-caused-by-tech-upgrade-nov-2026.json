@@ -1,0 +1,147 @@
+{
+  "id": "2026-11-14-us-aviation-ground-stop-caused-by-tech-upgrade",
+  "slug": "us-aviation-ground-stop-caused-by-tech-upgrade-nov-2026",
+  "publishedAt": "2026-11-14T22:13:58.355755Z",
+  "category": "politics",
+  "title": "US Aviation System Slowly Recovers After Massive Tech Failure",
+  "subtitle": "Transportation officials blame outdated equipment for a nationwide ground stop that left thousands of travelers stuck.",
+  "summary": {
+    "en": "A major technical failure caused a nationwide ground stop for U.S. aviation on Friday. Transportation Secretary Sean Duffy stated that the problem occurred during a routine technology upgrade. Thousands of flights were delayed or cancelled, affecting passengers across the country. Officials are now investigating whether the error was caused by human mistake or faulty equipment. The system is slowly returning to normal, but officials warn that delays will continue through the weekend.",
+    "zh": "週五發生的一場重大技術故障，導致美國航空業全國停飛。運輸部長達菲表示，問題發生在進行技術升級的例行作業期間。數千個航班延誤或取消，影響了全國各地的旅客。官員目前正在調查錯誤是源於人為疏失還是設備瑕疵。系統正緩慢恢復正常，但官員警告延誤情況將持續至週末。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Air travel across the United States is slowly returning to normal after a rare and massive technical failure caused a nationwide ground stop on Friday. For about four hours, no planes were allowed to take off at airports across the country. This event was one of the largest disruptions to the American aviation system since the terrorist attacks of September 11, 2001. While the system is now back online, thousands of passengers remain stuck at airports, waiting for their travel plans to be fixed.",
+      "zh": "在經歷週五一場罕見且大規模的技術故障，導致全美航班停飛後，美國各地的航空交通正緩慢恢復正常。在約四個小時的時間裡，全國機場禁止任何飛機起飛。這起事件是自二〇〇一年九月十一日恐怖攻擊以來，美國航空系統遭遇的最大規模中斷之一。儘管系統現已恢復運作，仍有數千名旅客滯留在機場，等待行程安排獲得解決。"
+    },
+    {
+      "id": "p2",
+      "en": "According to NPR News, the trouble began during a routine update to the Federal Aviation Administration (FAA) telecommunication lines. Transportation Secretary Sean Duffy explained that a contractor, L3Harris, was working at a remote location to change old copper wires to modern fiber optics. During this work, an equipment issue caused problems that flooded other routers in the air traffic control system. A ground stop — a formal order to keep all planes on the ground — was then issued to ensure safety while officials worked to fix the network.",
+      "zh": "根據美國國家公共廣播電台（NPR）報導，問題始於聯邦航空總署（FAA）進行電信線路例行更新期間。運輸部長達菲（Sean Duffy）解釋，承包商 L3Harris 當時正在遠端作業，將舊式銅線更換為現代化的光纖。作業過程中，設備問題導致空中交通管制系統中的其他路由器出現故障。為了確保安全，當局隨即發布停飛令，正式要求所有飛機留在地面，同時全力修復網路。"
+    },
+    {
+      "id": "p3",
+      "en": "FAA administrator Bryan Bedford noted that the agency is still investigating the exact cause of the failure. Officials are trying to find out if the error was caused by human mistake during the installation or if the new equipment itself was faulty. In a statement, L3Harris confirmed they are working closely with the FAA to understand what happened. The company stated that they have been helping the FAA modernize its infrastructure for some time, having already completed more than 70% of the planned conversions from copper to digital systems.",
+      "zh": "聯邦航空總署署長貝德福德（Bryan Bedford）指出，該機構仍在調查故障的確切原因。官員正試圖釐清錯誤是由於安裝過程中的人為疏失，還是新設備本身存在瑕疵。L3Harris 在聲明中證實，他們正與聯邦航空總署密切合作以釐清事發經過。該公司表示，他們協助聯邦航空總署進行基礎設施現代化已有一段時間，目前已完成超過百分之七十從銅線轉換為數位系統的計畫。"
+    },
+    {
+      "id": "p4",
+      "en": "Secretary Duffy used the event to highlight the age of the equipment currently used by the FAA. He explained that while many American institutions have moved from old analog systems to digital ones, the FAA has been slower to change because of a lack of investment. \"When I tell you that we're using old equipment, we're using old equipment,\" Duffy said during a media briefing. He noted that he has been asking Congress for more money to modernize these systems for some time. In July 2025, Congress did approve $12.5 billion for these improvements, but Duffy argued that the country must act faster to prevent future problems.",
+      "zh": "達菲部長藉此事件強調聯邦航空總署目前所用設備的老舊程度。他解釋，雖然許多美國機構已從舊式類比系統轉向數位系統，但由於缺乏投資，聯邦航空總署的轉型速度較慢。達菲在媒體簡報會上表示：「當我說我們正在使用老舊設備時，我們確實是在使用老舊設備。」他提到自己已多次向國會爭取更多資金來進行系統現代化。儘管國會於二〇二五年七月批准了一百二十五億美元的改善經費，但達菲主張國家必須採取更迅速的行動，以防止未來再次發生類似問題。"
+    },
+    {
+      "id": "p5",
+      "en": "The impact on travelers has been significant. Data from FlightAware shows that nearly 25,000 flights were delayed and over 9,000 were cancelled on Friday alone. Even on Saturday morning, aviation analytics company Cirium recorded that 18% of flights departing the U.S. were cancelled. Administrator Bedford promised that all affected passengers would be placed on new flights or receive a full refund, but he advised people to contact their airlines directly for help. He also confirmed that there was no evidence of any criminal activity or artificial intelligence (AI) involvement in the system failure.",
+      "zh": "這對旅客造成的影響相當巨大。根據航班追蹤網站 FlightAware 的數據顯示，僅在週五當天，就有近兩萬五千個航班延誤，超過九千個航班取消。即使到了週六上午，航空分析公司 Cirium 仍記錄到美國出發的航班中有百分之十八遭到取消。貝德福德署長承諾，所有受影響的旅客都將被安排搭乘新航班或獲得全額退款，但他建議民眾直接聯繫航空公司尋求協助。他也證實，目前沒有證據顯示此次系統故障涉及任何犯罪活動或人工智慧（AI）介入。"
+    },
+    {
+      "id": "p6",
+      "en": "Looking ahead, the FAA expects the schedule to be mostly resolved by Sunday evening. However, the situation remains difficult for many travelers who are still waiting in airports. Secretary Duffy emphasized that this incident serves as a warning for the nation. He questioned how much longer the country can wait to replace its aging technology before other systems face similar risks. For now, the priority remains getting the thousands of stranded passengers to their destinations as quickly as possible while the investigation into the technical error continues.",
+      "zh": "展望未來，聯邦航空總署預計航班時刻表將在週日晚間大致恢復正常。然而，對於許多仍在機場苦候的旅客來說，情況依然艱難。達菲部長強調，這起事件對全國而言是一項警訊。他質疑在其他系統面臨類似風險之前，國家還能等待多久才更換老舊技術。目前，當局的首要任務仍是在持續調查技術錯誤的同時，盡快將數千名滯留旅客送往目的地。"
+    }
+  ],
+  "wordCount": 642,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "ground stop",
+      "definitionEn": "An official order preventing aircraft from taking off.",
+      "definitionZh": "地面停飛令（禁止飛機起飛的官方命令）。",
+      "partOfSpeech": "noun",
+      "noteZh": "這是一個航空專業術語，但因其字面意義容易被誤解為「地面停止」，文中特別定義了其作為命令的含義。文中：A ground stop — a formal order to keep all planes on the ground — was then issued to ensure safety while officials worked to fix the network."
+    },
+    {
+      "term": "flooded",
+      "definitionEn": "To cause a system to be overwhelmed by an excessive amount of data or traffic.",
+      "definitionZh": "（系統）被大量數據或流量淹沒、癱瘓。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞或動詞「淹水」，這裡指數據流量過大導致系統癱瘓。文中：During this work, an equipment issue caused problems that flooded other routers in the air traffic control system."
+    },
+    {
+      "term": "resolved",
+      "definitionEn": "Settled or brought back to a normal, functioning state.",
+      "definitionZh": "已解決的、恢復正常的。",
+      "partOfSpeech": "adjective (past participle)",
+      "noteZh": "常見作動詞「下定決心」，這裡作為形容詞，指混亂的狀況被處理完畢。文中：Looking ahead, the FAA expects the schedule to be mostly resolved by Sunday evening."
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR News",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
+      "title": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
+      "publishedAt": "2026-11-14T16:53:04Z"
+    }
+  ],
+  "story": {
+    "id": "us-aviation-ground-stop-caused-by-tech-failure",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "us-aviation-ground-stop-caused-by-tech-failure-nov-2026",
+        "title": "Nationwide Ground Stop: US Aviation Faces Major Tech Failure",
+        "publishedAt": "2026-11-14T02:25:14.201017Z",
+        "category": "politics",
+        "summaryEn": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon. This rare decision prevented all planes from taking off at airports across the country. Millions of passengers are currently stuck and waiting for updates. Officials are working to fix the technical problem as quickly as possible. The situation has caused significant travel disruption for travelers nationwide."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What specifically triggered the technical failure according to the article?",
+      "options": {
+        "A": "A deliberate cyberattack by a criminal organization.",
+        "B": "An equipment issue during the replacement of outdated wiring.",
+        "C": "A failure in the artificial intelligence system monitoring air traffic.",
+        "D": "A lack of funding approved by Congress for FAA operations."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，故障發生在承包商 L3Harris 進行例行維護時，將舊銅線更換為現代光纖的過程中，設備問題導致系統路由器過載。選項 A 與第五段提到的「沒有犯罪活動跡象」矛盾；選項 C 同樣被第五段排除；選項 D 雖然是長期問題，但並非導致此次特定故障的直接技術原因。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the information provided, what can be inferred about the FAA's modernization efforts?",
+      "options": {
+        "A": "The FAA has successfully completed the transition to digital systems nationwide.",
+        "B": "The modernization process is being slowed down primarily by the contractor's inefficiency.",
+        "C": "The project to update infrastructure is incomplete and vulnerable to further technical risks.",
+        "D": "The FAA has refused to accept the $12.5 billion in funding offered by Congress."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第三段提到 L3Harris 已完成約 70% 的更換工作，這表示仍有 30% 未完成。第四段中 Duffy 秘書強調 FAA 設備老舊，且需要更快行動以防止未來風險，這暗示了尚未完成的現代化進程仍存在技術隱憂。選項 A 與 70% 的進度矛盾；選項 B 將責任推給承包商，但文中並未指責其效率低；選項 D 與第四段提到的國會已批准資金事實不符。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the phrase 'the trouble began during a routine update to the Federal Aviation Administration (FAA) telecommunication lines,' what does the word 'routine' mean?",
+      "options": {
+        "A": "Occurring as part of a regular or standard procedure.",
+        "B": "Extremely difficult and requiring specialized skills.",
+        "C": "Happening unexpectedly during a time of crisis.",
+        "D": "A process that has been officially cancelled by the government."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在文中，「routine update」指的是例行性的更新工作，即按照既定程序定期進行的維護。選項 B 與「routine」的日常性含義相反；選項 C 錯誤地將「routine」理解為突發事件；選項 D 與文章內容無關，因為該更新是計畫中的一部分，並非被取消的活動。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of this article?",
+      "options": {
+        "A": "To provide a detailed technical guide on how fiber optic cables are installed.",
+        "B": "To announce the resignation of the Transportation Secretary following the system failure.",
+        "C": "To blame the L3Harris company for the massive delays experienced by passengers.",
+        "D": "To report on a major aviation disruption caused by aging infrastructure and the need for modernization."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。本文主要報導了美國航空系統因技術故障導致的大規模停飛事件，並藉此討論了 FAA 基礎設施老舊的問題，以及政府官員對於現代化迫切性的呼籲。選項 A 錯誤，文章並未提供技術安裝細節；選項 B 與文章事實不符，文中未提及秘書辭職；選項 C 過於片面，文章雖提到承包商，但重點在於系統整體的老舊與風險，而非單純指責特定公司。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}

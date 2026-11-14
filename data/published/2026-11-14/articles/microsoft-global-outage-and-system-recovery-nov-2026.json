@@ -1,0 +1,161 @@
+{
+  "id": "2026-11-14-microsoft-global-outage-and-system-recovery",
+  "slug": "microsoft-global-outage-and-system-recovery-nov-2026",
+  "publishedAt": "2026-11-14T22:13:58.355755Z",
+  "category": "technology",
+  "title": "Microsoft Restores Global Services After Major IT Failure",
+  "subtitle": "The technology giant confirms that systems are back online following a widespread outage that affected governments and businesses worldwide.",
+  "summary": {
+    "en": "Microsoft has officially restored all services following a massive global IT failure. The outage lasted for two days and caused significant problems for hospitals, banks, and schools. Governments across the world, including those in Japan and Australia, faced major operational delays. Microsoft confirmed the issue was caused by a network upgrade error rather than a cyberattack. The company has apologized to its 430 million users for the disruption.",
+    "zh": "微軟在經歷全球性的大規模資訊科技故障後，已正式恢復所有服務。此次當機持續兩天，對醫院、銀行與學校造成嚴重問題。包括日本與澳洲在內的全球各國政府皆面臨重大的營運延誤。微軟證實問題是由網路升級錯誤所致，而非網路攻擊。該公司已針對此次中斷向其四點三億名用戶致歉。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Microsoft announced on Saturday morning that its services are now fully restored following a massive global outage. This technical failure, which began on Thursday, caused widespread problems for governments, businesses, and public services in more than 70 countries. The company stated that it has completed its work to fix the underlying issue and that all customers should now have access to their systems.",
+      "zh": "微軟（Microsoft）於週六上午宣布，在經歷全球性的大規模當機後，其服務現已全面恢復。這起始於週四的技術故障，導致全球超過七十個國家的政府、企業及公共服務面臨廣泛的問題。該公司表示，已完成修復根本問題的工作，所有客戶現在應能正常存取其系統。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Guardian, the outage affected a wide range of essential services, including healthcare, banking, and transportation. In the United Kingdom, the National Health Service (NHS) faced serious challenges, with hospital staff forced to return to using paper records. One labor union reported that ambulance services were also hit hard by the system failure. The country’s court system experienced delays as well, with some juries being sent home early because digital files could not be accessed.",
+      "zh": "根據《衛報》（The Guardian）報導，此次當機影響了包括醫療保健、銀行業與交通運輸在內的多項必要服務。在英國，國家醫療保健服務（NHS）面臨嚴峻挑戰，醫院員工被迫改回使用紙本紀錄。一個工會指出，救護車服務也受到系統故障的嚴重衝擊。該國的法院系統同樣出現延誤，部分陪審團因無法存取數位檔案而被提早遣送回家。"
+    },
+    {
+      "id": "p3",
+      "en": "The impact was felt far beyond the UK. In the United States, school districts had to ask parents to communicate only by phone or through specific apps, while staff at the House of Representatives reported losing a full day of work. A detention facility in Colorado noted that it could not process online payments, forcing people to visit the jail in person to post bail. Meanwhile, in Japan, government email services went down, leading employees to rely on text messages to coordinate their work. Major companies, such as the shipping firm Sagawa Express and the pharmaceutical company Taisho, were also forced to handle orders manually by phone.",
+      "zh": "這場災難的影響遠不止於英國。在美國，學區被迫要求家長僅能透過電話或特定應用程式進行聯繫，眾議院的工作人員則回報損失了一整天的工作進度。科羅拉多州的一處拘留所指出，由於無法處理線上付款，民眾被迫親自前往監獄繳納保釋金。與此同時，在日本，政府的電子郵件服務中斷，導致員工必須依賴簡訊來協調工作。包括物流公司佐川急便（Sagawa Express）與製藥公司大正製藥（Taisho）在內的大型企業，也被迫以電話手動處理訂單。"
+    },
+    {
+      "id": "p4",
+      "en": "Australia’s government agencies, including the federal police and the national intelligence agency, Asio, were also affected. Mike Burgess, the director general of Asio, explained that while the agency’s systems were impacted on one level, they were not completely shut down. Other regions, including the Netherlands, Belgium, and France, reported similar issues, with some local governments instructing citizens to use telephones instead of email to reach officials. In India, airlines like IndiGo and Akasa Air saw their customer support services disrupted, while businesses in Taiwan reported that their investment and fund management systems were not working properly.",
+      "zh": "澳洲的政府機構，包括聯邦警察與國家情報機構澳洲安全情報組織（ASIO），也受到波及。澳洲安全情報組織總監伯吉斯（Mike Burgess）解釋，雖然該機構的系統在某個層面上受到影響，但並未完全癱瘓。包括荷蘭、比利時與法國在內的其他地區也回報了類似問題，部分地方政府指示民眾改用電話而非電子郵件與官員聯繫。在印度，靛藍航空（IndiGo）與阿卡薩航空（Akasa Air）的客戶支援服務中斷，而台灣的企業則回報其投資與基金管理系統無法正常運作。"
+    },
+    {
+      "id": "p5",
+      "en": "Users around the world reported that popular Microsoft 365 tools, such as Outlook, Teams, and the AI assistant Copilot, were unavailable. Microsoft, which is based in the United States, has about 430 million users for its 365 apps. The company issued an apology on Friday for the trouble caused by the incident. To address concerns about security, Microsoft clarified that the outage was not related to a cyberattack or any problems with artificial intelligence. Instead, the company explained that the error was introduced during an earlier network capacity upgrade. This type of upgrade is meant to improve system performance, but in this case, it caused a significant failure that took nearly two days to fully resolve.",
+      "zh": "全球用戶回報稱，微軟旗下的熱門工具如 Outlook、Teams 以及人工智慧助理 Copilot 皆無法使用。總部位於美國的微軟，其 365 應用程式擁有約四點三億名用戶。該公司於週五針對此次事件造成的困擾發布道歉聲明。為了解除對安全性的疑慮，微軟澄清此次當機與網路攻擊或人工智慧問題無關。相反地，該公司解釋錯誤是在先前的網路容量升級過程中產生的。這類升級旨在提升系統效能，但在這次案例中，卻引發了嚴重的故障，耗時近兩天才完全解決。"
+    },
+    {
+      "id": "p6",
+      "en": "This incident highlights how much modern society depends on a small number of large technology companies. When a central system fails, the effects are felt instantly across many different sectors. While the services are now back online, the event has raised questions about the risks of relying on a single provider for such a large portion of global digital infrastructure. For now, Microsoft is focusing on ensuring that all systems remain stable as users return to their normal daily routines. Further technical updates regarding the incident are available to administrators through the Microsoft 365 admin center.",
+      "zh": "這起事件凸顯了現代社會對少數大型科技公司的依賴程度。當核心系統發生故障時，影響會立即擴散至許多不同產業。儘管服務現已恢復連線，但此事件引發了對於將全球數位基礎設施如此大比例依賴單一供應商所帶來的風險之質疑。目前，微軟正致力於確保所有系統在用戶恢復日常作息時保持穩定。關於此事件的進一步技術更新，管理員可透過微軟 365 管理中心查詢。"
+    }
+  ],
+  "wordCount": 642,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "hit hard",
+      "definitionEn": "To be severely affected or damaged by something.",
+      "definitionZh": "受到嚴重打擊或影響。",
+      "partOfSpeech": "idiom",
+      "noteZh": "常見於描述災難或負面影響，這裡指系統故障對救護車服務造成嚴重干擾。文中：One labor union reported that ambulance services were also hit hard by the system failure."
+    },
+    {
+      "term": "post",
+      "definitionEn": "To pay a sum of money to a court to allow someone to be released from jail while waiting for a trial.",
+      "definitionZh": "繳納（保釋金）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（郵件）或動詞（張貼），這裡指繳納保釋金。文中：a detention facility in Colorado noted that it could not process online payments, forcing people to visit the jail in person to post bail."
+    },
+    {
+      "term": "down",
+      "definitionEn": "Not operating or not working, especially due to a technical problem.",
+      "definitionZh": "（系統）故障、無法運作。",
+      "partOfSpeech": "adjective",
+      "noteZh": "常見作副詞（向下），這裡形容電腦系統無法使用。文中：Meanwhile, in Japan, government email services went down, leading employees to rely on text messages to coordinate their work."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
+      "title": "Microsoft says services fully restored after global outage hits governments",
+      "publishedAt": "2026-11-14T11:54:31Z"
+    }
+  ],
+  "story": {
+    "id": "global-microsoft-outage-impacts-services",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "global-microsoft-outage-disrupts-critical-services-nov-2026",
+        "title": "Microsoft Services Recover After Global Outage Disrupts Critical Systems",
+        "publishedAt": "2026-11-14T02:25:14.201017Z",
+        "category": "technology",
+        "summaryEn": "Microsoft has reported a broad recovery following a significant two-day outage that affected its email and cloud services globally. The disruption caused major problems for local governments, schools, and businesses across the United States. Microsoft clarified that the issue was caused by a technical error during a network upgrade rather than a cyberattack. While systems are coming back online, some users may still experience minor delays or errors. The company has promised to release a full report once they complete their investigation."
+      },
+      {
+        "slug": "global-microsoft-outage-disrupts-critical-services-nov-2026",
+        "title": "Global Microsoft Outage Causes Major Disruptions to Critical Services",
+        "publishedAt": "2026-11-13T22:14:05.449383Z",
+        "category": "technology",
+        "summaryEn": "A widespread Microsoft outage recently caused significant technical problems for users around the world. The issue affected essential services, including healthcare, local government offices, and school districts. Microsoft confirmed the problem was caused by a technical error rather than a cyberattack. While many services are now returning to normal, the event highlighted the world's heavy reliance on digital tools. Officials and companies are currently working to restore full functionality to their systems."
+      },
+      {
+        "slug": "global-microsoft-outage-impacts-services-nov-2026",
+        "title": "Global Microsoft Outage Causes Widespread Service Disruptions",
+        "publishedAt": "2026-11-13T02:36:46.877857Z",
+        "category": "technology",
+        "summaryEn": "A major technical problem recently caused significant issues for Microsoft users across the globe. Many people could not access their email accounts or use workplace communication tools like Teams. Microsoft reported that a failure during automated system checks caused several servers to stop working correctly. The company worked quickly to test and apply a fix to restore these services. While many systems have returned to normal, the incident highlights how much modern work depends on cloud-based technology."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, how did the outage specifically affect the operations of the detention facility in Colorado?",
+      "options": {
+        "A": "It forced the facility to close its doors to all visitors for two days.",
+        "B": "It prevented the facility from processing payments online, requiring in-person visits for bail.",
+        "C": "It caused a complete shutdown of the facility's internal communication systems.",
+        "D": "It resulted in the early release of inmates due to a failure in digital record-keeping."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第三段明確指出，科羅拉多州的一處拘留中心因無法處理線上付款，導致民眾必須親自前往監獄繳納保釋金。選項 A 錯誤，因為文章並未提到設施關閉；選項 C 雖提到通訊問題，但文中並未說「完全關閉」內部系統；選項 D 則是對文章內容的過度推論，文中僅提到付款問題而非釋放囚犯。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the nature of the technical failure from the information provided?",
+      "options": {
+        "A": "It was caused by a malicious external actor trying to compromise global security.",
+        "B": "It was triggered by a flaw in the artificial intelligence software used by Microsoft.",
+        "C": "It resulted from an internal maintenance process that did not go as planned.",
+        "D": "It was a planned system update that required a temporary global shutdown."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第五段，微軟澄清此次故障並非網路攻擊或 AI 問題，而是源於一次「網路容量升級」（network capacity upgrade）過程中出現的錯誤。這暗示了該故障是內部維護作業失誤所致。選項 A 與 B 直接與文章內容矛盾；選項 D 錯誤，因為這是一次意外的故障，而非計畫性的系統關閉。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the second paragraph, the phrase 'hit hard' is used to describe the impact on ambulance services. What does this mean in context?",
+      "options": {
+        "A": "They were severely affected or experienced significant difficulties.",
+        "B": "They were physically damaged by a violent event.",
+        "C": "They were criticized by the public for poor performance.",
+        "D": "They were forced to increase their staff numbers rapidly."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在文中，「hit hard」是用來形容救護車服務受到了系統故障的嚴重打擊或負面影響。這是一種慣用語，並非指物理上的撞擊。選項 B 是對字面意思的誤解；選項 C 與文中提到的技術故障無關；選項 D 與文意相反，文章強調的是服務中斷而非人力擴張。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message the author conveys regarding the global outage?",
+      "options": {
+        "A": "Microsoft is the only technology company that provides reliable infrastructure for global governments.",
+        "B": "Modern society is vulnerable because of its heavy reliance on a limited number of major tech providers.",
+        "C": "The outage was a minor inconvenience that proved digital systems are not necessary for daily operations.",
+        "D": "Governments should immediately stop using digital systems and return to paper-based records."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章最後一段總結了此次事件的教訓，強調現代社會過度依賴少數幾家大型科技公司，一旦中央系統故障，各行各業都會瞬間受到影響。選項 A 錯誤，文中並未說微軟是唯一的供應商；選項 C 錯誤，文中強調的是影響巨大而非微不足道；選項 D 則是對文章建議的錯誤解讀，作者並未提倡全面廢除數位系統。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
