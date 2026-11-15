@@ -1,0 +1,159 @@
+{
+  "id": "2026-11-15-us-aviation-ground-stop-caused-by-tech-failure",
+  "slug": "us-aviation-ground-stop-caused-by-tech-failure-nov-2026",
+  "publishedAt": "2026-11-15T01:52:16.534691Z",
+  "category": "politics",
+  "title": "Routine Tech Upgrade Led to Nationwide Flight Grounding",
+  "subtitle": "Transportation officials explain how a simple wire replacement caused chaos for thousands of travelers.",
+  "summary": {
+    "en": "A nationwide ground stop recently halted all flights across the United States. Transportation Secretary Sean Duffy identified the cause as a routine technology upgrade at a remote facility. The problem began when workers replaced old copper wires with modern fiber optic lines. A new router then flooded the air traffic control system with thousands of connection attempts. Officials are now investigating whether the issue was caused by bad equipment or human error.",
+    "zh": "美國近期發生全國性停飛，導致所有航班中斷。運輸部長達菲將原因歸咎於一處偏遠設施的例行技術升級。問題始於工作人員將舊銅線更換為現代光纖線路時，一台新路由器以數千次連線請求淹沒了空中交通管制系統。官員目前正在調查該問題是由設備故障還是人為疏失所引起。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Following the recent nationwide ground stop that left thousands of passengers unable to travel, government officials have provided new details about what caused the massive disruption. On Friday, the Federal Aviation Administration (FAA) made the rare decision to stop all planes from taking off across the United States. This action resulted in widespread delays and cancellations, leaving millions of travelers waiting for information at airports.",
+      "zh": "在近期導致數千名旅客無法出行的全國性停飛事件後，政府官員針對造成此次大規模混亂的原因提供了新的細節。週五，美國聯邦航空總署（FAA）做出了罕見的決定，下令全美所有飛機暫停起飛。此舉導致了廣泛的航班延誤與取消，讓數百萬名旅客在機場苦苦等待消息。"
+    },
+    {
+      "id": "p2",
+      "en": "Transportation Secretary Sean Duffy held a press conference to explain the situation. According to The Verge, the secretary stated that the technical failure was linked to a routine maintenance project. Workers were in the process of replacing old copper wires with modern fiber optic lines at a remote FAA facility. Fiber optic lines are advanced cables that use light to send data much faster than traditional copper wires. Secretary Duffy noted that this work was necessary because the old copper lines were being discontinued, meaning the technology was becoming too old to support.",
+      "zh": "運輸部長達菲（Sean Duffy）召開記者會說明情況。根據科技媒體 The Verge 報導，部長指出此次技術故障與一項例行維護工程有關。當時工作人員正在一處偏遠的聯邦航空總署設施，將舊有的銅線更換為現代化的光纖線路。光纖線路是一種先進的纜線，利用光傳輸數據，速度遠快於傳統銅線。達菲部長表示，這項工程有其必要性，因為舊有的銅線已停止生產，意味著該技術已過於老舊，無法繼續提供支援。"
+    },
+    {
+      "id": "p3",
+      "en": "However, the simple upgrade quickly turned into a major problem. According to The Verge, a newly installed router began to overwhelm other parts of the air traffic control system. The device was sending over 1,000 connection attempts every few seconds. This massive amount of data caused serious issues for radar systems and made it difficult for air traffic controllers to communicate with planes. Because safety is the top priority for aviation, the FAA decided to stop all flights until the situation could be controlled.",
+      "zh": "然而，這項簡單的升級工程卻迅速演變成嚴重的問題。根據 The Verge 報導，一台新安裝的路由器開始對空中交通管制系統的其他部分造成過載。該設備每隔幾秒鐘就會發送超過一千次的連線請求。如此龐大的數據量對雷達系統造成了嚴重影響，並導致航管人員難以與飛機進行通訊。由於飛航安全是航空業的首要考量，聯邦航空總署決定暫停所有航班，直到情況獲得控制為止。"
+    },
+    {
+      "id": "p4",
+      "en": "There is still some disagreement regarding the exact root cause of the failure. Secretary Duffy told reporters that investigators are looking into several possibilities, including faulty hardware, a misconfigured router, or potential mistakes made by the contractor, L3Harris. The secretary used the term \"incompetence\" to describe the possibility that human error played a role in the system failure.",
+      "zh": "關於故障的確切根本原因，目前仍存在一些分歧。達菲部長告訴記者，調查人員正在研究多種可能性，包括硬體故障、路由器設定錯誤，或是承包商 L3Harris 可能犯下的疏失。部長使用了「無能」一詞，來形容人為錯誤在系統故障中可能扮演的角色。"
+    },
+    {
+      "id": "p5",
+      "en": "In response to these claims, L3Harris released a public statement. The company explained that it has been working closely with the FAA to modernize the national airspace system. L3Harris noted that it has already completed more than 70 percent of the planned conversion from copper wires to fiber optic systems. The company stated that it is fully supporting the FAA in the ongoing investigation to understand exactly what happened on November 13. L3Harris emphasized that it takes the impact on travelers and airlines very seriously.",
+      "zh": "針對上述說法，L3Harris 發布了一份公開聲明。該公司解釋，他們一直與聯邦航空總署密切合作，致力於國家空域系統的現代化。L3Harris 指出，他們已完成超過百分之七十的銅線轉光纖系統轉換計畫。公司表示，正全力配合聯邦航空總署進行調查，以釐清十一月十三日當天究竟發生了什麼事。L3Harris 強調，他們非常重視此次事件對旅客與航空公司造成的影響。"
+    },
+    {
+      "id": "p6",
+      "en": "This incident has also restarted a conversation about the need for more funding to update the nation's aviation technology. Secretary Duffy used the press conference to call on Congress to provide more money for the FAA. He argued that while the agency is working to modernize the system safely and quickly, it has only received a partial payment to finish the necessary work. He suggested that more support is needed to ensure that the air traffic control system remains reliable and can handle the demands of modern travel.",
+      "zh": "這起事件也重新引發了關於是否需要更多資金來更新國家航空技術的討論。達菲部長利用此次記者會呼籲國會為聯邦航空總署提供更多預算。他主張，儘管該署正努力安全且迅速地推動系統現代化，但目前僅收到部分款項來完成必要工作。他建議需要更多支持，以確保空中交通管制系統能保持可靠，並足以應對現代航空旅行的需求。"
+    },
+    {
+      "id": "p7",
+      "en": "As the investigation continues, the aviation industry is focused on recovering from the event. Millions of travelers were affected by the ground stop, and airlines are still working to return to normal schedules. For now, the focus remains on finding out why a routine upgrade led to such a significant failure in the country's air travel network. Officials have promised to share more information as they learn more about the specific technical errors that caused the system to crash.",
+      "zh": "隨著調查持續進行，航空業正專注於從此次事件中恢復。數百萬名旅客受到停飛影響，航空公司仍在努力恢復正常航班時刻表。目前，重點仍放在釐清為何一項例行升級會導致國家航空網絡出現如此重大的故障。官員們承諾，隨著對造成系統崩潰的具體技術錯誤有更多了解，將會分享更多資訊。"
+    }
+  ],
+  "wordCount": 612,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "ground stop",
+      "definitionEn": "An official order that prevents all aircraft from taking off from airports.",
+      "definitionZh": "地面停飛令；指禁止所有飛機起飛的官方命令。",
+      "partOfSpeech": "noun",
+      "noteZh": "這是一個航空專業術語，容易被誤解為一般的「地面停止」。文中：Following the recent nationwide ground stop that left thousands of passengers unable to travel, government officials have provided new details about what caused the massive disruption."
+    },
+    {
+      "term": "overwhelm",
+      "definitionEn": "To cause a system to fail by providing it with more data or tasks than it can handle.",
+      "definitionZh": "使（系統）不堪負荷；因處理過多數據而導致崩潰。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見於描述情緒（如：不知所措），這裡指系統因負載過大而癱瘓。文中：According to The Verge, a newly installed router began to overwhelm other parts of the air traffic control system."
+    },
+    {
+      "term": "call on",
+      "definitionEn": "To publicly ask or demand that someone do something.",
+      "definitionZh": "公開呼籲、要求某人做某事。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這是一個常見的片語，容易被誤解為「打電話給」。文中：Secretary Duffy used the press conference to call on Congress to provide more money for the FAA."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+      "title": "Work to replace old copper wire led to the FAA’s ground stop",
+      "publishedAt": "2026-11-14T17:44:28Z"
+    }
+  ],
+  "story": {
+    "id": "us-aviation-ground-stop-caused-by-tech-failure",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "us-aviation-ground-stop-caused-by-tech-failure-nov-2026",
+        "title": "Nationwide Ground Stop: US Aviation Faces Major Tech Failure",
+        "publishedAt": "2026-11-14T02:25:14.201017Z",
+        "category": "politics",
+        "summaryEn": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon. This rare decision prevented all planes from taking off at airports across the country. Millions of passengers are currently stuck and waiting for updates. Officials are working to fix the technical problem as quickly as possible. The situation has caused significant travel disruption for travelers nationwide."
+      },
+      {
+        "slug": "us-aviation-ground-stop-caused-by-tech-upgrade-nov-2026",
+        "title": "US Aviation System Slowly Recovers After Massive Tech Failure",
+        "publishedAt": "2026-11-14T22:13:58.355755Z",
+        "category": "politics",
+        "summaryEn": "A major technical failure caused a nationwide ground stop for U.S. aviation on Friday. Transportation Secretary Sean Duffy stated that the problem occurred during a routine technology upgrade. Thousands of flights were delayed or cancelled, affecting passengers across the country. Officials are now investigating whether the error was caused by human mistake or faulty equipment. The system is slowly returning to normal, but officials warn that delays will continue through the weekend."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What specific technical malfunction caused the air traffic control system to crash?",
+      "options": {
+        "A": "The old copper wires were completely incompatible with the new fiber optic lines.",
+        "B": "A new router sent an excessive number of connection requests to the system.",
+        "C": "The fiber optic cables failed to transmit data at the expected speed.",
+        "D": "The FAA facility lost power during the routine maintenance process."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，文中明確指出「a newly installed router began to overwhelm other parts of the air traffic control system」且該裝置每幾秒鐘發送超過 1,000 次連線嘗試。選項 A 雖然提到了銅線與光纖，但並未說明這是導致當機的原因。選項 C 錯誤，因為文章提到光纖是為了加速傳輸，並未提及傳輸速度失敗。選項 D 在文中並未提及電力中斷的問題。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the information provided, what can be inferred about the relationship between the FAA and L3Harris?",
+      "options": {
+        "A": "L3Harris is solely responsible for the technical failure and has admitted to all charges.",
+        "B": "The FAA and L3Harris are in complete agreement about the cause of the system crash.",
+        "C": "There is currently tension between the two parties regarding accountability for the incident.",
+        "D": "The FAA has decided to terminate its contract with L3Harris due to the incident."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。從第四段與第五段可以推論出雙方關係緊張：交通部長 Duffy 公開使用了「incompetence」（無能）一詞來暗示承包商可能犯錯，而 L3Harris 則發布聲明強調其已完成 70% 的工程並正在全力配合調查，顯示雙方對於責任歸屬存在潛在分歧。選項 A 錯誤，因為 L3Harris 並未承認錯誤；選項 B 錯誤，因為文中提到雙方對根本原因仍有歧見；選項 D 錯誤，文中並未提到終止合約的決定。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what is the meaning of the word 'recovering' as used in the context of the aviation industry?",
+      "options": {
+        "A": "Returning to a normal state of operation after a disruption.",
+        "B": "Discovering new information about the cause of the crash.",
+        "C": "Replacing old hardware with more modern technology.",
+        "D": "Securing additional funding from the government."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。文中提到「the aviation industry is focused on recovering from the event」且後句提到「airlines are still working to return to normal schedules」，由此可知 recovering 在此處是指從混亂中恢復正常運作。選項 B 錯誤，因為發現資訊是用 investigating 或 discovering；選項 C 錯誤，因為這屬於 modernization；選項 D 錯誤，因為這屬於 funding 的範疇，與業者恢復營運的動作不同。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article?",
+      "options": {
+        "A": "A detailed technical guide on how fiber optic lines are installed in airports.",
+        "B": "A criticism of L3Harris for its poor performance in modernizing aviation systems.",
+        "C": "An explanation of why the FAA needs to increase ticket prices for travelers.",
+        "D": "An overview of a major aviation disruption caused by a failed system upgrade and its aftermath."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。整篇文章從地面停飛事件的發生（第一段）、技術故障原因（第二、三段）、責任歸屬的爭議（第四、五段）到對未來資金的需求與後續影響（第六、七段），完整概述了此事件的始末。選項 A 太過狹隘，僅涉及技術細節；選項 B 只涵蓋了爭議部分，未包含整體事件；選項 C 文章完全未提及票價調整，屬於錯誤資訊。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
