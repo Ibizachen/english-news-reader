@@ -1,0 +1,37 @@
+{
+  "id": "global-remote-work-evolution",
+  "title": "The Global Evolution of Remote Work Policies",
+  "subtitle": "An examination of how the post-pandemic workplace is shifting from emergency flexibility to structured hybrid models.",
+  "description": "This series tracks the transition from the 2020 remote work surge to current return-to-office mandates. It explores the economic, social, and managerial tensions defining the future of global labor.",
+  "category": "economics",
+  "status": "active",
+  "updatedAt": "2026-11-16T07:39:01.764857Z",
+  "cadence": "5-part reading path. Complete series available.",
+  "articles": [
+    {
+      "slug": "global-remote-work-evolution-part-1",
+      "label": "Part 1",
+      "note": "The initial rapid adoption of remote work during the pandemic and the immediate organizational challenges faced by global firms."
+    },
+    {
+      "slug": "global-remote-work-evolution-part-2",
+      "label": "Part 2",
+      "note": "The conflicting priorities between leadership seeking office presence and employees valuing flexibility."
+    },
+    {
+      "slug": "global-remote-work-evolution-part-3",
+      "label": "Part 3",
+      "note": "The shift from voluntary remote work to formal return-to-office (RTO) mandates and the resulting friction."
+    },
+    {
+      "slug": "global-remote-work-evolution-part-4",
+      "label": "Part 4",
+      "note": "The broader effects of remote work on city centers, local economies, and individual well-being."
+    },
+    {
+      "slug": "global-remote-work-evolution-part-5",
+      "label": "Part 5",
+      "note": "The long-term outlook for labor laws, technology, and the definition of 'work' in a globalized economy."
+    }
+  ]
+}
