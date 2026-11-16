@@ -1,0 +1,160 @@
+{
+  "id": "2026-11-16-vulcan-rocket-failure-impacts-satellite-deployment",
+  "slug": "vulcan-rocket-failure-impacts-satellite-deployment-nov-2026",
+  "publishedAt": "2026-11-16T02:00:52.707894Z",
+  "category": "technology",
+  "title": "Major Setback for Amazon as Vulcan Rocket Fails During Launch",
+  "subtitle": "The loss of 40 satellites marks a difficult moment for the US space industry and its efforts to compete with SpaceX.",
+  "summary": {
+    "en": "United Launch Alliance’s Vulcan rocket failed during a mission on Sunday, resulting in the loss of 40 Amazon satellites. This event is a significant challenge for the company, which has a long history of successful space flights. The rocket was intended to help build a new internet network to compete with SpaceX’s Starlink. ULA has grounded the rocket while engineers work to find the cause of the problem. Despite the failure, Amazon continues to support its partner as they look toward future missions.",
+    "zh": "聯合發射聯盟的火神號火箭於週日任務中失敗，導致四十顆亞馬遜衛星損失。這起事件對該公司而言是一項重大挑戰，因為該公司長期以來擁有成功的太空飛行紀錄。該火箭原定協助建立一個新的網際網路網絡，以與太空探索科技公司的星鏈競爭。聯合發射聯盟已將該火箭停飛，工程師正致力於找出問題根源。儘管任務失敗，亞馬遜仍持續支持其合作夥伴，並展望未來的任務。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The United Launch Alliance (ULA) faced a major challenge this Sunday when its Vulcan rocket failed during a flight. The mission, which launched from the Cape Canaveral Space Force Station in Florida, was intended to carry 40 satellites for Amazon into orbit. According to Ars Technica, the rocket and its cargo fell back to Earth just minutes after the launch. This event is a significant blow to the US space industry, as the Vulcan rocket is a key part of future national security missions.",
+      "zh": "聯合發射聯盟（United Launch Alliance, ULA）在本週日面臨重大挑戰，其火神號（Vulcan）火箭在飛行過程中失敗。這項任務從佛羅里達州的卡納維爾角太空軍基地發射，原定將亞馬遜（Amazon）的四十顆衛星送入軌道。根據科技媒體 Ars Technica 報導，火箭及其搭載的貨物在發射後僅幾分鐘便墜回地球。這起事件對美國太空產業是一大打擊，因為火神號火箭是未來國家安全任務的關鍵組成部分。"
+    },
+    {
+      "id": "p2",
+      "en": "This incident is particularly notable because it is reportedly the first mission failure in the 20-year history of ULA. The company confirmed that the rocket experienced an \"anomaly\"—a term used to describe an unexpected event or problem—about 10 minutes into the flight. In a statement, ULA explained that they did not have enough data immediately to understand exactly what went wrong. The company stated that they aim to provide reliable access to space for their customers and that they did not meet their own standards for success during this mission.",
+      "zh": "這起事故特別引人注目，據報導這是聯合發射聯盟二十年歷史以來的首次任務失敗。該公司證實，火箭在飛行約十分鐘後出現了「異常」——這是用來描述意外事件或問題的術語。聯合發射聯盟在聲明中解釋，他們目前沒有足夠的數據來確切了解問題所在。公司表示，他們的目標是為客戶提供可靠的太空進入途徑，而這次任務未能達到他們自身的成功標準。"
+    },
+    {
+      "id": "p3",
+      "en": "For Amazon, this launch was the first of 38 planned flights intended to build a network of broadband internet satellites. This project is meant to create a direct competitor to SpaceX’s Starlink, a popular satellite internet service. The Verge reports that Amazon’s project has struggled to get started, and this loss of 40 satellites makes the goal of challenging SpaceX even harder to reach. While SpaceX has recently made headlines for successfully catching its Starship rocket, ULA is now in a much more difficult position.",
+      "zh": "對亞馬遜而言，這次發射是其計畫中三十八次飛行任務的首次，旨在建立一個寬頻網際網路衛星網絡。該計畫意在打造一個能與太空探索科技公司（SpaceX）旗下熱門衛星網路服務「星鏈」（Starlink）直接競爭的對手。科技媒體 The Verge 報導指出，亞馬遜的計畫起步艱難，而這次損失四十顆衛星，使得挑戰太空探索科技公司的目標變得更加難以達成。儘管太空探索科技公司近期因成功回收星艦（Starship）火箭而登上新聞頭條，聯合發射聯盟目前的處境則艱難許多。"
+    },
+    {
+      "id": "p4",
+      "en": "This failure is expected to keep the Vulcan rocket on the ground for an indefinite period of time. ULA has faced technical issues before, specifically with its solid rocket boosters on two of its four previous flights. In those earlier cases, the rocket was able to correct the problems and complete its mission. However, those incidents still required months of investigation before the company could fly again. Because this latest failure is different, engineers must now work to find the cause and determine the right way to fix it before they can return to flight.",
+      "zh": "預計這起失敗將使火神號火箭無限期停飛。聯合發射聯盟過去曾面臨技術問題，特別是在先前四次飛行中的兩次，其固態火箭推進器曾出現狀況。在那些案例中，火箭得以修正問題並完成任務。然而，這些事故仍需耗費數月的調查時間，公司才能恢復飛行。由於這次的失敗情況不同，工程師現在必須努力找出原因，並在恢復飛行前確定正確的解決方案。"
+    },
+    {
+      "id": "p5",
+      "en": "Despite the loss, Amazon has expressed continued support for its partner. In a post on the social media platform X, Amazon noted that there is always risk involved with any launch, especially during the first flights of a new rocket model. The company described ULA as a \"trusted partner\" and said they believe the team will learn from this experience to deliver on their long-term plans.",
+      "zh": "儘管遭受損失，亞馬遜仍表達了對合作夥伴的持續支持。亞馬遜在社群媒體平台 X 上發文指出，任何發射任務都伴隨著風險，特別是在新型號火箭的初期飛行階段。該公司形容聯合發射聯盟為「值得信賴的夥伴」，並表示相信該團隊能從這次經驗中學習，以實現其長期計畫。"
+    },
+    {
+      "id": "p6",
+      "en": "Looking ahead, the pressure on ULA is high. The company is under contract to launch roughly half of the US military’s national security space missions over the next few years. Because of this, the industry will be watching closely as ULA begins its investigation. The company has promised to be transparent as they work to find the cause of the failure. For now, the focus remains on understanding why the mission failed and how to ensure that future flights can safely reach orbit. The space industry remains a difficult environment where even small errors can lead to large setbacks, and this event serves as a reminder of the challenges involved in modern space exploration.",
+      "zh": "展望未來，聯合發射聯盟面臨極大壓力。該公司已簽約承攬未來幾年美國軍方約半數的國家安全太空任務。因此，當聯合發射聯盟展開調查時，產業界將密切關注。公司承諾在尋找失敗原因的過程中保持透明。目前，重點仍放在了解任務失敗的原因，以及如何確保未來的飛行能安全抵達軌道。太空產業依然是一個艱困的環境，即使是微小的錯誤也可能導致巨大的挫折，這起事件也提醒了人們現代太空探索所面臨的挑戰。"
+    }
+  ],
+  "wordCount": 612,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "blow",
+      "definitionEn": "A sudden event that causes disappointment or failure.",
+      "definitionZh": "打擊、挫折。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（吹氣），這裡作名詞，指嚴重的挫折。文中：This event is a significant blow to the US space industry, as the Vulcan rocket is a key part of future national security missions."
+    },
+    {
+      "term": "ground",
+      "definitionEn": "To prevent an aircraft or spacecraft from flying.",
+      "definitionZh": "（使）停飛、禁飛。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（地面），這裡作動詞，指禁止飛行。文中：This failure is expected to keep the Vulcan rocket on the ground for an indefinite period of time."
+    },
+    {
+      "term": "deliver on",
+      "definitionEn": "To do what you promised to do.",
+      "definitionZh": "履行（承諾）、實現（目標）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這裡指達成預期的目標或承諾。文中：The company described ULA as a \"trusted partner\" and said they believe the team will learn from this experience to deliver on their long-term plans."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "publishedAt": "2026-11-15T23:11:54Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "publishedAt": "2026-11-15T21:05:02Z"
+    }
+  ],
+  "story": {
+    "id": "spacex-successfully-catches-starship-rocket",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "spacex-starship-rocket-catch-success-nov-2026",
+        "title": "SpaceX Successfully Catches Starship Rocket in Historic Feat",
+        "publishedAt": "2026-11-15T22:13:59.472092Z",
+        "category": "technology",
+        "summaryEn": "SpaceX has successfully caught its Starship upper stage using mechanical arms at its Texas launch site. This achievement follows years of development and testing to create a fully reusable rocket system. By catching the vehicle, SpaceX aims to make space travel more frequent and affordable. The event showcased advanced engineering and precise control during the rocket's return to Earth. This success represents a significant step forward for the future of space exploration."
+      },
+      {
+        "slug": "spacex-successfully-catches-starship-rocket-nov-2026",
+        "title": "SpaceX Makes History by Catching Giant Rocket",
+        "publishedAt": "2026-11-15T01:52:16.534691Z",
+        "category": "technology",
+        "summaryEn": "SpaceX successfully caught its Starship spacecraft using large mechanical arms at the launch site. This achievement marks a significant step toward making space travel cheaper and more frequent. While the main spacecraft landed safely, the rocket's booster did not return as planned. NASA is closely watching these tests to support future astronaut missions to the Moon. SpaceX continues to work toward its long-term goal of building a city on Mars."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What was the specific purpose of the Vulcan rocket mission that failed this Sunday?",
+      "options": {
+        "A": "To test the rocket's new solid boosters for national security.",
+        "B": "To place 40 broadband internet satellites into orbit for Amazon.",
+        "C": "To compete directly with SpaceX's Starship rocket landing technology.",
+        "D": "To conduct a 20-year anniversary celebration of ULA's space history."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第一段與第三段，該任務明確旨在為 Amazon 發射 40 顆寬頻衛星。選項 A 雖然提到了國家安全任務與助推器，但並非本次任務的直接目的。選項 C 是關於 SpaceX 的競爭背景，而非任務目標。選項 D 則是混淆了公司歷史與任務內容。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, why is this specific mission failure likely to cause a longer delay than previous ULA technical issues?",
+      "options": {
+        "A": "Because ULA has never experienced an anomaly in its 20-year history before.",
+        "B": "Because Amazon has decided to stop supporting ULA after this loss.",
+        "C": "Because the nature of this failure is different from previous issues that were successfully corrected during flight.",
+        "D": "Because the US military has cancelled all future contracts with ULA due to this event."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。第四段提到過去的技術問題（固態助推器問題）在飛行中仍能修正並完成任務，但這次失敗情況不同，因此需要更深入的調查。選項 A 雖提及這是 20 年來首次失敗，但並非解釋延遲時間較長的直接原因。選項 B 與 D 皆與文章內容矛盾，Amazon 仍表達支持，且軍方合約仍在進行中。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the phrase 'The company confirmed that the rocket experienced an \"anomaly\"', what does the word 'anomaly' most likely mean?",
+      "options": {
+        "A": "A planned test procedure.",
+        "B": "A successful technical milestone.",
+        "C": "An irregular or unexpected occurrence.",
+        "D": "A standard safety protocol."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第二段括號中直接定義了 anomaly 為「unexpected event or problem」（非預期的事件或問題）。選項 A、B、D 皆與 anomaly 所代表的負面、異常含義相反。在航太領域中，這是一個用來描述偏離預期表現的專業術語。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of this article regarding the recent ULA rocket failure?",
+      "options": {
+        "A": "SpaceX is now the only company capable of launching national security satellites.",
+        "B": "The failure is a significant setback for ULA and highlights the inherent risks and challenges in the modern space industry.",
+        "C": "Amazon will likely switch to using SpaceX rockets for all of its future satellite projects.",
+        "D": "The Vulcan rocket is permanently retired due to the severity of the recent explosion."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。全文旨在報導 ULA 的失敗及其影響，並在結尾處總結這反映了現代太空探索的高風險與挑戰。選項 A 與 C 過度推論了市場競爭，文章並未說 SpaceX 是唯一選擇或 Amazon 即將轉單。選項 D 錯誤，文章僅提到 indefinite period（無限期停飛），並未說永久退役。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
