@@ -1,0 +1,185 @@
+{
+  "id": "2026-11-17-nvidia-leadership-crisis-and-ceo-return-debate",
+  "slug": "nvidia-leadership-crisis-and-ceo-return-debate-nov-2026",
+  "publishedAt": "2026-11-17T04:27:36.734259Z",
+  "category": "economics",
+  "title": "Nvidia Leadership Crisis: Pressure Mounts for Jensen Huang’s Return",
+  "subtitle": "Tech industry leaders challenge the circumstances of the former CEO's resignation as government scrutiny of chip exports intensifies.",
+  "summary": {
+    "en": "Former Nvidia CEO Jensen Huang is facing calls for his reinstatement following his sudden resignation last week. The departure was linked to reports of personal affairs, including a relationship with a woman alleged to be a Chinese spy. While a large group of tech executives supports his return, Nvidia’s board remains cautious. Meanwhile, the US government has introduced new rules to prevent advanced chips from reaching restricted countries. The situation remains complex as analysts debate whether a return is even possible.",
+    "zh": "前輝達執行長黃仁勳在上週突然辭職後，面臨要求他復職的呼聲。他的離職與私生活醜聞有關，其中包括與一名被指控為中國間諜的女子有染。儘管有一大群科技高層支持他回歸，但輝達董事會仍保持謹慎。與此同時，美國政府已推出新規定，防止先進晶片流入受限國家。隨著分析師爭論他是否還有可能回歸，局勢依然複雜。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The future of Nvidia, a massive four-trillion-dollar chip company, remains uncertain as a powerful group of Silicon Valley leaders pushes for the return of former CEO Jensen Huang. Huang resigned last Thursday after 33 years in charge, following reports that he had personal affairs with a subordinate and a woman named Alice Huang, who was accused of being a Chinese spy. While the company is currently conducting an independent investigation into his conduct, a growing campaign is demanding that the board bring him back to his position.",
+      "zh": "輝達（Nvidia）這家市值高達四兆美元的晶片巨頭，其未來充滿不確定性，因為一群矽谷重量級領袖正積極推動前執行長黃仁勳（Jensen Huang）回歸。黃仁勳在掌舵三十三年後，於上週四辭職，起因是有報導指出他與一名下屬，以及一名被指控為中國間諜的女子艾莉絲·黃（Alice Huang）有私情。儘管公司目前正針對他的行為進行獨立調查，但一場日益壯大的運動正要求董事會讓他官復原職。"
+    },
+    {
+      "id": "p2",
+      "en": "Support for the former CEO has reached the highest levels of government. According to The Guardian, US President Donald Trump recently expressed support for Huang’s return, telling reporters that a “big group” of people would like to see him back at the company. Trump also noted that the claims regarding Alice Huang being a spy have not been proven. This public backing comes as allies of the former CEO reportedly build a \"war room\" to lobby for his reinstatement, according to reports from The Financial Times and Ars Technica.",
+      "zh": "對這位前執行長的支持已蔓延至政府最高層。根據《衛報》（The Guardian）報導，美國總統川普（Donald Trump）近期表達了支持黃仁勳回歸的立場，並向記者表示，有一群「龐大的人馬」希望看到他重返公司。川普也指出，關於艾莉絲·黃是間諜的指控尚未獲得證實。根據《金融時報》（The Financial Times）與《Ars Technica》的報導，在獲得這項公開背書的同時，據傳這位前執行長的支持者們正建立一個「戰情室」，試圖遊說讓他復職。"
+    },
+    {
+      "id": "p3",
+      "en": "However, the path to a return is far from clear. The Financial Times reported that Nvidia’s board is not currently considering bringing Huang back. Industry experts are also skeptical about the possibility of a comeback. Dan Ives, an analyst at Yorkville Ives, described the idea of Huang returning as “ridiculous.” He argued that the combination of personal conduct issues and serious questions regarding international business makes an external candidate or the current interim CEO, Colette Kress, a much safer choice for the company’s future.",
+      "zh": "然而，回歸之路絕非坦途。《金融時報》報導稱，輝達董事會目前並未考慮讓黃仁勳回任。產業專家對於他重返的可能性也持懷疑態度。約克維爾艾夫斯（Yorkville Ives）的分析師丹·艾夫斯（Dan Ives）形容黃仁勳回歸的想法「荒謬至極」。他主張，個人操守問題加上國際商業上的嚴重疑慮，使得聘請外部候選人或由現任臨時執行長克蕾絲（Colette Kress）接手，對公司未來而言是更為穩妥的選擇。"
+    },
+    {
+      "id": "p4",
+      "en": "Beyond the leadership drama, Nvidia is facing increased pressure from the US government regarding its business practices. On Monday, the US Department of Commerce announced new rules requiring companies in countries like Singapore, Thailand, and Malaysia to apply for special licenses before receiving advanced chips. This move is designed to stop these chips from being sent to China or other US adversaries through third-party datacenters. The government stated that these rules are necessary to ensure that sensitive American technology cannot be used by restricted nations through remote computing.",
+      "zh": "除了領導層的風波外，輝達在商業行為上也面臨來自美國政府日益增長的壓力。週一，美國商務部宣布新規定，要求新加坡、泰國與馬來西亞等國的公司在取得先進晶片前，必須申請特別許可。此舉旨在防止這些晶片透過第三方資料中心轉運至中國或其他美國敵對國家。政府聲明，這些規定對於確保敏感的美國技術不會被受限國家透過遠端運算使用，是有其必要性的。"
+    },
+    {
+      "id": "p5",
+      "en": "This regulatory crackdown is closely tied to the scandal surrounding the former CEO. Reports suggest that Alice Huang worked for Megaspeed, a Singapore-based customer of Nvidia that has been under suspicion for sending powerful chips to China. This connection has led some to question the timing of the leadership crisis. According to The Verge, several prominent tech figures, including Epic Games CEO Tim Sweeney and investor David Sacks, have suggested that the scandal might be a plot to remove Huang. They argue that the “spy narrative” is weak and that his exit might benefit those who want more control over AI development.",
+      "zh": "這波監管打壓與前執行長身陷的醜聞密切相關。有報導暗示，艾莉絲·黃曾任職於新加坡的輝達客戶「美加速」（Megaspeed），該公司因涉嫌將高效能晶片運往中國而受到調查。這層關聯讓部分人士質疑領導層危機發生的時間點。根據《The Verge》報導，包括 Epic Games 執行長史威尼（Tim Sweeney）與投資人薩克斯（David Sacks）在內的多位科技界知名人士暗示，這場醜聞可能是一場旨在拉下黃仁勳的陰謀。他們主張，「間諜敘事」相當薄弱，且他的離職可能讓那些希望對人工智慧發展擁有更多控制權的人獲利。"
+    },
+    {
+      "id": "p6",
+      "en": "Some industry observers, such as the research firm SemiAnalysis, have even suggested that Huang’s removal could be a way to clear the path for a strict new law known as the Remote Access Security Act. This law would place tighter controls on AI exports, a policy that Huang had previously opposed. While these theories circulate, more than 185,000 people have signed an open letter calling for the board to “bring Jensen back” while the investigation continues.",
+      "zh": "部分產業觀察家，例如研究機構 SemiAnalysis，甚至暗示黃仁勳的去職可能是為了替一項名為《遠端存取安全法》（Remote Access Security Act）的嚴格新法鋪路。該法案將對人工智慧出口實施更嚴格的管制，而黃仁勳先前曾反對過此類政策。在這些理論流傳的同時，已有超過十八萬五千人簽署公開信，呼籲董事會在調查持續進行的同時，「讓黃仁勳回來」。"
+    },
+    {
+      "id": "p7",
+      "en": "As the situation develops, the divide between the tech community and the company’s leadership remains wide. While high-profile figures like Elon Musk have signed the petition for his return, the board must balance this pressure against the need to maintain trust with regulators and investors. For now, Nvidia continues to operate under its interim leadership, navigating both a high-stakes investigation and a changing landscape of international trade rules. Whether the “war room” of supporters can convince the board to change its mind remains one of the most closely watched stories in the technology world.",
+      "zh": "隨著局勢發展，科技界與公司領導層之間的鴻溝依然巨大。儘管像馬斯克（Elon Musk）這樣的知名人物已簽署請願書支持他回歸，但董事會必須在這些壓力與維持監管機構及投資人信任的需求之間取得平衡。目前，輝達仍在臨時領導層的帶領下運作，同時應對高風險的調查與不斷變化的國際貿易規則。這間「戰情室」的支持者們能否說服董事會改變心意，仍是科技界最受矚目的事件之一。"
+    }
+  ],
+  "wordCount": 715,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "pushes for",
+      "definitionEn": "To strongly advocate or demand that something happens.",
+      "definitionZh": "強烈要求、極力爭取。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這裡不是物理上的「推」，而是指爭取某事發生。文中：a powerful group of Silicon Valley leaders pushes for the return of former CEO Jensen Huang."
+    },
+    {
+      "term": "back",
+      "definitionEn": "To give support or approval to someone or something.",
+      "definitionZh": "支持、背書。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（背部）或副詞（向後），這裡作動詞用。文中：This public backing comes as allies of the former CEO reportedly build a \"war room\" to lobby for his reinstatement, according to reports from The Financial Times and Ars Technica."
+    },
+    {
+      "term": "clear",
+      "definitionEn": "To remove obstacles or make a path available for someone.",
+      "definitionZh": "清除（障礙）、開路。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作形容詞（清楚的），這裡作動詞用。文中：Some industry observers, such as the research firm SemiAnalysis, have even suggested that Huang’s removal could be a way to clear the path for a strict new law known as the Remote Access Security Act."
+    },
+    {
+      "term": "plot",
+      "definitionEn": "A secret plan made by a group of people to do something illegal or harmful.",
+      "definitionZh": "陰謀、密謀。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（策劃）或名詞（故事的情節），這裡指惡意的陰謀。文中：According to The Verge, several prominent tech figures, including Epic Games CEO Tim Sweeney and investor David Sacks, have suggested that the scandal might be a plot to remove Huang."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Business",
+      "url": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
+      "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
+      "publishedAt": "2026-11-16T18:30:57Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+      "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+      "publishedAt": "2026-11-16T14:06:16Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "publishedAt": "2026-11-16T23:17:34Z"
+    }
+  ],
+  "story": {
+    "id": "nvidia-investigates-ceo-over-alleged-spy-ties",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "nvidia-scandal-and-ceo-return-debate-nov-2026",
+        "title": "Nvidia Faces Leadership Crisis as Calls Grow for Jensen Huang’s Return",
+        "publishedAt": "2026-11-16T22:14:07.418308Z",
+        "category": "economics",
+        "summaryEn": "Former Nvidia CEO Jensen Huang is considering a return to the company following his recent resignation. His departure was caused by reports of personal affairs, including a relationship with a woman suspected of being a Chinese spy. While a large group of tech leaders and President Trump have called for his reinstatement, the company’s board has not yet agreed. Meanwhile, the US government has introduced new rules to stop advanced AI chips from reaching China through third-party countries. Analysts remain divided on whether a return is possible or beneficial for the firm."
+      },
+      {
+        "slug": "nvidia-scandal-and-potential-ceo-return-nov-2026",
+        "title": "Nvidia Scandal Grows as Former CEO Considers Return",
+        "publishedAt": "2026-11-16T02:00:52.707894Z",
+        "category": "economics",
+        "summaryEn": "Former Nvidia CEO Jensen Huang is reportedly exploring a path to return to his leadership position following his recent resignation. His departure was triggered by reports of affairs with employees and a relationship with a woman suspected of spying for China. While some high-profile figures support his return, others argue that his actions represent a dangerous abuse of power. The company remains in a state of crisis as it deals with the fallout of these security and ethical concerns. Experts warn that this situation highlights the ongoing threat of corporate espionage in the technology industry."
+      },
+      {
+        "slug": "nvidia-faces-turmoil-after-ceo-scandal-nov-2026",
+        "title": "Nvidia in Crisis: Former CEO Jensen Huang Considers Return Amid Scandal",
+        "publishedAt": "2026-11-15T22:13:59.472092Z",
+        "category": "economics",
+        "summaryEn": "Former Nvidia CEO Jensen Huang is reportedly exploring a return to his role following his recent resignation. His departure came after reports of affairs with employees and a relationship with a woman suspected of spying for China. The company is currently dealing with both internal leadership instability and external pressure regarding chip exports. Meanwhile, critics argue that the scandal highlights a dangerous culture of power and poor oversight in Silicon Valley. The situation remains complex as the company and its stakeholders navigate an uncertain future."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the primary reason the US Department of Commerce is enforcing new licensing rules for chip exports to countries like Singapore and Thailand?",
+      "options": {
+        "A": "To punish Nvidia for the recent leadership scandal involving Jensen Huang.",
+        "B": "To prevent advanced chips from reaching restricted nations via third-party datacenters.",
+        "C": "To force Singapore-based companies like Megaspeed to cut ties with Nvidia.",
+        "D": "To assist the board of Nvidia in replacing their former CEO with an interim leader."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第四段，美國商務部實施新許可證規定，目的是為了防止先進晶片透過第三方數據中心被轉運至中國或其他美國的敵對國家。選項 A 錯誤，因為該規定是針對出口管制，而非針對領導層醜聞；選項 C 錯誤，文中未提到要強迫特定公司斷絕關係；選項 D 錯誤，這與領導層更迭無直接關聯。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the text, what can be inferred about the relationship between the 'spy narrative' and the regulatory pressure on Nvidia?",
+      "options": {
+        "A": "The US government created the spy narrative specifically to force Jensen Huang to resign.",
+        "B": "The spy allegations provide a convenient justification for stricter export controls that Huang previously resisted.",
+        "C": "Nvidia’s board of directors invented the spy story to comply with the Remote Access Security Act.",
+        "D": "Alice Huang was officially proven to be a spy, which led directly to the new trade regulations."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據第五段與第六段的推論，部分科技界人士認為「間諜故事」可能是一個陰謀，目的是為了移除反對嚴格出口限制（如 Remote Access Security Act）的黃仁勳。選項 A 無法由文中證實；選項 C 錯誤，因為文中提到是外部觀察家懷疑此關聯，而非董事會自導自演；選項 D 錯誤，文中明確提到川普表示間諜指控尚未被證實。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the third paragraph, what does the word 'ridiculous' mean in the context of Dan Ives's assessment of Huang's potential return?",
+      "options": {
+        "A": "Extremely unlikely and illogical.",
+        "B": "Highly amusing and entertaining.",
+        "C": "Surprisingly clever and strategic.",
+        "D": "Too expensive for the company to afford."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。文中 Dan Ives 作為分析師，在評估黃仁勳回歸的可能性時，認為這是不切實際且荒謬的。在該語境中，ridiculous 用來表達該想法缺乏邏輯且難以實現。選項 B 雖然有「可笑」之意，但在商務語境中是指荒唐而非好笑；選項 C 與 D 皆與原文作者表達的負面評估意圖不符。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central conflict described in the article?",
+      "options": {
+        "A": "The technical challenges of developing new AI chips in a competitive global market.",
+        "B": "The struggle between the US government and Nvidia over chip pricing strategies.",
+        "C": "The tension between Nvidia's board and supporters of the former CEO amidst regulatory and ethical crises.",
+        "D": "The personal legal battle between Alice Huang and the US Department of Commerce."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。本文的核心在於描述黃仁勳離職後的動盪，包括支持者要求其回歸的壓力、董事會的謹慎態度，以及公司在面臨美國政府出口管制與醜聞調查下的困境。選項 A 偏離主題；選項 B 未提及定價問題；選項 D 僅是背景事件的一部分，並非文章探討的主軸。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}

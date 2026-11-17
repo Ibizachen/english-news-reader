@@ -1,0 +1,161 @@
+{
+  "id": "2026-11-17-energy-demands-of-expanding-data-centers",
+  "slug": "energy-demands-of-expanding-data-centers-nov-2026",
+  "publishedAt": "2026-11-17T04:27:36.734259Z",
+  "category": "energy",
+  "title": "The Hidden Energy Cost of the AI Boom",
+  "subtitle": "New research reveals that massive data centers are using record amounts of electricity, raising concerns about their environmental impact.",
+  "summary": {
+    "en": "A new study shows that large data centers in the US are using a significant amount of electricity. These facilities are essential for the growth of artificial intelligence. Researchers found that their energy use creates carbon emissions equal to the yearly total of Denmark. Many of these centers still rely on fossil fuels like coal and gas for power. Experts are now calling for better planning to ensure this technology grows in a responsible way.",
+    "zh": "一項最新研究顯示，美國的大型資料中心正消耗大量電力，而這些設施對於人工智慧的發展至關重要。研究人員發現，其能源消耗所產生的碳排放量相當於丹麥一年的總排放量。許多此類中心目前仍依賴煤炭與天然氣等化石燃料供電。專家們正呼籲採取更好的規劃，以確保這項技術能以負責任的方式成長。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The rapid growth of artificial intelligence (AI) is changing how we live and work, but it is also creating a massive demand for energy. A new study published in the journal Nature Sustainability has highlighted the environmental cost of this technology. Researchers found that the largest data centers in the United States—often called \"hyperscalers\"—are using a huge amount of electricity, which is leading to significant carbon emissions.",
+      "zh": "人工智慧的快速發展正在改變我們的生活與工作方式，但也創造了巨大的能源需求。一份發表在《自然永續》期刊上的最新研究，凸顯了這項技術所帶來的環境成本。研究人員發現，美國境內規模最大的資料中心（通常被稱為「超大規模資料中心」）正消耗著龐大的電力，進而導致顯著的碳排放。"
+    },
+    {
+      "id": "p2",
+      "en": "According to the study, 403 of these massive facilities produced about 25.7 million metric tons of carbon dioxide between May 2024 and April 2025. This amount of pollution is similar to the total annual carbon emissions of Denmark, a country with 6 million people. The research team, led by Gianluca Guidi from Harvard University, noted that these data centers were responsible for nearly 2 percent of all electricity used in the United States during that time.",
+      "zh": "根據該研究，在二零二四年五月至二零二五年四月期間，這四百零三座大型設施產生了約兩千五百七十萬公噸的二氧化碳。這種污染量相當於擁有六百萬人口的丹麥全國年度碳排放總量。由哈佛大學的吉安盧卡·圭迪（Gianluca Guidi）所領導的研究團隊指出，這些資料中心在該期間消耗了美國近百分之二的總電力。"
+    },
+    {
+      "id": "p3",
+      "en": "Data centers are large buildings filled with powerful computers that store information and process the complex tasks required by AI. As companies race to build more of these facilities, the energy demand has grown quickly. Ars Technica reports that these centers are often located in states like Virginia, Ohio, Oregon, and Iowa. Because the industry is expanding so fast, researchers believe these numbers are likely a conservative estimate, meaning the actual impact could be even higher.",
+      "zh": "資料中心是充滿強大電腦的大型建築，負責儲存資訊並處理人工智慧所需的複雜任務。隨著企業競相興建更多此類設施，能源需求迅速成長。科技新聞網站 Ars Technica 報導指出，這些中心通常位於維吉尼亞州、俄亥俄州、奧勒岡州與愛荷華州。由於產業擴張速度極快，研究人員認為這些數據很可能屬於保守估計，這意味著實際影響可能更高。"
+    },
+    {
+      "id": "p4",
+      "en": "One of the biggest concerns is how these facilities are powered. The study found that more than half of the electricity used by these data centers comes from fossil fuels like coal and natural gas. These energy sources are known to cause global heating. While some people hope for a shift toward clean energy like wind or solar power, the current reality is that many new data centers are being built alongside new gas-fired power plants. Gina McCarthy, a former climate adviser to the US government, stated that it is disappointing to see such a heavy reliance on fossil fuels given the lasting damage to the climate.",
+      "zh": "其中最大的擔憂之一是這些設施的供電方式。研究發現，這些資料中心所使用的電力中，超過一半來自煤炭與天然氣等化石燃料。眾所周知，這些能源是導致全球暖化的元兇。儘管有些人期望轉向風能或太陽能等潔淨能源，但現實情況是，許多新建的資料中心正與新的燃氣發電廠同步興建。曾任美國政府氣候顧問的吉娜·麥卡錫（Gina McCarthy）表示，鑑於對氣候造成的持久損害，看到產業如此嚴重依賴化石燃料令人感到失望。"
+    },
+    {
+      "id": "p5",
+      "en": "Not everyone agrees on the severity of the problem. Supporters of the AI industry argue that the energy and water used by these centers are small when compared to other industries, such as agriculture. They also point out that these facilities bring jobs and tax money to local communities. Donald Trump, a vocal supporter of the technology, has suggested that those who oppose the growth of data centers might hurt the country’s economic future.",
+      "zh": "並非所有人都同意問題的嚴重性。人工智慧產業的支持者主張，與農業等其他產業相比，這些中心所消耗的能源與水資源微不足道。他們也指出，這些設施為當地社區帶來了就業機會與稅收。身為該技術堅定支持者的川普（Donald Trump）則暗示，反對資料中心擴張的人可能會損害國家的經濟未來。"
+    },
+    {
+      "id": "p6",
+      "en": "However, the environmental impact remains a point of tension. John Sterman, a researcher at MIT who was not part of the study, noted that the electricity consumption of these 403 facilities is higher than that of about 148 individual nations. He emphasized that once carbon dioxide is released into the air, the damage is difficult to reverse. He suggested that policymakers should require data center operators to bring new clean energy sources online to support their operations instead of relying on existing, dirtier power grids.",
+      "zh": "然而，環境影響依然是爭議焦點。未參與該研究的麻省理工學院（MIT）研究員約翰·斯特曼（John Sterman）指出，這四百零三座設施的耗電量高於約一百四十八個國家的總和。他強調，一旦二氧化碳排放到空氣中，損害便難以逆轉。他建議決策者應要求資料中心營運商引進新的潔淨能源來支援其運作，而非依賴現有且污染較嚴重的電網。"
+    },
+    {
+      "id": "p7",
+      "en": "This situation presents a difficult challenge for the future. Gianluca Guidi explained that the environmental footprint of AI is not a fixed property of the technology itself. He noted that the same computing infrastructure can have very different consequences depending on the electricity system that powers it. This means that if developers and leaders make better choices about where to build and how to power these centers, the negative impact could be reduced.",
+      "zh": "這種情況為未來帶來了艱鉅的挑戰。吉安盧卡·圭迪解釋說，人工智慧的環境足跡並非該技術本身固有的屬性。他指出，相同的運算基礎設施，根據其供電電力系統的不同，可能會產生截然不同的後果。這意味著，如果開發人員與領導者在選址與供電方式上做出更好的選擇，負面影響是有可能降低的。"
+    },
+    {
+      "id": "p8",
+      "en": "As the demand for AI continues to rise, the debate over how to balance technological progress with environmental protection is likely to grow. The recent research serves as a reminder that the digital world has a physical cost. For now, the focus remains on whether the industry can find a way to grow without causing further harm to the planet. Policymakers are being urged to think carefully about how to manage this expansion in a way that is responsible for both the economy and the environment.",
+      "zh": "隨著對人工智慧的需求持續攀升，關於如何平衡技術進步與環境保護的辯論可能會愈演愈烈。這項最新研究提醒人們，數位世界同樣具有實體成本。目前，焦點仍放在該產業能否在不對地球造成進一步傷害的前提下找到成長途徑。決策者正被敦促審慎思考，如何以兼顧經濟與環境責任的方式來管理這波擴張。"
+    }
+  ],
+  "wordCount": 728,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "conservative",
+      "definitionEn": "Estimated to be lower than the actual amount; cautious in calculation.",
+      "definitionZh": "保守的、估計偏低的。",
+      "partOfSpeech": "adjective",
+      "noteZh": "常見指政治立場保守，這裡指估計數字時採取謹慎、偏低的態度。文中：Because the industry is expanding so fast, researchers believe these numbers are likely a conservative estimate, meaning the actual impact could be even higher."
+    },
+    {
+      "term": "online",
+      "definitionEn": "In operation or ready for use.",
+      "definitionZh": "運作中、上線、投入使用。",
+      "partOfSpeech": "adverb (idiomatic)",
+      "noteZh": "常見指「在網路上」，這裡指電力設施投入運作。文中：He suggested that policymakers should require data center operators to bring new clean energy sources online to support their operations instead of relying on existing, dirtier power grids."
+    },
+    {
+      "term": "footprint",
+      "definitionEn": "The impact or effect that something has on the environment.",
+      "definitionZh": "（對環境的）影響、足跡。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見指腳印，這裡指對環境造成的負面影響。文中：Gianluca Guidi explained that the environmental footprint of AI is not a fixed property of the technology itself."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian Environment",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/datacenter-emissions-study",
+      "title": "Surge of US datacenters adds equivalent of Denmark’s annual emissions, study finds",
+      "publishedAt": "2026-11-16T16:00:47Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
+      "title": "Hyperscale data centers use 2% of US electricity",
+      "publishedAt": "2026-11-16T20:52:10Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+      "title": "US data centers now burn more electricity than a midsized country",
+      "publishedAt": "2026-11-16T20:27:58Z"
+    }
+  ],
+  "story": {
+    "id": "energy-demands-of-expanding-data-centers",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What specifically does the research suggest about the carbon emissions produced by the 403 data centers studied?",
+      "options": {
+        "A": "They are responsible for 2 percent of all global carbon emissions.",
+        "B": "They generated an amount of pollution comparable to the annual emissions of Denmark.",
+        "C": "They are currently the primary cause of global heating in the United States.",
+        "D": "They produce significantly less pollution than the agricultural industry."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，研究指出這 403 個設施產生的 2570 萬噸二氧化碳，與丹麥全國一年的碳排放量相當。選項 A 錯誤，因為文中提到的是佔美國電力消耗的 2%，而非全球碳排放；選項 C 過度推論，文章僅提到它們造成重大排放，未說是「主要原因」；選項 D 是 AI 支持者的觀點，並非研究報告的數據事實。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the article, why might the actual environmental impact of data centers be worse than the study suggests?",
+      "options": {
+        "A": "Because the study only focused on data centers located in Virginia and Iowa.",
+        "B": "Because the researchers were unable to calculate the water usage of the facilities.",
+        "C": "Because the industry is expanding so rapidly that current data is likely an underestimate.",
+        "D": "Because most data centers are secretly using more coal than they report to the public."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章第三段提到，由於產業擴張速度極快，研究人員認為目前的數據屬於「保守估計」（conservative estimate），意味著實際影響可能更大。選項 A 錯誤，文中提到這些州只是例子，並非僅研究這些地點；選項 B 雖然提到水資源，但並非研究數據被視為低估的原因；選項 D 文中並未提及隱瞞數據，屬於過度推論。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, the author writes that the digital world has a 'physical cost.' What does 'physical cost' refer to in this context?",
+      "options": {
+        "A": "The financial investment required to build new data centers.",
+        "B": "The tangible, negative impact on the environment caused by digital infrastructure.",
+        "C": "The physical labor needed to maintain the computers in the data centers.",
+        "D": "The cost of electricity paid by the companies to power their servers."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在此語境下，「physical cost」是指數位科技在現實世界中造成的實質損害，如碳排放與能源消耗。選項 A 錯誤，financial investment 指的是金錢，而非環境成本；選項 C 錯誤，文中未提到維護所需的人力；選項 D 錯誤，electricity cost 是指帳單費用，而作者強調的是對地球造成的損害（environmental impact）。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message regarding the relationship between AI development and the environment?",
+      "options": {
+        "A": "AI technology is inherently harmful and should be stopped to save the planet.",
+        "B": "The environmental impact of AI is fixed and cannot be changed by human decisions.",
+        "C": "AI provides enough economic benefits to justify any level of environmental destruction.",
+        "D": "Balancing the rapid growth of AI with environmental responsibility is a critical challenge requiring better energy choices."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。文章綜合了 AI 的發展需求與環境衝擊，並在最後幾段強調，透過改變電力來源與建設決策，可以減少負面影響。選項 A 錯誤，文章並未主張停止 AI；選項 B 與第七段觀點相反，該段明確指出環境足跡並非固定不變；選項 C 錯誤，文中呈現的是雙方的辯論，並未得出經濟利益大於環境損害的結論。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
