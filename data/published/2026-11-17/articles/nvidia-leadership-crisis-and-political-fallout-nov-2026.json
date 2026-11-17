@@ -1,0 +1,178 @@
+{
+  "id": "2026-11-17-nvidia-leadership-crisis-and-political-fallout",
+  "slug": "nvidia-leadership-crisis-and-political-fallout-nov-2026",
+  "publishedAt": "2026-11-17T22:13:44.538860Z",
+  "category": "economics",
+  "title": "Nvidia Faces Uncertain Future Amid CEO Scandal and Political Pressure",
+  "subtitle": "Former leader Jensen Huang seeks return as US government tightens chip export rules",
+  "summary": {
+    "en": "Nvidia is navigating a leadership crisis following the resignation of co-founder Jensen Huang due to personal scandals. Despite strong support from President Donald Trump and tech figures like Elon Musk, the company's board has refused to rehire him. Meanwhile, the firm reported strong financial results even as its stock price faced significant pressure. The US government is also tightening rules on chip exports to prevent technology from reaching China. Investigations into the company's past business dealings and potential security risks remain ongoing.",
+    "zh": "輝達在共同創辦人黃仁勳因個人醜聞辭職後，正陷入領導層危機。儘管獲得川普總統與馬斯克等科技界人士的強力支持，公司董事會仍拒絕讓他回任。與此同時，該公司財報表現亮眼，但股價卻面臨巨大壓力。美國政府亦正收緊晶片出口規定，以防止技術流向中國。針對該公司過去商業往來與潛在安全風險的調查仍在持續進行中。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "Nvidia, the world’s most valuable chip company, is currently facing a major leadership crisis. Last week, co-founder and CEO Jensen Huang resigned after reports emerged about his personal life. These reports included claims of multiple affairs, one of which involved a woman suspected of being a Chinese spy. Despite these serious allegations, a campaign to bring Huang back to his position has gained significant attention, supported by high-profile figures including US President Donald Trump and tech leader Elon Musk.",
+      "zh": "全球市值最高的晶片公司輝達（Nvidia），目前正陷入一場重大的領導層危機。上週，共同創辦人暨執行長黃仁勳（Jensen Huang）在關於其私生活的報導曝光後辭職。這些報導指控他有多段婚外情，其中一段涉及一名被懷疑是中國間諜的女子。儘管指控嚴重，但一場要求黃仁勳回任的運動已獲得高度關注，並得到包括美國總統川普（Donald Trump）及科技領袖馬斯克（Elon Musk）等重量級人物的支持。"
+    },
+    {
+      "id": "p2",
+      "en": "According to The Guardian Business, Nvidia’s board of directors is not considering reappointing Huang. The board’s decision remains firm even as an open letter calling for his return has gathered over 175,000 signatures from employees, partners, and shareholders. Supporters of the \"Stand with Jensen\" campaign argue that the former CEO was removed without a fair process. In a public statement, Huang apologized for his mistakes and expressed that he would be honored to return if the board decided it was in the best interest of the company and the country.",
+      "zh": "根據《衛報商業版》（The Guardian Business）報導，輝達董事會並未考慮讓黃仁勳回任。儘管一封呼籲他回歸的公開信已收集超過十七萬五千名員工、合作夥伴與股東的連署，董事會的決定依然堅定。支持「力挺黃仁勳」運動的人士主張，這位前執行長是在未經公平程序的情況下被解職。黃仁勳在公開聲明中為自己的錯誤致歉，並表示若董事會認為符合公司與國家利益，他將深感榮幸能重返崗位。"
+    },
+    {
+      "id": "p3",
+      "en": "While the leadership debate continues, Nvidia’s business performance remains strong. As reported by The Guardian Business, the company announced that its quarterly revenue reached $115.84 billion, which is double the amount from the same time last year. However, the company’s stock price has struggled, falling more than 10% and losing hundreds of billions in value since the scandal began. Colette Kress, the chief financial officer, has taken over as the interim CEO—a temporary leader—to guide the company through this difficult period.",
+      "zh": "在領導層爭議持續之際，輝達的業務表現依然強勁。據《衛報商業版》報導，該公司宣布季度營收達到一千一百五十八點四億美元，是去年同期的兩倍。然而，公司股價表現疲軟，自醜聞爆發以來已下跌超過百分之十，市值蒸發數千億美元。財務長柯蕾特·克雷斯（Colette Kress）已接任臨時執行長，帶領公司度過這段艱難時期。"
+    },
+    {
+      "id": "p4",
+      "en": "The situation has also drawn the attention of the US government. The Trump administration is currently tightening rules on chip exports to prevent advanced technology from being sent to countries where it could be illegally moved to China. According to BBC Business, these new rules require companies in several nations, including Singapore and Thailand, to apply for special licenses before they can receive the most advanced AI chips. This move comes as the US and China continue to compete for leadership in artificial intelligence development.",
+      "zh": "此局勢也引起美國政府的關注。川普政府目前正收緊晶片出口規定，以防止先進技術被運往可能非法轉移至中國的國家。根據 BBC 商業版報導，這些新規定要求包括新加坡與泰國在內的多國企業，在接收最先進的人工智慧晶片前，必須申請特別許可。此舉正值美中兩國持續爭奪人工智慧發展領導地位之際。"
+    },
+    {
+      "id": "p5",
+      "en": "Political tension surrounding the company is also rising. Ars Technica reports that critics have organized protests in Washington, DC, using billboards to question the relationship between the Trump administration and the former CEO. While President Trump has spoken positively about Huang, other government officials, such as Treasury Secretary Scott Bessent, have suggested that Nvidia should look for a new leader from outside the company. There are also growing questions about whether the White House acted quickly enough to address potential security threats regarding the company's business in China.",
+      "zh": "圍繞該公司的政治緊張局勢也在升溫。《科技藝術》（Ars Technica）報導指出，批評人士已在華盛頓特區發起抗議，並利用看板質疑川普政府與這位前執行長之間的關係。雖然川普總統對黃仁勳評價正面，但其他政府官員，如財政部長貝森特（Scott Bessent），則建議輝達應從公司外部尋找新領導人。此外，外界也越來越質疑白宮在處理該公司於中國業務的潛在安全威脅時，反應是否足夠迅速。"
+    },
+    {
+      "id": "p6",
+      "en": "Nvidia is now facing multiple investigations. The US Securities and Exchange Commission is looking into the company’s business operations in China, according to The Guardian Business. Additionally, Huang has agreed to appear before several US House committees in December to provide information about his time as CEO. These investigations aim to clarify the company's past actions and ensure that its technology is not being used in ways that harm national security.",
+      "zh": "輝達目前面臨多項調查。根據《衛報商業版》報導，美國證券交易委員會（SEC）正在調查該公司在中國的業務運作。此外，黃仁勳已同意於十二月出席多個美國眾議院委員會，說明他擔任執行長期間的情況。這些調查旨在釐清公司過去的行為，並確保其技術未被用於損害國家安全的用途。"
+    },
+    {
+      "id": "p7",
+      "en": "As the company moves forward, the focus remains on stabilizing its leadership and addressing the concerns of its partners and shareholders. The board of directors has emphasized that its roadmap for future technology is still on track, despite the recent changes. For now, the future of Nvidia remains tied to both its ability to maintain its dominant position in the chip market and its success in navigating the complex political environment in Washington. Whether the company can move past this scandal while continuing to lead the global AI industry is a question that many investors and industry experts are watching closely.",
+      "zh": "隨著公司持續運作，焦點仍放在穩定領導層並解決合作夥伴與股東的疑慮。董事會強調，儘管近期發生變動，其未來技術發展藍圖仍按計畫進行。目前，輝達的未來仍與其維持晶片市場主導地位的能力，以及在華盛頓複雜的政治環境中運籌帷幄的成敗息息相關。該公司能否在擺脫此醜聞的同時，繼續引領全球人工智慧產業，是許多投資人與產業專家密切關注的問題。"
+    }
+  ],
+  "wordCount": 682,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "firm",
+      "definitionEn": "Unchanging and determined; not willing to change a decision.",
+      "definitionZh": "堅定的、不動搖的。",
+      "partOfSpeech": "adjective",
+      "noteZh": "常見作名詞（公司），這裡作形容詞用。文中：The board’s decision remains firm even as an open letter calling for his return has gathered over 175,000 signatures from employees, partners, and shareholders."
+    },
+    {
+      "term": "struggled",
+      "definitionEn": "To experience difficulty and perform poorly in a specific area.",
+      "definitionZh": "表現吃力、陷入困境。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作「掙扎、奮鬥」，這裡指股價表現疲軟。文中：However, the company’s stock price has struggled, falling more than 10% and losing hundreds of billions in value since the scandal began."
+    },
+    {
+      "term": "on track",
+      "definitionEn": "Proceeding as planned or expected.",
+      "definitionZh": "進展順利、按計畫進行。",
+      "partOfSpeech": "idiom",
+      "noteZh": "字面意思為「在軌道上」，這裡指計畫進度正常。文中：The board of directors has emphasized that its roadmap for future technology is still on track, despite the recent changes."
+    }
+  ],
+  "sources": [
+    {
+      "name": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
+      "publishedAt": "2026-11-17T02:37:53Z"
+    },
+    {
+      "name": "The Guardian Business",
+      "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
+      "title": "Nvidia doubles revenue in first earnings since Jensen Huang’s resignation",
+      "publishedAt": "2026-11-17T22:06:44Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+      "publishedAt": "2026-11-17T20:32:55Z"
+    }
+  ],
+  "story": {
+    "id": "nvidia-investigates-ceo-over-alleged-spy-ties",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "nvidia-scandal-and-ceo-return-debate-nov-2026",
+        "title": "Nvidia Faces Leadership Crisis as Calls Grow for Jensen Huang’s Return",
+        "publishedAt": "2026-11-16T22:14:07.418308Z",
+        "category": "economics",
+        "summaryEn": "Former Nvidia CEO Jensen Huang is considering a return to the company following his recent resignation. His departure was caused by reports of personal affairs, including a relationship with a woman suspected of being a Chinese spy. While a large group of tech leaders and President Trump have called for his reinstatement, the company’s board has not yet agreed. Meanwhile, the US government has introduced new rules to stop advanced AI chips from reaching China through third-party countries. Analysts remain divided on whether a return is possible or beneficial for the firm."
+      },
+      {
+        "slug": "nvidia-leadership-crisis-and-ceo-return-debate-nov-2026",
+        "title": "Nvidia Leadership Crisis: Pressure Mounts for Jensen Huang’s Return",
+        "publishedAt": "2026-11-17T04:27:36.734259Z",
+        "category": "economics",
+        "summaryEn": "Former Nvidia CEO Jensen Huang is facing calls for his reinstatement following his sudden resignation last week. The departure was linked to reports of personal affairs, including a relationship with a woman alleged to be a Chinese spy. While a large group of tech executives supports his return, Nvidia’s board remains cautious. Meanwhile, the US government has introduced new rules to prevent advanced chips from reaching restricted countries. The situation remains complex as analysts debate whether a return is even possible."
+      },
+      {
+        "slug": "nvidia-scandal-and-potential-ceo-return-nov-2026",
+        "title": "Nvidia Scandal Grows as Former CEO Considers Return",
+        "publishedAt": "2026-11-16T02:00:52.707894Z",
+        "category": "economics",
+        "summaryEn": "Former Nvidia CEO Jensen Huang is reportedly exploring a path to return to his leadership position following his recent resignation. His departure was triggered by reports of affairs with employees and a relationship with a woman suspected of spying for China. While some high-profile figures support his return, others argue that his actions represent a dangerous abuse of power. The company remains in a state of crisis as it deals with the fallout of these security and ethical concerns. Experts warn that this situation highlights the ongoing threat of corporate espionage in the technology industry."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the current status of the effort to bring Jensen Huang back to Nvidia?",
+      "options": {
+        "A": "The board of directors is currently reviewing the open letter signed by 175,000 supporters.",
+        "B": "The board has maintained a firm stance against reappointing him despite significant public pressure.",
+        "C": "The US government has officially ordered the board to reconsider Huang's resignation.",
+        "D": "The board is waiting for the results of the upcoming investigations before making a final decision."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，Nvidia 的董事會（board of directors）明確表示不考慮重新任命 Huang，即便有超過 17 萬人連署支持，董事會的決定依然堅定。選項 A 錯誤，因為董事會並未「考慮」該請願；選項 C 錯誤，文中並未提到政府下令董事會重聘他；選項 D 錯誤，文中提到董事會決定堅定，並未表示在等待調查結果。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the relationship between Nvidia's recent scandal and the US government's new export rules?",
+      "options": {
+        "A": "The new rules were created specifically to punish Nvidia for Huang's personal conduct.",
+        "B": "The government is using the scandal as a distraction to implement trade policies that were already planned.",
+        "C": "National security concerns regarding Nvidia's business in China have intensified due to the leadership crisis.",
+        "D": "The export rules are expected to increase Nvidia's quarterly revenue by requiring more special licenses."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。透過文章第四段與第六段的連結可知，政府對 Nvidia 的業務進行調查，且同時加強對中國的晶片出口限制，顯示政府對該公司技術流向中國的安全性感到高度疑慮，這種疑慮在領導層醜聞爆發後顯得更加敏感。選項 A 錯誤，出口規定是針對國家安全與技術流向；選項 B 錯誤，文中並未暗示這是轉移注意力的手段；選項 D 錯誤，出口限制通常會增加營運成本與難度，而非增加營收。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the third paragraph, what does the word 'interim' mean as used in the phrase 'interim CEO'?",
+      "options": {
+        "A": "Permanent and long-term",
+        "B": "Temporary or provisional",
+        "C": "Highly experienced and skilled",
+        "D": "Under investigation by authorities"
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，「interim CEO」後方緊接著解釋為「a temporary leader」（臨時領導者），因此「interim」意指暫時的、過渡性的。選項 A 與文意相反；選項 C 雖然擔任此職位的人可能很有經驗，但並非該詞彙的定義；選項 D 雖然文中提到公司面臨調查，但「interim」一詞本身並不含有被調查的意思。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "Which of the following best summarizes the main focus of the article?",
+      "options": {
+        "A": "The success of Nvidia's new financial strategy and its record-breaking quarterly revenue.",
+        "B": "The personal life of Jensen Huang and the reasons behind his resignation from Nvidia.",
+        "C": "The political conflict between the US government and the Chinese tech industry.",
+        "D": "The challenges Nvidia faces in managing a leadership crisis amidst political and security scrutiny."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。這篇文章全面探討了 Nvidia 在執行長辭職後，如何面對董事會的堅持、股價下跌、政府的出口限制、國安調查以及政治壓力，這涵蓋了文章的所有核心議題。選項 A 僅提到財務表現，忽略了危機與政治層面；選項 B 過於狹隘，僅聚焦於執行長個人；選項 C 範圍太大，且未聚焦於 Nvidia 的核心狀況。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
