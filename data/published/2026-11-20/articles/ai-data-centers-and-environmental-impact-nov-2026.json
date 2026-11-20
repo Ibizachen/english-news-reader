@@ -1,141 +1,166 @@
 {
   "id": "2026-11-20-ai-data-centers-and-environmental-impact",
   "slug": "ai-data-centers-and-environmental-impact-nov-2026",
-  "publishedAt": "2026-11-20T03:09:15.237166Z",
+  "publishedAt": "2026-11-20T22:13:38.920688Z",
   "category": "technology",
-  "title": "The Hidden Energy Cost of the AI Boom",
-  "subtitle": "New reports show that the rapid growth of artificial intelligence is creating a massive demand for electricity and increasing carbon emissions.",
+  "title": "The Global Race for AI Data Centers: Taxes, Emissions, and Cultural Concerns",
+  "subtitle": "As tech giants expand, governments and companies face difficult choices about energy, environment, and intellectual property.",
   "summary": {
-    "en": "The International Energy Agency warns that data centers will use twice as much electricity by 2030. Much of this growth is driven by the rapid expansion of artificial intelligence. While companies are buying renewable energy, they are also relying heavily on fossil fuels like coal and gas. The US and China are expected to see the largest increases in carbon emissions from this sector. Experts say the global energy market is changing permanently due to these new demands.",
-    "zh": "國際能源總署警告，到二〇三〇年，資料中心的用電量將增加一倍，而這波成長主要由人工智慧的快速擴張所驅動。儘管企業正採購再生能源，但同時也高度依賴煤炭與天然氣等化石燃料。預計美國與中國將成為該產業碳排放增幅最大的國家。專家表示，由於這些新需求，全球能源市場正發生永久性的改變。"
+    "en": "President Trump has threatened a new tax on companies that build AI data centers outside the United States. Meanwhile, Meta is reconsidering its 2030 net-zero emissions goal due to the massive energy needs of AI infrastructure. In Australia, artists and journalists are protesting against potential copyright loopholes offered to tech companies. These developments highlight the growing tension between the rapid growth of AI and its real-world impact. Balancing technological progress with environmental and cultural protections remains a major challenge for leaders worldwide.",
+    "zh": "川普總統威脅要對在美國境外興建人工智慧資料中心的企業課徵新稅。與此同時，由於人工智慧基礎設施對能源的龐大需求，Meta 正在重新評估其二〇三〇年的淨零排放目標。在澳洲，藝術家與記者正抗議政府可能為科技公司提供著作權漏洞。這些發展凸顯了人工智慧的快速成長與其現實影響之間日益緊張的關係。如何在科技進步與環境及文化保護之間取得平衡，仍是全球領導者面臨的一大挑戰。"
   },
   "paragraphs": [
     {
       "id": "p1",
-      "en": "The world is currently experiencing a massive boom in artificial intelligence (AI). From chatbots to complex data analysis, AI is changing how we work and live. However, this technology requires enormous amounts of computing power. Behind every AI tool is a 'data center'—a large building filled with thousands of powerful computers that process information. According to a new report from the International Energy Agency (IEA), these data centers are now consuming so much electricity that they are creating a significant environmental challenge.",
-      "zh": "全球目前正經歷人工智慧（AI）的蓬勃發展。從聊天機器人到複雜的數據分析，人工智慧正在改變我們的生活與工作方式。然而，這項技術需要龐大的運算能力。每一項人工智慧工具背後都有一個「資料中心」，這是一棟裝滿數千台高效能電腦、負責處理資訊的大型建築。根據國際能源總署（IEA）的一份新報告，這些資料中心目前的電力消耗量極大，已造成嚴峻的環境挑戰。"
+      "en": "The rapid expansion of artificial intelligence (AI) is forcing a global debate over where and how to build the massive data centers that power modern technology. These facilities, which house thousands of computer servers, are essential for training AI models. However, they are also becoming a source of intense political and environmental conflict.",
+      "zh": "人工智慧的快速擴張正迫使全球展開辯論，討論該在何處以及如何興建驅動現代科技的龐大資料中心。這些設施內部容納了數以千計的電腦伺服器，是訓練人工智慧模型的必要基礎。然而，它們也正成為激烈政治與環境衝突的來源。"
     },
     {
       "id": "p2",
-      "en": "The IEA, which acts as a global watchdog for energy, warns that data centers will use twice as much electricity by 2030 compared to today. The agency noted that the rapid growth of AI is responsible for three-quarters of this increase. To understand the scale of this demand, the IEA pointed out that within four years, AI data centers will require an extra 350 terawatt-hours of electricity every year. This amount is more than the total annual electricity consumption of Great Britain. The agency based these findings on the rapid rise in AI server shipments, which have increased eighteen times since 2020, and satellite images showing the construction of 93 large 'AI factories' around the world.",
-      "zh": "身為全球能源監管機構的國際能源總署警告，到二〇三〇年，資料中心的用電量將是今日的兩倍。該署指出，人工智慧的快速成長是導致用電量增加的主因，佔了增幅的四分之三。為了讓人們理解這項需求的規模，國際能源總署指出，四年內人工智慧資料中心每年將額外需要三百五十太瓦時的電力，這相當於英國全國每年的總用電量。該署的結論是基於人工智慧伺服器出貨量的快速攀升（自二〇二〇年以來已成長十八倍），以及衛星影像顯示全球各地正在興建九十三座大型「人工智慧工廠」。"
+      "en": "In the United States, President Donald Trump recently announced a new, aggressive policy to keep these facilities within the country. During a press conference, the President threatened to place a “tremendous tax” on any American company that chooses to build its data centers overseas. According to The Verge, the President argued that allowing this infrastructure to move abroad would be destructive to the nation’s technological future, warning that other countries, specifically China, would take advantage of the opportunity if the U.S. does not act.",
+      "zh": "在美國，總統川普（Donald Trump）近期宣布了一項激進的新政策，旨在將這些設施留在國內。在記者會上，總統威脅要對任何選擇在海外興建資料中心的美國企業課徵「鉅額稅款」。根據科技媒體 The Verge 報導，總統主張若允許此類基礎設施移往國外，將對國家的科技未來造成破壞，並警告若美國不採取行動，其他國家（特別是中國）將會趁機獲利。"
     },
     {
       "id": "p3",
-      "en": "As these data centers grow, they need reliable power sources to stay running 24 hours a day. While many developers are buying renewable energy—energy from natural sources like wind and sun that do not run out—the demand is growing faster than green energy can be built. Consequently, the industry is turning to fossil fuels, such as coal and gas, to fill the gap. The IEA report suggests that this shift will cause carbon emissions from the data center sector to rise by 70% by 2030.",
-      "zh": "隨著這些資料中心不斷擴張，它們需要可靠的電力來源以維持二十四小時運作。雖然許多開發商正積極採購再生能源（即來自風力與太陽能等不會耗盡的自然資源），但需求的成長速度已超過綠能建設的速度。因此，產業界正轉向煤炭與天然氣等化石燃料來填補缺口。國際能源總署的報告顯示，這種轉變將導致資料中心產業的碳排放量在二〇三〇年前增加百分之七十。"
+      "en": "This threat comes at a time when many local communities in the U.S. are already pushing back against the construction of new data centers. Some states have even introduced moratoriums—temporary bans on new projects—due to concerns about the heavy strain these buildings place on local power grids and water supplies. While the President’s proposal aims to keep jobs and technology at home, experts suggest it may be difficult to implement, especially with a new Congress arriving soon that may have different priorities.",
+      "zh": "這項威脅出現之際，美國許多地方社區已在抵制新資料中心的興建。由於擔心這些建築對當地電網與供水系統造成沉重負擔，部分州甚至實施了暫停令，即對新開發案進行暫時性的禁令。雖然總統的提案旨在將工作機會與技術留在國內，但專家認為這可能難以執行，特別是即將上任的新國會可能會有不同的優先事項。"
     },
     {
       "id": "p4",
-      "en": "The situation varies significantly by region. In China, the IEA expects that about half of the electricity for AI data centers will come from coal power plants by the end of the decade. Meanwhile, the United States is moving toward a heavy reliance on natural gas. The agency reported that there were plans for about 180 gigawatts of new gas-fired power plants linked to US data centers as of August this year. This is a massive amount of new energy capacity, nearly equal to all the gas power currently installed across the entire European Union.",
-      "zh": "各地區的情況差異顯著。國際能源總署預計，到本世紀末，中國的人工智慧資料中心約有一半的電力將來自燃煤電廠。與此同時，美國則傾向高度依賴天然氣。該署報告指出，截至今年八月，美國已有約一百八十吉瓦的新建燃氣電廠計畫與資料中心掛鉤。這是一筆龐大的新增能源容量，幾乎等同於目前整個歐盟安裝的天然氣發電總量。"
+      "en": "Beyond the political debate, the environmental cost of the AI boom is becoming increasingly clear. Meta, the parent company of Facebook and Instagram, recently revealed that it is rethinking its goal to achieve net-zero emissions by 2030. Net-zero means that a company removes as much carbon dioxide from the atmosphere as it puts in. According to Ars Technica, Meta’s sustainability report shows that the company’s greenhouse gas emissions have risen sharply, largely due to the massive electricity demand required by its new AI data centers. While other major tech companies like Google and Amazon have maintained their original sustainability goals, all are struggling to balance their climate promises with the need for more computing power. Often, these companies are forced to rely on natural gas to generate the electricity needed to keep their servers running.",
+      "zh": "除了政治辯論外，人工智慧熱潮帶來的環境代價也日益顯著。臉書（Facebook）與 Instagram 的母公司 Meta 近期透露，該公司正在重新評估其於二〇三〇年達成淨零排放的目標。淨零排放是指企業從大氣中移除的二氧化碳量，與其排放量相等。根據科技網站 Ars Technica 報導，Meta 的永續發展報告顯示，該公司的溫室氣體排放量急劇上升，主要原因是其新的人工智慧資料中心需要龐大的電力需求。儘管 Google 與亞馬遜（Amazon）等其他大型科技公司仍維持原有的永續發展目標，但所有公司都在努力平衡氣候承諾與對運算能力的需求。這些公司往往被迫依賴天然氣來產生維持伺服器運作所需的電力。"
     },
     {
       "id": "p5",
-      "en": "In contrast, other parts of the world are taking a different path. In the European Union, the IEA expects that data centers will rely on renewable energy for about 70% of their electricity by 2030. The remaining power will come from a mix of nuclear energy, gas, and a very small amount of coal. This shows that while the growth of AI is a global trend, the environmental impact depends heavily on the energy policies of individual governments.",
-      "zh": "相較之下，世界其他地區則採取了不同的路徑。在歐盟，國際能源總署預計到二〇三〇年，資料中心約百分之七十的電力將來自再生能源。其餘電力則將由核能、天然氣以及極少量的煤炭組合而成。這顯示儘管人工智慧的成長是全球趨勢，但其對環境的影響仍高度取決於各國政府的能源政策。"
+      "en": "Meanwhile, in Australia, the conflict is focused on culture and law. The Guardian reports that a group of prominent Australian musicians, authors, and journalists is protesting against the government. They argue that the government is offering “loopholes”—or exceptions in the law—to big tech companies to encourage them to build data centers in Australia. These artists fear that the government will allow AI companies to use their creative work, such as books, music, and journalism, to train AI models without asking for permission or paying the creators.",
+      "zh": "與此同時，在澳洲，衝突焦點則集中在文化與法律層面。衛報（The Guardian）報導指出，一群知名的澳洲音樂家、作家與記者正在抗議政府。他們主張政府為了鼓勵大型科技公司在澳洲興建資料中心，正提供「漏洞」（即法律上的例外條款）。這些藝術家擔心政府會允許人工智慧公司在未經許可或支付報酬的情況下，使用他們的作品（如書籍、音樂與新聞報導）來訓練人工智慧模型。"
     },
     {
       "id": "p6",
-      "en": "This energy challenge comes at a difficult time for the global market. The IEA stated that the world’s energy future is less certain today than it was in the past, partly due to the impact of the war in the Middle East, which the agency described as the greatest energy market disruption in history. Fatih Birol, the executive director of the IEA, said that he does not see a way for the energy world to return to how it was before. Instead, the market will be reshaped by the decisions governments make to balance the needs of a growing population, the rising demand for air conditioning, and the booming AI economy.",
-      "zh": "這項能源挑戰正值全球市場的艱難時刻。國際能源總署表示，全球能源的未來比過去更加不確定，部分原因是中東戰爭的影響，該署將其描述為史上對能源市場最大的干擾。國際能源總署執行董事法提赫·比羅爾（Fatih Birol）表示，他認為能源世界已無法回到過去的樣貌。相反地，市場將被各國政府的決策所重塑，以平衡人口成長、日益增加的空調需求，以及蓬勃發展的人工智慧經濟。"
+      "en": "Critics of this approach warn that Australia risks becoming a “safe haven” for tech companies that want to avoid strict copyright laws. They argue that if these companies are allowed to “scrape” or copy cultural works without consent, it will destroy the livelihoods of many creative professionals. For these artists, the issue is not just about technology; it is about protecting the value of human expression against machines that are built to copy it.",
+      "zh": "此作法的批評者警告，澳洲恐將成為科技公司規避嚴格著作權法的「避風港」。他們主張，若允許這些公司在未經同意的情況下「抓取」或複製文化作品，將會摧毀許多創意專業人士的生計。對這些藝術家而言，這不僅是技術問題，更是為了保護人類表達的價值，免受旨在複製這些表達的機器所侵害。"
     },
     {
       "id": "p7",
-      "en": "Looking ahead, the rapid expansion of AI infrastructure is forcing a conversation about sustainability. While data center developers are among the world’s largest corporate buyers of clean energy, the IEA report highlights that their appetite for fossil fuels is growing even faster. As the world becomes more dependent on AI, the pressure on power grids will only increase. Whether the technology industry can grow without causing a major rise in carbon emissions remains a critical question for policymakers and energy experts alike. For now, the data suggests that the 'AI revolution' will require a massive transformation of how we produce and consume electricity on a global scale.",
-      "zh": "展望未來，人工智慧基礎設施的快速擴張正迫使各界展開關於永續發展的對話。雖然資料中心開發商是全球最大的清潔能源企業買家之一，但國際能源總署的報告強調，他們對化石燃料的渴求成長得更快。隨著世界對人工智慧的依賴加深，電網承受的壓力只會與日俱增。科技產業能否在不導致碳排放大幅增加的情況下成長，對於決策者與能源專家而言，仍是一個關鍵問題。目前數據顯示，「人工智慧革命」將需要全球範圍內電力生產與消費方式的巨大轉型。"
+      "en": "These three situations—the U.S. tax threat, Meta’s rising emissions, and the Australian copyright protests—show that the AI revolution is hitting significant roadblocks. The industry is growing faster than almost anyone predicted, and this speed is creating difficult choices for governments and companies alike. As the International Energy Agency has noted, data centers are expected to use twice as much electricity by 2030, a trend driven almost entirely by the rapid expansion of AI.",
+      "zh": "這三種情況——美國的稅收威脅、Meta 的排放量上升，以及澳洲的著作權抗議——顯示人工智慧革命正遭遇重大阻礙。該產業的成長速度遠超乎幾乎所有人的預期，而這種速度正迫使政府與企業面臨艱難的抉擇。正如國際能源總署（International Energy Agency）所指出的，預計到二〇三〇年，資料中心的用電量將增加一倍，這股趨勢幾乎完全是由人工智慧的快速擴張所驅動。"
+    },
+    {
+      "id": "p8",
+      "en": "Looking ahead, the tension between the desire for technological leadership and the need for environmental and cultural protection is likely to grow. Companies are under pressure to build more, while the public is increasingly asking about the cost of that growth. Whether it is through new taxes, stricter environmental regulations, or stronger copyright protections, it is clear that the era of “unfettered” or unrestricted AI expansion is facing a new, more complicated reality.",
+      "zh": "展望未來，對科技領導地位的渴望與環境及文化保護需求之間的緊張關係，預計將會加劇。企業面臨擴張的壓力，而大眾則日益質疑這種成長的代價。無論是透過新稅制、更嚴格的環境法規，還是更強力的著作權保護，顯而易見的是，人工智慧「不受限制」擴張的時代，正面臨一個嶄新且更為複雜的現實。"
     }
   ],
-  "wordCount": 728,
+  "wordCount": 732,
   "readingLevel": "B1-B2",
   "keyTerms": [
     {
-      "term": "boom",
-      "definitionEn": "A period of sudden, rapid growth or success.",
-      "definitionZh": "繁榮、激增。",
-      "partOfSpeech": "noun",
-      "noteZh": "常見作動詞（發出巨響），這裡作名詞，指產業的快速發展。文中：The world is currently experiencing a massive boom in artificial intelligence (AI)."
-    },
-    {
-      "term": "acts as",
-      "definitionEn": "To perform a specific role or function.",
-      "definitionZh": "擔任、充當。",
+      "term": "pushing back",
+      "definitionEn": "To resist or oppose a plan, idea, or change.",
+      "definitionZh": "反對、抵制（計畫或想法）。",
       "partOfSpeech": "phrasal verb",
-      "noteZh": "這裡指該機構扮演的角色，而非字面上的「表演」。文中：The IEA, which acts as a global watchdog for energy, warns that data centers will use twice as much electricity by 2030 compared to today."
+      "noteZh": "常見於實體推擠，這裡指對政策的抗拒。文中：This threat comes at a time when many local communities in the U.S. are already pushing back against the construction of new data centers."
     },
     {
-      "term": "appetite",
-      "definitionEn": "A strong desire or demand for something.",
-      "definitionZh": "強烈的需求、渴望。",
+      "term": "strain",
+      "definitionEn": "A severe pressure or burden placed on a system or resource.",
+      "definitionZh": "（對資源或系統的）沉重負擔、壓力。",
       "partOfSpeech": "noun",
-      "noteZh": "常見指「食慾」，這裡比喻對能源的巨大需求。文中：While data center developers are among the world’s largest corporate buyers of clean energy, the IEA report highlights that their appetite for fossil fuels is growing even faster."
+      "noteZh": "常見作動詞（拉傷），這裡作名詞指對基礎設施的壓力。文中：Some states have even introduced moratoriums—temporary bans on new projects—due to concerns about the heavy strain these buildings place on local power grids and water supplies."
+    },
+    {
+      "term": "hitting",
+      "definitionEn": "To reach or encounter a specific point, often a difficulty or obstacle.",
+      "definitionZh": "遇到（困難、障礙）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作「擊打」，這裡指遇到阻礙。文中：These three situations—the U.S. tax threat, Meta’s rising emissions, and the Australian copyright protests—show that the AI revolution is hitting significant roadblocks."
     }
   ],
   "sources": [
     {
-      "name": "The Guardian World",
-      "url": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
-      "title": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
-      "publishedAt": "2026-11-19T05:00:18Z"
+      "name": "The Verge",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "publishedAt": "2026-11-20T18:50:19Z"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "publishedAt": "2026-11-20T21:47:10Z"
+    },
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/technology/commentisfree/2026/nov/20/big-tech-is-already-building-datacentres-in-australia-why-is-labor-desperate-to-give-them-loopholes",
+      "title": "Big tech is already building datacentres in Australia. Why is Labor so desperate to give them loopholes?",
+      "publishedAt": "2026-11-20T02:00:18Z"
     }
   ],
   "story": {
     "id": "ai-data-centers-and-environmental-impact",
-    "type": "standalone",
-    "previousArticles": []
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "ai-data-centers-and-environmental-impact-nov-2026",
+        "title": "The Hidden Energy Cost of the AI Boom",
+        "publishedAt": "2026-11-20T03:09:15.237166Z",
+        "category": "technology",
+        "summaryEn": "The International Energy Agency warns that data centers will use twice as much electricity by 2030. Much of this growth is driven by the rapid expansion of artificial intelligence. While companies are buying renewable energy, they are also relying heavily on fossil fuels like coal and gas. The US and China are expected to see the largest increases in carbon emissions from this sector. Experts say the global energy market is changing permanently due to these new demands."
+      }
+    ]
   },
   "quiz": [
     {
       "id": "q1",
       "type": "detail",
-      "question": "According to the IEA report, what specific evidence was used to estimate the future electricity demand of AI data centers?",
+      "question": "What is the primary reason some U.S. states have implemented moratoriums on new data center projects?",
       "options": {
-        "A": "A survey of energy usage in the European Union.",
-        "B": "The increase in AI server shipments and satellite photos of new construction.",
-        "C": "The total annual electricity consumption of Great Britain.",
-        "D": "A projection of how much air conditioning will be needed by 2030."
+        "A": "They want to force tech companies to move their operations to China.",
+        "B": "They are concerned about the excessive pressure these facilities place on local water and electricity resources.",
+        "C": "They are protesting against the federal government's new tax policies on AI infrastructure.",
+        "D": "They believe that data centers are causing a decline in the number of available jobs for local citizens."
       },
       "correct": "B",
-      "explanationZh": "正確答案為 B。文章第二段明確指出，IEA 的預測基礎在於 AI 伺服器出貨量自 2020 年以來成長了 18 倍，以及透過衛星影像觀察到全球各地正在興建 93 座大型「AI 工廠」。選項 A 錯誤，歐盟的數據是在後續段落提到，並非預測基礎。選項 C 是用來類比電力需求規模的例子，而非計算基礎。選項 D 雖然在第六段提到空調需求，但與計算 AI 電力需求的依據無關。"
+      "explanationZh": "正確答案為 B。根據文章第三段，部分州實施「暫停令」（moratoriums）是因為擔心這些設施對當地的電力網和水資源供應造成沉重負擔。選項 A 錯誤，因為政策目標是將設施留在國內而非送往中國。選項 C 錯誤，文中並未提到州政府的禁令是為了抗議聯邦稅收政策。選項 D 錯誤，文中提到總統的提案是為了保留國內工作機會，而非因為數據中心導致失業。"
     },
     {
       "id": "q2",
       "type": "inference",
-      "question": "What can be inferred about the relationship between AI development and renewable energy?",
+      "question": "Based on the article, what can be inferred about the future of Meta's net-zero emissions goal?",
       "options": {
-        "A": "Renewable energy sources are currently sufficient to power the growth of AI.",
-        "B": "AI developers are intentionally avoiding renewable energy to save costs.",
-        "C": "The speed of AI growth is outpacing the current capacity to build green energy infrastructure.",
-        "D": "AI data centers will eventually stop using fossil fuels entirely by 2030."
+        "A": "Meta will likely achieve its goal ahead of schedule due to rapid AI advancements.",
+        "B": "Meta is planning to switch entirely to renewable energy sources to solve its emission problem.",
+        "C": "It is becoming increasingly difficult for Meta to reach its goal because AI data centers require high electricity consumption.",
+        "D": "Meta has decided to abandon its sustainability report to avoid public criticism regarding its climate impact."
       },
       "correct": "C",
-      "explanationZh": "正確答案為 C。根據第三段，雖然開發商正在購買再生能源，但需求成長速度超過了綠能建設的速度，導致產業轉向化石燃料。這暗示了綠能基礎設施的建設速度趕不上 AI 的擴張。選項 A 與文意相反，文中提到需求成長太快。選項 B 無法從文中推論，文中只提到開發商是清潔能源的大買家。選項 D 過於武斷，文中預測碳排放會上升，並未提到會完全停止使用化石燃料。"
+      "explanationZh": "正確答案為 C。文章第四段提到 Meta 正在重新思考其 2030 年淨零排放目標，原因是 AI 數據中心對電力的巨大需求導致溫室氣體排放量急劇上升，這暗示了在追求 AI 成長的同時，實現環保目標變得極其困難。選項 A 與文中事實相反；選項 B 文中提到公司被迫依賴天然氣發電，而非再生能源；選項 D 錯誤，因為 Meta 實際上公開了其永續發展報告，並未試圖隱瞞。"
     },
     {
       "id": "q3",
       "type": "vocabulary",
-      "question": "In the final paragraph, the author refers to the data center developers' 'appetite for fossil fuels.' What does 'appetite' mean in this context?",
+      "question": "In the final paragraph, what does the word 'unfettered' mean as it is used in the context of AI expansion?",
       "options": {
-        "A": "A strong desire or demand for something.",
-        "B": "The biological need to consume food for survival.",
-        "C": "The physical capacity of a building to store fuel.",
-        "D": "A temporary interest that will soon fade away."
+        "A": "Unrestricted or free from control.",
+        "B": "Technologically advanced and modern.",
+        "C": "Slowed down by legal regulations.",
+        "D": "Environmentally friendly and sustainable."
       },
       "correct": "A",
-      "explanationZh": "正確答案為 A。在此語境下，「appetite」並非指生理上的食慾，而是引申為對某種資源（化石燃料）的強烈需求或渴望。選項 B 是該詞的字面意思，但在商業語境中不適用。選項 C 錯誤，文中並未討論燃料儲存空間。選項 D 錯誤，文中提到這種需求正在快速成長，並非短暫的興趣。"
+      "explanationZh": "正確答案為 A。在文章最後一段，作者提到「unfettered」AI 擴張時代正面臨新的複雜現實，根據上下文（對比政府稅收、環保法規和版權保護），此字意指不受限制、沒有束縛的發展。選項 B 與文意無關；選項 C 是該詞的反義；選項 D 錯誤，因為文章強調的是 AI 擴張帶來的環境與法律問題，而非其環保性。"
     },
     {
       "id": "q4",
       "type": "main_idea",
-      "question": "What is the primary message of the article regarding the rise of AI?",
+      "question": "What is the central message of the article regarding the current state of the AI industry?",
       "options": {
-        "A": "AI technology is a failure because it consumes too much electricity.",
-        "B": "The global energy market is shifting toward nuclear power as the only solution for AI.",
-        "C": "AI development is causing a global crisis that can only be solved by stopping all construction.",
-        "D": "The rapid expansion of AI creates a significant energy challenge that requires a major transformation in electricity production."
+        "A": "The AI industry is successfully collaborating with governments to solve global environmental issues.",
+        "B": "Technological leadership in AI is more important than protecting copyright or the environment.",
+        "C": "The rapid growth of AI is creating significant political, environmental, and legal challenges that require difficult choices.",
+        "D": "The United States is the only country currently facing conflicts over the construction of AI data centers."
       },
-      "correct": "D",
-      "explanationZh": "正確答案為 D。文章整體探討了 AI 發展帶來的電力需求激增，以及這對環境和能源政策造成的壓力。結論部分明確指出，AI 革命需要全球在電力生產和消耗方式上進行大規模轉型。選項 A 過於極端，文中並未否定 AI 的價值。選項 B 不正確，文中僅提到核能是歐盟能源組合的一部分，並非唯一解。選項 C 錯誤，文中並未建議停止建設，而是強調永續發展的挑戰。"
+      "correct": "C",
+      "explanationZh": "正確答案為 C。文章透過美國的稅收威脅、Meta 的環境排放問題以及澳洲的版權抗議，全面探討了 AI 產業在成長過程中遇到的多重阻礙。這顯示了 AI 的快速發展已迫使政府與企業必須在科技領先與社會責任之間做出艱難抉擇。選項 A 與文意不符；選項 B 並非文章主張，而是作者提出的爭議點；選項 D 錯誤，因為文章明確提到了澳洲的案例，顯示這是全球性的問題。"
     }
   ],
   "aiGenerated": true,
