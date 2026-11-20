@@ -1,0 +1,144 @@
+{
+  "id": "2026-11-20-ai-data-centers-and-environmental-impact",
+  "slug": "ai-data-centers-and-environmental-impact-nov-2026",
+  "publishedAt": "2026-11-20T03:09:15.237166Z",
+  "category": "technology",
+  "title": "The Hidden Energy Cost of the AI Boom",
+  "subtitle": "New reports show that the rapid growth of artificial intelligence is creating a massive demand for electricity and increasing carbon emissions.",
+  "summary": {
+    "en": "The International Energy Agency warns that data centers will use twice as much electricity by 2030. Much of this growth is driven by the rapid expansion of artificial intelligence. While companies are buying renewable energy, they are also relying heavily on fossil fuels like coal and gas. The US and China are expected to see the largest increases in carbon emissions from this sector. Experts say the global energy market is changing permanently due to these new demands.",
+    "zh": "國際能源總署警告，到二〇三〇年，資料中心的用電量將增加一倍，而這波成長主要由人工智慧的快速擴張所驅動。儘管企業正採購再生能源，但同時也高度依賴煤炭與天然氣等化石燃料。預計美國與中國將成為該產業碳排放增幅最大的國家。專家表示，由於這些新需求，全球能源市場正發生永久性的改變。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The world is currently experiencing a massive boom in artificial intelligence (AI). From chatbots to complex data analysis, AI is changing how we work and live. However, this technology requires enormous amounts of computing power. Behind every AI tool is a 'data center'—a large building filled with thousands of powerful computers that process information. According to a new report from the International Energy Agency (IEA), these data centers are now consuming so much electricity that they are creating a significant environmental challenge.",
+      "zh": "全球目前正經歷人工智慧（AI）的蓬勃發展。從聊天機器人到複雜的數據分析，人工智慧正在改變我們的生活與工作方式。然而，這項技術需要龐大的運算能力。每一項人工智慧工具背後都有一個「資料中心」，這是一棟裝滿數千台高效能電腦、負責處理資訊的大型建築。根據國際能源總署（IEA）的一份新報告，這些資料中心目前的電力消耗量極大，已造成嚴峻的環境挑戰。"
+    },
+    {
+      "id": "p2",
+      "en": "The IEA, which acts as a global watchdog for energy, warns that data centers will use twice as much electricity by 2030 compared to today. The agency noted that the rapid growth of AI is responsible for three-quarters of this increase. To understand the scale of this demand, the IEA pointed out that within four years, AI data centers will require an extra 350 terawatt-hours of electricity every year. This amount is more than the total annual electricity consumption of Great Britain. The agency based these findings on the rapid rise in AI server shipments, which have increased eighteen times since 2020, and satellite images showing the construction of 93 large 'AI factories' around the world.",
+      "zh": "身為全球能源監管機構的國際能源總署警告，到二〇三〇年，資料中心的用電量將是今日的兩倍。該署指出，人工智慧的快速成長是導致用電量增加的主因，佔了增幅的四分之三。為了讓人們理解這項需求的規模，國際能源總署指出，四年內人工智慧資料中心每年將額外需要三百五十太瓦時的電力，這相當於英國全國每年的總用電量。該署的結論是基於人工智慧伺服器出貨量的快速攀升（自二〇二〇年以來已成長十八倍），以及衛星影像顯示全球各地正在興建九十三座大型「人工智慧工廠」。"
+    },
+    {
+      "id": "p3",
+      "en": "As these data centers grow, they need reliable power sources to stay running 24 hours a day. While many developers are buying renewable energy—energy from natural sources like wind and sun that do not run out—the demand is growing faster than green energy can be built. Consequently, the industry is turning to fossil fuels, such as coal and gas, to fill the gap. The IEA report suggests that this shift will cause carbon emissions from the data center sector to rise by 70% by 2030.",
+      "zh": "隨著這些資料中心不斷擴張，它們需要可靠的電力來源以維持二十四小時運作。雖然許多開發商正積極採購再生能源（即來自風力與太陽能等不會耗盡的自然資源），但需求的成長速度已超過綠能建設的速度。因此，產業界正轉向煤炭與天然氣等化石燃料來填補缺口。國際能源總署的報告顯示，這種轉變將導致資料中心產業的碳排放量在二〇三〇年前增加百分之七十。"
+    },
+    {
+      "id": "p4",
+      "en": "The situation varies significantly by region. In China, the IEA expects that about half of the electricity for AI data centers will come from coal power plants by the end of the decade. Meanwhile, the United States is moving toward a heavy reliance on natural gas. The agency reported that there were plans for about 180 gigawatts of new gas-fired power plants linked to US data centers as of August this year. This is a massive amount of new energy capacity, nearly equal to all the gas power currently installed across the entire European Union.",
+      "zh": "各地區的情況差異顯著。國際能源總署預計，到本世紀末，中國的人工智慧資料中心約有一半的電力將來自燃煤電廠。與此同時，美國則傾向高度依賴天然氣。該署報告指出，截至今年八月，美國已有約一百八十吉瓦的新建燃氣電廠計畫與資料中心掛鉤。這是一筆龐大的新增能源容量，幾乎等同於目前整個歐盟安裝的天然氣發電總量。"
+    },
+    {
+      "id": "p5",
+      "en": "In contrast, other parts of the world are taking a different path. In the European Union, the IEA expects that data centers will rely on renewable energy for about 70% of their electricity by 2030. The remaining power will come from a mix of nuclear energy, gas, and a very small amount of coal. This shows that while the growth of AI is a global trend, the environmental impact depends heavily on the energy policies of individual governments.",
+      "zh": "相較之下，世界其他地區則採取了不同的路徑。在歐盟，國際能源總署預計到二〇三〇年，資料中心約百分之七十的電力將來自再生能源。其餘電力則將由核能、天然氣以及極少量的煤炭組合而成。這顯示儘管人工智慧的成長是全球趨勢，但其對環境的影響仍高度取決於各國政府的能源政策。"
+    },
+    {
+      "id": "p6",
+      "en": "This energy challenge comes at a difficult time for the global market. The IEA stated that the world’s energy future is less certain today than it was in the past, partly due to the impact of the war in the Middle East, which the agency described as the greatest energy market disruption in history. Fatih Birol, the executive director of the IEA, said that he does not see a way for the energy world to return to how it was before. Instead, the market will be reshaped by the decisions governments make to balance the needs of a growing population, the rising demand for air conditioning, and the booming AI economy.",
+      "zh": "這項能源挑戰正值全球市場的艱難時刻。國際能源總署表示，全球能源的未來比過去更加不確定，部分原因是中東戰爭的影響，該署將其描述為史上對能源市場最大的干擾。國際能源總署執行董事法提赫·比羅爾（Fatih Birol）表示，他認為能源世界已無法回到過去的樣貌。相反地，市場將被各國政府的決策所重塑，以平衡人口成長、日益增加的空調需求，以及蓬勃發展的人工智慧經濟。"
+    },
+    {
+      "id": "p7",
+      "en": "Looking ahead, the rapid expansion of AI infrastructure is forcing a conversation about sustainability. While data center developers are among the world’s largest corporate buyers of clean energy, the IEA report highlights that their appetite for fossil fuels is growing even faster. As the world becomes more dependent on AI, the pressure on power grids will only increase. Whether the technology industry can grow without causing a major rise in carbon emissions remains a critical question for policymakers and energy experts alike. For now, the data suggests that the 'AI revolution' will require a massive transformation of how we produce and consume electricity on a global scale.",
+      "zh": "展望未來，人工智慧基礎設施的快速擴張正迫使各界展開關於永續發展的對話。雖然資料中心開發商是全球最大的清潔能源企業買家之一，但國際能源總署的報告強調，他們對化石燃料的渴求成長得更快。隨著世界對人工智慧的依賴加深，電網承受的壓力只會與日俱增。科技產業能否在不導致碳排放大幅增加的情況下成長，對於決策者與能源專家而言，仍是一個關鍵問題。目前數據顯示，「人工智慧革命」將需要全球範圍內電力生產與消費方式的巨大轉型。"
+    }
+  ],
+  "wordCount": 728,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "boom",
+      "definitionEn": "A period of sudden, rapid growth or success.",
+      "definitionZh": "繁榮、激增。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見作動詞（發出巨響），這裡作名詞，指產業的快速發展。文中：The world is currently experiencing a massive boom in artificial intelligence (AI)."
+    },
+    {
+      "term": "acts as",
+      "definitionEn": "To perform a specific role or function.",
+      "definitionZh": "擔任、充當。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這裡指該機構扮演的角色，而非字面上的「表演」。文中：The IEA, which acts as a global watchdog for energy, warns that data centers will use twice as much electricity by 2030 compared to today."
+    },
+    {
+      "term": "appetite",
+      "definitionEn": "A strong desire or demand for something.",
+      "definitionZh": "強烈的需求、渴望。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見指「食慾」，這裡比喻對能源的巨大需求。文中：While data center developers are among the world’s largest corporate buyers of clean energy, the IEA report highlights that their appetite for fossil fuels is growing even faster."
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Guardian World",
+      "url": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
+      "title": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
+      "publishedAt": "2026-11-19T05:00:18Z"
+    }
+  ],
+  "story": {
+    "id": "ai-data-centers-and-environmental-impact",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the IEA report, what specific evidence was used to estimate the future electricity demand of AI data centers?",
+      "options": {
+        "A": "A survey of energy usage in the European Union.",
+        "B": "The increase in AI server shipments and satellite photos of new construction.",
+        "C": "The total annual electricity consumption of Great Britain.",
+        "D": "A projection of how much air conditioning will be needed by 2030."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。文章第二段明確指出，IEA 的預測基礎在於 AI 伺服器出貨量自 2020 年以來成長了 18 倍，以及透過衛星影像觀察到全球各地正在興建 93 座大型「AI 工廠」。選項 A 錯誤，歐盟的數據是在後續段落提到，並非預測基礎。選項 C 是用來類比電力需求規模的例子，而非計算基礎。選項 D 雖然在第六段提到空調需求，但與計算 AI 電力需求的依據無關。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the relationship between AI development and renewable energy?",
+      "options": {
+        "A": "Renewable energy sources are currently sufficient to power the growth of AI.",
+        "B": "AI developers are intentionally avoiding renewable energy to save costs.",
+        "C": "The speed of AI growth is outpacing the current capacity to build green energy infrastructure.",
+        "D": "AI data centers will eventually stop using fossil fuels entirely by 2030."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第三段，雖然開發商正在購買再生能源，但需求成長速度超過了綠能建設的速度，導致產業轉向化石燃料。這暗示了綠能基礎設施的建設速度趕不上 AI 的擴張。選項 A 與文意相反，文中提到需求成長太快。選項 B 無法從文中推論，文中只提到開發商是清潔能源的大買家。選項 D 過於武斷，文中預測碳排放會上升，並未提到會完全停止使用化石燃料。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, the author refers to the data center developers' 'appetite for fossil fuels.' What does 'appetite' mean in this context?",
+      "options": {
+        "A": "A strong desire or demand for something.",
+        "B": "The biological need to consume food for survival.",
+        "C": "The physical capacity of a building to store fuel.",
+        "D": "A temporary interest that will soon fade away."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。在此語境下，「appetite」並非指生理上的食慾，而是引申為對某種資源（化石燃料）的強烈需求或渴望。選項 B 是該詞的字面意思，但在商業語境中不適用。選項 C 錯誤，文中並未討論燃料儲存空間。選項 D 錯誤，文中提到這種需求正在快速成長，並非短暫的興趣。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of the article regarding the rise of AI?",
+      "options": {
+        "A": "AI technology is a failure because it consumes too much electricity.",
+        "B": "The global energy market is shifting toward nuclear power as the only solution for AI.",
+        "C": "AI development is causing a global crisis that can only be solved by stopping all construction.",
+        "D": "The rapid expansion of AI creates a significant energy challenge that requires a major transformation in electricity production."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。文章整體探討了 AI 發展帶來的電力需求激增，以及這對環境和能源政策造成的壓力。結論部分明確指出，AI 革命需要全球在電力生產和消耗方式上進行大規模轉型。選項 A 過於極端，文中並未否定 AI 的價值。選項 B 不正確，文中僅提到核能是歐盟能源組合的一部分，並非唯一解。選項 C 錯誤，文中並未建議停止建設，而是強調永續發展的挑戰。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
