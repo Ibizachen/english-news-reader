@@ -1,0 +1,37 @@
+{
+  "id": "global-sustainable-urban-mobility",
+  "title": "The Global Quest for Sustainable Urban Mobility",
+  "subtitle": "Exploring the shift from car-centric infrastructure to human-centered urban design.",
+  "description": "This series examines how global cities are redesigning transit systems to reduce carbon emissions and improve quality of life. It provides a comprehensive look at the policy, technology, and social changes required to move beyond the private automobile.",
+  "category": "society",
+  "status": "active",
+  "updatedAt": "2026-11-23T08:41:33.223901Z",
+  "cadence": "5-part reading path. Complete series available.",
+  "articles": [
+    {
+      "slug": "global-sustainable-urban-mobility-part-1",
+      "label": "Part 1",
+      "note": "Explaining the historical shift toward highway expansion and the resulting urban sprawl."
+    },
+    {
+      "slug": "global-sustainable-urban-mobility-part-2",
+      "label": "Part 2",
+      "note": "Identifying the institutions and local governments leading the change."
+    },
+    {
+      "slug": "global-sustainable-urban-mobility-part-3",
+      "label": "Part 3",
+      "note": "Focusing on the explosion of e-bikes, scooters, and bike-sharing programs."
+    },
+    {
+      "slug": "global-sustainable-urban-mobility-part-4",
+      "label": "Part 4",
+      "note": "Analyzing the impact of transit changes on public health and social equality."
+    },
+    {
+      "slug": "global-sustainable-urban-mobility-part-5",
+      "label": "Part 5",
+      "note": "Discussing the future of autonomous vehicles and the funding gap for transit."
+    }
+  ]
+}
