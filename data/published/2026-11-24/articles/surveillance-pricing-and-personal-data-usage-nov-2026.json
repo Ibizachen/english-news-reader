@@ -1,0 +1,144 @@
+{
+  "id": "2026-11-24-surveillance-pricing-and-personal-data-usage",
+  "slug": "surveillance-pricing-and-personal-data-usage-nov-2026",
+  "publishedAt": "2026-11-24T05:58:32.882142Z",
+  "category": "technology",
+  "title": "The Hidden Cost of Your Data: How Companies Change Prices Just for You",
+  "subtitle": "New technology allows businesses to use your personal information to charge you more than others for the exact same products.",
+  "summary": {
+    "en": "Companies are increasingly using personal data to set individual prices for goods and services. This practice, known as surveillance pricing, uses information from your web history and devices to estimate how much you are willing to pay. It differs from dynamic pricing, which adjusts costs based on supply and demand. Experts warn that this makes it difficult for shoppers to find fair prices and manage their budgets. While some companies have stopped these practices, the issue remains a growing concern for consumer privacy.",
+    "zh": "企業正日益利用個人數據來為商品與服務設定個別價格。這種被稱為監控定價的做法，會使用來自您的網路瀏覽紀錄與裝置的資訊，來估算您願意支付的金額。這與根據供需調整成本的動態定價不同。專家警告，這使得購物者難以找到公平的價格並管理預算。儘管有些公司已經停止這些做法，但此議題仍是消費者隱私方面日益嚴重的隱憂。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "When you go to a store or visit a website, you usually expect to pay the same price as everyone else for the same item. However, a new trend in the digital world is changing this experience. This practice is called surveillance pricing. It involves companies using your personal information to decide exactly how much they can charge you. Instead of a fixed price, the cost of a product might change based on your age, your location, or your online shopping habits.",
+      "zh": "當您前往商店或瀏覽網站時，通常會預期自己與其他人購買相同商品時支付相同的價格。然而，數位世界中出現的一股新趨勢正在改變這種體驗。這種做法被稱為「監控定價」。它涉及企業利用您的個人資訊，來精確決定向您收取多少費用。產品的成本不再是固定價格，而是可能根據您的年齡、所在地點或網路購物習慣而有所變動。"
+    },
+    {
+      "id": "p2",
+      "en": "According to the Electronic Privacy Information Center (EPIC), surveillance pricing is a method where businesses use computer programs to charge different people different amounts for the same service. The main goal is to find the highest price a customer is willing to pay. By looking at data from your smart devices, apps, and web history, companies try to guess your budget and your needs. This makes it very difficult for people to know if they are getting a fair deal.",
+      "zh": "根據電子隱私資訊中心（Electronic Privacy Information Center, EPIC）的說法，監控定價是一種企業利用電腦程式，針對同一項服務向不同的人收取不同費用的方法。其主要目標是找出顧客願意支付的最高價格。透過查看來自您的智慧型裝置、應用程式和瀏覽紀錄的數據，企業試圖推測您的預算與需求。這使得人們很難判斷自己是否獲得了公平的交易。"
+    },
+    {
+      "id": "p3",
+      "en": "It is important to understand how this is different from dynamic pricing, which is a more common practice. Dynamic pricing, sometimes called surge pricing, changes costs based on market trends. For example, a ride-sharing app might charge more for a trip during a busy hour when there are few drivers available. In this case, the price goes up because of high demand, not because of who you are. Surveillance pricing, on the other hand, is more personal. It uses your private data to target you specifically, which many people find to be unfair.",
+      "zh": "了解這與更常見的「動態定價」有何不同非常重要。動態定價有時被稱為「尖峰定價」，會根據市場趨勢調整成本。例如，共乘應用程式可能會在司機較少的繁忙時段，針對同一趟行程收取較高費用。在這種情況下，價格上漲是因為需求旺盛，而非因為您的個人身分。另一方面，監控定價則更具個人化色彩。它利用您的私人數據來針對您個人進行定價，許多人認為這是不公平的。"
+    },
+    {
+      "id": "p4",
+      "en": "There have been several examples of these practices in recent years. Ars Technica reports that companies often use location data to influence what customers see. In one past case, a major retailer was accused of charging users more for a television if they checked the price while standing inside the store. In another example from 2012, a travel website was found to show more expensive hotel options to people using a specific type of computer operating system. While companies often argue about whether these actions count as surveillance pricing, they clearly show that businesses are using customer information to control the prices they show to different people.",
+      "zh": "近年來已出現多起這類做法的案例。科技新聞網站 Ars Technica 報導指出，企業經常利用位置數據來影響顧客所看到的內容。在過去的一個案例中，一家大型零售商被指控，若使用者在店內查看價格，該零售商會對他們收取較高的電視費用。在 2012 年的另一個例子中，一家旅遊網站被發現會向使用特定類型電腦作業系統的人，顯示價格較高的飯店選項。雖然企業經常爭辯這些行為是否算作監控定價，但它們清楚顯示企業正在利用顧客資訊，來控制向不同人展示的價格。"
+    },
+    {
+      "id": "p5",
+      "en": "The financial impact on families can be significant. Consumer Reports looked at the grocery delivery service Instacart in 2025. They discovered that price differences based on personal data could lead to a family spending over one thousand dollars more per year than they otherwise would. Because of this, Instacart eventually removed its surveillance pricing tools. This shows that public pressure can lead to change, but it also highlights how much money is at stake when companies use our data against us.",
+      "zh": "這對家庭造成的財務影響可能相當顯著。消費者報告（Consumer Reports）在 2025 年調查了雜貨配送服務 Instacart。他們發現，基於個人數據的價格差異，可能導致一個家庭每年多花費超過一千美元。正因如此，Instacart 最終移除了其監控定價工具。這顯示公眾壓力可以帶來改變，但也凸顯了當企業利用我們的數據來對付我們時，涉及的金額有多龐大。"
+    },
+    {
+      "id": "p6",
+      "en": "For many shoppers, this creates a feeling of uncertainty. When you cannot trust that a price is fair, it becomes much harder to budget for your needs. The goal of a store is usually to sell products, but surveillance pricing turns the shopping experience into a game where the company has all the advantages. If a company knows you are in a hurry or that you have a high income, they might show you a higher price than they would show someone else.",
+      "zh": "對於許多購物者來說，這產生了一種不確定感。當您無法信任價格是否公平時，要為自己的需求編列預算就變得困難許多。商店的目標通常是銷售產品，但監控定價將購物體驗變成了一場公司佔盡優勢的遊戲。如果公司知道您很趕時間，或是知道您的收入較高，他們可能會向您顯示比其他人更高的價格。"
+    },
+    {
+      "id": "p7",
+      "en": "Looking ahead, the debate over surveillance pricing is likely to continue. As technology becomes more advanced, companies will have even more ways to collect and analyze our personal information. While some businesses have decided to stop using these methods after receiving complaints, others may continue to use them to increase their profits. For now, the best advice for consumers is to be aware that the price they see on their screen might not be the same price someone else sees. Being a smart shopper today means understanding that your personal data has a value, and sometimes, that value is used to make you pay more.",
+      "zh": "展望未來，關於監控定價的辯論可能會持續下去。隨著科技變得更加先進，企業將有更多方式來收集與分析我們的個人資訊。雖然有些企業在收到投訴後決定停止使用這些方法，但其他企業可能會繼續使用它們來增加利潤。目前，給消費者的最佳建議是保持警覺，意識到您在螢幕上看到的價格，可能與其他人看到的並不相同。在今日成為一名聰明的購物者，意味著要了解您的個人數據具有價值，而有時，這個價值會被用來讓您支付更多費用。"
+    }
+  ],
+  "wordCount": 712,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "at stake",
+      "definitionEn": "At risk; in a situation where something valuable could be lost.",
+      "definitionZh": "處於危險中；有風險；攸關。",
+      "partOfSpeech": "idiom",
+      "noteZh": "常見於商業或談判語境，表示某事物正受到威脅或可能損失。文中：it also highlights how much money is at stake when companies use our data against us."
+    },
+    {
+      "term": "count as",
+      "definitionEn": "To be considered or regarded as something.",
+      "definitionZh": "被視為；算作。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這裡的 count 並非「計算」，而是「被歸類為」。文中：While companies often argue about whether these actions count as surveillance pricing, they clearly show that businesses are using customer information to control the prices they show to different people."
+    },
+    {
+      "term": "drive",
+      "definitionEn": "To force or cause something to happen or change.",
+      "definitionZh": "驅使；導致；推動。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（車道）或動詞（開車），這裡指推動或導致某種結果。文中：In this case, the price goes up because of high demand, not because of who you are."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/",
+      "title": "Surveillance pricing uses our personal data to make us pay more",
+      "publishedAt": "2026-11-23T20:11:43Z"
+    }
+  ],
+  "story": {
+    "id": "surveillance-pricing-and-personal-data-usage",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the article, what is one specific action a company took that was identified as a form of price manipulation?",
+      "options": {
+        "A": "A ride-sharing app increased prices during a period of very low demand.",
+        "B": "A retailer charged higher prices for a television to customers located inside their physical store.",
+        "C": "A grocery delivery service raised its prices for all customers during the year 2025.",
+        "D": "A travel website offered cheaper hotel rooms to users of a specific computer operating system."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第四段，文中明確提到一家大型零售商被指控，如果顧客在店內查看電視價格，該零售商會對其收取更高的費用。選項 A 錯誤，因為文章提到共乘軟體是在「高需求」時漲價，而非低需求。選項 C 錯誤，Instacart 是因為價格差異導致家庭多花錢，而非對「所有」顧客漲價。選項 D 錯誤，文章提到的是顯示「更貴」的選項，而非更便宜。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the difference between 'dynamic pricing' and 'surveillance pricing'?",
+      "options": {
+        "A": "Dynamic pricing is considered more unethical by consumers than surveillance pricing.",
+        "B": "Surveillance pricing relies on external market factors rather than individual user profiles.",
+        "C": "Dynamic pricing is based on broad market conditions, whereas surveillance pricing targets the individual's unique data.",
+        "D": "Companies have stopped using dynamic pricing because it is too similar to surveillance pricing."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據文章第三段，動態定價（dynamic pricing）是基於市場趨勢（如需求量），而監控定價（surveillance pricing）則是基於個人的私密資料。選項 A 無法由文中推論，且文中暗示監控定價才更讓人感到不公平。選項 B 敘述完全相反。選項 D 不正確，文中並未提到企業停止使用動態定價，僅提到監控定價因公眾壓力而受到討論。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the author mean when they say that a shopper's personal data has a 'value'?",
+      "options": {
+        "A": "The data can be used by companies to calculate how much more a customer can be charged.",
+        "B": "The data is something that customers can sell to stores for a profit.",
+        "C": "The data represents the total amount of money a customer has spent in the store.",
+        "D": "The data is a measurement of how loyal a customer is to a specific brand."
+      },
+      "correct": "A",
+      "explanationZh": "正確答案為 A。文章最後一段提到「你的個人資料具有價值，且有時該價值被用來讓你支付更多費用」，結合前文可知，公司利用這些資料（如預算、收入、購物習慣）來決定如何向你索取最高價。選項 B 錯誤，文中未提及消費者可販售資料獲利。選項 C 與 D 皆非文章所定義的「資料價值」含義，文章強調的是資料被企業利用來進行價格歧視。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary message of this article regarding surveillance pricing?",
+      "options": {
+        "A": "It is a helpful tool that allows companies to offer personalized discounts to loyal customers.",
+        "B": "It is a new technology that will eventually make all online shopping prices the same for everyone.",
+        "C": "It is a controversial practice that uses personal data to manipulate prices, creating uncertainty for shoppers.",
+        "D": "It is a temporary trend that has already been banned by most major online retailers worldwide."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。本文主旨旨在探討「監控定價」如何利用個人數據來操縱價格，導致消費者感到不確定與不公平，這是文章貫穿始終的核心論點。選項 A 錯誤，文章強調的是讓消費者多付錢，而非折扣。選項 B 錯誤，結果正好相反，價格變得不一致。選項 D 錯誤，文章提到這仍在辯論中，且並未提到已被全球大多數零售商禁止。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
