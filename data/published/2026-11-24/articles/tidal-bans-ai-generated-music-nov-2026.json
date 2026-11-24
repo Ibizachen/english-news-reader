@@ -1,0 +1,158 @@
+{
+  "id": "2026-11-24-tidal-bans-ai-generated-music",
+  "slug": "tidal-bans-ai-generated-music-nov-2026",
+  "publishedAt": "2026-11-24T22:14:04.105081Z",
+  "category": "technology",
+  "title": "Tidal to Delete Millions of AI-Generated Songs",
+  "subtitle": "The streaming platform is taking a firm stand to protect human artists from a flood of automated music.",
+  "summary": {
+    "en": "Tidal has announced a major policy change to remove all music created entirely by artificial intelligence. Starting December 9, the platform will delete millions of tracks that were made without human input. This decision follows a rapid increase in AI-generated content appearing on the service. Tidal believes these tracks harm human creators by taking away royalty payments and confusing listeners. Other streaming companies are also trying to manage the rise of AI music through labels or filters.",
+    "zh": "Tidal 宣布了一項重大政策變更，將移除所有完全由人工智慧創作的音樂。自十二月九日起，該平台將刪除數百萬首未經人類參與製作的曲目。此決定源於平台上人工智慧生成內容的快速增加。Tidal 認為這些曲目剝奪了人類創作者的版稅收入並誤導聽眾，因此造成了損害。其他串流公司也正試圖透過標籤或過濾器來管理人工智慧音樂的興起。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The music streaming world is changing rapidly as companies struggle to manage the rise of artificial intelligence. Tidal, a popular music platform, recently announced a major new policy: it will fully ban music that is created entirely by AI. This change is set to take effect on December 9. As part of this effort, the company plans to remove millions of tracks from its library that were made without any human involvement.",
+      "zh": "隨著各家公司努力應對人工智慧的興起，音樂串流世界正經歷快速變遷。熱門音樂平台 Tidal 近期宣布了一項重大新政策：將全面禁止完全由人工智慧創作的音樂。這項變革預計於十二月九日生效。作為此舉的一部分，該公司計畫從其資料庫中移除數百萬首完全沒有人類參與製作的曲目。"
+    },
+    {
+      "id": "p2",
+      "en": "This decision marks a significant shift for the company. Earlier in July 2026, Tidal introduced a policy to label AI music and stop it from earning money, known as demonetization. However, according to Ars Technica, that step was not enough to stop the massive amount of AI-generated content, often called \"AI slop,\" from flooding the platform. Tidal reports that in the last 90 days, 43 percent of all new uploads were fully created by AI. By November 6, that number had risen to 60 percent. Robert Andersen, the music lead at Tidal, explained on the social media site X that the company needed to take a more \"drastic\" measure to protect the quality of its catalog.",
+      "zh": "這項決定對該公司而言是一次重大的轉向。早在二零二六年七月，Tidal 就曾推出一項政策，旨在標記人工智慧音樂並停止其獲利，即所謂的「去營利化」。然而，根據科技新聞網站 Ars Technica 的報導，該措施不足以阻止大量被稱為「人工智慧垃圾內容」的產物湧入平台。Tidal 指出，在過去九十天內，所有新上傳的曲目中有百分之四十三完全由人工智慧創作。到了十一月六日，這一比例已攀升至百分之六十。Tidal 的音樂負責人安德森 (Robert Andersen) 在社群媒體平台 X 上解釋，公司必須採取更「激烈」的手段來維護其音樂目錄的品質。"
+    },
+    {
+      "id": "p3",
+      "en": "According to The Verge, Tidal expects to delete around 29 million songs that are identified as 100 percent AI-generated. The company also plans to reject between 80,000 and 85,000 new tracks every day. While this sounds like a huge change, Tidal noted that it will have almost no negative impact on the listening experience. The company reported that 96 percent of these AI-labeled tracks received zero plays in the last 90 days. Because these songs are rarely listened to, the platform believes removing them will not bother most users.",
+      "zh": "根據科技媒體 The Verge 報導，Tidal 預計將刪除約兩千九百萬首被認定為百分之百由人工智慧生成的歌曲。該公司也計畫每天拒絕八萬至八萬五千首新曲目。雖然這聽起來是一項巨大的變動，但 Tidal 指出，這對聽眾的聆聽體驗幾乎不會造成負面影響。該公司報告顯示，這些被標記為人工智慧生成的曲目中，有百分之九十六在過去九十天內播放次數為零。由於這些歌曲鮮少被聆聽，平台認為移除它們不會對大多數用戶造成困擾。"
+    },
+    {
+      "id": "p4",
+      "en": "There are several reasons why Tidal is taking this path. The company stated that AI models can create random noises much faster than humans can make music of real value. This can mislead listeners and take royalty payments—the money paid to artists when their music is played—away from real human creators. Additionally, there is a problem with people using AI to impersonate famous artists. Tidal says it has already removed about 66,000 tracks for pretending to be other artists, which was already against their rules.",
+      "zh": "Tidal 採取此途徑的原因有幾點。該公司表示，人工智慧模型產生隨機噪音的速度遠快於人類創作具備真正價值音樂的速度。這可能會誤導聽眾，並剝奪真實人類創作者的版稅收入（即音樂播放時支付給藝術家的費用）。此外，還存在人們利用人工智慧冒充知名藝術家的問題。Tidal 表示，該平台已經因為冒充其他藝術家而移除了約六萬六千首曲目，這類行為本就違反了他們的規定。"
+    },
+    {
+      "id": "p5",
+      "en": "It is important to note that this ban does not apply to all technology. Tidal explained that artists are still allowed to use AI tools to help them create music. As long as the final product contains human elements and is not the \"sole output\" of an AI, the music will remain on the platform. To enforce this, Tidal will use a tool called Ircam Amplify and check metadata—the hidden information attached to a digital file—to identify and reject songs that are made entirely by machines.",
+      "zh": "值得注意的是，這項禁令並非針對所有科技。Tidal 解釋，藝術家仍可使用人工智慧工具輔助創作音樂。只要最終成品包含人類元素，且並非人工智慧的「唯一產出」，該音樂就能保留在平台上。為了執行此政策，Tidal 將使用名為 Ircam Amplify 的工具，並檢查後設資料（即附加在數位檔案中的隱藏資訊），以識別並拒絕完全由機器製作的歌曲。"
+    },
+    {
+      "id": "p6",
+      "en": "Other companies are also dealing with this issue in different ways. According to The Verge, Spotify recently removed 50 million tracks from its recommendations and started using \"AI persona\" badges for artists who use AI in their identity. Meanwhile, YouTube has added labels to AI-generated music, and Apple Music is planning to do the same later this year. Some platforms, such as Deezer, are giving users the option to filter out AI music entirely, and Bandcamp has also banned AI-generated music on its site.",
+      "zh": "其他公司也正以不同方式處理此議題。根據 The Verge 報導，Spotify 近期從其推薦清單中移除了五千萬首曲目，並開始為使用人工智慧塑造身分的藝術家加上「人工智慧人格」標籤。與此同時，YouTube 已為人工智慧生成的音樂加上標籤，Apple Music 也計畫在今年稍晚跟進。部分平台如 Deezer，則提供用戶完全過濾掉人工智慧音樂的選項，而 Bandcamp 也已在其網站上禁止人工智慧生成的音樂。"
+    },
+    {
+      "id": "p7",
+      "en": "This move by Tidal is part of a larger conversation about the future of creative work. As AI technology becomes more powerful, streaming services are finding it difficult to balance innovation with the need to support human musicians. By removing millions of tracks that were never meant to be heard, Tidal is attempting to clear the clutter and ensure that royalty payments go to the people who actually write and perform the music. For now, the industry will be watching closely to see if this strict approach successfully improves the experience for both artists and fans.",
+      "zh": "Tidal 的這項舉措是關於創意工作未來更大規模討論的一部分。隨著人工智慧技術日益強大，串流服務平台發現很難在創新與支持人類音樂家的需求之間取得平衡。透過移除數百萬首從未被預期聆聽的曲目，Tidal 正試圖清理雜訊，並確保版稅能支付給真正創作與表演音樂的人。目前，業界正密切關注這項嚴格的作法是否能成功改善藝術家與粉絲的體驗。"
+    }
+  ],
+  "wordCount": 682,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "slop",
+      "definitionEn": "Low-quality, unwanted, or messy content created in large amounts.",
+      "definitionZh": "劣質、無用的內容（在此指大量產出的低品質 AI 音樂）。",
+      "partOfSpeech": "noun",
+      "noteZh": "原意指廚餘或稀軟的食物，這裡用來形容低品質的 AI 內容。文中：often called \"AI slop,\" from flooding the platform."
+    },
+    {
+      "term": "catalog",
+      "definitionEn": "A complete list or collection of items, such as songs available on a platform.",
+      "definitionZh": "目錄、清單，在此指平台上的音樂庫存。",
+      "partOfSpeech": "noun",
+      "noteZh": "常見於商業目錄或圖書館目錄，這裡指串流平台的音樂總量。文中：to protect the quality of its catalog."
+    },
+    {
+      "term": "clutter",
+      "definitionEn": "A large number of things that are not useful and make a space messy.",
+      "definitionZh": "雜亂的東西、廢棄物。",
+      "partOfSpeech": "noun",
+      "noteZh": "通常指實體空間的雜物，這裡比喻平台上無人收聽的垃圾音樂。文中：Tidal is attempting to clear the clutter and ensure that royalty payments go to the people who actually write and perform the music."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "publishedAt": "2026-11-24T17:34:34Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "title": "Tidal will start banning AI-generated music next month",
+      "publishedAt": "2026-11-24T17:17:09Z"
+    }
+  ],
+  "story": {
+    "id": "un-fails-to-regulate-killer-robots",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "red-cross-warns-against-autonomous-weapons-nov-2026",
+        "title": "The Urgent Race to Control 'Killer Robots'",
+        "publishedAt": "2026-11-22T22:14:05.642399Z",
+        "category": "technology",
+        "summaryEn": "International talks at the United Nations in Geneva have concluded without a plan for a legally binding treaty on autonomous weapons. The International Committee of the Red Cross is now warning that these systems are developing faster than global regulations. Autonomous weapons use artificial intelligence to operate without direct human supervision. Experts fear that without clear international limits, these weapons could cause even more civilian harm. The debate highlights a growing tension between rapid military innovation and the need for ethical boundaries."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "What is the primary reason Tidal decided to implement a full ban on AI-generated music rather than just demonetizing it?",
+      "options": {
+        "A": "The company wanted to align its policies with Apple Music and YouTube.",
+        "B": "The previous policy of demonetization failed to stop the rapid increase in AI-generated content flooding the platform.",
+        "C": "Tidal discovered that 96 percent of all its music was being created by AI.",
+        "D": "The company was legally required to remove 29 million songs by the end of the year."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第二段，Tidal 在 2026 年 7 月曾嘗試過標記並取消 AI 音樂的獲利（demonetization），但該措施無法阻止大量「AI 垃圾內容」湧入。選項 A 錯誤，因為文章僅提及其他平台有不同做法，並未說是為了與其一致。選項 C 數據錯誤，文章提到 96% 是指「無人收聽」的 AI 音樂，而非全站比例。選項 D 錯誤，2900 萬首是預計刪除的數量，並非法律強制要求。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Based on the text, what can be inferred about the impact of Tidal's new policy on the average listener's experience?",
+      "options": {
+        "A": "Listeners will notice a significant decrease in the variety of music available to them.",
+        "B": "The listening experience will remain largely unchanged because most of the removed tracks were never played.",
+        "C": "Users will be forced to use new filters to find human-made music.",
+        "D": "The quality of music on the platform will drop because AI-generated tracks were highly popular."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第三段，Tidal 指出 96% 的 AI 標記曲目在過去 90 天內播放次數為零，因此移除這些歌曲對大多數用戶的體驗幾乎沒有負面影響。選項 A 錯誤，因為這些歌曲根本沒人聽，移除不會影響多樣性。選項 C 錯誤，文中提到使用過濾器的是 Deezer，而非 Tidal。選項 D 錯誤，文章明確指出這些歌曲並不受歡迎，且移除目的是為了提升品質。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the phrase 'clear the clutter' in the final paragraph, what does 'clutter' refer to?",
+      "options": {
+        "A": "The technical metadata used to identify AI songs.",
+        "B": "The royalty payments that are owed to human artists.",
+        "C": "The massive volume of low-quality or unwanted AI-generated tracks.",
+        "D": "The various tools used by musicians to create their work."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。在最後一段中，clear the clutter（清理雜亂）是指移除那些「從未打算被聆聽」且佔據空間的 AI 生成內容。選項 A 錯誤，metadata 是工具而非雜亂物。選項 B 錯誤，royalty payments 是 Tidal 想保護的對象，而非想清理的雜物。選項 D 錯誤，創作工具本身並非雜亂的來源，文章支持藝術家使用 AI 輔助創作。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of this article regarding Tidal's recent policy change?",
+      "options": {
+        "A": "Tidal is banning all forms of technology to protect the traditional music industry.",
+        "B": "Tidal is leading a global movement to make AI music illegal on all streaming platforms.",
+        "C": "Tidal is taking a strict stance against fully AI-generated content to prioritize human artistry and ensure fair compensation.",
+        "D": "Tidal is struggling to compete with platforms like Spotify and needs to change its business model to survive."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。本文的核心在於探討 Tidal 如何透過禁止完全由 AI 生成的音樂，來維護平台內容品質，並確保版稅能支付給真正的音樂創作者。選項 A 錯誤，文章明確指出 AI 輔助工具仍是被允許的。選項 B 錯誤，Tidal 的政策僅適用於自身平台，並未要求全球禁用。選項 D 錯誤，文章重點在於應對 AI 挑戰，而非描述其與 Spotify 的商業競爭壓力。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
