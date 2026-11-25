@@ -1,0 +1,150 @@
+{
+  "id": "2026-11-25-spacex-authorized-to-deploy-million-satellites",
+  "slug": "spacex-authorized-to-deploy-million-satellites-nov-2026",
+  "publishedAt": "2026-11-25T22:13:33.651036Z",
+  "category": "technology",
+  "title": "SpaceX Receives Approval for Massive Satellite Network",
+  "subtitle": "The FCC has cleared the way for a new project that could change how we process data from space.",
+  "summary": {
+    "en": "The Federal Communications Commission has authorized SpaceX to launch up to one million satellites. This project, called Starmind, aims to create data centers in orbit to support artificial intelligence on Earth. SpaceX has been given until 2040 to complete the full deployment of this constellation. While the company has received regulatory support, it still faces technical and economic challenges. Other companies like Google and Blue Origin are also exploring similar space-based computing projects.",
+    "zh": "美國聯邦傳播委員會已授權太空探索科技公司發射多達一百萬顆衛星。這項名為「星智」的計畫旨在建立軌道資料中心，以支援地球上的人工智慧運算。太空探索科技公司獲准在二〇四〇年前完成整個衛星群的部署。儘管該公司已獲得監管機構的支持，但仍面臨技術與經濟上的挑戰。其他如谷歌與藍色起源等公司，也正在探索類似的太空運算計畫。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "In a major decision for the future of space technology, the Federal Communications Commission (FCC) has given SpaceX permission to launch a massive network of satellites. This project, known as Starmind, will involve up to one million satellites equipped with artificial intelligence (AI) chips. According to Ars Technica, this is an extraordinary step that could increase the total number of satellites currently in orbit by about 50 times.",
+      "zh": "在太空科技未來的一項重大決策中，美國聯邦傳播委員會（FCC）已批准太空探索科技公司（SpaceX）發射一個龐大的衛星網路。這項名為「星智」（Starmind）的計畫，將包含多達一百萬顆配備人工智慧晶片的衛星。根據科技媒體 Ars Technica 報導，這是一項非比尋常的舉措，可能會使目前在軌道上運行的衛星總數增加約五十倍。"
+    },
+    {
+      "id": "p2",
+      "en": "FCC Chairman Brendan Carr stated that the decision is designed to help the United States lead in new technology. He noted that this action is meant to create opportunities and drive investment in the country’s computing infrastructure. The announcement comes as a significant victory for SpaceX and its founder, Elon Musk, who has recently worked closely with the current administration.",
+      "zh": "聯邦傳播委員會主席卡爾（Brendan Carr）表示，這項決策旨在協助美國在尖端科技領域保持領先。他指出，此舉意在創造機會並推動國內運算基礎設施的投資。這項公告對太空探索科技公司及其創辦人馬斯克（Elon Musk）而言是一場重大勝利，馬斯克近期與現任政府密切合作。"
+    },
+    {
+      "id": "p3",
+      "en": "SpaceX plans to use these satellites as orbital data centers. The company claims that Starmind will capture solar energy in space to power AI capabilities for users on Earth. According to The Verge, the satellites will send data back to the ground using high-speed lasers that connect to the existing Starlink network. SpaceX intends to build the necessary chips for these satellites at a new facility called Terafab.",
+      "zh": "太空探索科技公司計畫將這些衛星作為軌道資料中心使用。該公司聲稱，「星智」將在太空中捕捉太陽能，為地球上的使用者提供人工智慧運算能力。根據科技媒體 The Verge 報導，這些衛星將利用連接至現有「星鏈」（Starlink）網路的高速雷射將資料傳回地面。太空探索科技公司打算在名為「Terafab」的新設施中製造這些衛星所需的晶片。"
+    },
+    {
+      "id": "p4",
+      "en": "While the FCC has approved the plan, the company has a long road ahead. The authorization gives SpaceX a 14-year period to complete the project. The company must launch its first operational satellite by 2033, reach 100,000 satellites by 2035, and finish the full constellation by 2040. Ars Technica reports that this is the most ambitious industrial project ever approved for spaceflight. However, the approval does not guarantee that the idea will be technically or economically successful. The FCC is essentially giving the company a long time to solve these difficult problems.",
+      "zh": "儘管聯邦傳播委員會已批准該計畫，但該公司仍有漫漫長路要走。這項授權給予太空探索科技公司十四年的時間來完成計畫。該公司必須在二〇三三年之前發射第一顆運作衛星，二〇三五年達到十萬顆衛星，並於二〇四〇年完成整個衛星群的部署。Ars Technica 報導稱，這是航太史上獲准執行過最雄心勃勃的工業計畫。然而，這項批准並不保證該構想在技術或經濟上能取得成功。聯邦傳播委員會本質上是給予該公司一段很長的時間來解決這些艱鉅的難題。"
+    },
+    {
+      "id": "p5",
+      "en": "There are also specific conditions regarding how the satellites will be managed at the end of their lives. SpaceX had asked for permission to move retired satellites into \"graveyard\" orbits—areas of space where old satellites are sent to avoid hitting active ones—instead of letting them burn up in the Earth's atmosphere. However, The Verge notes that the FCC has delayed this request. The agency stated that SpaceX has not yet provided enough information about its disposal plans for satellites flying above 600 kilometers.",
+      "zh": "針對衛星壽命結束後的管理方式，也有具體的條件限制。太空探索科技公司曾請求准許將退役衛星移至「墓地軌道」（即將舊衛星送往該處以避免撞擊運作中衛星的太空區域），而非讓它們在大氣層中燃燒殆盡。然而，The Verge 指出，聯邦傳播委員會已暫緩此項請求。該機構表示，太空探索科技公司尚未針對飛行在六百公里以上的衛星處置計畫提供足夠的資訊。"
+    },
+    {
+      "id": "p6",
+      "en": "SpaceX is not the only company looking toward space for computing power. Other major players are already moving in this direction. Google has recently started its own program called \"Project Suncatcher,\" which involves launching AI server satellites. According to The Verge, Google launched its first satellite for this project last month. Furthermore, Blue Origin, the company founded by Jeff Bezos, is scheduled to help launch more of these servers in 2029.",
+      "zh": "太空探索科技公司並非唯一將目光投向太空運算能力的企業。其他主要業者也已朝此方向邁進。谷歌（Google）近期啟動了名為「捕日計畫」（Project Suncatcher）的自有方案，內容涉及發射人工智慧伺服器衛星。根據 The Verge 報導，谷歌已於上個月發射了該計畫的首顆衛星。此外，由貝佐斯（Jeff Bezos）創立的藍色起源公司（Blue Origin），預計將於二〇二九年協助發射更多此類伺服器。"
+    },
+    {
+      "id": "p7",
+      "en": "This development marks a new chapter in the race to control digital infrastructure. By moving data centers into space, companies hope to gain new advantages in speed and energy efficiency. As SpaceX begins this long-term project, the world will be watching to see if the company can turn this ambitious plan into a reality. For now, the FCC has cleared the first major hurdle, but the technical challenges of maintaining one million satellites in orbit remain a significant test for the company.",
+      "zh": "這項發展標誌著爭奪數位基礎設施主導權的新篇章。透過將資料中心移至太空，企業希望在速度與能源效率上取得新優勢。隨著太空探索科技公司啟動這項長期計畫，全球都在關注該公司能否將這項宏偉藍圖化為現實。目前，聯邦傳播委員會已掃除首個重大障礙，但維持一百萬顆衛星在軌道上運作的技術挑戰，對該公司而言仍是一項嚴峻的考驗。"
+    }
+  ],
+  "wordCount": 628,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "drive",
+      "definitionEn": "To push or force something to happen or develop.",
+      "definitionZh": "推動、促使（某事發生或發展）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作「駕駛」，這裡指推動投資。文中：He noted that this action is meant to create opportunities and drive investment in the country’s computing infrastructure."
+    },
+    {
+      "term": "burn up",
+      "definitionEn": "To be destroyed by fire or extreme heat.",
+      "definitionZh": "燒毀、燃燒殆盡。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "這裡指衛星進入大氣層時因高溫而毀損。文中：SpaceX had asked for permission to move retired satellites into \"graveyard\" orbits—areas of space where old satellites are sent to avoid hitting active ones—instead of letting them burn up in the Earth's atmosphere."
+    },
+    {
+      "term": "cleared",
+      "definitionEn": "To successfully get past or overcome an obstacle.",
+      "definitionZh": "跨越、克服（障礙）。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作「清理」，這裡指克服困難或障礙。文中：For now, the FCC has cleared the first major hurdle, but the technical challenges of maintaining one million satellites in orbit remain a significant test for the company."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+      "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+      "publishedAt": "2026-11-25T18:22:38Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "publishedAt": "2026-11-25T17:44:51Z"
+    }
+  ],
+  "story": {
+    "id": "spacex-authorized-to-deploy-million-satellites",
+    "type": "standalone",
+    "previousArticles": []
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the timeline provided by the FCC, what specific requirement must SpaceX meet by the year 2035?",
+      "options": {
+        "A": "Complete the construction of the Terafab facility.",
+        "B": "Have a total of 100,000 satellites in orbit.",
+        "C": "Launch the very first operational satellite.",
+        "D": "Finish the entire one-million-satellite constellation."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第四段，FCC 給予 SpaceX 的時程表中明確指出，公司必須在 2033 年發射第一顆衛星，並在 2035 年達到 10 萬顆衛星的規模。選項 A 雖然文中提到 Terafab，但未指定 2035 年為完工期限。選項 C 是 2033 年的目標，選項 D 則是 2040 年的最終目標，故皆錯誤。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the FCC's current stance on SpaceX's satellite disposal plans?",
+      "options": {
+        "A": "The FCC fully supports the use of graveyard orbits for all SpaceX satellites.",
+        "B": "The FCC believes SpaceX is currently incapable of building the necessary satellites.",
+        "C": "The FCC requires more data before allowing SpaceX to bypass atmospheric burning for high-altitude satellites.",
+        "D": "The FCC has banned the use of graveyard orbits for any future space projects."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第五段，FCC 推遲了 SpaceX 將退役衛星送往「墓地軌道」的請求，原因是 SpaceX 對於 600 公里以上高度的衛星處理方案資訊不足。這顯示 FCC 並非全面禁止，而是要求更多資訊以進行評估。選項 A 與文意相反；選項 B 過度推論，文中僅提到技術挑戰；選項 D 誇大了 FCC 的決定，文中未提到全面禁止。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the final paragraph, what does the word 'hurdle' most likely mean in the context of the FCC's approval?",
+      "options": {
+        "A": "A physical barrier used in athletic races.",
+        "B": "A difficult problem or obstacle to be overcome.",
+        "C": "A sudden change in government policy.",
+        "D": "A financial investment required for a project."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在文中「the FCC has cleared the first major hurdle」一句中，hurdle 被用來比喻一個重大的挑戰或障礙。雖然 A 選項是該詞的字面義（跨欄），但在這裡明顯是非字面用法。選項 C 和 D 與文中提到的「審核通過」這一情境不符，無法體現「清除障礙」的語意。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "Which of the following best summarizes the main message of the article?",
+      "options": {
+        "A": "SpaceX has successfully revolutionized global internet access through the Starlink network.",
+        "B": "The FCC has banned all private companies from launching AI-powered satellites.",
+        "C": "Space companies are entering a new era of orbital computing, though significant technical and regulatory challenges remain.",
+        "D": "Google and Blue Origin are currently leading the race to build the world's first space-based data center."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。這篇文章主要探討 SpaceX 的 Starmind 計畫以及產業趨勢，強調將資料中心移往太空的願景，同時也點出 FCC 的監管與技術上的重大挑戰。選項 A 過於聚焦在既有的 Starlink；選項 B 與事實相反，FCC 批准了計畫；選項 D 雖然提到其他公司，但並未稱其為「領先者」，僅是競爭者，故 C 最能涵蓋全文核心。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
