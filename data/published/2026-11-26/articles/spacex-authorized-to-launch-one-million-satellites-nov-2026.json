@@ -1,0 +1,164 @@
+{
+  "id": "2026-11-26-spacex-authorized-to-launch-one-million-satellites",
+  "slug": "spacex-authorized-to-launch-one-million-satellites-nov-2026",
+  "publishedAt": "2026-11-26T04:07:45.264113Z",
+  "category": "technology",
+  "title": "SpaceX Receives Approval for Ambitious 'Starmind' Satellite Network",
+  "subtitle": "The FCC has cleared the way for a massive project to build data centers in space to support artificial intelligence.",
+  "summary": {
+    "en": "The Federal Communications Commission has authorized SpaceX to launch up to one million satellites into orbit. The project, known as Starmind, aims to create space-based data centers to power artificial intelligence. These satellites will use solar energy to process data and send results back to Earth using high-speed lasers. While the project promises to solve energy issues for AI on the ground, experts have raised concerns about space debris. SpaceX has until 2040 to complete this massive industrial project.",
+    "zh": "美國聯邦傳播委員會已授權 SpaceX 發射多達一百萬顆衛星進入軌道。這項名為「星智」的計畫旨在建立太空資料中心，為人工智慧提供動力。這些衛星將利用太陽能處理資料，並透過高速雷射將結果傳回地球。雖然該計畫有望解決地面人工智慧的能源問題，但專家對太空垃圾表示擔憂。SpaceX 必須在二〇四〇年前完成這項龐大的工業計畫。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "In a major decision announced this week, the Federal Communications Commission (FCC) has granted SpaceX permission to launch up to one million satellites into space. This project, called Starmind, is designed to function as a series of orbital data centers. According to the BBC, this is the first time the agency has approved such a large-scale constellation of AI-equipped satellites. If the company completes the full deployment, it would increase the total number of satellites currently in orbit by approximately 50 times.",
+      "zh": "在本週宣布的一項重大決策中，美國聯邦傳播委員會（FCC）已批准太空探索科技公司（SpaceX）發射多達一百萬顆衛星進入太空。這項名為「星智」（Starmind）的計畫，旨在作為一系列軌道資料中心運作。根據英國廣播公司（BBC）報導，這是該機構首次批准如此大規模、配備人工智慧的衛星群。若該公司完成全面部署，將使目前在軌道上的衛星總數增加約五十倍。"
+    },
+    {
+      "id": "p2",
+      "en": "SpaceX founder Elon Musk described the project as a significant asset for both the United States and the world. The company plans to use these satellites to capture solar energy in space, which will then power the processing of artificial intelligence data. Once the data is processed, the satellites will send the results back to Earth using high-speed lasers that connect to the existing Starlink network. According to The Verge, SpaceX intends to produce the necessary chips for these satellites at a new facility called Terafab.",
+      "zh": "SpaceX 創辦人伊隆·馬斯克（Elon Musk）形容此計畫對美國乃至全世界而言，都是一項重要的資產。該公司計畫利用這些衛星在太空中獲取太陽能，進而為人工智慧資料處理提供動力。一旦資料處理完畢，衛星將透過連接現有星鏈（Starlink）網路的高速雷射，將結果傳回地球。根據科技媒體 The Verge 報導，SpaceX 打算在名為「Terafab」的新設施中，生產這些衛星所需的晶片。"
+    },
+    {
+      "id": "p3",
+      "en": "This regulatory approval is a major step forward for SpaceX, which has been working closely with the current U.S. administration. The FCC Chairman, Brendan Carr, stated that the project supports the country’s growing \"super intelligence economy.\" He noted that this action creates a new frontier for the computing infrastructure needed to maintain American leadership in technology. The project is being presented as a way to help the world reach a higher level of energy use, with the FCC mentioning that it could help humanity better harness the power of the sun.",
+      "zh": "這項監管批准對 SpaceX 而言是一大進展，該公司一直與現任美國政府密切合作。聯邦傳播委員會主席布蘭登·卡爾（Brendan Carr）表示，此計畫支持了該國日益成長的「超級智慧經濟」。他指出，此舉為維持美國科技領先地位所需的運算基礎設施開闢了新領域。該計畫被視為協助全球達到更高能源使用層次的方式，聯邦傳播委員會提到，這可能有助於人類更妥善地運用太陽能。"
+    },
+    {
+      "id": "p4",
+      "en": "There are practical reasons for moving data centers into space. On Earth, data centers are large, consume massive amounts of electricity, and require significant water for cooling. As reported by the BBC, many local communities in the United States have started to push back against the construction of these facilities on the ground. Because of these challenges, companies like SpaceX, Google, and Blue Origin are looking to space as a greener alternative for the growing demand for AI computing power.",
+      "zh": "將資料中心移往太空有其現實考量。在地球上，資料中心規模龐大，消耗大量電力，且需要大量水資源進行冷卻。據 BBC 報導，美國許多地方社區已開始反對在地面興建這些設施。由於這些挑戰，SpaceX、Google 與藍色起源（Blue Origin）等公司正將目光轉向太空，視其為滿足日益成長的人工智慧運算需求之更環保的替代方案。"
+    },
+    {
+      "id": "p5",
+      "en": "Despite the excitement, the project faces significant technical and economic hurdles. The FCC has set a long timeline for the company to complete its work. SpaceX must launch at least one operational satellite by 2033, reach 10% of its goal by 2035, and complete the full million-satellite network by 2040. According to Ars Technica, this 14-year period gives the company a wide \"regulatory runway\" to solve the many difficult problems associated with building and maintaining such a massive system in orbit.",
+      "zh": "儘管各界感到振奮，該計畫仍面臨重大的技術與經濟障礙。聯邦傳播委員會為該公司設定了漫長的完成時程。SpaceX 必須在二〇三三年之前發射至少一顆運作中的衛星，在二〇三五年達到目標的百分之十，並在二〇四〇年完成百萬衛星網路的全面部署。根據科技網站 Ars Technica 報導，這十四年的期間給予該公司寬裕的「監管緩衝期」，以解決在軌道上建造並維護如此龐大系統所帶來的諸多棘手問題。"
+    },
+    {
+      "id": "p6",
+      "en": "Not everyone is convinced that the project will be easy to complete. Experts have warned that launching and maintaining hardware in space remains extremely expensive. Furthermore, the infrastructure needed to keep these satellites cool and powered is very complex. There is also the growing risk of space debris—small pieces of broken or old satellites that can hit other objects in orbit. Because of these safety concerns, the FCC has not yet agreed to all of SpaceX’s requests. For example, the agency denied the company’s plan to leave retired satellites in \"graveyard\" orbits above 600 kilometers, stating that SpaceX did not provide enough information on how it would safely dispose of them.",
+      "zh": "並非所有人都認為該計畫能輕易達成。專家警告，在太空中發射與維護硬體設備依然極其昂貴。此外，維持這些衛星冷卻與供電所需的基礎設施非常複雜。太空垃圾的風險也日益增加，即那些可能撞擊軌道上其他物體的破碎或廢棄衛星殘骸。由於這些安全疑慮，聯邦傳播委員會尚未同意 SpaceX 的所有請求。例如，該機構否決了該公司將退役衛星留在六百公里以上「墳場」軌道的計畫，理由是 SpaceX 未提供足夠的資訊，說明將如何安全地處置這些衛星。"
+    },
+    {
+      "id": "p7",
+      "en": "While SpaceX is the first to receive approval for such a large network, it is not the only company interested in this technology. Google has already launched a test satellite for its own \"Project Suncatcher,\" and Blue Origin is preparing to support similar launches in the coming years. As the demand for AI continues to rise, the race to build computing power in space is likely to become a major focus for the technology industry. For now, the world will be watching to see if SpaceX can turn this ambitious plan into a reality over the next two decades.",
+      "zh": "雖然 SpaceX 是首家獲得如此大規模網路批准的公司，但並非唯一對此技術感興趣的企業。Google 已經為其自有的「捕日計畫」（Project Suncatcher）發射了一顆測試衛星，而藍色起源也正準備在未來幾年支援類似的發射任務。隨著人工智慧需求持續攀升，在太空中建立運算能力的競賽，極可能成為科技產業的主要焦點。目前，全世界都在關注 SpaceX 是否能在未來二十年內，將這項雄心勃勃的計畫化為現實。"
+    }
+  ],
+  "wordCount": 712,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "push back",
+      "definitionEn": "To express strong disagreement or opposition to a plan or proposal.",
+      "definitionZh": "反對、抵制（某個計畫或提議）。",
+      "partOfSpeech": "phrasal verb",
+      "noteZh": "常見作名詞（推力），這裡作動詞片語，表示反對。文中：many local communities in the United States have started to push back against the construction of these facilities on the ground."
+    },
+    {
+      "term": "runway",
+      "definitionEn": "The amount of time or resources available to complete a project before a deadline or funding runs out.",
+      "definitionZh": "（比喻用法）完成計畫所需的緩衝時間或資源。",
+      "partOfSpeech": "noun (metaphorical)",
+      "noteZh": "常見作機場跑道，這裡比喻計畫的執行期限。文中：According to Ars Technica, this 14-year period gives the company a wide \"regulatory runway\" to solve the many difficult problems associated with building and maintaining such a massive system in orbit."
+    },
+    {
+      "term": "turn",
+      "definitionEn": "To change something into something else; to transform.",
+      "definitionZh": "使……變成……；轉化。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作轉彎，這裡與 into 連用表示轉化成某種結果。文中：For now, the world will be watching to see if SpaceX can turn this ambitious plan into a reality over the next two decades."
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+      "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+      "publishedAt": "2026-11-25T18:22:38Z"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "publishedAt": "2026-11-25T17:44:51Z"
+    },
+    {
+      "name": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "title": "US approves SpaceX plan to send a million data satellites to space",
+      "publishedAt": "2026-11-26T00:07:51Z"
+    }
+  ],
+  "story": {
+    "id": "spacex-authorized-to-deploy-million-satellites",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "spacex-authorized-to-deploy-million-satellites-nov-2026",
+        "title": "SpaceX Receives Approval for Massive Satellite Network",
+        "publishedAt": "2026-11-25T22:13:33.651036Z",
+        "category": "technology",
+        "summaryEn": "The Federal Communications Commission has authorized SpaceX to launch up to one million satellites. This project, called Starmind, aims to create data centers in orbit to support artificial intelligence on Earth. SpaceX has been given until 2040 to complete the full deployment of this constellation. While the company has received regulatory support, it still faces technical and economic challenges. Other companies like Google and Blue Origin are also exploring similar space-based computing projects."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the FCC's requirements, what specific milestone must SpaceX achieve by the year 2035?",
+      "options": {
+        "A": "Complete the construction of the Terafab facility.",
+        "B": "Successfully deploy 10% of the total planned satellite network.",
+        "C": "Launch the first operational satellite into orbit.",
+        "D": "Establish a laser connection with the existing Starlink network."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。根據文章第五段，FCC 設定的時程表明確指出 SpaceX 必須在 2035 年前達到其目標的 10%。選項 A 雖然文中提到 Terafab，但未說明其完成期限；選項 C 是 2033 年的目標，而非 2035 年；選項 D 則是技術運作方式，非特定里程碑。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "Why might local communities on Earth be supportive of SpaceX's plan to move data centers into space?",
+      "options": {
+        "A": "Because space-based data centers will provide free internet access to local residents.",
+        "B": "Because space-based data centers will reduce the amount of space debris orbiting the Earth.",
+        "C": "Because local communities are concerned about the environmental impact of ground-based data centers.",
+        "D": "Because the new Terafab facility will create thousands of jobs in local neighborhoods."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案為 C。根據第四段，地球上的數據中心消耗大量電力與水資源進行冷卻，導致許多地方社區反對其建設。因此，將數據中心移往太空被視為一種更環保的替代方案，這暗示了社區對減少地面設施建設的支持。選項 A 文中未提及；選項 B 與文中提到的太空垃圾問題矛盾；選項 D 雖提及 Terafab，但與社區反對地面數據中心的原因無關。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the fifth paragraph, what does the phrase 'regulatory runway' most likely mean?",
+      "options": {
+        "A": "A specific flight path for launching satellites into orbit.",
+        "B": "The amount of time allowed by authorities to meet project requirements.",
+        "C": "The financial budget allocated by the government for space research.",
+        "D": "A legal restriction that prevents companies from launching too quickly."
+      },
+      "correct": "B",
+      "explanationZh": "正確答案為 B。在文中，「regulatory runway」用來描述 14 年的期限，讓 SpaceX 有足夠的時間解決技術與維護問題。這是一種隱喻用法，意指法規給予的緩衝時間或空間。選項 A 是字面上的誤解；選項 C 與資金無關；選項 D 雖然與法規有關，但該詞在此處強調的是「時間的寬裕」而非「限制」。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the primary focus of the article regarding the Starmind project?",
+      "options": {
+        "A": "To explain the technical process of how solar energy powers AI chips in space.",
+        "B": "To criticize the FCC for approving a project that increases space debris.",
+        "C": "To describe the competitive rivalry between SpaceX, Google, and Blue Origin.",
+        "D": "To discuss the approval, potential benefits, and significant challenges of moving AI computing to space."
+      },
+      "correct": "D",
+      "explanationZh": "正確答案為 D。本文全面探討了 SpaceX 獲得 FCC 批准的背景、該計畫對能源與科技的潛在好處（如綠色替代方案），以及面臨的技術、經濟與安全挑戰。選項 A 過於狹隘，僅涵蓋部分技術細節；選項 B 雖然提到安全疑慮，但並非文章主旨；選項 C 僅在結尾簡短提及，並非全文核心。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
