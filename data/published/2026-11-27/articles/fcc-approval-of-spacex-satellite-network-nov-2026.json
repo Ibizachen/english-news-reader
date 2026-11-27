@@ -1,0 +1,177 @@
+{
+  "id": "2026-11-27-fcc-approval-of-spacex-satellite-network",
+  "slug": "fcc-approval-of-spacex-satellite-network-nov-2026",
+  "publishedAt": "2026-11-27T04:13:15.713111Z",
+  "category": "technology",
+  "title": "SpaceX Receives Approval for Massive Satellite Network to Power AI",
+  "subtitle": "The FCC has cleared the way for a million-satellite project, sparking debate over technical feasibility and the future of the night sky.",
+  "summary": {
+    "en": "US regulators have officially approved SpaceX's plan to launch one million satellites into Earth's orbit. Known as Starmind, the project aims to build data centers in space to support artificial intelligence. Supporters believe this will help meet the world's growing demand for computing power. However, scientists and rival companies have raised concerns about the project's technical challenges and environmental impact. The company must begin its deployment by 2033 to meet the new federal requirements.",
+    "zh": "美國監管機構已正式批准太空探索科技公司的計畫，將一百萬顆衛星發射至地球軌道。這項名為「星智」的計畫旨在太空中建立資料中心，以支援人工智慧發展。支持者認為這將有助於滿足全球對運算能力日益增長的需求。然而，科學家與競爭對手對該計畫的技術挑戰與環境影響提出了疑慮。該公司必須在二零三三年開始部署，以符合聯邦政府的新規定。"
+  },
+  "paragraphs": [
+    {
+      "id": "p1",
+      "en": "The United States Federal Communications Commission (FCC) has officially given SpaceX the green light to launch one million satellites into Earth's orbit. This project, known as Starmind, represents a major step in the company's goal to build data centers in space. These orbital facilities are designed to use solar energy to process massive amounts of data for artificial intelligence (AI), sending the results back to Earth to support what officials call a \"super intelligence economy.\"",
+      "zh": "美國聯邦傳播委員會（FCC）已正式批准太空探索科技公司（SpaceX）將一百萬顆衛星發射至地球軌道。這項名為「星智」（Starmind）的計畫，是該公司邁向在太空中建立資料中心目標的重要一步。這些軌道設施旨在利用太陽能處理人工智慧（AI）所需的巨量資料，並將運算結果傳回地球，以支援官方所謂的「超級智慧經濟」。"
+    },
+    {
+      "id": "p2",
+      "en": "According to the FCC, this authorization is a historic first. FCC Chairman Brendan Carr stated that the project will help America lead in advanced technology and expand economic growth. Elon Musk, the owner of SpaceX, welcomed the news on social media, describing the project as a great asset for both the United States and the world. Under the new license, SpaceX is required to begin launching these satellites no later than November 2033, with a requirement to have 50% of the network in place by 2038.",
+      "zh": "根據聯邦傳播委員會的說法，這項授權是歷史首例。委員會主席卡爾（Brendan Carr）表示，該計畫將有助於美國在先進技術領域保持領先，並擴大經濟成長。太空探索科技公司創辦人馬斯克（Elon Musk）在社群媒體上對此消息表示歡迎，稱該計畫對美國乃至全世界而言都是一項重大資產。根據這項新許可，太空探索科技公司必須在二零三三年十一月前開始發射這些衛星，並須在二零三八年前完成百分之五十的網路部署。"
+    },
+    {
+      "id": "p3",
+      "en": "While the government sees this as a bold move, the decision has faced significant criticism from various groups. Rival companies, including Amazon, have questioned the reality of the plan, suggesting it is more of a \"lofty ambition\" than a concrete strategy. Meanwhile, experts in the scientific community have expressed alarm. The American Astronomical Society (AAS) stated it was \"disheartened and dismayed\" by the decision, warning that such a large number of satellites would significantly block the view of the night sky and damage decades of investment in astronomical research.",
+      "zh": "儘管政府將此視為一項大膽的舉措，但這項決定也面臨各界的強烈批評。包括亞馬遜（Amazon）在內的競爭對手質疑該計畫的可行性，認為這更像是「空談的野心」而非具體的策略。同時，科學界專家也表達了擔憂。美國天文學會（AAS）表示對此決定感到「失望與沮喪」，並警告如此龐大數量的衛星將嚴重遮蔽夜空視野，並損害數十年來在天文研究上的投入。"
+    },
+    {
+      "id": "p4",
+      "en": "Technical experts also remain skeptical about the project's success. Prof. Sir Martin Sweeting, founder of Surrey Satellite Technology Ltd, noted that while the idea is technically possible, it is unclear if it makes sense at a large scale. He pointed out that the system would rely on laser links to send data between space and the ground, a technology that has not yet been perfected to handle the high volume of information required for modern AI.",
+      "zh": "技術專家對於該計畫能否成功仍持懷疑態度。薩里衛星技術公司（Surrey Satellite Technology Ltd）創辦人史威廷爵士（Sir Martin Sweeting）指出，雖然這個構想在技術上可行，但大規模實施是否合理仍不明確。他指出，該系統將依賴雷射連結在太空與地面之間傳輸資料，而這項技術尚未成熟到足以處理現代人工智慧所需的高流量資訊。"
+    },
+    {
+      "id": "p5",
+      "en": "Environmental and physical concerns were also raised by astrophysicist Adam Becker, who described the plan as a \"fantasy.\" He explained that space is a vacuum, which makes it very difficult for machines to release heat. Since data centers produce a lot of heat, these satellites might struggle to function without overheating. Furthermore, Becker warned that launching so many objects increases the risk of collisions in space. Such accidents could create a \"cloud of debris\"—broken pieces of metal and equipment—that could damage other important satellites used for weather and communication.",
+      "zh": "天體物理學家貝克（Adam Becker）也提出了環境與物理層面的疑慮，他形容這項計畫簡直是「幻想」。他解釋說，太空是真空環境，這使得機器散熱變得極為困難。由於資料中心會產生大量熱能，這些衛星若無法有效散熱，恐難以運作。此外，貝克警告發射如此多的物體會增加太空碰撞的風險。這類事故可能產生「碎片雲」，即破碎的金屬與設備殘骸，進而損害其他用於氣象與通訊的重要衛星。"
+    },
+    {
+      "id": "p6",
+      "en": "In its official ruling, the FCC addressed some of these concerns by stating that the Starmind project follows current rules regarding space debris. The regulator acknowledged receiving many public comments and petitions to deny the request but concluded that the project serves the \"public interest.\" The FCC also noted that it did not have the authority to rule on certain environmental concerns raised by the public, such as the impact of rocket launches on the atmosphere.",
+      "zh": "聯邦傳播委員會在正式裁決中回應了部分疑慮，聲明「星智」計畫符合現行關於太空碎片的規範。監管機構承認收到許多公眾意見與要求否決該申請的請願，但最終認定該計畫符合「公眾利益」。委員會也指出，對於公眾提出的部分環境疑慮，例如火箭發射對大氣層的影響，該委員會並無裁決權限。"
+    },
+    {
+      "id": "p7",
+      "en": "This approval comes at a time when there is growing debate on Earth regarding the environmental cost of data centers. Large computing warehouses on the ground require vast amounts of electricity and water for cooling, leading to public opposition in some areas. Supporters of the space-based approach argue that moving these centers into orbit could help solve these problems by using the cold environment of space and unlimited solar energy. However, as the industry looks toward the future, the gap between the vision of \"orbital computing\" and the practical challenges of space engineering remains wide.",
+      "zh": "這項批准正值全球對於資料中心環境成本的辯論日益激烈之際。地面的大型運算倉庫需要消耗大量電力與水資源進行冷卻，在某些地區引發了公眾反對。太空方案的支持者主張，將這些中心移至軌道上，利用太空的低溫環境與無限的太陽能，或許能解決這些問題。然而，隨著產業展望未來，「軌道運算」的願景與太空工程的實際挑戰之間，仍存在巨大的鴻溝。"
+    },
+    {
+      "id": "p8",
+      "en": "As SpaceX prepares for the first launch of a Starmind satellite, which is expected to take place next year, the world will be watching closely. Whether the project will truly revolutionize AI or become a source of space junk is a question that will likely be debated for years to come. For now, the company has the legal permission it needs to begin building its massive network, setting the stage for a new era in space technology.",
+      "zh": "隨著太空探索科技公司準備進行「星智」衛星的首次發射（預計於明年進行），全世界都將密切關注。該計畫究竟會徹底改變人工智慧，還是成為太空垃圾的來源，這類問題恐怕在未來幾年內都將持續引發爭論。目前，該公司已取得建立龐大網路所需的法律許可，為太空技術的新時代揭開了序幕。"
+    }
+  ],
+  "wordCount": 732,
+  "readingLevel": "B1-B2",
+  "keyTerms": [
+    {
+      "term": "green light",
+      "definitionEn": "Official permission to proceed with a project or plan.",
+      "definitionZh": "許可、准許（進行某事）。",
+      "partOfSpeech": "noun (idiom)",
+      "noteZh": "字面意思是綠燈，這裡指獲得批准。文中：The United States Federal Communications Commission (FCC) has officially given SpaceX the green light to launch one million satellites into Earth's orbit."
+    },
+    {
+      "term": "block",
+      "definitionEn": "To obstruct or prevent something from being seen or moving through a space.",
+      "definitionZh": "阻擋、遮擋。",
+      "partOfSpeech": "verb",
+      "noteZh": "常見作名詞（街區、積木），這裡作動詞用。文中：warning that such a large number of satellites would significantly block the view of the night sky and damage decades of investment in astronomical research."
+    },
+    {
+      "term": "setting the stage",
+      "definitionEn": "To prepare the conditions for something to happen or develop.",
+      "definitionZh": "為某事做好準備、鋪路。",
+      "partOfSpeech": "idiom",
+      "noteZh": "源自戲劇術語，指為演出準備舞台，引申為創造條件。文中：For now, the company has the legal permission it needs to begin building its massive network, setting the stage for a new era in space technology."
+    }
+  ],
+  "sources": [
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+      "publishedAt": "2026-11-26T09:27:44Z"
+    },
+    {
+      "name": "NPR News",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space",
+      "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+      "publishedAt": "2026-11-26T06:53:09Z"
+    }
+  ],
+  "story": {
+    "id": "spacex-authorized-to-deploy-million-satellites",
+    "type": "update",
+    "previousArticles": [
+      {
+        "slug": "fcc-approval-of-spacex-satellite-network-nov-2026",
+        "title": "SpaceX Receives Approval for Massive Satellite Network",
+        "publishedAt": "2026-11-26T22:13:40.452813Z",
+        "category": "technology",
+        "summaryEn": "US regulators have officially approved a plan by SpaceX to launch one million satellites into orbit. The project, called Starmind, aims to create space-based data centers to support artificial intelligence. Supporters believe this will help meet the growing demand for computing power. However, many scientists and industry rivals have expressed strong concerns about the plan. The project faces significant technical challenges and potential environmental risks."
+      },
+      {
+        "slug": "spacex-authorized-to-launch-one-million-satellites-nov-2026",
+        "title": "SpaceX Receives Approval for Ambitious 'Starmind' Satellite Network",
+        "publishedAt": "2026-11-26T04:07:45.264113Z",
+        "category": "technology",
+        "summaryEn": "The Federal Communications Commission has authorized SpaceX to launch up to one million satellites into orbit. The project, known as Starmind, aims to create space-based data centers to power artificial intelligence. These satellites will use solar energy to process data and send results back to Earth using high-speed lasers. While the project promises to solve energy issues for AI on the ground, experts have raised concerns about space debris. SpaceX has until 2040 to complete this massive industrial project."
+      },
+      {
+        "slug": "spacex-authorized-to-deploy-million-satellites-nov-2026",
+        "title": "SpaceX Receives Approval for Massive Satellite Network",
+        "publishedAt": "2026-11-25T22:13:33.651036Z",
+        "category": "technology",
+        "summaryEn": "The Federal Communications Commission has authorized SpaceX to launch up to one million satellites. This project, called Starmind, aims to create data centers in orbit to support artificial intelligence on Earth. SpaceX has been given until 2040 to complete the full deployment of this constellation. While the company has received regulatory support, it still faces technical and economic challenges. Other companies like Google and Blue Origin are also exploring similar space-based computing projects."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "detail",
+      "question": "According to the FCC's requirements for the Starmind project, what is the deadline for SpaceX to have half of its satellite network operational?",
+      "options": {
+        "A": "November 2033",
+        "B": "November 2038",
+        "C": "The year 2038",
+        "D": "The year 2033"
+      },
+      "correct": "C",
+      "explanationZh": "正確答案是 C。根據文章第二段，SpaceX 必須在 2033 年 11 月前開始發射，並要求在 2038 年前完成 50% 的網路部署。選項 A 是開始發射的期限，而非完成 50% 的期限。選項 B 雖然年份正確，但文中並未限定在「11 月」，僅提到 2038 年。選項 D 則是搞混了開始與完成的時間點。"
+    },
+    {
+      "id": "q2",
+      "type": "inference",
+      "question": "What can be inferred about the environmental impact of moving data centers to space compared to keeping them on Earth?",
+      "options": {
+        "A": "Space-based data centers will definitely solve the problem of water consumption.",
+        "B": "The move is universally supported by environmentalists due to the use of solar energy.",
+        "C": "Moving to space replaces terrestrial cooling issues with new challenges like heat dissipation and orbital debris.",
+        "D": "The FCC has fully addressed and resolved all environmental concerns regarding the project."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案是 C。文章第七段提到空間運算利用太陽能與寒冷環境，但第五段與第七段同時指出，太空真空環境導致散熱困難，且可能產生太空垃圾。選項 A 過於絕對，文中僅提到這是一種潛在優勢。選項 B 錯誤，因為科學界對此計畫持保留態度。選項 D 錯誤，文章第六段明確指出 FCC 無權處理某些環境問題。"
+    },
+    {
+      "id": "q3",
+      "type": "vocabulary",
+      "question": "In the third paragraph, the word 'lofty' in the phrase 'lofty ambition' most likely means:",
+      "options": {
+        "A": "Physically high above the ground",
+        "B": "Impressive but perhaps unrealistic",
+        "C": "Arrogant and condescending",
+        "D": "Carefully planned and detailed"
+      },
+      "correct": "B",
+      "explanationZh": "正確答案是 B。在此語境下，競爭對手將 SpaceX 的計畫稱為「lofty ambition」，意指其目標雖然宏大且崇高，但缺乏具體策略，顯得不切實際。選項 A 是字面意思，但在這裡不合邏輯。選項 C 與 D 皆非此處形容詞的意涵，競爭對手主要是質疑其可行性而非單純批評態度或規劃細節。"
+    },
+    {
+      "id": "q4",
+      "type": "main_idea",
+      "question": "What is the central message of the article regarding the Starmind project?",
+      "options": {
+        "A": "The FCC has made a mistake by approving a project that will inevitably destroy the night sky.",
+        "B": "SpaceX is guaranteed to revolutionize the AI industry through its innovative orbital data centers.",
+        "C": "The project represents a significant regulatory milestone that is balanced by serious technical and environmental skepticism.",
+        "D": "Elon Musk's vision for space technology is the primary reason for the current growth in the American economy."
+      },
+      "correct": "C",
+      "explanationZh": "正確答案是 C。文章全面探討了 FCC 的批准（里程碑），同時平衡地呈現了來自科學界、競爭對手與技術專家的質疑（技術挑戰與環境風險）。選項 A 與 B 皆過於偏頗，文章並未斷言計畫的成敗。選項 D 僅是文中提到的一小部分背景，並非整篇文章的主旨。"
+    }
+  ],
+  "aiGenerated": true,
+  "aiModel": "gemini/gemini-3.1-flash-lite",
+  "aiDisclaimer": "本文由 AI 綜合多家報導生成，事實請以原始來源為準。"
+}
